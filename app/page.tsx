@@ -110,7 +110,7 @@ function ConferenceCard({
           <span
             className={
               'status ' +
-              (status === '征稿中'
+              (status === '有投稿日期'
                 ? 'green'
                 : status === 'PDP 通道'
                   ? 'purple'
@@ -140,12 +140,14 @@ function ConferenceCard({
       </div>
       <div className="deadline-box">
         <span className="eyebrow">
-          {d?.label || (status === '投稿已截止' ? '投稿已截止' : '投稿安排')}
+          {d?.label || (['投稿已截止', '已结束'].includes(status) ? status : '投稿安排')}
         </span>
         <strong className={d ? '' : 'muted'}>
           {d
             ? countdown(d, now)
-            : status === '投稿已截止'
+            : status === '已结束'
+              ? '本届已结束'
+              : status === '投稿已截止'
               ? '关注参会安排'
               : '待公布'}
         </strong>
@@ -420,7 +422,7 @@ export default function Home() {
         (region === '全部地区' || region === c.region) &&
         (status === '全部状态' ||
           (status === '有投稿日期'
-            ? ['征稿中', 'PDP 通道'].includes(conferenceStatus(c, now))
+            ? ['有投稿日期', 'PDP 通道'].includes(conferenceStatus(c, now))
             : conferenceStatus(c, now) === status)),
     )
     .sort((a, b) =>
@@ -507,7 +509,7 @@ export default function Home() {
               <strong>
                 {conferences
                   .filter((c) =>
-                    ['征稿中', 'PDP 通道'].includes(conferenceStatus(c, now)),
+                    ['有投稿日期', 'PDP 通道'].includes(conferenceStatus(c, now)),
                   )
                   .length.toString()
                   .padStart(2, '0')}
@@ -578,7 +580,6 @@ export default function Home() {
                       items={options([
                         '全部状态',
                         '有投稿日期',
-                        '征稿中',
                         'PDP 通道',
                         '投稿已截止',
                         '已结束',
@@ -654,7 +655,7 @@ export default function Home() {
                   <Sparkles size={18} />
                   <p>
                     {tab === 'conferences'
-                      ? 'PDP 面向新近突破成果，不代表普通论文延期。'
+                      ? '有截止日期不代表投稿系统已开放；请从本届官网确认入口。PDP 面向新近突破成果，不代表普通论文延期。'
                       : 'JCR Q1 与中科院 1 区不是同一套分类。'}
                   </p>
                   <button onClick={() => switchTab('guide')}>

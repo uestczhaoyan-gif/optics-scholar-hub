@@ -94,6 +94,10 @@ export function nextDeadline(
   now: Date,
   submissionsOnly = false,
 ): Deadline | undefined {
+  if (
+    submissionsOnly &&
+    (c.submissionState === 'closed' || c.end < dayInZone(now, 'UTC'))
+  ) return undefined;
   return c.deadlines
     .filter(
       (d) =>
@@ -106,7 +110,12 @@ export function conferenceStatus(c: Conference, now: Date): string {
   if (c.end < dayInZone(now, 'UTC')) return '已结束';
   if (c.submissionState === 'closed') return '投稿已截止';
   const d = nextDeadline(c, now, true);
-  if (d) return d.type === 'pdp' ? 'PDP 通道' : '征稿中';
+  if (d) return d.type === 'pdp' ? 'PDP 通道' : '有投稿日期';
+  if (
+    c.deadlines.some(
+      (d) => submissionTypes.has(d.type) && deadlineState(d, now) === 'unknown',
+    )
+  ) return '待公布';
   if (
     c.deadlines.some(
       (d) => submissionTypes.has(d.type) && deadlineState(d, now) === 'past',

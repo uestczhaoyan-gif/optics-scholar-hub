@@ -46,6 +46,30 @@ test('PDP stays separate from regular submission and registration', () => {
     conferenceStatus({ ...c, submissionState: 'closed' }, now),
     '投稿已截止',
   );
+  assert.equal(nextDeadline({ ...c, submissionState: 'closed' }, now, true), undefined);
+  assert.equal(nextDeadline({ ...c, submissionState: 'closed' }, now).type, 'registration');
+});
+
+test('a past regular deadline does not hide an unknown PDP deadline', () => {
+  const c = {
+    end: '2027-05-07', submissionState: 'published',
+    deadlines: [
+      { type: 'paper', date: '2026-07-15', source },
+      { type: 'pdp', date: null, source },
+    ],
+  };
+  assert.equal(conferenceStatus(c, new Date('2026-09-10T00:00Z')), '待公布');
+});
+
+test('known future deadlines do not assert that a submission portal is open', () => {
+  const c = {
+    end: '2027-05-07', submissionState: 'published',
+    deadlines: [{ type: 'paper', date: '2026-11-23', source }],
+  };
+  assert.equal(conferenceStatus(c, new Date('2026-09-10T00:00Z')), '有投稿日期');
+  const ended = { ...c, end: '2026-09-01' };
+  assert.equal(conferenceStatus(ended, new Date('2026-09-10T00:00Z')), '已结束');
+  assert.equal(nextDeadline(ended, new Date('2026-09-10T00:00Z'), true), undefined);
 });
 test('CAS major Q2 does not imply optics minor Q2; versions and systems do not substitute', () => {
   const j = {
