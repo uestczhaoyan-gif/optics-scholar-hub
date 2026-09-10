@@ -1464,5 +1464,91 @@
         "note": "官方期刊简介声明美国工程索引 EI 收录；尚未通过 Compendex 机构入口复核覆盖范围。"
       }
     ]
+  },
+  {
+    "id": "photonix",
+    "name": "PhotoniX",
+    "abbr": "PhotoniX",
+    "publisher": "Springer Nature / 中国光学工程学会",
+    "issn": null,
+    "eissn": "2662-1991",
+    "domains": ["光学", "物理", "信息与计算"],
+    "topics": ["光子集成与光通信", "成像与计算光学", "纳米与超表面"],
+    "description": "关注光子学驱动的交叉研究、科学发现和工程应用，涵盖光计算、光场调控、传感及光电子。已核实出版社 SCI/EI 声明，分区待核验。",
+    "website": "https://link.springer.com/journal/43074",
+    "guide": "https://link.springer.com/journal/43074/submission-guidelines",
+    "requirements": [
+      "按 Research、Review、Perspective 或 Comment 对应指南准备稿件，并由论文作者通过官网 Editorial Manager 入口提交。",
+      "稿件需包含数据与材料可用性说明；格式、图表及补充材料按当前作者指南准备。"
+    ],
+    "publishing": "开放获取期刊；录用文章收取 APC，金额、税费和减免以录用时官方费用页为准。",
+    "schedule": "常规投稿与专题征稿分别核对；首次决定统计不代表录用时间，本站不承诺审稿周期。",
+    "checkedAt": "2026-09-10",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/43074",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/43074",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
+      }
+    ]
+  },
+  {
+    "id": "advanced-functional-materials",
+    "name": "Advanced Functional Materials",
+    "abbr": "AFM",
+    "publisher": "Wiley",
+    "issn": "1616-301X",
+    "eissn": "1616-3028",
+    "domains": ["材料", "光学", "电子", "物理"],
+    "topics": ["光电材料", "纳米与超表面", "传感与测量"],
+    "description": "综合功能材料期刊，光学相关范围包括半导体、发光材料、激光与传感材料。适合材料机制和性能创新明确的交叉研究；分区待核验。",
+    "website": "https://advanced.onlinelibrary.wiley.com/journal/16163028",
+    "guide": "https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/author-guidelines",
+    "requirements": [
+      "初投稿支持 Free Format；提供可编辑稿件，参考文献格式保持一致，补充材料单独提交。",
+      "准备 ORCID、作者单位与邮箱，以及适用的数据可用性、基金、利益冲突和伦理声明；返修需逐条回复并提交标记版与清洁版。"
+    ],
+    "publishing": "开放获取选项、费用和机构协议以 Wiley 当前作者页面及录用安排为准。",
+    "schedule": "官网列出每年 52 期；刊期不等于审稿周期，常规稿与专题稿分别核对安排。",
+    "checkedAt": "2026-09-10",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/productinformation.html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/productinformation.html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
+      }
+    ]
   }
 ]
