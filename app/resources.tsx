@@ -1,4 +1,5 @@
 import { External } from '@/components/external-link';
+import config from '@/data/site.json';
 export function Guide() {
   return (
     <section className="resource-page">
@@ -136,6 +137,9 @@ export function DataNotes() {
         <External href="https://github.com/ccfddl/ccf-deadlines">
           参考项目：CCF-Deadlines
         </External>
+        <External href={`${config.repository}/blob/main/docs/ROADMAP.md`}>后续建设规划</External>
+        <External href={`${config.repository}/blob/main/docs/VERIFICATION_LOG.md`}>近期官方复核记录</External>
+        <External href={`${config.repository}/blob/main/docs/MAINTENANCE.md`}>维护与纠错说明</External>
         <External href="https://jcr.clarivate.com/">JCR 官方查询</External>
         <External href="https://sp.fenqubiao.com/">中科院官方查询</External>
       </div>

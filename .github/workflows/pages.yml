@@ -21,6 +21,12 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm validate:data && pnpm test && pnpm typecheck && pnpm lint
+      - run: pnpm report:maintenance
+      - uses: actions/upload-artifact@v4
+        with:
+          name: maintenance-queue
+          path: source-report/maintenance.*
+          retention-days: 30
       - name: Set project path
         shell: bash
         run: |

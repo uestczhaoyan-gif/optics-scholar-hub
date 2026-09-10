@@ -8,6 +8,8 @@
 
 ### 当前功能
 
+后续建设见 [分步规划](docs/ROADMAP.md)，本轮核验范围见 [官方复核记录](docs/VERIFICATION_LOG.md)，日常操作见 [维护手册](docs/MAINTENANCE.md)。
+
 - **期刊目录**：19 本光学及材料、电子交叉期刊。按 JCR / 中科院、版本年、1 / 2 区、大类 / 小类、来源等级筛选，附介绍、官网和作者指南。
 - **会议日历**：9 届国内外会议，包括 ACP、OFC、CLEO、COS、ECOC、FiO + LS、IEEE IPC、Optica ODF 和 ICIP。分别记录投稿、PDP、注册、通知及终稿时间。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
@@ -39,6 +41,7 @@ pnpm dev
 
 ```sh
 pnpm validate:data
+pnpm report:maintenance
 pnpm test
 pnpm typecheck
 pnpm lint
@@ -83,6 +86,8 @@ docs/                 项目规划、数据模型
 An open-source directory for optics graduate researchers, inspired by [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines). The interface is in Chinese. This is an independent project and does not assign CCF grades to optics conferences.
 
 ### Features and coverage
+
+See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
 The initial catalog contains **19 journals and 9 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by ranking system, edition year, CAS major/minor category, quartile, and evidence level. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
 

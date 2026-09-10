@@ -1,14 +1,11 @@
 import fs from 'node:fs/promises';
 import { createHash } from 'node:crypto';
-const urls = new Set();
-function collect(value) {
-  if (typeof value === 'string' && value.startsWith('https://'))
-    urls.add(value);
-  else if (value && typeof value === 'object')
-    Object.values(value).forEach(collect);
-}
+import { sourceIndex, tableCell } from './maintenance.mjs';
+const catalogs = {};
 for (const name of ['journals', 'conferences'])
-  collect(JSON.parse(await fs.readFile(`data/${name}.json`, 'utf8')));
+  catalogs[name] = JSON.parse(await fs.readFile(`data/${name}.json`, 'utf8'));
+const sources = sourceIndex(catalogs);
+const urls = sources.keys();
 await fs.mkdir('source-state', { recursive: true });
 await fs.mkdir('source-report', { recursive: true });
 let previous = {};
@@ -84,6 +81,9 @@ for (const url of urls) {
     });
   }
 }
+for (const row of rows) row.references = sources.get(row.url);
+const urgency = { changed: 0, 'http-error': 1, 'fetch-error': 1, timeout: 1, 'access-limited': 2, baseline: 3, 'reachable-nontext': 4, unchanged: 5 };
+rows.sort((a, b) => urgency[a.status] - urgency[b.status]);
 const report = [
   '# Source check / 来源检查',
   '',
@@ -91,9 +91,9 @@ const report = [
   '',
   'Changes require human review. HTTP 403/429 does not mean a link is dead. Website navigation changes may also alter fingerprints. No catalog data was changed.',
   '',
-  '| Status | Source |',
-  '| --- | --- |',
-  ...rows.map((r) => `| ${r.status}${r.http ? ' ' + r.http : ''} | ${r.url} |`),
+  '| Status | Affected records and fields | Source |',
+  '| --- | --- | --- |',
+  ...rows.map((r) => `| ${r.status}${r.http ? ' ' + r.http : ''} | ${r.references.map(ref => tableCell(`${ref.catalog}/${ref.id}: ${ref.field}`)).join('<br>')} | ${tableCell(r.url)} |`),
 ].join('\n');
 await fs.writeFile('source-state/state.json', JSON.stringify(current, null, 2));
 await fs.writeFile('source-report/report.json', JSON.stringify(rows, null, 2));
