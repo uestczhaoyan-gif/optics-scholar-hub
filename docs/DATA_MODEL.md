@@ -37,6 +37,8 @@
 
 ## 期刊 / Journal
 
+以下描述当前已实现模型。后续拟新增 SCI/SCIE、EI 索引及领域字段，并支持 EI 工程补充范围，见 [索引与合集标签规划](JOURNAL_LABELS_PLAN.md)；尚未实现，不应直接往生产数据填入未受支持的字段。
+
 期刊包含 id、name、abbr、publisher、topics、description、website、guide、requirements、publishing、schedule、checkedAt 和 rankings。
 
 每条 ranking 独立保存：system（JCR/CAS）、edition、year、metricYear（JCR 可选）、category、level、quartile、source、evidence。CAS level 必须 major/minor。derived 记录需 rank 和 total；推算值不等于数据库核验结果。secondary 不满足“仅官方/排名推算”筛选。

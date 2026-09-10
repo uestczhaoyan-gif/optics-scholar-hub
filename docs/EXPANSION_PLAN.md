@@ -23,7 +23,7 @@
 | 遥感、天文与空间光学 | 光学载荷、自适应光学、高光谱、空间激光 | 限仪器或光学成像相关主题 |
 | 光伏、光催化与能源光学 | 光吸收、能量转换、光热、光电化学 | 电池储能或一般催化不因期刊分区高而收录 |
 
-期刊的正式目录继续遵守原要求：**至少在选定并注明年份的 JCR 或中科院体系中，有符合 1/2 区的可靠依据。** JCR 与中科院、大小类和不同年份独立。会议不套用期刊分区，也不按数量承诺收录。
+期刊后续分为 **JCR/中科院 1/2 区精选** 与 **EI 工程补充** 两条审核路径，并独立核验 SCI/SCIE 与 EI 索引。EI 补充期刊可以没有分区；不得编造分区。JCR 与中科院、大小类和不同年份独立。合集标签、筛选和审核规则详见 [期刊索引与标签规划](JOURNAL_LABELS_PLAN.md)。会议不套用期刊分区，也不按数量承诺收录。
 
 ## 二、审核方法
 
@@ -31,7 +31,7 @@
 
 1. **身份**：准确刊名、ISSN/eISSN、出版社、官网、是否更名/停刊/新刊。按 ISSN 去重，缩写只作别名。
 2. **研究匹配**：核对 Aims & Scope，再抽样最近两年不同期次的光学相关文章。交叉期刊保存至少 3 篇题名/DOI作为适配线索，避免只凭单篇偶然文章收录；新刊可用已发表文章并标明样本不足。
-3. **分区准入**：记录体系、版本年、指标年、类别、大小类、分区和来源等级。只查到影响因子、CiteScore 或 SJR 不算核实 JCR 分区。
+3. **分区及索引准入**：记录体系、版本年、指标年、类别、大小类、分区和来源等级。另按 ISSN 独立核实 SCI/SCIE、EI Compendex 的覆盖状态。只查到影响因子、CiteScore 或 SJR 不算核实 JCR 分区；EI 补充走独立准入路径。
 4. **投稿可用性**：作者指南、文章类型、是否接收自由投稿、篇幅、模板、投稿入口、费用页面、预印本和会议扩展政策。综述/邀稿刊必须显著标注。
 5. **结论**：通过／相关但分区待核实／不满足分区门槛／仅适合特定方向／暂缓。所有候选初始均为“待核验”。
 
@@ -82,7 +82,7 @@
 
 - 综合期刊：Nature、Science、Nature Communications、Science Advances、Proceedings of the National Academy of Sciences、National Science Review、Science Bulletin、Research、The Innovation、Communications Physics、Communications Materials。仅作光学研究可投的综合平台，单独标记“综合交叉”，不与专业光学刊混成一个难度排序。
 - 进一步核查：IEEE Transactions on Pattern Analysis and Machine Intelligence、International Journal of Computer Vision、Optical Engineering、Applied Physics B、Journal of Applied Physics、IEEE Journal of Display Technology（先查存续/停刊状态，不作为活跃期刊直接添加）、Journal of the Society for Information Display、Displays。
-- 中文与国内主办期刊观察池：《光学学报》《中国激光》《光子学报》《光学精密工程》《红外与激光工程》《激光与光电子学进展》《物理学报》《光谱学与光谱分析》《中国光学》。这是覆盖国内研究生态的候选，**并不宣称符合 JCR/CAS 1/2 区**。若不满足原门槛，只保留在规划文档；未来是否增加独立“中文期刊”专区需另行决定，不能静默降低筛选门槛。
+- 中文与国内主办期刊观察池：《光学学报》《中国激光》《光子学报》《光学精密工程》《红外与激光工程》《激光与光电子学进展》《物理学报》《光谱学与光谱分析》《中国光学》。这是覆盖国内研究生态的候选，**并不宣称符合 JCR/CAS 1/2 区或已核实 EI 收录**。后续分别按分区精选或 EI 工程补充路径审核，不因没有 JCR 分区直接排除。两条路径均不满足时保留在候选文档；是否增加其他中文期刊范围另行决定。
 
 ## 四、会议系列扩充候选
 
@@ -192,7 +192,7 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 
 `candidateId / name / aliases / kind / topics / priority / sourceEntry / reviewStatus / relatedExistingId / decisionReason / nextAction`
 
-期刊另加 `ISSN / scopeEvidence / rankingEvidence`；会议另加 `seriesId / parentSeriesId / organizer / editionStatus / publicationType`。本轮不改生产数据模型。
+期刊另加 `ISSN / scopeEvidence / rankingEvidence / indexes / domains`；会议另加 `seriesId / parentSeriesId / organizer / editionStatus / publicationType`。本轮不改生产数据模型。
 
 ## 六、发现入口与本轮证据范围
 
@@ -207,4 +207,4 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 
 ## English summary
 
-This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. Journal candidates still require verified Q1/Q2 eligibility in an explicitly identified JCR or CAS edition. Conference candidates require edition-specific official evidence and clear separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. No production data, ranking values or future deadlines are added in this planning pass.
+This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. No production data, ranking values or future deadlines are added in this planning pass.

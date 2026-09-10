@@ -12,6 +12,8 @@
 
 下一阶段的 [扩充计划与候选清单](docs/EXPANSION_PLAN.md) 覆盖光学及材料、电子、物理等交叉方向。候选尚未全部审核，不代表已满足分区要求或已添加到网站。
 
+已规划 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，包括独立 EI 工程补充范围；索引标签和新增范围尚未上线。
+
 - **期刊目录**：19 本光学及材料、电子交叉期刊。按 JCR / 中科院、版本年、1 / 2 区、大类 / 小类、来源等级筛选，附介绍、官网和作者指南。
 - **会议日历**：9 届国内外会议，包括 ACP、OFC、CLEO、COS、ECOC、FiO + LS、IEEE IPC、Optica ODF 和 ICIP。分别记录投稿、PDP、注册、通知及终稿时间。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
@@ -90,6 +92,8 @@ An open-source directory for optics graduate researchers, inspired by [CCF-Deadl
 ### Features and coverage
 
 The [expansion backlog](docs/EXPANSION_PLAN.md) lists optics and interdisciplinary journal and conference candidates for later review. Candidates are not approved listings and do not imply verified rankings or current calls for papers.
+
+The planned [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) add SCI/SCIE, EI Compendex, ranking years/categories and subject fields, plus an EI engineering supplement. These additions are not yet implemented.
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
