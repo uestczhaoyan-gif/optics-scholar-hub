@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
+import { validateJournalMetadata } from './validate-journal.mjs';
 const read = (name) => JSON.parse(fs.readFileSync(`data/${name}.json`, 'utf8'));
 const date = (value) =>
   assert(
@@ -92,15 +93,17 @@ for (const c of conferences) {
     else assert(d.date === null, 'Unknown date must explicitly be null');
   }
 }
+const journalIdentifiers = new Map();
 for (const j of journals) {
+  validateJournalMetadata(j);
+  for (const issn of new Set([j.issn, j.eissn].filter(Boolean))) {
+    assert(!journalIdentifiers.has(issn), `Duplicate journal ISSN: ${issn}`);
+    journalIdentifiers.set(issn, j.id);
+  }
   url(j.guide);
   text(j.schedule);
   text(j.publishing);
   text(j.publisher);
-  assert(
-    j.rankings.some((r) => r.quartile <= 2),
-    `${j.id} has no Q1/Q2 record`,
-  );
   const records = new Set();
   for (const r of j.rankings) {
     assert(['JCR', 'CAS'].includes(r.system));

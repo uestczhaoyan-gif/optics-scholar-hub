@@ -46,6 +46,31 @@
         "source": "https://www.iikx.com/sci/physics/15679.html",
         "evidence": "secondary"
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "材料", "物理"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -96,6 +121,31 @@
         "source": "https://www.ablesci.com/journal/detail?id=rRgGBp",
         "evidence": "secondary"
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "材料", "信息与计算"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -128,6 +178,31 @@
         "rank": 3,
         "total": 129
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -159,6 +234,31 @@
         "evidence": "derived",
         "rank": 12,
         "total": 129
+      }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "物理"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
       }
     ]
   },
@@ -211,6 +311,31 @@
         "quartile": 1,
         "source": "https://www.iikx.com/sci/physics/19310.html",
         "evidence": "secondary"
+      }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "材料", "物理", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
       }
     ]
   },
@@ -270,6 +395,31 @@
         "rank": 35,
         "total": 127
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "电子", "信息与计算"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -302,6 +452,31 @@
         "rank": 26,
         "total": 129
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "物理"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -333,6 +508,31 @@
         "evidence": "derived",
         "rank": 26,
         "total": 129
+      }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "电子", "信息与计算"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
       }
     ]
   },
@@ -386,6 +586,31 @@
         "source": "https://www.fabiao.com.cn/sci/10944087/",
         "evidence": "secondary"
       }
+    ],
+    "issn": "1094-4087",
+    "eissn": null,
+    "domains": ["光学", "物理", "信息与计算"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -438,6 +663,31 @@
         "source": "https://www.ablesci.com/journal/detail?id=Dbljyp",
         "evidence": "secondary"
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "物理"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -469,6 +719,31 @@
         "evidence": "derived",
         "rank": 51,
         "total": 129
+      }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "信息与计算", "生物医学"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
       }
     ]
   },
@@ -502,6 +777,31 @@
         "rank": 62,
         "total": 129
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "材料", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -531,6 +831,31 @@
         "quartile": 1,
         "source": "https://siom.cas.cn/xwzx/zhxw/202606/t20260624_8232569.html",
         "evidence": "official"
+      }
+    ],
+    "issn": "2577-5421",
+    "eissn": null,
+    "domains": ["光学", "信息与计算"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://m.researching.cn/ap",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社公开页面列出该索引；尚未通过数据库机构入口复核，覆盖起止未核实。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://m.researching.cn/ap",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社公开页面列出该索引；尚未通过数据库机构入口复核，覆盖起止未核实。"
       }
     ]
   },
@@ -562,6 +887,31 @@
         "source": "https://siom.cas.cn/xwzx/zhxw/202606/t20260624_8232569.html",
         "evidence": "official"
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -591,6 +941,31 @@
         "quartile": 1,
         "source": "https://siom.cas.cn/xwzx/zhxw/202606/t20260624_8232569.html",
         "evidence": "official"
+      }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "材料", "物理"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
       }
     ]
   },
@@ -662,6 +1037,31 @@
         "quartile": 2,
         "source": "https://www.ablesci.com/journal/detail?id=rAX2zD",
         "evidence": "secondary"
+      }
+    ],
+    "issn": null,
+    "eissn": "2195-1071",
+    "domains": ["光学", "材料", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/productinformation.html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社公开页面列出该索引；尚未通过数据库机构入口复核，覆盖起止未核实。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
       }
     ]
   },
@@ -764,6 +1164,31 @@
         "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
         "evidence": "secondary"
       }
+    ],
+    "issn": null,
+    "eissn": null,
+    "domains": ["光学", "材料", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      }
     ]
   },
   {
@@ -855,6 +1280,31 @@
         "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
         "evidence": "secondary"
       }
+    ],
+    "issn": "2192-8606",
+    "eissn": "2192-8614",
+    "domains": ["光学", "材料", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.degruyterbrill.com/de/journal/key/nanoph/html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社公开页面列出该索引；尚未通过数据库机构入口复核，覆盖起止未核实。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.degruyterbrill.com/de/journal/key/nanoph/html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社公开页面列出该索引；尚未通过数据库机构入口复核，覆盖起止未核实。"
+      }
     ]
   },
   {
@@ -944,6 +1394,74 @@
         "quartile": 1,
         "source": "https://www.iikx.com/sci/technology/9875.html",
         "evidence": "secondary"
+      }
+    ],
+    "issn": "0935-9648",
+    "eissn": "1521-4095",
+    "domains": ["光学", "材料", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/productinformation.html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社索引列表列出 SCIE 与 COMPENDEX；尚未通过数据库机构入口复核。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/productinformation.html",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社索引列表列出 SCIE 与 COMPENDEX；尚未通过数据库机构入口复核。"
+      }
+    ]
+  },
+  {
+    "id": "optics-precision-engineering",
+    "name": "光学 精密工程",
+    "abbr": "OPE",
+    "publisher": "中国科学院长春光机所 / 中国仪器仪表学会",
+    "issn": "1004-924X",
+    "eissn": "2097-3209",
+    "domains": ["光学", "机械与制造", "电子"],
+    "topics": ["光学设计与制造", "传感与测量", "成像与计算光学"],
+    "description": "面向精密光学、光电仪器与精密工程，适合光学加工、测量、成像和仪器系统方向。本条按 EI 工程补充范围收录，暂无已核实分区。",
+    "website": "https://ope.lightpublishing.cn/zh/home/",
+    "guide": "https://ope.lightpublishing.cn/zh/info/1455/",
+    "requirements": [
+      "从期刊官网“作者投稿”进入系统，投稿前核对当前稿约、模板及作者材料要求。",
+      "伦理规范要求作者确认原创性、署名与保密事项，提交保密与版权相关证明及全体作者签名的授权材料；具体附件使用官网当前版本。"
+    ],
+    "publishing": "费用与出版安排以编辑部及录用通知为准；期刊简介声明 EI 收录，不表示每篇文章均已完成检索。",
+    "schedule": "半月刊；出版周期不等于审稿周期。常规稿与专栏分别核对征稿安排，不承诺录用或上线时间。",
+    "checkedAt": "2026-09-10",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮未核实 SCIE 状态。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://ope.lightpublishing.cn/zh/about/1416/",
+        "checkedAt": "2026-09-10",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "官方期刊简介声明美国工程索引 EI 收录；尚未通过 Compendex 机构入口复核覆盖范围。"
       }
     ]
   }

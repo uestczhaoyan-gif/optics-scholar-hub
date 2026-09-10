@@ -1,5 +1,22 @@
 # 官方信息复核记录
 
+## 2026-09-10：期刊索引与合集功能首批上线
+
+目录从 19 本增至 20 本。索引字段、独立核验日期、ISSN、领域标签已迁移；未核实索引显式设为 unverified，未刷新原有期刊的整条 checkedAt。领域为根据已收录主题整理的导航标签，不是数据库学科分类。
+
+| 条目 | 来源及本轮结果 | 边界 |
+| --- | --- | --- |
+| Advanced Materials | [Wiley Overview](https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/productinformation.html)列出 SCIE、COMPENDEX 和印刷/电子 ISSN | 标为出版社声明，非数据库机构入口复核 |
+| Advanced Optical Materials | [Wiley Overview](https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/productinformation.html)列出 SCIE 和电子 ISSN | 该页未列 EI，本轮 EI 保留待核验；不能据此断言未收录 |
+| Nanophotonics | [出版社页面检索结果](https://www.degruyterbrill.com/de/journal/key/nanoph/html)列出 SCIE、Ei Compendex 和 ISSN/eISSN | 依据公开页面检索快照，正文直连受限；出版社声明待数据库复核 |
+| Advanced Photonics | [Researching 出版页面检索结果](https://m.researching.cn/ap)列出 SCIE、EI 和 ISSN | 依据公开页面检索快照；正文直连受限，覆盖起止未核实 |
+| 光学 精密工程 | [期刊简介检索结果](https://ope.lightpublishing.cn/zh/about/1416/)声明 EI；[官网](https://ope.lightpublishing.cn/zh/home/)核实 ISSN/eISSN、主办者和出版周期；[伦理规范](https://ope.lightpublishing.cn/zh/info/1455/)核实作者材料要求 | 作为 EI 工程补充加入；SCIE 与分区未核实，不填假值；简介正文直连超时 |
+| Optics Express | [Optica About](https://opg.optica.org/content/journal/about/item/oe/)核实 ISSN | 页面指标不证明具体索引，本轮 SCIE/EI 均保持待核验 |
+
+本轮没有宣称已完成所有期刊的索引审核。其余条目待逐刊查数据库或出版社索引列表；Nature、部分 Optica / Researching / Cambridge 页面未获得可确认的索引证据。所有原有分区记录原样保留，不由索引推算分区。索引覆盖起止未知均为 null。
+
+功能验收覆盖 EI 无分区、SCI/EI 双收录、未核验和停收、ESCI 不替代 SCIE、分区年份/学科/大小类/证据匹配，以及索引证据和 ISSN 校验。
+
 ## 2026-09-10：首轮重点会议
 
 本轮从公开官方页面复核以下字段。没有登录投稿系统，没有重新核实全目录或期刊分区；为避免把局部复核误认为整条复核，不批量刷新 `checkedAt`。本日志记录本轮的具体范围，页面原有日期仍是该条目的基线日期。

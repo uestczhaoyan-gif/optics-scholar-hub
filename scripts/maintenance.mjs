@@ -23,10 +23,20 @@ export function maintenanceQueue({ conferences, journals }, now = new Date()) {
   const rows = [];
   const today = now.toISOString().slice(0, 10);
   const add = (item, priority, field, reason, source) =>
-    rows.push({ id: item.id, name: item.name, priority, field, reason, source });
+    rows.push({
+      id: item.id,
+      name: item.name,
+      priority,
+      field,
+      reason,
+      source,
+    });
   for (const item of [...conferences, ...journals]) {
     if (item.end && item.end < today) continue;
-    if (now.getTime() - Date.parse(item.checkedAt + 'T00:00:00Z') > 30 * 86400000)
+    if (
+      now.getTime() - Date.parse(item.checkedAt + 'T00:00:00Z') >
+      30 * 86400000
+    )
       add(item, 2, 'checkedAt', '超过 30 天未完整复核', item.website);
   }
   for (const c of conferences) {
@@ -34,7 +44,11 @@ export function maintenanceQueue({ conferences, journals }, now = new Date()) {
     for (const [i, d] of c.deadlines.entries()) {
       const field = `deadlines.${i}`;
       if (!d.at && !d.date) {
-        if (c.submissionState === 'closed' && ['paper', 'abstract', 'pdp'].includes(d.type)) continue;
+        if (
+          c.submissionState === 'closed' &&
+          ['paper', 'abstract', 'pdp'].includes(d.type)
+        )
+          continue;
         add(c, 2, field, `${d.label}：具体日期待核实`, d.source);
         continue;
       }
@@ -43,18 +57,68 @@ export function maintenanceQueue({ conferences, journals }, now = new Date()) {
       if (remaining >= (d.at ? 0 : -1) && remaining <= 14) {
         add(c, 1, field, `${d.label}：临近日期，请优先复核官方通知`, d.source);
       } else if (!d.at && remaining > 14) {
-        add(c, 3, field, `${d.label}：时刻${d.timezone ? '' : '与时区'}待核实`, d.source);
+        add(
+          c,
+          3,
+          field,
+          `${d.label}：时刻${d.timezone ? '' : '与时区'}待核实`,
+          d.source,
+        );
       }
     }
     if (!c.registration) add(c, 2, 'registration', '注册入口待补', c.website);
   }
   for (const j of journals) {
+    for (const [i, index] of (j.indexes || []).entries()) {
+      if (index.status === 'unverified')
+        add(
+          j,
+          2,
+          `indexes.${i}`,
+          `${index.database}：索引待核验`,
+          index.source || j.website,
+        );
+      else if (
+        index.checkedAt &&
+        now.getTime() - Date.parse(index.checkedAt + 'T00:00:00Z') >
+          30 * 86400000
+      )
+        add(
+          j,
+          2,
+          `indexes.${i}.checkedAt`,
+          `${index.database}：索引证据超过 30 天未复核`,
+          index.source || j.website,
+        );
+      else if (index.status === 'confirmed' && index.evidence === 'publisher')
+        add(
+          j,
+          3,
+          `indexes.${i}`,
+          `${index.database}：出版社声明待数据库复核`,
+          index.source,
+        );
+    }
     for (const [i, r] of j.rankings.entries()) {
-      if (r.evidence !== 'official') add(j, 3, `rankings.${i}`,
-        `${r.year} ${r.system} ${r.category}：${r.evidence === 'derived' ? '排名推算待官方分区核对' : '第三方参考待机构入口复核'}`, r.source);
+      if (r.evidence !== 'official')
+        add(
+          j,
+          3,
+          `rankings.${i}`,
+          `${r.year} ${r.system} ${r.category}：${r.evidence === 'derived' ? '排名推算待官方分区核对' : '第三方参考待机构入口复核'}`,
+          r.source,
+        );
     }
   }
-  return rows.sort((a, b) => a.priority - b.priority || a.id.localeCompare(b.id) || a.field.localeCompare(b.field));
+  return rows.sort(
+    (a, b) =>
+      a.priority - b.priority ||
+      a.id.localeCompare(b.id) ||
+      a.field.localeCompare(b.field),
+  );
 }
 
-export const tableCell = (value) => String(value).replace(/\|/g, '&#124;').replace(/[\r\n]+/g, ' ');
+export const tableCell = (value) =>
+  String(value)
+    .replace(/\|/g, '&#124;')
+    .replace(/[\r\n]+/g, ' ');

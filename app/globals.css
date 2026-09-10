@@ -718,6 +718,68 @@ a:not(.brand):has(svg) {
 .journal h2 {
   font-size: 20px;
 }
+.journal-labels,
+.journal-ranks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 14px 23px;
+  font-size: 12px;
+}
+.index-badge,
+.collection-badge,
+.domain-tags > span {
+  padding: 5px 9px;
+  border-radius: 5px;
+  border: 1px solid #d7e2ee;
+  background: #f4f7fc;
+  color: #385578;
+}
+.index-badge.confirmed {
+  background: #edf8f3;
+  color: #22604b;
+  border-color: #c6e3d4;
+}
+.index-badge.unverified {
+  background: #faf5e9;
+  color: #785821;
+  border-color: #e9dcbc;
+}
+.index-badge.discontinued {
+  background: #f5f0f0;
+  color: #795252;
+}
+.index-badge small {
+  display: block;
+  margin-top: 3px;
+  font-size: 11px;
+}
+.domain-tags > span {
+  background: #edf2fc;
+  color: #31558c;
+  font-weight: 600;
+}
+.rank-badge {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  flex: 1 1 160px;
+  border: 1px solid #dde4f0;
+  border-radius: 5px;
+  padding: 9px 11px;
+  background: #f7f9fd;
+  overflow-wrap: anywhere;
+}
+.rank-badge b {
+  color: #315a9a;
+  font-size: 13px;
+}
+.rank-badge small {
+  color: #617189;
+}
+.journal-links {
+  margin: 14px 23px 18px;
+}
 .rank-preview {
   margin: 18px 23px;
   display: grid;

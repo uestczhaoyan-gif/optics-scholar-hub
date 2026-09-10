@@ -49,6 +49,10 @@ export type Journal = {
   name: string;
   abbr: string;
   publisher: string;
+  issn: string | null;
+  eissn: string | null;
+  domains: string[];
+  indexes: JournalIndex[];
   topics: string[];
   description: string;
   website: string;
@@ -59,6 +63,108 @@ export type Journal = {
   checkedAt: string;
   rankings: Ranking[];
 };
+
+export type JournalIndex = {
+  database: 'SCIE' | 'EI_COMPENDEX' | 'ESCI';
+  status: 'confirmed' | 'unverified' | 'discontinued';
+  evidence: 'database' | 'publisher' | 'secondary' | null;
+  source: string | null;
+  checkedAt: string | null;
+  coverageStart: string | null;
+  coverageEnd: string | null;
+  note: string;
+};
+
+export const indexLabels = {
+  SCIE: 'SCI（SCIE）',
+  EI_COMPENDEX: 'EI（Compendex）',
+  ESCI: 'ESCI',
+};
+export const journalDomains = [
+  '光学',
+  '材料',
+  '电子',
+  '物理',
+  '信息与计算',
+  '生物医学',
+  '机械与制造',
+  '能源',
+  '地学与空间',
+];
+export function hasIndex(j: Journal, database: string): boolean {
+  return j.indexes.some(
+    (i) => i.database === database && i.status === 'confirmed',
+  );
+}
+export function indexMatches(j: Journal, filter: string): boolean {
+  if (filter === 'all') return true;
+  if (filter === 'both')
+    return hasIndex(j, 'SCIE') && hasIndex(j, 'EI_COMPENDEX');
+  if (filter === 'unverified')
+    return ['SCIE', 'EI_COMPENDEX'].some(
+      (database) =>
+        !j.indexes.some(
+          (i) => i.database === database && i.status !== 'unverified',
+        ),
+    );
+  return hasIndex(j, filter);
+}
+export function collectionMatches(j: Journal, collection: string): boolean {
+  if (collection === 'ei') return hasIndex(j, 'EI_COMPENDEX');
+  if (collection === 'ranked') return j.rankings.some((r) => r.quartile <= 2);
+  return true;
+}
+export type JournalFilters = {
+  collection: string;
+  index: string;
+  domain: string;
+  system: string;
+  year: string;
+  level: string;
+  quartile: string;
+  officialOnly: boolean;
+};
+export function journalMatches(j: Journal, f: JournalFilters): boolean {
+  return (
+    collectionMatches(j, f.collection) &&
+    indexMatches(j, f.index) &&
+    (f.domain === 'all' || j.domains.includes(f.domain)) &&
+    (f.system === 'all' ||
+      rankingMatches(j, f.system, f.year, f.level, f.quartile, f.officialOnly))
+  );
+}
+// Preview the matching records first, never the best quartile from an unrelated category/year.
+export function previewRankings(
+  j: Journal,
+  system: string,
+  year: string,
+  level: string,
+  q: string,
+  officialOnly: boolean,
+): Ranking[] {
+  return (system === 'CAS' ? ['CAS', 'JCR'] : ['JCR', 'CAS']).flatMap(
+    (kind) => {
+      let ranks = j.rankings.filter(
+        (r) =>
+          r.system === kind &&
+          (kind !== 'CAS' || r.level === (system === 'CAS' ? level : 'major')),
+      );
+      if (kind === system) {
+        ranks = ranks.filter(
+          (r) =>
+            (year === 'all' || String(r.year) === year) &&
+            r.quartile <= 2 &&
+            (q === 'all' || String(r.quartile) === q) &&
+            (!officialOnly || ['official', 'derived'].includes(r.evidence)),
+        );
+      }
+      const latest = Math.max(...ranks.map((r) => r.year));
+      return ranks
+        .filter((r) => r.year === latest)
+        .sort((a, b) => a.category.localeCompare(b.category));
+    },
+  );
+}
 
 export const submissionTypes = new Set(['paper', 'abstract', 'pdp']);
 export function dayInZone(now: Date, zone = 'Asia/Shanghai'): string {
@@ -97,7 +203,8 @@ export function nextDeadline(
   if (
     submissionsOnly &&
     (c.submissionState === 'closed' || c.end < dayInZone(now, 'UTC'))
-  ) return undefined;
+  )
+    return undefined;
   return c.deadlines
     .filter(
       (d) =>
@@ -115,7 +222,8 @@ export function conferenceStatus(c: Conference, now: Date): string {
     c.deadlines.some(
       (d) => submissionTypes.has(d.type) && deadlineState(d, now) === 'unknown',
     )
-  ) return '待公布';
+  )
+    return '待公布';
   if (
     c.deadlines.some(
       (d) => submissionTypes.has(d.type) && deadlineState(d, now) === 'past',
@@ -160,6 +268,9 @@ export function matchesText(
     item.abbr,
     item.description,
     item.location,
+    item.issn,
+    item.eissn,
+    ...(Array.isArray(item.domains) ? item.domains : []),
     ...item.topics,
   ]
     .filter(Boolean)

@@ -37,9 +37,13 @@
 
 ## 期刊 / Journal
 
-以下描述当前已实现模型。后续拟新增 SCI/SCIE、EI 索引及领域字段，并支持 EI 工程补充范围，见 [索引与合集标签规划](JOURNAL_LABELS_PLAN.md)；尚未实现，不应直接往生产数据填入未受支持的字段。
+已实现 SCI/SCIE、EI 索引、领域标签与 EI 工程补充，规则见 [索引与合集标签说明](JOURNAL_LABELS_PLAN.md)。
 
-期刊包含 id、name、abbr、publisher、topics、description、website、guide、requirements、publishing、schedule、checkedAt 和 rankings。
+期刊包含 id、name、abbr、publisher、topics、description、website、guide、requirements、publishing、schedule、checkedAt 和 rankings。新增 issn/eissn（未知为 null，已知须通过校验位检查）、domains（受控领域词表）、indexes。indexes 必须分别提供 SCIE 和 EI_COMPENDEX 记录，未知也显式保存。ESCI 可单独记录，不能替代 SCIE。
+
+索引包含 database、status（confirmed/unverified/discontinued）、evidence（database/publisher/secondary/null）、source、checkedAt、coverageStart/coverageEnd（年份字符串或 null）、note。confirmed/discontinued 必须有官方数据库或出版社来源、核验日期和至少一个 ISSN；第三方依据不能成为 confirmed。未核验日期允许 null。已结束覆盖不能标记当前 confirmed。
+
+准入为至少一条 Q1/Q2 记录或 confirmed EI 记录。rankings 可以为空。索引标签的出版社声明不等于数据库核实；组合筛选由 lib/catalog.ts 实现，约束在 scripts/validate-journal.mjs。
 
 每条 ranking 独立保存：system（JCR/CAS）、edition、year、metricYear（JCR 可选）、category、level、quartile、source、evidence。CAS level 必须 major/minor。derived 记录需 rank 和 total；推算值不等于数据库核验结果。secondary 不满足“仅官方/排名推算”筛选。
 

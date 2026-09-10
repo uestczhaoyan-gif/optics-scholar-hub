@@ -39,12 +39,14 @@ import {
   deadlineState,
   deadlineSortValue,
   matchesText,
-  rankingMatches,
+  journalMatches,
+  journalDomains,
   stale,
   type Conference,
   type Journal,
 } from '@/lib/catalog';
 import { Guide, DataNotes } from './resources';
+import { JournalCard } from '@/components/journal-card';
 const conferences = rawConferences as Conference[];
 const journals = rawJournals as Journal[];
 const options = (values: string[]) =>
@@ -140,7 +142,8 @@ function ConferenceCard({
       </div>
       <div className="deadline-box">
         <span className="eyebrow">
-          {d?.label || (['投稿已截止', '已结束'].includes(status) ? status : '投稿安排')}
+          {d?.label ||
+            (['投稿已截止', '已结束'].includes(status) ? status : '投稿安排')}
         </span>
         <strong className={d ? '' : 'muted'}>
           {d
@@ -148,8 +151,8 @@ function ConferenceCard({
             : status === '已结束'
               ? '本届已结束'
               : status === '投稿已截止'
-              ? '关注参会安排'
-              : '待公布'}
+                ? '关注参会安排'
+                : '待公布'}
         </strong>
         <span>{d ? formatDeadline(d, zone) : '展开查看各阶段时间'}</span>
         <small>
@@ -226,137 +229,6 @@ function ConferenceCard({
     </article>
   );
 }
-function JournalCard({
-  j,
-  now,
-  system: activeSystem,
-  year,
-  level,
-}: {
-  j: Journal;
-  now: Date;
-  system: string;
-  year: string;
-  level: string;
-}) {
-  return (
-    <article className="journal card" id={j.id}>
-      <div className="journal-head">
-        <div className="journal-monogram">{j.abbr}</div>
-        <div>
-          <span className="eyebrow">{j.publisher}</span>
-          <h2>{j.name}</h2>
-        </div>
-      </div>
-      <p className="description">{j.description}</p>
-      <div className="tags">
-        {j.topics.map((t) => (
-          <span key={t}>{t}</span>
-        ))}
-      </div>
-      <div className="rank-preview">
-        {['JCR', 'CAS'].map((system) => {
-          const ranks = j.rankings
-            .filter(
-              (r) =>
-                r.system === system &&
-                (system !== activeSystem ||
-                  year === 'all' ||
-                  String(r.year) === year),
-            )
-            .sort((a, b) => b.year - a.year);
-          const r = ranks.find(
-            (r) =>
-              system === 'JCR' ||
-              r.level === (activeSystem === 'CAS' ? level : 'major'),
-          );
-          return (
-            <div key={system}>
-              <span>
-                {system === 'CAS'
-                  ? activeSystem === 'CAS' && level === 'minor'
-                    ? '中科院小类'
-                    : '中科院大类'
-                  : 'JCR 学科分区'}
-              </span>
-              <strong>
-                {r
-                  ? system === 'CAS'
-                    ? `${r.quartile} 区`
-                    : `Q${r.quartile}`
-                  : '待核实'}
-              </strong>
-              <small>
-                {r
-                  ? `${r.edition} · ${r.evidence === 'official' ? '官方来源' : r.evidence === 'derived' ? '排名推算' : '第三方参考'}`
-                  : '不以其他分区替代'}
-              </small>
-            </div>
-          );
-        })}
-      </div>
-      <details className="card-detail">
-        <summary>
-          分区学科、投稿说明与来源 <span>＋</span>
-        </summary>
-        <div className="details-body">
-          <h3>分区记录</h3>
-          <p className="muted">
-            大类与小类独立；同刊不同学科可能不同。第三方数据须通过学校数据库复核。
-          </p>
-          <div className="ranking-list">
-            {j.rankings.map((r, i) => (
-              <div key={i}>
-                <b>
-                  {r.system === 'CAS'
-                    ? r.level === 'major'
-                      ? '中科院大类'
-                      : '中科院小类'
-                    : 'JCR'}{' '}
-                  · {r.system === 'JCR' ? 'Q' : ''}
-                  {r.quartile}
-                  {r.system === 'CAS' ? ' 区' : ''}
-                </b>
-                <span>{r.category}</span>
-                <small>
-                  {r.edition}
-                  {r.metricYear ? `（指标年 ${r.metricYear}）` : ''} ·{' '}
-                  {r.evidence === 'official'
-                    ? '官方披露'
-                    : r.evidence === 'derived'
-                      ? `依据排名 ${r.rank}/${r.total} 推算`
-                      : '第三方公开参考，待官方复核'}
-                </small>
-                <External href={r.source}>分区来源</External>
-              </div>
-            ))}
-          </div>
-          <h3>投稿准备</h3>
-          <ul>
-            {j.requirements.map((r) => (
-              <li key={r}>{r}</li>
-            ))}
-          </ul>
-          <p>
-            <b>时间：</b>
-            {j.schedule}
-          </p>
-          <p>
-            <b>出版与费用：</b>
-            {j.publishing}
-          </p>
-          <div className="link-row">
-            <External href={j.website}>期刊官网</External>
-            <External href={j.guide}>作者指南 / 投稿</External>
-          </div>
-        </div>
-      </details>
-      <footer>
-        <Evidence at={j.checkedAt} now={now} />
-      </footer>
-    </article>
-  );
-}
 export default function Home() {
   const [tab, setTab] = useState('conferences');
   const [query, setQuery] = useState('');
@@ -364,7 +236,10 @@ export default function Home() {
   const [region, setRegion] = useState('全部地区');
   const [status, setStatus] = useState('全部状态');
   const [zone, setZone] = useState('Asia/Shanghai');
-  const [system, setSystem] = useState('JCR');
+  const [system, setSystem] = useState('all');
+  const [collection, setCollection] = useState('all');
+  const [index, setIndex] = useState('all');
+  const [domain, setDomain] = useState('all');
   const [year, setYear] = useState('all');
   const [level, setLevel] = useState('minor');
   const [quartile, setQuartile] = useState('all');
@@ -404,6 +279,11 @@ export default function Home() {
     setYear('all');
     setQuartile('all');
     setEvidence('all');
+    setSystem('all');
+    setCollection('all');
+    setIndex('all');
+    setDomain('all');
+    setLevel('minor');
   }
   const topics = useMemo(
     () => [
@@ -439,7 +319,16 @@ export default function Home() {
     (j) =>
       matchesText(j, query) &&
       (topic === '全部方向' || j.topics.includes(topic)) &&
-      rankingMatches(j, system, year, level, quartile, evidence === 'official'),
+      journalMatches(j, {
+        collection,
+        index,
+        domain,
+        system,
+        year,
+        level,
+        quartile,
+        officialOnly: evidence === 'official',
+      }),
   );
   const upcoming = conferences
     .flatMap((c) =>
@@ -509,7 +398,9 @@ export default function Home() {
               <strong>
                 {conferences
                   .filter((c) =>
-                    ['有投稿日期', 'PDP 通道'].includes(conferenceStatus(c, now)),
+                    ['有投稿日期', 'PDP 通道'].includes(
+                      conferenceStatus(c, now),
+                    ),
                   )
                   .length.toString()
                   .padStart(2, '0')}
@@ -599,6 +490,47 @@ export default function Home() {
                 ) : (
                   <>
                     <Pick
+                      label="收录范围"
+                      value={collection}
+                      onChange={(v) => {
+                        setCollection(v);
+                        setSystem('all');
+                        setYear('all');
+                        setQuartile('all');
+                        setEvidence('all');
+                      }}
+                      items={[
+                        { value: 'all', label: '全部已收录期刊' },
+                        { value: 'ranked', label: '1/2 区精选' },
+                        { value: 'ei', label: 'EI 工程补充' },
+                      ]}
+                    />
+                    <Pick
+                      label="索引收录"
+                      value={index}
+                      onChange={setIndex}
+                      items={[
+                        { value: 'all', label: '全部索引状态' },
+                        { value: 'SCIE', label: 'SCI（SCIE）' },
+                        { value: 'EI_COMPENDEX', label: 'EI（Compendex）' },
+                        { value: 'both', label: 'SCI 与 EI 双收录' },
+                        { value: 'unverified', label: '索引待核验' },
+                      ]}
+                    />
+                    <Pick
+                      label="学科领域"
+                      value={domain}
+                      onChange={setDomain}
+                      items={[
+                        { value: 'all', label: '全部领域' },
+                        ...options(
+                          journalDomains.filter((d) =>
+                            journals.some((j) => j.domains.includes(d)),
+                          ),
+                        ),
+                      ]}
+                    />
+                    <Pick
                       label="分区体系"
                       value={system}
                       onChange={(v) => {
@@ -606,49 +538,63 @@ export default function Home() {
                         setYear('all');
                       }}
                       items={[
+                        { value: 'all', label: '不限分区（含 EI 补充）' },
                         { value: 'JCR', label: 'JCR 学科分区' },
                         { value: 'CAS', label: '中科院分区' },
                       ]}
                     />
-                    <Pick
-                      label="版本年份"
-                      value={year}
-                      onChange={setYear}
-                      items={[
-                        { value: 'all', label: '所有已收录版本' },
-                        ...options(years),
-                      ]}
-                    />
-                    {system === 'CAS' && (
-                      <Pick
-                        label="中科院分类"
-                        value={level}
-                        onChange={setLevel}
-                        items={[
-                          { value: 'minor', label: '小类学科' },
-                          { value: 'major', label: '大类学科' },
-                        ]}
-                      />
+                    {system !== 'all' && (
+                      <>
+                        <Pick
+                          label="版本年份"
+                          value={year}
+                          onChange={setYear}
+                          items={[
+                            { value: 'all', label: '所有已收录版本' },
+                            ...options(years),
+                          ]}
+                        />
+                        {system === 'CAS' && (
+                          <Pick
+                            label="中科院分类"
+                            value={level}
+                            onChange={setLevel}
+                            items={[
+                              { value: 'minor', label: '小类学科' },
+                              { value: 'major', label: '大类学科' },
+                            ]}
+                          />
+                        )}
+                        <Pick
+                          label="分区范围"
+                          value={quartile}
+                          onChange={setQuartile}
+                          items={[
+                            { value: 'all', label: '1 区 + 2 区' },
+                            {
+                              value: '1',
+                              label: system === 'JCR' ? 'Q1' : '1 区',
+                            },
+                            {
+                              value: '2',
+                              label: system === 'JCR' ? 'Q2' : '2 区',
+                            },
+                          ]}
+                        />
+                        <Pick
+                          label="来源范围"
+                          value={evidence}
+                          onChange={setEvidence}
+                          items={[
+                            { value: 'all', label: '含标注的第三方参考' },
+                            {
+                              value: 'official',
+                              label: '仅官方披露 / 排名推算',
+                            },
+                          ]}
+                        />
+                      </>
                     )}
-                    <Pick
-                      label="分区范围"
-                      value={quartile}
-                      onChange={setQuartile}
-                      items={[
-                        { value: 'all', label: '1 区 + 2 区' },
-                        { value: '1', label: system === 'JCR' ? 'Q1' : '1 区' },
-                        { value: '2', label: system === 'JCR' ? 'Q2' : '2 区' },
-                      ]}
-                    />
-                    <Pick
-                      label="来源范围"
-                      value={evidence}
-                      onChange={setEvidence}
-                      items={[
-                        { value: 'all', label: '含标注的第三方参考' },
-                        { value: 'official', label: '仅官方披露 / 排名推算' },
-                      ]}
-                    />
                   </>
                 )}
                 <div className="filter-tip">
@@ -656,7 +602,7 @@ export default function Home() {
                   <p>
                     {tab === 'conferences'
                       ? '有截止日期不代表投稿系统已开放；请从本届官网确认入口。PDP 面向新近突破成果，不代表普通论文延期。'
-                      : 'JCR Q1 与中科院 1 区不是同一套分类。'}
+                      : 'SCI/EI 是索引，JCR/中科院是分区。选择分区条件会排除无匹配分区的 EI 期刊。'}
                   </p>
                   <button onClick={() => switchTab('guide')}>
                     了解投稿规则 →
@@ -703,7 +649,11 @@ export default function Home() {
                       ]}
                     />
                   ) : (
-                    <span>按所选体系与学科匹配</span>
+                    <span>
+                      {system === 'all'
+                        ? '按索引、领域与收录范围匹配'
+                        : '同时按所选分区匹配'}
+                    </span>
                   )}
                 </div>
                 <TabsContent value="conferences">
@@ -736,8 +686,10 @@ export default function Home() {
                   <div className="notice">
                     <BookOpen size={17} />
                     <p>
-                      只显示所选体系中有 1 / 2
-                      区记录的期刊。中科院按大类或任一小类匹配；展开查看具体学科、版本与来源。第三方分区须校内复核。
+                      SCI/SCIE 与 EI
+                      独立核验，可同时收录；出版社声明与数据库核实分别标注。分区标签注明年份与学科。EI
+                      工程补充允许暂无分区；选择 JCR / 中科院筛选后仅匹配 1 / 2
+                      区记录。
                     </p>
                   </div>
                   <div className="journal-grid">
@@ -749,16 +701,18 @@ export default function Home() {
                         system={system}
                         year={year}
                         level={level}
+                        quartile={quartile}
+                        officialOnly={evidence === 'official'}
                       />
                     ))}
                   </div>
                   {!filteredJournals.length && (
                     <Empty>
                       <EmptyHeader>
-                        <EmptyTitle>暂无匹配的分区记录</EmptyTitle>
+                        <EmptyTitle>暂无匹配的期刊</EmptyTitle>
                         <EmptyDescription>
-                          没有记录不代表该刊不在 1 / 2
-                          区。请切换版本或来源范围；官方分区可通过学校图书馆查询。
+                          请放宽索引、领域或分区条件。待核验不代表未收录；查看
+                          EI 工程补充可将分区改为“不限分区”。
                         </EmptyDescription>
                       </EmptyHeader>
                       <button className="primary-button" onClick={reset}>

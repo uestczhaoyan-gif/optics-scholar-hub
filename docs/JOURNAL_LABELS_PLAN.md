@@ -1,6 +1,6 @@
 # 期刊索引与合集标签规划
 
-更新：2026-09-10。此文件为后续实现要求，尚未改动网站、正式数据或校验规则。
+更新：2026-09-10。核心模型、卡片标签、组合筛选及校验规则已实现；索引证据仍在分批补全，未核实者保持待核验。
 
 ## 收录范围
 
@@ -36,7 +36,7 @@
 
 ## 索引核验与建议字段
 
-后续新增 `issn`、`eissn`、`domains`、`indexes`；现有 `rankings` 和 `topics` 保留。
+已新增 `issn`、`eissn`、`domains`、`indexes`；现有 `rankings` 和 `topics` 保留。
 
 每条 `indexes` 记录建议包括：
 
@@ -52,7 +52,9 @@
 
 按 ISSN 匹配官方数据库；刊名更改、曾收录后停收、覆盖范围有限必须单独处理。期刊被数据库收录不保证每篇文章均已检索。不得用某届会议论文被 EI 检索来证明同名期刊属于 EI 源刊。
 
-## 后续实现批次与验收
+## 实现批次与验收记录
+
+完成：字段与校验、默认全部范围、SCI/EI/双收录/待核验筛选、领域筛选、分区组合、直接可见标签、官网入口与边界测试。新增首本无已核实分区的中文 EI 补充条目。现有 19 本期刊均已迁移字段，只有取得明确来源的索引填写肯定值；全面核验仍待逐批推进。
 
 1. 建立索引字段、领域词表及相应校验；允许 EI 补充条目无分区，修改当前“必须存在 Q1/Q2”的全局约束为按收录路径校验。
 2. 先核验已有 19 本期刊索引，再从扩充候选中选择直接相关 SCI/SCIE 与 EI 刊；中文工程期刊也进入 EI 审核队列。未核验的不填肯定值。
@@ -65,8 +67,8 @@
 - [Clarivate：Web of Science 核心合集与子库说明](https://webofscience.help.clarivate.com/Content/wos-core-collection/wos-core-collection.htm)：区分 SCIE 与其他子库，并指向 [Master Journal List](https://mjl.clarivate.com/)。
 - [Elsevier：Engineering Village 内容来源说明](https://www.elsevier.support/engineering-village/answer/what-are-engineering-villages-content-sources)：平台包含不同数据库，EI 标签须针对 Compendex 核验。
 
-本轮只核对索引概念与官方入口，尚未查询任何候选期刊的实际索引状态。
+本轮已核对部分出版社声明并新增《光学 精密工程》，实际证据见 VERIFICATION_LOG.md；没有全面完成数据库机构入口复核。
 
 ## English
 
-Planned journal cards will show independently verified SCI/SCIE and EI Compendex indexing, year- and category-specific JCR/CAS rankings, broad fields and research topics. An EI engineering supplement may contain relevant verified EI journals without rankings; the existing Q1/Q2 collection remains available separately. Indexing and rankings are independent, and dual-indexed journals are not duplicated. This document specifies future schema, filters and acceptance checks; no production records or interface changes have been made.
+Planned journal cards will show independently verified SCI/SCIE and EI Compendex indexing, year- and category-specific JCR/CAS rankings, broad fields and research topics. An EI engineering supplement may contain relevant verified EI journals without rankings; the existing Q1/Q2 collection remains available separately. Indexing and rankings are independent, and dual-indexed journals are not duplicated. The schema, filters and card labels are implemented. Indexing evidence remains incomplete and is explicitly marked; see the verification log.
