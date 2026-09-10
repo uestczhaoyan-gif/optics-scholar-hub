@@ -1,0 +1,462 @@
+[
+  {
+    "id": "acp-2026",
+    "series": "ACP",
+    "year": 2026,
+    "name": "亚洲通信与光子学会议",
+    "nameEn": "Asia Communications and Photonics Conference",
+    "region": "中国境内",
+    "location": "中国 · 杭州",
+    "venue": "具体会场请查看官网参会通知",
+    "start": "2026-11-01",
+    "end": "2026-11-04",
+    "topics": ["光通信", "集成光子", "传感与测量"],
+    "description": "面向光通信、光传感和光电子器件的国际会议，适合器件、系统与网络方向交流。",
+    "website": "https://www.acpconf.com/",
+    "notice": "https://www.acpconf.com/news/paper-submission",
+    "registration": "https://www.acpconf.com/",
+    "checkedAt": "2026-09-09",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "普通论文：英文、IEEE 双栏 2–6 页，包含图表与参考文献；提交完整稿和匿名审稿稿，两者核心内容一致。",
+      "PDP：单独的最新突破成果通道，使用 3 页论文；需按本届页面要求完成 PDF eXpress 检查。",
+      "从官网进入 Learning Conference 系统，选择 ACP 2026 后提交摘要和论文；注册缴费、参会报告与最终 PDF/版权手续分别完成。"
+    ],
+    "publication": "至少一位作者注册缴费并现场报告，最终稿需完成版权与 PDF 认证。PDP 扩展稿的期刊邀请不等于期刊录用。",
+    "notes": "普通投稿由 7 月 1 日延至 7 月 15 日；7 月 22 日仅为已有投稿修改窗口。首页 9 月 8 日称 PDP 已开放，但 PDP 说明页仍有 Opening Soon 文案，进入系统确认入口。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（延期后）",
+        "at": "2026-07-15T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://www.acpconf.com/news/paper-submission"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2026-09-30",
+        "source": "https://www.acpconf.com/",
+        "note": "官网仅公布日期，具体时刻待核实。"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 最新成果投稿截止",
+        "at": "2026-10-15T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://www.acpconf.com/news/465"
+      },
+      {
+        "type": "camera-ready",
+        "label": "录用论文终稿截止",
+        "date": "2026-10-25",
+        "source": "https://www.acpconf.com/"
+      }
+    ]
+  },
+  {
+    "id": "ofc-2027",
+    "series": "OFC",
+    "year": 2027,
+    "name": "光纤通信会议",
+    "nameEn": "Optical Fiber Communication Conference and Exhibition",
+    "region": "海外",
+    "location": "美国 · 洛杉矶",
+    "venue": "Los Angeles Convention Center",
+    "start": "2027-03-07",
+    "end": "2027-03-11",
+    "topics": ["光通信", "集成光子"],
+    "description": "聚焦光通信器件、传输系统和网络，适合光互连、光纤通信与集成光子研究。",
+    "website": "https://www.ofcconference.org/home/",
+    "notice": "https://www.ofcconference.org/submit-a-paper/submission-guidelines/",
+    "registration": "https://www.ofcconference.org/home/",
+    "checkedAt": "2026-09-09",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "普通稿件需 35 词摘要和 3 页 summary，按照官方模板制作 PDF，列出作者、单位与版权声明。",
+      "从官网 Submit a Paper 进入在线系统；截止后不允许修改。PDP 是新近重大成果通道，并非普通稿件补交。",
+      "本届规则限制已上预印本服务器的论文；提交前须仔细核对 Pre-Print Declaration。"
+    ],
+    "publication": "录用并报告的论文进入 OFC Technical Digest；官网说明报告后的摘要论文将由 Optica 平台及 IEEE Xplore 提供。",
+    "notes": "举办时间为技术会议，展览为 3 月 9–11 日。当前 Author Timeline 仅列日期，本站不据此推定精确时区。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "摘要及论文截止",
+        "date": "2026-10-20",
+        "source": "https://www.ofcconference.org/submit-a-paper/author-timeline/",
+        "note": "Optica 活动页出现 12:00，但该页未标时区；暂按日期展示。"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知开始发出",
+        "date": "2026-12-14",
+        "source": "https://www.ofcconference.org/submit-a-paper/author-timeline/",
+        "note": "通知窗口为 12 月 14–18 日。"
+      },
+      {
+        "type": "registration",
+        "label": "提前注册截止",
+        "date": "2027-02-05",
+        "source": "https://www.ofcconference.org/submit-a-paper/author-timeline/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 截止",
+        "date": "2027-02-23",
+        "source": "https://www.ofcconference.org/submit-a-paper/author-timeline/"
+      }
+    ]
+  },
+  {
+    "id": "cleo-2027",
+    "series": "CLEO",
+    "year": 2027,
+    "name": "激光与光电子会议",
+    "nameEn": "Conference on Lasers and Electro-Optics",
+    "region": "海外",
+    "location": "美国 · 长滩",
+    "venue": "Long Beach Convention Center",
+    "start": "2027-05-02",
+    "end": "2027-05-07",
+    "topics": ["激光与非线性", "量子光学", "集成光子", "成像与计算光学"],
+    "description": "覆盖激光、基础光学与光电子应用，可按基础科学、技术创新和应用主题寻找对应研究社区。",
+    "website": "https://cleoconference.org/",
+    "notice": "https://cleoconference.org/2027-call-for-papers/",
+    "registration": null,
+    "checkedAt": "2026-09-09",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "2027 届明确要求 35 词摘要与 2 页 summary PDF，使用本届模板；不要沿用其他会议的 3 页要求。",
+      "通过征稿页链接进入 CLEO 2027 Abstract Central，选择主题并上传完整作者及单位信息。",
+      "图表包含在页数限制内，嵌入字体并完成版权声明；截止后不能修改。"
+    ],
+    "publication": "官网说明录用且完成报告的稿件在 Optica 平台出版并送交 IEEE Xplore。数据库实际收录应在出版后核实。",
+    "notes": "注册截止尚未核实；技术会议为 5 月 2–7 日，展览为 5 月 4–5 日。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "摘要与论文截止",
+        "at": "2026-11-23T23:59:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://cleoconference.org/2027-call-for-papers/",
+        "note": "原文 11:59 PM PT；该日期为 PST（UTC−08:00）。"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止",
+        "date": null,
+        "source": "https://cleoconference.org/",
+        "note": "尚未核实本届注册安排。"
+      }
+    ]
+  },
+  {
+    "id": "cos-2026",
+    "series": "COS 年会",
+    "year": 2026,
+    "name": "中国光学学会学术大会",
+    "nameEn": "Chinese Optical Society Academic Conference",
+    "region": "中国境内",
+    "location": "中国 · 深圳",
+    "venue": "深圳国际会展中心",
+    "start": "2026-09-10",
+    "end": "2026-09-12",
+    "topics": ["综合光学", "成像与计算光学", "光学设计与制造"],
+    "description": "中国光学学会主办的综合学术会议，包含光学与光学工程多个专题，适合了解国内研究方向与学术团队。",
+    "website": "https://meeting.cncos.org.cn/cosconf2026/index.htm",
+    "notice": "https://meeting.cncos.org.cn/cosconf2026/index.htm",
+    "registration": "https://meeting.cncos.org.cn/cosconf2026/index.htm",
+    "checkedAt": "2026-09-09",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "按大会摘要模板准备稿件，从官网“论文提交”进入投稿系统；首次投稿需注册。",
+      "已录用张贴报告按本届模板制作 PDF，官网提供统一印制与现场自行张贴说明。",
+      "摘要由分会审阅并安排口头或张贴报告，优秀工作可推荐至相关期刊。"
+    ],
+    "publication": "大会系统的“录用”仅表示报告入选，推荐期刊有独立审稿流程；不能把会议报告当作已发表 SCI 论文。",
+    "notes": "官网显示摘要投稿已截止，参会注册已开放。注册截止时刻未公布在已核实内容中。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要截止",
+        "date": "2026-07-15",
+        "source": "https://meeting.cncos.org.cn/cosconf2026/index.htm"
+      },
+      {
+        "type": "notification",
+        "label": "摘要录用通知最迟日期",
+        "date": "2026-07-22",
+        "source": "https://meeting.cncos.org.cn/cosconf2026/index.htm"
+      },
+      {
+        "type": "poster",
+        "label": "统一印制海报上传截止",
+        "date": "2026-08-20",
+        "source": "https://meeting.cncos.org.cn/cosconf2026/index.htm"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止",
+        "date": null,
+        "source": "https://meeting.cncos.org.cn/cosconf2026/index.htm"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "closed",
+    "id": "ecoc-2026",
+    "series": "ECOC",
+    "year": 2026,
+    "name": "欧洲光通信会议",
+    "nameEn": "European Conference on Optical Communication",
+    "location": "西班牙 · 马拉加",
+    "venue": "具体会场及交通请查看官网参会安排",
+    "start": "2026-09-20",
+    "end": "2026-09-24",
+    "topics": ["光通信", "集成光子"],
+    "description": "欧洲光通信领域的主要交流会议，涵盖光器件、传输系统、网络与光互连。",
+    "website": "https://ecoc2026.org/",
+    "notice": "https://ecoc2026.org/ECOC2026/paper-submission",
+    "registration": "https://ecoc2026.org/",
+    "requirements": [
+      "使用本届 Word 或 LaTeX 模板，提交 PDF；正文最多 3 页，另可加 1 页致谢和参考文献；摘要限 45 词。",
+      "从官网 My Account / My Congress 进入投稿系统，选择对应分委会；按照要求提交许可协议。",
+      "截止前可替换稿件；提交的最终版本需满足出版要求，作者须另行注册和报告。"
+    ],
+    "publication": "录用且报告的 PDP 由 Optica 出版并送交数据库检索；受邀扩展为期刊稿仍需独立审稿。",
+    "notes": "官网现已明确关闭投稿；普通论文由 4 月 15 日延期至 4 月 22 日，PDP 于 9 月 7 日截止。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（延期后）",
+        "date": "2026-04-22",
+        "source": "https://ecoc2026.org/ECOC2026/paper-submission"
+      },
+      {
+        "type": "notification",
+        "label": "普通论文录用通知",
+        "date": "2026-06-15",
+        "source": "https://ecoc2026.org/ECOC2026/paper-submission"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2026-07-15",
+        "source": "https://ecoc2026.org/ECOC2026/paper-submission"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 截止",
+        "date": "2026-09-07",
+        "source": "https://ecoc2026.org/ECOC2026/paper-submission"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "fio-2026",
+    "series": "FiO + LS",
+    "year": 2026,
+    "name": "光学前沿与激光科学会议",
+    "nameEn": "Frontiers in Optics + Laser Science",
+    "location": "美国 · 罗切斯特",
+    "venue": "Joseph A. Floreano Rochester Riverside Convention Center",
+    "start": "2026-09-27",
+    "end": "2026-10-01",
+    "topics": ["综合光学", "激光与非线性", "量子光学"],
+    "description": "连接基础光学、激光科学与应用研究的综合会议，适合跨方向交流与了解学科进展。",
+    "website": "https://www.frontiersinoptics.com/",
+    "notice": "https://www.frontiersinoptics.com/submissions/author-timeline",
+    "registration": "https://www.frontiersinoptics.com/registration",
+    "requirements": [
+      "普通投稿准备 35 词摘要和 2 页 PDF summary，具体版式见官网 Paper Preparation。",
+      "通过官网在线系统提交；使用当届模板，旧说明中的版权年份不能直接照搬。",
+      "PDP 是独立的新成果通道，录用通知与普通论文分开。"
+    ],
+    "publication": "摘要录用、参会报告和论文出版手续分别核实；按当届作者指南完成注册、报告及版权。",
+    "notes": "PDP 已于美国东部时间 9 月 9 日中午截止；产业展示为 9 月 29–30 日，与技术会议日期不同。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止",
+        "at": "2026-06-02T12:00:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.frontiersinoptics.com/submissions/author-timeline"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "at": "2026-08-14T23:59:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.frontiersinoptics.com/registration"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 截止",
+        "at": "2026-09-09T12:00:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.frontiersinoptics.com/submissions/author-timeline"
+      },
+      {
+        "type": "notification",
+        "label": "PDP 录用通知",
+        "date": "2026-09-18",
+        "source": "https://www.frontiersinoptics.com/submissions/author-timeline"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "closed",
+    "id": "ipc-2026",
+    "series": "IEEE IPC",
+    "year": 2026,
+    "name": "IEEE 光子学会议",
+    "nameEn": "IEEE Photonics Conference",
+    "location": "美国 · 丹佛",
+    "venue": "会场与住宿请核对官网 Attendees 页面",
+    "start": "2026-11-08",
+    "end": "2026-11-12",
+    "topics": ["集成光子", "光通信", "激光与非线性"],
+    "description": "IEEE 光子学学会的年度会议，覆盖光电子器件、材料、系统及其应用。",
+    "website": "https://ieee-ipc.org/",
+    "notice": "https://ieee-ipc.org/paper-submission/submission-guidelines/",
+    "registration": "https://ieee-ipc.org/attendees/registration/",
+    "requirements": [
+      "提交 2 页论文和 45 词摘要；按本届模板处理图表、页边距与 PDF。",
+      "从官网进入投稿入口，按照指南完成 PDF eXpress 认证和版权表；认证不等于提交。",
+      "作者须满足注册与现场报告要求，才能满足 IEEE Xplore 出版条件。"
+    ],
+    "publication": "未完成作者注册或现场报告可能影响 Xplore 出版，按本届 no-show 政策执行。",
+    "notes": "官网已关闭普通投稿，当前页面未保留可核实的具体截止时刻；提前注册明确写 Before 8 October，请提前完成。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通投稿已关闭（原日期待核实）",
+        "date": null,
+        "source": "https://ieee-ipc.org/paper-submission/submission-guidelines/"
+      },
+      {
+        "type": "registration",
+        "label": "提前注册价格边界",
+        "date": "2026-10-08",
+        "source": "https://ieee-ipc.org/attendees/registration/",
+        "note": "原文 Before 8 October；须在 10 月 8 日前完成，不表示 8 日全天有效。"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "odf-2027",
+    "series": "Optica ODF",
+    "year": 2027,
+    "name": "光学设计与制造大会",
+    "nameEn": "Optica Optical Design and Fabrication Congress",
+    "location": "比利时 · 安特卫普",
+    "venue": "Hilton Antwerp Old Town",
+    "start": "2027-04-11",
+    "end": "2027-04-15",
+    "topics": ["光学设计与制造", "超表面与材料", "传感与测量"],
+    "description": "围绕光学设计、自由曲面、制造和检测，适合光学工程及精密加工方向。",
+    "website": "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/",
+    "notice": "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/submit_papers/",
+    "registration": null,
+    "requirements": [
+      "准备 35 词摘要和 2 页 PDF summary，使用 2027 年模板及版权声明。",
+      "通过大会在线投稿系统提交，填写作者与单位信息；不接受电子邮件代投。",
+      "截止后不接受修改，提交前核查图表、字体及最终 PDF。"
+    ],
+    "publication": "按本届作者指南完成报告及出版手续；具体注册和报告安排以录用通知为准。",
+    "notes": "截止采用美国东部时间；12 月 1 日为 EST（UTC−05:00）。注册截止尚未核实。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "论文与摘要截止",
+        "at": "2026-12-01T12:00:00-05:00",
+        "timezone": "America/New_York",
+        "source": "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/submit_papers/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止",
+        "date": null,
+        "source": "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/"
+      }
+    ]
+  },
+  {
+    "id": "icip-2026",
+    "series": "IEEE ICIP",
+    "year": 2026,
+    "name": "IEEE 国际图像处理会议",
+    "nameEn": "IEEE International Conference on Image Processing",
+    "region": "海外",
+    "location": "芬兰 · 坦佩雷",
+    "venue": "会场详情见本届官网 Conference Venue",
+    "start": "2026-09-13",
+    "end": "2026-09-17",
+    "topics": ["成像与计算光学"],
+    "description": "以图像处理与成像计算为核心的交叉会议，适合计算成像、图像重建与视觉算法方向。",
+    "website": "https://2026.ieeeicip.org/",
+    "notice": "https://2026.ieeeicip.org/call-for-papers-and-abstracts/",
+    "registration": "https://2026.ieeeicip.org/",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "普通及特别分会论文最多 5 页正文加 1 页纯参考文献，通过 Ex Ordo 系统提交。",
+      "Work-in-Progress 为 1 页摘要通道，与普通会议论文的出版形式不同；不要混用模板。",
+      "终稿、作者注册及报告分别完成，no-show 政策及注册覆盖论文数量见作者指南。"
+    ],
+    "publication": "普通论文进入 IEEE Xplore 的会议论文集；一页摘要在面向参会者的会议材料中提供，不应视为同等 Xplore 论文。",
+    "notes": "OJSP 期刊审稿通道有独立页数、截止日及出版规则，本卡普通论文日期不适用于该通道。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（延期后）",
+        "date": "2026-02-04",
+        "source": "https://2026.ieeeicip.org/call-for-papers-and-abstracts/"
+      },
+      {
+        "type": "notification",
+        "label": "普通论文录用通知",
+        "date": "2026-04-29",
+        "source": "https://2026.ieeeicip.org/call-for-papers-and-abstracts/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "普通论文终稿截止",
+        "date": "2026-05-13",
+        "source": "https://2026.ieeeicip.org/call-for-papers-and-abstracts/"
+      },
+      {
+        "type": "abstract",
+        "label": "Work-in-Progress 摘要截止",
+        "date": "2026-05-20",
+        "source": "https://2026.ieeeicip.org/call-for-papers-and-abstracts/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止",
+        "date": null,
+        "source": "https://2026.ieeeicip.org/"
+      }
+    ]
+  }
+]

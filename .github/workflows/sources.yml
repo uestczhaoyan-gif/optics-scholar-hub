@@ -1,0 +1,34 @@
+name: Check official sources
+on:
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: source-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/cache/restore@v4
+        with:
+          path: source-state
+          key: source-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: source-
+      - run: node scripts/check-sources.mjs
+      - uses: actions/cache/save@v4
+        with:
+          path: source-state
+          key: source-${{ github.run_id }}-${{ github.run_attempt }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-report
+          path: source-report
+          retention-days: 30

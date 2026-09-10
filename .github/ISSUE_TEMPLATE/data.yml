@@ -1,0 +1,23 @@
+name: 数据新增或纠错 / Data update
+description: 请附上当届官方链接 / Include current official sources
+body:
+  - type: input
+    id: entity
+    attributes:
+      label: 期刊或会议及年份 / Name and year
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 需要修改的内容 / Proposed change
+      description: 时间须说明时区；分区须说明体系、版本年、大类或小类。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 公开来源链接 / Public evidence
+      description: 请勿上传受限分区表或账号信息。
+    validations:
+      required: true

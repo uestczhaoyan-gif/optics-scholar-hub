@@ -1,0 +1,950 @@
+[
+  {
+    "id": "nature-photonics",
+    "name": "Nature Photonics",
+    "abbr": "NP",
+    "publisher": "Nature Portfolio",
+    "topics": ["综合光学", "光学材料", "量子光学"],
+    "description": "关注光的产生、操控与探测，覆盖基础物理、光电子器件及应用研究。",
+    "website": "https://www.nature.com/nphoton/",
+    "guide": "https://www.nature.com/nphoton/for-authors",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/15679.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/15679.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理：应用",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/15679.html",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "lsa",
+    "name": "Light: Science & Applications",
+    "abbr": "LSA",
+    "publisher": "Springer Nature",
+    "topics": ["综合光学", "成像与计算光学", "光学材料"],
+    "description": "开放获取期刊，覆盖光学与光子学的基础、工程及交叉应用研究。",
+    "website": "https://www.nature.com/lsa/",
+    "guide": "https://www.nature.com/lsa/for-authors",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rRgGBp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rRgGBp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rRgGBp",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "aop",
+    "name": "Advances in Optics and Photonics",
+    "abbr": "AOP",
+    "publisher": "Optica Publishing Group",
+    "topics": ["综合光学"],
+    "description": "以光学与光子学的系统综述和教程为特色，适合建立领域知识框架；投稿前先确认综述提案及邀稿政策。",
+    "website": "https://opg.optica.org/aop/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 3,
+        "total": 129
+      }
+    ]
+  },
+  {
+    "id": "optica",
+    "name": "Optica",
+    "abbr": "Optica",
+    "publisher": "Optica Publishing Group",
+    "topics": ["综合光学", "量子光学"],
+    "description": "覆盖基础与应用光学，强调研究的新意以及对光学读者群的意义。",
+    "website": "https://opg.optica.org/optica/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 12,
+        "total": 129
+      }
+    ]
+  },
+  {
+    "id": "prj",
+    "name": "Photonics Research",
+    "abbr": "PR",
+    "publisher": "Optica Publishing Group",
+    "topics": ["集成光子", "光学材料", "激光与非线性"],
+    "description": "面向光子学基础与应用研究，涵盖器件、激光、光场调控和交叉应用。",
+    "website": "https://opg.optica.org/prj/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 16,
+        "total": 129
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/19310.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/19310.html",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "jlt",
+    "name": "Journal of Lightwave Technology",
+    "abbr": "JLT",
+    "publisher": "IEEE / Optica Publishing Group",
+    "topics": ["光通信", "集成光子", "电子与器件"],
+    "description": "适合光波导、光纤、光互连和光通信系统研究，由 IEEE 与 Optica 联合出版。",
+    "website": "https://opg.optica.org/jlt/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 24,
+        "total": 129
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC 工程：电子与电气",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 85,
+        "total": 369
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "TELECOMMUNICATIONS 电信学",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 35,
+        "total": 127
+      }
+    ]
+  },
+  {
+    "id": "opticaq",
+    "name": "Optica Quantum",
+    "abbr": "OQ",
+    "publisher": "Optica Publishing Group",
+    "topics": ["量子光学"],
+    "description": "关注量子科学与光学的交叉，包含量子光源、量子信息和相关光子技术。",
+    "website": "https://opg.optica.org/opticaq/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 26,
+        "total": 129
+      }
+    ]
+  },
+  {
+    "id": "jocn",
+    "name": "Journal of Optical Communications and Networking",
+    "abbr": "JOCN",
+    "publisher": "IEEE / Optica Publishing Group",
+    "topics": ["光通信", "电子与器件"],
+    "description": "聚焦光通信与网络层面的设计、运行和技术问题，适合器件以外的系统和网络工作。",
+    "website": "https://opg.optica.org/jocn/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 26,
+        "total": 129
+      }
+    ]
+  },
+  {
+    "id": "oe",
+    "name": "Optics Express",
+    "abbr": "OE",
+    "publisher": "Optica Publishing Group",
+    "topics": ["综合光学", "成像与计算光学", "激光与非线性"],
+    "description": "覆盖范围广的光学研究期刊，适合完整阐述方法、实验和性能验证。",
+    "website": "https://opg.optica.org/oe/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 45,
+        "total": 129
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 2,
+        "source": "https://www.fabiao.com.cn/sci/10944087/",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.fabiao.com.cn/sci/10944087/",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "ol",
+    "name": "Optics Letters",
+    "abbr": "OL",
+    "publisher": "Optica Publishing Group",
+    "topics": ["综合光学", "激光与非线性"],
+    "description": "以短篇光学研究报告为特色，适合能紧凑说明的新发现；使用本刊最新篇幅要求。",
+    "website": "https://opg.optica.org/ol/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 47,
+        "total": 129
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=Dbljyp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 3,
+        "source": "https://www.ablesci.com/journal/detail?id=Dbljyp",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "boe",
+    "name": "Biomedical Optics Express",
+    "abbr": "BOE",
+    "publisher": "Optica Publishing Group",
+    "topics": ["生物医学光学", "成像与计算光学"],
+    "description": "关注光学在生物医学研究中的方法与应用，包含成像、诊断和生物光子技术。",
+    "website": "https://opg.optica.org/boe/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 51,
+        "total": 129
+      }
+    ]
+  },
+  {
+    "id": "ome",
+    "name": "Optical Materials Express",
+    "abbr": "OME",
+    "publisher": "Optica Publishing Group",
+    "topics": ["光学材料", "电子与器件"],
+    "description": "以材料的光学性质、制备、表征及器件应用为重点，适合材料与光子学交叉工作。",
+    "website": "https://opg.optica.org/ome/home.cfm",
+    "guide": "https://opg.optica.org/content/author/portal/",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://opg.optica.org/content/author/portal/item/style-metrics/",
+        "evidence": "derived",
+        "rank": 62,
+        "total": 129
+      }
+    ]
+  },
+  {
+    "id": "ap",
+    "name": "Advanced Photonics",
+    "abbr": "AP",
+    "publisher": "SPIE / Chinese Laser Press",
+    "topics": ["综合光学", "成像与计算光学"],
+    "description": "由 SPIE 与中国激光杂志社联合出版，面向光学与光子学基础和应用创新。",
+    "website": "https://www.spiedigitallibrary.org/journals/advanced-photonics",
+    "guide": "https://www.spiedigitallibrary.org/journals/advanced-photonics",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://siom.cas.cn/xwzx/zhxw/202606/t20260624_8232569.html",
+        "evidence": "official"
+      }
+    ]
+  },
+  {
+    "id": "apn",
+    "name": "Advanced Photonics Nexus",
+    "abbr": "APN",
+    "publisher": "SPIE / Chinese Laser Press",
+    "topics": ["综合光学", "集成光子"],
+    "description": "覆盖光子学基础与应用的国际期刊，关注新方法、新器件及其应用。",
+    "website": "https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus",
+    "guide": "https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://siom.cas.cn/xwzx/zhxw/202606/t20260624_8232569.html",
+        "evidence": "official"
+      }
+    ]
+  },
+  {
+    "id": "hpl",
+    "name": "High Power Laser Science and Engineering",
+    "abbr": "HPL",
+    "publisher": "Cambridge / Chinese Laser Press",
+    "topics": ["激光与非线性", "光学材料"],
+    "description": "关注高功率激光、强场物理、相关材料和工程应用。",
+    "website": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering",
+    "guide": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://siom.cas.cn/xwzx/zhxw/202606/t20260624_8232569.html",
+        "evidence": "official"
+      }
+    ]
+  },
+  {
+    "id": "aom",
+    "name": "Advanced Optical Materials",
+    "abbr": "AOM",
+    "publisher": "Wiley",
+    "topics": ["光学材料", "电子与器件"],
+    "description": "关注光学材料、超材料、纳米结构及器件，适合同时讨论材料机制和光学性能的工作。",
+    "website": "https://advanced.onlinelibrary.wiley.com/journal/21951071",
+    "guide": "https://advanced.onlinelibrary.wiley.com/journal/21951071",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rAX2zD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY 材料科学：综合",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rAX2zD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "材料科学",
+        "level": "major",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rAX2zD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rAX2zD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "材料科学：综合",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rAX2zD",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "acs-photonics",
+    "name": "ACS Photonics",
+    "abbr": "ACS P",
+    "publisher": "ACS Publications",
+    "topics": ["光学材料", "集成光子", "电子与器件"],
+    "description": "面向光子学和光与物质相互作用，包含纳米光学、材料与器件交叉研究。",
+    "website": "https://pubs.acs.org/journal/apchd5",
+    "guide": "https://pubs.acs.org/page/apchd5/submission/authors.html",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY 材料科学：综合",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "材料科学：综合",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "纳米科技",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理：应用",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理：凝聚态物理",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rvqZgD",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "nanophotonics",
+    "name": "Nanophotonics",
+    "abbr": "NanoP",
+    "publisher": "De Gruyter Brill",
+    "topics": ["光学材料", "集成光子"],
+    "description": "聚焦光与纳米结构的相互作用，适合超表面、纳米共振器和纳米光子器件方向。",
+    "website": "https://www.degruyterbrill.com/journal/key/nanoph/html",
+    "guide": "https://www.editorialmanager.com/NANOPH",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY 材料科学：综合",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "材料科学：综合",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理：应用",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "纳米科技",
+        "level": "minor",
+        "quartile": 3,
+        "source": "https://www.ablesci.com/journal/detail?id=rROgxp",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "advanced-materials",
+    "name": "Advanced Materials",
+    "abbr": "AM",
+    "publisher": "Wiley",
+    "topics": ["光学材料", "电子与器件"],
+    "description": "材料科学交叉期刊；光学相关工作应突出材料本身的新机制、功能或性能，而不只是常规光学测试。",
+    "website": "https://advanced.onlinelibrary.wiley.com/journal/15214095",
+    "guide": "https://advanced.onlinelibrary.wiley.com/journal/15214095",
+    "requirements": [
+      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
+      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+    ],
+    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
+    "checkedAt": "2026-09-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY 材料科学：综合",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://www.ablesci.com/journal/detail?id=7DbP7p",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "材料科学",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/technology/9875.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "材料科学：综合",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/technology/9875.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "化学：综合",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/technology/9875.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "纳米科技",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/technology/9875.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理：应用",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/technology/9875.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年升级版",
+        "year": 2025,
+        "category": "物理：凝聚态物理",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/technology/9875.html",
+        "evidence": "secondary"
+      }
+    ]
+  }
+]
