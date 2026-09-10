@@ -557,5 +557,59 @@
         "source": "https://www.optica.org/events/congress/laser_congress/registration/"
       }
     ]
+  },
+  {
+    "id": "omta-2026",
+    "series": "OMTA",
+    "year": 2026,
+    "name": "国际先进光电材料、技术与应用大会",
+    "nameEn": "OMTA 2026",
+    "region": "中国境内",
+    "location": "中国 · 福州",
+    "venue": "具体场馆待官方进一步通知",
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "topics": ["光电材料", "纳米与超表面", "集成光子", "生物医学光子学"],
+    "description": "中国光学工程学会主办，围绕功能晶体、半导体、低维材料、超表面、显示与能源应用，连接光电材料、器件和应用研究。",
+    "website": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
+    "notice": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
+    "registration": "https://b2b.csoe.org.cn/registration/OMTA2026_cn.html",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "英文稿先在大会投稿系统提交 300–500 词摘要，并选择 SPIE Proceedings；摘要通过后按通知到 SPIE 提交全文，全文入口待通知。",
+      "中文稿提交全文并选择 Journals，经审核后择优推荐期刊；仅做口头或张贴交流可提交报告摘要并注明交流类型。",
+      "投稿系统、摘要模板、中文模板和保密审查材料均从官方通知页获取。"
+    ],
+    "publication": "主办方列出英文 SPIE 论文集与中文期刊推荐两条路径。会议录用、论文集出版、EI 检索和期刊录用分别确认；会议费不含出版费及住宿费。",
+    "notes": "核实到第二轮截稿与提前缴费优惠截止均为 9 月 30 日，二者用途不同；官网未给具体时刻或时区，仅按日期显示。场馆和英文全文截止待核实。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "第一轮投稿截止",
+        "date": "2026-08-31",
+        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html"
+      },
+      {
+        "type": "abstract",
+        "label": "第二轮投稿截止（中文为全文）",
+        "date": "2026-09-30",
+        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
+        "note": "英文摘要、中文全文及仅交流摘要按不同路径提交；具体时刻待核实。"
+      },
+      {
+        "type": "registration",
+        "label": "提前缴费优惠截止",
+        "date": "2026-09-30",
+        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "英文全文截止待通知",
+        "date": null,
+        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html"
+      }
+    ]
   }
 ]
