@@ -473,5 +473,89 @@
         "source": "https://2026.ieeeicip.org/"
       }
     ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "published",
+    "publication": "主办方说明录用且完成报告的论文在 Optica 平台出版，并声明 Ei Compendex 等索引支持；不保证单篇即时检索，报告录用与出版须分别确认。",
+    "id": "biophotonics-2027",
+    "series": "Optica Biophotonics",
+    "year": 2027,
+    "name": "Optica 生物光子学大会",
+    "nameEn": "Optica Biophotonics Congress",
+    "location": "美国 · 丹佛",
+    "venue": "Embassy Suites by Hilton Denver Downtown",
+    "start": "2027-04-18",
+    "end": "2027-04-21",
+    "topics": ["生物医学光子学", "成像与计算光学", "传感与测量"],
+    "description": "围绕生命科学与临床中的光学技术，涵盖分子探针、生物成像和光学仪器，补充生物医学交叉方向。",
+    "website": "https://www.optica.org/events/congress/biophotonics_congress/",
+    "notice": "https://www.optica.org/events/congress/biophotonics_congress/submit_papers/",
+    "registration": null,
+    "requirements": [
+      "提交 35 词英文摘要和 2 页 summary；PDF 中保留题目、作者单位、相同摘要、版权说明，并嵌入字体。",
+      "通过官方在线系统投稿，按研究方向选择类别；不接受邮件、传真投稿，截止后不能修改。",
+      "可选择口头、海报或两者皆可，最终形式由委员会决定。"
+    ],
+    "notes": "官网宣布征稿开放；本轮已核对时区与格式。注册、录用通知及终稿安排待公布或进一步核实。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "摘要与 2 页 summary 截止",
+        "at": "2026-12-08T12:00:00-05:00",
+        "timezone": "America/New_York",
+        "source": "https://www.optica.org/events/congress/biophotonics_congress/submit_papers/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/congress/biophotonics_congress/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-09-10",
+    "evidence": "official",
+    "submissionState": "published",
+    "publication": "主办方说明录用且完成报告的论文在 Optica 平台出版，并声明 Ei Compendex 等索引支持；不保证单篇即时检索，报告录用与出版须分别确认。",
+    "id": "laser-congress-2026",
+    "series": "Optica Laser Congress",
+    "year": 2026,
+    "name": "Optica 激光大会暨展览",
+    "nameEn": "Optica Laser Congress and Exhibition",
+    "location": "立陶宛 · 维尔纽斯",
+    "venue": "Radisson Blu Hotel Lietuva",
+    "start": "2026-10-11",
+    "end": "2026-10-15",
+    "topics": ["激光与非线性", "光学设计与制造", "传感与测量"],
+    "description": "涵盖固体激光、高强度激光、紧凑 EUV/X 射线光源、中红外光源及激光加工应用；ASSL、HILAS、LAC 等专题统一按大会收录。",
+    "website": "https://www.optica.org/events/congress/laser_congress/",
+    "notice": "https://www.optica.org/events/congress/laser_congress/submit_papers/",
+    "registration": "https://www.optica.org/events/congress/laser_congress/registration/",
+    "requirements": [
+      "PDP 通道仅面向最新且有时效性的突出成果，不能当作普通投稿的延迟窗口；PDP 仅安排口头报告。",
+      "提交 35 词英文摘要与 2 页 summary，使用官方模板并嵌入字体；在线提交，截止后不接受修改。"
+    ],
+    "notes": "当前征稿页显示 PDP 截止；普通投稿历史截止本轮未核实。早鸟注册已结束，技术会议注册与免费展览通行证权益不同。",
+    "deadlines": [
+      {
+        "type": "pdp",
+        "label": "PDP 最新成果截止",
+        "at": "2026-09-22T12:00:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.optica.org/events/congress/laser_congress/submit_papers/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "at": "2026-08-28T23:59:00+03:00",
+        "timezone": "Europe/Vilnius",
+        "source": "https://www.optica.org/events/congress/laser_congress/registration/"
+      }
+    ]
   }
 ]
