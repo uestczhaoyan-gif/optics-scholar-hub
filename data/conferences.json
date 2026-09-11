@@ -611,5 +611,91 @@
         "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html"
       }
     ]
+  },
+  {
+    "id": "quantum-2027",
+    "series": "Optica Quantum 2.0",
+    "year": 2027,
+    "name": "Optica Quantum 2.0 量子技术会议暨展览",
+    "nameEn": "Optica Quantum 2.0 Conference and Exhibition",
+    "region": "海外",
+    "location": "丹麦 · 哥本哈根",
+    "venue": "Bella Center",
+    "start": "2027-06-07",
+    "end": "2027-06-10",
+    "topics": ["量子光学", "传感与测量", "光通信"],
+    "description": "涵盖量子计算、通信、器件、传感与计量，适合光子量子技术相关研究；会期已公布，投稿截止仍待公布。",
+    "website": "https://www.optica.org/events/topical_meetings/quantum/",
+    "notice": "https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/",
+    "registration": null,
+    "checkedAt": "2026-09-11",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "当前标注 2027 届次的投稿页要求 35 词摘要和 2 页 summary，包含标题、作者单位、摘要与版权信息，使用官方模板并嵌入字体。",
+      "通过官方在线系统完整提交；不接受邮件/传真投稿。口头或海报偏好由作者选择，最终安排由委员会决定。"
+    ],
+    "publication": "主办方说明录用且完成报告的论文由 Optica 出版平台发布，并说明 Ei Compendex 等索引支持；单篇出版和实际检索仍须另行确认。",
+    "notes": "官网会期和地点已更新至 2027，首页仍有 2026 论文集和主席信息；不将其视为 2027 阵容。当前投稿页未列截止时刻或开放公告，不推测 DDL。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "摘要与 summary 截止待公布",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/"
+      },
+      {
+        "type": "registration",
+        "label": "注册安排待公布",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/quantum/"
+      }
+    ]
+  },
+  {
+    "id": "photonics-asia-2026",
+    "series": "Photonics Asia",
+    "year": 2026,
+    "name": "亚洲光电子会议",
+    "nameEn": "Photonics Asia 2026",
+    "region": "中国境内",
+    "location": "中国 · 南通",
+    "venue": "江苏南通国际会议中心",
+    "start": "2026-10-24",
+    "end": "2026-10-26",
+    "topics": [
+      "综合光学",
+      "激光与非线性",
+      "成像与计算光学",
+      "集成光子",
+      "生物医学光学"
+    ],
+    "description": "SPIE 与中国光学学会联合主办，包含激光、光学设计与检测、光子器件、生医光学等 17 个专题。按母大会收录，专题不重复计数。",
+    "website": "https://meeting.cncos.org.cn/pa2026/",
+    "notice": "https://cncos.org.cn/Content/view/id/2051.html",
+    "registration": "https://meeting.cncos.org.cn/pa2026/",
+    "checkedAt": "2026-09-11",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "本届采用摘要征集，按 COS 官方征稿通知中的 SPIE 投稿链接选择对应专题；官网现已明确摘要投稿截止。",
+      "已录用作者应按录用通知完成报告和后续材料；本轮未成功读取 SPIE 详细模板、字数及全文要求，不沿用其他会议格式。"
+    ],
+    "publication": "大会安排专题及特邀报告。全文出版、费用和检索条件请按 SPIE 当届通知确认，本条不承诺期刊录用或 EI 检索。",
+    "notes": "本届官网确认摘要延期至 6 月 30 日且现已截止；页面提供“参会注册已开始”入口。注册最后期限与全文截止仍待核实。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要截止（延期后，已关闭）",
+        "date": "2026-06-30",
+        "source": "https://meeting.cncos.org.cn/pa2026/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待核实",
+        "date": null,
+        "source": "https://meeting.cncos.org.cn/pa2026/"
+      }
+    ]
   }
 ]
