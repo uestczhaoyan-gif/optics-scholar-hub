@@ -147,3 +147,9 @@ Save journals and conference editions with the favorite button, then filter to f
 新增独立入口：3 项活动包含 CIOE 2026、同期微纳光学制造论坛及历史 Light 光学精密工程青年论坛。母展与子论坛有关联，不计作独立论文会议；无公开征稿依据不生成 DDL。
 
 A separate directory includes three exhibition/forum records, with parent-event relationships and historical status. These are excluded from the academic conference count; no paper deadline is invented without an official call.
+
+### 数据更新按钮 / Published-data refresh
+
+“检查数据更新”读取本站发布版本，有新版时点击“加载新版”。检查失败保留当前目录；加载时保留期刊/会议筛选和本地关注，部分临时状态会重置。该按钮不触发官网核验。每日约北京时间 09:23 自动检查来源变化，维护者可手动触发工作流；内容经人工复核、提交和成功部署后生效。
+
+The update button checks the deployed catalog version, then offers to load a newer release. Failures preserve the current page. Journal/conference filters and saved favorites survive loading; some temporary UI state resets. Daily source monitoring runs around 09:23 China time and produces reports; actual facts change only after human review and deployment.

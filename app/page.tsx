@@ -53,6 +53,7 @@ import { FilterShare } from '@/components/filter-share';
 import { readFilterLink } from '@/lib/filter-link';
 import { FavoriteButton, useFavorites } from '@/components/favorites';
 import { EventsDirectory } from '@/components/events-directory';
+import { CatalogUpdate } from '@/components/catalog-update';
 const conferences = rawConferences as Conference[];
 const journals = rawJournals as Journal[];
 const knownIds = [...conferences, ...journals].map((item) => item.id);
@@ -452,6 +453,25 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <CatalogUpdate
+          tab={tab}
+          filters={{
+            query,
+            topic,
+            region,
+            status,
+            zone,
+            system,
+            collection,
+            index,
+            domain,
+            year,
+            level,
+            quartile,
+            evidence,
+            sort,
+          }}
+        />
         <Tabs value={tab} onValueChange={switchTab}>
           <TabsList className="main-tabs" variant="line">
             <TabsTrigger value="conferences">

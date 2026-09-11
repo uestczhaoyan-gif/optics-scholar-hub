@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 const root = path.resolve('dist/client');
 const base = process.env.BASE_PATH || '';
 assert(
@@ -32,6 +33,20 @@ for (const asset of assets) {
   );
 }
 fs.writeFileSync(path.join(root, '.nojekyll'), '');
+const payload = Object.fromEntries(
+  ['journals', 'conferences', 'events', 'topics', 'site'].map((name) => [
+    name,
+    JSON.parse(fs.readFileSync(`data/${name}.json`, 'utf8')),
+  ]),
+);
+fs.writeFileSync(
+  path.join(root, 'catalog-version.json'),
+  JSON.stringify({
+    schema: 1,
+    version: createHash('sha256').update(JSON.stringify(payload)).digest('hex'),
+    publishedAt: new Date().toISOString(),
+  }) + '\n',
+);
 console.log(
   `Static export verified: ${new Set(assets).size} entry assets, base ${base || '/'}`,
 );

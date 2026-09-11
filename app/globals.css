@@ -1235,3 +1235,30 @@ a:not(.brand):has(svg) {
   font-weight: 700;
   color: var(--primary);
 }
+.catalog-update {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.catalog-update > div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+.catalog-update button {
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.catalog-update button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+.catalog-update output {
+  display: block;
+  margin: 0.6rem 0 0;
+  font-size: 13px;
+}

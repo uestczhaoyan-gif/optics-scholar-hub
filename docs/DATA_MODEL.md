@@ -62,3 +62,9 @@ Journal records store independent ranking dimensions and evidence. CAS major/min
 ## 交叉期刊的范围样例
 
 可选 `scopeExamples` 数组记录至少 3 篇不同文章：`title`（中文概述）、`source`（官方文章或 DOI 链接）、`publishedAt`（首次发表日期）、`relevance`（光学适配说明）。它解释研究范围，不作为分区或索引证据，也不保证类似论文录用。新增跨学科期刊按扩充计划核对近期不同期次样例，历史存量分批补齐。
+
+## 展会论坛与发布版本
+
+`data/events.json` 独立存储展览、产业论坛、历史学术论坛：id/name/kind/start/end/location/topics/description/website/notice/checkedAt/participation/relation，可选 parentId 指向母展。无公开征稿依据不复用论文截止模型。官方来源检查包含该文件。
+
+构建输出 `catalog-version.json`，含 schema=1、数据 SHA-256 和 publishedAt（构建时间）。摘要对象顺序固定为 journals/conferences/events/topics/site，不包含用户关注或访问行为；刷新按钮仅请求本网站该文件，不触发远端主办方抓取。

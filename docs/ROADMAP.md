@@ -45,3 +45,10 @@
 ## English
 
 The baseline has 19 journals, 9 conference editions, a Chinese interface, bilingual documentation and CI. This iteration delivers four separately pushed commits: an audit and roadmap, consistent submission status/deadlines, focused official-source verification, and actionable maintenance reports with release validation. By 11 September 2026, the catalog has grown to 23 journals and 14 conference editions; index labels, shared topic filters, calendar export, shareable filters, local favorites and public audit counts are implemented. Broader coverage, annual ranking verification and richer submission guidance remain ongoing work. Source monitoring does not automatically validate or rewrite facts.
+
+## 用户反馈执行（2026-09-11）
+
+1. LPR：已收录，SCIE 为出版社声明；中科院 2025 分区为第三方参考，EI 留待核验。
+2. 活动覆盖：已增加 CIOE、同期制造论坛及历史 Light 精密工程论坛的独立导航；中国光学学会学术大会补常用检索称呼。当前 24 本期刊、14 届会议、3 项展会/论坛（含母子活动）。
+3. 更新入口：检查本站已发布数据版本，有更新再加载；每日北京时间 09:23 来源监测不自动改写事实。人工处理目标为每周整理报告，临近两周事件优先；这是维护流程建议，不保证固定人工响应时间。
+4. 下一批：继续核验国内精密工程相关论坛的系列身份与下一届通知，补齐 LPR 的 JCR 逐学科/版本证据和 EI 数据库结果；避免把同名活动或不同分区体系合并。
