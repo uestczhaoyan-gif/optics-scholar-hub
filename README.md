@@ -144,9 +144,9 @@ Save journals and conference editions with the favorite button, then filter to f
 
 ### 展会与论坛 / Exhibitions and forums
 
-新增独立入口：3 项活动包含 CIOE 2026、同期微纳光学制造论坛及历史 Light 光学精密工程青年论坛。母展与子论坛有关联，不计作独立论文会议；无公开征稿依据不生成 DDL。
+独立入口现有 7 项活动，覆盖 CIOE 2026、成像、检测、薄膜、微纳制造及历史 Light 光学精密工程青年论坛。母展与子论坛有关联，不计作独立论文会议；无公开征稿依据不生成 DDL。
 
-A separate directory includes three exhibition/forum records, with parent-event relationships and historical status. These are excluded from the academic conference count; no paper deadline is invented without an official call.
+A separate directory includes seven exhibition/forum records, with parent-event relationships and historical status. These are excluded from the academic conference count; no paper deadline is invented without an official call.
 
 ### 数据更新按钮 / Published-data refresh
 
