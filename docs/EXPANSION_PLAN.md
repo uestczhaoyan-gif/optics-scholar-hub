@@ -1,8 +1,31 @@
 # 光学及交叉领域扩充计划与候选清单
 
-规划日期：2026-09-10。规划基线：19 本期刊、9 届会议。后续首批索引功能实施后为 20 本期刊、9 届会议，新增《光学 精密工程》；其余候选仍按本文分批审核。
+规划日期：2026-09-10；执行状态更新：2026-09-11。规划基线为 19 本期刊、9 届会议；当前正式目录为 23 本期刊、14 届会议。
 
-**本文件只做候选选择和审核规划，不是已审核目录。** 本轮仅轻量检查部分学会、出版社入口；以下名称仍需逐项核对存续状态、准确名称、官网、研究范围及当前资料。不新增网站数据，不填写分区和当届 DDL，不据此判断投稿资格。
+**本文件是持续维护的候选池，不是全部通过审核的目录。** 下方状态表记录已执行批次；其余候选仍需逐项核对存续状态、准确名称、官网、研究范围及当前资料。正式收录以 `data/journals.json` 与 `data/conferences.json` 为准，字段核验范围见 [核验日志](VERIFICATION_LOG.md)。
+
+## 当前执行状态
+
+| 类别 | 已加入正式目录 | 后续维护重点 |
+| --- | --- | --- |
+| 期刊（相对规划基线新增） | 光学 精密工程、PhotoniX、Advanced Functional Materials、Frontiers of Optoelectronics | 索引数据库直查；缺失分区继续留空；交叉期刊样例逐步补齐 |
+| 会议（相对规划基线新增） | Laser Congress 2026、Biophotonics Congress 2027、OMTA 2026、Quantum 2.0 2027、Photonics Asia 2026 | 未公布的注册/投稿截止保持未知；已过期届次保留历史 |
+| 功能 | SCI/SCIE/EI/ESCI 与分区标签、统一方向筛选、关注列表、分享筛选、日历导出、公开审核统计 | 持续核验数据；功能可用不代表全部索引已核实 |
+
+以下候选表中的同名系列保留用于后续届次发现，不再重复计入新增数量。
+
+### 下一批审核顺序与退出条件
+
+| 优先级 | 条目/任务 | 当前缺口与下一步 |
+| --- | --- | --- |
+| P1 | 已收录期刊的 SCI/EI 证据 | 优先核实仍无依据的主干刊；出版社声明与数据库直查分级，记录刊号与核验日期 |
+| P1 | Laser & Photonics Reviews | 官方概览已找到 SCIE 声明；需要 JCR/CAS 1/2 区证据或 EI 准入依据，再补完整条目 |
+| P1 | 中国激光、光学学报、中国光学（中英文）、红外与激光工程 | 继续从期刊/主办单位页面核对当前刊名、刊号、索引和作者指南；访问受限不能直接补齐全部字段 |
+| P1 | NDTA 2026 | 核实地点，并解决官方中英文摘要长度 300–500 与 500–600 词冲突后再收录 |
+| P1 | SPIE Photonics West 2027 | 获取可核对的当届征稿、稿件要求和各类截止；检索线索不能代替完整审核 |
+| P2 | 现有材料/电子交叉期刊 | AFM 已补三篇官方论文样例；其余条目按近两年、不同期次补适配证据 |
+| P2 | 制造、显示、红外、遥感专题会议 | 从下方系列池逐届核实，优先填覆盖空白；母大会与专题分会不重复计数 |
+
 
 ## 一、扩充目标与边界
 
@@ -150,7 +173,7 @@
 | 红外与太赫兹 | International Conference on Infrared, Millimeter, and Terahertz Waves（IRMMW-THz） | 主题包括毫米波，网站按方向筛选 |
 | 光谱 | International Conference on Raman Spectroscopy（ICORS）；International Conference on Laser Spectroscopy（ICOLS） | 基础与应用光谱的适配 |
 | 显示 | SID Display Week；International Display Workshops（IDW）；International Meeting on Information Display（IMID） | 学术 symposium 与商业展览分开 |
-| AR/VR 光学 | SPIE AR | VR | MR | 核对独立征稿、与 Photonics West 的关系 |
+| AR/VR 光学 | SPIE AR \| VR \| MR | 核对独立征稿、与 Photonics West 的关系 |
 | 全息与衍射 | International Symposium on Display Holography（ISDH）；Digital Holography and Three-Dimensional Imaging（DH） | 届次、所属大会和出版要求 |
 | 激光加工 | International Congress on Applications of Lasers & Electro-Optics（ICALEO）；Lasers in Manufacturing（LiM）；Laser Precision Microfabrication（LPM） | 学术交流和工业应用并重，确认稿件形式 |
 
@@ -192,7 +215,7 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 
 `candidateId / name / aliases / kind / topics / priority / sourceEntry / reviewStatus / relatedExistingId / decisionReason / nextAction`
 
-期刊另加 `ISSN / scopeEvidence / rankingEvidence / indexes / domains`；会议另加 `seriesId / parentSeriesId / organizer / editionStatus / publicationType`。本轮不改生产数据模型。
+期刊另加 `ISSN / scopeEvidence / rankingEvidence / indexes / domains`；会议另加 `seriesId / parentSeriesId / organizer / editionStatus / publicationType`。这些是候选管理建议，不表示上述字段已经全部进入生产数据模型。
 
 ## 六、发现入口与本轮证据范围
 
@@ -207,4 +230,4 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 
 ## English summary
 
-This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. No production data, ranking values or future deadlines are added in this planning pass.
+This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. As of 11 September 2026, the production catalog contains 23 journals and 14 conference editions. The execution table distinguishes admitted records from pending candidates; remaining names are discovery leads, not verified entries.

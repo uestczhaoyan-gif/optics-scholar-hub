@@ -2,7 +2,7 @@
 
 评估日期：2026-09-10。基线提交：`da9d9e6`。面向光学工程初学者，优先帮助判断“适不适合投、准备什么、何时提交、到哪里核实”。
 
-## 现状与缺口
+## 原始基线与当时缺口（2026-09-10）
 
 - 已有 19 本期刊、9 届会议、中文界面、双语 README、投稿入门、独立 JCR/CAS 筛选、来源监测和 Pages 工作流；原有 4 项测试及数据校验通过。
 - 会议存在状态与倒计时不一致风险：显式关闭仍能返回未来投稿时间；未来截止不能证明系统已开放；未知补充通道不应被既往普通投稿截止掩盖。
@@ -19,6 +19,10 @@
 | 4    | 来源关联、维护队列、发布文档 | 报告定位到条目和字段；测试、类型、lint、生产构建通过；推送并核查 Pages | 实现与本地验证完成，部署结果见 GitHub Actions |
 
 每步使用独立提交并推送至现有 GitHub 仓库 `main`。不重写历史。推送成功与 Pages 部署成功分别核实。
+
+## 当前进展（2026-09-11）
+
+正式目录已扩展至 23 本期刊、14 届会议。已实现索引与分区标签、共用方向词表、日历导出、筛选链接分享、本地关注和公开审核统计；各批独立提交推送。当前重点转向索引/分区证据补齐、国内与薄弱方向会议，以及交叉期刊适配样例。具体完成条目和暂缓原因见扩充计划及核验日志。
 
 ## 后续持续迭代
 
@@ -40,4 +44,4 @@
 
 ## English
 
-The baseline has 19 journals, 9 conference editions, a Chinese interface, bilingual documentation and CI. This iteration delivers four separately pushed commits: an audit and roadmap, consistent submission status/deadlines, focused official-source verification, and actionable maintenance reports with release validation. Broader coverage, annual ranking verification, richer submission guidance and calendar tools remain subsequent milestones. Source monitoring does not automatically validate or rewrite facts.
+The baseline has 19 journals, 9 conference editions, a Chinese interface, bilingual documentation and CI. This iteration delivers four separately pushed commits: an audit and roadmap, consistent submission status/deadlines, focused official-source verification, and actionable maintenance reports with release validation. By 11 September 2026, the catalog has grown to 23 journals and 14 conference editions; index labels, shared topic filters, calendar export, shareable filters, local favorites and public audit counts are implemented. Broader coverage, annual ranking verification and richer submission guidance remain ongoing work. Source monitoring does not automatically validate or rewrite facts.
