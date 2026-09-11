@@ -24,6 +24,10 @@ const text = (value) =>
   );
 const conferences = read('conferences'),
   journals = read('journals');
+const topics = read('topics');
+assert(Array.isArray(topics) && topics.length > 0);
+topics.forEach(text);
+assert.equal(new Set(topics).size, topics.length, 'Duplicate topic vocabulary');
 const ids = new Set();
 for (const item of [...conferences, ...journals]) {
   assert(
@@ -37,6 +41,15 @@ for (const item of [...conferences, ...journals]) {
   url(item.website);
   assert(Array.isArray(item.topics) && item.topics.length > 0);
   item.topics.forEach(text);
+  assert.equal(
+    new Set(item.topics).size,
+    item.topics.length,
+    `${item.id}: duplicate topic`,
+  );
+  assert(
+    item.topics.every((topic) => topics.includes(topic)),
+    `${item.id}: unknown topic; use data/topics.json`,
+  );
   assert(item.requirements.length > 0);
   item.requirements.forEach(text);
 }

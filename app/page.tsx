@@ -30,6 +30,7 @@ import {
 } from '@/components/ui/empty';
 import rawConferences from '@/data/conferences.json';
 import rawJournals from '@/data/journals.json';
+import topicVocabulary from '@/data/topics.json';
 import config from '@/data/site.json';
 import {
   conferenceStatus,
@@ -290,8 +291,10 @@ export default function Home() {
   const topics = useMemo(
     () => [
       '全部方向',
-      ...new Set(
-        (tab === 'journals' ? journals : conferences).flatMap((x) => x.topics),
+      ...topicVocabulary.filter((topic) =>
+        (tab === 'journals' ? journals : conferences).some((x) =>
+          x.topics.includes(topic),
+        ),
       ),
     ],
     [tab],

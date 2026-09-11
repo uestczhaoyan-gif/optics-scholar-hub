@@ -52,3 +52,9 @@
 Types are defined in `lib/catalog.ts`; executable constraints live in `scripts/validate-data.mjs`. Every deadline and ranking retains its own source. Exact timestamps require both an offset and IANA timezone. Date-only and unknown values remain explicit. `submissionState: published` means a schedule was announced, not that submission is currently open.
 
 Journal records store independent ranking dimensions and evidence. CAS major/minor categories and JCR edition/metric years must never be collapsed. Only manually reviewed records receive a new `checkedAt`. Source monitoring stores hashes and reports separately; it does not alter catalog data.
+
+## 方向词表
+
+`data/topics.json` 是期刊与会议共用的中文研究方向词表，并决定筛选菜单顺序。新增记录只能使用词表中的值，禁止重复；新增方向需同时维护词表。领域 domains 表示学科归属，topics 表示研究方向，二者分开。
+
+统一“生物医学光子学”为“生物医学光学”，“光电材料”为“光学材料”；“光子集成与光通信”拆分为“集成光子”和“光通信”，“超表面与材料”拆分为“纳米与超表面”和“光学材料”。
