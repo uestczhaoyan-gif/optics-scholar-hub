@@ -1710,5 +1710,49 @@
         "evidence": "secondary"
       }
     ]
+  },
+  {
+    "id": "photonic-sensors",
+    "name": "Photonic Sensors",
+    "abbr": "PhS",
+    "publisher": "Tsinghua University Press · 电子科技大学",
+    "issn": "1674-9251",
+    "eissn": "2190-7439",
+    "domains": ["光学", "电子"],
+    "topics": ["传感与测量", "光通信", "生物医学光学"],
+    "description": "聚焦光子传感的新原理、结构、材料和系统，涵盖光纤、微纳与生化光学传感的理论及实验研究。",
+    "website": "https://www.sciopen.com/journal/1674-9251",
+    "guide": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1881895629919801345&issn=1674-9251",
+    "requirements": [
+      "从现官网进入 mc03.manuscriptcentral.com/phos；准备 cover letter、英文正文、关键词、图表及通讯作者联系方式。",
+      "研究和综述应尽量简洁，指南建议少于 50 页稿件；Letter 不超过 4 个期刊排版页，并说明快速发表理由。",
+      "使用当期模板，确认作者一致同意、引用和转载许可及利益冲突声明；文章类型以提交系统及编辑部要求为准。"
+    ],
+    "publishing": "2026 年起由清华大学出版社出版。现官网说明开放获取，APC 由电子科技大学承担；投稿前再核实最新政策。",
+    "schedule": "常规投稿按官网系统受理，编辑处理与同行评审无保证时限；不沿用旧出版社的审稿速度统计。",
+    "checkedAt": "2026-09-11",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.sciopen.com/journal/join_journal/abstracted_indexed?id=1881895629919801345&issn=1674-9251",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现 SciOpen 官方索引页明确列出；属于出版社声明，数据库覆盖起止年待查。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.sciopen.com/journal/join_journal/abstracted_indexed?id=1881895629919801345&issn=1674-9251",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现 SciOpen 官方索引页明确列出；属于出版社声明，数据库覆盖起止年待查。"
+      }
+    ]
   }
 ]
