@@ -69,6 +69,22 @@ export function maintenanceQueue({ conferences, journals }, now = new Date()) {
     if (!c.registration) add(c, 2, 'registration', '注册入口待补', c.website);
   }
   for (const j of journals) {
+    if (!j.issn && !j.eissn)
+      add(
+        j,
+        2,
+        'issn',
+        'ISSN / eISSN 待核实，用于刊名去重与索引查询',
+        j.website,
+      );
+    if (j.rankings.length === 0)
+      add(
+        j,
+        3,
+        'rankings',
+        '尚未记录 JCR / 中科院分区；EI 补充准入仍有效，不推断分区',
+        j.website,
+      );
     for (const [i, index] of (j.indexes || []).entries()) {
       if (index.status === 'unverified')
         add(
