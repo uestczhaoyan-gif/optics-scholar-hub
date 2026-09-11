@@ -31,10 +31,10 @@
 
 | 期刊                                     | 执行状态                                |
 | ---------------------------------------- | --------------------------------------- |
-| Nature Electronics                       | 待核实并收录                            |
-| Nature Materials                         | 待核实并收录                            |
-| Nature Nanotechnology                    | 待核实并收录                            |
-| Nature Communications                    | 待核实并收录                            |
+| Nature Electronics                       | 已收录：`nature-electronics`            |
+| Nature Materials                         | 已收录：`nature-materials`              |
+| Nature Nanotechnology                    | 已收录：`nature-nanotechnology`         |
+| Nature Communications                    | 已收录：`nature-communications`         |
 | Science Advances                         | 待核实并收录                            |
 | Chemical Reviews                         | 待核实并收录                            |
 | Advanced Materials                       | 已收录：`advanced-materials`            |
@@ -52,9 +52,9 @@
 | Angewandte Chemie International Edition  | 待核实并收录                            |
 | Science China Materials                  | 待核实并收录                            |
 | Dyes and Pigments                        | 待核实并收录                            |
-| npj Quantum Materials                    | 待核实并收录                            |
-| npj Quantum Information                  | 待核实并收录                            |
-| Communications Physics                   | 待核实并收录                            |
+| npj Quantum Materials                    | 已收录：`npj-quantum-materials`         |
+| npj Quantum Information                  | 已收录：`npj-quantum-information`       |
+| Communications Physics                   | 已收录：`communications-physics`        |
 
 ## 电子与工程类期刊
 

@@ -180,3 +180,8 @@
 
 - 新增 Opto-Electronic Advances、Opto-Electronic Science、Progress in Quantum Electronics、PRX Quantum、Ultrafast Science、Light: Advanced Manufacturing、Applied Physics Reviews。当前 35 本期刊。
 - JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
+
+## 2026-09-11：Nature Portfolio 交叉期刊
+
+- 新增 Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics。当前 42 本期刊。
+- JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。

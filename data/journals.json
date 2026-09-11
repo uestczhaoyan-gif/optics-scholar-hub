@@ -2310,5 +2310,390 @@
       "综述多为邀稿；未受邀作者需说明选题及时性、作者专长，并提交官网 editorial summary 模板供编辑评估。"
     ],
     "publishing": "混合开放获取，可选择订阅发表或 Author Select 开放获取；OA 收费及许可按官网最新政策。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=243",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "nature-electronics",
+    "name": "Nature Electronics",
+    "abbr": "Nat Electron",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": null,
+    "eissn": "2520-1131",
+    "domains": ["电子", "光学"],
+    "topics": ["电子与器件", "集成光子", "传感与测量"],
+    "description": "覆盖电子学基础、器件、电路及产业技术；本合集重点关注光电子、显示、光计算与传感器等交叉方向。",
+    "website": "https://www.nature.com/natelectron/",
+    "guide": "https://www.nature.com/natelectron/submission-guidelines",
+    "requirements": [
+      "初投无需按最终版式排版，可使用 PDF、Word 或 TeX/LaTeX；LaTeX 应提交编译后的 PDF。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, PHYSICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=101",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "nature-materials",
+    "name": "Nature Materials",
+    "abbr": "Nat Mater",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": "1476-1122",
+    "eissn": "1476-4660",
+    "domains": ["材料", "光学", "物理"],
+    "topics": ["光学材料", "纳米与超表面", "电子与器件"],
+    "description": "综合材料科学期刊；光学适配方向包括光子材料、激子与磁光效应、光电半导体及相关器件物理。",
+    "website": "https://www.nature.com/nmat/",
+    "guide": "https://www.nature.com/nmat/submission-guidelines/initial-formatting",
+    "requirements": [
+      "初投不要求最终排版，接受 PDF、Word 或 TeX/LaTeX，LaTeX 提供编译 PDF；录用后再按规定处理文字和图像。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=453",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "nature-nanotechnology",
+    "name": "Nature Nanotechnology",
+    "abbr": "Nat Nanotechnol",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": "1748-3387",
+    "eissn": "1748-3395",
+    "domains": ["材料", "光学", "电子"],
+    "topics": ["纳米与超表面", "光学材料", "传感与测量"],
+    "description": "覆盖纳米科学与纳米技术，官方范围包括光子结构和器件、量子信息、纳米传感与成像。",
+    "website": "https://www.nature.com/nnano/",
+    "guide": "https://www.nature.com/nnano/submission-guidelines",
+    "requirements": [
+      "先核实内容类型和投稿材料；如选择双匿名评审，按专门匿名化指南处理文件，再从官网提交入口上传。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MULTIDISCIPLINARY SCIENCES",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=521",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "nature-communications",
+    "name": "Nature Communications",
+    "abbr": "Nat Commun",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": null,
+    "eissn": "2041-1723",
+    "domains": ["物理", "材料", "光学"],
+    "topics": ["综合光学", "光学材料", "成像与计算光学"],
+    "description": "综合性开放获取期刊，接受对各自专业领域有重要意义的研究；可关注光子学、成像、光电材料和交叉科学成果。",
+    "website": "https://www.nature.com/ncomms/",
+    "guide": "https://www.nature.com/ncomms/",
+    "requirements": [
+      "通过官网 For authors / Submit manuscript 核实文件及声明要求；原始研究实行公开同行评审文件的政策，投稿前查看本刊具体说明。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=453",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/npjquantmats/journal-information",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "依据主办者或出版社明确声明；数据库覆盖起止年待直查。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "npj-quantum-materials",
+    "name": "npj Quantum Materials",
+    "abbr": "npj Quantum Mater",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": null,
+    "eissn": "2397-4648",
+    "domains": ["材料", "物理", "光学"],
+    "topics": ["光学材料", "量子光学", "传感与测量"],
+    "description": "专注量子材料的重要进展；与光学的交叉点包括光谱探测、光诱导量子态及相关材料物理。",
+    "website": "https://www.nature.com/npjquantmats/",
+    "guide": "https://www.nature.com/npjquantmats/for-authors-and-referees",
+    "requirements": [
+      "按本刊作者入口选择稿件类型并准备正文、图表和补充材料；具体篇幅和格式以各类型指南为准。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "npj-quantum-information",
+    "name": "npj Quantum Information",
+    "abbr": "npj Quantum Inf",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": null,
+    "eissn": "2056-6387",
+    "domains": ["物理", "信息与计算", "光学"],
+    "topics": ["量子光学", "光通信", "集成光子"],
+    "description": "覆盖量子计算、量子通信和量子信息理论；适合光量子器件、网络及信息处理课题。",
+    "website": "https://www.nature.com/npjqi/",
+    "guide": "https://www.nature.com/npjqi/",
+    "requirements": [
+      "从官网作者入口查看当前文章类型、数据及代码要求，并通过本刊提交系统投稿；勿沿用其他 npj 期刊的篇幅限制。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=611",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "communications-physics",
+    "name": "Communications Physics",
+    "abbr": "Commun Phys",
+    "publisher": "Nature Portfolio · Springer Nature",
+    "issn": null,
+    "eissn": "2399-3650",
+    "domains": ["物理", "光学", "材料"],
+    "topics": ["综合光学", "量子光学", "光学材料"],
+    "description": "覆盖物理学各方向，明确包括光学与光子学、量子技术和薄膜材料；强调对具体物理子领域的认识进展。",
+    "website": "https://www.nature.com/commsphys/",
+    "guide": "https://www.nature.com/commsphys/submit",
+    "requirements": [
+      "从官网现行在线系统投稿，准备 Word（图表插入正文）或 LaTeX 图文 ZIP 包，并按 Formatting Guidelines 核对声明和统计方法。",
+      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+    ],
+    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
   }
 ]
