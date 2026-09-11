@@ -1624,5 +1624,91 @@
         "note": "现出版社高教社索引页明确列出 ESCI 与 Ei Compendex；尚未通过机构数据库核对覆盖年。"
       }
     ]
+  },
+  {
+    "id": "laser-photonics-reviews",
+    "name": "Laser & Photonics Reviews",
+    "abbr": "LPR",
+    "publisher": "Wiley-VCH",
+    "issn": "1863-8880",
+    "eissn": "1863-8899",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["激光与非线性", "纳米与超表面", "量子光学", "集成光子"],
+    "description": "覆盖理论与实验光子学、激光及光学器件，接收研究论文、综述和观点文章，适合光与物质相互作用、量子与纳米光子、集成光子等研究。",
+    "website": "https://onlinelibrary.wiley.com/journal/18638899",
+    "guide": "https://onlinelibrary.wiley.com/page/journal/18638899/homepage/author-guidelines",
+    "requirements": [
+      "接收 Research Articles、Reviews 和 Perspectives；按作者指南确认文章类型、篇幅与模板。",
+      "初投稿支持 Free Format；准备可编辑稿件、清晰图表、独立补充材料和一致的参考文献格式。",
+      "准备 ORCID、作者单位和邮箱，以及适用的数据可用性、资助、利益冲突与伦理声明。",
+      "返修附逐条回复，提交标记修改版及无标记正文。"
+    ],
+    "publishing": "费用、开放获取选择与机构协议以 Wiley 当期作者页面为准；原纸刊 ISSN 为 1863-8880，现在线 ISSN 为 1863-8899。",
+    "schedule": "常规投稿按官网系统受理；出版频率不等于审稿周期，不保证录用或审稿时长。",
+    "checkedAt": "2026-09-11",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://onlinelibrary.wiley.com/page/journal/18638899/homepage/productinformation.html",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Wiley 官方索引列表明确列出 SCIE；尚待数据库直查。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮官方索引列表未明确列出 EI；未列出不等于未收录。"
+      }
+    ],
+    "rankings": [
+      {
+        "system": "CAS",
+        "edition": "2025 年 3 月升级版",
+        "year": 2025,
+        "category": "物理与天体物理",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/15161.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年 3 月升级版",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/15161.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年 3 月升级版",
+        "year": 2025,
+        "category": "物理：应用",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://www.iikx.com/sci/physics/15161.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年 3 月升级版",
+        "year": 2025,
+        "category": "物理：凝聚态物理",
+        "level": "minor",
+        "quartile": 2,
+        "source": "https://www.iikx.com/sci/physics/15161.html",
+        "evidence": "secondary"
+      }
+    ]
   }
 ]
