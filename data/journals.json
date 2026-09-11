@@ -123,28 +123,28 @@
       }
     ],
     "issn": null,
-    "eissn": null,
+    "eissn": "2047-7538",
     "domains": ["光学", "材料", "信息与计算"],
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/lsa/journal-information",
+        "checkedAt": "2026-09-11",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+        "note": "出版社 Journal Information 列出本索引；本轮通过官网检索快照读取，直达页受访问限制。尚未完成数据库直查，覆盖起止年待核实。"
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/lsa/journal-information",
+        "checkedAt": "2026-09-11",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+        "note": "出版社 Journal Information 列出本索引；本轮通过官网检索快照读取，直达页受访问限制。尚未完成数据库直查，覆盖起止年待核实。"
       }
     ]
   },
