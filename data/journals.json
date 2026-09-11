@@ -1754,5 +1754,78 @@
         "note": "现 SciOpen 官方索引页明确列出；属于出版社声明，数据库覆盖起止年待查。"
       }
     ]
+  },
+  {
+    "id": "apl-photonics",
+    "name": "APL Photonics",
+    "abbr": "APP",
+    "publisher": "AIP Publishing",
+    "issn": null,
+    "eissn": "2378-0967",
+    "domains": ["光学", "物理", "电子"],
+    "topics": [
+      "综合光学",
+      "集成光子",
+      "激光与非线性",
+      "量子光学",
+      "纳米与超表面"
+    ],
+    "description": "面向以光子学为核心的基础、应用和交叉研究，覆盖光源、非线性、纳米光子、光通信、成像与量子光子等方向，强调重要突破与新认识。",
+    "website": "https://pubs.aip.org/aip/app",
+    "guide": "https://publishing.aip.org/resources/researchers/author-instructions/",
+    "requirements": [
+      "从官网 Submit Your Manuscript 进入投稿系统；初投提交合并的正文 PDF，补充材料另存 PDF，使用 Word 或 LaTeX 准备可编辑源文件。",
+      "Letter 正文不超过 3500 词；Comment / Response 不超过 1000 词。摘要、标题、作者、参考文献、图表、公式和致谢不计入此限；其他类型无统一篇幅上限，但编辑可能要求精简。",
+      "按指南准备作者声明、数据可用性声明和图件；仅与光子学边缘相关的数学计算问题，以及工程或材料上的渐进改进，不符合本刊范围。"
+    ],
+    "publishing": "Gold Open Access，作者保留版权并按 Creative Commons 许可发表；APC、减免与机构协议以官网 Publication Charges 和 Waiver Policy 为准。",
+    "schedule": "通过官网系统提交，专题另查征稿通知；官网历史平均处理天数不是个别稿件的承诺时限。",
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://pubs.aip.org/aip/app/pages/about",
+        "evidence": "official"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "PHYSICS, APPLIED 物理：应用",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://pubs.aip.org/aip/app/pages/about",
+        "evidence": "official"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮未获得明确的当前数据库索引证据；不根据 JCR 分区或影响因子推断收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮未获得明确的当前数据库索引证据；不根据 JCR 分区或影响因子推断收录。"
+      }
+    ]
   }
 ]
