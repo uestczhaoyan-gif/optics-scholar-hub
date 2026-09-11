@@ -1166,3 +1166,21 @@ a:not(.brand):has(svg) {
   opacity: 0.5;
   cursor: not-allowed;
 }
+.filter-share {
+  margin-bottom: 12px;
+  font-size: 12px;
+}
+.filter-share > div {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+.filter-share input {
+  flex: 1;
+  min-width: 150px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 6px;
+}

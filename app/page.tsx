@@ -49,6 +49,8 @@ import {
 import { Guide, DataNotes } from './resources';
 import { JournalCard } from '@/components/journal-card';
 import { CalendarDownload } from '@/components/calendar-download';
+import { FilterShare } from '@/components/filter-share';
+import { readFilterLink } from '@/lib/filter-link';
 const conferences = rawConferences as Conference[];
 const journals = rawJournals as Journal[];
 const options = (values: string[]) =>
@@ -262,6 +264,29 @@ export default function Home() {
       const value = location.hash.slice(1);
       if (['conferences', 'journals', 'guide', 'data'].includes(value))
         setTab(value);
+      const filters = readFilterLink(location.search, {
+        topics: topicVocabulary,
+        domains: journalDomains,
+        years: [
+          ...new Set(
+            journals.flatMap((j) => j.rankings.map((r) => String(r.year))),
+          ),
+        ],
+      });
+      setQuery(filters.query);
+      setTopic(filters.topic);
+      setRegion(filters.region);
+      setStatus(filters.status);
+      setZone(filters.zone);
+      setSystem(filters.system);
+      setCollection(filters.collection);
+      setIndex(filters.index);
+      setDomain(filters.domain);
+      setYear(filters.year);
+      setLevel(filters.level);
+      setQuartile(filters.quartile);
+      setEvidence(filters.evidence);
+      setSort(filters.sort);
     };
     onHash();
     window.addEventListener('hashchange', onHash);
@@ -272,7 +297,7 @@ export default function Home() {
     setTab(value);
     setQuery('');
     setTopic('全部方向');
-    history.replaceState(null, '', '#' + value);
+    history.replaceState(null, '', location.pathname + '#' + value);
   }
   function reset() {
     setQuery('');
@@ -615,6 +640,25 @@ export default function Home() {
                 </div>
               </aside>
               <section className="results">
+                <FilterShare
+                  tab={tab}
+                  filters={{
+                    query,
+                    topic,
+                    region,
+                    status,
+                    zone,
+                    system,
+                    collection,
+                    index,
+                    domain,
+                    year,
+                    level,
+                    quartile,
+                    evidence,
+                    sort,
+                  }}
+                />
                 <div className="search">
                   <Search size={19} />
                   <Input

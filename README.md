@@ -129,3 +129,9 @@ Original code and original descriptions are MIT-licensed. Third-party names, pag
 会议列表支持导出当前筛选结果，每张会议详情也可导出本届 `.ics`。导出包含会期和已知截止（含历史日期），跳过未知日期；精确时间转换为 UTC，日期级截止保留全天事件。文件中附官方来源及核验日期。全天事件不意味着当天任意时刻均可提交。导出是快照，不会自动更新，也不预设提醒；重新导入时请留意日历软件的重复事件处理。
 
 Export the filtered conference list or one edition as an `.ics` snapshot. Known deadlines (including past dates) and meeting dates are included; unknown dates are skipped. Exact instants use UTC, while date-only records remain all-day events. Sources and verification dates are preserved. Exported calendars do not update automatically or include preset alarms. Check your calendar application for duplicate handling when importing again.
+
+## 分享筛选 / Share filters
+
+点击“分享当前筛选”生成并复制链接，打开后恢复所在标签页、搜索词、研究方向、索引、分区、地区及排序等条件。剪贴板不可用时可手动复制。链接保存条件，不锁定数据快照；目录更新后结果可能变化。
+
+Use “分享当前筛选” to copy a link restoring the current tab, search and filters. A manual-copy field is available when clipboard access fails. Links preserve filter settings, not a frozen result set; catalog updates may change the results.
