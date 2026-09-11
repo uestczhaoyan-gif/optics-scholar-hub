@@ -58,15 +58,15 @@
 
 ## 电子与工程类期刊
 
-| 期刊                                               | 执行状态     |
-| -------------------------------------------------- | ------------ |
-| IEEE Communications Surveys & Tutorials            | 待核实并收录 |
-| Proceedings of the IEEE                            | 待核实并收录 |
-| IEEE Transactions on Industrial Electronics        | 待核实并收录 |
-| IEEE Transactions on Cybernetics                   | 待核实并收录 |
-| IEEE Transactions on Medical Imaging               | 待核实并收录 |
-| IEEE Transactions on Image Processing              | 待核实并收录 |
-| IEEE Transactions on Geoscience and Remote Sensing | 待核实并收录 |
+| 期刊                                               | 执行状态                   |
+| -------------------------------------------------- | -------------------------- |
+| IEEE Communications Surveys & Tutorials            | 已收录：`ieee-comst`       |
+| Proceedings of the IEEE                            | 已收录：`proceedings-ieee` |
+| IEEE Transactions on Industrial Electronics        | 已收录：`ieee-tie`         |
+| IEEE Transactions on Cybernetics                   | 已收录：`ieee-tcyb`        |
+| IEEE Transactions on Medical Imaging               | 已收录：`ieee-tmi`         |
+| IEEE Transactions on Image Processing              | 已收录：`ieee-tip`         |
+| IEEE Transactions on Geoscience and Remote Sensing | 已收录：`ieee-tgrs`        |
 
 ## 传感器类期刊
 

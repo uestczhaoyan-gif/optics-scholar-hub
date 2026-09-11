@@ -3576,5 +3576,390 @@
       "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
     ],
     "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "TELECOMMUNICATIONS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=754",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ieee-comst",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "abbr": "IEEE ComST",
+    "publisher": "IEEE Communications Society",
+    "issn": null,
+    "eissn": "1553-877X",
+    "domains": ["电子", "信息与计算", "光学"],
+    "topics": ["光通信", "量子光学"],
+    "description": "通信与网络领域的综述和教程期刊；适合光通信、光网络等方向的系统梳理，强调跨专业读者能够理解。",
+    "website": "https://www.comsoc.org/publications/journals/ieee-communications-surveys-tutorials",
+    "guide": "https://www.comsoc.org/publications/journals/ieee-comst/policies-guidelines",
+    "requirements": [
+      "接收 Survey 与 Tutorial；摘要和引言需明确文章类别及覆盖范围，综述要求全面梳理文献。",
+      "当前指南规定新稿不超过 30 页双栏，修订稿少于 40 页；通过 IEEE Author Portal 提交 PDF 或 Word。投稿前再次核对篇幅与费用政策。"
+    ],
+    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=243",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "proceedings-ieee",
+    "name": "Proceedings of the IEEE",
+    "abbr": "Proc IEEE",
+    "publisher": "IEEE",
+    "issn": "0018-9219",
+    "eissn": "1558-2256",
+    "domains": ["电子", "信息与计算", "光学"],
+    "topics": ["综合光学", "光通信", "电子与器件"],
+    "description": "面向电子、电气工程和计算机领域广泛读者的综述、评论和教程期刊；光子技术选题需体现较广泛和长期的技术意义。",
+    "website": "https://proceedingsoftheieee.ieee.org/",
+    "guide": "https://proceedingsoftheieee.ieee.org/resources/preparing-your-regular-paper/",
+    "requirements": [
+      "常规论文需提供新见解和批判性评述；不以报告单项新实验结果的研究论文为主要稿型。",
+      "随稿附详细 Cover Letter，说明主题意义、综述类型、与既有综述的区别及作者相关资历；采用官方模板。"
+    ],
+    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "AUTOMATION & CONTROL SYSTEMS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=38",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ieee-tie",
+    "name": "IEEE Transactions on Industrial Electronics",
+    "abbr": "IEEE TIE",
+    "publisher": "IEEE Industrial Electronics Society",
+    "issn": "0278-0046",
+    "eissn": "1557-9948",
+    "domains": ["电子", "机械与制造", "光学"],
+    "topics": ["电子与器件", "传感与测量"],
+    "description": "面向工业电子、测量和控制应用的工程期刊；工业光学传感及相关系统研究需论证工程应用价值和本刊适配性。",
+    "website": "https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics",
+    "guide": "https://www.ieee-ies.org/images/files/tie/resources/TRANS-JOURpdf_0324.pdf",
+    "requirements": [
+      "按本刊官方作者清单准备工程研究稿件，明确工业应用背景与技术贡献。",
+      "所列作者说明为出版社留存的版本化 PDF；最新页数、费用和投稿系统仍需从期刊首页核实，不将旧版参数作为当前保证。"
+    ],
+    "publishing": "出版模式、开放获取及超页费用以本刊当前官方规定为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "AUTOMATION & CONTROL SYSTEMS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=38",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ieee-tcyb",
+    "name": "IEEE Transactions on Cybernetics",
+    "abbr": "IEEE TCYB",
+    "publisher": "IEEE Systems, Man, and Cybernetics Society",
+    "issn": "2168-2267",
+    "eissn": "2168-2275",
+    "domains": ["信息与计算", "电子"],
+    "topics": ["成像与计算光学", "电子与器件"],
+    "description": "控制论及相关智能计算方向期刊；计算成像、视觉与感知课题应有控制论或学习方法贡献，并非所有光学硬件研究都适配。",
+    "website": "https://www.ieeesmc.org/publications/transactions-on-cybernetics/",
+    "guide": "https://www.ieeesmc.org/publications/transactions-on-cybernetics/information-for-authors-3/",
+    "requirements": [
+      "常规论文通常为 10 页或更短；指南允许付费增加 2 页，超过 12 页的稿件仅邀请稿或综述存在例外。",
+      "会议扩展稿需明确说明与已发表版本的区别，引用并披露相关工作；其他文稿类型按各自篇幅要求准备。"
+    ],
+    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, BIOMEDICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=225",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ieee-tmi",
+    "name": "IEEE Transactions on Medical Imaging",
+    "abbr": "IEEE TMI",
+    "publisher": "IEEE",
+    "issn": "0278-0062",
+    "eissn": "1558-254X",
+    "domains": ["生物医学", "光学", "信息与计算"],
+    "topics": ["生物医学光学", "成像与计算光学"],
+    "description": "医学与生物成像期刊，涵盖成像方法及图像分析；适合医学光学成像、显微成像及相关重建研究。",
+    "website": "https://ieeetmi.org/",
+    "guide": "https://ieeetmi.org/authors-instructions/",
+    "requirements": [
+      "通过本刊当前 IEEE Author Portal 入口提交，并对照投稿清单准备文件与成像相关关键词。",
+      "会议扩展稿需上传原会议论文和说明具体新增内容的 Cover Letter，且扩展须在严谨性和完整性上实质增加。综述需经过提案审批与邀请流程。"
+    ],
+    "publishing": "开放获取选择、APC 和超页费用按 TMI 当前作者指南及收费说明核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=119",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ieee-tip",
+    "name": "IEEE Transactions on Image Processing",
+    "abbr": "IEEE TIP",
+    "publisher": "IEEE Signal Processing Society",
+    "issn": "1057-7149",
+    "eissn": "1941-0042",
+    "domains": ["信息与计算", "光学"],
+    "topics": ["成像与计算光学"],
+    "description": "研究图像、视频及多维信号的形成、采集、处理与分析；覆盖计算成像、图像恢复、生物医学图像和遥感等交叉应用。",
+    "website": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing",
+    "guide": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/about-transactions-image-processing",
+    "requirements": [
+      "应突出图像处理理论、算法或架构贡献；期刊鼓励公开复现实验所需代码和数据，并支持多媒体补充材料。",
+      "当前链接为官方范围与复现说明；完整投稿格式和篇幅仍需沿期刊官网作者入口核实，未沿用旧版投稿 PDF 的限制。"
+    ],
+    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=239",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ieee-tgrs",
+    "name": "IEEE Transactions on Geoscience and Remote Sensing",
+    "abbr": "IEEE TGRS",
+    "publisher": "IEEE Geoscience and Remote Sensing Society",
+    "issn": "0196-2892",
+    "eissn": "1558-0644",
+    "domains": ["地学与空间", "光学", "信息与计算"],
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "地球、海洋、大气与空间遥感技术及信息处理期刊；涵盖光学遥感、高光谱成像与相关测量和反演应用。",
+    "website": "https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/",
+    "guide": "https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/",
+    "requirements": [
+      "采用 IEEE 双栏单倍行距格式，页码连续，并准备通讯作者信息与 ORCID；从期刊官方入口提交。",
+      "指南对 2026 年 1 月 1 日之后投稿的论文，将强制超页收费起点设为第 11 页；超页费与开放获取 APC 分别计算，投稿前复核最新规定。"
+    ],
+    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
   }
 ]

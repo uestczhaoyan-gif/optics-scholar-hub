@@ -200,3 +200,8 @@
 
 - 新增 Journal of Colloid and Interface Science、Dyes and Pigments、Biosensors and Bioelectronics、Sensors and Actuators B: Chemical、Science Bulletin。当前 58 本期刊。
 - JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
+
+## 2026-09-11：补齐用户指定的七本 IEEE 工程与信息期刊
+
+- 新增 IEEE Communications Surveys & Tutorials、Proceedings of the IEEE、IEEE Transactions on Industrial Electronics、IEEE Transactions on Cybernetics、IEEE Transactions on Medical Imaging、IEEE Transactions on Image Processing、IEEE Transactions on Geoscience and Remote Sensing。当前 65 本期刊。
+- JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
