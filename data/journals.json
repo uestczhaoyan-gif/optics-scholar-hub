@@ -1827,5 +1827,92 @@
         "note": "本轮未获得明确的当前数据库索引证据；不根据 JCR 分区或影响因子推断收录。"
       }
     ]
+  },
+  {
+    "id": "elight",
+    "name": "eLight",
+    "abbr": "eLight",
+    "publisher": "Springer Nature · Light Publishing Group",
+    "issn": "2097-1710",
+    "eissn": "2662-8643",
+    "domains": ["光学", "物理", "电子"],
+    "topics": ["综合光学", "纳米与超表面", "成像与计算光学"],
+    "description": "覆盖光学、光子学与电磁学，侧重新兴方向和交叉领域的突破性研究。",
+    "website": "https://link.springer.com/journal/43593",
+    "requirements": [
+      "由论文作者本人通过官网投稿入口提交；按 Research Article、Review、Letter、Tutorial 等相应类型准备稿件。",
+      "正文采用双倍行距、行号与页码，上传可编辑 Word 或 TeX/LaTeX 文件；补充数据可用性及相关声明。"
+    ],
+    "publishing": "开放获取，采用 CC BY；录用文章收取 APC，费用以录用日期及 Fees and funding 页为准，酌情减免应在投稿时申请。",
+    "guide": "https://link.springer.com/journal/43593/submission-guidelines",
+    "schedule": "常规稿件通过现官网系统受理，专题另查通知；初审、评审和出版分别计时，不将历史平均天数当作保证。",
+    "checkedAt": "2026-09-11",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/43593",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现出版社主页明确列出；数据库覆盖起止年待直查。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/43593",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现出版社主页明确列出；数据库覆盖起止年待直查。"
+      }
+    ]
+  },
+  {
+    "id": "nano-micro-letters",
+    "name": "Nano-Micro Letters",
+    "abbr": "NML",
+    "publisher": "Springer Nature · 上海交通大学",
+    "issn": "2311-6706",
+    "eissn": "2150-5551",
+    "domains": ["材料", "光学", "电子"],
+    "topics": ["纳米与超表面", "电子与器件", "光学材料"],
+    "description": "聚焦微纳尺度结构、系统及其应用；与光学相关的选题包括光电材料器件、微纳加工和神经形态视觉，亦覆盖大量非光学材料研究。",
+    "website": "https://link.springer.com/journal/40820",
+    "requirements": [
+      "现指南规定双盲评审：正文及附属材料去除作者身份，另交含作者、单位、联系方式和致谢资助信息的标题页。",
+      "准备 150–250 词摘要、4–6 个关键词及原创 TOC 图（8 cm × 4 cm、至少 600 dpi），图文摘要文字不超过 80 词。",
+      "通过现官网 Submit your manuscript 入口确认提交渠道；指南仍含邮件投稿旧表述，投稿前向编辑部核实，勿自行向未经核实地址发送稿件。"
+    ],
+    "publishing": "开放获取并收取 APC；指南保留的 2023 年收费不是当前报价，请查看现 Fees and funding 页面及机构协议。",
+    "guide": "https://link.springer.com/journal/40820/submission-guidelines",
+    "schedule": "常规稿件通过现官网系统受理，专题另查通知；初审、评审和出版分别计时，不将历史平均天数当作保证。",
+    "checkedAt": "2026-09-11",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/40820",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现出版社主页明确列出；数据库覆盖起止年待直查。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/40820",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现出版社主页明确列出；数据库覆盖起止年待直查。"
+      }
+    ]
   }
 ]

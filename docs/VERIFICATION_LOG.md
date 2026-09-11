@@ -169,3 +169,9 @@
 
 - 将用户指定的 54 本期刊按四类保存到 REQUESTED_JOURNALS.md，已有名称去重，其余逐项待补。
 - 首页各栏目上方增加中科院分区表与 JCR 官方平台入口。中科院官网正文确认统一入口及 CARSI 等登录方式；JCR 自动抓取返回 403，未据此声称平台失效或读取授权数据。
+
+## 2026-09-11：eLight 与 Nano-Micro Letters
+
+- 两刊现 Springer Nature 主页直接列出 SCIE 和 EI Compendex、纸质与电子 ISSN；按已核实 EI 路径收录，分区仍待逐年核实。
+- eLight 作者指南明确作者本人投稿、可编辑文件、双行距及数据声明；Nano-Micro Letters 核实双盲、独立标题页、TOC 图和摘要要求。
+- Nano-Micro Letters 指南仍含邮件投稿旧描述及 2023 年 APC，条目明确以现官网入口和收费页核实，不将旧数值当作当前规则。总期刊数 28。

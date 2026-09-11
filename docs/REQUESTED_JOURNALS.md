@@ -9,7 +9,7 @@
 | Nature Photonics                         | 已收录：`nature-photonics`        |
 | Advances in Optics and Photonics         | 已收录：`aop`                     |
 | Light: Science & Applications            | 已收录：`lsa`                     |
-| eLight                                   | 待核实并收录                      |
+| eLight                                   | 已收录：`elight`                  |
 | PhotoniX                                 | 已收录：`photonix`                |
 | Advanced Photonics                       | 已收录：`ap`                      |
 | Opto-Electronic Advances                 | 待核实并收录                      |
@@ -43,7 +43,7 @@
 | ACS Nano                                 | 待核实并收录                            |
 | Nano Letters                             | 待核实并收录                            |
 | InfoMat                                  | 待核实并收录                            |
-| Nano-Micro Letters                       | 待核实并收录                            |
+| Nano-Micro Letters                       | 已收录：`nano-micro-letters`            |
 | Applied Physics Reviews                  | 待核实并收录                            |
 | Science Bulletin                         | 待核实并收录                            |
 | Chinese Physics Letters                  | 待核实并收录                            |
