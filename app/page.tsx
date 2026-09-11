@@ -51,8 +51,10 @@ import { JournalCard } from '@/components/journal-card';
 import { CalendarDownload } from '@/components/calendar-download';
 import { FilterShare } from '@/components/filter-share';
 import { readFilterLink } from '@/lib/filter-link';
+import { FavoriteButton, useFavorites } from '@/components/favorites';
 const conferences = rawConferences as Conference[];
 const journals = rawJournals as Journal[];
+const knownIds = [...conferences, ...journals].map((item) => item.id);
 const options = (values: string[]) =>
   values.map((value) => ({ value, label: value }));
 function Pick({
@@ -101,10 +103,12 @@ function ConferenceCard({
   c,
   now,
   zone,
+  favorite,
 }: {
   c: Conference;
   now: Date;
   zone: string;
+  favorite: { active: boolean; disabled: boolean; onToggle: () => void };
 }) {
   const d = nextDeadline(c, now, true);
   const status = conferenceStatus(c, now);
@@ -112,6 +116,7 @@ function ConferenceCard({
     <article className="conference card" id={c.id}>
       <div className="card-main">
         <div className="eyebrow">
+          <FavoriteButton name={`${c.series} ${c.year}`} {...favorite} />
           <span>{c.region}</span>
           <span
             className={
@@ -236,6 +241,8 @@ function ConferenceCard({
 }
 export default function Home() {
   const [tab, setTab] = useState('conferences');
+  const favorites = useFavorites(knownIds);
+  const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [query, setQuery] = useState('');
   const [topic, setTopic] = useState('全部方向');
   const [region, setRegion] = useState('全部地区');
@@ -300,6 +307,7 @@ export default function Home() {
     history.replaceState(null, '', location.pathname + '#' + value);
   }
   function reset() {
+    setFavoritesOnly(false);
     setQuery('');
     setTopic('全部方向');
     setRegion('全部地区');
@@ -328,6 +336,7 @@ export default function Home() {
     .filter(
       (c) =>
         matchesText(c, query) &&
+        (!favoritesOnly || favorites.ids.includes(c.id)) &&
         (topic === '全部方向' || c.topics.includes(topic)) &&
         (region === '全部地区' || region === c.region) &&
         (status === '全部状态' ||
@@ -348,6 +357,7 @@ export default function Home() {
   const filteredJournals = journals.filter(
     (j) =>
       matchesText(j, query) &&
+      (!favoritesOnly || favorites.ids.includes(j.id)) &&
       (topic === '全部方向' || j.topics.includes(topic)) &&
       journalMatches(j, {
         collection,
@@ -640,6 +650,23 @@ export default function Home() {
                 </div>
               </aside>
               <section className="results">
+                <div className="favorites-toolbar">
+                  <label>
+                    <input
+                      type="checkbox"
+                      checked={favoritesOnly}
+                      disabled={!favorites.ready}
+                      onChange={(e) => setFavoritesOnly(e.target.checked)}
+                    />{' '}
+                    只看我的关注
+                  </label>
+                  <span>
+                    {favorites.ids.length} 项 · 保存在本浏览器，不随分享链接发送
+                    {favorites.storageFailed
+                      ? '；存储不可用，本次关注仅临时保留'
+                      : ''}
+                  </span>
+                </div>
                 <FilterShare
                   tab={tab}
                   filters={{
@@ -723,7 +750,17 @@ export default function Home() {
                   </div>
                   <div className="conference-list">
                     {filteredConfs.map((c) => (
-                      <ConferenceCard key={c.id} c={c} now={now} zone={zone} />
+                      <ConferenceCard
+                        key={c.id}
+                        c={c}
+                        now={now}
+                        zone={zone}
+                        favorite={{
+                          active: favorites.ids.includes(c.id),
+                          disabled: !favorites.ready,
+                          onToggle: () => favorites.toggle(c.id),
+                        }}
+                      />
                     ))}
                   </div>
                   {!filteredConfs.length && (
@@ -761,6 +798,11 @@ export default function Home() {
                         level={level}
                         quartile={quartile}
                         officialOnly={evidence === 'official'}
+                        favorite={{
+                          active: favorites.ids.includes(j.id),
+                          disabled: !favorites.ready,
+                          onToggle: () => favorites.toggle(j.id),
+                        }}
                       />
                     ))}
                   </div>

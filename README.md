@@ -135,3 +135,9 @@ Export the filtered conference list or one edition as an `.ics` snapshot. Known 
 点击“分享当前筛选”生成并复制链接，打开后恢复所在标签页、搜索词、研究方向、索引、分区、地区及排序等条件。剪贴板不可用时可手动复制。链接保存条件，不锁定数据快照；目录更新后结果可能变化。
 
 Use “分享当前筛选” to copy a link restoring the current tab, search and filters. A manual-copy field is available when clipboard access fails. Links preserve filter settings, not a frozen result set; catalog updates may change the results.
+
+## 我的关注 / Favorites
+
+点击期刊或会议上的“关注”，再勾选“只看我的关注”。关注列表保存在当前浏览器；清理网站数据会清除关注，不跨设备同步、不发送到分享链接。浏览器禁用存储时显示提示并仅在当前页面临时保留。筛选后的会议仍可导出日历。
+
+Save journals and conference editions with the favorite button, then filter to favorites only. Favorites are stored in this browser, are not synced between devices, and are excluded from shared links. Clearing site data removes them. If storage is unavailable, changes remain temporary for the current page. Filtered conferences can still be exported to a calendar.

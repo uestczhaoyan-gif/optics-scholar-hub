@@ -1,4 +1,5 @@
 import { External } from './external-link';
+import { FavoriteButton } from './favorites';
 import {
   hasIndex,
   indexLabels,
@@ -29,6 +30,7 @@ export function JournalCard({
   level,
   quartile,
   officialOnly,
+  favorite,
 }: {
   j: Journal;
   now: Date;
@@ -37,6 +39,7 @@ export function JournalCard({
   level: string;
   quartile: string;
   officialOnly: boolean;
+  favorite: { active: boolean; disabled: boolean; onToggle: () => void };
 }) {
   const preview = previewRankings(
     j,
@@ -55,6 +58,7 @@ export function JournalCard({
   ].slice(0, 3);
   return (
     <article className="journal card" id={j.id}>
+      <FavoriteButton name={j.name} {...favorite} />
       <div className="journal-head">
         <div className="journal-monogram">{j.abbr}</div>
         <div>
