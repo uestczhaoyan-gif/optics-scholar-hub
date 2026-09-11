@@ -1,0 +1,48 @@
+[
+  {
+    "id": "cioe-2026",
+    "name": "第27届中国国际光电博览会（CIOE 中国光博会）",
+    "kind": "展览",
+    "start": "2026-09-09",
+    "end": "2026-09-11",
+    "location": "深圳国际会展中心（宝安）",
+    "topics": ["综合光学", "电子与器件"],
+    "description": "面向光电产业链的展览与交流活动，覆盖精密光学、信息通信、激光、红外与显示等方向。",
+    "website": "https://www.cioe.cn/",
+    "notice": "https://www.cioe.cn/?key=cie2026",
+    "checkedAt": "2026-09-11",
+    "participation": "从官网观众登记或同期会议入口了解参观与听会安排；本条不设置论文投稿截止。",
+    "relation": "同期中国光学学会学术大会为独立学术会议，见“会议日历”，两者日期和报名规则不同。"
+  },
+  {
+    "id": "cioe-micro-nano-2026",
+    "name": "超精微/纳米光学制造技术论坛",
+    "kind": "产业论坛",
+    "parentId": "cioe-2026",
+    "start": "2026-09-10",
+    "end": "2026-09-10",
+    "location": "深圳国际会展中心，5号馆二楼5A",
+    "topics": ["光学设计与制造", "纳米与超表面"],
+    "description": "由 CIOE、清华大学、复旦大学上海超精密光学制造工程技术研究中心主办，围绕超构光学与超精密加工交流。",
+    "website": "https://conference.cioe.cn/2026chaojingweina.html",
+    "notice": "https://conference.cioe.cn/2026chaojingweina.html",
+    "checkedAt": "2026-09-11",
+    "participation": "官方页面提供免费听会报名入口；本轮未发现公开论文征稿要求，不推断论文集或检索资格。",
+    "relation": "CIOE 同期论坛；作为子活动单独提供导航，不计作新增独立学术大会。"
+  },
+  {
+    "id": "light-precision-forum-2026",
+    "name": "2026 Light 光学精密工程青年科学家论坛",
+    "kind": "学术论坛",
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "location": "北京，清华大学精密仪器系",
+    "topics": ["光学设计与制造", "传感与测量"],
+    "description": "与 Light Precision Engineering 创刊编委会会议联合举行，由长春光机所主办、Light 学术出版中心承办，清华大学协办。",
+    "website": "https://www.ciomp.cas.cn/zhxw/202609/t20260902_8276740.html",
+    "notice": "https://www.ciomp.cas.cn/zhxw/202609/t20260902_8276740.html",
+    "checkedAt": "2026-09-11",
+    "participation": "历史活动：依据主办单位会后报道收录，本轮仅读取官方检索快照。未核实公开报名和征稿渠道，不设置报名或投稿截止。",
+    "relation": "“光学精密工程论坛”可能指不同系列；本条使用已核实的完整名称与举办日期。"
+  }
+]

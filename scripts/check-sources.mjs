@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { sourceIndex, tableCell } from './maintenance.mjs';
 const catalogs = {};
-for (const name of ['journals', 'conferences'])
+for (const name of ['journals', 'conferences', 'events'])
   catalogs[name] = JSON.parse(await fs.readFile(`data/${name}.json`, 'utf8'));
 const sources = sourceIndex(catalogs);
 const urls = sources.keys();

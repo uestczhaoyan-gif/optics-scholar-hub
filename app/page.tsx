@@ -52,6 +52,7 @@ import { CalendarDownload } from '@/components/calendar-download';
 import { FilterShare } from '@/components/filter-share';
 import { readFilterLink } from '@/lib/filter-link';
 import { FavoriteButton, useFavorites } from '@/components/favorites';
+import { EventsDirectory } from '@/components/events-directory';
 const conferences = rawConferences as Conference[];
 const journals = rawJournals as Journal[];
 const knownIds = [...conferences, ...journals].map((item) => item.id);
@@ -269,7 +270,9 @@ export default function Home() {
   useEffect(() => {
     const onHash = () => {
       const value = location.hash.slice(1);
-      if (['conferences', 'journals', 'guide', 'data'].includes(value))
+      if (
+        ['conferences', 'journals', 'events', 'guide', 'data'].includes(value)
+      )
         setTab(value);
       const filters = readFilterLink(location.search, {
         topics: topicVocabulary,
@@ -463,6 +466,7 @@ export default function Home() {
               <Microscope />
               投稿入门
             </TabsTrigger>
+            <TabsTrigger value="events">展会与论坛</TabsTrigger>
             <TabsTrigger value="data">
               <CircleHelp />
               数据与共建
@@ -864,6 +868,9 @@ export default function Home() {
           )}
           <TabsContent value="guide">
             <Guide />
+          </TabsContent>
+          <TabsContent value="events">
+            <EventsDirectory now={now} />
           </TabsContent>
           <TabsContent value="data">
             <DataNotes />

@@ -14,6 +14,7 @@ test('source checker maps shared sources, orders changes and preserves successfu
   const catalogs = ['changed', 'blocked', 'missing', 'timeout', 'pdf', 'new'].map(id => ({ id, name: id, website: base + id }));
   fs.writeFileSync(path.join(directory, 'data/conferences.json'), JSON.stringify(catalogs));
   fs.writeFileSync(path.join(directory, 'data/journals.json'), JSON.stringify([{ id: 'shared', name: 'shared', guide: base + 'changed' }]));
+  fs.writeFileSync(path.join(directory, 'data/events.json'), JSON.stringify([{ id: 'forum', name: 'forum', notice: base + 'changed' }]));
   const previous = { [base + 'changed']: { hash: 'old' }, [base + 'blocked']: { hash: 'keep' } };
   fs.writeFileSync(path.join(directory, 'source-state/state.json'), JSON.stringify(previous));
   const mock = path.join(directory, 'mock.mjs');
@@ -31,7 +32,7 @@ test('source checker maps shared sources, orders changes and preserves successfu
   let rows = read('source-report/report.json');
   assert.equal(rows.length, 6);
   assert.equal(rows[0].status, 'changed');
-  assert.equal(rows[0].references.length, 2);
+  assert.equal(rows[0].references.length, 3);
   assert.deepEqual(new Set(rows.map(r => r.status)), new Set(['changed', 'access-limited', 'http-error', 'timeout', 'reachable-nontext', 'baseline']));
   assert.equal(read('source-state/state.json')[base + 'blocked'].hash, 'keep');
   assert.equal(run().status, 0);

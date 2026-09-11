@@ -24,12 +24,13 @@ const text = (value) =>
   );
 const conferences = read('conferences'),
   journals = read('journals');
+const events = read('events');
 const topics = read('topics');
 assert(Array.isArray(topics) && topics.length > 0);
 topics.forEach(text);
 assert.equal(new Set(topics).size, topics.length, 'Duplicate topic vocabulary');
 const ids = new Set();
-for (const item of [...conferences, ...journals]) {
+for (const item of [...conferences, ...journals, ...events]) {
   assert(
     /^[a-z0-9-]+$/.test(item.id) && !ids.has(item.id),
     `Duplicate/invalid id: ${item.id}`,
@@ -50,7 +51,9 @@ for (const item of [...conferences, ...journals]) {
     item.topics.every((topic) => topics.includes(topic)),
     `${item.id}: unknown topic; use data/topics.json`,
   );
-  assert(item.requirements.length > 0);
+}
+for (const item of [...conferences, ...journals]) {
+  assert(Array.isArray(item.requirements) && item.requirements.length > 0);
   item.requirements.forEach(text);
 }
 for (const c of conferences) {
@@ -152,6 +155,21 @@ for (const j of journals) {
   }
 }
 const config = read('site');
+for (const event of events) {
+  date(event.start);
+  date(event.end);
+  assert(event.start <= event.end);
+  assert(['展览', '产业论坛', '学术论坛'].includes(event.kind));
+  for (const field of ['location', 'participation', 'relation'])
+    text(event[field]);
+  url(event.notice);
+  if (event.parentId)
+    assert(
+      events.some(
+        (parent) => parent.id === event.parentId && parent.kind === '展览',
+      ),
+    );
+}
 assert(Number.isFinite(Date.parse(config.snapshotAt)));
 if (config.repository) url(config.repository);
 console.log(

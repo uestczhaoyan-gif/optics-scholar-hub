@@ -141,3 +141,9 @@ Use “分享当前筛选” to copy a link restoring the current tab, search an
 点击期刊或会议上的“关注”，再勾选“只看我的关注”。关注列表保存在当前浏览器；清理网站数据会清除关注，不跨设备同步、不发送到分享链接。浏览器禁用存储时显示提示并仅在当前页面临时保留。筛选后的会议仍可导出日历。
 
 Save journals and conference editions with the favorite button, then filter to favorites only. Favorites are stored in this browser, are not synced between devices, and are excluded from shared links. Clearing site data removes them. If storage is unavailable, changes remain temporary for the current page. Filtered conferences can still be exported to a calendar.
+
+### 展会与论坛 / Exhibitions and forums
+
+新增独立入口：3 项活动包含 CIOE 2026、同期微纳光学制造论坛及历史 Light 光学精密工程青年论坛。母展与子论坛有关联，不计作独立论文会议；无公开征稿依据不生成 DDL。
+
+A separate directory includes three exhibition/forum records, with parent-event relationships and historical status. These are excluded from the academic conference count; no paper deadline is invented without an official call.
