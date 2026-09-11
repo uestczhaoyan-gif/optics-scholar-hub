@@ -1148,3 +1148,21 @@ a:not(.brand):has(svg) {
     animation: none !important;
   }
 }
+.calendar-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  font-size: 12px;
+}
+.calendar-download {
+  border: 1px solid currentColor;
+  border-radius: 6px;
+  padding: 7px 10px;
+  font-size: 12px;
+}
+.calendar-download:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

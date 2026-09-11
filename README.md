@@ -123,3 +123,9 @@ For GitHub Pages, push to `main`, select **GitHub Actions** as the Pages source,
 Update the JSON records with public sources and the actual review date. See [CONTRIBUTING.md](CONTRIBUTING.md) and [DATA_MODEL.md](docs/DATA_MODEL.md). A daily workflow compares public source fingerprints and writes a run summary plus a downloadable report. It never automatically changes deadlines. Initial runs or cache loss create new baselines; HTTP 403/429 means access-limited, not broken. Human review is required. Records older than 30 days show a warning. No issues or emails are automatically sent; maintainers should inspect the reports and re-enable schedules if GitHub disables inactive workflows.
 
 Original code and original descriptions are MIT-licensed. Third-party names, pages, and content retain their respective rights. Do not contribute restricted database exports, credentials, or complete ranking tables. Official notices take precedence over directory summaries.
+
+## 日历导出 / Calendar export
+
+会议列表支持导出当前筛选结果，每张会议详情也可导出本届 `.ics`。导出包含会期和已知截止（含历史日期），跳过未知日期；精确时间转换为 UTC，日期级截止保留全天事件。文件中附官方来源及核验日期。全天事件不意味着当天任意时刻均可提交。导出是快照，不会自动更新，也不预设提醒；重新导入时请留意日历软件的重复事件处理。
+
+Export the filtered conference list or one edition as an `.ics` snapshot. Known deadlines (including past dates) and meeting dates are included; unknown dates are skipped. Exact instants use UTC, while date-only records remain all-day events. Sources and verification dates are preserved. Exported calendars do not update automatically or include preset alarms. Check your calendar application for duplicate handling when importing again.

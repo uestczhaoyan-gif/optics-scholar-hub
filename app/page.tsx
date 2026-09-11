@@ -47,6 +47,7 @@ import {
 } from '@/lib/catalog';
 import { Guide, DataNotes } from './resources';
 import { JournalCard } from '@/components/journal-card';
+import { CalendarDownload } from '@/components/calendar-download';
 const conferences = rawConferences as Conference[];
 const journals = rawJournals as Journal[];
 const options = (values: string[]) =>
@@ -212,6 +213,7 @@ function ConferenceCard({
             </div>
           </div>
           <div className="link-row">
+            <CalendarDownload conferences={[c]} label="导出本届日历 (.ics)" />
             <External href={c.website}>会议官网</External>
             <External href={c.notice}>核心通知</External>
             {c.registration ? (
@@ -657,6 +659,15 @@ export default function Home() {
                   )}
                 </div>
                 <TabsContent value="conferences">
+                  <div className="calendar-toolbar">
+                    <CalendarDownload
+                      conferences={filteredConfs}
+                      label="导出当前会议列表 (.ics)"
+                    />
+                    <span>
+                      包含会期与已知截止（含历史日期）；跳过未知日期。导出后不自动更新。
+                    </span>
+                  </div>
                   <div className="notice">
                     <Clock3 size={17} />
                     <p>
