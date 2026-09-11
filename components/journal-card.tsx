@@ -204,6 +204,24 @@ export function JournalCard({
               </div>
             ))}
           </div>
+          {!!j.scopeExamples?.length && (
+            <>
+              <h3>光学相关发表样例</h3>
+              <p className="muted">
+                中文概述用于判断研究范围，不代表类似稿件保证录用。
+              </p>
+              <ul>
+                {j.scopeExamples.map((example) => (
+                  <li key={example.source}>
+                    <External href={example.source}>{example.title}</External>
+                    <p>
+                      {example.publishedAt} 首次发表 · {example.relevance}
+                    </p>
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
           <h3>投稿准备</h3>
           <ul>
             {j.requirements.map((r) => (

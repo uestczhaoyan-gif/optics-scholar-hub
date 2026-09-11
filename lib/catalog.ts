@@ -45,6 +45,12 @@ export type Ranking = {
   total?: number;
 };
 export type Journal = {
+  scopeExamples?: {
+    title: string;
+    source: string;
+    publishedAt: string;
+    relevance: string;
+  }[];
   id: string;
   name: string;
   abbr: string;

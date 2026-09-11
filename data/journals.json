@@ -1549,6 +1549,26 @@
         "coverageEnd": null,
         "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
       }
+    ],
+    "scopeExamples": [
+      {
+        "title": "液晶与超表面结合，实现动态光场调控",
+        "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202529188",
+        "publishedAt": "2026-03-19",
+        "relevance": "综述样例：可调超表面、液晶材料与光场控制。"
+      },
+      {
+        "title": "利用介质 Mie 共振增强二维材料探测器的偏振响应",
+        "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202517441",
+        "publishedAt": "2025-09-09",
+        "relevance": "研究样例：光与物质耦合、二维半导体和偏振探测器。"
+      },
+      {
+        "title": "借助多功能 Lewis 碱添加剂提升锡基钙钛矿红光 LED",
+        "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202506504",
+        "publishedAt": "2025-05-07",
+        "relevance": "研究样例：发光材料、缺陷调控和光电子器件。"
+      }
     ]
   },
   {

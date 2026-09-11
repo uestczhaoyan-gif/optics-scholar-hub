@@ -58,3 +58,7 @@ Journal records store independent ranking dimensions and evidence. CAS major/min
 `data/topics.json` 是期刊与会议共用的中文研究方向词表，并决定筛选菜单顺序。新增记录只能使用词表中的值，禁止重复；新增方向需同时维护词表。领域 domains 表示学科归属，topics 表示研究方向，二者分开。
 
 统一“生物医学光子学”为“生物医学光学”，“光电材料”为“光学材料”；“光子集成与光通信”拆分为“集成光子”和“光通信”，“超表面与材料”拆分为“纳米与超表面”和“光学材料”。
+
+## 交叉期刊的范围样例
+
+可选 `scopeExamples` 数组记录至少 3 篇不同文章：`title`（中文概述）、`source`（官方文章或 DOI 链接）、`publishedAt`（首次发表日期）、`relevance`（光学适配说明）。它解释研究范围，不作为分区或索引证据，也不保证类似论文录用。新增跨学科期刊按扩充计划核对近期不同期次样例，历史存量分批补齐。

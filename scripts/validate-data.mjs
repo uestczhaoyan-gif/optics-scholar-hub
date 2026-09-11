@@ -117,6 +117,21 @@ for (const j of journals) {
   text(j.schedule);
   text(j.publishing);
   text(j.publisher);
+  if (j.scopeExamples !== undefined) {
+    assert(
+      Array.isArray(j.scopeExamples) && j.scopeExamples.length >= 3,
+      `${j.id}: scope examples need at least three papers`,
+    );
+    const sources = new Set();
+    for (const example of j.scopeExamples) {
+      text(example.title);
+      text(example.relevance);
+      date(example.publishedAt);
+      url(example.source);
+      assert(!sources.has(example.source), `${j.id}: duplicate scope example`);
+      sources.add(example.source);
+    }
+  }
   const records = new Set();
   for (const r of j.rankings) {
     assert(['JCR', 'CAS'].includes(r.system));
