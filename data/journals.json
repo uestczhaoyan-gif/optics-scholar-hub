@@ -158,6 +158,7 @@
     "website": "https://opg.optica.org/aop/home.cfm",
     "guide": "https://opg.optica.org/content/author/portal/",
     "requirements": [
+      "长篇综述、tutorial 和 roadmap 为邀稿；准备此类稿件前先按官方流程联系编辑，不能按普通研究论文直接投稿。",
       "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
       "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
     ],
@@ -180,7 +181,7 @@
       }
     ],
     "issn": null,
-    "eissn": null,
+    "eissn": "1943-8206",
     "domains": ["光学"],
     "indexes": [
       {
@@ -314,7 +315,7 @@
       }
     ],
     "issn": null,
-    "eissn": null,
+    "eissn": "2327-9125",
     "domains": ["光学", "材料", "物理", "电子"],
     "indexes": [
       {
@@ -396,8 +397,8 @@
         "total": 127
       }
     ],
-    "issn": null,
-    "eissn": null,
+    "issn": "0733-8724",
+    "eissn": "1558-2213",
     "domains": ["光学", "电子", "信息与计算"],
     "indexes": [
       {
@@ -510,8 +511,8 @@
         "total": 129
       }
     ],
-    "issn": null,
-    "eissn": null,
+    "issn": "1943-0620",
+    "eissn": "1943-0639",
     "domains": ["光学", "电子", "信息与计算"],
     "indexes": [
       {
@@ -664,8 +665,8 @@
         "evidence": "secondary"
       }
     ],
-    "issn": null,
-    "eissn": null,
+    "issn": "0146-9592",
+    "eissn": "1539-4794",
     "domains": ["光学", "物理"],
     "indexes": [
       {
@@ -722,7 +723,7 @@
       }
     ],
     "issn": null,
-    "eissn": null,
+    "eissn": "2156-7085",
     "domains": ["光学", "信息与计算", "生物医学"],
     "indexes": [
       {
@@ -779,7 +780,7 @@
       }
     ],
     "issn": null,
-    "eissn": null,
+    "eissn": "2159-3930",
     "domains": ["光学", "材料", "电子"],
     "indexes": [
       {
