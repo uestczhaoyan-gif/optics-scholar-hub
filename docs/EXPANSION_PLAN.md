@@ -1,6 +1,6 @@
 # 光学及交叉领域扩充计划与候选清单
 
-规划日期：2026-09-10；执行状态更新：2026-09-11。规划基线为 19 本期刊、9 届会议；当前正式目录为 23 本期刊、14 届会议。
+规划日期：2026-09-10；执行状态更新：2026-09-11。规划基线为 19 本期刊、9 届会议；当前正式目录为 24 本期刊、14 届会议，另列 3 项展会/论坛（含母子活动）。
 
 **本文件是持续维护的候选池，不是全部通过审核的目录。** 下方状态表记录已执行批次；其余候选仍需逐项核对存续状态、准确名称、官网、研究范围及当前资料。正式收录以 `data/journals.json` 与 `data/conferences.json` 为准，字段核验范围见 [核验日志](VERIFICATION_LOG.md)。
 
@@ -8,7 +8,7 @@
 
 | 类别 | 已加入正式目录 | 后续维护重点 |
 | --- | --- | --- |
-| 期刊（相对规划基线新增） | 光学 精密工程、PhotoniX、Advanced Functional Materials、Frontiers of Optoelectronics | 索引数据库直查；缺失分区继续留空；交叉期刊样例逐步补齐 |
+| 期刊（相对规划基线新增） | 光学 精密工程、PhotoniX、Advanced Functional Materials、Frontiers of Optoelectronics、Laser & Photonics Reviews | 索引数据库直查；缺失分区继续留空；交叉期刊样例逐步补齐 |
 | 会议（相对规划基线新增） | Laser Congress 2026、Biophotonics Congress 2027、OMTA 2026、Quantum 2.0 2027、Photonics Asia 2026 | 未公布的注册/投稿截止保持未知；已过期届次保留历史 |
 | 功能 | SCI/SCIE/EI/ESCI 与分区标签、统一方向筛选、关注列表、分享筛选、日历导出、公开审核统计 | 持续核验数据；功能可用不代表全部索引已核实 |
 
@@ -19,7 +19,7 @@
 | 优先级 | 条目/任务 | 当前缺口与下一步 |
 | --- | --- | --- |
 | P1 | 已收录期刊的 SCI/EI 证据 | 优先核实仍无依据的主干刊；出版社声明与数据库直查分级，记录刊号与核验日期 |
-| P1 | Laser & Photonics Reviews | 官方概览已找到 SCIE 声明；需要 JCR/CAS 1/2 区证据或 EI 准入依据，再补完整条目 |
+| P1 | Laser & Photonics Reviews（已收录） | 已保存 SCIE 出版社声明与中科院 2025 分区第三方参考；继续补数据库直查、JCR 逐学科与 EI 依据 |
 | P1 | 中国激光、光学学报、中国光学（中英文）、红外与激光工程 | 继续从期刊/主办单位页面核对当前刊名、刊号、索引和作者指南；访问受限不能直接补齐全部字段 |
 | P1 | NDTA 2026 | 核实地点，并解决官方中英文摘要长度 300–500 与 500–600 词冲突后再收录 |
 | P1 | SPIE Photonics West 2027 | 获取可核对的当届征稿、稿件要求和各类截止；检索线索不能代替完整审核 |
@@ -197,7 +197,7 @@
 
 CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHOTONICS CHINA）、LASER World of PHOTONICS、SEMICON China，以及相关产业论坛可作为找团队、设备与合作的资源。
 
-**暂不将纯展览混入论文 DDL 列表。** 如果存在独立技术会议，应按其正式会议名称、征稿与主办信息审核；例如展会与同期学术大会不能合并为一条“可投稿会议”。是否未来增加产业资源页，留到后续产品规划。
+**暂不将纯展览混入论文 DDL 列表。** 如果存在独立技术会议，应按其正式会议名称、征稿与主办信息审核；例如展会与同期学术大会不能合并为一条“可投稿会议”。现已增加独立“展会与论坛”入口；首批 CIOE 与精密工程相关活动不计入论文会议数量，活动类型、母子关系及历史状态分别标注。
 
 ## 五、后续执行批次
 
@@ -230,4 +230,4 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 
 ## English summary
 
-This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. As of 11 September 2026, the production catalog contains 23 journals and 14 conference editions. The execution table distinguishes admitted records from pending candidates; remaining names are discovery leads, not verified entries.
+This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. As of 11 September 2026, the production catalog contains 24 journals, 14 conference editions, and 3 separate exhibition/forum records (including parent and child events). The execution table distinguishes admitted records from pending candidates; remaining names are discovery leads, not verified entries.

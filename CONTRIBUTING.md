@@ -19,3 +19,13 @@ Contribute one independently verifiable change at a time. Use a unique conferenc
 Ranking records must identify system, edition year, category, major/minor level, quartile, and evidence. Update `checkedAt` only after manually reviewing the source. Write original summaries; do not upload restricted material, credentials, or copied full pages. Run the validation, tests, type checking, lint, and relevant build checks listed above.
 
 Vendored starter UI files are excluded from project lint but remain within TypeScript checking. Avoid unrelated edits to these components.
+
+## 展会论坛维护 / Exhibition and forum records
+
+展览、产业论坛及没有公开征稿的历史论坛写入 `data/events.json`，使用官方完整名称、举办起止日、地点、来源、参与方式与真实核验日期。子论坛的 `parentId` 指向母展；不能重复统计为独立论文会议。仅从官方检索快照获得信息时，应在参与说明和核验日志披露访问限制。
+
+Use `data/events.json` for exhibitions, industry forums and historical forums without an open paper call. Record the official name, dates, location, sources, participation details and actual review date. Link child forums to their parent exhibition with `parentId`; do not count them as independent paper conferences. Disclose when evidence is limited to an official search snapshot.
+
+版本文件由构建生成，不手工编辑。刷新只加载已发布的本站数据；维护者可通过 Actions 手动触发来源报告，复核后再提交数据。
+
+The version manifest is generated at build time. Refreshing only loads a published catalog; maintainers can manually run the source-report workflow, review findings and then commit data changes.
