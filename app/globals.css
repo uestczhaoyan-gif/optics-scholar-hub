@@ -1211,3 +1211,27 @@ a:not(.brand):has(svg) {
 .favorite-button:disabled {
   opacity: 0.5;
 }
+.coverage-table {
+  overflow-x: auto;
+  margin: 24px 0;
+}
+.coverage-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  text-align: left;
+}
+.coverage-table caption {
+  text-align: left;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.coverage-table th,
+.coverage-table td {
+  border-bottom: 1px solid var(--border);
+  padding: 10px 12px;
+}
+.coverage-table td:nth-child(2) {
+  font-weight: 700;
+  color: var(--primary);
+}

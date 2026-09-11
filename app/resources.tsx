@@ -1,5 +1,8 @@
 import { External } from '@/components/external-link';
 import config from '@/data/site.json';
+import rawJournals from '@/data/journals.json';
+import rawConferences from '@/data/conferences.json';
+import { hasIndex, type Journal, type Conference } from '@/lib/catalog';
 export function Guide() {
   return (
     <section className="resource-page">
@@ -79,15 +82,97 @@ export function Guide() {
   );
 }
 export function DataNotes() {
+  const journals = rawJournals as Journal[];
+  const conferences = rawConferences as Conference[];
+  const metrics = [
+    ['已收录期刊', journals.length, '按期刊去重，候选清单不计入'],
+    [
+      'SCI / SCIE 有依据',
+      journals.filter((j) => hasIndex(j, 'SCIE')).length,
+      '包含出版社声明；不是全部经过数据库直查',
+    ],
+    [
+      'EI 有依据',
+      journals.filter((j) => hasIndex(j, 'EI_COMPENDEX')).length,
+      '包含出版社声明；不保证单篇已检索',
+    ],
+    [
+      'SCI / EI 均有依据',
+      journals.filter((j) => hasIndex(j, 'SCIE') && hasIndex(j, 'EI_COMPENDEX'))
+        .length,
+      '两种索引分别存在当前收录证据',
+    ],
+    [
+      '索引存在待核验项',
+      journals.filter((j) =>
+        j.indexes.some(
+          (i) =>
+            ['SCIE', 'EI_COMPENDEX'].includes(i.database) &&
+            i.status === 'unverified',
+        ),
+      ).length,
+      '待核验不等于未收录',
+    ],
+    [
+      '已有数据库直查证据的期刊',
+      journals.filter((j) =>
+        j.indexes.some(
+          (i) => i.status === 'confirmed' && i.evidence === 'database',
+        ),
+      ).length,
+      '至少一种索引标记为数据库核实',
+    ],
+    [
+      '分区尚待补全',
+      journals.filter((j) => !j.rankings.length).length,
+      '按 EI 条件收录，未推测 JCR / 中科院分区',
+    ],
+    [
+      '已收录会议届次',
+      conferences.length,
+      '不同年份分开记录，母大会专题不重复计数',
+    ],
+    [
+      '截止存在未知项的会议',
+      conferences.filter((c) => c.deadlines.some((d) => !d.at && !d.date))
+        .length,
+      '可能是投稿、注册或终稿日期未知',
+    ],
+  ];
   return (
     <section className="resource-page">
       <span className="section-kicker">OPEN & TRACEABLE</span>
       <h2>每个日期，都应该有出处。</h2>
+      <p>
+        以下统计直接来自当前目录。各项可能重叠，不能相加；有来源依据与完成数据库核实分别统计。
+      </p>
+      <div className="coverage-table">
+        <table>
+          <caption>当前数据覆盖与审核进度</caption>
+          <thead>
+            <tr>
+              <th scope="col">项目</th>
+              <th scope="col">数量</th>
+              <th scope="col">说明</th>
+            </tr>
+          </thead>
+          <tbody>
+            {metrics.map(([label, count, note]) => (
+              <tr key={label}>
+                <th scope="row">{label}</th>
+                <td>{count}</td>
+                <td>{note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
       <div className="guide-grid">
         <article className="guide-card">
           <h3>收录范围</h3>
           <p>
-            期刊包含 JCR / 中科院 1/2 区精选和 EI 工程补充，同刊不重复。EI 补充可以暂无分区。会议按领域相关性收录，不借用 CCF
+            期刊包含 JCR / 中科院 1/2 区精选和 EI 工程补充，同刊不重复。EI
+            补充可以暂无分区。会议按领域相关性收录，不借用 CCF
             等级评价光学会议。本目录持续扩充，并不覆盖全部期刊或会议。
           </p>
         </article>
@@ -104,14 +189,16 @@ export function DataNotes() {
           <p>
             “官方披露”指主办方、出版社或所属机构直接发布；“排名推算”指使用官方
             JCR
-            排名与期刊总数推算四分位；“第三方参考”保留公开来源但尚未用机构账户核验。期刊分区条目与投稿指南有各自来源。SCI/SCIE 与 EI 独立核验；索引标签区分出版社声明和数据库核实，注明各自核验日期。待核验不等于未收录。
+            排名与期刊总数推算四分位；“第三方参考”保留公开来源但尚未用机构账户核验。期刊分区条目与投稿指南有各自来源。SCI/SCIE
+            与 EI
+            独立核验；索引标签区分出版社声明和数据库核实，注明各自核验日期。待核验不等于未收录。
           </p>
         </article>
         <article className="guide-card">
           <h3>更新如何发生</h3>
           <p>
             仓库每日工作流检查来源的可达性与内容指纹，生成变化报告。网页不会自动把抓取结果认定为新
-            DDL；维护者审阅官网、更新 JSON 并通过 PR 校验后发布。超过 30
+            DDL；维护者审阅官网、更新 JSON 并通过仓库校验后发布。超过 30
             天未核实的条目会提示复核。
           </p>
         </article>
@@ -136,9 +223,17 @@ export function DataNotes() {
         <External href="https://github.com/ccfddl/ccf-deadlines">
           参考项目：CCF-Deadlines
         </External>
-        <External href={`${config.repository}/blob/main/docs/ROADMAP.md`}>后续建设规划</External>
-        <External href={`${config.repository}/blob/main/docs/VERIFICATION_LOG.md`}>近期官方复核记录</External>
-        <External href={`${config.repository}/blob/main/docs/MAINTENANCE.md`}>维护与纠错说明</External>
+        <External href={`${config.repository}/blob/main/docs/ROADMAP.md`}>
+          后续建设规划
+        </External>
+        <External
+          href={`${config.repository}/blob/main/docs/VERIFICATION_LOG.md`}
+        >
+          近期官方复核记录
+        </External>
+        <External href={`${config.repository}/blob/main/docs/MAINTENANCE.md`}>
+          维护与纠错说明
+        </External>
         <External href="https://jcr.clarivate.com/">JCR 官方查询</External>
         <External href="https://sp.fenqubiao.com/">中科院官方查询</External>
       </div>
