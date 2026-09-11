@@ -35,22 +35,22 @@
 | Nature Materials                         | 已收录：`nature-materials`              |
 | Nature Nanotechnology                    | 已收录：`nature-nanotechnology`         |
 | Nature Communications                    | 已收录：`nature-communications`         |
-| Science Advances                         | 待核实并收录                            |
+| Science Advances                         | 已收录：`science-advances`              |
 | Chemical Reviews                         | 已收录：`chemical-reviews`              |
 | Advanced Materials                       | 已收录：`advanced-materials`            |
 | Advanced Functional Materials            | 已收录：`advanced-functional-materials` |
-| Advanced Science                         | 待核实并收录                            |
+| Advanced Science                         | 已收录：`advanced-science`              |
 | ACS Nano                                 | 已收录：`acs-nano`                      |
 | Nano Letters                             | 已收录：`nano-letters`                  |
-| InfoMat                                  | 待核实并收录                            |
+| InfoMat                                  | 已收录：`infomat`                       |
 | Nano-Micro Letters                       | 已收录：`nano-micro-letters`            |
 | Applied Physics Reviews                  | 已收录：`applied-physics-reviews`       |
 | Science Bulletin                         | 待核实并收录                            |
-| Chinese Physics Letters                  | 待核实并收录                            |
+| Chinese Physics Letters                  | 已收录：`chinese-physics-letters`       |
 | Journal of Colloid and Interface Science | 待核实并收录                            |
 | Inorganic Chemistry                      | 已收录：`inorganic-chemistry`           |
-| Angewandte Chemie International Edition  | 待核实并收录                            |
-| Science China Materials                  | 待核实并收录                            |
+| Angewandte Chemie International Edition  | 已收录：`angewandte-chemie`             |
+| Science China Materials                  | 已收录：`science-china-materials`       |
 | Dyes and Pigments                        | 待核实并收录                            |
 | npj Quantum Materials                    | 已收录：`npj-quantum-materials`         |
 | npj Quantum Information                  | 已收录：`npj-quantum-information`       |

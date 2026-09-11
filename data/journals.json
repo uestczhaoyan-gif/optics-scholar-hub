@@ -2970,5 +2970,336 @@
       "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
     ],
     "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MULTIDISCIPLINARY SCIENCES",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=522",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "science-advances",
+    "name": "Science Advances",
+    "abbr": "Sci Adv",
+    "publisher": "American Association for the Advancement of Science",
+    "issn": null,
+    "eissn": "2375-2548",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["综合光学", "光学材料", "成像与计算光学"],
+    "description": "综合性开放获取期刊，覆盖基础与应用科学；本合集关注光子学、成像和材料交叉研究，需突出科学进展及影响。",
+    "website": "https://www.science.org/journal/sciadv",
+    "guide": "https://www.science.org/content/page/science-advances-information-authors",
+    "requirements": [
+      "从本刊 Information for Authors 及官网提交入口核对稿件类型、正文、补充材料和数据政策。",
+      "本轮官网自动读取受限，具体长度与文件限制待核实；不以 Science 或 Science Partner Journals 的要求替代本刊规则。"
+    ],
+    "publishing": "开放获取；当前 APC、许可及减免以 AAAS 本刊官方政策为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=91",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "advanced-science",
+    "name": "Advanced Science",
+    "abbr": "Adv Sci",
+    "publisher": "Wiley",
+    "issn": null,
+    "eissn": "2198-3844",
+    "domains": ["材料", "光学", "生物医学"],
+    "topics": ["光学材料", "电子与器件", "生物医学光学"],
+    "description": "跨材料、物理、化学、生命科学和工程的开放获取期刊；适合光功能材料、光电器件和生物光学等具有交叉意义的工作。",
+    "website": "https://advanced.onlinelibrary.wiley.com/journal/21983844",
+    "guide": "https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/author-guidelines",
+    "requirements": [
+      "新稿通过 Wiley Authors 提交；2025 年 11 月 25 日以前启动的稿件按官网旧系统提示处理。",
+      "支持 Free Format 新投稿，准备包含必要章节的可编辑正文、清晰图表和单独补充材料；格式宽松不免除研究与伦理声明。"
+    ],
+    "publishing": "完全开放获取，APC 与机构协议请查 Wiley 最新说明。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=448",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "infomat",
+    "name": "InfoMat",
+    "abbr": "InfoMat",
+    "publisher": "Wiley",
+    "issn": null,
+    "eissn": "2567-3165",
+    "domains": ["材料", "电子", "光学"],
+    "topics": ["光学材料", "电子与器件", "光通信"],
+    "description": "聚焦具有新颖电、光、磁性质的材料及其信息技术应用，连接材料科学、电子与通信研究。",
+    "website": "https://onlinelibrary.wiley.com/journal/25673165",
+    "guide": "https://onlinelibrary.wiley.com/page/journal/25673165/homepage/authorguidelines",
+    "requirements": [
+      "通过 Wiley Authors 的 INF2 入口投稿；cover letter 说明研究动机、新颖性、与既往工作的区别及作者一致同意。",
+      "研究论文建议 5000 词以内（含摘要，不含参考文献和图表），不是硬上限；摘要 260 词以内，3–6 个关键词。",
+      "新稿支持 Free Format，正文需可编辑，Supporting Information 单独提交；涉及核心材料须披露结构和组成。"
+    ],
+    "publishing": "开放获取期刊；APC、资助与授权条款按本刊现行说明确认。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=91",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "angewandte-chemie",
+    "name": "Angewandte Chemie International Edition",
+    "abbr": "Angew Chem Int Ed",
+    "publisher": "Wiley-VCH · Gesellschaft Deutscher Chemiker",
+    "issn": null,
+    "eissn": "1521-3773",
+    "domains": ["材料", "光学", "物理"],
+    "topics": ["光学材料", "传感与测量", "纳米与超表面"],
+    "description": "综合化学期刊；本合集关注光化学、发光分子、光功能材料和光学化学传感，稿件应突出化学领域的重要进展。",
+    "website": "https://onlinelibrary.wiley.com/journal/15213773",
+    "guide": "https://onlinelibrary.wiley.com/page/journal/15213773/homepage/notice-to-authors",
+    "requirements": [
+      "附简短 cover letter 说明适配性；Communication 通常约 2500 词，Research Article 不超过 5000 词，计数自摘要至结论，不含参考文献。",
+      "详细实验方法和完整表征数据放在 Supporting Information 中；综述及观点类另查提案和邀请要求。"
+    ],
+    "publishing": "混合出版，可在录用时选择开放获取；订阅出版和 OA 的版权及费用规则分别确认。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/40843",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "依据主办者或出版社明确声明；数据库覆盖起止年待直查。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://link.springer.com/journal/40843",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "依据主办者或出版社明确声明；数据库覆盖起止年待直查。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "science-china-materials",
+    "name": "Science China Materials",
+    "abbr": "Sci China Mater",
+    "publisher": "Science China Press · Springer Nature",
+    "issn": "2095-8226",
+    "eissn": "2199-4501",
+    "domains": ["材料", "光学", "电子"],
+    "topics": ["光学材料", "电子与器件", "纳米与超表面"],
+    "description": "覆盖材料科学及其与化学、物理和工程的交叉，光学适配方向包括光电材料、光能转换与微纳功能结构。",
+    "website": "https://link.springer.com/journal/40843",
+    "guide": "https://link.springer.com/journal/40843/submission-guidelines",
+    "requirements": [
+      "使用官网提供的 Articles 模板和 Instructions for Authors PDF，从现 Submit your manuscript 入口提交。",
+      "注意编辑部单独收取的版面费不同于 Springer Nature 开放获取 APC，机构 OA 协议不自动涵盖编辑部版面费。"
+    ],
+    "publishing": "混合出版；编辑部版面费、出版社 OA APC 与机构协议需分别核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=610",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "chinese-physics-letters",
+    "name": "Chinese Physics Letters",
+    "abbr": "CPL",
+    "publisher": "中国物理学会 · IOP Publishing",
+    "issn": "0256-307X",
+    "eissn": "1741-3540",
+    "domains": ["物理", "光学", "材料"],
+    "topics": ["综合光学", "量子光学", "光学材料"],
+    "description": "发表物理学各领域的新实验与理论结果，涵盖光学、电磁学和凝聚态光学性质，适合突出新物理认识的光学研究。",
+    "website": "https://cpl.iphy.ac.cn/",
+    "guide": "https://cpl.iphy.ac.cn/instructionsforauthors",
+    "requirements": [
+      "从官网 Guideline for Authors 与 Submit and Track a Manuscript 入口确认模板、正文及图表要求。",
+      "作者指南页面本轮只提取到导航，篇幅等细则待核实；不把首页统计的首次决定时间当作评审承诺。"
+    ],
+    "publishing": "版面费、开放获取和版权规则按本刊最新指南及编辑部说明确认。"
   }
 ]
