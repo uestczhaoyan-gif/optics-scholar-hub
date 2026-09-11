@@ -76,7 +76,9 @@ export function Guide() {
         <External href="https://opg.optica.org/content/author/portal/">
           Optica 作者资源中心
         </External>
-        <External href="https://sp.fenqubiao.com/">中科院分区官方查询</External>
+        <External href="https://www.fenqubiao.com/">
+          中科院分区官方查询
+        </External>
       </div>
     </section>
   );
@@ -241,7 +243,7 @@ export function DataNotes() {
           维护与纠错说明
         </External>
         <External href="https://jcr.clarivate.com/">JCR 官方查询</External>
-        <External href="https://sp.fenqubiao.com/">中科院官方查询</External>
+        <External href="https://www.fenqubiao.com/">中科院官方查询</External>
       </div>
     </section>
   );

@@ -453,6 +453,21 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <nav
+          aria-label="分区官方查询"
+          className="mb-4 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm"
+        >
+          <span className="text-muted-foreground">分区官方平台</span>
+          <External href="https://www.fenqubiao.com/">
+            中科院期刊分区表
+          </External>
+          <External href="https://jcr.clarivate.com/">
+            JCR · Journal Citation Reports
+          </External>
+          <span className="text-xs text-muted-foreground">
+            按年度和学科查询，访问可能需要机构授权或登录。
+          </span>
+        </nav>
         <CatalogUpdate
           tab={tab}
           filters={{
