@@ -45,13 +45,13 @@
 | InfoMat                                  | 已收录：`infomat`                       |
 | Nano-Micro Letters                       | 已收录：`nano-micro-letters`            |
 | Applied Physics Reviews                  | 已收录：`applied-physics-reviews`       |
-| Science Bulletin                         | 待核实并收录                            |
+| Science Bulletin                         | 已收录：`science-bulletin`              |
 | Chinese Physics Letters                  | 已收录：`chinese-physics-letters`       |
-| Journal of Colloid and Interface Science | 待核实并收录                            |
+| Journal of Colloid and Interface Science | 已收录：`jcis`                          |
 | Inorganic Chemistry                      | 已收录：`inorganic-chemistry`           |
 | Angewandte Chemie International Edition  | 已收录：`angewandte-chemie`             |
 | Science China Materials                  | 已收录：`science-china-materials`       |
-| Dyes and Pigments                        | 待核实并收录                            |
+| Dyes and Pigments                        | 已收录：`dyes-pigments`                 |
 | npj Quantum Materials                    | 已收录：`npj-quantum-materials`         |
 | npj Quantum Information                  | 已收录：`npj-quantum-information`       |
 | Communications Physics                   | 已收录：`communications-physics`        |
@@ -70,11 +70,11 @@
 
 ## 传感器类期刊
 
-| 期刊                              | 执行状态              |
-| --------------------------------- | --------------------- |
-| Biosensors and Bioelectronics     | 待核实并收录          |
-| ACS Sensors                       | 已收录：`acs-sensors` |
-| Sensors and Actuators B: Chemical | 待核实并收录          |
+| 期刊                              | 执行状态                            |
+| --------------------------------- | ----------------------------------- |
+| Biosensors and Bioelectronics     | 已收录：`biosensors-bioelectronics` |
+| ACS Sensors                       | 已收录：`acs-sensors`               |
+| Sensors and Actuators B: Chemical | 已收录：`sensors-actuators-b`       |
 
 ## 完成口径
 

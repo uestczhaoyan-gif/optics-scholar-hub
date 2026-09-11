@@ -3301,5 +3301,280 @@
       "作者指南页面本轮只提取到导航，篇幅等细则待核实；不把首页统计的首次决定时间当作评审承诺。"
     ],
     "publishing": "版面费、开放获取和版权规则按本刊最新指南及编辑部说明确认。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, PHYSICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=100",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "jcis",
+    "name": "Journal of Colloid and Interface Science",
+    "abbr": "JCIS",
+    "publisher": "Elsevier",
+    "issn": "0021-9797",
+    "eissn": "1095-7103",
+    "domains": ["材料", "光学", "生物医学"],
+    "topics": ["光学材料", "纳米与超表面", "生物医学光学"],
+    "description": "研究胶体与界面基本原理及其创新应用；本合集关注胶体光子材料、自组装光学结构和界面调控的光功能体系。",
+    "website": "https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science",
+    "guide": "https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/guide-for-authors",
+    "requirements": [
+      "突出胶体或界面的基础科学贡献及创新机制；仅有常规材料制备和性能对比不足以体现选题适配性。",
+      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+    ],
+    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=87",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "dyes-pigments",
+    "name": "Dyes and Pigments",
+    "abbr": "Dyes Pigments",
+    "publisher": "Elsevier",
+    "issn": "0143-7208",
+    "eissn": "1873-3743",
+    "domains": ["材料", "光学"],
+    "topics": ["光学材料", "传感与测量"],
+    "description": "关注染料、颜料及其中间体的结构、光谱、光化学和应用；适合有机发光、分子探针及相关光功能材料。",
+    "website": "https://www.sciencedirect.com/journal/dyes-and-pigments",
+    "guide": "https://www.sciencedirect.com/journal/dyes-and-pigments/publish/guide-for-authors",
+    "requirements": [
+      "官网范围明确排除染料降解、去除或废水处理，以及一般无机颜料、无机发光体／荧光粉；综述须先提交提案获编辑同意。",
+      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+    ],
+    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "BIOPHYSICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=55",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "biosensors-bioelectronics",
+    "name": "Biosensors and Bioelectronics",
+    "abbr": "Biosens Bioelectron",
+    "publisher": "Elsevier",
+    "issn": "0956-5663",
+    "eissn": "1873-4235",
+    "domains": ["生物医学", "光学", "电子"],
+    "topics": ["生物医学光学", "传感与测量"],
+    "description": "聚焦生物识别与换能系统结合的传感器、生物电子及分析器件；包含光学换能、生物光学探测和芯片分析。",
+    "website": "https://www.sciencedirect.com/journal/biosensors-and-bioelectronics",
+    "guide": "https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/guide-for-authors",
+    "requirements": [
+      "说明生物材料、生物衍生材料或仿生识别元件与换能系统的结合；投稿时区分本刊与独立伴生期刊 Biosensors and Bioelectronics: X。",
+      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+    ],
+    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, ANALYTICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=86",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "sensors-actuators-b",
+    "name": "Sensors and Actuators B: Chemical",
+    "abbr": "Sens Actuators B",
+    "publisher": "Elsevier",
+    "issn": "0925-4005",
+    "eissn": null,
+    "domains": ["光学", "生物医学", "电子"],
+    "topics": ["传感与测量", "生物医学光学"],
+    "description": "关注化学传感、生物传感和分析微系统，包含光子与生物光子传感；纯物理传感课题需另行判断适配。",
+    "website": "https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical",
+    "guide": "https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/guide-for-authors",
+    "requirements": [
+      "要求实验结果及有挑战性的复杂样品验证，报告并比较分析性能；不接收缺少化学检测成分的纯折射率、温度或压力传感研究。综述仅接受编辑邀请。",
+      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+    ],
+    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MULTIDISCIPLINARY SCIENCES",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=522",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "science-bulletin",
+    "name": "Science Bulletin",
+    "abbr": "Sci Bull",
+    "publisher": "Science China Press · Elsevier",
+    "issn": "2095-9273",
+    "eissn": "2095-9281",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["综合光学", "光学材料", "量子光学"],
+    "description": "覆盖自然科学和高技术的综合学术期刊；光学研究需体现原创性、科学意义和对较广泛读者的价值。",
+    "website": "https://www.sciencedirect.com/journal/science-bulletin",
+    "guide": "https://www.sciencedirect.com/journal/science-bulletin/publish/guide-for-authors",
+    "requirements": [
+      "先确认原创研究及其他内容类型的要求，突出工作对相关自然科学领域的意义；通过本刊官方提交入口投稿。",
+      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+    ],
+    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
   }
 ]

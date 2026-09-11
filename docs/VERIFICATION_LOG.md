@@ -195,3 +195,8 @@
 
 - 新增 Science Advances、Advanced Science、InfoMat、Angewandte Chemie International Edition、Science China Materials、Chinese Physics Letters。当前 53 本期刊。
 - JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
+
+## 2026-09-11：界面、染料、生物传感与综合科学
+
+- 新增 Journal of Colloid and Interface Science、Dyes and Pigments、Biosensors and Bioelectronics、Sensors and Actuators B: Chemical、Science Bulletin。当前 58 本期刊。
+- JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
