@@ -1550,5 +1550,58 @@
         "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
       }
     ]
+  },
+  {
+    "id": "frontiers-optoelectronics",
+    "name": "Frontiers of Optoelectronics",
+    "abbr": "FOE",
+    "publisher": "Higher Education Press（高等教育出版社）",
+    "issn": "2095-2759",
+    "eissn": "2095-2767",
+    "domains": ["光学", "电子", "物理"],
+    "topics": ["集成光子", "电子与器件", "生物医学光学", "激光与非线性"],
+    "description": "聚焦光子学和光电子学中的科学发现与技术创新，涵盖半导体、纳米光子、信息与能源光子学等。2026 年起使用高教社官网；已核实 EI 与 ESCI 声明，ESCI 不等于 SCIE。",
+    "website": "https://journal.hep.com.cn/foe/EN",
+    "guide": "https://journal.hep.com.cn/foe/EN/guidelines",
+    "requirements": [
+      "通过现官网 Submit manuscript 进入投稿系统，文章类型包括研究论文、综述、Letters 和 Comments；专题文章另外核对征稿说明。",
+      "作者指南页提供 Submission guidelines-FOE2023.docx 与 Featured Columns 指南下载；按所选文章类型核对当前模板，本轮未逐项解析附件篇幅要求。"
+    ],
+    "publishing": "2026-09-11 核对高教社 Article processing charge 页：Diamond Open Access，不向作者收取 APC。投稿前仍需确认当前政策。",
+    "schedule": "常规投稿与专题截止分别核对；官网首次决定中位数不是录用周期承诺。",
+    "checkedAt": "2026-09-11",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现官网声明 ESCI，未取得 SCIE 收录证据；不可将 ESCI 或影响因子等同 SCI。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://journal.hep.com.cn/foe/EN/indexing",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现出版社高教社索引页明确列出 ESCI 与 Ei Compendex；尚未通过机构数据库核对覆盖年。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://journal.hep.com.cn/foe/EN/indexing",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "现出版社高教社索引页明确列出 ESCI 与 Ei Compendex；尚未通过机构数据库核对覆盖年。"
+      }
+    ]
   }
 ]
