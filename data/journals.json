@@ -2695,5 +2695,280 @@
       "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
     ],
     "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=92",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "chemical-reviews",
+    "name": "Chemical Reviews",
+    "abbr": "Chem Rev",
+    "publisher": "American Chemical Society",
+    "issn": "0009-2665",
+    "eissn": "1520-6890",
+    "domains": ["材料", "光学", "物理"],
+    "topics": ["光学材料", "纳米与超表面"],
+    "description": "化学各分支的系统性综述期刊；本合集关注光化学、发光与光功能材料等方向，稿件需有全面而批判性的文献分析。",
+    "website": "https://pubs.acs.org/chreay",
+    "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=chreay",
+    "requirements": [
+      "未受邀作者应先用官方 proposal 模板向 ACS Publishing Center 提交提案，含详细提纲、既有综述及作者相关成果，获同意后再提交全文。",
+      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+    ],
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=91",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "acs-nano",
+    "name": "ACS Nano",
+    "abbr": "ACS Nano",
+    "publisher": "American Chemical Society",
+    "issn": "1936-0851",
+    "eissn": "1936-086X",
+    "domains": ["材料", "光学", "生物医学"],
+    "topics": ["纳米与超表面", "电子与器件", "生物医学光学"],
+    "description": "发表化学、材料、物理、生物与工程交叉的纳米科学研究；光学适配包括纳米光子、光电纳米器件与生物光学纳米探针。",
+    "website": "https://pubs.acs.org/ancac3",
+    "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=ancac3",
+    "requirements": [
+      "按 ACS Nano 作者清单准备综合性研究或相应综述类型，说明原创性、技术质量和对纳米科学的意义；返修前再次对照 Author Checklist。",
+      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+    ],
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=95",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "nano-letters",
+    "name": "Nano Letters",
+    "abbr": "Nano Lett",
+    "publisher": "American Chemical Society",
+    "issn": "1530-6984",
+    "eissn": "1530-6992",
+    "domains": ["材料", "光学", "电子"],
+    "topics": ["纳米与超表面", "光学材料", "电子与器件"],
+    "description": "强调至少两个学科方向融合的纳米科学成果；官方范围包括量子、电子和纳米光子材料与现象。",
+    "website": "https://pubs.acs.org/nalefd",
+    "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=nalefd",
+    "requirements": [
+      "通过 ACS Publishing Center 提交；在投稿材料中突出跨学科交汇点，按本刊相应稿件类型核实长度和图表限制。",
+      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+    ],
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, INORGANIC & NUCLEAR",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=88",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "inorganic-chemistry",
+    "name": "Inorganic Chemistry",
+    "abbr": "Inorg Chem",
+    "publisher": "American Chemical Society",
+    "issn": "0020-1669",
+    "eissn": "1520-510X",
+    "domains": ["材料", "光学", "物理"],
+    "topics": ["光学材料", "传感与测量"],
+    "description": "面向无机化学基础研究，包含光化学、光谱与固态材料；适合发光配合物、无机光功能材料及其机理，不适合缺少无机化学核心的新器件展示。",
+    "website": "https://pubs.acs.org/inocaj",
+    "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=inocaj",
+    "requirements": [
+      "明确突出无机化学贡献；按研究对象提供结构、组成、纯度与相关光谱等表征，并核对本刊 Data Requirements 和补充材料规范。",
+      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+    ],
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, ANALYTICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=84",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "acs-sensors",
+    "name": "ACS Sensors",
+    "abbr": "ACS Sens",
+    "publisher": "American Chemical Society",
+    "issn": null,
+    "eissn": "2379-3694",
+    "domains": ["光学", "生物医学", "电子"],
+    "topics": ["传感与测量", "生物医学光学"],
+    "description": "研究对化学或生物物种及过程的选择性检测，包含光学与生物传感；重点在传感概念进展和适用性验证。",
+    "website": "https://pubs.acs.org/ascefj",
+    "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=ascefj",
+    "requirements": [
+      "展示传感器在适合目标应用的复杂样品中的表现，证明其适用性，并与已有分析方法建立性能关联。",
+      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+    ],
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
   }
 ]

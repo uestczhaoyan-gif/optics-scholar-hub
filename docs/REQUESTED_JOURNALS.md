@@ -36,19 +36,19 @@
 | Nature Nanotechnology                    | 已收录：`nature-nanotechnology`         |
 | Nature Communications                    | 已收录：`nature-communications`         |
 | Science Advances                         | 待核实并收录                            |
-| Chemical Reviews                         | 待核实并收录                            |
+| Chemical Reviews                         | 已收录：`chemical-reviews`              |
 | Advanced Materials                       | 已收录：`advanced-materials`            |
 | Advanced Functional Materials            | 已收录：`advanced-functional-materials` |
 | Advanced Science                         | 待核实并收录                            |
-| ACS Nano                                 | 待核实并收录                            |
-| Nano Letters                             | 待核实并收录                            |
+| ACS Nano                                 | 已收录：`acs-nano`                      |
+| Nano Letters                             | 已收录：`nano-letters`                  |
 | InfoMat                                  | 待核实并收录                            |
 | Nano-Micro Letters                       | 已收录：`nano-micro-letters`            |
 | Applied Physics Reviews                  | 已收录：`applied-physics-reviews`       |
 | Science Bulletin                         | 待核实并收录                            |
 | Chinese Physics Letters                  | 待核实并收录                            |
 | Journal of Colloid and Interface Science | 待核实并收录                            |
-| Inorganic Chemistry                      | 待核实并收录                            |
+| Inorganic Chemistry                      | 已收录：`inorganic-chemistry`           |
 | Angewandte Chemie International Edition  | 待核实并收录                            |
 | Science China Materials                  | 待核实并收录                            |
 | Dyes and Pigments                        | 待核实并收录                            |
@@ -70,11 +70,11 @@
 
 ## 传感器类期刊
 
-| 期刊                              | 执行状态     |
-| --------------------------------- | ------------ |
-| Biosensors and Bioelectronics     | 待核实并收录 |
-| ACS Sensors                       | 待核实并收录 |
-| Sensors and Actuators B: Chemical | 待核实并收录 |
+| 期刊                              | 执行状态              |
+| --------------------------------- | --------------------- |
+| Biosensors and Bioelectronics     | 待核实并收录          |
+| ACS Sensors                       | 已收录：`acs-sensors` |
+| Sensors and Actuators B: Chemical | 待核实并收录          |
 
 ## 完成口径
 

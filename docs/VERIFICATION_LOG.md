@@ -185,3 +185,8 @@
 
 - 新增 Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics。当前 42 本期刊。
 - JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
+
+## 2026-09-11：ACS 化学、纳米与传感交叉期刊
+
+- 新增 Chemical Reviews、ACS Nano、Nano Letters、Inorganic Chemistry、ACS Sensors。当前 47 本期刊。
+- JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
