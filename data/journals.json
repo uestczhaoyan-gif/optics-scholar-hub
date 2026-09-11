@@ -1914,5 +1914,401 @@
         "note": "现出版社主页明确列出；数据库覆盖起止年待直查。"
       }
     ]
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://english.ioe.cas.cn/sp/",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "依据主办者或出版社明确声明；数据库覆盖起止年待直查。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "opto-electronic-advances",
+    "name": "Opto-Electronic Advances",
+    "abbr": "OEA",
+    "publisher": "中国科学院光电技术研究所 · 光电期刊集群",
+    "issn": "2096-4579",
+    "eissn": "2097-3993",
+    "domains": ["光学", "电子", "材料"],
+    "topics": ["综合光学", "纳米与超表面", "电子与器件"],
+    "description": "面向光学与光电子前沿研究，覆盖光场调控、微纳器件、光电材料及应用。",
+    "website": "https://www.oejournal.org/oea",
+    "guide": "https://www.oejournal.org/oea/list/AuthorGuidelines",
+    "requirements": [
+      "通过期刊官网作者指南及提交入口核实当期文章类型、模板、正文和补充材料要求。",
+      "本轮作者指南正文访问受限，篇幅、格式和费用细则待补；不要依据其他同系列期刊的规则替代。"
+    ],
+    "publishing": "开放获取期刊；具体 APC、版权与减免以本刊现行指南及编辑部说明为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "OPTICS 光学",
+        "level": "category",
+        "quartile": 1,
+        "evidence": "secondary",
+        "source": "https://www.ablesci.com/journal/detail?id=DXE22r"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://english.ioe.cas.cn/sp/",
+        "checkedAt": "2026-09-11",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "依据主办者或出版社明确声明；数据库覆盖起止年待直查。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "opto-electronic-science",
+    "name": "Opto-Electronic Science",
+    "abbr": "OES",
+    "publisher": "中国科学院光电技术研究所 · 光电期刊集群",
+    "issn": "2097-0382",
+    "eissn": "2097-4000",
+    "domains": ["光学", "物理", "电子"],
+    "topics": ["综合光学", "量子光学", "纳米与超表面"],
+    "description": "聚焦光学与光电子基础科学的突破性研究，适合具有普适物理认识的光场、材料和器件课题。",
+    "website": "https://www.oejournal.org/oes",
+    "guide": "https://www.oejournal.org/oes",
+    "requirements": [
+      "从本刊官网进入作者指南和投稿系统，核对文章类型、原始数据、图表和补充材料要求。",
+      "本轮官网正文访问受限，具体篇幅与投稿格式待核实；ESCI 不等同于 SCI/SCIE。"
+    ],
+    "publishing": "出版方式、APC 和版权要求需在本刊官网或向编辑部确认。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=568",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "progress-quantum-electronics",
+    "name": "Progress in Quantum Electronics",
+    "abbr": "PQE",
+    "publisher": "Elsevier",
+    "issn": "0079-6727",
+    "eissn": "1873-1627",
+    "domains": ["光学", "物理", "电子"],
+    "topics": ["量子光学", "激光与非线性", "电子与器件"],
+    "description": "以量子电子学及其应用的专题综述为主，覆盖激光、量子光学、光电器件和光通信前沿。",
+    "website": "https://www.sciencedirect.com/journal/progress-in-quantum-electronics",
+    "guide": "https://www.sciencedirect.com/journal/progress-in-quantum-electronics/publish/guide-for-authors",
+    "requirements": [
+      "先向官网指南核实综述提案或邀稿流程及选题适配，再准备完整综述；不要按普通短篇研究论文默认投稿。",
+      "作者指南本轮自动读取受限；字数、图表格式、声明及提交系统要求待进一步核实。"
+    ],
+    "publishing": "支持开放获取选项；订阅发表与 OA 费用、许可及机构协议以作者指南为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "prx-quantum",
+    "name": "PRX Quantum",
+    "abbr": "PRXQ",
+    "publisher": "American Physical Society",
+    "issn": null,
+    "eissn": "2691-3399",
+    "domains": ["光学", "物理", "信息与计算"],
+    "topics": ["量子光学", "光通信", "集成光子"],
+    "description": "覆盖量子信息科学与技术的基础和工程突破；光学相关课题包括量子光子、光量子计算与通信，并不局限于光学体系。",
+    "website": "https://journals.aps.org/prxquantum/",
+    "guide": "https://journals.aps.org/prxquantum/authors",
+    "requirements": [
+      "通过 APS Submission Server 提交，评审可使用 PDF；推荐提供 LaTeX 或 Word 源文件，准备数据可用性声明。",
+      "Research Article 无统一篇幅上限；Perspective 上限 7500 词，通常邀稿但接受提案咨询。",
+      "准备解释科学问题、主要进展和意义的通俗摘要，官网建议约 150 词；正式发表前必须提供。"
+    ],
+    "publishing": "完全开放获取，CC BY；录用后收取 APC，机构协议及减免查 APS 最新收费页。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=568",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "ultrafast-science",
+    "name": "Ultrafast Science",
+    "abbr": "US",
+    "publisher": "中国科学院西安光学精密机械研究所 · AAAS Science Partner Journals",
+    "issn": "2097-0331",
+    "eissn": "2765-8791",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["激光与非线性", "传感与测量", "光学材料"],
+    "description": "关注超快科学的新现象、方法和技术，适用于超快光源、时间分辨测量及物质超快动力学研究。Science Partner Journal，编辑独立于 Science 系列。",
+    "website": "https://spj.science.org/journal/ultrafastscience",
+    "guide": "https://spj.science.org/page/ultrafastscience/for-authors",
+    "requirements": [
+      "官方作者指南列出原始研究、综述、社论和观点文章；投稿前按相应类型及出版伦理要求准备。",
+      "本轮完整指南读取受限，仅核实官方检索摘要；具体字数、图表和补充材料限制待核实。"
+    ],
+    "publishing": "通过 Science Partner Journals 平台出版；费用、许可和资助政策以本刊当期说明为准。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "light-advanced-manufacturing",
+    "name": "Light: Advanced Manufacturing",
+    "abbr": "LAM",
+    "publisher": "Light Publishing Group · 季华实验室",
+    "issn": "2689-9620",
+    "eissn": "2831-4093",
+    "domains": ["光学", "机械与制造", "材料"],
+    "topics": ["光学设计与制造", "传感与测量", "纳米与超表面"],
+    "description": "面向以光为基础的先进制造、精密检测及工业创新，涉及光学表面加工、微纳制造、计量与光子器件制造。",
+    "website": "https://www.light-am.com/",
+    "guide": "https://www.light-am.com/news/guidance.htm",
+    "requirements": [
+      "通过官网 ScholarOne 入口投稿；准备文章、短讯或综述，使用官网链接的作者指南。",
+      "现官网链接的 2024 年 7 月指南规定 Article 摘要不超过 250 词、正文 6000 词（不含摘要、参考文献、图表）；如更新模板，以新指南为准。"
+    ],
+    "publishing": "官网说明 Diamond Open Access，读者与作者均免费；录用并完成制作后在线发表，仍需核实最新政策。"
+  },
+  {
+    "checkedAt": "2026-09-11",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "PHYSICS, APPLIED 物理：应用",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://pubs.aip.org/aip/apr/pages/about",
+        "evidence": "official"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      }
+    ],
+    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "id": "applied-physics-reviews",
+    "name": "Applied Physics Reviews",
+    "abbr": "APR",
+    "publisher": "AIP Publishing",
+    "issn": null,
+    "eissn": "1931-9401",
+    "domains": ["物理", "光学", "材料"],
+    "topics": ["光学材料", "电子与器件", "综合光学"],
+    "description": "发表应用物理的重要原创研究和综述；光学选题需体现对更广泛应用物理读者的意义，而非仅有局部器件性能改进。",
+    "website": "https://pubs.aip.org/aip/apr",
+    "guide": "https://publishing.aip.org/resources/researchers/author-instructions/",
+    "requirements": [
+      "原创研究应在 cover letter 中说明知识缺口、新颖性和结果意义，并按 AIP 作者指南准备文件。",
+      "综述多为邀稿；未受邀作者需说明选题及时性、作者专长，并提交官网 editorial summary 模板供编辑评估。"
+    ],
+    "publishing": "混合开放获取，可选择订阅发表或 Author Select 开放获取；OA 收费及许可按官网最新政策。"
   }
 ]

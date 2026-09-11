@@ -4,28 +4,28 @@
 
 ## 光学与光电子核心期刊
 
-| 期刊                                     | 执行状态                          |
-| ---------------------------------------- | --------------------------------- |
-| Nature Photonics                         | 已收录：`nature-photonics`        |
-| Advances in Optics and Photonics         | 已收录：`aop`                     |
-| Light: Science & Applications            | 已收录：`lsa`                     |
-| eLight                                   | 已收录：`elight`                  |
-| PhotoniX                                 | 已收录：`photonix`                |
-| Advanced Photonics                       | 已收录：`ap`                      |
-| Opto-Electronic Advances                 | 待核实并收录                      |
-| Opto-Electronic Science                  | 待核实并收录                      |
-| Optica                                   | 已收录：`optica`                  |
-| Laser & Photonics Reviews                | 已收录：`laser-photonics-reviews` |
-| Photonics Research                       | 已收录：`prj`                     |
-| Photonic Sensors                         | 已收录：`photonic-sensors`        |
-| High Power Laser Science and Engineering | 已收录：`hpl`                     |
-| Progress in Quantum Electronics          | 待核实并收录                      |
-| APL Photonics                            | 已收录：`apl-photonics`           |
-| Nanophotonics                            | 已收录：`nanophotonics`           |
-| PRX Quantum                              | 待核实并收录                      |
-| Ultrafast Science                        | 待核实并收录                      |
-| Light: Advanced Manufacturing            | 待核实并收录                      |
-| ACS Photonics                            | 已收录：`acs-photonics`           |
+| 期刊                                     | 执行状态                               |
+| ---------------------------------------- | -------------------------------------- |
+| Nature Photonics                         | 已收录：`nature-photonics`             |
+| Advances in Optics and Photonics         | 已收录：`aop`                          |
+| Light: Science & Applications            | 已收录：`lsa`                          |
+| eLight                                   | 已收录：`elight`                       |
+| PhotoniX                                 | 已收录：`photonix`                     |
+| Advanced Photonics                       | 已收录：`ap`                           |
+| Opto-Electronic Advances                 | 已收录：`opto-electronic-advances`     |
+| Opto-Electronic Science                  | 已收录：`opto-electronic-science`      |
+| Optica                                   | 已收录：`optica`                       |
+| Laser & Photonics Reviews                | 已收录：`laser-photonics-reviews`      |
+| Photonics Research                       | 已收录：`prj`                          |
+| Photonic Sensors                         | 已收录：`photonic-sensors`             |
+| High Power Laser Science and Engineering | 已收录：`hpl`                          |
+| Progress in Quantum Electronics          | 已收录：`progress-quantum-electronics` |
+| APL Photonics                            | 已收录：`apl-photonics`                |
+| Nanophotonics                            | 已收录：`nanophotonics`                |
+| PRX Quantum                              | 已收录：`prx-quantum`                  |
+| Ultrafast Science                        | 已收录：`ultrafast-science`            |
+| Light: Advanced Manufacturing            | 已收录：`light-advanced-manufacturing` |
+| ACS Photonics                            | 已收录：`acs-photonics`                |
 
 ## 材料与综合类期刊
 
@@ -44,7 +44,7 @@
 | Nano Letters                             | 待核实并收录                            |
 | InfoMat                                  | 待核实并收录                            |
 | Nano-Micro Letters                       | 已收录：`nano-micro-letters`            |
-| Applied Physics Reviews                  | 待核实并收录                            |
+| Applied Physics Reviews                  | 已收录：`applied-physics-reviews`       |
 | Science Bulletin                         | 待核实并收录                            |
 | Chinese Physics Letters                  | 待核实并收录                            |
 | Journal of Colloid and Interface Science | 待核实并收录                            |
