@@ -205,3 +205,13 @@
 
 - 新增 IEEE Communications Surveys & Tutorials、Proceedings of the IEEE、IEEE Transactions on Industrial Electronics、IEEE Transactions on Cybernetics、IEEE Transactions on Medical Imaging、IEEE Transactions on Image Processing、IEEE Transactions on Geoscience and Remote Sensing。当前 65 本期刊。
 - JCR 2025 使用公开机构转载表逐刊逐学科核对 JIF Quartile（不使用 AIS Quartile），属于二手证据，附 PDF 页码；不是当前索引证明。其余版本或官方证据在条目内单独注明。
+
+## 2026-09-11：用户清单闭环与证据边界
+
+- 用户指定 54 / 54 本已收录（名称按 REQUESTED_JOURNALS.md 对照）；当前目录 65 本期刊、17 届论文会议、7 项展会/论坛，未重复计算母子活动为论文会议。
+- 官网或作者指南受访问限制的期刊，在 requirements 中说明尚未确认的投稿细则；收录不是全字段核验通过。当前 SCI/SCIE、EI 缺乏明确证据时继续标为待核验，不从 JCR 表中的历史索引列推断当前状态。
+- 本轮大部分 JCR 记录来自公开机构转载的 2025 JCR 表（指标年 2024，逐条附 PDF 页码），属于二手参考，不宣称是最新年度。Opto-Electronic Science 的 2026 记录单独标注第三方来源；不把新锐分区写成中科院分区。
+- 首页已加入中科院期刊分区表和 JCR 官方平台入口，提示按年度和学科查询，并可能需要机构授权登录。
+- IEEE ComST 与 Proceedings 按综述/教程选刊；TMI 保留会议扩展说明要求；TGRS 保留 2026 年超页政策的生效日期。TIE 版本化 PDF 及 TIP 范围说明未作为完整的当前投稿指南核验。
+- 范围核验补充来源：Elsevier 官方商店的 [JCIS](https://shop.elsevier.com/journals/journal-of-colloid-and-interface-science/0021-9797)、[Dyes and Pigments](https://shop.elsevier.com/journals/dyes-and-pigments/0143-7208)、[Biosensors and Bioelectronics](https://shop.elsevier.com/journals/biosensors-and-bioelectronics/0956-5663)、[Sensors and Actuators B](https://shop.elsevier.com/journals/sensors-and-actuators-b-chemical/0925-4005)、[Science Bulletin](https://shop.elsevier.com/journals/science-bulletin/2095-9273)。前述期刊的 ScienceDirect 完整作者指南读取受限，不能据此宣称篇幅和收费已完整确认。
+- 验证：清单逐项匹配 JSON，54 项均存在；数据校验通过，21 项自动测试通过，TypeScript 检查、lint 与生产构建通过。

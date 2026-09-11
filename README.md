@@ -6,6 +6,8 @@
 
 为光学研究生打造的开源期刊与会议导航。灵感来自 [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines)，针对光学领域独立实现；不使用 CCF 等级评价光学会议。
 
+用户指定的 [54 本期刊清单](docs/REQUESTED_JOURNALS.md) 已全部收录；首页提供 [中科院期刊分区表](https://www.fenqubiao.com/) 与 [JCR](https://jcr.clarivate.com/) 官方查询入口。收录完成不代表所有年度分区和当前索引已核实。
+
 ### 当前功能
 
 后续建设见 [分步规划](docs/ROADMAP.md)，本轮核验范围见 [官方复核记录](docs/VERIFICATION_LOG.md)，日常操作见 [维护手册](docs/MAINTENANCE.md)。
@@ -14,8 +16,8 @@
 
 已实现 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，支持索引、领域、收录范围与分区组合筛选。索引数据仍在逐刊核验，未核实记录明确标注。
 
-- **期刊目录**：65 本光学及材料、电子交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
-- **会议日历**：14 届国内外会议，包括 ACP、OFC、CLEO、COS、ECOC、FiO + LS、IEEE IPC、Optica ODF、ICIP、生物光子学大会、激光大会、OMTA、Photonics Asia 和 Quantum 2.0。分别记录投稿、PDP、注册、通知及终稿时间。
+- **期刊目录**：65 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
+- **会议日历**：17 届国内外会议，包括 ACP、OFC、CLEO、COS、ECOC、FiO + LS、IEEE IPC、Optica ODF、ICIP、生物光子学大会、激光大会、OMTA、Photonics Asia 、Quantum 2.0、OPTIC、COS 长春会议及精密工程学术研讨会。分别记录投稿、PDP、注册、通知及终稿时间。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
 - **新生指南**：期刊与会议的区别、投稿流程、模板、预印本、注册、报告及出版要求。
 - **共建维护**：JSON 数据、来源链接、核验日期、数据校验、Issue / PR 模板，以及每日来源变化报告。
@@ -27,7 +29,7 @@
 1. **JCR 与中科院独立**，不互相换算。JCR 版本年与指标年分别保存。
 2. 中科院同时保存 `major`（大类）与 `minor`（小类）。默认小类筛选按任一符合条件的小类匹配，具体学科见卡片展开内容，不能一概视为“光学小类”。
 3. 学校采用当年或前一年版本时，分别选择对应年份。首版保存已找到的 **2025 中科院升级版公开参考**；尚未核实的 2026 中科院记录不以“新锐分区”等其他版本代替。
-4. 来源分为官方披露、依据官方排名推算、第三方公开参考。第三方参考必须通过学校图书馆的 [中科院分区入口](https://sp.fenqubiao.com/) 复核。
+4. 来源分为官方披露、依据官方排名推算、第三方公开参考。第三方参考必须通过学校图书馆的 [中科院分区入口](https://www.fenqubiao.com/) 复核。
 5. 默认显示全部已收录期刊；选择分区体系后仅匹配当前所选维度的 1 / 2 区。EI 补充可以没有分区，需用“不限分区”查看。展开区保留其他学科记录，例如大类 2 区不代表光学小类也是 2 区。
 6. SCI/SCIE、EI 和分区独立。首批索引依据为出版社声明，尚未通过数据库机构入口全面复核；页面未列某索引，不代表未收录。迁移不刷新整条期刊核验日期。
 
@@ -87,6 +89,8 @@ docs/                 项目规划、数据模型
 原创代码及原创说明采用 [MIT](LICENSE)。期刊名称、会议名称、第三方网页及其内容的权利归各自所有者；本项目许可不授予第三方内容的再分发权。不收录受限数据库导出、账号信息或整份分区表。官方通知始终优先于本站摘要。
 
 ## English
+
+All [54 requested journals](docs/REQUESTED_JOURNALS.md) are now included. The homepage links to the official [CAS journal ranking platform](https://www.fenqubiao.com/) and [Journal Citation Reports](https://jcr.clarivate.com/). Inclusion does not imply that every ranking edition or current indexing status has been verified.
 
 An open-source directory for optics graduate researchers, inspired by [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines). The interface is in Chinese. This is an independent project and does not assign CCF grades to optics conferences.
 
