@@ -778,5 +778,71 @@
         "source": "https://www.cis.org.cn/post/detail/185/7084"
       }
     ]
+  },
+  {
+    "id": "optic-2026",
+    "series": "OPTIC",
+    "year": 2026,
+    "name": "台湾光学与光子学国际研讨会",
+    "nameEn": "Optics & Photonics Taiwan International Conference",
+    "region": "中国境内",
+    "location": "中国台湾 · 新竹",
+    "venue": "清华大学（新竹，National Tsing Hua University）",
+    "start": "2026-12-04",
+    "end": "2026-12-06",
+    "topics": [
+      "综合光学",
+      "光学设计与制造",
+      "量子光学",
+      "生物医学光学",
+      "集成光子"
+    ],
+    "description": "覆盖纳米光子、光通信、量子、光学设计、生医成像、显示照明与硅光等方向，欢迎初步研究成果进行口头或海报交流。",
+    "website": "https://www.conf.tw/site/page.aspx?lang=en&pid=901&sid=1696",
+    "notice": "https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696",
+    "registration": "https://www.conf.tw/site/page.aspx?lang=en&pid=51&sid=1696",
+    "checkedAt": "2026-09-11",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "英文填写在线投稿表，提交 100-word abstract、2 页单栏 A4 PDF summary 和版权同意书；图表及参考文献包含在两页内。",
+      "使用官网 Word 或 LaTeX 模板，不接受邮件或传真投稿，截止前可修改。",
+      "学生论文奖须在投稿时选择，第一作者须现场以英文报告并完成注册；Poster-Only 阶段投稿不具奖项资格。"
+    ],
+    "publication": "官网说明会议材料仅作 CD/USB 收藏，无 ISBN，不应视为正式 SCI/EI 论文出版。后续期刊投稿仍应遵循目标期刊政策。",
+    "notes": "普通投稿最终延期至 9 月 6 日，已过期；指南提到 Poster-Only 阶段但本轮未取得独立日期，保留待核实，不推断新通道开放。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通投稿最终截止",
+        "at": "2026-09-06T23:59:00+08:00",
+        "timezone": "Asia/Taipei",
+        "source": "https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696"
+      },
+      {
+        "type": "abstract",
+        "label": "Poster-Only 阶段日期待核实",
+        "date": null,
+        "source": "https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696"
+      },
+      {
+        "type": "notification",
+        "label": "录用结果通知（此日期前）",
+        "date": "2026-10-09",
+        "source": "https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2026-10-31",
+        "source": "https://www.conf.tw/site/page.aspx?lang=en&pid=51&sid=1696"
+      },
+      {
+        "type": "registration",
+        "label": "在线注册截止",
+        "date": "2026-11-13",
+        "source": "https://www.conf.tw/site/page.aspx?lang=en&pid=51&sid=1696"
+      }
+    ]
   }
 ]
