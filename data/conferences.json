@@ -697,5 +697,86 @@
         "source": "https://meeting.cncos.org.cn/pa2026/"
       }
     ]
+  },
+  {
+    "id": "cos-changchun-2026",
+    "series": "COS Changchun",
+    "year": 2026,
+    "name": "中国光学学会长春学术大会",
+    "nameEn": "Chinese Optical Society Changchun Academic Conference",
+    "region": "中国境内",
+    "location": "中国 · 长春",
+    "venue": "长春东北亚国际会议中心",
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "topics": ["光学设计与制造", "光学材料", "传感与测量", "成像与计算光学"],
+    "description": "中国光学学会主办、长春光机所承办，覆盖超精密光学设计、制造、薄膜、检测、遥感和显微等方向；与深圳学术大会为不同活动。",
+    "website": "https://meeting.cncos.org.cn/cc2026/index.htm",
+    "notice": "https://meeting.cncos.org.cn/cc2026/index.htm",
+    "registration": "https://meeting.cncos.org.cn/cc2026/index.htm",
+    "checkedAt": "2026-09-11",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "通过官网“论文投稿”入口注册并提交摘要，使用当届摘要模板。",
+      "分会组织委员会审查报告摘要；会议口头或张贴报告录用与期刊论文录用分别决定。"
+    ],
+    "publication": "优秀论文可向指定期刊推荐；正刊或增刊以及最终录用由各期刊编辑部独立审稿决定。",
+    "notes": "历史届次。官网正文摘要截止为 5 月 10 日；不沿用聚合页的较早日期，不外推下一届时间。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "会议摘要截止",
+        "date": "2026-05-10",
+        "source": "https://meeting.cncos.org.cn/cc2026/index.htm"
+      },
+      {
+        "type": "registration",
+        "label": "注册优惠截止",
+        "date": "2026-05-31",
+        "source": "https://meeting.cncos.org.cn/cc2026/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "precision-engineering-2026",
+    "series": "全国精密工程学术研讨会",
+    "year": 2026,
+    "name": "全国第十九届精密工程学术研讨会暨青年学者创新论坛",
+    "nameEn": "19th National Symposium on Precision Engineering and Young Scholars Innovation Forum",
+    "region": "中国境内",
+    "location": "中国 · 西安",
+    "venue": "西安交通大学",
+    "start": "2026-08-14",
+    "end": "2026-08-16",
+    "topics": ["光学设计与制造", "传感与测量", "电子与器件"],
+    "description": "中国仪器仪表学会精密机械分会主办，覆盖超精密加工、精密测量、科学仪器与微纳系统；重点适配光学制造和检测研究。",
+    "website": "https://www.cis.org.cn/post/detail/185/7084",
+    "notice": "https://www.cis.org.cn/post/detail/185/7084",
+    "registration": null,
+    "checkedAt": "2026-09-11",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "征文要求原创且未被其他期刊、会议发表或录用；学术方向包括超精密加工、精密测量和仪器设计。",
+      "专刊详细要求由通知链接的《中国测试》专题征稿另行规定，本轮未核实篇幅、模板和论文截止。",
+      "参会采用通知附件回执和指定邮箱；回执返回日期与论文投稿截止不同。"
+    ],
+    "publication": "官方通知安排《中国测试》专刊，论文出版费不包含在会务费中；参会不等于专刊录用。",
+    "notes": "历史届次：8 月 14 日报到，15 日报告，16 日交流。日期与地点依据第一轮通知；会后报道确认研讨会已举行。",
+    "deadlines": [
+      {
+        "type": "registration",
+        "label": "参会回执返回日期（第一轮通知）",
+        "date": "2026-05-31",
+        "source": "https://www.cis.org.cn/post/detail/185/7084"
+      },
+      {
+        "type": "paper",
+        "label": "专刊论文截止待核实",
+        "date": null,
+        "source": "https://www.cis.org.cn/post/detail/185/7084"
+      }
+    ]
   }
 ]
