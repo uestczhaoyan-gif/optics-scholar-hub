@@ -1,9 +1,11 @@
 # 维护手册 / Maintenance guide
 
+展会/论坛维护队列已于 2026-09-12 接入：临近 14 天或进行中的活动列为 P1，未知起止日期及超过 30 天未复核列为 P2。报告显示活动类型和母活动 ID；同一活动可有多项字段待办，任务数不等于会议数量。不为展览生成论文截止或强制要求征稿入口。日期级比较沿用维护队列的 UTC 日历日，日期仍不代表精确截止时刻。
+
 ## 每周维护
 
 1. 运行 `pnpm report:maintenance`，或下载最新 Pages 工作流的 `maintenance-queue` 附件。无需联网即可产生 `source-report/maintenance.md` 和 `.json`。
-2. 优先处理 P1 临近 14 天内的事件，再处理 P2 未知日期、注册入口及超过 30 天未复核的活动条目，最后处理 P3 日期精度和分区证据。队列不会把已结束会议排为活动维护任务；历史记录仍保留在目录。
+2. 优先处理 P1 临近 14 天内的事件，再处理 P2 未知日期、注册入口及超过 30 天未复核的活动条目，最后处理 P3 日期精度和分区证据。队列不会把已结束会议、展会或论坛排为活动维护任务；历史记录仍保留在目录。
 3. 查看每日 `Check official sources` 的 Actions 摘要或 `source-report` 附件。变化与错误靠前，每条 URL 列出 `conferences/条目ID: deadlines.序号.source` 等字段。同一 URL 只请求一次，所有引用都保留。
 4. 阅读本届官网并核对年份、通道、时区及适用范围，修改 JSON；在 [复核日志](VERIFICATION_LOG.md) 记下事实变化与实际核验范围。只核实部分字段时不要刷新整条 `checkedAt`；完整复核才更新该日期。
 5. 运行 `pnpm validate:data`、`pnpm test`、`pnpm typecheck`、`pnpm lint`、`pnpm build`，提交并推送。确认 `Check and publish` 的 build 和 deploy 都成功。

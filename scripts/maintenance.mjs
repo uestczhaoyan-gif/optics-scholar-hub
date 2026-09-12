@@ -19,7 +19,10 @@ export function sourceIndex(catalogs) {
   return index;
 }
 
-export function maintenanceQueue({ conferences, journals }, now = new Date()) {
+export function maintenanceQueue(
+  { conferences = [], journals = [], events = [] },
+  now = new Date(),
+) {
   const rows = [];
   const today = now.toISOString().slice(0, 10);
   const add = (item, priority, field, reason, source) =>
@@ -30,8 +33,15 @@ export function maintenanceQueue({ conferences, journals }, now = new Date()) {
       field,
       reason,
       source,
+      ...(events.includes(item)
+        ? {
+            catalog: 'events',
+            kind: item.kind,
+            parentId: item.parentId || null,
+          }
+        : {}),
     });
-  for (const item of [...conferences, ...journals]) {
+  for (const item of [...conferences, ...journals, ...events]) {
     if (item.end && item.end < today) continue;
     if (
       now.getTime() - Date.parse(item.checkedAt + 'T00:00:00Z') >
@@ -67,6 +77,20 @@ export function maintenanceQueue({ conferences, journals }, now = new Date()) {
       }
     }
     if (!c.registration) add(c, 2, 'registration', '注册入口待补', c.website);
+  }
+  for (const event of events) {
+    if (event.end && event.end < today) continue;
+    const source = event.notice || event.website;
+    if (!event.start) add(event, 2, 'start', '举办日期待核实', source);
+    if (!event.end) add(event, 2, 'end', '结束日期待核实', source);
+    if (event.start) {
+      // Compare calendar dates only; an exhibition date is not a paper deadline.
+      const days = (Date.parse(event.start) - Date.parse(today)) / 86400000;
+      if (days >= 0 && days <= 14)
+        add(event, 1, 'start', '临近举办：复核日期、地点与参与方式', source);
+      else if (days < 0 && event.end && event.end >= today)
+        add(event, 1, 'end', '活动进行中：复核现场通知与参与方式', source);
+    }
   }
   for (const j of journals) {
     if (!j.issn && !j.eissn)

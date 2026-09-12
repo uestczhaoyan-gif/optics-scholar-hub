@@ -6,6 +6,87 @@ import {
   tableCell,
 } from '../scripts/maintenance.mjs';
 const source = 'https://example.org/notice';
+test('event maintenance preserves parent identity and never fabricates submission tasks', () => {
+  const event = {
+    id: 'fair',
+    name: 'Fair',
+    kind: '展览',
+    website: source,
+    notice: source + '/event',
+    start: '2026-09-20',
+    end: '2026-09-22',
+    checkedAt: '2026-09-11',
+  };
+  const events = [
+    event,
+    { ...event, id: 'forum', kind: '产业论坛', parentId: 'fair' },
+    { ...event, id: 'ended', end: '2026-09-10', checkedAt: '2026-01-01' },
+  ];
+  const original = JSON.stringify(events);
+  const rows = maintenanceQueue({ events }, new Date('2026-09-12T12:00Z'));
+  assert.deepEqual(
+    rows.map((r) => [r.id, r.priority, r.field, r.parentId]),
+    [
+      ['fair', 1, 'start', null],
+      ['forum', 1, 'start', 'fair'],
+    ],
+  );
+  assert.ok(
+    rows.every((r) => r.catalog === 'events' && r.source === event.notice),
+  );
+  assert.equal(JSON.stringify(events), original);
+});
+
+test('event queue handles unknown dates, stale reviews and inclusive last day', () => {
+  const event = {
+    id: 'unknown',
+    name: 'Unknown',
+    kind: '学术论坛',
+    website: source,
+    start: null,
+    end: null,
+    checkedAt: '2026-01-01',
+  };
+  const rows = maintenanceQueue(
+    {
+      events: [
+        event,
+        {
+          ...event,
+          id: 'ongoing',
+          start: '2026-09-10',
+          end: '2026-09-12',
+          checkedAt: '2026-09-11',
+        },
+        {
+          ...event,
+          id: 'later',
+          start: '2026-12-01',
+          end: '2026-12-02',
+          checkedAt: '2026-09-11',
+        },
+        {
+          ...event,
+          id: 'boundary',
+          start: '2026-09-26',
+          end: '2026-09-26',
+          checkedAt: '2026-09-11',
+        },
+      ],
+    },
+    new Date('2026-09-12T23:00Z'),
+  );
+  assert.deepEqual(
+    rows.map((r) => [r.id, r.priority, r.field]),
+    [
+      ['boundary', 1, 'start'],
+      ['ongoing', 1, 'end'],
+      ['unknown', 2, 'checkedAt'],
+      ['unknown', 2, 'end'],
+      ['unknown', 2, 'start'],
+    ],
+  );
+});
 test('shared source retains every record and exact nested field without extra requests', () => {
   const index = sourceIndex({
     conferences: [
