@@ -25,8 +25,8 @@
 | ---------------------- | ---------------- | ------------------------------------------------------------------------------------ |
 | JCR 分区               | 56 / 65          | 其余 9 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核 |
 | 中科院分区             | 10 / 65          | 其余 55 本；同时核对版本、大类、小类，未知不补造                                     |
-| SCIE 肯定记录          | 15 / 65          | 其余 50 本没有肯定记录；不等于未被收录                                               |
-| EI Compendex 肯定记录  | 16 / 65          | 其余 49 本没有肯定记录；不等于未被收录                                               |
+| SCIE 肯定记录          | 17 / 65          | 其余 48 本没有肯定记录；不等于未被收录                                               |
+| EI Compendex 肯定记录  | 18 / 65          | 其余 47 本没有肯定记录；不等于未被收录                                               |
 | ESCI 肯定记录          | 3 / 65           | 独立保存，不换算为 SCIE                                                              |
 | 当前索引数据库直查证据 | 0 本             | 现有肯定索引均为出版社声明；逐刊按 ISSN 复核                                         |
 
@@ -64,7 +64,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 Updated 11 September 2026 against commit `074eda7`. The catalog contains 65 journals, 17 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE has 15 and EI has 16 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE has 17 and EI has 18 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. This update documents future work only.
 
@@ -75,3 +75,7 @@ Execute the batches above as separate reviewed commits and pushes. Daily source 
 ### 2026-09-12：批次 A 首组完成
 
 为 Ultrafast Science、npj Quantum Information、Communications Physics 补 6 条出版社索引声明；独立记录索引核验日期，整刊核验日期保持原值。后续仍需数据库直查、其他期刊及 JCR/CAS 证据补齐。
+
+### 2026-09-12：批次 A 第二组完成
+
+Wiley 四本期刊逐刊复核：Advanced Science、Angewandte 新增 SCIE/EI 声明，Advanced Materials、AFM 更新已有声明来源。另补 Angewandte 印刷刊号及综述提案限制；访问失败的 Nature/InfoMat 索引不变。下一步继续补数据库证据与剩余期刊，并交替推进会议核验。

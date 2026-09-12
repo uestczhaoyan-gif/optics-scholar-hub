@@ -1406,20 +1406,20 @@
         "status": "confirmed",
         "evidence": "publisher",
         "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/productinformation.html",
-        "checkedAt": "2026-09-10",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "出版社索引列表列出 SCIE 与 COMPENDEX；尚未通过数据库机构入口复核。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       },
       {
         "database": "EI_COMPENDEX",
         "status": "confirmed",
         "evidence": "publisher",
         "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/productinformation.html",
-        "checkedAt": "2026-09-10",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "出版社索引列表列出 SCIE 与 COMPENDEX；尚未通过数据库机构入口复核。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       }
     ]
   },
@@ -1535,20 +1535,20 @@
         "status": "confirmed",
         "evidence": "publisher",
         "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/productinformation.html",
-        "checkedAt": "2026-09-10",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       },
       {
         "database": "EI_COMPENDEX",
         "status": "confirmed",
         "evidence": "publisher",
         "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/productinformation.html",
-        "checkedAt": "2026-09-10",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "出版社当前索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库机构入口复核覆盖年份。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       }
     ],
     "scopeExamples": [
@@ -3054,23 +3054,23 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/productinformation.html",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/productinformation.html",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3165,23 +3165,23 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://onlinelibrary.wiley.com/page/journal/15213773/homepage/productinformation.html",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://onlinelibrary.wiley.com/page/journal/15213773/homepage/productinformation.html",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Wiley 本刊 Overview 的 Abstracting and Indexing 列表明确列出 Science Citation Index Expanded 和 COMPENDEX；仅复核出版社声明，数据库直查及覆盖年份待核验。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3189,7 +3189,7 @@
     "name": "Angewandte Chemie International Edition",
     "abbr": "Angew Chem Int Ed",
     "publisher": "Wiley-VCH · Gesellschaft Deutscher Chemiker",
-    "issn": null,
+    "issn": "1433-7851",
     "eissn": "1521-3773",
     "domains": ["材料", "光学", "物理"],
     "topics": ["光学材料", "传感与测量", "纳米与超表面"],
@@ -3198,7 +3198,8 @@
     "guide": "https://onlinelibrary.wiley.com/page/journal/15213773/homepage/notice-to-authors",
     "requirements": [
       "附简短 cover letter 说明适配性；Communication 通常约 2500 词，Research Article 不超过 5000 词，计数自摘要至结论，不含参考文献。",
-      "详细实验方法和完整表征数据放在 Supporting Information 中；综述及观点类另查提案和邀请要求。"
+      "详细实验方法和完整表征数据放在 Supporting Information 中；综述及观点类另查提案和邀请要求。",
+      "2026-09-12 核对官方 Overview：Review、Minireview、Highlight 应先联系编辑部评估提案，当前不考虑未经邀请直接提交的这些稿型；Research Article 和 Communication 按各自指南准备。"
     ],
     "publishing": "混合出版，可在录用时选择开放获取；订阅出版和 OA 的版权及费用规则分别确认。"
   },

@@ -229,3 +229,16 @@
 本批查阅 APL Photonics 的 About 页、HPLSE 的 Cambridge 索引入口，未取得足以填写的明确索引正文；Advanced Photonics 的 SPIE 页面直接读取失败。它们保持原状态，未把访问失败当作未收录，也未用第三方索引标签代替官网声明。
 
 更新后全目录 SCIE 肯定记录 15 本、EI 16 本、ESCI 3 本；肯定证据仍均为出版社声明。期刊数量仍为 65 本。
+
+## 2026-09-12：Wiley 材料与化学期刊索引复核
+
+- [Advanced Materials](https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/productinformation.html)：官网正文明确列出 SCIE 与 COMPENDEX。
+- [Advanced Functional Materials](https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/productinformation.html)：官网正文明确列出 SCIE 与 COMPENDEX。
+- [Advanced Science](https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/productinformation.html)：官网正文明确列出 SCIE 与 COMPENDEX。
+- [Angewandte Chemie International Edition](https://onlinelibrary.wiley.com/page/journal/15213773/homepage/productinformation.html)：官网正文明确列出 SCIE 与 COMPENDEX。
+
+Advanced Science、Angewandte 新增 4 条肯定索引；Advanced Materials、AFM 复核既有 4 条声明并更新来源及索引核验日期。全部为出版社证据，覆盖年份仍未知，未更新整刊 checkedAt。Angewandte 补官方印刷 ISSN 1433-7851，以及综述类先联系编辑部评估提案的要求；不将此要求推广至研究论文。
+
+Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失败；Nature Communications 的 Journal Information 指向范围页，但本次未读到明确索引列表；InfoMat 的 Overview 读取失败。相关索引继续待核验，未使用期刊声誉、影响因子或同一出版社其他期刊的索引作推断。
+
+当前目录 65 本不变；SCIE 肯定记录 17 本、EI 18 本、ESCI 3 本，均仍为出版社声明。
