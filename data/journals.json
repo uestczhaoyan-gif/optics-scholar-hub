@@ -2174,13 +2174,23 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://spj.science.org/page/ultrafastscience/abstracting-indexing",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "出版社索引页的公开检索快照明确列出 EI Compendex 与 ESCI；页面直接读取受限。尚未通过数据库直查复核，覆盖年份未知。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://spj.science.org/page/ultrafastscience/abstracting-indexing",
+        "checkedAt": "2026-09-12",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "出版社索引页的公开检索快照明确列出 EI Compendex 与 ESCI；页面直接读取受限。尚未通过数据库直查复核，覆盖年份未知。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -2604,23 +2614,23 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/npjqi/journal-information",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "出版社 Journal Information 的索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库直查复核，覆盖年份未知。"
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/npjqi/journal-information",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "出版社 Journal Information 的索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库直查复核，覆盖年份未知。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -2659,23 +2669,23 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/commsphys/journal-information",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "出版社 Journal Information 的索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库直查复核，覆盖年份未知。"
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.nature.com/commsphys/journal-information",
+        "checkedAt": "2026-09-12",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "出版社 Journal Information 的索引列表明确列出 SCIE 和 EI Compendex；尚未通过数据库直查复核，覆盖年份未知。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",

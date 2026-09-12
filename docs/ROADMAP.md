@@ -1,6 +1,6 @@
 # 后续工作规划 / Roadmap
 
-更新：2026-09-12；本次对照基线：`074eda7`。以当前 JSON、代码、工作流及核验日志为依据；2026-09-12 已完成批次 D：展会/论坛离线维护队列；本次未新增期刊或活动资料。
+更新：2026-09-12；本次对照基线：`074eda7`。以当前 JSON、代码、工作流及核验日志为依据；2026-09-12 已完成批次 D：展会/论坛离线维护队列；随后完成批次 A 首组 3 本期刊的 6 条索引证据；未新增期刊或活动条目。
 
 ## 当前结果与原规划对照
 
@@ -19,15 +19,15 @@
 
 ## 数据缺口快照
 
-统计自 2026-09-11 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或当前数据库覆盖已确认。
+统计自 2026-09-12 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或当前数据库覆盖已确认。
 
 | 项目                   | 已有记录的期刊数 | 尚需处理                                                                             |
 | ---------------------- | ---------------- | ------------------------------------------------------------------------------------ |
 | JCR 分区               | 56 / 65          | 其余 9 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核 |
 | 中科院分区             | 10 / 65          | 其余 55 本；同时核对版本、大类、小类，未知不补造                                     |
-| SCIE 肯定记录          | 13 / 65          | 其余 52 本没有肯定记录；不等于未被收录                                               |
-| EI Compendex 肯定记录  | 13 / 65          | 其余 52 本没有肯定记录；不等于未被收录                                               |
-| ESCI 肯定记录          | 2 / 65           | 独立保存，不换算为 SCIE                                                              |
+| SCIE 肯定记录          | 15 / 65          | 其余 50 本没有肯定记录；不等于未被收录                                               |
+| EI Compendex 肯定记录  | 16 / 65          | 其余 49 本没有肯定记录；不等于未被收录                                               |
+| ESCI 肯定记录          | 3 / 65           | 独立保存，不换算为 SCIE                                                              |
 | 当前索引数据库直查证据 | 0 本             | 现有肯定索引均为出版社声明；逐刊按 ISSN 复核                                         |
 
 JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前 AFM 已记录样例。作者指南受限条目也未全部核验格式与收费。
@@ -64,10 +64,14 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 Updated 11 September 2026 against commit `074eda7`. The catalog contains 65 journals, 17 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE and EI each have 13 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE has 15 and EI has 16 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. This update documents future work only.
 
 ## 2026-09-12 执行记录
 
 批次 D 已实现：临近 14 天、进行中、未知起止日期和超过 30 天未复核的展会/论坛进入队列；已结束活动退出待办但保留目录。母子活动各自保留字段级任务，任务数不作为独立大会数量。新增两项边界测试，全部 23 项测试及数据、类型和 lint 检查通过。下一批回到 A/B 的期刊证据与当届会议核验。
+
+### 2026-09-12：批次 A 首组完成
+
+为 Ultrafast Science、npj Quantum Information、Communications Physics 补 6 条出版社索引声明；独立记录索引核验日期，整刊核验日期保持原值。后续仍需数据库直查、其他期刊及 JCR/CAS 证据补齐。

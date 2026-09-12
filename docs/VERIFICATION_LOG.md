@@ -215,3 +215,17 @@
 - IEEE ComST 与 Proceedings 按综述/教程选刊；TMI 保留会议扩展说明要求；TGRS 保留 2026 年超页政策的生效日期。TIE 版本化 PDF 及 TIP 范围说明未作为完整的当前投稿指南核验。
 - 范围核验补充来源：Elsevier 官方商店的 [JCIS](https://shop.elsevier.com/journals/journal-of-colloid-and-interface-science/0021-9797)、[Dyes and Pigments](https://shop.elsevier.com/journals/dyes-and-pigments/0143-7208)、[Biosensors and Bioelectronics](https://shop.elsevier.com/journals/biosensors-and-bioelectronics/0956-5663)、[Sensors and Actuators B](https://shop.elsevier.com/journals/sensors-and-actuators-b-chemical/0925-4005)、[Science Bulletin](https://shop.elsevier.com/journals/science-bulletin/2095-9273)。前述期刊的 ScienceDirect 完整作者指南读取受限，不能据此宣称篇幅和收费已完整确认。
 - 验证：清单逐项匹配 JSON，54 项均存在；数据校验通过，21 项自动测试通过，TypeScript 检查、lint 与生产构建通过。
+
+## 2026-09-12：批次 A 首组索引证据
+
+本批只复核索引字段，不更新整刊 checkedAt、分区、费用或作者指南。新增 6 条肯定索引记录，证据均为出版社声明，数据库直查仍待完成。
+
+| 期刊                    | 新增索引声明       | 来源与读取范围                                                                                                                                                               |
+| ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ultrafast Science       | EI Compendex、ESCI | [出版社索引页](https://spj.science.org/page/ultrafastscience/abstracting-indexing)公开检索快照明确列出；直接打开失败，按快照范围记录。SCIE 保持待核验，不把 ESCI 换算为 SCIE |
+| npj Quantum Information | SCIE、EI Compendex | [Journal Information](https://www.nature.com/npjqi/journal-information)正文索引列表，核对在线 ISSN 2056-6387                                                                 |
+| Communications Physics  | SCIE、EI Compendex | [Journal Information](https://www.nature.com/commsphys/journal-information)正文索引列表，核对在线 ISSN 2399-3650                                                             |
+
+本批查阅 APL Photonics 的 About 页、HPLSE 的 Cambridge 索引入口，未取得足以填写的明确索引正文；Advanced Photonics 的 SPIE 页面直接读取失败。它们保持原状态，未把访问失败当作未收录，也未用第三方索引标签代替官网声明。
+
+更新后全目录 SCIE 肯定记录 15 本、EI 16 本、ESCI 3 本；肯定证据仍均为出版社声明。期刊数量仍为 65 本。
