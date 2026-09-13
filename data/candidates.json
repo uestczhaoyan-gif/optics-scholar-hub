@@ -1621,12 +1621,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "中文期刊，按分区精选或已核实 EI 工程补充路径审核。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://f.opticsjournal.net/J/gxxb/Issues.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["acta-optica-sinica"],
+    "decisionReason": "依据主办单位 EI 出版社声明走工程补充路径；分区和完整作者指南仍待核验。",
+    "nextAction": "补数据库直查与完整作者指南，核实分区版本；区分正刊、网络版与增刊。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-bad13aed65",
@@ -1663,12 +1663,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "中文期刊，按分区精选或已核实 EI 工程补充路径审核。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://prj.opticsjournal.net/j/lop/issues.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["laser-optoelectronics-progress"],
+    "decisionReason": "依据主办单位 EI 出版社声明走工程补充路径；分区和完整作者指南仍待核验。",
+    "nextAction": "补数据库直查与完整作者指南，核实分区版本；区分正刊、网络版与增刊。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-b65a90b17d",
@@ -1705,12 +1705,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "中文期刊，按分区精选或已核实 EI 工程补充路径审核。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://hpl.opticsjournal.net/J/zgjg/Issues.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["chinese-journal-lasers"],
+    "decisionReason": "依据主办单位 EI 出版社声明走工程补充路径；分区和完整作者指南仍待核验。",
+    "nextAction": "补数据库直查与完整作者指南，核实分区版本；区分正刊、网络版与增刊。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-6bc108eeb1",

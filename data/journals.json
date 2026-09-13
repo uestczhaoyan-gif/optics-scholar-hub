@@ -3972,5 +3972,164 @@
       "指南对 2026 年 1 月 1 日之后投稿的论文，将强制超页收费起点设为第 11 页；超页费与开放获取 APC 分别计算，投稿前复核最新规定。"
     ],
     "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+  },
+  {
+    "id": "chinese-journal-lasers",
+    "name": "中国激光",
+    "abbr": "Chinese Journal of Lasers",
+    "publisher": "中国激光杂志社 · 中国科学院上海光学精密机械研究所",
+    "issn": "0258-7025",
+    "eissn": null,
+    "domains": ["光学"],
+    "topics": ["激光与非线性", "光学设计与制造"],
+    "description": "面向激光科学、光电子技术及应用的中文学术期刊；覆盖激光器、光场调控、激光加工及相关光学研究。",
+    "website": "https://hpl.opticsjournal.net/J/zgjg/Issues.html",
+    "guide": "https://hpl.opticsjournal.net/J/zgjg/Issues.html",
+    "checkedAt": "2026-09-13",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "主办单位声明为 ESCI，不将其当作 SCIE；SCIE 保持待核验。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "上海光机所杂志社介绍的公开检索快照明确列出本刊 EI、ESCI；正文直读超时，数据库覆盖和起止年待直查。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "上海光机所杂志社介绍的公开检索快照明确列出本刊 EI、ESCI；正文直读超时，数据库覆盖和起止年待直查。"
+      }
+    ],
+    "requirements": [
+      "从期刊网“作者服务”进入本刊投稿指南、模板与费用说明，按当前稿型准备；本轮核对了刊号、出版单位和作者服务入口。",
+      "投稿指南正文读取受限；篇幅、中英文摘要长度、文件格式和投稿系统细则仍待核验，不采用第三方代投站点或旧年份征稿中的限制。"
+    ],
+    "publishing": "审稿费、版面费及出版选择以本刊“审稿费&版面费”官方栏目为准，未把期刊零售价当作发表费用。",
+    "schedule": "按期刊网当前标注为半月刊；出版频次不等于审稿周期，录用与刊出时间须另行向编辑部确认。"
+  },
+  {
+    "id": "acta-optica-sinica",
+    "name": "光学学报",
+    "abbr": "Acta Optica Sinica",
+    "publisher": "中国激光杂志社 · 中国科学院上海光学精密机械研究所",
+    "issn": "0253-2239",
+    "eissn": null,
+    "domains": ["光学"],
+    "topics": ["综合光学", "成像与计算光学", "光通信"],
+    "description": "覆盖基础与应用光学的中文学术期刊；与《光学学报（网络版）》是需要区分的刊名，本条按 ISSN 0253-2239 维护。",
+    "website": "https://f.opticsjournal.net/J/gxxb/Issues.html",
+    "guide": "https://f.opticsjournal.net/J/gxxb/Issues.html",
+    "checkedAt": "2026-09-13",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "主办单位声明为 ESCI，不将其当作 SCIE；SCIE 保持待核验。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "上海光机所杂志社介绍的公开检索快照明确列出本刊 EI、ESCI；正文直读超时，数据库覆盖和起止年待直查。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "上海光机所杂志社介绍的公开检索快照明确列出本刊 EI、ESCI；正文直读超时，数据库覆盖和起止年待直查。"
+      }
+    ],
+    "requirements": [
+      "从期刊网“作者服务”进入本刊投稿指南、模板与费用说明，按当前稿型准备；本轮核对了刊号、出版单位和作者服务入口。",
+      "投稿指南正文读取受限；篇幅、中英文摘要长度、文件格式和投稿系统细则仍待核验，不采用第三方代投站点或旧年份征稿中的限制。"
+    ],
+    "publishing": "审稿费、版面费及出版选择以本刊“审稿费&版面费”官方栏目为准，未把期刊零售价当作发表费用。",
+    "schedule": "按期刊网当前标注为半月刊；出版频次不等于审稿周期，录用与刊出时间须另行向编辑部确认。"
+  },
+  {
+    "id": "laser-optoelectronics-progress",
+    "name": "激光与光电子学进展",
+    "abbr": "Laser & Optoelectronics Progress",
+    "publisher": "中国激光杂志社 · 中国科学院上海光学精密机械研究所",
+    "issn": "1006-4125",
+    "eissn": null,
+    "domains": ["光学"],
+    "topics": ["综合光学", "激光与非线性", "电子与器件"],
+    "description": "关注激光与光电子学研究和技术进展的中文学术期刊；供相关基础研究、器件与工程应用方向选刊参考。",
+    "website": "https://prj.opticsjournal.net/j/lop/issues.html",
+    "guide": "https://prj.opticsjournal.net/j/lop/issues.html",
+    "checkedAt": "2026-09-13",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "主办单位声明为 ESCI，不将其当作 SCIE；SCIE 保持待核验。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "上海光机所杂志社介绍的公开检索快照明确列出本刊 EI、ESCI；正文直读超时，数据库覆盖和起止年待直查。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "上海光机所杂志社介绍的公开检索快照明确列出本刊 EI、ESCI；正文直读超时，数据库覆盖和起止年待直查。"
+      }
+    ],
+    "requirements": [
+      "从期刊网“作者服务”进入本刊投稿指南、模板与费用说明，按当前稿型准备；本轮核对了刊号、出版单位和作者服务入口。",
+      "投稿指南正文读取受限；篇幅、中英文摘要长度、文件格式和投稿系统细则仍待核验，不采用第三方代投站点或旧年份征稿中的限制。"
+    ],
+    "publishing": "审稿费、版面费及出版选择以本刊“审稿费&版面费”官方栏目为准，未把期刊零售价当作发表费用。",
+    "schedule": "按期刊网当前标注为半月刊；出版频次不等于审稿周期，录用与刊出时间须另行向编辑部确认。"
   }
 ]

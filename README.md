@@ -18,7 +18,7 @@
 
 已实现 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，支持索引、领域、收录范围与分区组合筛选。索引数据仍在逐刊核验，未核实记录明确标注。
 
-- **期刊目录**：65 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
+- **期刊目录**：68 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
 - **会议日历**：19 届国内外会议，包括 ACP、OFC、CLEO、COS、ECOC、FiO + LS、IEEE IPC、Optica ODF、ICIP、生物光子学大会、激光大会、OMTA、Photonics Asia 、Quantum 2.0、OPTIC、COS 长春会议及精密工程学术研讨会。分别记录投稿、PDP、注册、通知及终稿时间。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
 - **新生指南**：期刊与会议的区别、投稿流程、模板、预印本、注册、报告及出版要求。
@@ -104,7 +104,7 @@ The [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) now support SCI/SCIE
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
-The initial catalog contains **65 journals and 19 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
+The initial catalog contains **68 journals and 19 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
 
 Exact timestamps can be displayed in Beijing time or UTC. Date-only announcements retain their uncertainty. Unknown dates remain unknown. A Chinese beginner guide explains submission, registration, presentation, preprints, publication, and fees.
 

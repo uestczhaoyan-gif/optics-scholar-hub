@@ -254,3 +254,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - OECC & IP：核对[时间线](https://oeccip2027.org/pages/38)、[普通稿](https://www.oeccip2027.org/pages/39)、[PDP](https://oeccip2027.org/pages/40)、[注册](https://oeccip2027.org/pages/42)和[举办信息](https://oeccip2027.org/pages/15)。联合会议只计一条；日期级不补时刻。模板和系统按钮尚有占位，注册页旧 2025 活动不迁入；作者注册早于早鸟，分别记录。
 - OGC：核对[首页](https://ipsogc.org/)、[投稿](https://ipsogc.org/sub.html)、[注册](https://ipsogc.org/reg.html)。首页与旧日期页不一致，备注保留差异；当前日期记录依首页。仅按日程作历史记录，不声称已实查论文集上线。
 - 当前 65 本期刊、19 届会议、7 项展会/论坛。
+
+## 2026-09-13：三本中文 EI 工程补充
+
+- [上海光机所杂志社介绍](https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html)公开检索快照逐刊列明 EI、ESCI；正文直接读取超时，因此仅保存出版社声明，不冒充数据库直查。页面路径年份不作为当前收录覆盖起点。
+- [中国激光](https://hpl.opticsjournal.net/J/zgjg/Issues.html)、[光学学报](https://f.opticsjournal.net/J/gxxb/Issues.html)、[激光与光电子学进展](https://prj.opticsjournal.net/j/lop/issues.html)刊号、出版单位及作者服务导航已读取。正式主页及指南深链接直读受限，guide 暂指向带作者服务导航的官方刊物页面。
+- 不照搬旧稿约或代投网站要求；SCIE 未确认，rankings 为空，走 EI 补充准入。光学学报与网络版区分；定价不是版面费。当前期刊 68 本，EI 21 本、SCIE 17 本、ESCI 6 本具有出版社肯定声明。
