@@ -79,3 +79,7 @@ Execute the batches above as separate reviewed commits and pushes. Daily source 
 ### 2026-09-12：批次 A 第二组完成
 
 Wiley 四本期刊逐刊复核：Advanced Science、Angewandte 新增 SCIE/EI 声明，Advanced Materials、AFM 更新已有声明来源。另补 Angewandte 印刷刊号及综述提案限制；访问失败的 Nature/InfoMat 索引不变。下一步继续补数据库证据与剩余期刊，并交替推进会议核验。
+
+### 2026-09-13：批次 B 临近事项
+
+补齐 OPTIC 2026 Poster-Only 的 9 月 14–30 日窗口；复核 FiO PDP 通知、Laser Congress PDP 截止，与目录一致。Photonics West 官方正文读取受限，留待后续核实。
