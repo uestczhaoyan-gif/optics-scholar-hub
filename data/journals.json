@@ -4261,5 +4261,226 @@
     ],
     "publishing": "具体审稿费、版面费及出版选择待核实，以当前编辑部通知为准。",
     "schedule": "主办学会及期刊网标注月刊；未核实具体审稿周期。"
+  },
+  {
+    "id": "journal-biomedical-optics",
+    "name": "Journal of Biomedical Optics",
+    "abbr": "JBO",
+    "publisher": "SPIE",
+    "issn": "1083-3668",
+    "eissn": "1560-2281",
+    "domains": ["光学", "生物医学"],
+    "topics": ["生物医学光学", "成像与计算光学", "传感与测量"],
+    "description": "聚焦服务生物医学研究与医疗的光学系统和技术，适合光学成像、光谱与传感方法及其应用。",
+    "website": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics",
+    "guide": "https://nanophotonics.spiedigitallibrary.org/journals/journal-of-biomedical-optics/author-guidelines",
+    "requirements": [
+      "从本刊 Author Guidelines 与 Submit Manuscript 入口确认稿型、模板及材料清单；SPIE 官方作者总览已核实本刊生医光学范围。",
+      "本刊详细指南本轮受访问限制，篇幅、摘要格式及具体伦理材料要求仍待核验；不把 SPIE 其他期刊的规则直接套用。"
+    ],
+    "publishing": "SPIE 作者总览明确本刊为 Gold Open Access；APC、减免及机构协议需在本刊收费页另查。",
+    "checkedAt": "2026-09-13",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=41",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      }
+    ],
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+  },
+  {
+    "id": "neurophotonics",
+    "name": "Neurophotonics",
+    "abbr": "NPh",
+    "publisher": "SPIE",
+    "issn": "2329-423X",
+    "eissn": "2329-4248",
+    "domains": ["光学", "生物医学"],
+    "topics": ["生物医学光学", "成像与计算光学"],
+    "description": "关注用于脑研究的光学技术，以及这些技术对基础与临床神经科学的作用；适合神经光学测量与成像研究。",
+    "website": "https://www.spiedigitallibrary.org/journals/neurophotonics",
+    "guide": "https://nanophotonics.spiedigitallibrary.org/journals/neurophotonics/author-guidelines",
+    "requirements": [
+      "先按本刊官方作者指南确认研究内容与神经光学的关联，以及相应稿型与提交材料。",
+      "本轮作者指南仅返回嵌入框架，未完整核实字数、模板、伦理及数据材料细则；需进入官网当前指南确认。"
+    ],
+    "publishing": "SPIE 作者总览明确本刊为 Gold Open Access；具体 APC 与减免待本刊收费页核实。",
+    "checkedAt": "2026-09-13",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      }
+    ],
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+  },
+  {
+    "id": "photoacoustics",
+    "name": "Photoacoustics",
+    "abbr": "PACS",
+    "publisher": "Elsevier",
+    "issn": null,
+    "eissn": "2213-5979",
+    "domains": ["光学", "生物医学", "物理"],
+    "topics": ["生物医学光学", "成像与计算光学", "传感与测量"],
+    "description": "刊载光声、光声学与热声领域研究及综述，涉及材料和生物组织的成像、可视化与表征。",
+    "website": "https://www.sciencedirect.com/journal/photoacoustics",
+    "guide": "https://www.sciencedirect.com/journal/photoacoustics/publish/guide-for-authors",
+    "requirements": [
+      "Elsevier 官方范围说明接收本领域原创研究与综述；从本刊 Guide for Authors 核对稿型、模板与提交要求。",
+      "ScienceDirect 本刊指南本轮返回 403，尚未核实当前摘要长度、Highlights 要求和具体投稿文件，不采用第三方转载规则。"
+    ],
+    "publishing": "Elsevier 将本刊列入开放获取物理期刊；具体 APC、许可与减免以当前本刊说明为准。",
+    "checkedAt": "2026-09-13",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, BIOMEDICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=226",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      }
+    ],
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+  },
+  {
+    "id": "extreme-manufacturing",
+    "name": "International Journal of Extreme Manufacturing",
+    "abbr": "IJEM",
+    "publisher": "IOP Publishing",
+    "issn": "2631-8644",
+    "eissn": "2631-7990",
+    "domains": ["机械与制造", "光学", "材料"],
+    "topics": ["光学设计与制造", "激光与非线性", "纳米与超表面"],
+    "description": "聚焦极端制造的原理、工艺、测量与器件。光学适配包括超快激光微纳制造、激光表面改性、超精密加工及功能光学结构，非所有制造主题都面向光学。",
+    "website": "https://www.ijemnet.com/",
+    "guide": "https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/",
+    "requirements": [
+      "接收原创研究与综述；英文撰写，图表嵌入正文相应位置。IOP 提供 Word/LaTeX 模板，按官方 Submit an article 进入系统。",
+      "IOP 本刊作者页建议摘要通常不超过 300 词，能独立说明方法、结果与结论；具体稿型的特殊限制仍须查本刊说明。",
+      "准备可复现的方法、数据可用性和必要声明；明确超越现有制造方法的贡献，避免仅有渐进改进。"
+    ],
+    "publishing": "出版许可、APC 及资助减免须核对本刊当前说明；不将旧版免费政策作为长期承诺。",
+    "checkedAt": "2026-09-13",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, MANUFACTURING",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=250",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+      }
+    ],
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
   }
 ]

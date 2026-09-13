@@ -284,3 +284,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [Optica 官方介绍及投稿说明](https://opg.optica.org/content/journal/about/item/optica/)：补电子刊号 2334-2536，区分三类稿型篇幅、研究稿 250 词投稿信和 mini-review 先联系主编流程；仅复核身份与本刊规则，未把整刊 checkedAt 或索引证据刷新。
 - [LPR 官方索引页](https://onlinelibrary.wiley.com/page/journal/18638899/homepage/productinformation.html)：SCIE 声明仍在，更新该索引核验日期；未列 EI，不能推断未收录。[官方 metrics](https://onlinelibrary.wiley.com/journal/18638899/journal-metrics)提供 JIF，未提供学科分区，不由 JIF 数值推断 Q1。
 - 读取已下载的 [UEFISCDI 公开 JCR 2025 转载表](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf)第 567、603、607 页，以两刊号匹配 LPR，光学、应用物理、凝聚态物理的 JIF Quartile 均为 Q1。保存为 2025 版本、2024 指标年的 secondary 参考；不是最新 2026 分区，也不是 SCI/EI 直查。本轮在线 PDF 工具超时，使用此前下载文件重新逐行读取。
+
+## 2026-09-13 — 生物医学与极端制造四刊
+
+- [SPIE 作者总览](https://nanophotonics.spiedigitallibrary.org/journals/journal-authors)直接读取 JBO、Neurophotonics 的范围及 Gold OA；JBO 专门范围页搜索快照可读，指南正文访问受限，未补造篇幅。
+- [Elsevier 光学物理 OA 总览](https://www.elsevier.com/subject/physics-and-astronomy/journals/open-access-for-physics-journals)核实 Photoacoustics 的光声/热声研究与综述范围；本刊指南 403。[ISSN 中心](https://portal.issn.org/resource/ISSN/2213-5979)确认电子刊号 2213-5979，未使用已撤销的 2213-5987。
+- [IOP IJEM 范围](https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/about-international-journal-extreme-manufacturing/)包含超快激光制造、光学结构和精密计量；[本刊作者支持页](https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/)核实英文、图表、模板和摘要建议。[ISSN 中心](https://portal.issn.org/resource/ISSN/2631-7990)核实电子版身份。
+- 2025 JCR 机构转载表：JBO p566 OPTICS Q2；Neurophotonics p567 OPTICS Q2（AIS Q1 不替代）；Photoacoustics p226 ENGINEERING, BIOMEDICAL Q1；IJEM p250 ENGINEERING, MANUFACTURING Q1。均读取此前下载的同一公开 PDF，使用 JIF Quartile，未据此确认当前 SCIE/EI。
+- JBIO p41、55、566 的 JIF 均 Q3；[Wiley 官方范围与索引](https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html)显示适配，但未明确 EI；更新候选审核结论，未永久排除。

@@ -1845,12 +1845,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "成像方法、仪器和临床应用的范围差异",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["journal-biomedical-optics"],
+    "decisionReason": "官方办刊范围适配光学，JCR 2025 对应学科 Q1/Q2 机构转载依据已附页码；当前索引独立待核验。",
+    "nextAction": "补当前索引、分区和完整作者指南；交叉论文样例仍待系统补齐。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-53f9130564",
@@ -1859,12 +1859,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "成像方法、仪器和临床应用的范围差异",
-    "sourceEntry": null,
+    "sourceEntry": "https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "光学适配明确，但本轮 JCR 2025 三学科 JIF 分区均 Q3；光学 AIS Q2 不能替代 JIF Q2。官方列表未明确 EI，未满足本批准入证据。",
+    "nextAction": "核实更新年度 JIF/CAS 分区或 EI 声明；不因本批缺乏准入证据永久排除。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-8fd54e1127",
@@ -1943,12 +1943,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "成像方法、仪器和临床应用的范围差异",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.spiedigitallibrary.org/journals/neurophotonics",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["neurophotonics"],
+    "decisionReason": "官方办刊范围适配光学，JCR 2025 对应学科 Q1/Q2 机构转载依据已附页码；当前索引独立待核验。",
+    "nextAction": "补当前索引、分区和完整作者指南；交叉论文样例仍待系统补齐。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-8c18c1391b",
@@ -1999,12 +1999,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "成像方法、仪器和临床应用的范围差异",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/photoacoustics",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["photoacoustics"],
+    "decisionReason": "官方办刊范围适配光学，JCR 2025 对应学科 Q1/Q2 机构转载依据已附页码；当前索引独立待核验。",
+    "nextAction": "补当前索引、分区和完整作者指南；交叉论文样例仍待系统补齐。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-41ca4024ee",
@@ -2629,12 +2629,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光学加工、超精密制造、光学测量",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.ijemnet.com/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["extreme-manufacturing"],
+    "decisionReason": "官方办刊范围适配光学，JCR 2025 对应学科 Q1/Q2 机构转载依据已附页码；当前索引独立待核验。",
+    "nextAction": "补当前索引、分区和完整作者指南；交叉论文样例仍待系统补齐。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-6783bf6a5c",
