@@ -274,3 +274,7 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [中国光学学会介绍](https://www.cncos.org.cn/Content/view/id/110.html)：当前刊名、ISSN 2097-1842、2022 年更名、范围、双月刊及 EI/ESCI 声明均可读。网页的旧发布时间与正文新内容不同，未推断索引覆盖年份；其 JCR Q3 表述未明确发行版本，本批不生成分区记录，按 EI 路径收录。
 - [光学工程学会介绍](https://b2b.csoe.org.cn/special/show-4.html)及[期刊网](https://prj.opticsjournal.net/J/irla/Issues.html)：核对《红外与激光工程》ISSN 1007-2276、主办单位、月刊及范围。[SciEngine 期刊介绍](https://www.sciengine.com/IRLA/journal-introduction)检索快照明确 EI，直读 403；irla 官网及其收录栏目 502，保留出版社证据等级及限制。
 - 两刊官网当前作者指南未完整读取；不采用第三方转载的字数、审稿周期、版面费。未核实数据库当前覆盖，不虚构 SCIE 或分区。候选关联已同步。
+
+## 2026-09-13 — 两本期刊电子刊号
+
+从 ISSN 国际中心公开确认记录补 ACS Photonics 的 eISSN [2330-4022](https://portal.issn.org/resource/ISSN/2330-4022) 与 Advanced Photonics Nexus 的 eISSN [2791-1519](https://portal.issn.org/resource/ISSN/2791-1519)。两条记录的 Medium 均为 Online，不填入印刷 ISSN 字段。只核验标识符，整刊 checkedAt、索引和分区不变；ISSN 注册记录不是 SCIE/EI 数据库直查证据。ACS about 页检索快照相符，正文 403，以 ISSN 中心可读记录为主。
