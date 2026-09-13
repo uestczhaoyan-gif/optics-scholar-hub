@@ -1033,5 +1033,77 @@
         "source": "https://www.icocn.org.cn/"
       }
     ]
+  },
+  {
+    "id": "photonics-west-2027",
+    "series": "SPIE Photonics West",
+    "year": 2027,
+    "name": "SPIE 西部光电展学术会议",
+    "nameEn": "SPIE Photonics West 2027",
+    "region": "海外",
+    "location": "美国 · 旧金山",
+    "venue": "The Moscone Center, 747 Howard Street",
+    "start": "2027-01-30",
+    "end": "2027-02-04",
+    "topics": [
+      "综合光学",
+      "生物医学光学",
+      "激光与非线性",
+      "集成光子",
+      "量子光学",
+      "成像与计算光学"
+    ],
+    "description": "涵盖 BiOS、LASE、OPTO、Quantum West 等方向的综合光子学会议群。此条记录大会共同日程，各分会须另查主题、报告日期及附加投稿要求。",
+    "website": "https://spie.org/conferences-and-exhibitions/photonics-west",
+    "notice": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines",
+    "registration": null,
+    "checkedAt": "2026-09-13",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "提交供技术审查的 200–300 词纯文本摘要、用于公开日程的 50–150 词摘要简介，以及最多 1000 字符（含空格）的报告人简介。",
+      "每份摘要选择最匹配的一个分会，通过该分会 Submit an Abstract 入口提交；各分会可能另有特殊摘要或奖项要求。",
+      "报告作者需付费注册、按计划参会报告，并提交符合出版规范的全文或海报。上传论文/海报前，联系作者或报告人须完成注册。"
+    ],
+    "publication": "按要求提交且完成现场报告的材料，经审查后在 SPIE Digital Library 的 Proceedings of SPIE 出版；官网列举 EI 等数据库合作，不代表本届每篇材料已经收录。",
+    "notes": "官网仍显示 call for papers open，但共同摘要日期为 2026/7/22，是否仍可补投须查具体分会，不推定全部开放。注册计划 2026 年 10 月开始，未公布具体日期或完整注册入口；论文/海报上传计划 11/30 开启。海报 PDF 用于日程预览及出版，口头幻灯片 1/29 后可到现场 Speaker Check-in 上传。BiOS Expo 为 1/30–31，Photonics West Exhibition 为 2/2–4，二者不是全部论文会期。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "共同摘要截止（补投另查分会）",
+        "date": "2026-07-22",
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知及日程发布",
+        "date": "2026-10-12",
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "camera-ready",
+        "label": "海报 PDF 提交截止",
+        "date": "2027-01-06",
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "camera-ready",
+        "label": "论文全文提交截止",
+        "date": "2027-01-13",
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "camera-ready",
+        "label": "口头报告幻灯片提前上传截止",
+        "date": "2027-01-29",
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布（上传前需注册）",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      }
+    ]
   }
 ]

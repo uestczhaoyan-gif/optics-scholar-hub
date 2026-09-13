@@ -292,3 +292,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [IOP IJEM 范围](https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/about-international-journal-extreme-manufacturing/)包含超快激光制造、光学结构和精密计量；[本刊作者支持页](https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/)核实英文、图表、模板和摘要建议。[ISSN 中心](https://portal.issn.org/resource/ISSN/2631-7990)核实电子版身份。
 - 2025 JCR 机构转载表：JBO p566 OPTICS Q2；Neurophotonics p567 OPTICS Q2（AIS Q1 不替代）；Photoacoustics p226 ENGINEERING, BIOMEDICAL Q1；IJEM p250 ENGINEERING, MANUFACTURING Q1。均读取此前下载的同一公开 PDF，使用 JIF Quartile，未据此确认当前 SCIE/EI。
 - JBIO p41、55、566 的 JIF 均 Q3；[Wiley 官方范围与索引](https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html)显示适配，但未明确 EI；更新候选审核结论，未永久排除。
+
+## 2026-09-13 — SPIE Photonics West 2027
+
+- 通过内置浏览器实际读取 [大会首页](https://spie.org/conferences-and-exhibitions/photonics-west)、[当届摘要指南](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)及[参会页](https://spie.org/conferences-and-exhibitions/photonics-west/attend)，解决此前网页工具仅返回 iframe 的读取限制。
+- 会期 2027/1/30–2/4、Moscone Center；共同摘要 2026/7/22、通知 10/12、海报 2027/1/6、全文 1/13、口头幻灯片提前上传 1/29。均为日期精度，未推定截止时刻。
+- 技术摘要 200–300 词、日程简介 50–150 词、报告人简介最多 1000 字符含空格。分会特殊要求另外核验；共同日程不是每个分会的最终报告安排。
+- 注册仅公布 2026 年 10 月，上传开放 11/30；注册截止未知，实际注册入口未确认。官方仍显示征稿开放字样，但原共同截止已过，不推定所有分会接受补投或全部关闭。
+- BiOS Expo 与 Photonics West Exhibition 分别为 1/30–31 和 2/2–4，仅作关系说明；本批未增加展览记录或把会议群拆成数百个条目。出版与数据库合作声明不等于具体稿件已检索。

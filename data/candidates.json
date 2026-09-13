@@ -525,12 +525,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光子学综合母大会；BiOS、LASE、OPTO 作为关联子系列核查",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/photonics-west",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["photonics-west-2027"],
+    "decisionReason": "浏览器直接核实 2027 官网、投稿共同日程和 Moscone Center 会场；按一个大会群条目收录，未把 100 多个分会重复计数。",
+    "nextAction": "10 月复核注册与日程发布；补具体分会的特殊要求及是否接受晚投稿，未从原截止推定所有分会关闭。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "conference-series-aab82d5657",
