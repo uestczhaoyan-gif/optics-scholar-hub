@@ -23,7 +23,7 @@
 
 | 项目                   | 已有记录的期刊数 | 尚需处理                                                                              |
 | ---------------------- | ---------------- | ------------------------------------------------------------------------------------- |
-| JCR 分区               | 56 / 70          | 其余 14 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核 |
+| JCR 分区               | 57 / 70          | 其余 13 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核 |
 | 中科院分区             | 10 / 70          | 其余 60 本；同时核对版本、大类、小类，未知不补造                                      |
 | SCIE 肯定记录          | 17 / 70          | 其余 53 本没有肯定记录；不等于未被收录                                                |
 | EI Compendex 肯定记录  | 23 / 70          | 其余 47 本没有肯定记录；不等于未被收录                                                |
@@ -36,16 +36,16 @@ JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问�
 
 以小批次独立提交和推送，先保证已收录资料可用，再按薄弱方向持续扩充。以下是待执行任务；研究结果可能为补齐、明确待核验或暂缓，不承诺每个候选都进入正式目录。
 
-| 批次 / 优先级                          | 要做什么                                                                                                                 | 交付与验收条件                                                                                         |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| A / P1：已有索引与分区证据             | 每批 8–12 本，先核心光学与指定清单；按 ISSN 核对 SCIE/ESCI、EI，再补缺失 JCR/CAS 年度及学科。LPR 的 JCR 与 EI 仍在此队列 | 每字段保存来源、证据等级、版本或核验日期；无法核实保留缺口，不从历史 JCR 的索引列推断当前收录          |
-| B / P1：临近会议与冲突                 | 先处理维护报告中临近 14 天事项，再处理未知日期；继续核实 NDTA 2026 的地点及中英文摘要长度冲突、CIOE 纳米压印论坛日期冲突 | 每届使用当届官方通知，分别记录截止与举办时间；冲突未解继续暂缓，不选一个日期充数                       |
-| C / P1：会议与活动覆盖                 | 每批审核 5–8 个系列，优先 SPIE Photonics West、AOPC、CIOP、OGC、OECC、ICOCN；再向制造、生医、显示、红外、遥感扩展        | 区分系列、届次、母子会议、论文会议和展览；有当届依据才新增正式记录，无下一届通知则保留系列候选         |
-| D / 已完成（2026-09-12）：活动维护能力 | 已将 `events` 纳入离线维护队列与报告，显示类型和母活动关联                                                               | 覆盖即将举办、日期未知、核验过期与历史活动；保留母子关系、不重复统计；必要边界测试通过                 |
-| E / P2：投稿指南与交叉适配             | 每批 5–8 本，补受限作者指南、综述/邀稿提案流程、模板、正式提交入口、篇幅、费用、预印本与会议扩展规则；补交叉期刊样例     | 规则注明适用稿型、官方来源与核验范围；动态费用保留日期；样例含题名/DOI和光学适配理由，样本不足明确说明 |
-| F / P2：中文及薄弱方向期刊             | 先中国激光、光学学报、中国光学（中英文）、红外与激光工程；再审核生医、制造、传统光学及器件候选                           | 按原定 Q1/Q2 或已核实 EI 工程补充路径准入；刊号去重，未满足条件留候选，不暗中扩大分区门槛              |
-| G / P2：候选与覆盖管理                 | 将原候选池区分已收录、待核验、暂缓、历史；逐步保存别名、ISSN/系列 ID、方向、下一步和暂缓原因；建立方向覆盖矩阵           | 已收录条目指向正式 ID，避免反复检索和重复添加；矩阵分开统计期刊、会议系列/届次与展会/论坛              |
-| H / P3：共建与体验回归                 | 完善贡献说明，检查手机端标签、键盘筛选、分享链接、收藏与刷新后的状态；按实际问题修复                                     | 数据提交能沿模板审核；仅对发现的问题修改与补测，不新增无明确需求的账户、订阅或通知系统                 |
+| 批次 / 优先级                          | 要做什么                                                                                                                             | 交付与验收条件                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| A / P1：已有索引与分区证据             | 每批 8–12 本，先核心光学与指定清单；按 ISSN 核对 SCIE/ESCI、EI，再补缺失 JCR/CAS 年度及学科。LPR 的当前 JCR 官方证据与 EI 仍在此队列 | 每字段保存来源、证据等级、版本或核验日期；无法核实保留缺口，不从历史 JCR 的索引列推断当前收录          |
+| B / P1：临近会议与冲突                 | 先处理维护报告中临近 14 天事项，再处理未知日期；继续核实 NDTA 2026 的地点及中英文摘要长度冲突、CIOE 纳米压印论坛日期冲突             | 每届使用当届官方通知，分别记录截止与举办时间；冲突未解继续暂缓，不选一个日期充数                       |
+| C / P1：会议与活动覆盖                 | 每批审核 5–8 个系列，优先 SPIE Photonics West、AOPC、CIOP、OGC、OECC、ICOCN；再向制造、生医、显示、红外、遥感扩展                    | 区分系列、届次、母子会议、论文会议和展览；有当届依据才新增正式记录，无下一届通知则保留系列候选         |
+| D / 已完成（2026-09-12）：活动维护能力 | 已将 `events` 纳入离线维护队列与报告，显示类型和母活动关联                                                                           | 覆盖即将举办、日期未知、核验过期与历史活动；保留母子关系、不重复统计；必要边界测试通过                 |
+| E / P2：投稿指南与交叉适配             | 每批 5–8 本，补受限作者指南、综述/邀稿提案流程、模板、正式提交入口、篇幅、费用、预印本与会议扩展规则；补交叉期刊样例                 | 规则注明适用稿型、官方来源与核验范围；动态费用保留日期；样例含题名/DOI和光学适配理由，样本不足明确说明 |
+| F / P2：中文及薄弱方向期刊             | 先中国激光、光学学报、中国光学（中英文）、红外与激光工程；再审核生医、制造、传统光学及器件候选                                       | 按原定 Q1/Q2 或已核实 EI 工程补充路径准入；刊号去重，未满足条件留候选，不暗中扩大分区门槛              |
+| G / P2：候选与覆盖管理                 | 将原候选池区分已收录、待核验、暂缓、历史；逐步保存别名、ISSN/系列 ID、方向、下一步和暂缓原因；建立方向覆盖矩阵                       | 已收录条目指向正式 ID，避免反复检索和重复添加；矩阵分开统计期刊、会议系列/届次与展会/论坛              |
+| H / P3：共建与体验回归                 | 完善贡献说明，检查手机端标签、键盘筛选、分享链接、收藏与刷新后的状态；按实际问题修复                                                 | 数据提交能沿模板审核；仅对发现的问题修改与补测，不新增无明确需求的账户、订阅或通知系统                 |
 
 A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 的结构化候选与覆盖报告已落地，继续逐项审核。所有批次都执行发布验收，而不是等 H 才上线。
 
@@ -64,7 +64,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 Updated 13 September 2026 from the current catalog and verification log. The catalog contains 70 journals, 20 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE has 17 and EI has 23 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 57 journals and CAS records for 10. SCIE has 17 and EI has 23 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. Completed batches are recorded below; remaining tasks stay explicitly open.
 
@@ -125,3 +125,7 @@ Wiley 四本期刊逐刊复核：Advanced Science、Angewandte 新增 SCIE/EI �
 补齐 ACS Photonics 与 Advanced Photonics Nexus 的电子刊号，来源为 ISSN 国际中心；未把本轮身份核验当作整刊复核。当前 70 本期刊、20 届会议、7 项展会/论坛；262 项候选中 97 项已关联正式目录、163 项待核验、2 项冲突暂缓。
 
 下一批先继续 A/B：缺失 SCI/EI 数据库证据、LPR 分区/EI、NDTA 与 CIOE 纳米压印冲突；C/F 按制造、生医、显示、红外等薄弱方向选择候选。五本新增中文 EI 期刊的完整作者指南仍需补齐，E 的交叉论文样例与 H 的实际手机/键盘回归未完成。维护报告中的临近 FiO/Laser Congress 日期本轮已核对，但到期前仍应持续关注官网更改。
+
+### 2026-09-13：已有期刊规则与分区补证
+
+Optica 补充电子刊号、稿型篇幅、投稿信及综述提案流程。LPR 补三个学科的 JCR 2025 Q1 机构转载参考，当前官方分区与 EI 仍待核验，未由影响因子推断分区。JCR 有记录的期刊增至 57 本。

@@ -214,10 +214,11 @@
     "topics": ["综合光学", "量子光学"],
     "description": "覆盖基础与应用光学，强调研究的新意以及对光学读者群的意义。",
     "website": "https://opg.optica.org/optica/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/optica/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "官网列出的稿型篇幅为 Letter 4 页、Research Article 6–8 页、Mini-review 8–12 页；使用本刊模板，具体排版要求由作者入口确认。",
+      "Letter 和 Research Article 需附 250 词投稿信，说明概念创新及对更广泛光学群体的预期影响；标题和摘要需让非本细分方向读者理解。",
+      "Mini-review 通常邀稿；有意投稿者可先联系主编提出主题。通过官网 Submit a Paper 进入 Prism 投稿系统，常规研究需突出广泛意义与技术严谨性。"
     ],
     "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -238,7 +239,7 @@
       }
     ],
     "issn": null,
-    "eissn": null,
+    "eissn": "2334-2536",
     "domains": ["光学", "物理"],
     "indexes": [
       {
@@ -1652,7 +1653,7 @@
         "status": "confirmed",
         "evidence": "publisher",
         "source": "https://onlinelibrary.wiley.com/page/journal/18638899/homepage/productinformation.html",
-        "checkedAt": "2026-09-11",
+        "checkedAt": "2026-09-13",
         "coverageStart": null,
         "coverageEnd": null,
         "note": "Wiley 官方索引列表明确列出 SCIE；尚待数据库直查。"
@@ -1707,6 +1708,39 @@
         "level": "minor",
         "quartile": 2,
         "source": "https://www.iikx.com/sci/physics/15161.html",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=603",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, CONDENSED MATTER",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=607",
         "evidence": "secondary"
       }
     ]

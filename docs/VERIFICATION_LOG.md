@@ -278,3 +278,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 ## 2026-09-13 — 两本期刊电子刊号
 
 从 ISSN 国际中心公开确认记录补 ACS Photonics 的 eISSN [2330-4022](https://portal.issn.org/resource/ISSN/2330-4022) 与 Advanced Photonics Nexus 的 eISSN [2791-1519](https://portal.issn.org/resource/ISSN/2791-1519)。两条记录的 Medium 均为 Online，不填入印刷 ISSN 字段。只核验标识符，整刊 checkedAt、索引和分区不变；ISSN 注册记录不是 SCIE/EI 数据库直查证据。ACS about 页检索快照相符，正文 403，以 ISSN 中心可读记录为主。
+
+## 2026-09-13 — Optica 投稿规则与 LPR 历史 JCR 参考
+
+- [Optica 官方介绍及投稿说明](https://opg.optica.org/content/journal/about/item/optica/)：补电子刊号 2334-2536，区分三类稿型篇幅、研究稿 250 词投稿信和 mini-review 先联系主编流程；仅复核身份与本刊规则，未把整刊 checkedAt 或索引证据刷新。
+- [LPR 官方索引页](https://onlinelibrary.wiley.com/page/journal/18638899/homepage/productinformation.html)：SCIE 声明仍在，更新该索引核验日期；未列 EI，不能推断未收录。[官方 metrics](https://onlinelibrary.wiley.com/journal/18638899/journal-metrics)提供 JIF，未提供学科分区，不由 JIF 数值推断 Q1。
+- 读取已下载的 [UEFISCDI 公开 JCR 2025 转载表](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf)第 567、603、607 页，以两刊号匹配 LPR，光学、应用物理、凝聚态物理的 JIF Quartile 均为 Q1。保存为 2025 版本、2024 指标年的 secondary 参考；不是最新 2026 分区，也不是 SCI/EI 直查。本轮在线 PDF 工具超时，使用此前下载文件重新逐行读取。
