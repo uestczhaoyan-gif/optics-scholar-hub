@@ -304,3 +304,7 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 ## 2026-09-14 — 中国光学投稿指南与系统迁移
 
 通过浏览器读取[征稿细则](https://www.chineseoptics.net.cn/news/tougaoxuzhi.htm)、[2026-06-25 系统迁移通知](https://www.chineseoptics.net.cn/news/index_tabliod/d1332564-e72b-414d-9451-9e3a0a05d662.htm)及[版面费通知](https://www.chineseoptics.net.cn/news/xinxidongtai/c4aae910-5943-4b15-8d03-5d2bbb240f2a.htm)。补 Word、签字版权/保密材料、三审及新旧稿分流；500 元/页明确为 2024-03-01 生效的公开通知，未保证当前账单。摘要字数、篇幅及预印本政策未核实。仅更新投稿说明，保留整刊与索引核验日期。
+
+## 2026-09-14 — AOPC 2026
+
+[主办学会当届官网](https://b2b.csoe.org.cn/meeting/WPC2026.html)确认 7/17–19 北京国家会议中心二期，300–500 词英文摘要，最后一轮 6/20、全文 7/31。顶部早鸟 6/30 与费用表 6/20 不一致，未选一个作为确定日期。会议通知 PDF 本轮无法读取，以网页明确正文为依据；合作出版列表不作为单篇检索或录用证明。

@@ -1105,5 +1105,64 @@
         "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
       }
     ]
+  },
+  {
+    "id": "aopc-2026",
+    "series": "AOPC",
+    "year": 2026,
+    "name": "国际应用光学与光子学技术交流大会",
+    "nameEn": "15th Applied Optics and Photonics China (AOPC 2026)",
+    "region": "中国境内",
+    "location": "中国 · 北京",
+    "venue": "国家会议中心二期，北京市朝阳区大屯甲路20号",
+    "start": "2026-07-17",
+    "end": "2026-07-19",
+    "topics": [
+      "综合光学",
+      "光学设计与制造",
+      "激光与非线性",
+      "成像与计算光学",
+      "生物医学光学",
+      "传感与测量"
+    ],
+    "description": "世界光子大会 WPC 2026 的学术会议组成部分，覆盖激光、红外、太赫兹、微纳光学、制造、成像及生医等方向；同期北京光子展览不单独计为论文会议。",
+    "website": "https://b2b.csoe.org.cn/meeting/WPC2026.html",
+    "notice": "https://b2b.csoe.org.cn/meeting/WPC2026.html",
+    "registration": null,
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "通过 https://b2b.csoe.org.cn/submission/wpc2026.html 提交 300–500 词英文摘要，按官方口头/海报摘要模板准备；录用结果邮件通知联系作者。",
+      "全文按对应专题的 SPIE 提交入口和官方 manuscript guidelines 准备；首页提供模板及 T1–T19 独立入口，不将摘要提交视为全文完成。"
+    ],
+    "publication": "官方列有 SPIE 会议论文集及合作期刊；合作列表不表示报告自动获期刊录用或单篇论文已被 EI/SCI 检索，出版费用不含在注册费中。",
+    "notes": "历史届次。官网顶部早鸟日期为 6/30，而国内外费用表均以 6/20 分档，无法确认最终早鸟截止，故日期留空并保留冲突；2027 届未由本届推算。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "最后一轮摘要截止",
+        "date": "2026-06-20",
+        "source": "https://b2b.csoe.org.cn/meeting/WPC2026.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "论文全文提交截止",
+        "date": "2026-07-31",
+        "source": "https://b2b.csoe.org.cn/meeting/WPC2026.html"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟日期冲突：官网 6/20 与 6/30",
+        "date": null,
+        "source": "https://b2b.csoe.org.cn/meeting/WPC2026.html"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知（邮件；日期未明确）",
+        "date": null,
+        "source": "https://b2b.csoe.org.cn/meeting/WPC2026.html"
+      }
+    ]
   }
 ]

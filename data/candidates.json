@@ -20,12 +20,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "综合光学工程；与同期展览区分",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/WPC2026.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["aopc-2026"],
+    "decisionReason": "官方当届页面确认会期、会场及投稿日程；作为 WPC 学术组成部分收录，展览不重复计数。",
+    "nextAction": "查证早鸟日期两处冲突；跟踪后续届次，不从历史日程推算。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-bcf898110e",
