@@ -1,10 +1,22 @@
 name: 数据新增或纠错 / Data update
 description: 请附上当届官方链接 / Include current official sources
 body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 条目类型 / Record type
+      options:
+        - 期刊 / Journal
+        - 论文会议届次 / Conference edition
+        - 展会或论坛 / Exhibition or forum
+        - 尚待审核的候选 / Candidate lead
+    validations:
+      required: true
   - type: input
     id: entity
     attributes:
-      label: 期刊或会议及年份 / Name and year
+      label: 名称、年份与已有 ID / Name, year and existing ID
+      description: 期刊请提供 ISSN；会议请区分系列与届次，论坛请说明母活动。
     validations:
       required: true
   - type: textarea
@@ -17,7 +29,18 @@ body:
   - type: textarea
     id: evidence
     attributes:
-      label: 公开来源链接 / Public evidence
-      description: 请勿上传受限分区表或账号信息。
+      label: 官方来源、阅读日期及核验范围 / Sources, review date and scope
+      description: 链接到核心通知或作者指南。索引区分数据库直查和出版社声明；请勿上传受限分区表或账号信息。
     validations:
       required: true
+
+  - type: textarea
+    id: uncertainty
+    attributes:
+      label: 未核实或冲突之处 / Unknowns or conflicts
+      description: 保留相互矛盾的来源；无法读取全文、仅有搜索摘要或下一届尚未公布时请说明。
+  - type: textarea
+    id: relevance
+    attributes:
+      label: 光学适配或候选处理建议 / Optical relevance and candidate decision
+      description: 交叉期刊请提供范围依据和光学论文样例；可先提候选，无需编造分区或索引来满足收录门槛。

@@ -29,3 +29,13 @@ Use `data/events.json` for exhibitions, industry forums and historical forums wi
 版本文件由构建生成，不手工编辑。刷新只加载已发布的本站数据；维护者可通过 Actions 手动触发来源报告，复核后再提交数据。
 
 The version manifest is generated at build time. Refreshing only loads a published catalog; maintainers can manually run the source-report workflow, review findings and then commit data changes.
+
+## 候选审核与逐批发布 / Candidate review and release
+
+新增资料可以先按 [候选规范](docs/CANDIDATES.md) 提交线索。先搜索刊名、ISSN、别名与会议系列，避免重复；正式新增及补充后续届次时同步 candidates.json 的关联 ID。尚未满足核验条件时保留 pending，存在明确冲突时使用 deferred 并写出下一步。
+
+期刊按已定义的 Q1/Q2 或已核实 EI 工程补充路径准入。SCI/SCIE、ESCI 与 EI 分开记录，出版社声明不升级为数据库直查。交叉期刊应有光学适配说明，并以近两年、不同期次的论文样例支持适配。
+
+每批运行 pnpm report:coverage，检查正式 ID 关联及薄弱方向，补核验日志并完成上方检查。报告和版本文件由脚本生成，无需提交。推送后确认对应 Pages 工作流及线上版本，不能仅以 push 成功判断部署结果。
+
+New leads may enter the [candidate backlog](docs/CANDIDATES.md) before qualifying for the catalog. Search names, ISSNs and aliases first, and link every admitted edition to its candidate. Keep unresolved leads pending or deferred with explicit reasons. Follow the Q1/Q2 or verified EI engineering-supplement admission path; distinguish publisher indexing claims from database verification and support cross-disciplinary relevance with scope evidence and article examples. Run the coverage report, update the audit log, complete relevant checks, and confirm Pages deployment after each push.
