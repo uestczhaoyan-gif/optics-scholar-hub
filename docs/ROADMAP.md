@@ -4,13 +4,13 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **65 本期刊、17 届会议、7 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **65 本期刊、19 届会议、7 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 17 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 19 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 11 September 2026 against commit `074eda7`. The catalog contains 65 journals, 17 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 11 September 2026 against commit `074eda7`. The catalog contains 65 journals, 19 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE has 17 and EI has 18 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -83,3 +83,7 @@ Wiley 四本期刊逐刊复核：Advanced Science、Angewandte 新增 SCIE/EI �
 ### 2026-09-13：批次 B 临近事项
 
 补齐 OPTIC 2026 Poster-Only 的 9 月 14–30 日窗口；复核 FiO PDP 通知、Laser Congress PDP 截止，与目录一致。Photonics West 官方正文读取受限，留待后续核实。
+
+### 2026-09-13：会议覆盖第二批
+
+新增 OECC & IP 2027 联合会议和 OGC 2026 历史届次。两者与展览关系、独立投稿规则及官网待完善信息已分别记录。ICOCN 初期 CFP 与首页会议月份存在差异，待核对最终日程后再收录。

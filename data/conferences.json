@@ -845,5 +845,140 @@
         "source": "https://www.conf.tw/site/page.aspx?lang=en&pid=51&sid=1696"
       }
     ]
+  },
+  {
+    "id": "oecc-ip-2027",
+    "series": "OECC & IP",
+    "year": 2027,
+    "name": "光电子与通信暨信息光子学联合会议",
+    "nameEn": "OptoElectronics and Communications Conference & Information Photonics 2027",
+    "region": "中国境内",
+    "location": "中国台湾 · 台中",
+    "venue": "The Splendor Hotel Taichung",
+    "start": "2027-07-04",
+    "end": "2027-07-08",
+    "topics": [
+      "光通信",
+      "集成光子",
+      "量子光学",
+      "成像与计算光学",
+      "传感与测量"
+    ],
+    "description": "OECC 与 IP 联合举办，覆盖光通信器件、光纤网络、量子与硅光，以及成像、计量和信息处理；按一项联合会议记录。",
+    "website": "https://oeccip2027.org/",
+    "notice": "https://www.oeccip2027.org/pages/39",
+    "registration": "https://oeccip2027.org/pages/42",
+    "checkedAt": "2026-09-13",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "常规稿提交 35 词英文摘要及 3 页论文；参考文献可延至第 4 页，致谢不能超过第 3 页。使用大会模板，不修改版式。",
+      "通过官方系统上传符合 IEEE Xplore 格式的 PDF；PDF eXpress 检查不等于投稿。模板下载、提交按钮及 PDF eXpress ID 尚待实际启用或公布。",
+      "PDP 面向普通截止后出现的突出新成果；篇幅以 PDP 模板为准，不把常规稿规则自动套用。录用稿至少一位作者按时注册并报告。"
+    ],
+    "publication": "官方指南说明未完成注册或报告的稿件可能被排除于论文集及 IEEE Xplore 送审；拟送审不等于已经检索。",
+    "notes": "普通投稿计划 2026 年 11 月 1 日开始，PDP 计划 2027 年 5 月 24 日开始；不声称系统当前开放。作者注册 5 月 23 日与早鸟 5 月 30 日不同。注册页有 2025 年旧活动残留，未录入该活动或未明确币种的费用。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止",
+        "date": "2027-02-21",
+        "source": "https://oeccip2027.org/pages/38"
+      },
+      {
+        "type": "notification",
+        "label": "普通稿录用通知",
+        "date": "2027-04-30",
+        "source": "https://oeccip2027.org/pages/38"
+      },
+      {
+        "type": "registration",
+        "label": "普通稿作者注册截止",
+        "date": "2027-05-23",
+        "source": "https://oeccip2027.org/pages/38"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2027-05-30",
+        "source": "https://oeccip2027.org/pages/42"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 截止",
+        "date": "2027-06-16",
+        "source": "https://oeccip2027.org/pages/38"
+      },
+      {
+        "type": "notification",
+        "label": "PDP 录用通知",
+        "date": "2027-06-30",
+        "source": "https://oeccip2027.org/pages/38"
+      },
+      {
+        "type": "registration",
+        "label": "PDP 作者注册截止待公布",
+        "date": null,
+        "source": "https://oeccip2027.org/pages/40"
+      }
+    ]
+  },
+  {
+    "id": "ogc-2026",
+    "series": "OGC",
+    "year": 2026,
+    "name": "第十一届全球光电大会",
+    "nameEn": "11th Optoelectronics Global Conference",
+    "region": "中国境内",
+    "location": "中国 · 深圳",
+    "venue": "深圳国际会展中心（宝安）",
+    "start": "2026-09-08",
+    "end": "2026-09-11",
+    "topics": [
+      "综合光学",
+      "光通信",
+      "集成光子",
+      "生物医学光学",
+      "成像与计算光学"
+    ],
+    "description": "连接学术与光电产业的会议，覆盖激光、光通信、超材料、量子、光纤、生医光学及硅光等专题；与 CIOE 同期但具有独立投稿和论文出版流程。",
+    "website": "https://ipsogc.org/",
+    "notice": "https://ipsogc.org/sub.html",
+    "registration": "https://ipsogc.org/reg.html",
+    "checkedAt": "2026-09-13",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "英文写作与报告；通过官网链接的 EasyChair 提交原创未发表稿件，使用大会全文模板。",
+      "全文至少 2 页，基本注册覆盖至 5 页（含图表与参考文献），超过部分另收费；按审稿意见提交终稿。"
+    ],
+    "publication": "官方说明录用且报告的全文进入论文集，并在符合范围与质量要求后提交 IEEE Xplore；本轮未验证论文集实际上线或 EI 收录。",
+    "notes": "历史届次，按官网日程已结束。首页投稿截止为 7 月 15 日、通知为 8 月 5 日；旧 date.html 仍显示 6 月 15 日、7 月 15 日，保留此差异并以首页更新表为当前记录。8 月 15 日依据注册页为早鸟截止，不当作全部注册关闭。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "首页公布的论文截止",
+        "date": "2026-07-15",
+        "source": "https://ipsogc.org/"
+      },
+      {
+        "type": "notification",
+        "label": "首页公布的录用通知",
+        "date": "2026-08-05",
+        "source": "https://ipsogc.org/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2026-08-15",
+        "source": "https://ipsogc.org/reg.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "终稿截止",
+        "date": "2026-08-31",
+        "source": "https://ipsogc.org/"
+      }
+    ]
   }
 ]

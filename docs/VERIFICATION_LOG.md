@@ -248,3 +248,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [OPTIC 作者指南](https://optic2026.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696)的 Important Dates 明确 Poster-Only 为 2026/09/14–09/30；补日期级截止 9 月 30 日，窗口起点写入标签与备注。未挪用普通稿精确时间；保留学生奖限制。仅局部核验，整条 checkedAt 不变。
 - [FiO 时间线](https://www.frontiersinoptics.com/submissions/author-timeline)确认 PDP 通知为 9 月 18 日；[Laser Congress 征稿页](https://www.optica.org/events/congress/laser_congress/submit_papers/)确认 PDP 为 9 月 22 日 12:00 EDT（UTC−04:00）、35 词摘要与 2 页 summary，均与已有记录一致。
 - Photonics West 2027 官方主页及征稿指南本次仅返回 iframe，仍需取得可读的当届官方正文；不使用第三方检索摘要直接填日期。
+
+## 2026-09-13：OECC & IP 2027、OGC 2026
+
+- OECC & IP：核对[时间线](https://oeccip2027.org/pages/38)、[普通稿](https://www.oeccip2027.org/pages/39)、[PDP](https://oeccip2027.org/pages/40)、[注册](https://oeccip2027.org/pages/42)和[举办信息](https://oeccip2027.org/pages/15)。联合会议只计一条；日期级不补时刻。模板和系统按钮尚有占位，注册页旧 2025 活动不迁入；作者注册早于早鸟，分别记录。
+- OGC：核对[首页](https://ipsogc.org/)、[投稿](https://ipsogc.org/sub.html)、[注册](https://ipsogc.org/reg.html)。首页与旧日期页不一致，备注保留差异；当前日期记录依首页。仅按日程作历史记录，不声称已实查论文集上线。
+- 当前 65 本期刊、19 届会议、7 项展会/论坛。
