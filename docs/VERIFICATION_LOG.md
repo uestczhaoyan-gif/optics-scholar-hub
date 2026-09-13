@@ -300,3 +300,7 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 技术摘要 200–300 词、日程简介 50–150 词、报告人简介最多 1000 字符含空格。分会特殊要求另外核验；共同日程不是每个分会的最终报告安排。
 - 注册仅公布 2026 年 10 月，上传开放 11/30；注册截止未知，实际注册入口未确认。官方仍显示征稿开放字样，但原共同截止已过，不推定所有分会接受补投或全部关闭。
 - BiOS Expo 与 Photonics West Exhibition 分别为 1/30–31 和 2/2–4，仅作关系说明；本批未增加展览记录或把会议群拆成数百个条目。出版与数据库合作声明不等于具体稿件已检索。
+
+## 2026-09-14 — 中国光学投稿指南与系统迁移
+
+通过浏览器读取[征稿细则](https://www.chineseoptics.net.cn/news/tougaoxuzhi.htm)、[2026-06-25 系统迁移通知](https://www.chineseoptics.net.cn/news/index_tabliod/d1332564-e72b-414d-9451-9e3a0a05d662.htm)及[版面费通知](https://www.chineseoptics.net.cn/news/xinxidongtai/c4aae910-5943-4b15-8d03-5d2bbb240f2a.htm)。补 Word、签字版权/保密材料、三审及新旧稿分流；500 元/页明确为 2024-03-01 生效的公开通知，未保证当前账单。摘要字数、篇幅及预印本政策未核实。仅更新投稿说明，保留整刊与索引核验日期。

@@ -4177,7 +4177,7 @@
     "topics": ["综合光学", "光学设计与制造", "集成光子"],
     "description": "兼收光学研究与综述，覆盖超表面、光通信、微纳光学、仪器和光学制造。原《中国光学》于 2022 年更为现名，按 EI 工程补充收录。",
     "website": "https://www.chineseoptics.net.cn/",
-    "guide": "https://www.chineseoptics.net.cn/",
+    "guide": "https://www.chineseoptics.net.cn/news/tougaoxuzhi.htm",
     "checkedAt": "2026-09-13",
     "rankings": [],
     "indexes": [
@@ -4213,10 +4213,11 @@
       }
     ],
     "requirements": [
-      "从期刊官网进入作者指南与投审稿系统，按当前稿型准备；本轮核对刊名、刊号、范围和 EI 收录声明。",
-      "官网正文读取受限，尚未核实当前篇幅、摘要长度、模板、预印本政策和具体提交入口；保留官网入口，不使用代投网站规则。"
+      "2026-09-14 核对官方征稿细则：接收光学及光电子相关原创论文与综述，在线提交 Microsoft Word 稿件；同时上传作者签字的版权转让协议与保密证明，具体文件采用官网当前模板。",
+      "2026-06-26 起的新稿使用 SciCloud（https://www.scicloudcenter.com/CO）；此前投稿继续在原 ScholarOne 系统处理。迁移通知：https://www.chineseoptics.net.cn/news/index_tabliod/d1332564-e72b-414d-9451-9e3a0a05d662.htm 。",
+      "实行同行评议及三审流程，按审稿意见修改，必要时复审，由执行主编终审；禁止一稿多投。未在本次可读细则中核实统一篇幅、摘要字数或预印本政策，不套用第三方旧规则。"
     ],
-    "publishing": "具体审稿费、版面费及出版选择待核实，以当前编辑部通知为准。",
+    "publishing": "官网 2024-02-26 发布的收费通知载明：自 2024-03-01 起版面费 500 元/页；2026-09-14 复核该通知仍公开，实际金额以编辑部当前确认和账单为准。来源：https://www.chineseoptics.net.cn/news/xinxidongtai/c4aae910-5943-4b15-8d03-5d2bbb240f2a.htm 。出版许可与版权条款请阅读当前协议。",
     "schedule": "主办学会介绍为双月刊；频次不等于审稿或录用周期。"
   },
   {
