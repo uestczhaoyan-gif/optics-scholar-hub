@@ -316,3 +316,7 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 ## 2026-09-14 — Advanced Optical Materials 投稿规则
 
 [本刊官方指南](https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/author-guidelines)补稿型常见篇幅与摘要要求、非邀稿综述、Free Format、预印本及返修材料，未将典型字数当作硬上限。[索引页](https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/productinformation.html)仍明确 SCIE，更新该字段日期；未列 EI，保留待核验。此次不刷新整刊核验日期、收费或分区。InfoMat 索引页仍无法读取，无新增肯定记录。
+
+## 2026-09-14 — Nature Electronics 交叉适配样例
+
+新增三篇 2025 年 Article，分别位于第 8 卷第 4、7、11 期，符合本轮近两年且不同期次的样例要求。出版社公开摘要/文章目录支持微梳光电同步、CMOS 量子光源控制、Stokes 偏振探测三类光学关联；Crossref 出版社登记元数据核对刊名、题名、DOI、在线日期及期次。后两篇全文页面重定向失败，未声称读取受限全文；证据只用于选题适配，不更新分区或索引。元数据入口：`https://api.crossref.org/works/` 加各篇 DOI，论文直达链接见正式条目。

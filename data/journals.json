@@ -2409,7 +2409,27 @@
       "初投无需按最终版式排版，可使用 PDF、Word 或 TeX/LaTeX；LaTeX 应提交编译后的 PDF。",
       "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
     ],
-    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。"
+    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。",
+    "scopeExamples": [
+      {
+        "title": "Microcomb-synchronized optoelectronics",
+        "source": "https://www.nature.com/articles/s41928-025-01349-7",
+        "publishedAt": "2025-02-25",
+        "relevance": "第 8 卷第 4 期：微梳为光电系统提供共同时间频率参考，结合光子芯片与电子时钟，适配集成光子、微波光子及通感系统研究。"
+      },
+      {
+        "title": "Scalable feedback stabilization of quantum light sources on a CMOS chip",
+        "source": "https://www.nature.com/articles/s41928-025-01410-5",
+        "publishedAt": "2025-07-14",
+        "relevance": "第 8 卷第 7 期：CMOS 芯片集成量子光子对源及反馈控制电子学，适配量子光源、微环器件和光电集成。"
+      },
+      {
+        "title": "Metaphotonic photodetectors for direct Stokes quantification",
+        "source": "https://www.nature.com/articles/s41928-025-01481-4",
+        "publishedAt": "2025-10-20",
+        "relevance": "第 8 卷第 11 期：超构光子探测器直接测量 Stokes 参量，体现光场偏振设计与光电探测的交叉。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
