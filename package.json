@@ -15,7 +15,8 @@
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
     "validate:data": "node scripts/validate-data.mjs",
     "check:sources": "node scripts/check-sources.mjs",
-    "report:maintenance": "node scripts/report-maintenance.mjs"
+    "report:maintenance": "node scripts/report-maintenance.mjs",
+    "report:coverage": "node scripts/report-coverage.mjs"
   },
   "dependencies": {
     "react": "19.2.6",

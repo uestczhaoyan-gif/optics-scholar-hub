@@ -215,3 +215,7 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 ## English summary
 
 This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. As of 11 September 2026, the production catalog contains 65 journals, 19 conference editions, and 7 separate exhibition/forum records (including parent and child events). The execution table distinguishes admitted records from pending candidates; remaining names are discovery leads, not verified entries.
+
+### 2026-09-13：候选管理与覆盖报告已实现
+
+已整理 [结构化候选清单](CANDIDATES.md)，262 项区分已有正式条目、待核验和暂缓；名称/别名、关联类型、状态一致性进入数据校验。新增 `pnpm report:coverage` 并接入 CI 附件，报告以当前受控方向统计，区分系列/届次和母子活动。批次 G 的管理基础完成；候选逐项审核与更细方向覆盖仍需持续推进。全部 25 项测试通过。

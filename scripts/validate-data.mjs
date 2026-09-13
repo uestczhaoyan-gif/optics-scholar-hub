@@ -1,3 +1,4 @@
+import { validateCandidates } from './coverage.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import { validateJournalMetadata } from './validate-journal.mjs';
@@ -175,3 +176,5 @@ if (config.repository) url(config.repository);
 console.log(
   `Validated ${journals.length} journals and ${conferences.length} conferences.`,
 );
+
+validateCandidates(read('candidates'), { journals, conferences, events });

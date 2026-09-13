@@ -8,6 +8,8 @@
 
 用户指定的 [54 本期刊清单](docs/REQUESTED_JOURNALS.md) 已全部收录；首页提供 [中科院期刊分区表](https://www.fenqubiao.com/) 与 [JCR](https://jcr.clarivate.com/) 官方查询入口。收录完成不代表所有年度分区和当前索引已核实。
 
+候选审核与覆盖统计见 [候选管理说明](docs/CANDIDATES.md)，可运行 `pnpm report:coverage`。
+
 ### 当前功能
 
 后续建设见 [分步规划](docs/ROADMAP.md)，本轮核验范围见 [官方复核记录](docs/VERIFICATION_LOG.md)，日常操作见 [维护手册](docs/MAINTENANCE.md)。

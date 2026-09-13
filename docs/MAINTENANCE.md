@@ -34,3 +34,7 @@ GitHub Pages 使用仓库子路径 `/optics-scholar-hub`。本地模拟构建时
 ## English
 
 Run `pnpm report:maintenance` for an offline task queue. Review imminent events first, then unknown dates, registration links, stale entries and ranking evidence. The daily source report maps each URL to every affected record and field. A changed hash is a review signal, not a verified fact; blocked requests never prove a dead link. Log partial reviews without refreshing the whole record's review date. Validate, test, build and confirm both GitHub Actions build and deployment after pushing. Generated reports and caches are ignored by Git and retained as Actions artifacts for 30 days.
+
+## 候选与方向覆盖
+
+运行 `pnpm report:coverage` 生成覆盖报告与候选待办，或查看 CI 的 maintenance-queue 附件；维护规则见 [候选说明](CANDIDATES.md)。正式条目新增或改名时同步候选关联。`pnpm validate:data` 同时检查候选身份、类型和状态一致性。
