@@ -1,25 +1,25 @@
 # 后续工作规划 / Roadmap
 
-更新：2026-09-12；本次对照基线：`074eda7`。以当前 JSON、代码、工作流及核验日志为依据；2026-09-12 已完成批次 D：展会/论坛离线维护队列；随后完成批次 A 首组 3 本期刊的 6 条索引证据；未新增期刊或活动条目。
+更新：2026-09-13；本次基于当前 JSON、代码、工作流及核验日志汇总；逐批执行结果见文末。
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **68 本期刊、19 届会议、7 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **68 本期刊、20 届会议、7 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 19 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 20 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
 | 日历、分享筛选、本地关注、审核统计 | 已实现；现有 25 项自动测试                    | 随新增字段补必要测试，不重复开发                         |
-| 广覆盖候选池和审核流程             | 已有 Markdown 候选池及审核规则                | 规范状态、身份、适配证据和待办，不将候选数量算成正式收录 |
+| 广覆盖候选池和审核流程             | 已有 262 项结构化候选及审核规则               | 规范状态、身份、适配证据和待办，不将候选数量算成正式收录 |
 
 ## 数据缺口快照
 
-统计自 2026-09-12 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或当前数据库覆盖已确认。
+统计自 2026-09-13 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或当前数据库覆盖已确认。
 
 | 项目                   | 已有记录的期刊数 | 尚需处理                                                                              |
 | ---------------------- | ---------------- | ------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问�
 | G / P2：候选与覆盖管理                 | 将原候选池区分已收录、待核验、暂缓、历史；逐步保存别名、ISSN/系列 ID、方向、下一步和暂缓原因；建立方向覆盖矩阵           | 已收录条目指向正式 ID，避免反复检索和重复添加；矩阵分开统计期刊、会议系列/届次与展会/论坛              |
 | H / P3：共建与体验回归                 | 完善贡献说明，检查手机端标签、键盘筛选、分享链接、收藏与刷新后的状态；按实际问题修复                                     | 数据提交能沿模板审核；仅对发现的问题修改与补测，不新增无明确需求的账户、订阅或通知系统                 |
 
-A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 先用清单落地，再决定是否需要结构化候选文件。所有批次都执行发布验收，而不是等 H 才上线。
+A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 的结构化候选与覆盖报告已落地，继续逐项审核。所有批次都执行发布验收，而不是等 H 才上线。
 
 完整候选系列与研究人群见 [扩充计划](EXPANSION_PLAN.md)；它是发现池，不是已核实的当届日历。
 
@@ -62,11 +62,11 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 11 September 2026 against commit `074eda7`. The catalog contains 68 journals, 19 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 13 September 2026 from the current catalog and verification log. The catalog contains 68 journals, 20 conference editions and 7 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 56 journals and CAS records for 10. SCIE has 17 and EI has 21 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
 
-Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. This update documents future work only.
+Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. Completed batches are recorded below; remaining tasks stay explicitly open.
 
 ## 2026-09-12 执行记录
 
@@ -95,3 +95,7 @@ Wiley 四本期刊逐刊复核：Advanced Science、Angewandte 新增 SCIE/EI �
 ### 2026-09-13：中文 EI 补充
 
 新增《中国激光》《光学学报》《激光与光电子学进展》，按主办单位 EI 声明准入，ESCI 单独记录。三刊未补造分区，完整投稿指南继续待核验；候选状态已同步。当前 68 本期刊。
+
+### 2026-09-13：ICOCN 历史届次补齐
+
+最终日程确认 7 月 20–23 日及西宁会场，解决初期 CFP 的月份冲突，新增 ICOCN 2026。保留超页、模板版本和退款日期的官网问题，后续届次继续跟踪。当前 20 届会议。

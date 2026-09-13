@@ -260,3 +260,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [上海光机所杂志社介绍](https://www.siom.cas.cn/xscbw_1/jj/201904/t20190417_5276174.html)公开检索快照逐刊列明 EI、ESCI；正文直接读取超时，因此仅保存出版社声明，不冒充数据库直查。页面路径年份不作为当前收录覆盖起点。
 - [中国激光](https://hpl.opticsjournal.net/J/zgjg/Issues.html)、[光学学报](https://f.opticsjournal.net/J/gxxb/Issues.html)、[激光与光电子学进展](https://prj.opticsjournal.net/j/lop/issues.html)刊号、出版单位及作者服务导航已读取。正式主页及指南深链接直读受限，guide 暂指向带作者服务导航的官方刊物页面。
 - 不照搬旧稿约或代投网站要求；SCIE 未确认，rankings 为空，走 EI 补充准入。光学学报与网络版区分；定价不是版面费。当前期刊 68 本，EI 21 本、SCIE 17 本、ESCI 6 本具有出版社肯定声明。
+
+## 2026-09-13 — ICOCN 2026 历史届次
+
+- [首页](https://www.icocn.org.cn/)：延期投稿 5/24、通知 5/31、早鸟 6/15、PDP 6/30；日期未附时刻，均按日期保存。
+- [最终日程](https://icocn.org.cn/static/upload/file/20260716/1784181294166799.pdf)：成功下载并读取第 1–3 页；第 1 页明确 2026/7/20–23、Xining Sapphire Hotel，与首页一致，优先于 1 月初期 CFP 的 6 月写法。
+- [作者指南](https://www.icocn.org.cn/?pages_18/=)：PDF、3 页、摘要/全文和参奖区别。模板链接实际指向 2024 子站，未冒充当届模板已核实。
+- [注册页](https://icocn.org.cn/?pages_34/=)：早鸟 6/15；超页收费与指南 3 页上限表述不同，退款 June 31 非有效日期，均明确披露、不推断更正。
+- 官网送交 IEEE/EI 的声明不等于本轮核实了实际收录；只收录历史届次，没有据此生成 2027 日期。候选状态同步。

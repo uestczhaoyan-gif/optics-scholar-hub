@@ -270,12 +270,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光通信与网络",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.icocn.org.cn/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["icocn-2026"],
+    "decisionReason": "最终技术日程确认 2026 年 7 月 20–23 日及西宁会场，按历史届次收录。",
+    "nextAction": "关注下一届官方通知；作者指南超页规则、模板版本与退款日期仍有官网表述问题，未自行修正。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "conference-series-1027a7838c",

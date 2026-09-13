@@ -980,5 +980,58 @@
         "source": "https://ipsogc.org/"
       }
     ]
+  },
+  {
+    "id": "icocn-2026",
+    "series": "ICOCN",
+    "year": 2026,
+    "name": "第二十四届国际光通信与网络会议",
+    "nameEn": "24th International Conference on Optical Communications and Networks",
+    "region": "中国境内",
+    "location": "中国 · 西宁",
+    "venue": "Xining Sapphire Hotel",
+    "start": "2026-07-20",
+    "end": "2026-07-23",
+    "topics": ["光通信", "集成光子", "传感与测量", "激光与非线性"],
+    "description": "面向光纤器件、传输系统、光网络、微波光子与空间通信等方向的国际会议，提供邀请、口头与张贴报告。",
+    "website": "https://www.icocn.org.cn/",
+    "notice": "https://www.icocn.org.cn/?pages_18/=",
+    "registration": "https://icocn.org.cn/?pages_34/=",
+    "checkedAt": "2026-09-13",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "可提交仅作报告的摘要；拟出版全文须上传 PDF，并按官网模板准备。参评奖项须在规定截稿日期内提交全文。",
+      "作者指南要求全文不超过 3 页；注册页另列超页费，二者对是否允许超页表述不一致，不能据此认定可超页投稿。",
+      "指南中的模板链接指向 2024 子站；历史作者应向秘书处确认适用版本。摘要后补全文须在会议召开前完成，未明确具体截止时刻。"
+    ],
+    "publication": "官网声明录用论文将提交 IEEE Xplore 并被 EI Compendex 检索；此处记录主办方声明，尚未核对实际论文集及数据库收录。仅摘要报告不等于全文出版。",
+    "notes": "历史届次。最终日程第 1 页与首页均为 7 月 20–23 日，覆盖初期 CFP 的 6 月冲突；日程来源：https://icocn.org.cn/static/upload/file/20260716/1784181294166799.pdf。官网延期截稿为 5 月 24 日。注册页退款条款写有不存在的 June 31，未录入退款截止；也不把早鸟截止当作全部注册关闭。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "延期后的投稿截止",
+        "date": "2026-05-24",
+        "source": "https://www.icocn.org.cn/"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知",
+        "date": "2026-05-31",
+        "source": "https://www.icocn.org.cn/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2026-06-15",
+        "source": "https://icocn.org.cn/?pages_34/="
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 投稿截止",
+        "date": "2026-06-30",
+        "source": "https://www.icocn.org.cn/"
+      }
+    ]
   }
 ]
