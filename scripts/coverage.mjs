@@ -73,6 +73,14 @@ export function validateCandidates(candidates, catalogs) {
       linked.add(id);
     }
   }
+  for (const catalog of Object.values(catalogFor)) {
+    for (const record of catalogs[catalog] || []) {
+      assert(
+        linked.has(record.id),
+        `Formal record missing candidate link: ${record.id}`,
+      );
+    }
+  }
 }
 
 export function coverageRows(catalogs, topics, today) {

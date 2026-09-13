@@ -23,6 +23,7 @@ jobs:
           key: source-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: source-
       - run: node scripts/report-maintenance.mjs
+      - run: node scripts/report-coverage.mjs
       - run: node scripts/check-sources.mjs
       - uses: actions/cache/save@v4
         with:

@@ -21,7 +21,13 @@ const candidate = {
   reviewedAt: null,
 };
 test('candidate admission requires valid unique formal links and unambiguous identities', () => {
-  assert.doesNotThrow(() => validateCandidates([candidate], catalogs));
+  assert.doesNotThrow(() =>
+    validateCandidates([candidate], { ...catalogs, journals: [] }),
+  );
+  assert.throws(
+    () => validateCandidates([candidate], catalogs),
+    /Formal record missing candidate link: j/,
+  );
   assert.throws(() =>
     validateCandidates([{ ...candidate, reviewStatus: 'admitted' }], catalogs),
   );
