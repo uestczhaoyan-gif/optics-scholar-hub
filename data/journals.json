@@ -979,10 +979,11 @@
     "topics": ["光学材料", "电子与器件"],
     "description": "关注光学材料、超材料、纳米结构及器件，适合同时讨论材料机制和光学性能的工作。",
     "website": "https://advanced.onlinelibrary.wiley.com/journal/21951071",
-    "guide": "https://advanced.onlinelibrary.wiley.com/journal/21951071",
+    "guide": "https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/author-guidelines",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-09-14 核对本刊指南：研究论文通常全文 3000–8000 词、3–8 个图表；综述通常 10000–20000 词、5–15 个图表，均为常见范围而非硬上限。摘要最多 200 词，关键词 3–7 个。",
+      "综述允许非邀稿投稿，主题须适合跨学科读者。新稿支持 Free Format，使用可编辑稿件并单独提交补充材料，准备 ORCID、数据可用性及相关伦理声明；核心材料的结构与组成需披露。",
+      "接受非营利社区预印本平台上的原始投稿版本及学位论文，其他既有发表由编辑判断。返修提交逐条回复、标色修改稿和无标记清稿；模板及具体数据报告清单见官方指南。"
     ],
     "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -1050,7 +1051,7 @@
         "status": "confirmed",
         "evidence": "publisher",
         "source": "https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/productinformation.html",
-        "checkedAt": "2026-09-10",
+        "checkedAt": "2026-09-14",
         "coverageStart": null,
         "coverageEnd": null,
         "note": "出版社公开页面列出该索引；尚未通过数据库机构入口复核，覆盖起止未核实。"
@@ -1063,7 +1064,7 @@
         "checkedAt": null,
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+        "note": "2026-09-14 读取出版社索引清单，未列 EI Compendex；缺席不等于未收录，继续待数据库核验。"
       }
     ]
   },

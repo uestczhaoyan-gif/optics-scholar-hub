@@ -312,3 +312,7 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 ## 2026-09-14 — 葡萄牙 AOP 2026
 
 [大会官网](https://aop2026.org/)与[Indico](https://indico.fccn.pt/event/55/)确认 7/7–10、ISEL 校区。[投稿页](https://aop2026.org/submissions.html)明确 2500 字符摘要、全文评审与分开的出版渠道；[首轮公告](https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf)保留通知、早鸟和全文日期。摘要三处日期不一致（首轮 4/30、投稿页 5/15、平台会后 8/1 且有占位文案），最终截止留空。合作期刊宣传的 Q 值未写入期刊分区。
+
+## 2026-09-14 — Advanced Optical Materials 投稿规则
+
+[本刊官方指南](https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/author-guidelines)补稿型常见篇幅与摘要要求、非邀稿综述、Free Format、预印本及返修材料，未将典型字数当作硬上限。[索引页](https://advanced.onlinelibrary.wiley.com/hub/journal/21951071/productinformation.html)仍明确 SCIE，更新该字段日期；未列 EI，保留待核验。此次不刷新整刊核验日期、收费或分区。InfoMat 索引页仍无法读取，无新增肯定记录。
