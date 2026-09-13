@@ -308,3 +308,7 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 ## 2026-09-14 — AOPC 2026
 
 [主办学会当届官网](https://b2b.csoe.org.cn/meeting/WPC2026.html)确认 7/17–19 北京国家会议中心二期，300–500 词英文摘要，最后一轮 6/20、全文 7/31。顶部早鸟 6/30 与费用表 6/20 不一致，未选一个作为确定日期。会议通知 PDF 本轮无法读取，以网页明确正文为依据；合作出版列表不作为单篇检索或录用证明。
+
+## 2026-09-14 — 葡萄牙 AOP 2026
+
+[大会官网](https://aop2026.org/)与[Indico](https://indico.fccn.pt/event/55/)确认 7/7–10、ISEL 校区。[投稿页](https://aop2026.org/submissions.html)明确 2500 字符摘要、全文评审与分开的出版渠道；[首轮公告](https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf)保留通知、早鸟和全文日期。摘要三处日期不一致（首轮 4/30、投稿页 5/15、平台会后 8/1 且有占位文案），最终截止留空。合作期刊宣传的 Q 值未写入期刊分区。

@@ -1164,5 +1164,57 @@
         "source": "https://b2b.csoe.org.cn/meeting/WPC2026.html"
       }
     ]
+  },
+  {
+    "id": "aop-2026",
+    "series": "AOP (SPOF)",
+    "year": 2026,
+    "name": "第七届国际光学与光子学应用会议",
+    "nameEn": "7th International Conference on Applications of Optics and Photonics (AOP 2026)",
+    "region": "海外",
+    "location": "葡萄牙 · 里斯本",
+    "venue": "ISEL Campus, Rua Conselheiro Emídio Navarro 1, 1957-007 Lisbon",
+    "start": "2026-07-07",
+    "end": "2026-07-10",
+    "topics": ["综合光学", "光学设计与制造", "电子与器件", "传感与测量"],
+    "description": "葡萄牙光学与光子学学会 SPOF 举办的应用光学系列会议，兼收原创研究与综述，强调产业应用及青年研究者交流。与中国 AOPC 为不同系列。",
+    "website": "https://aop2026.org/",
+    "notice": "https://aop2026.org/submissions.html",
+    "registration": "https://spf.sci-meet.org/register/AOP2026",
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "通过官方 Indico 平台提交自由格式摘要，最多 2500 字符（不是 2500 词）；入口：https://indico.fccn.pt/event/55/ 。",
+      "已报告工作的全文可另行申请收入会议论文集，使用官网 Word 或 LaTeX 模板并经过正式同行评审；摘要录用与全文录用分开。"
+    ],
+    "publication": "摘要集与经同行评审的全文分别由 i-ETC 出版；全文采用 Platinum OA、CC BY-NC 4.0，单篇 DOI。扩展稿可另投合作期刊专题，不承诺录用、分区或索引。",
+    "notes": "历史届次。首轮通知摘要截止为 4/30，投稿页为 5/15 23:59 GMT；Indico 又显示会后 8/1 截止且占位文本未更新，最终摘要截止留空。通知、早鸟及全文日期标明仅据首轮公告；注册页面需 JavaScript，本轮未核实费用。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要最终截止待核实（官方页面不一致）",
+        "date": null,
+        "source": "https://indico.fccn.pt/event/55/abstracts/"
+      },
+      {
+        "type": "notification",
+        "label": "首轮公告：录用通知",
+        "date": "2026-05-22",
+        "source": "https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf"
+      },
+      {
+        "type": "registration",
+        "label": "首轮公告：早鸟注册",
+        "date": "2026-06-07",
+        "source": "https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf"
+      },
+      {
+        "type": "camera-ready",
+        "label": "首轮公告：全文提交",
+        "date": "2026-09-11",
+        "source": "https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf"
+      }
+    ]
   }
 ]

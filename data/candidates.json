@@ -3699,5 +3699,19 @@
     "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
     "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
     "reviewedAt": null
+  },
+  {
+    "candidateId": "conference-series-aop-spof",
+    "name": "International Conference on Applications of Optics and Photonics (SPOF)",
+    "aliases": ["AOP (SPOF)"],
+    "kind": "conference-series",
+    "priority": 2,
+    "scopeHint": "葡萄牙学会主办的应用光学系列；不与 AOPC 合并。",
+    "sourceEntry": "https://aop2026.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["aop-2026"],
+    "decisionReason": "当届官网及 Indico 确認会期、校区与投稿出版流程；冲突摘要截止留空。",
+    "nextAction": "复核历史截止变更及后续届次；不以合作期刊宣传确定索引或分区。",
+    "reviewedAt": "2026-09-14"
   }
 ]
