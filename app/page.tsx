@@ -269,12 +269,18 @@ export default function Home() {
     };
   }, []);
   useEffect(() => {
-    const onHash = () => {
+    const onHash = (event?: HashChangeEvent) => {
       const value = location.hash.slice(1);
-      if (
-        ['conferences', 'journals', 'events', 'guide', 'data'].includes(value)
-      )
-        setTab(value);
+      const isCatalogTab = [
+        'conferences',
+        'journals',
+        'events',
+        'guide',
+        'data',
+      ].includes(value);
+      // Content anchors move focus without resetting the current filters.
+      if (event && !isCatalogTab) return;
+      if (isCatalogTab) setTab(value);
       const filters = readFilterLink(location.search, {
         topics: topicVocabulary,
         domains: journalDomains,
