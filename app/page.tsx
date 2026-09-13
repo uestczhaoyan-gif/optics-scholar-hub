@@ -428,7 +428,7 @@ export default function Home() {
           </a>
         )}
       </header>
-      <main className="shell" id="content">
+      <main className="shell" id="content" tabIndex={-1}>
         <div className="intro">
           <div>
             <div className="section-kicker">RESEARCH, IN FOCUS</div>
@@ -903,7 +903,7 @@ export default function Home() {
                 <p className="rail-note">
                   这是社区维护的精选目录，不是官方排名或收录保证。
                   <br />
-                  内容快照：{config.snapshotAt.slice(0, 10)}
+                  数据核验日期见各条目
                 </p>
               </aside>
             </div>

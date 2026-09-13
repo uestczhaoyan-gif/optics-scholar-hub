@@ -214,6 +214,9 @@ a:not(.brand):has(svg) {
 }
 .main-tabs {
   width: 100% !important;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
   justify-content: flex-start !important;
   border-bottom: 1px solid var(--border);
   height: 54px !important;
