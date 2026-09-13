@@ -53,3 +53,11 @@ test('invalid or stale filter values fall back without accepting unknown paramet
     '',
   );
 });
+
+test('ESCI survives shared links and remains distinct from SCIE', () => {
+  const filters = { ...filterDefaults, index: 'ESCI' };
+  const url = new URL(
+    writeFilterLink('https://example.org/project/', 'journals', filters),
+  );
+  assert.equal(readFilterLink(url.search, vocabulary).index, 'ESCI');
+});

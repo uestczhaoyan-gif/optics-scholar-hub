@@ -591,6 +591,7 @@ export default function Home() {
                       items={[
                         { value: 'all', label: '全部索引状态' },
                         { value: 'SCIE', label: 'SCI（SCIE）' },
+                        { value: 'ESCI', label: 'ESCI（独立索引）' },
                         { value: 'EI_COMPENDEX', label: 'EI（Compendex）' },
                         { value: 'both', label: 'SCI 与 EI 双收录' },
                         { value: 'unverified', label: '索引待核验' },

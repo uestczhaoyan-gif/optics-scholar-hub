@@ -40,7 +40,7 @@ export function readFilterLink(
     zone: ['Asia/Shanghai', 'UTC'],
     system: ['all', 'JCR', 'CAS'],
     collection: ['all', 'ranked', 'ei'],
-    index: ['all', 'SCIE', 'EI_COMPENDEX', 'both', 'unverified'],
+    index: ['all', 'SCIE', 'ESCI', 'EI_COMPENDEX', 'both', 'unverified'],
     domain: ['all', ...vocabulary.domains],
     year: ['all', ...vocabulary.years],
     level: ['minor', 'major'],
