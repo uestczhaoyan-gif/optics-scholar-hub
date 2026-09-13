@@ -268,3 +268,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [作者指南](https://www.icocn.org.cn/?pages_18/=)：PDF、3 页、摘要/全文和参奖区别。模板链接实际指向 2024 子站，未冒充当届模板已核实。
 - [注册页](https://icocn.org.cn/?pages_34/=)：早鸟 6/15；超页收费与指南 3 页上限表述不同，退款 June 31 非有效日期，均明确披露、不推断更正。
 - 官网送交 IEEE/EI 的声明不等于本轮核实了实际收录；只收录历史届次，没有据此生成 2027 日期。候选状态同步。
+
+## 2026-09-13 — 中文 EI 补充第二组
+
+- [中国光学学会介绍](https://www.cncos.org.cn/Content/view/id/110.html)：当前刊名、ISSN 2097-1842、2022 年更名、范围、双月刊及 EI/ESCI 声明均可读。网页的旧发布时间与正文新内容不同，未推断索引覆盖年份；其 JCR Q3 表述未明确发行版本，本批不生成分区记录，按 EI 路径收录。
+- [光学工程学会介绍](https://b2b.csoe.org.cn/special/show-4.html)及[期刊网](https://prj.opticsjournal.net/J/irla/Issues.html)：核对《红外与激光工程》ISSN 1007-2276、主办单位、月刊及范围。[SciEngine 期刊介绍](https://www.sciengine.com/IRLA/journal-introduction)检索快照明确 EI，直读 403；irla 官网及其收录栏目 502，保留出版社证据等级及限制。
+- 两刊官网当前作者指南未完整读取；不采用第三方转载的字数、审稿周期、版面费。未核实数据库当前覆盖，不虚构 SCIE 或分区。候选关联已同步。

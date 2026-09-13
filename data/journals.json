@@ -4131,5 +4131,101 @@
     ],
     "publishing": "审稿费、版面费及出版选择以本刊“审稿费&版面费”官方栏目为准，未把期刊零售价当作发表费用。",
     "schedule": "按期刊网当前标注为半月刊；出版频次不等于审稿周期，录用与刊出时间须另行向编辑部确认。"
+  },
+  {
+    "id": "chinese-optics",
+    "name": "中国光学（中英文）",
+    "abbr": "Chinese Optics",
+    "publisher": "中国科学院长春光学精密机械与物理研究所 · 中国光学学会",
+    "issn": "2097-1842",
+    "eissn": null,
+    "domains": ["光学"],
+    "topics": ["综合光学", "光学设计与制造", "集成光子"],
+    "description": "兼收光学研究与综述，覆盖超表面、光通信、微纳光学、仪器和光学制造。原《中国光学》于 2022 年更为现名，按 EI 工程补充收录。",
+    "website": "https://www.chineseoptics.net.cn/",
+    "guide": "https://www.chineseoptics.net.cn/",
+    "checkedAt": "2026-09-13",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无 SCIE 直查依据；不以 EI 或 ESCI 代替 SCIE。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.cncos.org.cn/Content/view/id/110.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "主办学会当前介绍正文明确 EI、ESCI；页面保留旧发布时间，不能据此确定收录起始年。未进行索引数据库直查。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.cncos.org.cn/Content/view/id/110.html",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "主办学会当前介绍正文明确 EI、ESCI；页面保留旧发布时间，不能据此确定收录起始年。未进行索引数据库直查。"
+      }
+    ],
+    "requirements": [
+      "从期刊官网进入作者指南与投审稿系统，按当前稿型准备；本轮核对刊名、刊号、范围和 EI 收录声明。",
+      "官网正文读取受限，尚未核实当前篇幅、摘要长度、模板、预印本政策和具体提交入口；保留官网入口，不使用代投网站规则。"
+    ],
+    "publishing": "具体审稿费、版面费及出版选择待核实，以当前编辑部通知为准。",
+    "schedule": "主办学会介绍为双月刊；频次不等于审稿或录用周期。"
+  },
+  {
+    "id": "infrared-laser-engineering",
+    "name": "红外与激光工程",
+    "abbr": "Infrared and Laser Engineering",
+    "publisher": "天津津航技术物理研究所 · 中国光学工程学会",
+    "issn": "1007-2276",
+    "eissn": null,
+    "domains": ["光学"],
+    "topics": ["激光与非线性", "光学设计与制造", "传感与测量", "电子与器件"],
+    "description": "面向红外、激光及光电工程，包含光学设计制造、器件、成像、测量和光通信等方向；按 EI 工程补充收录。",
+    "website": "https://www.irla.cn/",
+    "guide": "https://www.irla.cn/",
+    "checkedAt": "2026-09-13",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本轮无 SCIE 直查依据；不以 EI 或 ESCI 代替 SCIE。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.sciengine.com/IRLA/journal-introduction",
+        "checkedAt": "2026-09-13",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "SciEngine 期刊介绍公开检索快照标注 EI，正文直读返回 403；属于出版平台声明，数据库覆盖及起止年待直查。"
+      }
+    ],
+    "requirements": [
+      "从期刊官网进入作者指南与投审稿系统，按当前稿型准备；本轮核对刊名、刊号、范围和 EI 收录声明。",
+      "官网正文读取受限，尚未核实当前篇幅、摘要长度、模板、预印本政策和具体提交入口；保留官网入口，不使用代投网站规则。"
+    ],
+    "publishing": "具体审稿费、版面费及出版选择待核实，以当前编辑部通知为准。",
+    "schedule": "主办学会及期刊网标注月刊；未核实具体审稿周期。"
   }
 ]

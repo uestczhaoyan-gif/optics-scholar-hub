@@ -1649,12 +1649,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "中文期刊，按分区精选或已核实 EI 工程补充路径审核。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.irla.cn/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["infrared-laser-engineering"],
+    "decisionReason": "按已核实的出版社/主办单位 EI 声明，经工程补充路径收录；分区不作为本批准入依据。",
+    "nextAction": "补索引数据库直查与当前作者指南；不把受限正文视为已经全面核验。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-66834bd585",
@@ -1691,12 +1691,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "中文期刊，按分区精选或已核实 EI 工程补充路径审核。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.chineseoptics.net.cn/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["chinese-optics"],
+    "decisionReason": "按已核实的出版社/主办单位 EI 声明，经工程补充路径收录；分区不作为本批准入依据。",
+    "nextAction": "补索引数据库直查与当前作者指南；不把受限正文视为已经全面核验。",
+    "reviewedAt": "2026-09-13"
   },
   {
     "candidateId": "journal-80c920c572",
