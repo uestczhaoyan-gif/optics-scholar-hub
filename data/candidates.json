@@ -738,12 +738,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "区分国际会、地区会与 workshop",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.ewofs2027.org/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "当届首页已预告第九届 EWOFS，2027-09-07 至 09-10、葡萄牙阿威罗；投稿指南和场馆页仍显示 Developer Login，委员会未成功读取，保留候选继续核验。",
+    "nextAction": "等待官网公开委员会、会场和征稿页；重要日期页目前仅写 Available soon，不推测截止或出版形式。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-9ca5e7bc1a",

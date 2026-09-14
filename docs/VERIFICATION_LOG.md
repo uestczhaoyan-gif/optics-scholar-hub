@@ -400,3 +400,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [普通投稿页](https://ofs30.org/submission-information/)确认 35 词摘要、4 页全文、匿名审稿版、IOP 模板、Morressier、7/2 延期及 11/22 报告人注册。通知为 8 月上旬，保留日期未知。
 - [PDP 页](https://ofs30.org/post-deadline-papers/)仍有 TBD 与邮箱占位符，并称 SPIE 出版，与普通页 Journal of Physics 口径不同。没有宣称通道开放或统一出版渠道。
 - 首页 before Sept. 15 未明确包含哪一天及截止时区，早鸟截止留空并保留原意；未把首页 CFP coming soon 当成普通征稿尚未公布。
+
+## 2026-09-15：EWOFS 2027 候选入口
+
+- [首页](https://www.ewofs2027.org/)直接读取，第九届、阿威罗、2027-09-07 至 09-10 已预告。
+- [重要日期](https://www.ewofs2027.org/abstracts/important-dates)仍为 Available soon；[投稿指南](https://www.ewofs2027.org/abstracts/submission-guidelines)和[会场](https://www.ewofs2027.org/venue)返回开发登录页，未尝试登录。委员会读取失败，出版未核实。
+- 保存候选官方入口、当前已知信息和下一步核验条件，暂不新增正式会议。候选与正式目录数量不变。
