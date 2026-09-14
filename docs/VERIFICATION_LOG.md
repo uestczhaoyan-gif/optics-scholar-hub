@@ -374,3 +374,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [重要日期](https://www.irmmw-thz.org/key-dates/)区分普通摘要 5/1、通知 7/6、Late News 8/15。仅保存日期精度；签证预审和提前通知属于特殊通道，未混入普通截止。
 - [投稿指南](https://www.irmmw-thz.org/abstract-submission/)确认模板、PDF eXpress、Whova、两页终稿及原 paper ID；正文将终稿资格限于 5/1 前投稿且录用者，因此没有对晚新闻稿保证出版。
 - [注册规则](https://www.irmmw-thz.org/register/)明确后续费率、每位注册者最多三篇及现场报告归档条件；不把 Key dates 的 8/15 当作所有人的最终注册截止，不从 IEEE Xplore 推断 EI。
+
+## 2026-09-14：ICOLS XXVII 与 ICO-27 预告
+
+- [ICOLS 2027 官网](https://icols2027.com/)直接读取，确认 2027-07-12 至 07-16、K’gari 的 Kingfisher Bay Resort。页面明确摘要、注册和完整日程待公布；只开放意向登记，故 registration 留空，submissionState 为 unknown。未读取模板或声称已核实出版。
+- [中国光学学会主办权公告](https://www.cncos.org.cn/Content/view/id/1851.html)直接读取，确认 ICO-27 为 2027-08-22 至 08-26、北京。公告发布日期 2024-10-29，与本轮读取日期分开说明；不将其当作 CFP。具体场馆、投稿、注册及出版保留待核验。
+- ICOLS 的相同缩写搜索结果包含其他会议，ICO 也有眼科学等同名组织，均未混入本系列。正式会议由 25 增至 27，候选数量不变，仅同步两项收录关联。

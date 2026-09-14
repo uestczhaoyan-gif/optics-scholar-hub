@@ -794,12 +794,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学会官网、当届征稿与出版形式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.cncos.org.cn/Content/view/id/1851.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ico-27-2027"],
+    "decisionReason": "已取得官方当届会期及地点公告；征稿与注册未公布，正式记录明确保留未知。",
+    "nextAction": "核实下一轮通知、投稿要求、正式注册和出版安排。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-7cd884e8cb",
@@ -825,12 +825,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "基础与应用光谱的适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://icols2027.com/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["icols-2027"],
+    "decisionReason": "已取得官方当届会期及地点公告；征稿与注册未公布，正式记录明确保留未知。",
+    "nextAction": "核实下一轮通知、投稿要求、正式注册和出版安排。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-1301f6ef91",

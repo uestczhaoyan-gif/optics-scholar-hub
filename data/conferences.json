@@ -1350,5 +1350,83 @@
         "source": "https://www.irmmw-thz.org/register/"
       }
     ]
+  },
+  {
+    "id": "icols-2027",
+    "series": "ICOLS",
+    "name": "第 27 届国际激光光谱学会议",
+    "nameEn": "27th International Conference on Laser Spectroscopy (ICOLS XXVII)",
+    "region": "海外",
+    "location": "澳大利亚 · 昆士兰 K’gari",
+    "venue": "Kingfisher Bay Resort, K’gari",
+    "start": "2027-07-12",
+    "end": "2027-07-16",
+    "topics": ["量子光学", "传感与测量", "激光与非线性"],
+    "description": "聚焦精密测量、量子光学、超冷原子与分子、量子模拟、原子钟及激光光谱在基础物理中的应用。",
+    "website": "https://icols2027.com/",
+    "requirements": [
+      "官网尚未公布摘要格式、提交平台和评审规则，待正式征稿通知。"
+    ],
+    "publication": "当届论文集、出版形式与检索安排尚未公布。",
+    "notes": "当前仅开放接收后续通知的意向登记，不代表已完成会议注册，也不承诺参会。正式注册、摘要投稿和完整日程均待公布；不与同缩写的 Optics, Lasers and Spectroscopy 会议混同。",
+    "year": 2027,
+    "notice": "https://icols2027.com/",
+    "registration": null,
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要投稿截止待公布",
+        "date": null,
+        "source": "https://icols2027.com/"
+      },
+      {
+        "type": "registration",
+        "label": "正式注册安排待公布",
+        "date": null,
+        "source": "https://icols2027.com/"
+      }
+    ]
+  },
+  {
+    "id": "ico-27-2027",
+    "series": "ICO Congress",
+    "name": "第 27 届国际光学委员会大会",
+    "nameEn": "27th Congress of the International Commission for Optics (ICO-27)",
+    "region": "中国境内",
+    "location": "中国 · 北京",
+    "venue": "具体会场待公布",
+    "start": "2027-08-22",
+    "end": "2027-08-26",
+    "topics": ["综合光学"],
+    "description": "国际光学委员会的综合光学大会，中国光学学会已宣布获得本届主办权。与中国光学大会及眼科学组织 ICO 的会议分别记录。",
+    "website": "https://www.cncos.org.cn/Content/view/id/1851.html",
+    "requirements": [
+      "当前依据主办权公告记录会期与城市；未取得当届正式征稿、模板、篇幅或提交平台，待后续通知。"
+    ],
+    "publication": "当届论文集、出版形式和索引尚待核实，不沿用往届出版安排。",
+    "notes": "来源为中国光学学会 2024-10-29 公告，本轮重新读取确认；它不是正式征稿通知。具体场馆、注册费用及截止均未知，后续以主办方当届通知更新。",
+    "year": 2027,
+    "notice": "https://www.cncos.org.cn/Content/view/id/1851.html",
+    "registration": null,
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要投稿截止待公布",
+        "date": null,
+        "source": "https://www.cncos.org.cn/Content/view/id/1851.html"
+      },
+      {
+        "type": "registration",
+        "label": "正式注册安排待公布",
+        "date": null,
+        "source": "https://www.cncos.org.cn/Content/view/id/1851.html"
+      }
+    ]
   }
 ]
