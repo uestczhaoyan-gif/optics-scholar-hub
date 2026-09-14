@@ -1811,7 +1811,8 @@
     "requirements": [
       "从官网 Submit Your Manuscript 进入投稿系统；初投提交合并的正文 PDF，补充材料另存 PDF，使用 Word 或 LaTeX 准备可编辑源文件。",
       "Letter 正文不超过 3500 词；Comment / Response 不超过 1000 词。摘要、标题、作者、参考文献、图表、公式和致谢不计入此限；其他类型无统一篇幅上限，但编辑可能要求精简。",
-      "按指南准备作者声明、数据可用性声明和图件；仅与光子学边缘相关的数学计算问题，以及工程或材料上的渐进改进，不符合本刊范围。"
+      "按指南准备作者声明、数据可用性声明和图件；仅与光子学边缘相关的数学计算问题，以及工程或材料上的渐进改进，不符合本刊范围。",
+      "按 AIP 通用指南为图和表提供替代文本（alt text）；除 Letters 和 Comments 外，稿件应使用章节标题组织内容。"
     ],
     "publishing": "Gold Open Access，作者保留版权并按 Creative Commons 许可发表；APC、减免与机构协议以官网 Publication Charges 和 Waiver Policy 为准。",
     "schedule": "通过官网系统提交，专题另查征稿通知；官网历史平均处理天数不是个别稿件的承诺时限。",
@@ -2351,8 +2352,9 @@
     "website": "https://pubs.aip.org/aip/apr",
     "guide": "https://publishing.aip.org/resources/researchers/author-instructions/",
     "requirements": [
-      "原创研究应在 cover letter 中说明知识缺口、新颖性和结果意义，并按 AIP 作者指南准备文件。",
-      "综述多为邀稿；未受邀作者需说明选题及时性、作者专长，并提交官网 editorial summary 模板供编辑评估。"
+      "原创研究须随稿提供 cover letter，说明知识缺口、新颖性、结果意义并列出作者相关工作；研究范围以本刊 About 页面为准，通用指南 APR 段混有 CPR/chemical physics 字样，不据此改变本刊定位。",
+      "综述多为邀稿；未受邀作者需说明选题及时性、作者专长，并提交官网 editorial summary 模板供编辑评估。",
+      "使用 Word 或 LaTeX 准备源文件；初投提交合并正文 PDF，补充材料另存 PDF。图表需提供 alt text，并准备利益冲突、作者贡献和数据可用性声明。"
     ],
     "publishing": "混合开放获取，可选择订阅发表或 Author Select 开放获取；OA 收费及许可按官网最新政策。"
   },

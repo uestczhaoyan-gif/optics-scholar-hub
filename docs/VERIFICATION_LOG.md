@@ -343,3 +343,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [重要日期](https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html)：普通投稿 4 月 28 日（原 4 月 14 日）、通知不晚于 6 月 5 日、早鸟及普通报告人注册 6 月 15 日、追加海报 7 月 15 日；均仅日期精度。追加海报注册不套用更早的普通报告人截止。
 - [投稿指南](https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html)明确出版稿 2 页单栏、英文 PDF、170×250 mm 和事先选择出版意愿；模板总述 1–2 页与上传步骤 2 页存在口径差异，非出版一页稿保留待确认。录用、现场报告与论文集出版条件分开，Crossref 不等于 SCI/EI。
 - [报告指南](https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/information-for-presenters.html)用于确认口头 12+3 分钟及 A0 竖版要求，但海报场次行仍写 2025，未复制具体日期。候选变为 107 已收录、156 待审核、3 暂缓，总数 266 不变。同步扩充计划英文摘要此前遗漏的活动数量。
+
+## 2026-09-14：AIP 两刊作者指南补充
+
+- [APL Photonics About](https://pubs.aip.org/aip/app/pages/about)及[APR About](https://pubs.aip.org/aip/apr/pages/about)可读取，现有 JCR 2026 分区与网页一致，但未见明确 SCIE/EI 索引清单。未以影响因子或 Scopus 指标推断索引，索引记录和整刊 checkedAt 保持原值。
+- [AIP 作者指南](https://publishing.aip.org/resources/researchers/author-instructions/)核实初投正文 PDF、单独补充 PDF、图表 alt text 及声明；APP 除 Letters 和 Comments 外使用章节标题。补入相关期刊要求。
+- APR 专属段明确原创研究需 cover letter，但夹有 CPR/chemical physics 字样；保留明确的知识缺口、新颖性、意义和作者相关工作要求，并提示选题范围以 APR About 为准。未把通用页文字错误解释为本刊范围变更，也未复制其他 AIP 期刊篇幅规则。
