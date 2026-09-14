@@ -330,3 +330,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [NDTA 当届官方页面](https://b2b.csoe.org.cn/mobile/meeting/NDTA2026.html)已读到苏州市、11 月 13–15 日，地址和场馆仍为空。原待办中的“地点未核实”缩小为“具体场馆待核实”。中文投稿段要求英文摘要 300–500 词，英文段仍为 500–600 词；第二轮截稿为 9 月 30 日。注册费按 9 月 15 日前后区分，但当天档位未明确。本轮只补候选来源与审核结论，继续暂缓。
 - [CIOE 纳米压印详情](https://conference.cioe.cn/2026namiyayin.html)标头写 9 月 9 日、5 号馆二楼 5C，介绍正文仍写 9 月 10 日；[当届会议总表](https://conference.cioe.cn/ConferenceList.html)写 9 月 9 日下午。总表与标头一致不能证明冲突已获官方更正，继续等待最终通知或会后证据。搜索命中的 Conference-Guide.pdf 属于 2025 届，未用于确认 2026 日期。
 - 两项候选 sourceEntry 从空值补为可追溯的官方详情入口，reviewedAt 更新为本轮日期；正式目录仍为 74 本期刊、23 届会议和 7 项活动，候选状态数量不变。
+
+## 2026-09-14：红外探测与 AR/VR 光学活动
+
+- 新增 [红外探测技术及应用论坛](https://conference.cioe.cn/2026hongwaitance.html)，9 月 10 日，深圳国际会展中心 6 号馆二楼 6C；新增 [AR/VR 光学技术应用高峰论坛](https://conference.cioe.cn/guangjia-AR&VR-2026.html)，9 月 9 日，2 号馆二楼 2B。[当届总表](https://conference.cioe.cn/ConferenceList.html)与详情一致，且详情均有议程、主办者及免费报名入口。以历史产业论坛收录，不生成论文 DDL；正式目录为 74 本期刊、23 届会议、9 项活动。
+- [微显示论坛详情](https://conference.cioe.cn/guangjia-weixianshi-2026.html)标头写 9 月 10 日，正文将第二届全球微显示产业发展论坛暨 XR 生态大会写为 9 月 9–10 日。无法据此确认层级关系与完整会期，新增暂缓候选，等待最终日程或会后证据。
+- 候选新增 3 项，总计 266 项：106 已收录、157 待审核、3 暂缓。同步当前文档统计，并修正扩充计划状态表遗留的 19 届会议为 23 届；历史批次数量不回写。

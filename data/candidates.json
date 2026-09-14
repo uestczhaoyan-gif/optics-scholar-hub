@@ -3713,5 +3713,47 @@
     "decisionReason": "当届官网及 Indico 确認会期、校区与投稿出版流程；冲突摘要截止留空。",
     "nextAction": "复核历史截止变更及后续届次；不以合作期刊宣传确定索引或分区。",
     "reviewedAt": "2026-09-14"
+  },
+  {
+    "candidateId": "event-cioe-infrared-detection-2026",
+    "name": "红外探测技术及应用论坛",
+    "aliases": [],
+    "kind": "event",
+    "priority": 2,
+    "scopeHint": "补充红外探测或近眼显示方向的产业交流活动。",
+    "sourceEntry": "https://conference.cioe.cn/2026hongwaitance.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["cioe-infrared-detection-2026"],
+    "decisionReason": "当届官网详情及会议总表的日期、会场一致，已读取议程；按 CIOE 子论坛历史活动收录。",
+    "nextAction": "跟踪后续届次官方发布；不沿用本届时间或推定论文征稿。",
+    "reviewedAt": "2026-09-14"
+  },
+  {
+    "candidateId": "event-cioe-ar-vr-optics-2026",
+    "name": "AR/VR 光学技术应用高峰论坛",
+    "aliases": [],
+    "kind": "event",
+    "priority": 2,
+    "scopeHint": "补充红外探测或近眼显示方向的产业交流活动。",
+    "sourceEntry": "https://conference.cioe.cn/guangjia-AR&VR-2026.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["cioe-ar-vr-optics-2026"],
+    "decisionReason": "当届官网详情及会议总表的日期、会场一致，已读取议程；按 CIOE 子论坛历史活动收录。",
+    "nextAction": "跟踪后续届次官方发布；不沿用本届时间或推定论文征稿。",
+    "reviewedAt": "2026-09-14"
+  },
+  {
+    "candidateId": "event-cioe-microdisplay-2026",
+    "name": "CIOE 微显示产业发展论坛",
+    "aliases": [],
+    "kind": "event",
+    "priority": 2,
+    "scopeHint": "硅基 OLED、Micro LED 和 XR 光学应用。",
+    "sourceEntry": "https://conference.cioe.cn/guangjia-weixianshi-2026.html",
+    "reviewStatus": "deferred",
+    "relatedExistingIds": [],
+    "decisionReason": "总表和标头写 9 月 10 日；正文称第二届全球微显示产业发展论坛暨 XR 生态大会为 9 月 9–10 日，需核实是一日子活动还是同一活动会期冲突。",
+    "nextAction": "查组织方最终日程或会后报道，区分微显示论坛与 XR 生态大会的层级及日期后再收录。",
+    "reviewedAt": "2026-09-14"
   }
 ]

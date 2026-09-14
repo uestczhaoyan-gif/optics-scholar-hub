@@ -108,5 +108,37 @@
     "checkedAt": "2026-09-11",
     "participation": "官方页面提供免费会议报名入口；本轮未发现开放论文征稿要求，不生成论文截止，不承诺论文集或检索。",
     "relation": "CIOE 2026 同期专题论坛，不计入独立论文会议数量；历史记录用于了解系列及研究方向。"
+  },
+  {
+    "id": "cioe-infrared-detection-2026",
+    "name": "红外探测技术及应用论坛",
+    "start": "2026-09-10",
+    "end": "2026-09-10",
+    "location": "深圳国际会展中心（宝安），6号馆二楼6C",
+    "topics": ["传感与测量", "电子与器件", "成像与计算光学"],
+    "description": "由 CIOE 主办，麦姆斯咨询、云南省先进光电材料与器件重点实验室合作主办，交流红外探测器、短波红外材料与器件、红外成像和产业应用。",
+    "website": "https://conference.cioe.cn/2026hongwaitance.html",
+    "kind": "产业论坛",
+    "parentId": "cioe-2026",
+    "notice": "https://conference.cioe.cn/2026hongwaitance.html",
+    "checkedAt": "2026-09-14",
+    "participation": "历史活动：官网保留免费会议报名入口和当届议程；未发现公开论文征稿要求，不生成投稿截止，不承诺论文集或检索。",
+    "relation": "CIOE 2026 同期专题论坛，与母展关联，不计入独立论文会议数量。"
+  },
+  {
+    "id": "cioe-ar-vr-optics-2026",
+    "name": "AR/VR 光学技术应用高峰论坛",
+    "start": "2026-09-09",
+    "end": "2026-09-09",
+    "location": "深圳国际会展中心（宝安），2号馆二楼2B",
+    "topics": ["光学设计与制造", "电子与器件", "成像与计算光学"],
+    "description": "由 CIOE 与 SIVA 主办，围绕光波导、自由曲面、Micro LED 及近眼显示测试，连接 AR/VR 光学设计、制造与应用。",
+    "website": "https://conference.cioe.cn/guangjia-AR&VR-2026.html",
+    "kind": "产业论坛",
+    "parentId": "cioe-2026",
+    "notice": "https://conference.cioe.cn/guangjia-AR&VR-2026.html",
+    "checkedAt": "2026-09-14",
+    "participation": "历史活动：官网保留免费会议报名入口和当届议程；未发现公开论文征稿要求，不生成投稿截止，不承诺论文集或检索。",
+    "relation": "CIOE 2026 同期专题论坛，与母展关联，不计入独立论文会议数量。"
   }
 ]
