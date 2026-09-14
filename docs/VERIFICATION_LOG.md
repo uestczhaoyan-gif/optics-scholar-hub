@@ -393,3 +393,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [Wiley InfoMat Overview](https://onlinelibrary.wiley.com/page/journal/25673165/homepage/overview)直接读取，ISSN 2567-3165 与目录一致，Indexing Information 明列 Science Citation Index Expanded；据此新增出版社肯定记录。未列 Compendex 不作为未收录证明，EI 继续待核验。页面创刊前三年免费属于历史优惠，未复制为当前费用。
 - [SfNIRS 的 Neurophotonics 页面](https://fnirs.org/resources/neurophotonics/)直接读取，确认合作学会将其作为官方期刊，声明 SCIE 与 Ei Compendex。不过索引段无日期，页面混有 2019 发文和 2022 指标，故仅保存 secondary 线索，当前索引仍 unverified；未冒充 SPIE 出版社直接声明，旧 APC 亦未采用。
 - 本批未核实整刊内容或分区，仅更新相应索引字段；整体 checkedAt 保持原值。
+
+## 2026-09-14：OFS30 官方资料
+
+- [首页](https://ofs30.org/)与[会场页](https://ofs30.org/venue-location/)确认 11/30–12/4、美国罗利会议中心；NC State Continuing and Lifelong Education 管理会议。
+- [普通投稿页](https://ofs30.org/submission-information/)确认 35 词摘要、4 页全文、匿名审稿版、IOP 模板、Morressier、7/2 延期及 11/22 报告人注册。通知为 8 月上旬，保留日期未知。
+- [PDP 页](https://ofs30.org/post-deadline-papers/)仍有 TBD 与邮箱占位符，并称 SPIE 出版，与普通页 Journal of Physics 口径不同。没有宣称通道开放或统一出版渠道。
+- 首页 before Sept. 15 未明确包含哪一天及截止时区，早鸟截止留空并保留原意；未把首页 CFP coming soon 当成普通征稿尚未公布。

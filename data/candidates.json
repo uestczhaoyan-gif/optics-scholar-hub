@@ -839,12 +839,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "区分国际会、地区会与 workshop",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ofs30.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ofs-2026"],
+    "decisionReason": "当届官网明确会期、场馆和普通投稿规则；PDP 占位符及出版口径问题单独保留。",
+    "nextAction": "核实 PDP 正式通道、出版渠道与早鸟边界，跟踪作者注册要求。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-a2c45555cc",

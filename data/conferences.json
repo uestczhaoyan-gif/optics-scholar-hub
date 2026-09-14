@@ -1428,5 +1428,64 @@
         "source": "https://www.cncos.org.cn/Content/view/id/1851.html"
       }
     ]
+  },
+  {
+    "id": "ofs-2026",
+    "series": "OFS",
+    "year": 2026,
+    "name": "第 30 届国际光纤传感会议",
+    "nameEn": "30th International Conference on Optical Fiber Sensors (OFS30)",
+    "region": "海外",
+    "location": "美国 · 罗利",
+    "venue": "Raleigh Convention Center, 500 S Salisbury St., Raleigh, NC 27601",
+    "start": "2026-11-30",
+    "end": "2026-12-04",
+    "topics": ["传感与测量", "生物医学光学", "集成光子"],
+    "description": "围绕光纤传感原理、器件和应用的国际会议，包含分布式传感、结构监测、生医及环境传感；与地区光纤传感会议分别记录。",
+    "website": "https://ofs30.org/",
+    "notice": "https://ofs30.org/submission-information/",
+    "registration": "https://ofs30.org/",
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "普通投稿需 35 词摘要、含作者信息的全文及匿名稿，实行双盲评审；含作者信息全文最多 4 页，使用官方链接的 IOP 模板，从投稿页进入 Morressier。",
+      "报告作者须于 2026-11-22 前注册。普通稿官网提醒出版前不会发送校样，应提前核对作者、单位、图件和参考文献。",
+      "PDP 日期、通知与邮箱仍为占位符，不能据此直接投递；待组织方补齐正式入口和出版说明。"
+    ],
+    "publication": "普通投稿页说明录用稿会后进入 Journal of Physics 会议出版物并使用 CC BY 4.0；PDP 页却写 SPIE Digital Library。保留两种口径，PDP 出版渠道需确认；不承诺 SCI/EI 检索，也不把会议出版物当成普通期刊录用。",
+    "notes": "官网首页残留 CFP coming soon，但投稿详情已公布延期至 7/2；采用详情的明确日期。通知仅写 8 月上旬，未补造具体日。早鸟写 before Sept. 15，未明确边界日及时区，截止留空：普通/学生早鸟 995/645 美元，标准 1095/695 美元。注册从首页 Register Now 进入 NC State 平台。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通投稿（由 6/1 延期）",
+        "date": "2026-07-02",
+        "source": "https://ofs30.org/submission-information/"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知：8 月上旬，具体日待核实",
+        "date": null,
+        "source": "https://ofs30.org/submission-information/"
+      },
+      {
+        "type": "registration",
+        "label": "报告作者注册",
+        "date": "2026-11-22",
+        "source": "https://ofs30.org/submission-information/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟：官网写 9/15 之前，边界待确认",
+        "date": null,
+        "source": "https://ofs30.org/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 投稿安排待公布",
+        "date": null,
+        "source": "https://ofs30.org/post-deadline-papers/"
+      }
+    ]
   }
 ]
