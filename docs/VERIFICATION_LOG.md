@@ -355,3 +355,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [LAM 官方公告](https://www.light-am.com/news/index_tabliod_en/ba599c15-15da-47e9-81aa-81ae2d0e146d_en.htm)已直接读取，正文及现页索引栏均明确 ESCI；新增出版社证据，ESCI 肯定记录由 7 本增至 8 本。SCIE/EI 待核验记录保持独立。
 - 公告将追溯起点写为第 1 卷第 1 期，但年份用 after 2020 表述；不自行决定纳入或排除 2020，coverageStart 留空并记录原因。未核实数据库实际覆盖，未更新整刊 checkedAt 或分区。
 - Ultrafast Science 索引页仍直连 403，官方检索快照与已有 EI/ESCI 记录一致，本轮不重复修改。HPL 与 IJEM 未取得足够新增索引证据，不改其状态。
+
+## 2026-09-14：临近截止与 FiO 历史通知补齐
+
+- [FiO 作者时间表](https://www.frontiersinoptics.com/submissions/author-timeline)仍列 PDP 通知 9 月 18 日；补入原目录缺少的普通论文及海报录用通知 7 月 3 日，仅日期精度，保留历史。
+- [Laser Congress 征稿页](https://www.optica.org/events/congress/laser_congress/submit_papers/)仍列 PDP 截止 9 月 22 日 12:00 EDT，与现有数据一致。35 词摘要、2 页 summary、PDP 仅口头的要求未变；本轮未复核注册或全条目，不刷新整条 checkedAt。
