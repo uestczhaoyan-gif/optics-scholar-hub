@@ -1466,13 +1466,13 @@
     "aliases": [],
     "kind": "event",
     "priority": 1,
-    "scopeHint": "官网标头 9 月 9 日与正文 9 月 10 日冲突待核实。",
-    "sourceEntry": null,
+    "scopeHint": "2026-09-14 复核：会议总表及详情标头为 9 月 9 日，详情介绍仍为 9 月 10 日；日期冲突未解。",
+    "sourceEntry": "https://conference.cioe.cn/2026namiyayin.html",
     "reviewStatus": "deferred",
     "relatedExistingIds": [],
-    "decisionReason": "官网标头 9 月 9 日与正文 9 月 10 日冲突待核实。",
-    "nextAction": "读取当届官方更正或最终通知，解决冲突后再决定收录。",
-    "reviewedAt": "2026-09-13"
+    "decisionReason": "2026-09-14 复核：会议总表及详情标头为 9 月 9 日，详情介绍仍为 9 月 10 日；日期冲突未解。",
+    "nextAction": "比对当届更正、最终会议指南或会后报道；现总表 https://conference.cioe.cn/ConferenceList.html 仅提供交叉核对，不能证明介绍正文已被更正。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-0f129eecc0",
@@ -1480,13 +1480,13 @@
     "aliases": [],
     "kind": "conference-series",
     "priority": 1,
-    "scopeHint": "地点尚未核实，官方中英文摘要长度冲突待解决。",
-    "sourceEntry": null,
+    "scopeHint": "2026-09-14 官网已确认 11 月 13–15 日、苏州市，场馆仍空白；英文摘要要求在中文段为 300–500 词、英文段为 500–600 词，冲突未解。",
+    "sourceEntry": "https://b2b.csoe.org.cn/mobile/meeting/NDTA2026.html",
     "reviewStatus": "deferred",
     "relatedExistingIds": [],
-    "decisionReason": "地点尚未核实，官方中英文摘要长度冲突待解决。",
-    "nextAction": "读取当届官方更正或最终通知，解决冲突后再决定收录。",
-    "reviewedAt": "2026-09-13"
+    "decisionReason": "2026-09-14 官网已确认 11 月 13–15 日、苏州市，场馆仍空白；英文摘要要求在中文段为 300–500 词、英文段为 500–600 词，冲突未解。",
+    "nextAction": "待官方确认具体场馆、统一英文摘要长度；投稿页列第二轮 9 月 30 日，注册费页列 9 月 15 日前后两档，但当天适用档位不明确，正式收录前复核。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "event-1a5ffb9ec4",
