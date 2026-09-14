@@ -3222,13 +3222,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://onlinelibrary.wiley.com/page/journal/25673165/homepage/overview",
+        "checkedAt": "2026-09-14",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Wiley 本刊 Overview 的 Indexing Information 明确列出 SCIE；数据库实际覆盖年份待查。未把 ProQuest Engineering Database 当作 EI Compendex。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -4432,22 +4432,22 @@
       {
         "database": "SCIE",
         "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "evidence": "secondary",
+        "source": "https://fnirs.org/resources/neurophotonics/",
+        "checkedAt": "2026-09-14",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+        "note": "SfNIRS 将本刊列为官方期刊并声明 SCIE/Ei Compendex；该介绍混有 2019/2022 历史信息且索引声明无日期。本页不是 SPIE 或数据库直接证据，当前状态仍待核验。"
       },
       {
         "database": "EI_COMPENDEX",
         "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "evidence": "secondary",
+        "source": "https://fnirs.org/resources/neurophotonics/",
+        "checkedAt": "2026-09-14",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+        "note": "SfNIRS 将本刊列为官方期刊并声明 SCIE/Ei Compendex；该介绍混有 2019/2022 历史信息且索引声明无日期。本页不是 SPIE 或数据库直接证据，当前状态仍待核验。"
       }
     ],
     "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"

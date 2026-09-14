@@ -387,3 +387,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [Nano Letters](https://researcher-resources.acs.org/publish/author_guidelines?coden=nalefd)现行 HTML 标注 2026-08-27，核实通信稿长度、连续行文、补充材料、投稿信和邀稿稿型。
 - [ACS Sensors](https://researcher-resources.acs.org/publish/author_guidelines?coden=ascefj)核实分析验证、摘要结构、投稿材料和综述要求；清单 <8/<4 页与稿型段建议 8/4 页不完全相同，显式保留差异，未误写为投稿 Word 文件页数。
 - 三刊来源均直接读取；仅变更 requirements 和一项 guide，不刷新整刊 checkedAt，也不由作者指南推断当前 SCIE/EI 或分区。
+
+## 2026-09-14：InfoMat 与 Neurophotonics 索引证据
+
+- [Wiley InfoMat Overview](https://onlinelibrary.wiley.com/page/journal/25673165/homepage/overview)直接读取，ISSN 2567-3165 与目录一致，Indexing Information 明列 Science Citation Index Expanded；据此新增出版社肯定记录。未列 Compendex 不作为未收录证明，EI 继续待核验。页面创刊前三年免费属于历史优惠，未复制为当前费用。
+- [SfNIRS 的 Neurophotonics 页面](https://fnirs.org/resources/neurophotonics/)直接读取，确认合作学会将其作为官方期刊，声明 SCIE 与 Ei Compendex。不过索引段无日期，页面混有 2019 发文和 2022 指标，故仅保存 secondary 线索，当前索引仍 unverified；未冒充 SPIE 出版社直接声明，旧 APC 亦未采用。
+- 本批未核实整刊内容或分区，仅更新相应索引字段；整体 checkedAt 保持原值。
