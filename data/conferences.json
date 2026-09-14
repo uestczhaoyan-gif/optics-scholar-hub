@@ -1285,5 +1285,70 @@
         "source": "https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html"
       }
     ]
+  },
+  {
+    "id": "irmmw-thz-2026",
+    "series": "IRMMW-THz",
+    "year": 2026,
+    "name": "第 51 届国际红外、毫米波与太赫兹波会议",
+    "nameEn": "51st International Conference on Infrared, Millimeter, and Terahertz Waves",
+    "region": "海外",
+    "location": "美国 · 盐湖城",
+    "venue": "University of Utah, Cleone Peterson Eccles Alumni House, 155 S Central Campus Dr, Salt Lake City, UT 84112",
+    "start": "2026-10-11",
+    "end": "2026-10-16",
+    "topics": ["传感与测量", "电子与器件", "成像与计算光学", "综合光学"],
+    "description": "红外、毫米波与太赫兹学会的跨学科会议，覆盖远红外探测、器件、系统及应用；适合光学与高频电子交叉研究。",
+    "website": "https://www.irmmw-thz.org/conference/",
+    "notice": "https://www.irmmw-thz.org/abstract-submission/",
+    "registration": "https://www.irmmw-thz.org/register/",
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "使用官方摘要模板，经 IEEE PDF eXpress（会议 ID 61726X）转换为兼容 PDF，再从官网入口上传 Whova。终稿修订保留原 paper ID。",
+      "学生论文奖要求两页摘要；终稿扩展摘要最多两页。终稿资格段限定 5 月 1 日前投稿并获 TPC 接受的作者；晚新闻稿的出版资格需另向组织方确认。",
+      "每篇至少一位作者注册，一次注册最多覆盖本人署名的三篇论文。会议要求现场报告，不提供混合参会方式。"
+    ],
+    "publication": "官网规定录用论文或海报须由作者或指定代表现场报告，方可归档到会议 digest 和 IEEE Xplore；不将进入 IEEE Xplore 等同于 EI 或 SCI 收录保证。",
+    "notes": "官网 Key dates 将 8/15 写作注册及终稿截止，但注册页另列后续费率：普通/学生早鸟 900/600 美元，8/16–9/30 为 975/675 美元，10/1 起为 1050/750 美元。8/15 不作为所有参会者的最终注册截止；作者归档资格需遵循投稿和注册条件。日期未公布时刻，不补造午夜。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通摘要投稿",
+        "date": "2026-05-01",
+        "source": "https://www.irmmw-thz.org/key-dates/"
+      },
+      {
+        "type": "notification",
+        "label": "普通投稿录用通知",
+        "date": "2026-07-06",
+        "source": "https://www.irmmw-thz.org/key-dates/"
+      },
+      {
+        "type": "abstract",
+        "label": "Late News 摘要",
+        "date": "2026-08-15",
+        "source": "https://www.irmmw-thz.org/key-dates/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "最终扩展摘要及修订",
+        "date": "2026-08-15",
+        "source": "https://www.irmmw-thz.org/abstract-submission/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册缴费",
+        "date": "2026-08-15",
+        "source": "https://www.irmmw-thz.org/register/"
+      },
+      {
+        "type": "registration",
+        "label": "Late fee 费率结束（之后为现场费率）",
+        "date": "2026-09-30",
+        "source": "https://www.irmmw-thz.org/register/"
+      }
+    ]
   }
 ]

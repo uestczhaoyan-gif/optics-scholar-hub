@@ -811,12 +811,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "主题包括毫米波，网站按方向筛选",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.irmmw-thz.org/conference/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["irmmw-thz-2026"],
+    "decisionReason": "学会当届官网明确 2026 会期、地点、投稿及注册规则，纳入红外与太赫兹交叉方向。",
+    "nextAction": "跟踪当届通知；澄清晚新闻稿出版资格，并核实 2027 届征稿。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-00138dcea7",

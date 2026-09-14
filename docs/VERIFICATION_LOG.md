@@ -367,3 +367,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [外延钙钛矿 micro-LED 显示](https://www.nature.com/articles/s41565-024-01841-9)：2025-01-15 上线，20 卷 381–387 页、3 月刊。官方页面摘要及 About this article 可读。
 - [电光超表面自由空间调制器](https://www.nature.com/articles/s41565-025-02000-4)：2025-09-10 上线，20 卷 1625–1632 页、11 月刊。官方文章信息可读，摘要确认器件及应用方向。
 - 三篇用于说明纳米材料/器件与光学的选题关联，不能据此保证投稿录用或代表全部光学方向。目录与索引数量不变，整刊 checkedAt 不刷新。
+
+## 2026-09-14：IRMMW-THz 2026 当届核验
+
+- [学会当届主页](https://www.irmmw-thz.org/conference/)与[会场页](https://www.irmmw-thz.org/venue/)确认 10/11–16、盐湖城犹他大学校友楼；未采用第三方旧截止。
+- [重要日期](https://www.irmmw-thz.org/key-dates/)区分普通摘要 5/1、通知 7/6、Late News 8/15。仅保存日期精度；签证预审和提前通知属于特殊通道，未混入普通截止。
+- [投稿指南](https://www.irmmw-thz.org/abstract-submission/)确认模板、PDF eXpress、Whova、两页终稿及原 paper ID；正文将终稿资格限于 5/1 前投稿且录用者，因此没有对晚新闻稿保证出版。
+- [注册规则](https://www.irmmw-thz.org/register/)明确后续费率、每位注册者最多三篇及现场报告归档条件；不把 Key dates 的 8/15 当作所有人的最终注册截止，不从 IEEE Xplore 推断 EI。
