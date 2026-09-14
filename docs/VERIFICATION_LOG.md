@@ -380,3 +380,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [ICOLS 2027 官网](https://icols2027.com/)直接读取，确认 2027-07-12 至 07-16、K’gari 的 Kingfisher Bay Resort。页面明确摘要、注册和完整日程待公布；只开放意向登记，故 registration 留空，submissionState 为 unknown。未读取模板或声称已核实出版。
 - [中国光学学会主办权公告](https://www.cncos.org.cn/Content/view/id/1851.html)直接读取，确认 ICO-27 为 2027-08-22 至 08-26、北京。公告发布日期 2024-10-29，与本轮读取日期分开说明；不将其当作 CFP。具体场馆、投稿、注册及出版保留待核验。
 - ICOLS 的相同缩写搜索结果包含其他会议，ICO 也有眼科学等同名组织，均未混入本系列。正式会议由 25 增至 27，候选数量不变，仅同步两项收录关联。
+
+## 2026-09-14：ACS 三刊现行作者指南
+
+- [ACS Photonics](https://researcher-resources.acs.org/publish/author_guidelines?coden=apchd5)现行 HTML 标注 2026-08-27，核实 Articles/Letters/Reviews/Perspectives/Roadmaps 长度与邀稿要求、预印本披露；更新 guide 入口。未套用搜索中的旧版 checklist 摘要规则。
+- [Nano Letters](https://researcher-resources.acs.org/publish/author_guidelines?coden=nalefd)现行 HTML 标注 2026-08-27，核实通信稿长度、连续行文、补充材料、投稿信和邀稿稿型。
+- [ACS Sensors](https://researcher-resources.acs.org/publish/author_guidelines?coden=ascefj)核实分析验证、摘要结构、投稿材料和综述要求；清单 <8/<4 页与稿型段建议 8/4 页不完全相同，显式保留差异，未误写为投稿 Word 文件页数。
+- 三刊来源均直接读取；仅变更 requirements 和一项 guide，不刷新整刊 checkedAt，也不由作者指南推断当前 SCIE/EI 或分区。

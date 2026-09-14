@@ -1076,10 +1076,12 @@
     "topics": ["光学材料", "集成光子", "电子与器件"],
     "description": "面向光子学和光与物质相互作用，包含纳米光学、材料与器件交叉研究。",
     "website": "https://pubs.acs.org/journal/apchd5",
-    "guide": "https://pubs.acs.org/page/apchd5/submission/authors.html",
+    "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=apchd5",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "通过 ACS Publishing Center 提交；Articles 摘要少于 250 词，图/表/示意图合计最多 10 项，需 TOC 图及最多 6 个关键词。",
+      "Letters 通常邀稿，可先向主编建议选题；约 3000 词以内、摘要少于 150 词、展示项最多 4 个。Perspectives 通常邀稿，约 3000–5000 词。",
+      "Reviews 约 8000–12000 词、摘要不超过 250 词。Roadmaps 通常邀稿，各章节约 1000–2000 词并配一图；具体提案请联系主编。",
+      "允许投稿前将初稿放在预印本平台；投稿信须披露预印本及投稿版本的更新。不可将此解释为允许其他重复发表。"
     ],
     "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -2973,8 +2975,10 @@
     "website": "https://pubs.acs.org/nalefd",
     "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=nalefd",
     "requirements": [
-      "通过 ACS Publishing Center 提交；在投稿材料中突出跨学科交汇点，按本刊相应稿件类型核实长度和图表限制。",
-      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+      "通过 ACS Publishing Center 投稿，强调至少两个学科的交汇。Letters 建议 1500–4000 词、图及示意图合计 3–6 个，摘要最多 150 词。",
+      "Letters 正文连续行文，不设独立小节标题；不影响主线理解但复现必需的实验或理论细节放在单独 Supporting Information 文件。",
+      "投稿信说明研究意义、新颖性、影响及及时发表的必要性，并提供标题与通讯作者联系方式。",
+      "Mini-Reviews 仅邀稿，通常 3000–6000 词，可向主编建议主题及作者；Viewpoints、Perspectives 和 Tutorials 同样为邀稿类型，不当作普通自由投稿。"
     ],
     "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
   },
@@ -3083,8 +3087,10 @@
     "website": "https://pubs.acs.org/ascefj",
     "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=ascefj",
     "requirements": [
-      "展示传感器在适合目标应用的复杂样品中的表现，证明其适用性，并与已有分析方法建立性能关联。",
-      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+      "分析数据应包含不确定度、与标准分析方法的对比，以及目标应用所需复杂样品中的性能验证。",
+      "Articles 稿型段建议 8 个期刊页、Letters 建议 4 页；页首清单分别写 <8 和 <4，临界篇幅应确认。页数含正文、图表和参考文献，不含 TOC 图；超长须在投稿信说明理由。",
+      "摘要按研究目标、方法、结果组织；需 TOC 图。投稿信说明目标、本刊适配理由、作者联系方式、补充材料及 4 位潜在审稿人。",
+      "Perspectives 通常邀稿、最多 10 页，可预先咨询主编；Reviews 最多 20 页，非邀稿综述由编辑酌情考虑，需 8–10 个关键词与 5–7 个术语释义。"
     ],
     "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
   },
