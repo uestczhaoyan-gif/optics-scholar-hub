@@ -2571,7 +2571,27 @@
       "先核实内容类型和投稿材料；如选择双匿名评审，按专门匿名化指南处理文件，再从官网提交入口上传。",
       "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
     ],
-    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。"
+    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。",
+    "scopeExamples": [
+      {
+        "title": "Ultrahigh-gain colloidal quantum dot infrared avalanche photodetectors",
+        "source": "https://www.nature.com/articles/s41565-024-01831-x",
+        "publishedAt": "2024-12-18",
+        "relevance": "2025 年 2 月刊：以胶体量子点雪崩倍增结构实现红外光探测，体现纳米材料、载流子输运与光电传感的交叉适配。"
+      },
+      {
+        "title": "Remote epitaxial crystalline perovskites for ultrahigh-resolution micro-LED displays",
+        "source": "https://www.nature.com/articles/s41565-024-01841-9",
+        "publishedAt": "2025-01-15",
+        "relevance": "2025 年 3 月刊：远程外延单晶钙钛矿薄膜用于微型 LED 显示，将材料生长、微器件集成与发光应用联系起来。"
+      },
+      {
+        "title": "Subvolt high-speed free-space modulator with electro-optic metasurface",
+        "source": "https://www.nature.com/articles/s41565-025-02000-4",
+        "publishedAt": "2025-09-10",
+        "relevance": "2025 年 11 月刊：电光超表面用于低电压高速自由空间光调制，适配纳米光子器件及通信、传感相关选题。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

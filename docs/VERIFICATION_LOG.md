@@ -360,3 +360,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - [FiO 作者时间表](https://www.frontiersinoptics.com/submissions/author-timeline)仍列 PDP 通知 9 月 18 日；补入原目录缺少的普通论文及海报录用通知 7 月 3 日，仅日期精度，保留历史。
 - [Laser Congress 征稿页](https://www.optica.org/events/congress/laser_congress/submit_papers/)仍列 PDP 截止 9 月 22 日 12:00 EDT，与现有数据一致。35 词摘要、2 页 summary、PDP 仅口头的要求未变；本轮未复核注册或全条目，不刷新整条 checkedAt。
+
+## 2026-09-14：Nature Nanotechnology 研究范围样例
+
+- [量子点红外雪崩探测器](https://www.nature.com/articles/s41565-024-01831-x)：2024-12-18 首次上线，20 卷 237–245 页、2025 年 2 月刊。直连跳转失败，依据官方检索返回的题名、摘要和出版信息；未声称阅读全文。
+- [外延钙钛矿 micro-LED 显示](https://www.nature.com/articles/s41565-024-01841-9)：2025-01-15 上线，20 卷 381–387 页、3 月刊。官方页面摘要及 About this article 可读。
+- [电光超表面自由空间调制器](https://www.nature.com/articles/s41565-025-02000-4)：2025-09-10 上线，20 卷 1625–1632 页、11 月刊。官方文章信息可读，摘要确认器件及应用方向。
+- 三篇用于说明纳米材料/器件与光学的选题关联，不能据此保证投稿录用或代表全部光学方向。目录与索引数量不变，整刊 checkedAt 不刷新。
