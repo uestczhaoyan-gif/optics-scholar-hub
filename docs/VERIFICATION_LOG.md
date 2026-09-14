@@ -349,3 +349,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [APL Photonics About](https://pubs.aip.org/aip/app/pages/about)及[APR About](https://pubs.aip.org/aip/apr/pages/about)可读取，现有 JCR 2026 分区与网页一致，但未见明确 SCIE/EI 索引清单。未以影响因子或 Scopus 指标推断索引，索引记录和整刊 checkedAt 保持原值。
 - [AIP 作者指南](https://publishing.aip.org/resources/researchers/author-instructions/)核实初投正文 PDF、单独补充 PDF、图表 alt text 及声明；APP 除 Letters 和 Comments 外使用章节标题。补入相关期刊要求。
 - APR 专属段明确原创研究需 cover letter，但夹有 CPR/chemical physics 字样；保留明确的知识缺口、新颖性、意义和作者相关工作要求，并提示选题范围以 APR About 为准。未把通用页文字错误解释为本刊范围变更，也未复制其他 AIP 期刊篇幅规则。
+
+## 2026-09-14：Light: Advanced Manufacturing 的 ESCI 索引
+
+- [LAM 官方公告](https://www.light-am.com/news/index_tabliod_en/ba599c15-15da-47e9-81aa-81ae2d0e146d_en.htm)已直接读取，正文及现页索引栏均明确 ESCI；新增出版社证据，ESCI 肯定记录由 7 本增至 8 本。SCIE/EI 待核验记录保持独立。
+- 公告将追溯起点写为第 1 卷第 1 期，但年份用 after 2020 表述；不自行决定纳入或排除 2020，coverageStart 留空并记录原因。未核实数据库实际覆盖，未更新整刊 checkedAt 或分区。
+- Ultrafast Science 索引页仍直连 403，官方检索快照与已有 EI/ESCI 记录一致，本轮不重复修改。HPL 与 IJEM 未取得足够新增索引证据，不改其状态。

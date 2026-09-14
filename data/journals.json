@@ -2282,6 +2282,16 @@
         "coverageStart": null,
         "coverageEnd": null,
         "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "publisher",
+        "source": "https://www.light-am.com/news/index_tabliod_en/ba599c15-15da-47e9-81aa-81ae2d0e146d_en.htm",
+        "checkedAt": "2026-09-14",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "已直接读取官网 ESCI 公告和现页索引栏。公告称从第 1 卷第 1 期追溯，年份使用 after 2020 的表述，未据此填定覆盖起始年；数据库直查仍待完成。ESCI 不替代 SCIE。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
