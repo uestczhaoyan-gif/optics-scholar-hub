@@ -1216,5 +1216,68 @@
         "source": "https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf"
       }
     ]
+  },
+  {
+    "id": "eosam-2026",
+    "series": "EOSAM",
+    "year": 2026,
+    "name": "欧洲光学学会年会",
+    "nameEn": "European Optical Society Annual Meeting (EOSAM 2026)",
+    "region": "海外",
+    "location": "芬兰 · 坦佩雷",
+    "venue": "Scandic Rosendahl Conference Center, Pyynikintie 13, Tampere",
+    "start": "2026-08-24",
+    "end": "2026-08-28",
+    "topics": [
+      "综合光学",
+      "光学设计与制造",
+      "生物医学光学",
+      "纳米与超表面",
+      "量子光学",
+      "光学材料",
+      "传感与测量",
+      "激光与非线性"
+    ],
+    "description": "欧洲光学学会 EOS 与 Photonics Finland、坦佩雷大学和 PREIN 联合组织的综合光学年会，包含专题会议、聚焦分会、青年研究者活动和产业交流。",
+    "website": "https://www.europeanoptics.org/events/eos/eosam2026.html",
+    "notice": "https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html",
+    "registration": "https://www.europeanoptics.org/pages/events/eosam-2026/registration/",
+    "checkedAt": "2026-09-14",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "通过 https://www.conftool.com/eosam2026/ 提交英文、单栏、170×250 mm 的 camera-ready PDF，使用官网 Word 或 LaTeX 模板，PDF 内不含链接。",
+      "模板段写 1–2 页，但上传步骤要求 2 页；选择论文集出版时明确必须为 2 页单栏。非出版的一页稿是否适用需向组织方确认。",
+      "投稿时指定报告人、主题和论文集出版意愿；录用并现场报告后才具备论文集出版条件。追加征稿仅限海报，不将其当作普通口头投稿延期。",
+      "普通口头报告为 12 分钟加 3 分钟问答；海报要求 A0 竖版。报告指南中的具体海报场次夹有 2025 年份，应另查当届最终日程。"
+    ],
+    "publication": "作者投稿时选择出版，经录用并报告的摘要可免费进入 EDP Sciences 的开放获取会议论文集，分配 DOI；扩展稿可另投 JEOS-RP 专题，按期刊要求审核，不将 Crossref 登记当作 SCI/EI 收录证明。",
+    "notes": "历史届次。会场依据当届 Venue 页，为芬兰坦佩雷，未沿用 2025 年 Delft 会场。普通报告人 6 月 15 日注册要求早于追加海报截止，追加海报的注册安排需另询组织方；不擅自套用已过期截止。官网未给截止时刻，按日期保存。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通投稿（由 4 月 14 日延期）",
+        "date": "2026-04-28",
+        "source": "https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html"
+      },
+      {
+        "type": "notification",
+        "label": "普通投稿录用通知（不晚于）",
+        "date": "2026-06-05",
+        "source": "https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟及普通报告人注册",
+        "date": "2026-06-15",
+        "source": "https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html"
+      },
+      {
+        "type": "poster",
+        "label": "追加海报投稿",
+        "date": "2026-07-15",
+        "source": "https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html"
+      }
+    ]
   }
 ]

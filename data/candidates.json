@@ -724,12 +724,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学会官网、当届征稿与出版形式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.europeanoptics.org/events/eos/eosam2026.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["eosam-2026"],
+    "decisionReason": "已读取 EOS 当届官网、会场、重要日期和投稿指南，以 2026 坦佩雷届次收录；未采用旧届会场和混有旧年份的海报场次。",
+    "nextAction": "核对最终论文集及后续届次；追加海报注册安排与非出版一页稿的适用条件仍需组织方确认。",
+    "reviewedAt": "2026-09-14"
   },
   {
     "candidateId": "conference-series-00afad0df0",

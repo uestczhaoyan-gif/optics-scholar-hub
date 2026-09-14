@@ -336,3 +336,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 新增 [红外探测技术及应用论坛](https://conference.cioe.cn/2026hongwaitance.html)，9 月 10 日，深圳国际会展中心 6 号馆二楼 6C；新增 [AR/VR 光学技术应用高峰论坛](https://conference.cioe.cn/guangjia-AR&VR-2026.html)，9 月 9 日，2 号馆二楼 2B。[当届总表](https://conference.cioe.cn/ConferenceList.html)与详情一致，且详情均有议程、主办者及免费报名入口。以历史产业论坛收录，不生成论文 DDL；正式目录为 74 本期刊、23 届会议、9 项活动。
 - [微显示论坛详情](https://conference.cioe.cn/guangjia-weixianshi-2026.html)标头写 9 月 10 日，正文将第二届全球微显示产业发展论坛暨 XR 生态大会写为 9 月 9–10 日。无法据此确认层级关系与完整会期，新增暂缓候选，等待最终日程或会后证据。
 - 候选新增 3 项，总计 266 项：106 已收录、157 待审核、3 暂缓。同步当前文档统计，并修正扩充计划状态表遗留的 19 届会议为 23 届；历史批次数量不回写。
+
+## 2026-09-14：EOSAM 2026 欧洲综合光学年会
+
+- [EOS 当届官网](https://www.europeanoptics.org/events/eos/eosam2026.html)与[会场页](https://www.europeanoptics.org/pages/events/eosam-2026/venue/)明确 8 月 24–28 日芬兰坦佩雷 Scandic Rosendahl，未沿用搜索 PDF 片段中混入的 Delft。正式会议增至 24 届。
+- [重要日期](https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html)：普通投稿 4 月 28 日（原 4 月 14 日）、通知不晚于 6 月 5 日、早鸟及普通报告人注册 6 月 15 日、追加海报 7 月 15 日；均仅日期精度。追加海报注册不套用更早的普通报告人截止。
+- [投稿指南](https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html)明确出版稿 2 页单栏、英文 PDF、170×250 mm 和事先选择出版意愿；模板总述 1–2 页与上传步骤 2 页存在口径差异，非出版一页稿保留待确认。录用、现场报告与论文集出版条件分开，Crossref 不等于 SCI/EI。
+- [报告指南](https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/information-for-presenters.html)用于确认口头 12+3 分钟及 A0 竖版要求，但海报场次行仍写 2025，未复制具体日期。候选变为 107 已收录、156 待审核、3 暂缓，总数 266 不变。同步扩充计划英文摘要此前遗漏的活动数量。
