@@ -2484,7 +2484,27 @@
       "初投不要求最终排版，接受 PDF、Word 或 TeX/LaTeX，LaTeX 提供编译 PDF；录用后再按规定处理文字和图像。",
       "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
     ],
-    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。"
+    "publishing": "提供订阅及开放获取出版选择；费用、许可及可用机构协议以本刊 Publishing options 为准。",
+    "scopeExamples": [
+      {
+        "title": "Surfactant-induced hole concentration enhancement for highly efficient perovskite light-emitting diodes",
+        "source": "https://www.nature.com/articles/s41563-025-02123-y",
+        "publishedAt": "2025-03-05",
+        "relevance": "第 24 卷第 5 期：钙钛矿 LED 的载流子与材料调控，适配发光材料及光电器件研究。"
+      },
+      {
+        "title": "Organic light-emitting transistors with high efficiency and narrow emission originating from intrinsic multiple-order microcavities",
+        "source": "https://www.nature.com/articles/s41563-025-02191-0",
+        "publishedAt": "2025-03-28",
+        "relevance": "第 24 卷第 6 期：有机发光晶体管结合内禀微腔压窄发射并改善效率，连接材料、光学谐振与显示器件。"
+      },
+      {
+        "title": "Pure-blue single-layer organic light-emitting diodes based on trap-free hyperfluorescence",
+        "source": "https://www.nature.com/articles/s41563-025-02294-8",
+        "publishedAt": "2025-07-21",
+        "relevance": "第 24 卷第 11 期：无陷阱超荧光用于纯蓝单层 OLED，适配有机发光材料、能量转移及显示光源。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
