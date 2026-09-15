@@ -3036,8 +3036,11 @@
     "website": "https://pubs.acs.org/inocaj",
     "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=inocaj",
     "requirements": [
-      "明确突出无机化学贡献；按研究对象提供结构、组成、纯度与相关光谱等表征，并核对本刊 Data Requirements 和补充材料规范。",
-      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+      "突出无机化学的新认识，按对象提供结构、组成、纯度和光谱表征；仅强调器件应用或常规材料性能不足以符合本刊范围。",
+      "Articles 无固定长度上限但要求简洁；Communications 不超过 2200 词，含摘要、正文、图注和 TOC 图内容，不含参考文献。投稿信须说明通信稿的紧迫性与重要性。",
+      "摘要不超过 200 词，每篇需 TOC 图。Communications 除摘要外不设章节标题，完整实验资料放入 Supporting Information；涉及 X 射线晶体结构须提供完整支持文件。",
+      "Reviews 由主编邀请，可先建议选题或提案，最多 10000 词；Viewpoints 通常邀稿，也接受提案，篇幅为 5–10 个正式出版页。",
+      "允许投稿前发布初稿预印本，投稿信披露链接和版本变化，正文引用预印本；审理期间不鼓励首次上传或更新预印本。"
     ],
     "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
   },

@@ -429,3 +429,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [学会当届主页](https://b2b.csoe.org.cn/meeting/ofsc2026.html)直接读取，会期 10/22–25、最终投稿 9/15、早鸟 9/22，论文集英文摘要 500–600 词、仅交流中文摘要 400–500 字及全文投稿通道已区分。
 - [学会会议检索](https://b2b.csoe.org.cn/mobile/meeting/search.php?areaid=0&catid=8&elite=1)官方搜索返回宁波市；具体会场不由主办单位所在地推定，仍待查。注册页返回 403，未声称完成平台验证。
 - 只记录日期精度；通知相对时限不换算为具体日。期刊推荐不等于录用，会议页支持期刊的索引标签不用于改写期刊目录。
+
+## 2026-09-15：Inorganic Chemistry 作者指南
+
+- [现行指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=inocaj)直接读取，页面标注更新 2026-08-27。核实 Articles 无固定长度、Communications 2200 词及计数范围、摘要 200 词、TOC 图和实验支持材料。
+- 核实 Reviews 邀稿/可先提案与 10000 词上限、Viewpoints 5–10 出版页；未将可提案描述为可直接提交非邀稿综述。预印本须披露、链接、正文引用；审理期间“不鼓励更新”未写成禁止。
+- 仅更新投稿要求，不刷新整刊 checkedAt；具体表征规则仍按研究对象查 Data Requirements，索引与分区不由指南推断。
