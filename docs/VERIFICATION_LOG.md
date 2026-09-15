@@ -417,3 +417,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [ACS Nano 作者指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=ancac3)直接读取，核实非邀稿 Review/Perspective 先提案、1–2 页内容清单，以及研究稿引言、摘要、关键词和章节要求。提案近期综述比较一项原文存在未完句，未自行补写其要求。
 - [Chemical Reviews 作者指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=chreay)直接读取，核实官方模板、提案总计最多 5 页/提纲 2–3 页、至少 5 名推荐审稿人及 Focus Review 出版页限制。没有把编辑常见处理时间作为时限承诺。
 - 仅补 requirements；未全量核验期刊，不刷新 checkedAt，不修改索引、分区或费用。
+
+## 2026-09-15：CIOP 2026 会后官方证据
+
+- [东南大学 PICAS 团队记录](https://www.seu-picas.com/team_activities/107.html)直接读取，确认 7/24–27、南京国际青年会议酒店、三方主办和 18 专题；7/25 是开幕日。团队域名可由[东南大学教师页](https://electronic.seu.edu.cn/lt/list.htm)核对，后者本轮通过官方搜索返回。
+- [南京大学团队动态](https://quantum.nju.edu.cn/44880/list.htm)官方检索返回参会记录，交叉支持会期。
+- ciop.com.cn 仍读取失败，[Researching 当届入口](https://www.researching.cn/conference/CIOP2026)返回 502。第三方转载有摘要字数和不同注册日期，本批不采作核实值；会后记录不能支持投稿规则或索引保证。

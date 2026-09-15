@@ -253,12 +253,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "信息光学与光子学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.seu-picas.com/team_activities/107.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ciop-2026"],
+    "decisionReason": "联合主办方团队会后记录确认当届会期、会场与系列身份，收录历史届次；征稿字段保持未知。",
+    "nextAction": "恢复当届官方征稿页面以补历史截止、格式和出版；另行核实下一届公告。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-bcd4807340",

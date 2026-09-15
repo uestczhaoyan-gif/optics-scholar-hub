@@ -1532,5 +1532,52 @@
         "source": "https://www.wsof2027.org/index.php/important-dates/"
       }
     ]
+  },
+  {
+    "id": "ciop-2026",
+    "series": "CIOP",
+    "year": 2026,
+    "name": "第十七届国际信息光学与光子学学术会议",
+    "nameEn": "17th International Conference on Information Optics and Photonics (CIOP 2026)",
+    "region": "中国境内",
+    "location": "中国 · 南京",
+    "venue": "南京国际青年会议酒店",
+    "start": "2026-07-24",
+    "end": "2026-07-27",
+    "topics": [
+      "综合光学",
+      "集成光子",
+      "纳米与超表面",
+      "激光与非线性",
+      "传感与测量",
+      "量子光学",
+      "光通信"
+    ],
+    "description": "中国激光杂志社、南京大学和东南大学共同主办的信息光学与光子学会议，覆盖 18 个专题，包含邀请、口头、快闪与张贴报告。",
+    "website": "https://ciop.com.cn/",
+    "notice": "https://www.seu-picas.com/team_activities/107.html",
+    "registration": null,
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "已结束的历史届次。主办方团队记录确认有自由投稿及多类报告，但本轮未取得原始征稿要求；摘要长度、模板和提交方法待原公告核实，不用于下一届投稿。"
+    ],
+    "publication": "本轮会后记录未给出明确论文集及检索安排，不推定所有报告或自由投稿均正式出版。",
+    "notes": "会期、会场依据东南大学 PICAS 课题组会后记录，学校教师页可核对其团队网站身份；南京大学量子光学团队记录亦确认 7/24–27。7/25 是开幕日，不替代会议首日。官网与 Researching 当届页面读取失败，核心链接暂指向会后记录，非 CFP。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史投稿截止待原公告核实",
+        "date": null,
+        "source": "https://www.seu-picas.com/team_activities/107.html"
+      },
+      {
+        "type": "registration",
+        "label": "历史注册截止待原公告核实",
+        "date": null,
+        "source": "https://www.seu-picas.com/team_activities/107.html"
+      }
+    ]
   }
 ]
