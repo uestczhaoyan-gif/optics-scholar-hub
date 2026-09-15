@@ -10,6 +10,8 @@
 
 候选审核与覆盖统计见 [候选管理说明](docs/CANDIDATES.md)，可运行 `pnpm report:coverage`。
 
+后续新开对话请先阅读 [续接说明与剩余任务](docs/RESUME.md)（2026-09-15 暂停交接）。
+
 ### 当前功能
 
 后续建设见 [分步规划](docs/ROADMAP.md)，本轮核验范围见 [官方复核记录](docs/VERIFICATION_LOG.md)，日常操作见 [维护手册](docs/MAINTENANCE.md)。

@@ -1,6 +1,6 @@
 # 后续工作规划 / Roadmap
 
-更新：2026-09-14；本次基于当前 JSON、代码、工作流及核验日志汇总；逐批执行结果见文末。
+更新：2026-09-15；用户暂时停止建设，恢复入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
 
 ## 当前结果与原规划对照
 
@@ -19,7 +19,7 @@
 
 ## 数据缺口快照
 
-统计自 2026-09-14 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或当前数据库覆盖已确认。
+统计自 2026-09-15 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或当前数据库覆盖已确认。
 
 | 项目                   | 已有记录的期刊数 | 尚需处理                                                                              |
 | ---------------------- | ---------------- | ------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 14 September 2026 from the current catalog and verification log. The catalog contains 74 journals, 35 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 15 September 2026. Work is paused at the user’s request; see [the resumption handoff](RESUME.md) before continuing in a new conversation. The catalog contains 74 journals, 35 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 61 journals and CAS records for 10. SCIE has 18 and EI has 23 positive publisher-supported records; none currently has database-level indexing evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -285,3 +285,7 @@ InfoMat 新增 Wiley 明确 SCIE 声明，肯定记录增至 18/74；EI 不变�
 ### 2026-09-15：HPL 索引历史线索
 
 为 HPL SCIE 保存 2017 主办机构公告，标清历史证据与当前核验的区别。当前覆盖仍需数据库或现行出版社清单，状态不升级，肯定索引数量不变。
+
+### 2026-09-15：暂停交接
+
+已新增 RESUME.md，保存基线、具体待办、冲突与证据边界、恢复命令、逐批发布验收及可复制的新对话提示。Codex 五小时续接任务已暂停；项目规划尚未全部完成。
