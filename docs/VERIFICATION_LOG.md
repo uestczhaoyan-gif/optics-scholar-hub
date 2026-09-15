@@ -458,3 +458,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - 官方域名 [About](https://ufo2025.fc.up.pt/about/)、[委员会](https://ufo2025.fc.up.pt/committee/)和[最终日程公告](https://ufo2025.fc.up.pt/news/post-04/)的检索结果确认正式名称 Ultrafast Optics、第十四届、2025-10-05 至 10-10、Furnas 与组织团队；本轮主页和日程 PDF 直接读取失败，证据方式明确为官方检索返回。
 - [新闻](https://ufo2025.fc.up.pt/news/)中延期通知写 2025-04-16 23:59:59 CET，未擅改成 CEST。未查得可验证的下一届通知，不根据周期造出 2027 会期，也不将 USQS/Ultrafast Phenomena 合并。候选继续 pending，正式目录数量不变。
+
+## 2026-09-15：USQS 2027
+
+- [中文首页](https://www.usqs.com.cn/)与[英文首页](https://www.usqs.com.cn/en/)直接读取，确认第四届、2027-01-17 至 01-22、三亚崖州湾科技城创新研学谷和主办单位。投稿截止 2026-12-31 仅日期精度。
+- [英文投稿页](https://www.usqs.com.cn/en/h-col-126.html)直接读取，2027 模板名、PDF、英文题目摘要、照片和 1.2 m × 0.9 m 海报明确；模板内部未读取，不虚构篇幅限制。中文投稿入口本轮 cache miss。
+- [英文注册页](https://www.usqs.com.cn/en/h-col-122.html)仍为 USQS2026，旧付款图片和退款日期不能支持本届费用；中文注册页 cache miss。保留注册未知，未提交任何表单。合作期刊待招募，不能推定正式出版或索引。

@@ -1673,5 +1673,54 @@
         "source": "https://icors2026.org/registration/"
       }
     ]
+  },
+  {
+    "id": "usqs-2027",
+    "series": "USQS",
+    "year": 2027,
+    "name": "第四届超快科学与量子感知国际会议",
+    "nameEn": "4th International Conference on Ultrafast Science and Quantum Sensing",
+    "region": "中国境内",
+    "location": "中国 · 三亚",
+    "venue": "海南省三亚市崖州湾科技城创新研学谷",
+    "start": "2027-01-17",
+    "end": "2027-01-22",
+    "topics": [
+      "激光与非线性",
+      "量子光学",
+      "传感与测量",
+      "生物医学光学",
+      "集成光子"
+    ],
+    "description": "由华东师范大学、北京大学、华东师范大学重庆研究院和三亚崖州湾科技城管理局主办，覆盖超快激光、频率梳、量子计量、太赫兹、生物医学光子学和光场调控。",
+    "website": "https://www.usqs.com.cn/",
+    "notice": "https://www.usqs.com.cn/en/h-col-126.html",
+    "registration": null,
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "使用官网 USQS2027_Submission_Form.docx 模板，完成后转成 PDF 上传；题目与摘要须用英文，另按页面提示附个人照片。",
+      "在线表单要求姓名、单位、邮箱、报告类型、专题、题目和摘要；上传栏标注最多 1 个文件、每个不超过 10 MB。个人照片的具体提交位置及摘要字数/页数仍须查模板或向会务确认。",
+      "官网提供海报模板，标注宽 1.2 m、高 0.9 m；不要套用其他会议海报尺寸。"
+    ],
+    "publication": "本轮未核实正式论文集出版或检索安排；中文首页合作期刊仍待招募，不将合作意向写成期刊录用或 SCI/EI 保证。",
+    "notes": "中英文首页均明确 2027-01-17 至 01-22、2026-12-31 投稿截止，并宣布系统开放。英文注册入口仍显示 USQS2026、旧年度付款图片及旧退款提示，因此不采其费用和退款时间为 2027 规则，注册直链暂留空；从主页确认当届通知后再报名。当前下载区的 2024–2026 手册不作 2027 投稿要求依据。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "专题投稿截止",
+        "date": "2026-12-31",
+        "source": "https://www.usqs.com.cn/",
+        "note": "首页仅给日期，具体时刻和时区未明示；按当前投稿页的英文题目/摘要要求归类。"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布",
+        "date": null,
+        "source": "https://www.usqs.com.cn/",
+        "note": "旧版英文注册页的费用与退款日期未采为本届规则。"
+      }
+    ]
   }
 ]

@@ -3790,5 +3790,22 @@
     "decisionReason": "学会当届主页明确会期、投稿与早鸟截止，官方检索确认宁波；具体会场待核实。",
     "nextAction": "补具体场馆和最终日程，核实出版及注册入口；不与 OFS 国际系列合并。",
     "reviewedAt": "2026-09-15"
+  },
+  {
+    "candidateId": "conference-series-usqs",
+    "name": "超快科学与量子感知国际会议",
+    "aliases": [
+      "USQS",
+      "International Conference on Ultrafast Science and Quantum Sensing"
+    ],
+    "kind": "conference-series",
+    "priority": 2,
+    "scopeHint": "超快光学、量子计量与感知及交叉应用",
+    "sourceEntry": "https://www.usqs.com.cn/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["usqs-2027"],
+    "decisionReason": "当届中英文官网确认会期、会场和主办方，2027 投稿模板与表单已发布。",
+    "nextAction": "复核 2027 注册页面及费用、模板内篇幅限制、录用通知和出版安排；不沿用旧年度注册信息。",
+    "reviewedAt": "2026-09-15"
   }
 ]
