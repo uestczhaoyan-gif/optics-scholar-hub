@@ -481,3 +481,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [官方总指南](https://link.springer.com/journal/43593/submission-guidelines)直接读取，核实可编辑文件、图件规格、当前常规 APC 与仅邀稿 Commentary 的独立价格。费用以录用日定价并可能另加税费，酌情减免须投稿时申请。
 - [Letter](https://link.springer.com/journal/43593/submission-guidelines/letter)直接读取，摘要 150–250 词、关键词 3–10 个、正文分节和 Declarations 已补齐。该摘要限制未外推到其他稿型。
 - 只更新 requirements/publishing，保留原索引、分区与整刊核验日期。其他稿型细则及数据库覆盖仍需后续逐项核验。
+
+## 2026-09-15：CLEO/Europe–EQEC 2027
+
+- [官网首页](https://www.cleoeurope.org/)直接读取，明确两处 2027-06-21 至 06-25 预告及再次相聚慕尼黑；只采当届预告，不把 2025 页眉或讲者名单当作 2027。
+- [截止页](https://www.cleoeurope.org/deadlines/)直接读取仍为 2025，[征稿页](https://www.cleoeurope.org/submission/)官方检索亦标 2025。当届投稿、注册、具体场馆及出版保留未知；IEEE/Optica 出版说明属于上届会后总结。

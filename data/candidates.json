@@ -163,12 +163,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "区分各地区系列，不作为 CLEO 同一届次",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.cleoeurope.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["cleo-europe-eqec-2027"],
+    "decisionReason": "官网明确预告 2027-06-21 至 06-25 在慕尼黑举办，作为当届预告收录；旧年度征稿不复用。",
+    "nextAction": "跟踪 2027 征稿、具体会场、注册与出版；主页讲者和 IEEE/Optica 论文集说明仍属 2025。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-e6ae36e513",

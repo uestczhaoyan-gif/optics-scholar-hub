@@ -1723,5 +1723,45 @@
         "note": "旧版英文注册页的费用与退款日期未采为本届规则。"
       }
     ]
+  },
+  {
+    "id": "cleo-europe-eqec-2027",
+    "series": "CLEO/Europe–EQEC",
+    "year": 2027,
+    "name": "欧洲激光与光电会议暨欧洲量子电子学会议",
+    "nameEn": "CLEO/Europe–EQEC",
+    "region": "海外",
+    "location": "德国 · 慕尼黑",
+    "venue": "2027 具体会场待核实",
+    "start": "2027-06-21",
+    "end": "2027-06-25",
+    "topics": ["综合光学", "激光与非线性", "量子光学"],
+    "description": "面向激光物理、光学工程、激光应用、非线性光学和量子科学的欧洲会议系列；此条为官网已发布的 2027 届次预告，中文名称为编辑译名。",
+    "website": "https://www.cleoeurope.org/",
+    "notice": "https://www.cleoeurope.org/",
+    "registration": null,
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "本轮官网仅确认 2027 会期和慕尼黑城市；当届征稿、模板、篇幅及提交系统尚待核实。",
+      "Submission 和 Deadlines 页面仍明确标注 2025，不能将其中口头/海报选择、PDP、注册与截止安排平移为 2027 规则。"
+    ],
+    "publication": "2027 出版与检索安排待官方当届通知。首页 IEEE/Optica 论文集说明属于 2025 会后总结，不作为 2027 出版承诺。",
+    "notes": "官网页眉及讲者名单仍为 2025；仅采用明确标注 2027 的下一届预告。与美国 CLEO 独立记录，不将两系列时间、征稿或费用混用。具体场馆不沿用历史届次。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2027 投稿截止待公布",
+        "date": null,
+        "source": "https://www.cleoeurope.org/"
+      },
+      {
+        "type": "registration",
+        "label": "2027 注册截止待公布",
+        "date": null,
+        "source": "https://www.cleoeurope.org/"
+      }
+    ]
   }
 ]
