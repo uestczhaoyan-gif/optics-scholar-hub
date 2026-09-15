@@ -406,3 +406,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [首页](https://www.ewofs2027.org/)直接读取，第九届、阿威罗、2027-09-07 至 09-10 已预告。
 - [重要日期](https://www.ewofs2027.org/abstracts/important-dates)仍为 Available soon；[投稿指南](https://www.ewofs2027.org/abstracts/submission-guidelines)和[会场](https://www.ewofs2027.org/venue)返回开发登录页，未尝试登录。委员会读取失败，出版未核实。
 - 保存候选官方入口、当前已知信息和下一步核验条件，暂不新增正式会议。候选与正式目录数量不变。
+
+## 2026-09-15：WSOF 2027 当届预告
+
+- [官网](https://www.wsof2027.org/)和[General Information](https://www.wsof2027.org/index.php/general-information/)直接读取，确认第九届、2027-09-26 至 09-30、耶拿 Volkshaus 会场，Leibniz IPHT 团队与研究方向。主办地址和实际会场分别辨认。
+- [摘要页](https://www.wsof2027.org/index.php/abstracts/)说明短报告/海报及 2027 年春季开放；[时间表](https://www.wsof2027.org/index.php/important-dates/)注册亦仅给季节。未填具体日，不将登录框当成投稿已开放。出版、篇幅及截止未核实，明确留空。

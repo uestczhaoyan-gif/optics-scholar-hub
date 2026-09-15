@@ -3755,5 +3755,22 @@
     "decisionReason": "总表和标头写 9 月 10 日；正文称第二届全球微显示产业发展论坛暨 XR 生态大会为 9 月 9–10 日，需核实是一日子活动还是同一活动会期冲突。",
     "nextAction": "查组织方最终日程或会后报道，区分微显示论坛与 XR 生态大会的层级及日期后再收录。",
     "reviewedAt": "2026-09-14"
+  },
+  {
+    "candidateId": "conference-series-wsof",
+    "name": "Workshop on Specialty Optical Fibers and Their Applications（WSOF）",
+    "aliases": [
+      "WSOF",
+      "Workshop on Specialty Optical Fibers and Their Applications"
+    ],
+    "kind": "conference-series",
+    "priority": 2,
+    "scopeHint": "特种光纤、制造、激光、生医与传感",
+    "sourceEntry": "https://www.wsof2027.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["wsof-2027"],
+    "decisionReason": "当届官网明确组织团队、会期、场馆与专题；投稿未开放，保留未知。",
+    "nextAction": "跟踪 2027 年春季正式摘要与注册通知，核实出版和稿件规则。",
+    "reviewedAt": "2026-09-15"
   }
 ]

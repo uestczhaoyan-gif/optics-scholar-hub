@@ -1487,5 +1487,50 @@
         "source": "https://ofs30.org/post-deadline-papers/"
       }
     ]
+  },
+  {
+    "id": "wsof-2027",
+    "series": "WSOF",
+    "year": 2027,
+    "name": "第九届特种光纤及其应用研讨会",
+    "nameEn": "9th Workshop on Specialty Optical Fibers and Their Applications",
+    "region": "海外",
+    "location": "德国 · 耶拿",
+    "venue": "Volkshaus Jena, Carl-Zeiß-Platz 15, 07743 Jena",
+    "start": "2027-09-26",
+    "end": "2027-09-30",
+    "topics": [
+      "光学材料",
+      "光学设计与制造",
+      "激光与非线性",
+      "生物医学光学",
+      "传感与测量"
+    ],
+    "description": "由 Leibniz IPHT 团队组织的特种光纤学术研讨会，涉及空芯、微结构及非石英光纤、制造、光纤激光、生医与传感，包含短口头报告、海报及配套展览。",
+    "website": "https://www.wsof2027.org/",
+    "notice": "https://www.wsof2027.org/index.php/abstracts/",
+    "registration": null,
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "摘要计划于 2027 年春季开放，可申请短口头报告或海报；格式、篇幅、在线提交要求和截止日尚待公布。"
+    ],
+    "publication": "当届出版渠道、论文集及索引未公布，不从往届出版情况推定。",
+    "notes": "会场依据 General Information 页，未把主办研究所地址当作会场。Important dates 仅给摘要和注册开放季节，不换算成具体日期；页面登录框不代表已经开放投稿。配套展览不单独算作另一届学术会议。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要：计划 2027 年春季开放，截止待公布",
+        "date": null,
+        "source": "https://www.wsof2027.org/index.php/abstracts/"
+      },
+      {
+        "type": "registration",
+        "label": "注册：计划 2027 年春季开放，截止待公布",
+        "date": null,
+        "source": "https://www.wsof2027.org/index.php/important-dates/"
+      }
+    ]
   }
 ]
