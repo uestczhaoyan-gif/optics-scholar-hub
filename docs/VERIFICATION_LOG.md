@@ -469,3 +469,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - 从[官方投稿页](https://www.usqs.com.cn/en/h-col-126.html)的下载链接获取 USQS2027_Submission_Form.docx 到临时目录，只读提取 OOXML 段落及表格文字。文件标题标明 USQS 2027；英文序数原文为 4rd，目录仍使用官网正文确认的第四届。
 - 模板明确照片放在 Speaker’s Biography 之后，补中英文姓名、单位、专题、邮箱、电话字段。Full Paper / Abstract 栏未写明篇幅限制，不将预留空白推断为页数上限，也不认定必须全文。未创建或修改官方 DOCX，仅更新目录的事实说明。
+
+## 2026-09-15：PhotoniX 投稿与费用
+
+- [官方指南](https://link.springer.com/journal/43074/submission-guidelines)直接读取，核实作者提交、可编辑格式、双倍行距、行页号、图题 15 词/图注 300 词和单图 10 MB。
+- [Research 细则](https://link.springer.com/journal/43074/submission-guidelines/research)核实摘要无引文、3–10 关键词、章节可合并/调整及 Declarations；不将未公开数据等同于无需可用性声明。
+- 同一指南当前 APC 为 GBP 1850 / USD 2317 / EUR 2050，录用日期定价，适用税费另计；酌情减免须投稿时申请。费用文本带核验日期，未承诺个人减免资格。只更新 requirements/publishing，整刊日期、索引分区不变。

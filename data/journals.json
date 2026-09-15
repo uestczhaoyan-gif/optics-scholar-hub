@@ -1487,10 +1487,13 @@
     "website": "https://link.springer.com/journal/43074",
     "guide": "https://link.springer.com/journal/43074/submission-guidelines",
     "requirements": [
-      "按 Research、Review、Perspective 或 Comment 对应指南准备稿件，并由论文作者通过官网 Editorial Manager 入口提交。",
-      "稿件需包含数据与材料可用性说明；格式、图表及补充材料按当前作者指南准备。"
+      "按 Research、Review、Perspective 或 Comment 对应指南准备稿件，由论文作者通过官网 Editorial Manager 提交，不接受第三方代投。",
+      "正文双倍行距，带行号和页码，采用 SI 单位；准备可编辑 DOC/DOCX、RTF 或 TeX/LaTeX 源文件。仅有 PDF 时，返修或无返修的录用后仍须补可编辑文件。",
+      "Research：摘要概括研究目的与发现，不引参考文献；关键词 3–10 个。正文包含 Introduction、Results、Discussion、Conclusions 和 Methods/Experimental；Results 与 Discussion 可合并，Methods 也可放在 Introduction 后。",
+      "Research 的 Declarations 包含数据与材料可用性、利益冲突、资助、作者贡献和致谢；不适用的栏目仍保留并写 Not applicable，Authors’ information 为可选。数据不能公开时也须说明获取条件。",
+      "图按正文首次引用顺序编号，多面板合为一个文件；图题最多 15 词、图注最多 300 词，放在正文文件中；单个图文件不超过 10 MB。"
     ],
-    "publishing": "开放获取期刊；录用文章收取 APC，金额、税费和减免以录用时官方费用页为准。",
+    "publishing": "开放获取。2026-09-15 核验出版社指南：当前 APC 为 GBP 1850 / USD 2317 / EUR 2050，适用时另加 VAT 或当地税费，最终价格按录用日期确定。酌情减免申请须在投稿时提出；机构协议覆盖情况须另核实。",
     "schedule": "常规投稿与专题征稿分别核对；首次决定统计不代表录用时间，本站不承诺审稿周期。",
     "checkedAt": "2026-09-10",
     "rankings": [],
