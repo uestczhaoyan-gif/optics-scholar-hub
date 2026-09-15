@@ -435,3 +435,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [现行指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=inocaj)直接读取，页面标注更新 2026-08-27。核实 Articles 无固定长度、Communications 2200 词及计数范围、摘要 200 词、TOC 图和实验支持材料。
 - 核实 Reviews 邀稿/可先提案与 10000 词上限、Viewpoints 5–10 出版页；未将可提案描述为可直接提交非邀稿综述。预印本须披露、链接、正文引用；审理期间“不鼓励更新”未写成禁止。
 - 仅更新投稿要求，不刷新整刊 checkedAt；具体表征规则仍按研究对象查 Data Requirements，索引与分区不由指南推断。
+
+## 2026-09-15：QCMC 候选核验
+
+- [永久官网](https://www.qcmc-conference.org/)直接读取：系列始于 1990 年，下一届明确为 2027，范围包含量子通信、计量、计算、网络及信息理论。
+- [征稿页](https://www.qcmc-conference.org/call-abstracts.html)尚未发布当届征稿；[新闻页](https://www.qcmc-conference.org/news)仍有通常偶数年举办的旧描述，不用周期推导出 2026 届次或具体日期。
+- 修正候选原有 QIP 文本，保存稳定入口和身份边界；同名近似缩写 ICQCMC、QCNC 搜索结果不作为本系列当届依据。状态保持 pending，不新增会议数量。

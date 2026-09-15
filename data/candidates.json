@@ -855,13 +855,13 @@
     ],
     "kind": "conference-series",
     "priority": 2,
-    "scopeHint": "QIP 是条件交叉，不等于光学会议",
-    "sourceEntry": null,
+    "scopeHint": "量子通信、密码、传感与计量、网络和信息理论；并非仅限光学平台",
+    "sourceEntry": "https://www.qcmc-conference.org/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "永久官网确认系列始于 1990 年，下一届为 2027；当前未公布具体日期、城市或征稿，保留候选。已修正原误写的 QIP 提示。",
+    "nextAction": "跟踪 https://www.qcmc-conference.org/call-abstracts.html 的当届通知，核实会期、城市、投稿与出版；不与 ICQCMC 或 QCNC 合并。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-17086a3ce9",
