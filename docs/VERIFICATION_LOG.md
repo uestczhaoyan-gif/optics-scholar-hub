@@ -464,3 +464,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [中文首页](https://www.usqs.com.cn/)与[英文首页](https://www.usqs.com.cn/en/)直接读取，确认第四届、2027-01-17 至 01-22、三亚崖州湾科技城创新研学谷和主办单位。投稿截止 2026-12-31 仅日期精度。
 - [英文投稿页](https://www.usqs.com.cn/en/h-col-126.html)直接读取，2027 模板名、PDF、英文题目摘要、照片和 1.2 m × 0.9 m 海报明确；模板内部未读取，不虚构篇幅限制。中文投稿入口本轮 cache miss。
 - [英文注册页](https://www.usqs.com.cn/en/h-col-122.html)仍为 USQS2026，旧付款图片和退款日期不能支持本届费用；中文注册页 cache miss。保留注册未知，未提交任何表单。合作期刊待招募，不能推定正式出版或索引。
+
+## 2026-09-15：USQS 2027 模板内部核验
+
+- 从[官方投稿页](https://www.usqs.com.cn/en/h-col-126.html)的下载链接获取 USQS2027_Submission_Form.docx 到临时目录，只读提取 OOXML 段落及表格文字。文件标题标明 USQS 2027；英文序数原文为 4rd，目录仍使用官网正文确认的第四届。
+- 模板明确照片放在 Speaker’s Biography 之后，补中英文姓名、单位、专题、邮箱、电话字段。Full Paper / Abstract 栏未写明篇幅限制，不将预留空白推断为页数上限，也不认定必须全文。未创建或修改官方 DOCX，仅更新目录的事实说明。
