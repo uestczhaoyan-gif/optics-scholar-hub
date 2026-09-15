@@ -1579,5 +1579,46 @@
         "source": "https://www.seu-picas.com/team_activities/107.html"
       }
     ]
+  },
+  {
+    "id": "ofs-china-2026",
+    "series": "OFS-China",
+    "year": 2026,
+    "name": "第十四届中国光纤传感大会",
+    "nameEn": "14th China Conference on Optical Fiber Sensing (OFS-China 2026)",
+    "region": "中国境内",
+    "location": "中国 · 宁波",
+    "venue": "具体会场待核实",
+    "start": "2026-10-22",
+    "end": "2026-10-25",
+    "topics": ["传感与测量", "生物医学光学", "电子与器件"],
+    "description": "中国光学工程学会、上海交通大学和宁波大学主办，涵盖光纤传感原理、器件及工程应用；与国际 OFS 系列分别记录。",
+    "website": "https://b2b.csoe.org.cn/meeting/ofsc2026.html",
+    "notice": "https://b2b.csoe.org.cn/meeting/ofsc2026.html",
+    "registration": "https://b2b.csoe.org.cn/registration/ofsc2026_cn.html",
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "投稿入口：https://b2b.csoe.org.cn/submission/ofsc2026_cn.html 。需稿件及保密审查证明，具体操作按官方模板。",
+      "申请 SPIE 论文集：先交 500–600 词英文摘要，录用后按通知上传英文全文；申请会议专刊或合作期刊：初投全文，由相应专家组或编辑部审核。",
+      "仅交流不发表：提交 400–500 字中文长摘要并选择“仅交流，不发表”，可申请口头或张贴。报告语言为中文，海报推荐 0.8×0.8 米。"
+    ],
+    "publication": "会议专刊及合作期刊需另经审稿，推荐不等于录用。官网标注 SPIE 论文集 EI，实际单篇出版与检索仍待确认；不把支持期刊清单当成各刊当前索引证据。",
+    "notes": "城市依据学会会议检索页，具体酒店未核实。官网称审稿结果最晚截稿后两周内发通讯作者，未换算为精确通知日。普通/学生标准费 2900/2000 元，早鸟 2700/1800 元；注册入口本轮 403，费用与流程据会议主页。截止只公布日期，未补造时刻。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "最终投稿（按所选通道交摘要或全文）",
+        "date": "2026-09-15",
+        "source": "https://b2b.csoe.org.cn/meeting/ofsc2026.html"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册",
+        "date": "2026-09-22",
+        "source": "https://b2b.csoe.org.cn/meeting/ofsc2026.html"
+      }
+    ]
   }
 ]

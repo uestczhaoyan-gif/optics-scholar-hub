@@ -3772,5 +3772,19 @@
     "decisionReason": "当届官网明确组织团队、会期、场馆与专题；投稿未开放，保留未知。",
     "nextAction": "跟踪 2027 年春季正式摘要与注册通知，核实出版和稿件规则。",
     "reviewedAt": "2026-09-15"
+  },
+  {
+    "candidateId": "conference-series-ofs-china",
+    "name": "中国光纤传感大会（OFS-China）",
+    "aliases": ["OFS-China", "中国光纤传感大会"],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "光纤传感及工程应用",
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/ofsc2026.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ofs-china-2026"],
+    "decisionReason": "学会当届主页明确会期、投稿与早鸟截止，官方检索确认宁波；具体会场待核实。",
+    "nextAction": "补具体场馆和最终日程，核实出版及注册入口；不与 OFS 国际系列合并。",
+    "reviewedAt": "2026-09-15"
   }
 ]
