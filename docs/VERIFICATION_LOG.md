@@ -453,3 +453,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [现行指南](https://www.nature.com/nphoton/submission-guidelines)及[稿型页](https://www.nature.com/nphoton/content)直接读取，补 Article 3000 词/200 词摘要/6 图表、章节与指导性参考文献数；Review/Perspective 另列适用限制。
 - [初投格式](https://www.nature.com/nphoton/submission-guidelines/initial-formatting)确认无需特定套版、TeX 提交编译 PDF；[投稿前咨询](https://www.nature.com/nphoton/submission-guidelines/presubmission-enquiries)明确不接受。News & Views 的选题提议不推广为普通研究稿咨询通道。
 - 原 for-authors 读取失败，guide 改为已验证入口。仅核验投稿字段，整刊 checkedAt、索引、分区和费用保持原值。
+
+## 2026-09-15：UFO 系列候选
+
+- 官方域名 [About](https://ufo2025.fc.up.pt/about/)、[委员会](https://ufo2025.fc.up.pt/committee/)和[最终日程公告](https://ufo2025.fc.up.pt/news/post-04/)的检索结果确认正式名称 Ultrafast Optics、第十四届、2025-10-05 至 10-10、Furnas 与组织团队；本轮主页和日程 PDF 直接读取失败，证据方式明确为官方检索返回。
+- [新闻](https://ufo2025.fc.up.pt/news/)中延期通知写 2025-04-16 23:59:59 CET，未擅改成 CEST。未查得可验证的下一届通知，不根据周期造出 2027 会期，也不将 USQS/Ultrafast Phenomena 合并。候选继续 pending，正式目录数量不变。

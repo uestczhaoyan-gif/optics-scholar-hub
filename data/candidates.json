@@ -879,17 +879,21 @@
   },
   {
     "candidateId": "conference-series-fb3cf0f27d",
-    "name": "International Conference on Ultrafast Optics（UFO）",
-    "aliases": ["UFO", "International Conference on Ultrafast Optics"],
+    "name": "Ultrafast Optics（UFO）",
+    "aliases": [
+      "UFO",
+      "Ultrafast Optics",
+      "International Conference on Ultrafast Optics"
+    ],
     "kind": "conference-series",
     "priority": 2,
-    "scopeHint": "系列准确名称、周期与当前主办方",
-    "sourceEntry": null,
+    "scopeHint": "超短脉冲产生、操控与测量；包含高峰值/平均功率激光、相干合成和超快光学技术。",
+    "sourceEntry": "https://ufo2025.fc.up.pt/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方大学域名的 About、委员会及最终日程检索结果确认 UFO XIV 于 2025-10-05 至 10-10 在葡萄牙亚速尔 Furnas 举行；当前未核实后续届次，保留候选。",
+    "nextAction": "跟踪下一届官方公告；如补历史届次，继续核实完整征稿与会场证据。2025 延期通知的 CET 时区写法需核对，不直接按欧洲夏令时转换；不得将 Ultrafast Phenomena 或 USQS 混作本系列。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-06bcdca55d",
