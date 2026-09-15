@@ -870,12 +870,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "基础与应用光谱的适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://icors2026.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["icors-2026"],
+    "decisionReason": "当届官网、场馆页及正式日程确认拉曼光谱系列身份与 2026 会期；已收录历史届次，保留旧预告日期差异。",
+    "nextAction": "跟踪后续届次和 JRS 独立专刊通知；报告数量在摘要页与注册套餐间存在口径差异，须向会务确认。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-fb3cf0f27d",

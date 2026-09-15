@@ -441,3 +441,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [永久官网](https://www.qcmc-conference.org/)直接读取：系列始于 1990 年，下一届明确为 2027，范围包含量子通信、计量、计算、网络及信息理论。
 - [征稿页](https://www.qcmc-conference.org/call-abstracts.html)尚未发布当届征稿；[新闻页](https://www.qcmc-conference.org/news)仍有通常偶数年举办的旧描述，不用周期推导出 2026 届次或具体日期。
 - 修正候选原有 QIP 文本，保存稳定入口和身份边界；同名近似缩写 ICQCMC、QCNC 搜索结果不作为本系列当届依据。状态保持 pending，不新增会议数量。
+
+## 2026-09-15：ICORS 2026
+
+- [正式日程](https://icors2026.org/scientific-programme/)直接读取，8/23 开幕、8/27 闭幕；与[现行首页](https://icors2026.org/)一致。旧 General Information、学校预告和出版社专刊简介的 8/28 不覆盖实际日程，差异保留在条目。
+- [场馆](https://icors2026.org/venue/)确认 ITU SDKM Ayazağa 校区；[摘要规则](https://icors2026.org/abstract-submission/)明确 350 词、AbstractAgent、英文和竖版海报要求。与[注册页](https://icors2026.org/registration/)的报告数量口径不一致，未自行合并为额外资格。
+- [JRS 专刊](https://analyticalsciencejournals.onlinelibrary.wiley.com/hub/journal/10974555/call-for-papers/si-2026-000428)直接读取，截止 2027-02-01；会后期刊稿独立评审，不作为会议摘要截止，不推断 SCI/EI 保证。未将残留投稿按钮认作仍开放。

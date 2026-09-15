@@ -1620,5 +1620,58 @@
         "source": "https://b2b.csoe.org.cn/meeting/ofsc2026.html"
       }
     ]
+  },
+  {
+    "id": "icors-2026",
+    "series": "ICORS",
+    "year": 2026,
+    "name": "第29届国际拉曼光谱会议",
+    "nameEn": "29th International Conference on Raman Spectroscopy",
+    "region": "海外",
+    "location": "土耳其 · 伊斯坦布尔",
+    "venue": "Istanbul Technical University Süleyman Demirel Kültür Merkezi（SDKM），Ayazağa 校区，34469 Maslak",
+    "start": "2026-08-23",
+    "end": "2026-08-27",
+    "topics": [
+      "传感与测量",
+      "生物医学光学",
+      "纳米与超表面",
+      "光学材料",
+      "激光与非线性"
+    ],
+    "description": "面向拉曼光谱基础、仪器与应用，涵盖 SERS/TERS、相干及超快光谱、生物医学成像、材料分析与遥感；本条为已结束的 2026 届次。",
+    "website": "https://icors2026.org/",
+    "notice": "https://icors2026.org/abstract-submission/",
+    "registration": "https://icors2026.org/registration/",
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "通过官网链接进入 AbstractAgent 在线系统；不接受邮件摘要。英文摘要最多 350 词，题目、作者、单位及图表不计入；不设独立参考文献节。题目最多 300 字符，关键词 3–5 个。",
+      "可申请口头或海报，最终形式由科学委员会决定；报告作者须完成注册缴费才能进入日程和摘要集。摘要页允许每位注册者一个口头加一个海报，但注册页套餐写最多一项贡献，两处口径不同，额外报告资格需向会务确认。",
+      "海报竖版，最多高 180 cm、宽 90 cm，作者自行打印携带。会后页面仍保留提交按钮，不代表本届继续接收摘要。"
+    ],
+    "publication": "会议摘要集与期刊专刊分开。Journal of Raman Spectroscopy 的 ICORS2026 专刊独立同行评审，出版社征稿截止为 2027-02-01，投稿时选择对应 special issue；参会不等于期刊录用。Applied Spectroscopy Practica 仅被列为另一个可考虑的投稿刊物。",
+    "notes": "正式 Scientific Programme 列出 8/23 开幕及 8/27 闭幕，与现行首页一致，采用 8/23–27；旧 General Information、学校活动预告及 JRS 专刊简介仍写 8/23–28，保留版本差异，不以旧预告覆盖正式日程。JRS 专刊截止属于会后期刊投稿，未并入会议摘要 DDL。专刊通知：https://analyticalsciencejournals.onlinelibrary.wiley.com/hub/journal/10974555/call-for-papers/si-2026-000428 。普通摘要由 3/9 延至 4/19；海报按钮没有独立截止，未自行推算。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通摘要截止（延期后）",
+        "date": "2026-04-19",
+        "source": "https://icors2026.org/"
+      },
+      {
+        "type": "notification",
+        "label": "摘要最终通知日期（滚动审理）",
+        "date": "2026-04-20",
+        "source": "https://icors2026.org/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2026-05-15",
+        "source": "https://icors2026.org/registration/"
+      }
+    ]
   }
 ]
