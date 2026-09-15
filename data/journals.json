@@ -7,10 +7,14 @@
     "topics": ["综合光学", "光学材料", "量子光学"],
     "description": "关注光的产生、操控与探测，覆盖基础物理、光电子器件及应用研究。",
     "website": "https://www.nature.com/nphoton/",
-    "guide": "https://www.nature.com/nphoton/for-authors",
+    "guide": "https://www.nature.com/nphoton/submission-guidelines",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "Article：正文最多 3000 词，不计摘要、Methods、参考文献和图注；无引文摘要最多 200 词，图与表合计最多 6 项。参考文献通常建议不超过 50 条，属于指导值。",
+      "Article 分为无标题 Introduction、Results、Discussion 和 Online Methods；Results 与 Methods 使用主题小标题，Discussion 不设小标题。",
+      "初投无需专门套版，接受 PDF、Word 或 TeX/LaTeX；使用 TeX/LaTeX 时提交编译后的 PDF。录用后须按正式排版要求整理文本和图片。",
+      "本刊不接受 presubmission enquiries（投稿前咨询）。通过官方 Submission Guidelines 的 Submit manuscript 进入在线系统；可选择双匿名评审，须另按匿名化要求处理文件。",
+      "Review 正文 3000–4000 词、参考文献最多 100 条（特殊情况可例外）；Perspective 最多 3000 词、50 条参考文献。不要将研究稿篇幅套用于综述。",
+      "News & Views 通常不考虑主动投来的成稿，但允许先提出选题建议；这一特定稿型规则与常规投稿前咨询不同。通讯作者须在最终接收前将 ORCID 关联至投稿系统。"
     ],
     "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",

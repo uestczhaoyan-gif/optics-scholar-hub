@@ -447,3 +447,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [正式日程](https://icors2026.org/scientific-programme/)直接读取，8/23 开幕、8/27 闭幕；与[现行首页](https://icors2026.org/)一致。旧 General Information、学校预告和出版社专刊简介的 8/28 不覆盖实际日程，差异保留在条目。
 - [场馆](https://icors2026.org/venue/)确认 ITU SDKM Ayazağa 校区；[摘要规则](https://icors2026.org/abstract-submission/)明确 350 词、AbstractAgent、英文和竖版海报要求。与[注册页](https://icors2026.org/registration/)的报告数量口径不一致，未自行合并为额外资格。
 - [JRS 专刊](https://analyticalsciencejournals.onlinelibrary.wiley.com/hub/journal/10974555/call-for-papers/si-2026-000428)直接读取，截止 2027-02-01；会后期刊稿独立评审，不作为会议摘要截止，不推断 SCI/EI 保证。未将残留投稿按钮认作仍开放。
+
+## 2026-09-15：Nature Photonics 投稿要求
+
+- [现行指南](https://www.nature.com/nphoton/submission-guidelines)及[稿型页](https://www.nature.com/nphoton/content)直接读取，补 Article 3000 词/200 词摘要/6 图表、章节与指导性参考文献数；Review/Perspective 另列适用限制。
+- [初投格式](https://www.nature.com/nphoton/submission-guidelines/initial-formatting)确认无需特定套版、TeX 提交编译 PDF；[投稿前咨询](https://www.nature.com/nphoton/submission-guidelines/presubmission-enquiries)明确不接受。News & Views 的选题提议不推广为普通研究稿咨询通道。
+- 原 for-authors 读取失败，guide 改为已验证入口。仅核验投稿字段，整刊 checkedAt、索引、分区和费用保持原值。
