@@ -475,3 +475,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [官方指南](https://link.springer.com/journal/43074/submission-guidelines)直接读取，核实作者提交、可编辑格式、双倍行距、行页号、图题 15 词/图注 300 词和单图 10 MB。
 - [Research 细则](https://link.springer.com/journal/43074/submission-guidelines/research)核实摘要无引文、3–10 关键词、章节可合并/调整及 Declarations；不将未公开数据等同于无需可用性声明。
 - 同一指南当前 APC 为 GBP 1850 / USD 2317 / EUR 2050，录用日期定价，适用税费另计；酌情减免须投稿时申请。费用文本带核验日期，未承诺个人减免资格。只更新 requirements/publishing，整刊日期、索引分区不变。
+
+## 2026-09-15：eLight 分稿型说明
+
+- [官方总指南](https://link.springer.com/journal/43593/submission-guidelines)直接读取，核实可编辑文件、图件规格、当前常规 APC 与仅邀稿 Commentary 的独立价格。费用以录用日定价并可能另加税费，酌情减免须投稿时申请。
+- [Letter](https://link.springer.com/journal/43593/submission-guidelines/letter)直接读取，摘要 150–250 词、关键词 3–10 个、正文分节和 Declarations 已补齐。该摘要限制未外推到其他稿型。
+- 只更新 requirements/publishing，保留原索引、分区与整刊核验日期。其他稿型细则及数据库覆盖仍需后续逐项核验。

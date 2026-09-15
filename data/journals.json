@@ -1885,10 +1885,13 @@
     "description": "覆盖光学、光子学与电磁学，侧重新兴方向和交叉领域的突破性研究。",
     "website": "https://link.springer.com/journal/43593",
     "requirements": [
-      "由论文作者本人通过官网投稿入口提交；按 Research Article、Review、Letter、Tutorial 等相应类型准备稿件。",
-      "正文采用双倍行距、行号与页码，上传可编辑 Word 或 TeX/LaTeX 文件；补充数据可用性及相关声明。"
+      "由论文作者本人通过官网 Editorial Manager 入口提交；按 Research Article、Review、Letter、Tutorial 或 Commentary 的对应指南准备，Commentary 仅限邀稿。",
+      "正文双倍行距、行号与页码，使用 SI 单位；准备可编辑 Word、RTF 或 TeX/LaTeX。若使用不可编辑文件，返修时或无返修的录用后仍须补可编辑稿。",
+      "Letter：摘要 150–250 词，避免未定义缩写和未明确的参考文献；关键词 3–10 个，正文可用简短小标题分节。该摘要限制只在本轮核实的 Letter 稿型下适用。",
+      "Letter 的 Declarations 包含数据与材料可用性、利益冲突、资助、作者贡献和致谢；不适用的栏目保留标题并写 Not applicable，Authors’ information 可选。数据无法公开时说明原因及获取条件。",
+      "图按引用顺序编号，多面板合成一个文件；图题最多 15 词、图注最多 300 词并放在正文文件，单图文件不超过 10 MB。"
     ],
-    "publishing": "开放获取，采用 CC BY；录用文章收取 APC，费用以录用日期及 Fees and funding 页为准，酌情减免应在投稿时申请。",
+    "publishing": "开放获取。2026-09-15 核验官方指南：常规 APC 为 GBP 1790 / USD 2590 / EUR 2090；仅限邀稿的 Commentary 为 GBP 940 / USD 1295 / EUR 1090。最终按录用日价格，适用 VAT 或当地税费另计；酌情减免须在投稿时申请，机构协议另查。",
     "guide": "https://link.springer.com/journal/43593/submission-guidelines",
     "schedule": "常规稿件通过现官网系统受理，专题另查通知；初审、评审和出版分别计时，不将历史平均天数当作保证。",
     "checkedAt": "2026-09-11",
