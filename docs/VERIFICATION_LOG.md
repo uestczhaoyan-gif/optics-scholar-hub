@@ -486,3 +486,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - [官网首页](https://www.cleoeurope.org/)直接读取，明确两处 2027-06-21 至 06-25 预告及再次相聚慕尼黑；只采当届预告，不把 2025 页眉或讲者名单当作 2027。
 - [截止页](https://www.cleoeurope.org/deadlines/)直接读取仍为 2025，[征稿页](https://www.cleoeurope.org/submission/)官方检索亦标 2025。当届投稿、注册、具体场馆及出版保留未知；IEEE/Optica 出版说明属于上届会后总结。
+
+## 2026-09-15：CLEO-PR 2026
+
+- [官方域名](https://cleopr2026.org.cn/)直接返回指向[百格当届站](https://www.bagevent.com/event/9077151)的链接，确认 8/2–6、北京国际会议中心及主办方；学会[会后报道](https://cncos.org.cn/Content/view/id/2068.html)官方检索支持，直接读取 cache miss。
+- [投稿指南](https://www.bagevent.com/event/9077151/p/566129)直接读取，核实 35 词/2 页、PDF eXpress 70283X、6/26 终稿及版权条件；Optica 现场报告与 IEEE 选择出版通道分别记录。
+- [注册公告](https://www.cncos.org.cn/Content/view/id/2043.html)官方检索返回优惠截止 7/8；只存日期，不补时刻。学会 EI 声明作为主办方说法注明，未核实实际数据库条目，不视为保证。

@@ -1763,5 +1763,58 @@
         "source": "https://www.cleoeurope.org/"
       }
     ]
+  },
+  {
+    "id": "cleo-pr-2026",
+    "series": "CLEO-PR",
+    "year": 2026,
+    "name": "第十七届环太平洋激光和光电子会议",
+    "nameEn": "17th Pacific Rim Conference on Lasers and Electro-Optics",
+    "region": "中国境内",
+    "location": "中国 · 北京",
+    "venue": "北京国际会议中心",
+    "start": "2026-08-02",
+    "end": "2026-08-06",
+    "topics": ["综合光学", "激光与非线性", "集成光子", "量子光学"],
+    "description": "由中国光学学会、北京大学、清华大学联合主办，涵盖激光与光电子器件及工程应用；独立于美国 CLEO 和 CLEO/Europe–EQEC。本条为已结束的 2026 届次。",
+    "website": "https://cleopr2026.org.cn/",
+    "notice": "https://www.bagevent.com/event/9077151/p/566129",
+    "registration": "https://www.cncos.org.cn/Content/view/id/2043.html",
+    "checkedAt": "2026-09-15",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "通过官网指向的百格活动系统提交 PDF：35 词摘要和最多 2 页概要；页数包含题目、作者、摘要、公式、图表和参考文献。A4 纸，四周边距 2.54 cm。",
+      "审稿后由程序委员会决定录用及口头/海报形式；概要正文和图表避免依赖非英文字体包，确保审稿可读。",
+      "拟进入 IEEE Xplore 的录用稿须完成 PDF eXpress 检查（会议 ID 70283X）及 IEEE e-Copyright，在个人中心 Submit the Full Text 提交；终稿截止为 2026-06-26。"
+    ],
+    "publication": "官网说明已注册且现场报告的作者可在 Optica 平台查找论文；IEEE Xplore 仅适用于选择该出版通道并完成相应手续的稿件。学会征稿公告称 EI 收录，本目录尚未逐篇核实实际数据库记录，不作保证。",
+    "notes": "官网 cleopr2026.org.cn 明确指向百格当届站。首页 Key Dates 周围的 2025-08-27 等为发布标签，不是会议截止日；采用其明确标注的 2026 日期。同期展览不另计一届论文会议。下一届未核实，不依据周期推算。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-03-28",
+        "source": "https://www.bagevent.com/event/9077151"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知",
+        "date": "2026-04-28",
+        "source": "https://www.bagevent.com/event/9077151"
+      },
+      {
+        "type": "camera-ready",
+        "label": "IEEE PDF eXpress 终稿截止",
+        "date": "2026-06-26",
+        "source": "https://www.bagevent.com/event/9077151/p/566129"
+      },
+      {
+        "type": "registration",
+        "label": "优惠注册截止",
+        "date": "2026-07-08",
+        "source": "https://www.cncos.org.cn/Content/view/id/2043.html"
+      }
+    ]
   }
 ]

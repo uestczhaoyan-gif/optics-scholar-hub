@@ -149,12 +149,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "区分各地区系列，不作为 CLEO 同一届次",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://cleopr2026.org.cn/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["cleo-pr-2026"],
+    "decisionReason": "当届官网及学会公告确认 2026 北京届次、会场和投稿/出版规则，已收录历史记录。",
+    "nextAction": "跟踪下一届正式通知；实际论文出版与 EI 覆盖须逐篇核实，不按举办周期推算日期。",
+    "reviewedAt": "2026-09-15"
   },
   {
     "candidateId": "conference-series-280e7bbb19",
