@@ -492,3 +492,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [官方域名](https://cleopr2026.org.cn/)直接返回指向[百格当届站](https://www.bagevent.com/event/9077151)的链接，确认 8/2–6、北京国际会议中心及主办方；学会[会后报道](https://cncos.org.cn/Content/view/id/2068.html)官方检索支持，直接读取 cache miss。
 - [投稿指南](https://www.bagevent.com/event/9077151/p/566129)直接读取，核实 35 词/2 页、PDF eXpress 70283X、6/26 终稿及版权条件；Optica 现场报告与 IEEE 选择出版通道分别记录。
 - [注册公告](https://www.cncos.org.cn/Content/view/id/2043.html)官方检索返回优惠截止 7/8；只存日期，不补时刻。学会 EI 声明作为主办方说法注明，未核实实际数据库条目，不视为保证。
+
+## 2026-09-15：维护复核与 HPL 刊号
+
+- 重新生成本地维护队列，331 项为字段任务而非会议数量；[OFS-China 官方页](https://b2b.csoe.org.cn/meeting/ofsc2026.html)直接读取仍为 9/15 最终投稿，与目录一致，未发现可据以延长截止的公告。
+- Cambridge [期刊介绍](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/about-this-journal)及[主页](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering)官方检索返回明确 Print 2095-4719、Online 2052-3289；补 HPL 两个刊号。仅核实刊号，不由 ISSN 存在推定 SCIE/EI，也不刷新整刊 checkedAt。
