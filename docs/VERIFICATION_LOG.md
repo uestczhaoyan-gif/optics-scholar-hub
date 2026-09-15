@@ -497,3 +497,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - 重新生成本地维护队列，331 项为字段任务而非会议数量；[OFS-China 官方页](https://b2b.csoe.org.cn/meeting/ofsc2026.html)直接读取仍为 9/15 最终投稿，与目录一致，未发现可据以延长截止的公告。
 - Cambridge [期刊介绍](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/about-this-journal)及[主页](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering)官方检索返回明确 Print 2095-4719、Online 2052-3289；补 HPL 两个刊号。仅核实刊号，不由 ISSN 存在推定 SCIE/EI，也不刷新整刊 checkedAt。
+
+## 2026-09-15：HPL 历史索引证据
+
+- [上海光机所 2017 公告](https://siom.cas.cn/xwzx/tpxw/201704/t20170414_4776092.html)直接读取，确认其当时宣布 SCIE 收录并追溯创刊论文。主办机构消息按非数据库证据保存，状态仍 unverified，不以历史公告证明当前覆盖。
+- [Cambridge 索引页](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/about-this-journal/abstracting-and-indexing)直接读取只有栏目标题，没有可见索引清单；未解读为未收录，也未据此确认 SCIE/EI。未填覆盖起止年，未修改分区及整刊日期。

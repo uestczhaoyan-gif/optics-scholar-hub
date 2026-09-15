@@ -956,12 +956,12 @@
       {
         "database": "SCIE",
         "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "evidence": "secondary",
+        "source": "https://siom.cas.cn/xwzx/tpxw/201704/t20170414_4776092.html",
+        "checkedAt": "2026-09-15",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+        "note": "主办机构上海光机所 2017 年公告称 HPL 获 SCIE 收录并追溯创刊论文；这是历史声明，非当前数据库直查。2026-09-15 Cambridge 索引页读取未显示清单，当前覆盖仍待核实。"
       },
       {
         "database": "EI_COMPENDEX",
