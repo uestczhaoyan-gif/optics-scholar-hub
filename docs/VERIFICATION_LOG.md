@@ -411,3 +411,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - [官网](https://www.wsof2027.org/)和[General Information](https://www.wsof2027.org/index.php/general-information/)直接读取，确认第九届、2027-09-26 至 09-30、耶拿 Volkshaus 会场，Leibniz IPHT 团队与研究方向。主办地址和实际会场分别辨认。
 - [摘要页](https://www.wsof2027.org/index.php/abstracts/)说明短报告/海报及 2027 年春季开放；[时间表](https://www.wsof2027.org/index.php/important-dates/)注册亦仅给季节。未填具体日，不将登录框当成投稿已开放。出版、篇幅及截止未核实，明确留空。
+
+## 2026-09-15：两刊综述提案与材料
+
+- [ACS Nano 作者指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=ancac3)直接读取，核实非邀稿 Review/Perspective 先提案、1–2 页内容清单，以及研究稿引言、摘要、关键词和章节要求。提案近期综述比较一项原文存在未完句，未自行补写其要求。
+- [Chemical Reviews 作者指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=chreay)直接读取，核实官方模板、提案总计最多 5 页/提纲 2–3 页、至少 5 名推荐审稿人及 Focus Review 出版页限制。没有把编辑常见处理时间作为时限承诺。
+- 仅补 requirements；未全量核验期刊，不刷新 checkedAt，不修改索引、分区或费用。

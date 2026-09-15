@@ -2865,8 +2865,10 @@
     "website": "https://pubs.acs.org/chreay",
     "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=chreay",
     "requirements": [
-      "未受邀作者应先用官方 proposal 模板向 ACS Publishing Center 提交提案，含详细提纲、既有综述及作者相关成果，获同意后再提交全文。",
-      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+      "无编辑邀请或已获批准的 proposal，不受理全文。未受邀作者须使用官方提案模板，经 ACS Publishing Center 提交。",
+      "提案总计不超过 5 页，其中详细主题提纲 2–3 页；另含作者信息、既有综述/书籍章节、作者 5 篇相关论文、预计参考文献与双倍行距页数、计划提交日期。",
+      "提案和邀稿综述提交时均须推荐至少 5 位领域审稿人；提案批准或邀稿不等于全文录用，全文仍经同行评审。",
+      "Focus Review 最多 20 个正式出版页，官网折算约 60 个双倍行距投稿页（含图表、参考文献）；同样须邀稿或先获提案批准。普通综述不套用该上限。"
     ],
     "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
   },
@@ -2920,8 +2922,10 @@
     "website": "https://pubs.acs.org/ancac3",
     "guide": "https://researcher-resources.acs.org/publish/author_guidelines?coden=ancac3",
     "requirements": [
-      "按 ACS Nano 作者清单准备综合性研究或相应综述类型，说明原创性、技术质量和对纳米科学的意义；返修前再次对照 Author Checklist。",
-      "通过本刊官方作者指南核对正文、图件、Supporting Information、作者与利益冲突声明，并确认当前版权和开放获取选项。"
+      "Articles 摘要最多 250 词，不作新颖性宣称；引言不超过 1000 词且不加 Introduction 标题，需 5–7 个关键词。",
+      "研究稿包括 Results 和/或 Discussion、Conclusions、Methods 或 Experimental Section；补充材料单独提交。返修前对照本刊 Author Checklist。",
+      "未受邀的 Review 或 Perspective 作者须先提交提案，获批准后才能交全文；提案 1–2 页，含拟题、通讯作者信息、稿型、作者 5 篇相关论文、近期同题综述清单及约 400 词主题说明。",
+      "Reviews 摘要最多 250 词，需 8–10 个关键词与 5–7 个术语释义；Perspectives 摘要最多 120 词。具体篇幅及提案提交依官网当前要求。"
     ],
     "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
   },
