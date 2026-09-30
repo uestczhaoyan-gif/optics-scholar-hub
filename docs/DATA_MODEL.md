@@ -45,6 +45,8 @@
 
 `evidence: database` 可来自数据库方公开的当前来源表或平台查询；note 必须区分具体方式。公开来源表应注明版本、表名/行号及刊号匹配，核对停收清单；清单版本日期不作为覆盖起止年，也不代表单篇已检索。2026-09-30 Compendex 核验记录见 [来源表证据](INDEX_EVIDENCE_2026-09-30.md)。
 
+Clarivate MJL 的公开查询需按刊号核对结果卡中的刊名、刊号与 Core Collection 具体子库；侧栏过滤器勾选、JCR 影响因子或历史分区不能替代结果证据。来源保存刊号查询入口，note 区分公开结果卡与需登录的 profile/单篇检索。卡片未提供的覆盖年份保持 null；SCIE 和 ESCI 分别保存。
+
 准入为至少一条 Q1/Q2 记录或 confirmed EI 记录。rankings 可以为空。索引标签的出版社声明不等于数据库核实；组合筛选由 lib/catalog.ts 实现，约束在 scripts/validate-journal.mjs。
 
 每条 ranking 独立保存：system（JCR/CAS）、edition、year、metricYear（JCR 可选）、category、level、quartile、source、evidence。CAS level 必须 major/minor。derived 记录需 rank 和 total；推算值不等于数据库核验结果。secondary 不满足“仅官方/排名推算”筛选。

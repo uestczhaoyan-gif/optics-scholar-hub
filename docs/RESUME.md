@@ -9,7 +9,7 @@
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
 - 正式目录：74 本期刊、35 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：269 项，118 admitted、148 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
-- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 18、ESCI 8、EI 42。24 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；五本中文刊另核对 2026-07-10 中文表），其余肯定证据仍为出版社声明；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [匹配记录](INDEX_EVIDENCE_2026-09-30.md)。
+- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 30、ESCI 8、EI 42。24 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；五本中文刊另核对 2026-07-10 中文表），另有 12 本 SCIE 已经 Clarivate MJL 公开结果卡查询确认，其他肯定证据为出版社声明；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [匹配记录](INDEX_EVIDENCE_2026-09-30.md)。
 - 交叉适配样例仅 AFM、Nature Electronics、Nature Materials、Nature Nanotechnology 完成至少 3 篇；其余仍需系统补充。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
 
@@ -26,7 +26,7 @@
 | 优先级 | 任务与可执行入口                                                                                                                        | 保留的边界                                                                                                         |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | P1     | 按新生成维护队列查 ACP、IPC、IRMMW-THz、OMTA、OPTIC、Photonics West；关注 FiO 进行中及 OFS-China 后续通知                               | 9/30 首批已更新 OMTA 会期/最终轮/缴费和 Photonics West 幻灯片截止。旧 OFS-China 与 Laser Congress 截止不当未来提醒 |
-| P1     | 补 SCIE/ESCI/EI 与分区：先 HPL、LPR、ACS 系列、APL Photonics/APR、核心光学刊；按 ISSN 查询官方平台和出版社索引清单                      | HPL 刊号已补，2017 SCIE 公告仅历史线索；Cambridge 索引页只读到标题，不能据此确认或否定当前收录                     |
+| P1     | 补 SCIE/ESCI/EI 与分区：先 HPL、LPR、ACS 系列、APL Photonics/APR、核心光学刊；按 ISSN 查询官方平台和出版社索引清单                      | HPL、核心光学九刊及 AIP 两刊 SCIE 已获当前 MJL 依据；ACS 等继续逐刊核对，不能由影响因子推断 SCIE                   |
 | P1     | 补已收录的未来会议：USQS 2027、CLEO/Europe–EQEC 2027、ICOLS 2027、ICO 2027、WSOF 2027                                                   | USQS 英文注册页仍是 2026；欧洲 CLEO 征稿页仍为 2025；会期已知不代表投稿开放                                        |
 | P1     | 解决 deferred：NDTA 2026、CIOE 纳米压印论坛、CIOE 微显示论坛                                                                            | NDTA 酒店已有官方依据，中英文摘要长度仍冲突；两个 CIOE 活动日期/母子层级有冲突，未解决继续暂缓                     |
 | P1/P2  | 每批审核 5–8 个会议系列：先进光学制造、Advanced Lithography、Astronomical Telescopes、Medical Imaging、Optical Metrology、OPIC、APOS 等 | 从 data/candidates.json 取真实当前状态；区分母会、分会、展览以及不同地区的 CLEO                                    |
@@ -39,6 +39,8 @@
 已新增/核实 ICORS 2026、USQS 2027、CLEO/Europe–EQEC 2027、CLEO-PR 2026；补 Nature Photonics、PhotoniX、eLight 投稿细则及后两刊带核验日期的 APC；核实 USQS DOCX 材料字段；补 HPL 两个刊号和历史 SCIE 线索。更多早期成果以日志为准，避免重新从零检索。
 
 9/30 已完成临近会议批次 B 及 Compendex A1/A2 共 24 本的来源表核验。上表优先刊的 EI 部分已处理，下一批重点核对 SCIE/ESCI、分区及其他 EI；当日维护队列为 302 项字段任务，临近日期仍需按后续实际日期重生成报告。旧自动化保持暂停。
+
+随后 A3 已补十二本当前 SCIE 的 MJL 数据库查询依据；维护队列降为 290 项字段任务。核心九刊、HPL 与 AIP 两刊的 SCIE 不需从零重复核验；继续 ACS 等剩余索引与分区、会议候选。
 
 ## 数据与发布要求
 

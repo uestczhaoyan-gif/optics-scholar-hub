@@ -1,4 +1,6 @@
-# 2026-09-30 Compendex 来源表核验
+# 2026-09-30 索引证据核验
+
+## 批次 A1：Compendex 优先刊（12 本）
 
 来源：[Elsevier Compendex 官方产品页](https://www.elsevier.com/products/engineering-village/databases/compendex)的 View source list 链接指向[公开 XLSX](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。核验日 2026-09-30；SERIALS 表首注明 2026-08-07，DISCONTINUED 表首注明 2026-05-01。
 
@@ -47,3 +49,26 @@
 五本中文刊同时按刊号、中文名和英文/音译名核对。中国光学（中英文）匹配现刊号 2097-1842，未借用历史刊号替代。中文表列出的 Renewed 是源表 2026 状态，并非覆盖开始年。Photonics Research 的刊号列位置与目录电子刊号分类不同，保留目录刊号类型。未改变其他索引、分区和整刊日期。
 
 批次 A1 提交 f77161d 的 [Pages 36705869178](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36705869178) build/deploy 均成功；线上 catalog-version.json HTTP 200。
+
+## 批次 A3：Clarivate 当前 SCIE 查询（12 本）
+
+2026-09-30 使用 [Clarivate Master Journal List](https://mjl.clarivate.com/home)公开搜索界面，保持默认四个 Core Collection 子库过滤均开启，逐刊输入目录刊号，等待结果卡载入后核对唯一 Exact Match、刊名、刊号和具体子库。以下 12 本结果卡均明确列 SCIE；不是根据侧栏已勾选的 SCIE 过滤器或影响因子推断。
+
+| 期刊                                             | 查询刊号  | 结果卡显示刊号        | 来源                                                                                         |
+| ------------------------------------------------ | --------- | --------------------- | -------------------------------------------------------------------------------------------- |
+| High Power Laser Science and Engineering         | 2052-3289 | 2095-4719 / 2052-3289 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2052-3289&hide_exact_match_fl=true) |
+| Advances in Optics and Photonics                 | 1943-8206 | 1943-8206             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1943-8206&hide_exact_match_fl=true) |
+| Optica                                           | 2334-2536 | 2334-2536             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2334-2536&hide_exact_match_fl=true) |
+| Photonics Research                               | 2327-9125 | 2327-9125             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2327-9125&hide_exact_match_fl=true) |
+| Journal of Lightwave Technology                  | 0733-8724 | 0733-8724 / 1558-2213 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0733-8724&hide_exact_match_fl=true) |
+| Journal of Optical Communications and Networking | 1943-0620 | 1943-0620 / 1943-0639 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1943-0620&hide_exact_match_fl=true) |
+| Optics Express                                   | 1094-4087 | 1094-4087             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1094-4087&hide_exact_match_fl=true) |
+| Optics Letters                                   | 0146-9592 | 0146-9592 / 1539-4794 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0146-9592&hide_exact_match_fl=true) |
+| Biomedical Optics Express                        | 2156-7085 | 2156-7085             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2156-7085&hide_exact_match_fl=true) |
+| Optical Materials Express                        | 2159-3930 | 2159-3930             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2159-3930&hide_exact_match_fl=true) |
+| APL Photonics                                    | 2378-0967 | 2378-0967             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2378-0967&hide_exact_match_fl=true) |
+| Applied Physics Reviews                          | 1931-9401 | 1931-9401             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1931-9401&hide_exact_match_fl=true) |
+
+source 保存按刊号的查询入口。官方 Share This Journal 生成的 HPL 地址在域名后多了 ://，删除这段后用浏览器验证可重现；页面载入后自动移除参数，重新查询可用表内刊号。未登录需免费账号的 profile 页面，未获取覆盖起止年或单篇记录。各 SCIE 字段设为 confirmed / database，覆盖起止年继续 null；EI、ESCI、分区和整刊日期未改。HPL 当前依据替代未核实的历史声明，2017 公告仍保留在历史日志。
+
+批次 A2 提交 22cf6ed 的 [Pages 36707140446](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36707140446) build/deploy 成功；线上版本 4f423d0109b7052bb953174de00622a54987249ace305b2c34adc67bdab5d7e8 与本地一致。

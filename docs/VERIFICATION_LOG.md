@@ -531,3 +531,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 中国激光、光学学报、激光与光电子学进展、中国光学（中英文）、红外与激光工程已有 EI 肯定值，升级 evidence 为 database，未增加重复计数。中文表按刊号/中文名/英文或音译名对应，五本均列 2026 Renewed。中国光学使用现刊号 2097-1842；Photonics Research 刊号类型列位置差异不用于改写目录。
 - 累计 EI 42/74、数据库方来源表 24/74；SCIE 18、ESCI 8、JCR 61、中科院 10 不变。coverageStart/End 未推断，其他索引及整刊日期未改。候选与正式目录数量不变；核心刊 SCIE 和分区、其他 EI 来源记录、指南/样例及会议候选继续开放。
 - 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与静态资源验证、`git diff --check`；维护队列为 302 项字段任务，覆盖报告仍为 12 个主题、269 项候选。逐批提交推送，部署按对应 SHA 再确认。
+
+## 2026-09-30：Clarivate SCIE 批次 A3（12 本）
+
+- 恢复检查：main 与 origin/main 均为 22cf6ed、工作区干净；[上一批 Pages 36707140446](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36707140446)成功，线上 catalog-version 与本地 4f423d… 相同。本地维护报告 302 项字段任务、覆盖报告 12 主题/269 候选。旧自动化保持暂停。
+- Cambridge HPL 索引正文仍没有可见清单；Optica 当届指标表及 PR 介绍只说明 JCR/影响因子，不据此确认 SCIE。改用 [Clarivate MJL 官方搜索](https://mjl.clarivate.com/home)，浏览器按 ISSN 查询十二本，逐一核对唯一 Exact Match、刊名/刊号及结果卡 Core Collection 中的 Science Citation Index Expanded。未登录 profile、未做单篇检索；各记录来源为可按刊号重现的查询入口。
+- HPL、AOP、Optica、PR、JLT、JOCN、OE、OL、BOE、OME、APL Photonics、Applied Physics Reviews 的 SCIE 由 unverified 改为 confirmed / database，checkedAt 仅该字段设为 2026-09-30；当前肯定记录 30/74，SCIE 数据库查询依据 12 本。匹配表及查询方式见 [证据页 A3](INDEX_EVIDENCE_2026-09-30.md)。HPL 2017 历史声明仍保留在原日志，不把历史覆盖作为当前起点。
+- EI 42/74（数据库方来源表 24 本）、ESCI 8、JCR 61、中科院 10 不变；期刊 74、会议 35、活动 9，候选状态与数量不变。覆盖起止年和整刊日期不改。
+- 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源验证；差异核对仅十二本 SCIE 字段变化，EI 和其他期刊信息无变化。维护队列为 290 项字段任务；差异检查通过。

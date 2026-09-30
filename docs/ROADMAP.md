@@ -21,14 +21,14 @@
 
 统计自 2026-09-30 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或所有单篇实际数据库覆盖已确认。
 
-| 项目                  | 已有记录的期刊数 | 尚需处理                                                                                            |
-| --------------------- | ---------------- | --------------------------------------------------------------------------------------------------- |
-| JCR 分区              | 61 / 74          | 其余 13 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核               |
-| 中科院分区            | 10 / 74          | 其余 64 本；同时核对版本、大类、小类，未知不补造                                                    |
-| SCIE 肯定记录         | 18 / 74          | 其余 56 本没有肯定记录；不等于未被收录                                                              |
-| EI Compendex 肯定记录 | 42 / 74          | 其余 32 本没有肯定记录；不等于未被收录                                                              |
-| ESCI 肯定记录         | 8 / 74           | 独立保存，不换算为 SCIE                                                                             |
-| 数据库方来源表证据    | 24 本            | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，其余继续按 ISSN 复核 |
+| 项目                  | 已有记录的期刊数 | 尚需处理                                                                                                               |
+| --------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| JCR 分区              | 61 / 74          | 其余 13 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                  |
+| 中科院分区            | 10 / 74          | 其余 64 本；同时核对版本、大类、小类，未知不补造                                                                       |
+| SCIE 肯定记录         | 30 / 74          | 其余 44 本没有肯定记录；不等于未被收录                                                                                 |
+| EI Compendex 肯定记录 | 42 / 74          | 其余 32 本没有肯定记录；不等于未被收录                                                                                 |
+| ESCI 肯定记录         | 8 / 74           | 独立保存，不换算为 SCIE                                                                                                |
+| 数据库方索引证据      | EI 24 / SCIE 12  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 查询；两类期刊有重叠 |
 
 JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前 AFM、Nature Electronics、Nature Materials 与 Nature Nanotechnology 已记录样例。作者指南受限条目也未全部核验格式与收费。
 
@@ -64,7 +64,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 Updated 30 September 2026. Manual work has resumed at the user's request; the old Codex automation remains paused. See [the resumption handoff](RESUME.md) before continuing in a new conversation. The catalog contains 74 journals, 35 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 61 journals and CAS records for 10. SCIE has 18 and EI has 42 positive records. Twenty-four EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 61 journals and CAS records for 10. SCIE has 30 and EI has 42 positive records. Twenty-four EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Twelve SCIE records have current Clarivate MJL search-result evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. Completed batches are recorded below; remaining tasks stay explicitly open.
 
@@ -301,3 +301,7 @@ InfoMat 新增 Wiley 明确 SCIE 声明，肯定记录增至 18/74；EI 不变�
 ### 2026-09-30：Compendex 批次 A2
 
 新增 AOP、PR、JLT、JOCN、OL、BOE、OME 七本 EI 来源表证据，并将五本中文刊已有 EI 出版社证据升级为数据库方来源表，中文表明确 2026 Renewed。累计 EI 肯定记录 42 本、数据库方来源表 24 本。各表版本分开保存，起止年继续未知；A1 提交 f77161d Pages 已确认成功。SCIE/JCR/CAS、更多 EI、交叉样例及候选继续按剩余规划处理。
+
+### 2026-09-30：Clarivate SCIE 批次 A3
+
+按刊号在 MJL 公开结果卡核对 HPL、核心光学九刊及 AIP 两刊，新增 12 条当前数据库 SCIE 依据，肯定记录 18→30。保留未知覆盖年份，不混用检索过滤器与结果子库；EI 与分区不变。上批 A2 提交 22cf6ed 的 Pages 构建、部署和线上数据版本已确认。ACS 等当前 SCIE、JCR/CAS、指南与候选继续开放。
