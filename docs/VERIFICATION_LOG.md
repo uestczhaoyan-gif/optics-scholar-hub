@@ -513,3 +513,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [NDTA 桌面页](https://b2b.csoe.org.cn/meeting/NDTA2026.html) Hotel & Travel 已列苏州宝带桥国际大酒店、吴中区太湖东路 1 号，更新候选范围与下一步。中英文投稿段仍分别为 300–500 / 500–600 词，继续 deferred，待统一规则；未将 9/30 第二轮当作后续未来截止。移动页本轮读取失败，不据此宣称失效。
 - 正式数量保持 74 本期刊、35 届会议、9 项活动；候选保持 118 admitted / 148 pending / 3 deferred。[OFS-China 页首](https://b2b.csoe.org.cn/meeting/ofsc2026.html)仍列 9/15 最终投稿，未发现延长依据；9/22 早鸟及 Laser Congress 9/22 PDP 不恢复为未来提醒。[Laser Congress 现页](https://www.optica.org/events/congress/laser_congress/submit_papers/)仍列 10/11–15 会期、35 词/2 页规则，但正文提取未保留 PDP 日期，不据此更改历史截止或刷新全条目。
 - 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建及静态资源验证、`git diff --check`。首次受限 Windows 构建在退出阶段报错，获得环境执行授权后的完整重试成功；未修改构建代码。
+
+## 2026-09-30：Compendex 数据库方证据批次 A1（12 本）
+
+- 上批提交 `1515ec6` 的 [Pages 36704905503](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36704905503) build 与 deploy 均成功；线上首页 HTTP 200 并含修改后的日期。首次线上 catalog-version 请求超时，未将空响应解释为版本不一致，也未重做提交。
+- 从 [Elsevier 官方 Compendex 产品页](https://www.elsevier.com/products/engineering-village/databases/compendex)的 View source list 下载当前链接的 `COMPENDEX_Source-list-082026.xlsx`，只读检查 SERIALS（2026-08-07）与 DISCONTINUED（2026-05-01），保留下载摘要和逐刊行号，详见 [证据记录](INDEX_EVIDENCE_2026-09-30.md)。各表版本不同，核验日与源版本分别保存；不由文件名或更新日推断覆盖起点。
+- 12 本按印刷/电子 ISSN 任一精确匹配并核对刊名、Journal 类型和出版社：HPL、Laser & Photonics Reviews、ACS Photonics、ACS Nano、ACS Sensors、Nano Letters、Chemical Reviews、Inorganic Chemistry、APL Photonics、Applied Physics Reviews、Optica、Optics Express。SERIALS 均有唯一记录，DISCONTINUED 无匹配，EI 由 unverified 改为 confirmed / database。Optica/OE 的清单刊号列位置与目录类型不同，仅匹配身份，不改写刊号类型。
+- evidence=database 表示数据库方公开来源表依据，未登录 Engineering Village 或逐篇搜索；每个 note 明确方式、版本和行号，起止年继续 null。SCIE、ESCI、JCR/CAS、整刊日期、指南和费用未改，特别是 HPL 的 SCIE 历史线索不随 EI 升级。Wiley LPR 现页仍支持已有 SCIE 声明，不为无变化重复刷新日期。
+- EI 肯定记录增至 35/74，其中 12 本为数据库方来源表；SCIE 18、ESCI 8、JCR 61、中科院 10 不变。正式目录与候选数量不变；下一批可复用同一公开版本核对核心光学和中文 EI，其他当前子库及分区仍待独立核验。
+- 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建/静态资源验证与差异检查；维护队列为 314 项字段任务。新证据页保存 12 本行号与来源版本，未提交整份来源表。
