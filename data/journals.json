@@ -57,13 +57,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1749-4885&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 1749-4885 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -1180,13 +1180,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2330-4022&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 2330-4022 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -1661,12 +1661,12 @@
       {
         "database": "SCIE",
         "status": "confirmed",
-        "evidence": "publisher",
-        "source": "https://onlinelibrary.wiley.com/page/journal/18638899/homepage/productinformation.html",
-        "checkedAt": "2026-09-13",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1863-8880&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "Wiley 官方索引列表明确列出 SCIE；尚待数据库直查。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 1863-8880 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2398,13 +2398,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2520-1131&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 2520-1131 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2473,13 +2473,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1476-1122&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 1476-1122 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2548,13 +2548,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1748-3387&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 1748-3387 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2623,13 +2623,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2041-1723&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 2041-1723 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2843,13 +2843,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0009-2665&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 0009-2665 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2900,13 +2900,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1936-0851&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 1936-0851 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -2957,13 +2957,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1530-6984&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 1530-6984 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -3014,13 +3014,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0020-1669&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 0020-1669 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",
@@ -3072,13 +3072,13 @@
     "indexes": [
       {
         "database": "SCIE",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2379-3694&hide_exact_match_fl=true",
+        "checkedAt": "2026-09-30",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Clarivate Master Journal List 公开浏览器查询：以 ISSN 2379-3694 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。"
       },
       {
         "database": "EI_COMPENDEX",

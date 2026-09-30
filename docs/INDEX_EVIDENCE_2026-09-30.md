@@ -72,3 +72,26 @@
 source 保存按刊号的查询入口。官方 Share This Journal 生成的 HPL 地址在域名后多了 ://，删除这段后用浏览器验证可重现；页面载入后自动移除参数，重新查询可用表内刊号。未登录需免费账号的 profile 页面，未获取覆盖起止年或单篇记录。各 SCIE 字段设为 confirmed / database，覆盖起止年继续 null；EI、ESCI、分区和整刊日期未改。HPL 当前依据替代未核实的历史声明，2017 公告仍保留在历史日志。
 
 批次 A2 提交 22cf6ed 的 [Pages 36707140446](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36707140446) build/deploy 成功；线上版本 4f423d0109b7052bb953174de00622a54987249ace305b2c34adc67bdab5d7e8 与本地一致。
+
+## 批次 A4：ACS、LPR 与 Nature 交叉刊（12 本）
+
+继续使用 A3 的 MJL 公开界面与相同刊号核对方法，以下十二本结果卡均为唯一 Exact Match，并明确列 SCIE。ACS 六刊与 Nature 五刊新增肯定依据，LPR 将已有出版社声明升级为数据库查询；累计 SCIE 肯定记录 41 本、数据库查询依据 24 本。
+
+| 期刊                      | 查询刊号  | 结果卡显示刊号        | 来源                                                                                         |
+| ------------------------- | --------- | --------------------- | -------------------------------------------------------------------------------------------- |
+| ACS Photonics             | 2330-4022 | 2330-4022             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2330-4022&hide_exact_match_fl=true) |
+| ACS Nano                  | 1936-0851 | 1936-0851 / 1936-086X | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1936-0851&hide_exact_match_fl=true) |
+| ACS Sensors               | 2379-3694 | 2379-3694             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2379-3694&hide_exact_match_fl=true) |
+| Nano Letters              | 1530-6984 | 1530-6984 / 1530-6992 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1530-6984&hide_exact_match_fl=true) |
+| Chemical Reviews          | 0009-2665 | 0009-2665 / 1520-6890 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0009-2665&hide_exact_match_fl=true) |
+| Inorganic Chemistry       | 0020-1669 | 0020-1669 / 1520-510X | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0020-1669&hide_exact_match_fl=true) |
+| Laser & Photonics Reviews | 1863-8880 | 1863-8880 / 1863-8899 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1863-8880&hide_exact_match_fl=true) |
+| Nature Photonics          | 1749-4885 | 1749-4885 / 1749-4893 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1749-4885&hide_exact_match_fl=true) |
+| Nature Electronics        | 2520-1131 | 2520-1131             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2520-1131&hide_exact_match_fl=true) |
+| Nature Materials          | 1476-1122 | 1476-1122 / 1476-4660 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1476-1122&hide_exact_match_fl=true) |
+| Nature Nanotechnology     | 1748-3387 | 1748-3387 / 1748-3395 | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1748-3387&hide_exact_match_fl=true) |
+| Nature Communications     | 2041-1723 | 2041-1723             | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2041-1723&hide_exact_match_fl=true) |
+
+不改变 EI、ESCI、JCR/CAS、指南、样例或整刊日期；当前索引不证明某篇论文已经入库，公开结果卡没有覆盖起止年，继续 null。
+
+A3 提交 3a71eb8 的 [Pages 36713812373](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36713812373) build/deploy 成功，线上版本 9dae79db8361490915a0795f740cba288d5c5b3285e5ca737d3ca4585d26166d 与本地一致。部署排队时曾读到上批版本，仅等原任务完成后重查，没有重复提交。

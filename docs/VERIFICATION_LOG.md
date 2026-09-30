@@ -539,3 +539,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - HPL、AOP、Optica、PR、JLT、JOCN、OE、OL、BOE、OME、APL Photonics、Applied Physics Reviews 的 SCIE 由 unverified 改为 confirmed / database，checkedAt 仅该字段设为 2026-09-30；当前肯定记录 30/74，SCIE 数据库查询依据 12 本。匹配表及查询方式见 [证据页 A3](INDEX_EVIDENCE_2026-09-30.md)。HPL 2017 历史声明仍保留在原日志，不把历史覆盖作为当前起点。
 - EI 42/74（数据库方来源表 24 本）、ESCI 8、JCR 61、中科院 10 不变；期刊 74、会议 35、活动 9，候选状态与数量不变。覆盖起止年和整刊日期不改。
 - 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源验证；差异核对仅十二本 SCIE 字段变化，EI 和其他期刊信息无变化。维护队列为 290 项字段任务；差异检查通过。
+
+## 2026-09-30：Clarivate SCIE 批次 A4（12 本）
+
+- A3 提交 3a71eb8 的 [Pages 36713812373](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36713812373) build/deploy 均成功，线上版本 9dae79… 与本地一致。构建完成但部署排队时仍返回上一批版本，仅等待原部署再查，不重做提交。
+- 在 [MJL 官方界面](https://mjl.clarivate.com/home)按目录刊号逐一核对 ACS Photonics、ACS Nano、ACS Sensors、Nano Letters、Chemical Reviews、Inorganic Chemistry、LPR、Nature Photonics、Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications 的唯一 Exact Match 及结果卡 SCIE。来源与结果刊号追加至 [A4 证据页](INDEX_EVIDENCE_2026-09-30.md)。
+- ACS 六刊与 Nature 五刊新增 confirmed / database；LPR 保持 confirmed，evidence 由 publisher 改为 database。SCIE 肯定记录 30→41，当前 MJL 查询依据 12→24。本批不修改 EI、ESCI、分区、指南、样例或整刊日期，不推断覆盖年份。正式目录和候选数量不变。
+- 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与静态资源验证；逐项差异核对仅十二本 SCIE 字段变化，`git diff --check` 通过。维护队列 278 项字段任务，覆盖报告 12 主题/269 候选。
