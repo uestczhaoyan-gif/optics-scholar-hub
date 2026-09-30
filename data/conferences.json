@@ -1824,5 +1824,265 @@
         "source": "https://www.cncos.org.cn/Content/view/id/2043.html"
       }
     ]
+  },
+  {
+    "id": "spie-lithography-2027",
+    "series": "SPIE Advanced Lithography + Patterning",
+    "year": 2027,
+    "name": "SPIE 先进光刻与图形化会议 2027",
+    "nameEn": "SPIE Advanced Lithography + Patterning 2027",
+    "region": "海外",
+    "location": "美国 · 加利福尼亚州圣何塞",
+    "venue": "具体场馆待当届官方页面核实",
+    "start": "2027-02-21",
+    "end": "2027-02-25",
+    "topics": ["光学设计与制造", "纳米与超表面", "电子与器件", "传感与测量"],
+    "description": "面向光学与 EUV 光刻、图形化材料、工艺集成及计量的 SPIE 学术母会；作者须选择匹配的专题会议投稿，配套展览不另计为论文会议。",
+    "website": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning",
+    "notice": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines",
+    "registration": null,
+    "checkedAt": "2026-09-30",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "技术审查摘要为 200–300 词纯文本，节目摘要为 50–150 词；另交不超过 2 页的扩展摘要 PDF，包含作者、单位和评审所需图表。",
+      "通过当届专题页选择一个适配会议，再用 SPIE 账号完成提交；同一摘要只提交一次。报告人简介限 1000 字符（含空格）。",
+      "稿件须有原创研究或开发内容；口头/海报安排由会议主席决定。上传全文或海报前，联系作者或报告人须先注册。"
+    ],
+    "publication": "符合出版规则并实际报告的全文、报告或海报可在会后收入 Proceedings of SPIE / SPIE Digital Library，仍须委员会批准。官网列 Ei Compendex 等检索合作，不保证单篇实际入库。",
+    "notes": "普通摘要截止 2026-09-09 已过；官网仍列征稿入口并称部分专题可能接受晚投稿，需向具体专题确认，不视为统一 PDP。注册仅公布 2026 年 11 月开放，截止未知；全文/海报上传计划 2026-12-21 开启。日期表未给时刻或时区，不补造。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通摘要截止（已过）",
+        "date": "2026-09-09",
+        "source": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "notification",
+        "label": "作者通知及节目上线",
+        "date": "2026-11-16",
+        "source": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "poster",
+        "label": "海报 PDF 预览及出版提交",
+        "date": "2027-01-27",
+        "source": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "camera-ready",
+        "label": "出版全文提交",
+        "date": "2027-02-03",
+        "source": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "demo",
+        "label": "口头报告幻灯片提前上传",
+        "date": "2027-02-19",
+        "source": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布；计划 2026 年 11 月开放",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+      }
+    ]
+  },
+  {
+    "id": "spie-medical-imaging-2027",
+    "series": "SPIE Medical Imaging",
+    "year": 2027,
+    "name": "SPIE 医学成像会议 2027",
+    "nameEn": "SPIE Medical Imaging 2027",
+    "region": "海外",
+    "location": "加拿大 · 不列颠哥伦比亚省温哥华",
+    "venue": "具体场馆待当届官方页面核实",
+    "start": "2027-02-14",
+    "end": "2027-02-18",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "description": "覆盖医学图像处理、图像引导、数字与计算病理等方向的 SPIE 母会。光学研究须选择相关成像或病理专题，其他医学成像方式不自动等同于光学会议。",
+    "website": "https://spie.org/conferences-and-exhibitions/medical-imaging",
+    "notice": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines",
+    "registration": null,
+    "checkedAt": "2026-09-30",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "技术审查摘要 200–300 词，节目摘要 50–150 词；必交 2–4 页补充 PDF（致谢与参考文献不计），包含目的、方法、结果、结论及图表。",
+      "补充 PDF 仅用于评审，不直接出版；录用报告的出版全文至少 4 页。选择适配专题，通过 SPIE 账号提交，每个摘要只交一次。",
+      "补充材料须披露先前或同时提交情况，采用 SPIE 页边距规格；原创研究要求与口头/海报评审适用。联系作者或报告人注册后才可上传出版材料。"
+    ],
+    "publication": "实际报告并符合规则、获批准的稿件等在会后发表于 Proceedings of SPIE / SPIE Digital Library。官网检索合作说明不作为单篇 EI 或其他数据库收录保证。",
+    "notes": "普通摘要截止 2026-08-05 已过；首页征稿文案不能证明所有专题仍接受投稿。注册仅给 2026 年 10 月开放，截止未知；全文/海报上传计划 2026-12-14 开启。按表中日期分别保存，不把上传开启日或评奖截止作为投稿 DDL。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通摘要截止（已过）",
+        "date": "2026-08-05",
+        "source": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "notification",
+        "label": "作者通知及节目上线",
+        "date": "2026-10-26",
+        "source": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "poster",
+        "label": "海报 PDF 预览及出版提交",
+        "date": "2027-01-20",
+        "source": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "camera-ready",
+        "label": "出版全文提交",
+        "date": "2027-01-27",
+        "source": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "demo",
+        "label": "口头报告幻灯片提前上传",
+        "date": "2027-02-12",
+        "source": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布；计划 2026 年 10 月开放",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+      }
+    ]
+  },
+  {
+    "id": "spie-optical-metrology-2027",
+    "series": "SPIE Optical Metrology",
+    "year": 2027,
+    "name": "SPIE 光学计量会议 2027",
+    "nameEn": "SPIE Optical Metrology 2027",
+    "region": "海外",
+    "location": "德国 · 慕尼黑",
+    "venue": "具体场馆待当届官方通知",
+    "start": "2027-06-21",
+    "end": "2027-06-24",
+    "topics": ["光学设计与制造", "传感与测量", "成像与计算光学"],
+    "description": "光学测量、建模、成像与工业检测领域的 SPIE 学术会议，官网已给 2027 年慕尼黑会期；属于 World of Photonics Congress 的会议组成部分，展览另属不同活动。",
+    "website": "https://spie.org/conferences-and-exhibitions/optical-metrology",
+    "notice": "https://spie.org/conferences-and-exhibitions/optical-metrology",
+    "registration": null,
+    "checkedAt": "2026-09-30",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "本届征稿、稿型、篇幅、模板、提交入口及出版要求待公布或复核；现页节目 PDF 和主席列表仍为 2025 年，不能移用到 2027 年。"
+    ],
+    "publication": "2027 当届出版形式和实际索引待核实，不由旧届 SPIE 论文集推定。",
+    "notes": "本条为官方未来预告：页首和 Save the dates 明确 2027-06-21–24。页面混有 EOM25 日程、2025-06-17 版节目与 2025 主席，均未写入当届投稿安排；暂无可确认的 2027 注册截止。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "投稿安排及截止待当届通知",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/optical-metrology"
+      },
+      {
+        "type": "registration",
+        "label": "注册安排及截止待当届通知",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/optical-metrology"
+      }
+    ]
+  },
+  {
+    "id": "spie-astro-2028",
+    "series": "SPIE Astronomical Telescopes + Instrumentation",
+    "year": 2028,
+    "name": "SPIE 天文望远镜与仪器会议 2028",
+    "nameEn": "SPIE Astronomical Telescopes + Instrumentation 2028",
+    "region": "海外",
+    "location": "加拿大 · 魁北克省蒙特利尔",
+    "venue": "具体场馆待当届官方通知",
+    "start": "2028-07-09",
+    "end": "2028-07-14",
+    "topics": ["光学设计与制造", "成像与计算光学", "传感与测量"],
+    "description": "面向地基、航空与空间望远镜及支持仪器的 SPIE 学术系列，适配自适应光学、光学系统、干涉成像与探测器研究；当前官网明确给出 2028 蒙特利尔预告。",
+    "website": "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation",
+    "notice": "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation",
+    "registration": null,
+    "checkedAt": "2026-09-30",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2028 投稿与注册安排尚待公布或核实；不沿用页面残留的 2026 哥本哈根课程、专题数量或旧届征稿材料。"
+    ],
+    "publication": "2028 当届论文集、出版材料和实际索引待核实，不能从已结束 2026 届推定。",
+    "notes": "2028-07-09–14 蒙特利尔直接依据 SPIE 页首及 Save the dates，未按双年周期推算。旧图像、哥本哈根感谢语和课程说明属于 2026；不计作 2028 场馆或已公布专题。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "投稿安排及截止待当届通知",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation"
+      },
+      {
+        "type": "registration",
+        "label": "注册安排及截止待当届通知",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation"
+      }
+    ]
+  },
+  {
+    "id": "opic-2027",
+    "series": "OPIC",
+    "year": 2027,
+    "name": "光学与光子学国际大会 2027",
+    "nameEn": "Optics & Photonics International Congress 2027",
+    "region": "海外",
+    "location": "日本 · 横滨",
+    "venue": "PACIFICO Yokohama",
+    "start": "2027-04-19",
+    "end": "2027-04-23",
+    "topics": [
+      "综合光学",
+      "激光与非线性",
+      "量子光学",
+      "纳米与超表面",
+      "传感与测量"
+    ],
+    "description": "包含十五个专题会议的 OPIC 学术母大会，涉及激光、纳米与量子光子学、显示、光学操控及测量；子会议须按各自主题与规则选择，配套展览不另计为论文大会。",
+    "website": "https://opicon.jp/",
+    "notice": "https://opicon.jp/",
+    "registration": null,
+    "checkedAt": "2026-09-30",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "官网日程列投稿系统 2026-10-20 开放，投稿截止 2026-12-11；当前日期早于计划开放日，尚不表示可以提交。",
+      "东京大学 ICNNQ 2027 页面确认其为 OPIC 下属会议，投稿与注册通过 OPIC 官网；稿型、篇幅、模板和系统实际可用性待母会及专题规则复核。"
+    ],
+    "publication": "当届出版方式、论文集与索引尚未获得可核实规则；不把下属专题或往届出版路径泛化为母会全部稿件。",
+    "notes": "母会会期、场馆、十五个专题及主要日程来自 opicon.jp 的官方检索快照；主页直接读取和浏览器导航超时。ICNNQ 官方正文确认 10/20 开放、12/11 截止与 1/20 注册开放及母子关系。母会格式、时刻/时区与注册实际入口继续待复核；不重复创建十五条子会议。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "投稿截止（稿型与格式待复核）",
+        "date": "2026-12-11",
+        "source": "https://opicon.jp/"
+      },
+      {
+        "type": "notification",
+        "label": "作者通知",
+        "date": "2027-02-01",
+        "source": "https://opicon.jp/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册结束",
+        "date": "2027-04-03",
+        "source": "https://opicon.jp/"
+      }
+    ]
   }
 ]

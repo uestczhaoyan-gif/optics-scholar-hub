@@ -76,12 +76,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光刻与纳米制造",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-lithography-2027"],
+    "decisionReason": "当届 SPIE 官网确认 2027-02-21–25 圣何塞及投稿指南；按母会收录，不重复计算专题与展览。",
+    "nextAction": "核对当届具体场馆、注册入口/截止及专题晚投稿可用性；普通摘要已过，不补造 PDP。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "conference-series-f86c122a9c",
@@ -121,12 +121,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "天文光学、仪器、自适应光学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-astro-2028"],
+    "decisionReason": "SPIE 官网直接预告蒙特利尔 2028-07-09–14；准入为未来会期预告，非按周期推算。",
+    "nextAction": "等 2028 本届征稿、具体场馆、注册和出版规则；旧 2026 内容不移用。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "conference-series-d9593b54db",
@@ -343,12 +343,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "医学成像；专题需区分光学与其他成像方式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/medical-imaging",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-medical-imaging-2027"],
+    "decisionReason": "SPIE 当届官网确认温哥华 2027-02-14–18；投稿指南明确摘要、评审补充材料与出版稿不同，按学术母会收录。",
+    "nextAction": "补具体场馆、注册/优惠截止与相关光学专题；普通摘要已过，不由首页文案推断开放。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "conference-series-4719446bc5",
@@ -385,12 +385,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光学计量、三维检测",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/optical-metrology",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-optical-metrology-2027"],
+    "decisionReason": "SPIE 官网已确认 2027-06-21–24 慕尼黑会期，按未来预告准入；不把 2025 节目与主席作为当届依据。",
+    "nextAction": "等待 2027 当届征稿、具体场馆与注册规则，逐字段补充；保留母大会与展览边界。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "conference-series-7a4a5c0eb7",
@@ -413,12 +413,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "母大会，下属不同专题具有独立要求",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://opicon.jp/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["opic-2027"],
+    "decisionReason": "母会官网当前检索快照确认横滨 PACIFICO 2027-04-19–23，ICNNQ 官方正文支持母子关系和投稿日程；按母会收录。",
+    "nextAction": "主页恢复可读后核实稿型、模板、出版与时区；10/20 为计划投稿开放而非当前已开放。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "conference-series-a6ba8ff987",
@@ -622,13 +622,13 @@
     "aliases": ["APOS", "Asia-Pacific Optical Sensors Conference"],
     "kind": "conference-series",
     "priority": 2,
-    "scopeHint": "区分国际会、地区会与 workshop",
-    "sourceEntry": null,
+    "scopeHint": "官网确认第 11 届 APOS 包含第 7 届 IWPFA、澳大利亚悉尼新南威尔士大学；涉及光纤、波导、激光与微纳/生医光学传感。",
+    "sourceEntry": "https://www.apos2026.com/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方可读正文已确认联合身份、城市和大学，但没有可确认的举办起止日期；征稿 PDF 本轮读取超时。保留 pending，不用 2025 投稿或注册截止推算 2026 会期。",
+    "nextAction": "读取官网 Callforpaper.pdf 或当届 Program/Venue，核对会期、APOS/IWPFA 分别适用的规则与出版；专刊投稿不混入会议截止。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "conference-series-ee5c59fb09",

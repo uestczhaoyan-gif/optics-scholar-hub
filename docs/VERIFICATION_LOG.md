@@ -546,3 +546,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 在 [MJL 官方界面](https://mjl.clarivate.com/home)按目录刊号逐一核对 ACS Photonics、ACS Nano、ACS Sensors、Nano Letters、Chemical Reviews、Inorganic Chemistry、LPR、Nature Photonics、Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications 的唯一 Exact Match 及结果卡 SCIE。来源与结果刊号追加至 [A4 证据页](INDEX_EVIDENCE_2026-09-30.md)。
 - ACS 六刊与 Nature 五刊新增 confirmed / database；LPR 保持 confirmed，evidence 由 publisher 改为 database。SCIE 肯定记录 30→41，当前 MJL 查询依据 12→24。本批不修改 EI、ESCI、分区、指南、样例或整刊日期，不推断覆盖年份。正式目录和候选数量不变。
 - 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与静态资源验证；逐项差异核对仅十二本 SCIE 字段变化，`git diff --check` 通过。维护队列 278 项字段任务，覆盖报告 12 主题/269 候选。
+
+## 2026-09-30：会议覆盖批次 C1（六个系列）
+
+- A4 提交 c9c2516 的 [Pages 36714730230](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36714730230) build/deploy 均成功；线上 catalog-version 返回 HTTP 200，`5be94a24e02c30d362d9ef7793f3d084026496f49dbcbb6dd21aaf5729b37c7d` 与本地一致，再开始本批数据修改。
+- 通过 SPIE 官方浏览器正文核对 Advanced Lithography + Patterning 2027、Medical Imaging 2027、Optical Metrology 2027、Astronomical Telescopes + Instrumentation 2028 的当届身份、城市和会期。前两会补摘要、评审补充材料与出版材料分别适用的规则及日期；普通摘要截止已过，不据首页征稿文案声称仍开放。后两会为明确的未来预告，投稿/注册未知；不挪用页面残留的 2025/2026 资料。
+- OPIC 2027 母会官方检索快照确认横滨 PACIFICO、2027-04-19–23 和十五个专题及主要日程；主站直接读取与浏览器导航超时，数据与[证据页](CONFERENCE_EVIDENCE_2026-09-30.md)均注明。东京大学 ICNNQ 官方正文交叉支持母子关系、投稿 10/20 计划开启、12/11 截止和 1/20 注册计划开启；稿型、模板、系统实际可用性与出版继续待核实。按一个母会计数，不重复创建十五条子会。
+- APOS 官网确认第 11 届 APOS 包含第 7 届 IWPFA、悉尼新南威尔士大学；可读正文未列举办起止日，征稿 PDF 读取超时，继续 pending。不用 2025 投稿/注册日期推算会期，不将期刊专刊截止混作会议 DDL。
+- 正式目录为 74 本期刊、40 届会议、9 项展会/论坛；269 项候选为 123 admitted、143 pending、3 deferred，五个新正式 ID 已回链候选。原有 35 届会议及其他正式数据未改，差异审核确认仅新增五届、更新六个候选和同步文档。未来预告带来未知字段，维护队列 278→300 项字段任务；覆盖仍为 12 主题/269 候选。
+- 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源验证、`git diff --check`。仅有日期的截止不补时刻/时区；注册网址和未核实字段保持未知。剩余索引/分区、会议、指南与样例继续开放，旧 Codex 自动化保持暂停。
