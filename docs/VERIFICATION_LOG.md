@@ -502,3 +502,14 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - [上海光机所 2017 公告](https://siom.cas.cn/xwzx/tpxw/201704/t20170414_4776092.html)直接读取，确认其当时宣布 SCIE 收录并追溯创刊论文。主办机构消息按非数据库证据保存，状态仍 unverified，不以历史公告证明当前覆盖。
 - [Cambridge 索引页](https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/about-this-journal/abstracting-and-indexing)直接读取只有栏目标题，没有可见索引清单；未解读为未收录，也未据此确认 SCIE/EI。未填覆盖起止年，未修改分区及整刊日期。
+
+## 2026-09-30：恢复检查与临近会议批次 B
+
+- 阅读 RESUME、ROADMAP、最新日志及维护/数据/候选规则；工作区干净，`main` 与远端均为 `7b3e27c`。交接提交 [Pages 34964248809](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/34964248809)已成功。[今日来源巡检 36680522616](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36680522616)成功生成附件，但其中仍有 32 个变化、72 个访问受限、7 个抓取异常、4 个 HTTP 错误；工作流成功不代表全部来源可访问。附件下载至忽略的 `work/source-20260930/`。本地报告初始为 325 项字段任务、269 项候选。未恢复或新建 Codex 自动化。
+- [OMTA 移动页](https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html)与[桌面页](https://b2b.csoe.org.cn/meeting/OMTA2026.html)正文一致：会期由 10/30–11/1 改为 **10/29–31**；保留 9/30 第二轮，新增 **10/15 最终轮投稿**，提前缴费优惠改为 **10/15（含）**。投稿类型仍分英文摘要、中文全文与仅交流摘要；场馆、英文全文截止和系统实际开放未核实，不刷新整条 checkedAt。
+- 浏览器直接读取 [Photonics West 当届指南](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)，重要日期表将幻灯片提前上传截止列为 **2027-01-27**，替换原 1/29。10/12 通知、1/6 海报、1/13 全文与 11/30 上传开启保持一致；注册仍只给 2026 年 10 月，未补造某一天。只修改已变化的日期和相关说明。
+- [ACP 首页](https://www.acpconf.com/)早鸟仍为 9/30；[现行 PDP 页](https://www.acpconf.com/news/post-deadline)明确 10/15 23:59 北京时间、3 页、完整/匿名双版本及 PDF eXpress 70761X，补双版本和编号，更新 PDP 来源入口。注册入口进入登录页，未登录或提交。
+- [IPC 注册页](https://ieee-ipc.org/attendees/registration/)仍为 10/8 之前优惠，保持日期边界说明；[IRMMW-THz 注册页](https://www.irmmw-thz.org/register/)仍为 9/30 结束 Late fee、10/1 起现场费率；[OPTIC 征稿页](https://optic2026.conf.tw/site/page.aspx?lang=en&pid=577&sid=1696)及[投稿指南](https://optic2026.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696)仍为 Poster-Only 9/14–30、10/9 前通知，未给海报截止时刻。无新事实的条目不修改 JSON 或刷新日期。[FiO 时间表](https://www.frontiersinoptics.com/submissions/author-timeline)仍为 9/27–10/1 技术会议及已过的 9/9 PDP、9/18 PDP 通知。
+- [NDTA 桌面页](https://b2b.csoe.org.cn/meeting/NDTA2026.html) Hotel & Travel 已列苏州宝带桥国际大酒店、吴中区太湖东路 1 号，更新候选范围与下一步。中英文投稿段仍分别为 300–500 / 500–600 词，继续 deferred，待统一规则；未将 9/30 第二轮当作后续未来截止。移动页本轮读取失败，不据此宣称失效。
+- 正式数量保持 74 本期刊、35 届会议、9 项活动；候选保持 118 admitted / 148 pending / 3 deferred。[OFS-China 页首](https://b2b.csoe.org.cn/meeting/ofsc2026.html)仍列 9/15 最终投稿，未发现延长依据；9/22 早鸟及 Laser Congress 9/22 PDP 不恢复为未来提醒。[Laser Congress 现页](https://www.optica.org/events/congress/laser_congress/submit_papers/)仍列 10/11–15 会期、35 词/2 页规则，但正文提取未保留 PDP 日期，不据此更改历史截止或刷新全条目。
+- 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建及静态资源验证、`git diff --check`。首次受限 Windows 构建在退出阶段报错，获得环境执行授权后的完整重试成功；未修改构建代码。

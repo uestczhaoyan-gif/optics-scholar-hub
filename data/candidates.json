@@ -1484,13 +1484,13 @@
     "aliases": [],
     "kind": "conference-series",
     "priority": 1,
-    "scopeHint": "2026-09-14 官网已确认 11 月 13–15 日、苏州市，场馆仍空白；英文摘要要求在中文段为 300–500 词、英文段为 500–600 词，冲突未解。",
-    "sourceEntry": "https://b2b.csoe.org.cn/mobile/meeting/NDTA2026.html",
+    "scopeHint": "2026-09-30 桌面官方页确认 11 月 13–15 日；Hotel & Travel 已列苏州宝带桥国际大酒店（江苏苏州吴中区太湖东路 1 号）。英文摘要中文段 300–500 词、英文段 500–600 词仍冲突。",
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/NDTA2026.html",
     "reviewStatus": "deferred",
     "relatedExistingIds": [],
-    "decisionReason": "2026-09-14 官网已确认 11 月 13–15 日、苏州市，场馆仍空白；英文摘要要求在中文段为 300–500 词、英文段为 500–600 词，冲突未解。",
-    "nextAction": "待官方确认具体场馆、统一英文摘要长度；投稿页列第二轮 9 月 30 日，注册费页列 9 月 15 日前后两档，但当天适用档位不明确，正式收录前复核。",
-    "reviewedAt": "2026-09-14"
+    "decisionReason": "具体酒店已补官方依据，但中英文投稿段摘要长度仍冲突，继续暂缓；不选一个长度作为确定规则。",
+    "nextAction": "待官方统一英文摘要长度，并核对最新通知/模板是否明确替代网页冲突；第二轮投稿为 2026-09-30，后续勿当未来截止。注册 9/15 两档边界及英文全文入口仍待核实。",
+    "reviewedAt": "2026-09-30"
   },
   {
     "candidateId": "event-1a5ffb9ec4",

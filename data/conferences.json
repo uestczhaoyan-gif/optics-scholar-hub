@@ -20,7 +20,7 @@
     "submissionState": "published",
     "requirements": [
       "普通论文：英文、IEEE 双栏 2–6 页，包含图表与参考文献；提交完整稿和匿名审稿稿，两者核心内容一致。",
-      "PDP：单独的最新突破成果通道，使用 3 页论文；需按本届页面要求完成 PDF eXpress 检查。",
+      "PDP：3 页英文 IEEE 模板论文，同时提交完整版本与匿名审稿版本，除作者识别信息外核心内容须一致；使用 IEEE PDF eXpress，会议编号 70761X。",
       "从官网进入 Learning Conference 系统，选择 ACP 2026 后提交摘要和论文；注册缴费、参会报告与最终 PDF/版权手续分别完成。"
     ],
     "publication": "至少一位作者注册缴费并现场报告，最终稿需完成版权与 PDF 认证。PDP 扩展稿的期刊邀请不等于期刊录用。",
@@ -45,7 +45,7 @@
         "label": "PDP 最新成果投稿截止",
         "at": "2026-10-15T23:59:00+08:00",
         "timezone": "Asia/Shanghai",
-        "source": "https://www.acpconf.com/news/465"
+        "source": "https://www.acpconf.com/news/post-deadline"
       },
       {
         "type": "camera-ready",
@@ -573,8 +573,8 @@
     "region": "中国境内",
     "location": "中国 · 福州",
     "venue": "具体场馆待官方进一步通知",
-    "start": "2026-10-30",
-    "end": "2026-11-01",
+    "start": "2026-10-29",
+    "end": "2026-10-31",
     "topics": ["光学材料", "纳米与超表面", "集成光子", "生物医学光学"],
     "description": "中国光学工程学会主办，围绕功能晶体、半导体、低维材料、超表面、显示与能源应用，连接光电材料、器件和应用研究。",
     "website": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
@@ -589,7 +589,7 @@
       "投稿系统、摘要模板、中文模板和保密审查材料均从官方通知页获取。"
     ],
     "publication": "主办方列出英文 SPIE 论文集与中文期刊推荐两条路径。会议录用、论文集出版、EI 检索和期刊录用分别确认；会议费不含出版费及住宿费。",
-    "notes": "核实到第二轮截稿与提前缴费优惠截止均为 9 月 30 日，二者用途不同；官网未给具体时刻或时区，仅按日期显示。场馆和英文全文截止待核实。",
+    "notes": "2026-09-30 复核官方桌面与移动页：会期已改为 10 月 29–31 日，第二轮投稿仍为 9 月 30 日，新增最终轮 10 月 15 日；提前缴费优惠改为 10 月 15 日（含）。各截止用途分别记录，仅公布日期。具体场馆、英文全文截止及投稿系统实际开放状态仍待核实；本轮只复核会期、投稿与缴费安排，不刷新整条核验日期。",
     "deadlines": [
       {
         "type": "abstract",
@@ -605,10 +605,18 @@
         "note": "英文摘要、中文全文及仅交流摘要按不同路径提交；具体时刻待核实。"
       },
       {
+        "type": "abstract",
+        "label": "最终轮投稿截止（中文为全文）",
+        "date": "2026-10-15",
+        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
+        "note": "英文摘要、中文全文及仅交流摘要按不同路径提交；最终轮与第二轮分别保留。"
+      },
+      {
         "type": "registration",
         "label": "提前缴费优惠截止",
-        "date": "2026-09-30",
-        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html"
+        "date": "2026-10-15",
+        "source": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
+        "note": "费用表明确 10 月 15 日前（含）缴费；须完成支付，未公布具体时刻。"
       },
       {
         "type": "camera-ready",
@@ -1072,7 +1080,7 @@
       "报告作者需付费注册、按计划参会报告，并提交符合出版规范的全文或海报。上传论文/海报前，联系作者或报告人须完成注册。"
     ],
     "publication": "按要求提交且完成现场报告的材料，经审查后在 SPIE Digital Library 的 Proceedings of SPIE 出版；官网列举 EI 等数据库合作，不代表本届每篇材料已经收录。",
-    "notes": "官网仍显示 call for papers open，但共同摘要日期为 2026/7/22，是否仍可补投须查具体分会，不推定全部开放。注册计划 2026 年 10 月开始，未公布具体日期或完整注册入口；论文/海报上传计划 11/30 开启。海报 PDF 用于日程预览及出版，口头幻灯片 1/29 后可到现场 Speaker Check-in 上传。BiOS Expo 为 1/30–31，Photonics West Exhibition 为 2/2–4，二者不是全部论文会期。",
+    "notes": "官网仍显示 call for papers open，但共同摘要日期为 2026/7/22，是否仍可补投须查具体分会，不推定全部开放。注册计划 2026 年 10 月开始，未公布具体日期或完整注册入口；论文/海报上传计划 11/30 开启。海报 PDF 用于日程预览及出版，口头幻灯片 1/27 后可到现场 Speaker Check-in 上传。BiOS Expo 为 1/30–31，Photonics West Exhibition 为 2/2–4，二者不是全部论文会期。 2026-09-30 浏览器复核重要日期：口头幻灯片提前上传截止改为 1/27；通知、海报及全文日期保持不变。本轮不刷新整条核验日期。",
     "deadlines": [
       {
         "type": "abstract",
@@ -1101,7 +1109,7 @@
       {
         "type": "camera-ready",
         "label": "口头报告幻灯片提前上传截止",
-        "date": "2027-01-29",
+        "date": "2027-01-27",
         "source": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
       },
       {
