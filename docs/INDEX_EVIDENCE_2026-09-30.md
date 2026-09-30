@@ -24,3 +24,26 @@
 对应 EI 字段设为 confirmed / database，表示获得数据库方公开来源表依据，并非已登录 Engineering Village 或已验证每篇文章。覆盖起止年保持 null；列表更新日期不代表开始/终止覆盖日，DEFINITIONS 的英文说明明确区分二者。SCIE、ESCI、JCR/CAS、费用、作者指南及整刊核验日期未变。
 
 第一批确认：提交 1515ec6 的 [Pages 36704905503](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36704905503) build/deploy 均成功；线上首页 HTTP 200，包含更新后的 OMTA 会期与 Photonics West 幻灯片日期。
+
+## 批次 A2：核心光学与中文 EI（12 本）
+
+复用同一下载文件；中文表 CHINESE JRS on SERIALS LIST 的版本单独为 2026-07-10。七本新增 EI 肯定记录，五本中文刊将已有出版社证据升级为数据库方来源表，累计数据库方依据 24 本、EI 肯定记录 42 本。
+
+| 期刊                                             | 目录刊号              | SERIALS 行号 | 清单刊名                                         | 中文表行号 / 2026 状态 |
+| ------------------------------------------------ | --------------------- | ------------ | ------------------------------------------------ | ---------------------- |
+| Advances in Optics and Photonics                 | 1943-8206             | 196          | Advances in Optics and Photonics                 | —                      |
+| Photonics Research                               | 2327-9125             | 4361         | Photonics Research                               | —                      |
+| Journal of Lightwave Technology                  | 0733-8724 / 1558-2213 | 3362         | Journal of Lightwave Technology                  | —                      |
+| Journal of Optical Communications and Networking | 1943-0620 / 1943-0639 | 3477         | Journal of Optical Communications and Networking | —                      |
+| Optics Letters                                   | 0146-9592 / 1539-4794 | 4270         | Optics Letters                                   | —                      |
+| Biomedical Optics Express                        | 2156-7085             | 570          | Biomedical Optics Express                        | —                      |
+| Optical Materials Express                        | 2159-3930             | 4259         | Optical Materials Express                        | —                      |
+| 中国激光                                         | 0258-7025             | 5842         | Zhongguo Jiguang/Chinese Journal of Lasers       | 86 / Renewed           |
+| 光学学报                                         | 0253-2239             | 1707         | Guangxue Xuebao/Acta Optica Sinica               | 18 / Renewed           |
+| 激光与光电子学进展                               | 1006-4125             | 3770         | Laser and Optoelectronics Progress               | 292 / Renewed          |
+| 中国光学（中英文）                               | 2097-1842             | 797          | Chinese Optics                                   | 98 / Renewed           |
+| 红外与激光工程                                   | 1007-2276             | 2291         | Infrared and Laser Engineering                   | 170 / Renewed          |
+
+五本中文刊同时按刊号、中文名和英文/音译名核对。中国光学（中英文）匹配现刊号 2097-1842，未借用历史刊号替代。中文表列出的 Renewed 是源表 2026 状态，并非覆盖开始年。Photonics Research 的刊号列位置与目录电子刊号分类不同，保留目录刊号类型。未改变其他索引、分区和整刊日期。
+
+批次 A1 提交 f77161d 的 [Pages 36705869178](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36705869178) build/deploy 均成功；线上 catalog-version.json HTTP 200。

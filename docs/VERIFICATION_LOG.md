@@ -522,3 +522,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - evidence=database 表示数据库方公开来源表依据，未登录 Engineering Village 或逐篇搜索；每个 note 明确方式、版本和行号，起止年继续 null。SCIE、ESCI、JCR/CAS、整刊日期、指南和费用未改，特别是 HPL 的 SCIE 历史线索不随 EI 升级。Wiley LPR 现页仍支持已有 SCIE 声明，不为无变化重复刷新日期。
 - EI 肯定记录增至 35/74，其中 12 本为数据库方来源表；SCIE 18、ESCI 8、JCR 61、中科院 10 不变。正式目录与候选数量不变；下一批可复用同一公开版本核对核心光学和中文 EI，其他当前子库及分区仍待独立核验。
 - 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建/静态资源验证与差异检查；维护队列为 314 项字段任务。新证据页保存 12 本行号与来源版本，未提交整份来源表。
+
+## 2026-09-30：Compendex 核心光学与中文 EI 批次 A2（12 本）
+
+- 上批提交 `f77161d` 的 [Pages 36705869178](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36705869178) build/deploy 均成功。Node 请求线上 catalog-version.json 返回 HTTP 200，版本为 `75df70c8b786a430d27e7b8ceed6152bbdab590398c0963c39f3b51f2a40cd09`；此前 PowerShell 超时为访问问题，不重新提交同批数据。
+- 复用 [Elsevier 官网链接来源表](https://www.elsevier.com/products/engineering-village/databases/compendex)，另核对中文表版本 2026-07-10；SERIALS 与 DISCONTINUED 仍分别为 2026-08-07 / 2026-05-01。12 本身份、行号与状态追加至 [证据页 A2](INDEX_EVIDENCE_2026-09-30.md)。表格只读，不保存或修改原表。
+- 新增七本 EI 肯定记录：Advances in Optics and Photonics、Photonics Research、Journal of Lightwave Technology、Journal of Optical Communications and Networking、Optics Letters、Biomedical Optics Express、Optical Materials Express。SERIALS 唯一刊号匹配、Journal 类型及英文刊名核对通过，停收表无匹配。
+- 中国激光、光学学报、激光与光电子学进展、中国光学（中英文）、红外与激光工程已有 EI 肯定值，升级 evidence 为 database，未增加重复计数。中文表按刊号/中文名/英文或音译名对应，五本均列 2026 Renewed。中国光学使用现刊号 2097-1842；Photonics Research 刊号类型列位置差异不用于改写目录。
+- 累计 EI 42/74、数据库方来源表 24/74；SCIE 18、ESCI 8、JCR 61、中科院 10 不变。coverageStart/End 未推断，其他索引及整刊日期未改。候选与正式目录数量不变；核心刊 SCIE 和分区、其他 EI 来源记录、指南/样例及会议候选继续开放。
+- 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与静态资源验证、`git diff --check`；维护队列为 302 项字段任务，覆盖报告仍为 12 个主题、269 项候选。逐批提交推送，部署按对应 SHA 再确认。
