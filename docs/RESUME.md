@@ -108,3 +108,5 @@ E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 A
 E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、Word/LaTeX 模板、预印本及会议扩展规则；OME Opinion 的四页限制与研究稿分开。只改 guide/requirements，研究稿篇幅与摘要等未核实内容仍开放。E5 提交 e168b1f 已确认 Pages 37021874250、首页/版本 HTTP 200，与本地 24071643c290bda2af127324d0fcac00019e6d68606b8877d6e97ffba70368e1 一致。
 
 E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。下一批继续其他核心刊指南、分区版本和未审候选；已核实同版索引不重复扫描。额度实际不足时保留此检查点，五小时自动化按现有配置检查实际账户额度后续作。
+
+E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿型/公开入口和费用；NANO 当前下载的指南为 2025-03-31 版，LSA 为 2026-01-15 版，版本与核验日分开。AP/APN 逐刊读取，不套费率；HPL 初投/原则录用文件分阶段。只改 guide/requirements/publishing，其他字段保持。E7 提交 1442598 已确认 Pages 37040892020 与线上 6377eeeb…，当前维护队列 223 项，剩余任务保持开放；[E8 来源与边界](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。

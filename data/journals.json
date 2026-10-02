@@ -85,12 +85,14 @@
     "topics": ["综合光学", "成像与计算光学", "光学材料"],
     "description": "开放获取期刊，覆盖光学与光子学的基础、工程及交叉应用研究。",
     "website": "https://www.nature.com/lsa/",
-    "guide": "https://www.nature.com/lsa/for-authors",
+    "guide": "https://www.nature.com/documents/Guide_for_Authors_LSA_updated_in_2026-1-15.pdf",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 核验 2026-01-15 版指南：Article 和 Review 正文建议 6,000 词（不计摘要、参考文献、图表），摘要表列至多 250 词，参考文献分别至多 50/100 条。正文篇幅为指导值，编辑会结合评审考虑超出建议的稿件。",
+      "Perspective 正文建议 2,000 词、摘要表列至多 250 词；News & Views 须预先安排，可提出选题建议。各稿型规则分开，不将短评篇幅套到研究稿。",
+      "初投不要求套本刊版式，正文与图表合为一个文件并加连续行号，补充材料单独提供 Word/PDF（优先 Word）；原则录用后须提供 Word 正文文件。",
+      "附投稿信说明作者同意、原创与并投状况、复用授权及利益冲突。返修提供逐条回复和标记修改稿；允许发布预投稿或初投稿预印本，正式版本公开按许可并附发表链接。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-03 核验：全开放获取；Correspondence/Light People/News & Views/Research Highlight 的 APC 为 GBP 665 / USD 1,000 / EUR 755，其他稿型 GBP 2,890 / USD 4,290 / EUR 3,190。按录用日定价，另有适用 VAT/当地税；协议和减免资格须核对，酌情减免须投稿时申请。来源：https://www.nature.com/lsa/open-access",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
@@ -839,12 +841,14 @@
     "topics": ["综合光学", "成像与计算光学"],
     "description": "由 SPIE 与中国激光杂志社联合出版，面向光学与光子学基础和应用创新。",
     "website": "https://www.spiedigitallibrary.org/journals/advanced-photonics",
-    "guide": "https://www.spiedigitallibrary.org/journals/advanced-photonics",
+    "guide": "https://www.spiedigitallibrary.org/journals/advanced-photonics/author-guidelines",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 核验：经本刊 ScholarOne https://mc03.manuscriptcentral.com/ap 提交，附独立投稿信说明问题、意义、创新及本刊适配。摘要至多 200 词，3–6 个关键词；作者简介至多 75 词。",
+      "Letter 至多五个正式印刷页，约相当于 5,000 词，但图占篇幅需减少字数；不作为 Original Paper 的统一硬限。Review 为邀稿，可先向共同主编/编辑部提出综述方案；Perspective 建议写稿前联系编委。",
+      "初投为正文和全部图片合并 PDF，包含行号/页码；返修交可编辑正文及独立图片。Word/LaTeX 模板为辅助指南，不强制精确套版；LaTeX 交编译 PDF、参考文献、样式及图表文件。",
+      "全部投稿文件合计约 100 MB；录用论文需 Code and Data Availability 声明，返修逐条回应评审意见。其余未核实政策保留待补，不声称登录提交流程已验证。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-03 核验本刊 After Acceptance：CC BY 4.0 即时开放获取，录用论文 APC $2,100。SPIE 会员、订阅机构和特别经济考虑国家可按资格申请折扣；税、费用版本适用时点及其他稿型例外未明确。来源：https://www.spiedigitallibrary.org/journals/advanced-photonics/author-guidelines",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
@@ -894,12 +898,14 @@
     "topics": ["综合光学", "集成光子"],
     "description": "覆盖光子学基础与应用的国际期刊，关注新方法、新器件及其应用。",
     "website": "https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus",
-    "guide": "https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus",
+    "guide": "https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/author-guidelines",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 独立核验：本刊 ScholarOne https://mc03.manuscriptcentral.com/apnexus，附独立投稿信说明研究意义/创新；摘要至多 200 词，3–6 个关键词，作者简介至多 75 词。",
+      "Letter 至多五个正式印刷页，约相当于 5,000 词，含图则需减少字数；不套到 Original Paper。Review 为邀稿，可先向共同主编或 APN 编辑部提出方案。",
+      "初投正文和全部图合并 PDF，含行号/页码；返修可编辑 Word/LaTeX 正文及独立图片。模板为辅助指南，LaTeX 包含编译 PDF、样式、参考文献和图表；合计约 100 MB。",
+      "录用论文须 Code and Data Availability 声明；返修逐条回复。Review/Tutorial 的免 APC 属收费规则，不代表免评审或允许所有作者直接按同一流程投稿。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-03 核验本刊 After Acceptance：CC BY 4.0 即时开放获取，录用论文 APC $1,675；Review 和 Tutorial 不收 APC。SPIE 会员、订阅机构及特别经济考虑国家可按资格折扣；税和定价适用时点未明确。来源：https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/author-guidelines",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
@@ -959,12 +965,14 @@
     "topics": ["激光与非线性", "光学材料"],
     "description": "关注高功率激光、强场物理、相关材料和工程应用。",
     "website": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering",
-    "guide": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering",
+    "guide": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/author-instructions/preparing-your-materials",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 核验：英文 Research Article 无固定页数上限，仍须简洁，过长可被拒或要求重大修改；欢迎 Review，Commentary 至多 2,000 词。Perspective 由主编审查，区别于完整同行评审。",
+      "初投图表嵌入正文。Word 可上传 DOC 由系统生成评审 PDF；LaTeX 用 cup-hpl.cls，初投仅编译 PDF，暂不随交源码。原则录用后才交 LaTeX 源码、独立图片及最终 PDF。",
+      "经官方入口 https://mc03.manuscriptcentral.com/clp-hpl 提交；本轮该入口 403，仅核对官方链接。接受预印本，不作为重复发表；禁止同时在其他刊物审理或已接收。",
+      "返修和录用图片按本刊规则准备；彩色图无额外收费。研究稿摘要长度及 Letter 篇幅本轮仍未核实。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-03 本刊收费页：Gold OA APC GBP 1,960 / USD 2,740，可能另加税。机构协议、COEI 等按通讯作者资格核对，酌情豁免须投稿前或时申请；不把可能有基金覆盖解释成人人免费。许可可选六种 Creative Commons；价格版本适用时点未明确。来源：https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/author-instructions/fees-and-pricing；许可/减免：https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/information/journal-policies/open-access-options",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
@@ -1239,12 +1247,14 @@
     "topics": ["光学材料", "集成光子"],
     "description": "聚焦光与纳米结构的相互作用，适合超表面、纳米共振器和纳米光子器件方向。",
     "website": "https://www.degruyterbrill.com/journal/key/nanoph/html",
-    "guide": "https://www.editorialmanager.com/NANOPH",
+    "guide": "https://www.degruyterbrill.com/publication/journal_key/NANOPH/downloadAsset/NANOPH_Instructions_for_Authors.pdf",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 核验官方当前提供的 2025-03-31 版指南：Research 约 6,000 词、Review 约 16,000 词、Letter 约 2,500 词、Perspective 约 8,000 词；这些为约数。Review 仅由出版编辑或编委邀请。",
+      "研究/综述摘要约 250 词，Letter 摘要至多 150 词；3–6 个关键词。提供 Word/LaTeX 模板但不强制套版。",
+      "该指南指定 ScholarOne https://mc.manuscriptcentral.com/nanoph；初投完整 PDF，同时上传含图表的 DOC/DOCX 或全部 LaTeX 源码 ZIP（含 TEX/CLS/STY）。只确认指南入口，不声称登录操作已验证。",
+      "必须有数据可用性声明，可说明公开仓库、合理请求或数据限制；鼓励数据共享但不要求所有数据公开。允许初稿预印本，仍须避免并投并披露既有相关内容。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-03 核验官方当前提供的 2025-03-31 版指南：CC BY 4.0 开放获取，列 APC EUR 2,650，录用后经 RightsLink 付款，可用 EUR/USD/GBP，可能另有 VAT；另两币种金额及 2026 独立价表未核实。协议/发展中国家减免按资格，申请折扣或豁免需在投稿前或刚投稿后联系编辑。来源：https://www.degruyterbrill.com/publication/journal_key/NANOPH/downloadAsset/NANOPH_Instructions_for_Authors.pdf",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [

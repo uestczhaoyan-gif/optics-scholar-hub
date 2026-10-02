@@ -385,3 +385,7 @@ E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、
 ### 2026-10-02：作者指南及费用 E7
 
 E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。全部规划仍开放；[来源](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-03：作者指南与费用 E8
+
+E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿型/公开入口和费用；NANO 当前下载的指南为 2025-03-31 版，LSA 为 2026-01-15 版，版本与核验日分开。AP/APN 逐刊读取，不套费率；HPL 初投/原则录用文件分阶段。只改 guide/requirements/publishing，其他字段保持。现有 74 刊/46 会议/9 活动、270 候选及十四刊至少三篇样例保持；[具体来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。

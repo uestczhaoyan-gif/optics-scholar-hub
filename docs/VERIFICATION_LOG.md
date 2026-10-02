@@ -693,3 +693,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。
 - 10/2 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过。随后额度限制使自动审批无法完成，最后的日志补记及提交未执行；未将中断当作已发布。10/3 五小时额度恢复后核对工作区仍是这五个文件、远端 main 仍为 E6；逐字段复核仅 JOCN/OL 对应字段变化，本地构建版本为 6377eeeba2acf17d1dc40852701b0b82d21bd374d702c34a7dd22cacc3cbb875。
 - 本轮维护队列重生成为 223 项、覆盖 12 主题/270 候选，整体规划保持开放。正式数量、十四刊样例及既有索引记录未变，额度检查任务沿用既有五小时配置。
+
+## 2026-10-03：作者指南与费用 E8（五刊）
+
+- E7 提交 1442598 的 [Pages 37040892020](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37040892020) build/deploy 成功；首页/版本 HTTP 200，6377eeeba2acf17d1dc40852701b0b82d21bd374d702c34a7dd22cacc3cbb875 与本地一致后开始本批。额度五小时窗口已恢复，周窗口仍允许工作，未使用重置券或购买额度。
+- E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿型/公开入口和费用；NANO 当前下载的指南为 2025-03-31 版，LSA 为 2026-01-15 版，版本与核验日分开。AP/APN 逐刊读取，不套费率；HPL 初投/原则录用文件分阶段。只改 guide/requirements/publishing，其他字段保持。PDF 下载、抽取及稿型表/费用页视觉核对，SPIE 浏览器逐刊读取三页签；[来源与版本](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
+- 四个 P1 页面复核：ACP PDP 10/15 23:59 北京时间、IPC 注册 Before 10/8、OMTA 最终轮/缴费含 10/15、OPTIC 通知 10/9 前均与现值一致。未为无变化刷新正式日期；sources.yml 最新仍为 10/2 的成功运行 36976757481，没有更晚巡检可读。
+- 与修改前逐刊断言仅五刊 guide/requirements/publishing 改变，正式/候选数量、索引、分区、样例及整刊核验日期保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查全部通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核与 git diff --check 通过。便携 Node 24.20.0 构建成功，仅保留既有单块体积提示。
