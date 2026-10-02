@@ -604,3 +604,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Elsevier 当前页面来源表链接与 9/30 相同；重新下载 SHA-256 和 SERIALS/停收/中文表的版本均相同。按刊号、刊名、Journal 类型、出版社核对 IEEE 六刊和 Proceedings of the IEEE、Biosensors and Bioelectronics、JBO、Neurophotonics、IJEM，十一刊 SERIALS 唯一匹配、DISCONTINUED 无匹配，新增 EI confirmed/database。具体行号见 [A9 证据页](INDEX_EVIDENCE_2026-10-02.md)。
 - EI 肯定 42→53、数据库方依据 24→35；ESCI 9→10（均数据库）、SCIE 62 不变。仅更新对应索引和 Optica Quantum 刊号，覆盖年份、分区、指南、费用、样例、整刊日期及正式/候选数量不变。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 238 项字段任务、覆盖 12 主题/269 候选，差异审核与 `git diff --check` 通过。
+
+## 2026-10-02：Compendex 批次 A10（12 本）
+
+- 前批提交 7f6b06c 的 [Pages 37010772497](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37010772497) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 6c76f134748b2a85ebaee4c1c1471bb9ecea17c743957a2981bf86b39a20464d 与本地一致后开始本批数据修改。
+- 十二本光学与材料刊出版社 EI 依据复核逐刊核对来源表 SERIALS，刊号唯一匹配，刊名、Journal 类型和出版社身份相符；DISCONTINUED 无匹配，中文表有匹配的条目为 2026 Renewed。具体表版本与行号见 [A10 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- 光学 精密工程的中文名、音译名和英文名由中文表第 313 行对应，身份同时获官网简介支持。LSA 的 and/&、其他连接符以及来源表列位置差异仅用于身份匹配，不改写目录刊号分类或出版社字段。七刊另有中文表 Renewed 记录，按刊号核对，并未将清单年解释为开始覆盖年。
+- 新增 0 条肯定、升级 12 条出版社证据，当前 EI 53（数据库 47），SCIE 62、ESCI 10 均为数据库依据。逐项差异核对仅对应 EI 字段改变，覆盖年份、其他索引、分区、指南、费用、样例、整刊日期及正式/候选数量不变。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 226 项、覆盖 12 主题/269 候选，`git diff --check` 通过。构建有单块压缩后超过 500 kB 的体积提示，静态输出及资源验证仍通过，未为此改动功能。

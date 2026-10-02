@@ -126,3 +126,28 @@ Optica Quantum [官网](https://opg.optica.org/opticaq/home.cfm)明确公布 ISS
 A9 结束时：EI 肯定记录 42→53，其中数据库方依据 24→35；SCIE 62（均数据库）、ESCI 9→10（均数据库）。本批不推断覆盖年份、不替换刊号类型；其他分区、指南、费用、样例和整刊日期不变。Optica Quantum 在该 Compendex 表按新刊号无匹配，EI 继续未核实，空结果不判未收录。
 
 A8 提交 11cce82 的 [Pages 37010047912](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37010047912) build/deploy 均成功，线上目录版本 3e041b4ebe98c5c5a8e1552ef4a0c08c15f57648599df86f6c2f2dd6276c546a 与本地一致。
+
+## 批次 A10：十二本光学与材料刊出版社 EI 依据复核（12 本）
+
+复用 A9 已重新下载核对的 [Elsevier 公开来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)，文件哈希与三个表版本见 A9。以下各刊 SERIALS 刊号唯一匹配、刊名/Journal 类型/出版社身份相符，DISCONTINUED 无匹配；存在中文表匹配的刊物另核对 2026 Renewed。
+
+| 期刊                          | 目录刊号              | SERIALS 行号 | 清单刊名                                                   | 中文表行号（Renewed） |
+| ----------------------------- | --------------------- | ------------ | ---------------------------------------------------------- | --------------------- |
+| Light: Science & Applications | 2047-7538             | 3808         | Light: Science and Applications                            | 294                   |
+| Advanced Photonics            | 2577-5421             | 151          | Advanced Photonics                                         | —                     |
+| Nanophotonics                 | 2192-8606 / 2192-8614 | 4113         | Nanophotonics                                              | —                     |
+| Advanced Materials            | 0935-9648 / 1521-4095 | 143          | Advanced Materials                                         | —                     |
+| 光学 精密工程                 | 1004-924X / 2097-3209 | 1706         | Guangxue Jingmi Gongcheng/Optics and Precision Engineering | 313                   |
+| PhotoniX                      | 2662-1991             | 4364         | PhotoniX                                                   | 323                   |
+| Advanced Functional Materials | 1616-301X / 1616-3028 | 138          | Advanced Functional Materials                              | —                     |
+| Frontiers of Optoelectronics  | 2095-2759 / 2095-2767 | 1594         | Frontiers of Optoelectronics                               | 156                   |
+| Photonic Sensors              | 1674-9251 / 2190-7439 | 4356         | Photonic Sensors                                           | 322                   |
+| eLight                        | 2097-1710 / 2662-8643 | 1263         | eLight                                                     | —                     |
+| Nano-Micro Letters            | 2311-6706 / 2150-5551 | 4112         | Nano-Micro Letters                                         | 305                   |
+| Opto-Electronic Advances      | 2096-4579 / 2097-3993 | 4276         | Opto-Electronic Advances                                   | 314                   |
+
+光学 精密工程的中文名、音译名和英文名由中文表第 313 行对应，身份同时获官网简介支持。LSA 的 and/&、其他连接符以及来源表列位置差异仅用于身份匹配，不改写目录刊号分类或出版社字段。七刊另有中文表 Renewed 记录，按刊号核对，并未将清单年解释为开始覆盖年。
+
+A10 结束时：EI 53/74，其中数据库方依据 47 本。本批新增 0 条肯定记录、升级 12 条出版社证据。SCIE 62 与 ESCI 10 均有 MJL 依据；各覆盖起止年、其他索引、分区、指南、费用、样例与整刊日期不变，未进行订阅平台单篇检索。
+
+前批提交 7f6b06c 的 [Pages 37010772497](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37010772497) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 6c76f134748b2a85ebaee4c1c1471bb9ecea17c743957a2981bf86b39a20464d 与本地一致后开始本批数据修改。
