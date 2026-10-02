@@ -353,3 +353,7 @@ Optica Quantum 补官网刊号与 MJL ESCI；两本中文 EI 刊未取得核心�
 ### 2026-10-02：会议核验 C2（六个系列）
 
 新增 APOS 2026 历史届次，按官网 PDF 单独日程 1/31–2/2 收录，IWPFA 与联合总日程不重复计数。OPIC 母会正文复核补证据，稿型/注册仍待公布；另四系列未发现新事实或访问失败，保留缺口。正式会议 41，候选 124 admitted / 142 pending / 3 deferred；已有肯定索引数据库核对完成，下一步转分区版本、指南/样例及未审候选。详见 [C2 依据](CONFERENCE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-02：作者指南 E1
+
+六本复核中五本补本刊稿型、文件、正式入口或费用：Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics、Science Bulletin。Science Advances 正文访问受限，原缺口保留。费用注明核验日与稿型，整刊日期/索引/分区未改；E 的其他指南、完整政策与交叉论文样例仍继续。前批 822489d 部署和线上版本已确认，详见 [E1 依据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。

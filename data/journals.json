@@ -2673,12 +2673,15 @@
     "topics": ["综合光学", "光学材料", "成像与计算光学"],
     "description": "综合性开放获取期刊，接受对各自专业领域有重要意义的研究；可关注光子学、成像、光电材料和交叉科学成果。",
     "website": "https://www.nature.com/ncomms/",
-    "guide": "https://www.nature.com/ncomms/",
+    "guide": "https://www.nature.com/ncomms/submit",
     "requirements": [
-      "通过官网 For authors / Submit manuscript 核实文件及声明要求；原始研究实行公开同行评审文件的政策，投稿前查看本刊具体说明。",
-      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+      "2026-10-02 字段核验：原始研究采用 Article；初投格式较灵活，正文建议不超过 5,000 词（不含摘要、方法、参考文献及图注），不是硬性初投门槛。标题最多 15 词，摘要不超过 200 词且不含参考文献；图表数量须与正文长度相称。",
+      "通过官网链接的 https://mts-ncomms.nature.com/ 投稿。首次投稿可将正文与图表合并为不超过 30 MB 的 Word、TeX/LaTeX 或 PDF；补充材料另合并为单独文件。返修通过编辑决定信入口，不作为新稿重投。",
+      "附信说明研究意义及对本刊读者的适配，披露相关在审或待出版稿件；摘要或未经评审的网络预印本本身不损害新颖性。已出版会议全文仍须另查重复发表政策，不能据摘要例外推定可重复投稿。",
+      "支持主要结论的未报告自编代码在投稿时须可供编辑和审稿人使用；适用稿件可能被要求提供图表底层数值及未裁剪原始图像。发表前提供作者贡献和利益冲突声明。",
+      "2022-11-01 起提交的原始研究随发表文章公开审稿意见与作者回复文件；审稿人姓名一般匿名，除非其签名。具体来源：本刊 Article、How to submit 和 Transparent Peer Review 页面。"
     ],
-    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/ncomms/open-access ：当前 APC 为 GBP 5,490 / USD 7,350 / EUR 6,150，适用税费另计，价格由录用日期确定；本刊不收投稿费或页费。机构协议与减免按资格核对，自主减免申请须在投稿时提出，不等于保证免收。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -2730,10 +2733,12 @@
     "website": "https://www.nature.com/npjquantmats/",
     "guide": "https://www.nature.com/npjquantmats/for-authors-and-referees",
     "requirements": [
-      "按本刊作者入口选择稿件类型并准备正文、图表和补充材料；具体篇幅和格式以各类型指南为准。",
-      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+      "2026-10-02 字段核验：Article 为原始研究，稿型表建议标题不超过 15 词、无分节摘要不超过 150 词；正文与页数不设严格统一上限，参考文献约 60 条为非严格建议。其他稿型须按本刊 Content types 表分别处理。",
+      "通过官网 https://submission.springernature.com/new-submission/41535/3 投稿，附信、英文正文、图表与适用补充材料分别准备。初投格式灵活，建议图文合并为 PDF 或 Word；LaTeX 在录用阶段可接受，此前提交编译后的 PDF。",
+      "稿件须含 Data Availability 声明；支持主要结论的自编代码需可按要求提供，并在适用时加入 Code availability 声明及访问限制。录用稿通讯作者须在最终稿前关联 ORCID。",
+      "返修使用编辑决定信入口，不作为新稿提交；披露与作者有重叠的相关在审或待出版稿件。摘要和未经评审的网络预印本例外不代表会议全文可重复发表。指南、稿型和政策须同时核对。"
     ],
-    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/npjquantmats/apc ：Original Research APC 为 GBP 2,290 / USD 2,990 / EUR 2,590；Comment / Perspective / Review 为 GBP 1,155 / USD 1,535 / EUR 1,295。适用税费另计，价格按录用日期确定；机构协议及减免按资格申请，自主减免应在投稿时提出。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -2783,12 +2788,14 @@
     "topics": ["量子光学", "光通信", "集成光子"],
     "description": "覆盖量子计算、量子通信和量子信息理论；适合光量子器件、网络及信息处理课题。",
     "website": "https://www.nature.com/npjqi/",
-    "guide": "https://www.nature.com/npjqi/",
+    "guide": "https://www.nature.com/npjqi/for-authors-and-referees",
     "requirements": [
-      "从官网作者入口查看当前文章类型、数据及代码要求，并通过本刊提交系统投稿；勿沿用其他 npj 期刊的篇幅限制。",
-      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+      "2026-10-02 字段核验：Article 稿型表建议标题不超过 15 词、无分节摘要不超过 150 词；不设严格统一正文或页数上限。Brief Communication 另列摘要不超过 70 词、正文约 1,000–1,500 词（不含摘要、方法、参考文献及图注），不能与 Article 混用。",
+      "通过官网 https://submission.springernature.com/new-submission/41534/3 投稿，准备附信、英文正文和图表。初投格式灵活，建议图文合并为 PDF 或 Word；录用阶段可交 LaTeX，此前供编译 PDF，补充信息合并为单独文件。",
+      "提交稿必须包含 Data Availability 声明；使用支持主要结论的自编代码时须有 Code availability 声明并可应编辑和审稿人要求提供。最终录用稿的通讯作者须提前关联 ORCID。",
+      "通过编辑决定信提供的入口返修，不另投新稿；相关在审或待出版稿件须披露。各 npj 期刊编辑独立，模板/长度不能从其他刊直接套用。本轮依据为本刊作者、Submission guidelines 与 Content types 页面。"
     ],
-    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/npjqi/apc ：Original Research APC 为 GBP 3,090 / USD 4,390 / EUR 3,690；Brief Communication / Perspective / Review / Comment / Meeting Report 为 GBP 1,510 / USD 2,040 / EUR 1,710。适用税费另计，价格按录用日期确定；机构协议及减免按资格申请，自主减免应在投稿时提出。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -2840,10 +2847,12 @@
     "website": "https://www.nature.com/commsphys/",
     "guide": "https://www.nature.com/commsphys/submit",
     "requirements": [
-      "从官网现行在线系统投稿，准备 Word（图表插入正文）或 LaTeX 图文 ZIP 包，并按 Formatting Guidelines 核对声明和统计方法。",
-      "投稿前对照本刊范围，说明研究对目标读者的意义；收费、许可与资助协议在官网最新页面核实。"
+      "2026-10-02 字段核验：Article 建议正文约 5,000 词以内，方法不计入且无长度限制；最多 10 个图表项。Formatting Guidelines 的稿型推荐表列原始研究摘要 150–250 词，标题 15 词以内；这些不能替代 Review/Perspective 等稿型的独立规定。",
+      "通过官网 https://submission.springernature.com/new-submission/42005/3 投稿。Word 将图表置于引用处；LaTeX 正文与图表压缩为 ZIP，由系统编译评审 PDF。指南建议行号、可编辑公式及至少 12 pt 一致字体。",
+      "本刊原始研究可采用 Introduction–Results–Discussion–Methods 或 Introduction–Methods–Results–Discussion 顺序，不按其他 Communications 刊的固定顺序处理。使用统计分析时方法中应设 Statistical Analyses 小节；激光或光伏研究按适用报告清单补材料。",
+      "Review/Perspective 主文约 6,000 词为建议，最多 8 个图表项；其他邀约或提案内容另按本刊规则。完整声明、附信和数据代码政策继续对照 Policy Guide，本轮仅核对稿型、格式、正式入口与收费。"
     ],
-    "publishing": "开放获取期刊；APC、减免和机构协议以本刊现行收费说明为准。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/commsphys/open-access ：当前 APC 为 GBP 3,150 / USD 4,190 / EUR 3,590，适用税费另计，价格由录用日期确定。机构协议和减免按资格核对，自主减免须在投稿时申请；不承诺所有作者免收。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -3733,10 +3742,12 @@
     "website": "https://www.sciencedirect.com/journal/science-bulletin",
     "guide": "https://www.sciencedirect.com/journal/science-bulletin/publish/guide-for-authors",
     "requirements": [
-      "先确认原创研究及其他内容类型的要求，突出工作对相关自然科学领域的意义；通过本刊官方提交入口投稿。",
-      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+      "2026-10-02 字段核验：Article 通常单段摘要不超过 250 词、4–6 个关键词、最多 6 个图表及约 60 条参考文献；建议限 10 个印刷页（含参考文献、图注与注释）。Review 通常约稿，但也可考虑自由投稿，建议最多 15 页。",
+      "Short Communication 单独要求少于 3 个印刷页、1–2 个图表及少于 15 条参考文献，不需要摘要或关键词；不能将这些要求用于 Article。其他稿型按 Types of Paper 栏目分别核对。",
+      "通过官方 https://mc03.manuscriptcentral.com/csb 投稿。附信说明工作意义、总字数、通讯作者信息、利益冲突及作者贡献，并按指南给出伦理标准声明。返修附逐条回复与标出修改的稿件。",
+      "图像单独提交，图注另列；补充材料随稿提交并清除修订痕迹，录用后按原文件在线发布。利益冲突模板按指南保留 DOCX；数据可用性与适用伦理、生成式 AI 披露按完整作者指南处理。"
     ],
-    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+    "publishing": "可选订阅或开放获取。2026-10-02 核对：OA 费用页 https://www.sciencedirect.com/journal/science-bulletin/publish/open-access-options 列全部稿型 APC USD 3,880（不含税），机构/资助协议按资格核对。作者指南另列订阅稿黑白页费 RMB 1,000（亦标 USD 150）/页，彩页具体收费待编辑部核实；无 OA 费不等于无页费，不将两种费用简单相加为确定报价。"
   },
   {
     "checkedAt": "2026-09-11",

@@ -636,3 +636,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - OPIC 母会主页、投稿、注册和会场正文现可读，日程一致；补字段级证据及对应截止来源。Submission/Registration 正文仍待公布，不填实际入口、费用或模板，不刷新整条日期。ICOLS 和欧洲 CLEO 公开信息无变化、ICO 无新征稿，USQS 本轮访问失败；这些记录不改。
 - 正式目录为 74 刊、41 届会议、9 项活动；候选 269 项，124 admitted / 142 pending / 3 deferred。同步当前数量及后续索引任务，历史批次记录保留。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列仍 206 项，覆盖 12 主题/269 候选，差异审核及 git diff --check 通过。
+
+## 2026-10-02：作者指南 E1（六本）
+
+- C2 提交 822489d 的 Pages 37013068648 build/deploy 成功，首页及版本 HTTP 200、e88e9eef… 与本地一致后修改本批。
+- 浏览器核对 Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics 和 Science Bulletin 的本刊稿型、文件、入口及收费页。修正泛化要求，区分正文建议/硬性限制、Article/短稿、初投/录用阶段和 npj 分稿型 APC。逐页来源与价格见 [E1 证据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
+- Science Bulletin 订阅黑白页费与可选 OA APC 分开，彩页收费未核实；Science Advances 网页 403、浏览器为安全验证页，没有改数据。未以同出版社他刊替代，未操作安全验证。
+- 逐刊差异检查仅五本 guide、requirements 和/或 publishing 改变；整刊日期、索引、分区、样例、会议和候选未改，正式数量仍 74 刊/41 届会议/9 项活动。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 206 项、覆盖 12 主题/269 候选，git diff --check 通过。实际额度仍允许续作，本批后继续其他规划。
