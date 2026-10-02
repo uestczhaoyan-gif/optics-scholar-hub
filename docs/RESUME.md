@@ -1,6 +1,6 @@
 # 新对话续接说明
 
-更新：2026-10-02。用户已明确要求持续续作，并开启每五小时检查额度后重新开始；已复用原 Codex 自动化并将目标改为当前对话。本文是操作入口，完整批次计划见 [ROADMAP](ROADMAP.md)。
+更新：2026-10-03。用户已明确要求持续续作，并开启每五小时检查额度后重新开始；已复用原 Codex 自动化并将目标改为当前对话。本文是操作入口，完整批次计划见 [ROADMAP](ROADMAP.md)。
 
 ## 项目与当前基线
 
@@ -106,3 +106,5 @@ E4 为 NML、SCM、PRX Quantum、InfoMat、Advanced Science 各补三篇近两�
 E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 APC、CC BY 资格及超页费，并补 AOP 不收发表费用。官方表生效日与核验日分开；只改 publishing，指南其他细则仍待核实。E4 提交 0db3677 已确认 Pages 37021346286、线上首页/版本 HTTP 200，与本地版本 c9fa4cd07471f4ef9f1e69451b34e3078d74403b068a491b1b6c55e403178677 一致。
 
 E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、Word/LaTeX 模板、预印本及会议扩展规则；OME Opinion 的四页限制与研究稿分开。只改 guide/requirements，研究稿篇幅与摘要等未核实内容仍开放。E5 提交 e168b1f 已确认 Pages 37021874250、首页/版本 HTTP 200，与本地 24071643c290bda2af127324d0fcac00019e6d68606b8877d6e97ffba70368e1 一致。
+
+E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。下一批继续其他核心刊指南、分区版本和未审候选；已核实同版索引不重复扫描。额度实际不足时保留此检查点，五小时自动化按现有配置检查实际账户额度后续作。

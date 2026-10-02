@@ -1,6 +1,6 @@
 # 后续工作规划 / Roadmap
 
-更新：2026-10-02；用户已授权持续续作，复用五小时额度检查任务并接到当前对话。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
+更新：2026-10-03；用户已授权持续续作，复用五小时额度检查任务并接到当前对话。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
 
 ## 当前结果与原规划对照
 
@@ -381,3 +381,7 @@ E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 A
 ### 2026-10-02：作者指南 E6
 
 E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、Word/LaTeX 模板、预印本及会议扩展规则；OME Opinion 的四页限制与研究稿分开。只改 guide/requirements，研究稿篇幅与摘要等未核实内容仍开放。E5 提交 e168b1f 已确认 Pages 37021874250、首页/版本 HTTP 200，与本地 24071643c290bda2af127324d0fcac00019e6d68606b8877d6e97ffba70368e1 一致。索引、分区、费用、样例与整刊日期保持，剩余任务继续；[来源与适用范围](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-02：作者指南及费用 E7
+
+E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。全部规划仍开放；[来源](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。

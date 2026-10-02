@@ -81,3 +81,12 @@ Nano-Micro Letters 与 Science China Materials 本刊收费页的 Submit 链接�
 - [会议扩展政策](https://opg.optica.org/content/author/portal/item/review-general-policies/)：新增内容、会议归属、复用版权、修改题名及正常评审，无统一新增百分比。动物/人体研究另有伦理声明要求。
 
 只改五刊 guide/requirements；E5 publishing、索引、分区、样例和整刊日期保留。研究稿长度/摘要等未知细则明确开放，不能把模板或收费页的页数门槛当作研究稿硬上限。
+
+## E7：JOCN 与 Optics Letters
+
+E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。
+
+- [JOCN 专用作者指南](https://opg.optica.org/content/journal/about/item/jocn-author/)：须用本刊 Word/LaTeX 模板，投稿选理论系统设计或实验系统；简介/照片可选，最终照片 EPS/TIF。10 页内无强制超页费，11–15 页 USD 220/页，超 15 页先获主编批准。
+- [收费表](https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/)：两刊自愿页费建议 USD 125/页，可选 OA USD 2,300、符合资助条件的 CC BY USD 2,550。OL 四页限制，无超页；线上彩色免费，印刷首图 USD 650、后续 USD 325/图，抽印可能另计。税和收费版本适用时点未知。
+
+本轮没有把自愿页费当必缴，也未把可选 OA 当所有订阅稿的费用。研究稿其余长度/摘要等仍需逐刊核实。

@@ -686,3 +686,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、Word/LaTeX 模板、预印本及会议扩展规则；OME Opinion 的四页限制与研究稿分开。只改 guide/requirements，研究稿篇幅与摘要等未核实内容仍开放。E5 提交 e168b1f 已确认 Pages 37021874250、首页/版本 HTTP 200，与本地 24071643c290bda2af127324d0fcac00019e6d68606b8877d6e97ffba70368e1 一致。
 - 公共模板明确列出五刊，模板/许可和扩展规则有独立官方来源；没有按收费页推算硬性研究稿长度，也没有编造统一扩展比例。与修改前断言仅五刊 guide/requirements 改变；其余字段和数量保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查通过。维护队列 223 项、覆盖 12 主题/270 候选，git diff --check 通过；Node 24.20.0 便携构建仅有既有单块体积提示。
+
+## 2026-10-02：指南及费用 E7（两刊）
+
+- E6 提交 86a4845 的 Pages 37022396021 build/deploy 成功；首页/版本 HTTP 200，e9a543eeae66385afd78d90f8016cf3c8faf83c498097a7c52421e1179a0ccda 与本地一致后开始本批。
+- E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。
+- 10/2 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过。随后额度限制使自动审批无法完成，最后的日志补记及提交未执行；未将中断当作已发布。10/3 五小时额度恢复后核对工作区仍是这五个文件、远端 main 仍为 E6；逐字段复核仅 JOCN/OL 对应字段变化，本地构建版本为 6377eeeba2acf17d1dc40852701b0b82d21bd374d702c34a7dd22cacc3cbb875。
+- 本轮维护队列重生成为 223 项、覆盖 12 主题/270 候选，整体规划保持开放。正式数量、十四刊样例及既有索引记录未变，额度检查任务沿用既有五小时配置。

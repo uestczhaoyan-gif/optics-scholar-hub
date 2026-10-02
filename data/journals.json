@@ -507,12 +507,13 @@
     "topics": ["光通信", "电子与器件"],
     "description": "聚焦光通信与网络层面的设计、运行和技术问题，适合器件以外的系统和网络工作。",
     "website": "https://opg.optica.org/jocn/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/jocn-author/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 核验：研究论文须用本刊专用 Word 或 LaTeX 模板；经官方页面进入 Prism，投稿时选择 Architectural and theoretic system designs 或 Experimental systems。未验证登录后的提交操作。",
+      "作者简介及照片为可选；可随初投稿件提交，提供照片者在最终制作审查阶段还需 EPS/TIF 图片文件。摘要长度等未在本轮核实。",
+      "10 个印刷页以内没有强制超页费；第 11–15 页每页 USD 220。超过 15 页须事先获主编批准，获批稿仍对第 10 页后的所有页收费；不把付费视为自动允许超长。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-02 核验：订阅路径 10 页以内无强制超页费，第 11–15 页每页 USD 220；超过 15 页须主编事先批准。自愿页费建议 USD 125/页，可选 OA USD 2,300，符合条件的 CC BY OA USD 2,550，不能当作必付 APC；税与收费版本适用时点未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
@@ -648,7 +649,7 @@
       "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
       "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-02 核验：文章限四个印刷页，无超页费；自愿页费建议 USD 125/页，可选 OA USD 2,300，符合条件的 CC BY OA USD 2,550。在线彩色图免费，印刷彩色第一图 USD 650、后续每图 USD 325，可能另有抽印费用；税与收费版本适用时点未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
