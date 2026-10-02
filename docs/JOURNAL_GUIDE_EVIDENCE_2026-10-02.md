@@ -45,3 +45,21 @@
 Nano-Micro Letters 与 Science China Materials 本刊收费页的 Submit 链接分别为 [nmlett](https://mc03.manuscriptcentral.com/nmlett) 和 [scms](https://mc03.manuscriptcentral.com/scms)，本轮请求 403；仅核实官方所指向的渠道，不称已完成登录验证。NML 双盲、摘要与 TOC 的既有条款未重新全核，邮件方式遗留仍须编辑部澄清。SCM 最新版面费金额及全文模板细则继续待核实。
 
 [PRX Quantum 本刊指南](https://journals.aps.org/prxquantum/authors)同时列 Research Article 无统一上限、Perspective 7,500、Tutorial 37,500、Comment/Reply 3,500 词，单独更新类型表。其他既有条款仍保留，不刷新整刊 checkedAt。InfoMat 创刊免 APC 的旧 overview 与当前收费页区分；Wiley Comment 免收规则只来自 Advanced Science 本刊，不能泛化到 InfoMat。
+
+## E5：Optica 出版集团七刊费用
+
+2026-10-02 读取 [官方收费表](https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/) 及 [版权和许可说明](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/)。下列为本刊基础金额，超页费另计，不能将收费范围当作允许超过稿型篇幅。
+
+| 期刊                             | USD 基础价与超页规则                                                                                                                                                                | 官方生效日                        |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Biomedical Optics Express        | 15 页内 USD 1,775；第 16 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,025                                                                                                        | 2026-01-01                        |
+| Optical Materials Express        | 15 页内 USD 1,760；第 16 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,010                                                                                                        | 2026-01-01                        |
+| Optics Express                   | 15 页内 USD 2,300；第 16 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,550                                                                                                        | 2026-01-01                        |
+| Optica                           | Letter（至多 4 页）/memorandum（至多 2 页）USD 2,910；Research Article（至多 8 页）USD 3,460；超过 8 页每页 USD 145；符合条件的 CC BY 基础价分别 USD 3,160（≤4 页）/3,710（5–8 页） | 2026-01-01                        |
+| Optica Quantum                   | Research Article 8 页内 USD 2,265；超过 8 页每页 USD 145；符合条件的 CC BY 基础价 USD 2,515                                                                                         | 2026-01-01                        |
+| Photonics Research               | 10 页内 USD 2,500；第 11 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,750                                                                                                        | 2024-01-01                        |
+| Advances in Optics and Photonics | 官方明确不收发表费用                                                                                                                                                                | 核验日 2026-10-02；页面未列生效日 |
+
+六本开放获取刊录用后付款，无投稿费。默认开放获取协议与 CC BY 不同；CC BY 按经确认的资助方要求在投稿中确定，不把此价格当作人人必付。机构协议及符合条件国家的减免需逐案确认，税费及收费版本适用时点未明确；Photonics Research 的当前表仍保留 2024-01-01 生效日。
+
+本批仅更新七刊 publishing。模板、稿型、会议扩展和其他指南缺口仍开放；索引、分区、样例与整刊日期未刷新。

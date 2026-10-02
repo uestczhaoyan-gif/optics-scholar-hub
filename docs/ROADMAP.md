@@ -373,3 +373,7 @@ Advanced Materials 补本刊指南；五刊补有日期与官方来源的 APC，
 ### 2026-10-02：交叉适配 E4
 
 五刊补十五篇近两年光学样例，累计十四刊至少三篇，其他刊仍需系统核验。首次发表与卷期跨年分别记录，卷期缺显示时核对出版社向 Crossref 登记数据；连续出版不编期号。理论/计算与实验、模拟生医与临床证据分别说明。E3 已确认部署及线上版本；[来源与边界](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-02：费用 E5
+
+E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 APC、CC BY 资格及超页费，并补 AOP 不收发表费用。官方表生效日与核验日分开；只改 publishing，指南其他细则仍待核实。E4 提交 0db3677 已确认 Pages 37021346286、线上首页/版本 HTTP 200，与本地版本 c9fa4cd07471f4ef9f1e69451b34e3078d74403b068a491b1b6c55e403178677 一致。其余分区、指南、样例和候选任务仍开放；[收费来源与边界](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。

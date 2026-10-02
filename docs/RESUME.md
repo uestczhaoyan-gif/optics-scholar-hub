@@ -102,3 +102,5 @@ C3 已审核七系列，新增南京 AOMTA/YSAOM 历史联合届、LiM 2027、Si
 E3 补六刊指南或收费：Advanced Materials 本刊稿型/材料，NML、SCM、Advanced Science、InfoMat、PRX Quantum 的官方 APC（区分录用/投稿日、税及减免）。ScholarOne 两入口被 403，仅确认官方链接，不声称登录后流程已核验；NML 邮件遗留与 SCM 版面费仍待补。C3 提交 56d1d9c 已验收 Pages 37018974566 和线上版本。索引、分区、样例及整刊日期保持，继续剩余任务。
 
 E4 为 NML、SCM、PRX Quantum、InfoMat、Advanced Science 各补三篇近两年光学论文，累计十四刊至少三篇；SCM/Wiley/APS 另核对 Crossref 出版社登记卷期，NML 连续出版不造期号。仅改样例，索引、分区、指南和整刊日期保持。E3 提交 3fcbeeb 已确认 Pages 37019694610 和线上版本。其余规划继续开放。
+
+E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 APC、CC BY 资格及超页费，并补 AOP 不收发表费用。官方表生效日与核验日分开；只改 publishing，指南其他细则仍待核实。E4 提交 0db3677 已确认 Pages 37021346286、线上首页/版本 HTTP 200，与本地版本 c9fa4cd07471f4ef9f1e69451b34e3078d74403b068a491b1b6c55e403178677 一致。

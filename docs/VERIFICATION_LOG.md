@@ -674,3 +674,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 五刊各补三篇近两年光学论文，逐篇核对题名、首次发表与摘要；另以出版社 Crossref 登记核对四刊卷期。NML 连续出版列卷/文章号，首次发表与归入卷期跨年分开；具体原题、卷期和适配见 [E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 逐刊断言只新增五刊 scopeExamples，其余 69 刊、索引、分区、指南/费用和整刊核验日期不变；累计十四刊至少三篇。正式 74 刊/46 届会议/9 项活动，候选 270（129 admitted / 138 pending / 3 deferred）保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过。维护队列 223 项、覆盖 12 主题/270 候选；与 HEAD 的逐字段差异检查及 git diff --check 通过。构建采用已校验的 Node 24.20.0 便携运行时，仍只有既有单块体积提示。
+
+## 2026-10-02：出版费用 E5（七刊）
+
+- E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 APC、CC BY 资格及超页费，并补 AOP 不收发表费用。官方表生效日与核验日分开；只改 publishing，指南其他细则仍待核实。E4 提交 0db3677 已确认 Pages 37021346286、线上首页/版本 HTTP 200，与本地版本 c9fa4cd07471f4ef9f1e69451b34e3078d74403b068a491b1b6c55e403178677 一致。
+- 官方费用表逐刊核对页数与对应列，区分基础/超页及条件性 CC BY；PRJ 的 2024 生效版本不改成年份推测。AOP 不收发表费用来自明确声明。与更新前逐字段断言仅七刊 publishing 改变，正式/候选数量保持，十四刊样例保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查均通过。维护队列 223 项、覆盖 12 主题/270 候选；差异审核和 git diff --check 通过。构建仍采用已校验的 Node 24.20.0 便携运行时，依赖未变。
