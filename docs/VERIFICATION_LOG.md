@@ -588,3 +588,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - SCIE 肯定仍 62 本，十二条 publisher 升级为 database，数据库依据 45→57；ESCI 9（数据库 3）、EI 42（数据库 24）、JCR 61、中科院 10 不变。LSA 结果另有刊号，本批未改目录刊号。未登录 profile，未做单篇检索，覆盖年份仍未知。
 - 逐项差异核对确认仅对应 SCIE 字段变化，其他索引、整刊日期、分区、指南、费用和样例不变，正式数量与候选状态不变。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过；维护队列 261 项字段任务，覆盖报告 12 主题/269 候选，`git diff --check` 通过。
+
+## 2026-10-02：Clarivate 索引批次 A8（11 本）
+
+- A7 提交 5df254f 的 [Pages 37009592247](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37009592247) build/deploy 均成功，线上首页及版本 HTTP 200，目录版本 2a7344… 与本地一致后开始修改。
+- 按官方 MJL 实际结果核对 Advanced Materials、AFM、Advanced Science、InfoMat、Angewandte 的 SCIE，以及 OES、Ultrafast Science、中国激光、光学学报、激光与光电子学进展、中国光学的 ESCI。十一刊唯一 Exact Match、刊名/刊号身份和子库均已核对，来源见 [A8 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- Angewandte 印刷刊号初查无结果，改用官方刊名搜索，再以结果显示的既有电子刊号 1521-3773 得到唯一匹配；没有将空结果当作停收。中国光学现刊号 2097-1842 匹配，不用历史刊号覆盖现刊。
+- 五条 SCIE、六条 ESCI 由 publisher 升级为 database，肯定数量仍为 SCIE 62、ESCI 9，现全部有 MJL 结果依据。EI、分区、覆盖年份、指南、费用、样例、整刊日期和正式/候选数量均不变；未登录 profile 或做单篇检索。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 250 项字段任务、覆盖 12 主题/269 候选，差异审核与 `git diff --check` 通过。

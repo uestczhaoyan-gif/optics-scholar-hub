@@ -76,3 +76,27 @@ LSA 结果卡另显示 2095-5545，本批保留目录既有 eISSN 2047-7538，�
 A7 结束时：SCIE 62/74，其中数据库依据 57 本；ESCI 9/74，其中数据库依据 3 本；EI 42/74（数据库依据 24 本）。余下五条出版社 SCIE 与六条出版社 ESCI 继续核验。
 
 A6 提交 812da14 的 [Pages 37008821255](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37008821255) build/deploy 均成功，线上首页及版本 HTTP 200，目录版本 5b2a8b6c7ebe02537d2c8f69195ad259b939d74269c1180b41a2776ea45308aa 与本地一致。
+
+## 批次 A8：其余出版社 SCIE/ESCI 依据（11 本）
+
+以下十一刊均得到唯一 Exact Match，按结果卡实际子库更新对应索引。五条 SCIE、六条 ESCI 从出版社依据升级为 database，肯定数量不变。
+
+| 期刊                                    | 查询刊号  | 结果卡显示刊号        | 子库 | 来源                                                                                         |
+| --------------------------------------- | --------- | --------------------- | ---- | -------------------------------------------------------------------------------------------- |
+| Advanced Materials                      | 0935-9648 | 0935-9648 / 1521-4095 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0935-9648&hide_exact_match_fl=true) |
+| Advanced Functional Materials           | 1616-301X | 1616-301X / 1616-3028 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1616-301X&hide_exact_match_fl=true) |
+| Advanced Science                        | 2198-3844 | 2198-3844             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2198-3844&hide_exact_match_fl=true) |
+| InfoMat                                 | 2567-3165 | 2567-3165             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2567-3165&hide_exact_match_fl=true) |
+| Angewandte Chemie International Edition | 1521-3773 | 1521-3773             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1521-3773&hide_exact_match_fl=true) |
+| Opto-Electronic Science                 | 2097-0382 | 2097-0382 / 2097-4000 | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2097-0382&hide_exact_match_fl=true) |
+| Ultrafast Science                       | 2097-0331 | 2097-0331 / 2765-8791 | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2097-0331&hide_exact_match_fl=true) |
+| 中国激光                                | 0258-7025 | 0258-7025             | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0258-7025&hide_exact_match_fl=true) |
+| 光学学报                                | 0253-2239 | 0253-2239             | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0253-2239&hide_exact_match_fl=true) |
+| 激光与光电子学进展                      | 1006-4125 | 1006-4125             | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1006-4125&hide_exact_match_fl=true) |
+| 中国光学（中英文）                      | 2097-1842 | 2097-1842             | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2097-1842&hide_exact_match_fl=true) |
+
+Angewandte 初查印刷刊号 1433-7851 没有结果，随后用官方刊名搜索找到匹配卡，再按卡片显示且目录已有的电子刊号 1521-3773 查询，得到唯一 Exact Match。来源使用实际成功的电子刊号查询，不把首次无结果解释为停收。中国光学使用现刊号 2097-1842，未改回历史刊号；三个中文刊的英文或音译名按刊号对应。
+
+A8 结束时：现有 62 条 SCIE 和 9 条 ESCI 肯定记录均有当前 MJL 公开结果卡依据。其余十二刊的 SCIE 未核实字段仍保留，包括 ESCI 刊；EI 42（数据库依据 24）、分区、覆盖年份、刊号、指南、样例与整刊日期均不变。剩余三刊的 Web of Science 身份与其他 EI/分区等继续开放。
+
+A7 提交 5df254f 的 [Pages 37009592247](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37009592247) build/deploy 均成功，线上首页及版本 HTTP 200，目录版本 2a734460399d77d4ee59b4286afeebb6e2db75852ba8261c87ca1b35c38b421f 与本地一致。
