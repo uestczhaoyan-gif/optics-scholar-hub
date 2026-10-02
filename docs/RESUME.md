@@ -9,7 +9,7 @@
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
 - 正式目录：74 本期刊、40 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：269 项，123 admitted、143 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
-- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 41、ESCI 8、EI 42。24 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；五本中文刊另核对 2026-07-10 中文表），另有 24 本 SCIE 已经 Clarivate MJL 公开结果卡查询确认，其他肯定证据为出版社声明；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [匹配记录](INDEX_EVIDENCE_2026-09-30.md)。
+- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 52、ESCI 8、EI 42。24 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；五本中文刊另核对 2026-07-10 中文表），另有 35 本 SCIE 与 1 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，其他肯定证据为出版社声明；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
 - 交叉适配样例仅 AFM、Nature Electronics、Nature Materials、Nature Nanotechnology 完成至少 3 篇；其余仍需系统补充。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
 
@@ -47,6 +47,8 @@ A4 再核对 ACS 六刊、Nature 五刊与 LPR，当前 SCIE 数据库查询依�
 C1 已审核六个会议系列，新增五届未来会议：SPIE Advanced Lithography + Patterning 2027、Medical Imaging 2027、Optical Metrology 2027、Astronomical Telescopes + Instrumentation 2028 和 OPIC 2027。APOS 因当届会期未核实仍为 pending。当前正式会议 40 届、候选 123 admitted / 143 pending / 3 deferred，维护队列 300 项字段任务；新增预告的征稿和注册缺口继续开放，详见 [会议证据页](CONFERENCE_EVIDENCE_2026-09-30.md)。A4 提交 c9c2516 的 Pages 构建、部署和线上版本已确认。
 
 10/2 已补验收 C1 线上版本（与本地一致），读取当日来源巡检并重生成报告；临近日期复核无变化，补 Photonics West 官方 PW27 注册入口，费用与截止仍待核实。当前维护队列 296 项字段任务。用户已授权恢复五小时额度检查与持续续作，配置详情见下方；继续 IEEE、生医/制造等刊数据库证据及剩余会议任务。
+
+A5 已核对 IEEE 六刊、Biosensors and Bioelectronics、IJEM、JBO、JCIS、Dyes and Pigments 的当前 SCIE，并将 Frontiers of Optoelectronics 的 ESCI 升级为数据库依据。SCIE 累计 52 本，其中 35 本 MJL 依据；ESCI 8 本，其中 1 本 MJL 依据。维护队列现为 284 项字段任务；继续其他核心、中文和交叉刊及出版社证据的数据库复核，EI/JCR/CAS 仍独立开放。B2 提交 bb22892 的部署与线上版本已确认。
 
 ## 数据与发布要求
 

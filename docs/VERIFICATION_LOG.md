@@ -564,3 +564,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [ACP PDP 页](https://www.acpconf.com/news/post-deadline)仍为 10/15 23:59 北京时间，[IPC 注册](https://ieee-ipc.org/attendees/registration/)仍为 Before 8 October，[OMTA](https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html)仍为 10/29–31 会期、10/15 最终轮及含当日优惠支付，[OPTIC 投稿指南](https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696)仍为 10/9 前通知与已过的 9/30 Poster-Only；本批不刷新无变化字段或整条日期。IPC 酒店页只确认参会房间预订，不由酒店推断论文会场。
 - 在官方浏览器核对 [Photonics West 指南](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)，通知及材料日期与现目录一致；点击 Register 后到达 [PW27 官方注册入口](https://spie.org/registration/online/PW27)，正文明确当届注册并提示登录或创建账号。补 registration 链接及本轮核验范围；未登录、未核对费用或注册截止，不把入口可达作为完成注册或所有稿件仍可提交的证据。维护队列降为 296 项，正式数量及候选状态不变。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过；差异仅 PW27 registration/notes 和三份续接记录，`git diff --check` 通过。后续按对应提交 SHA 验收部署。
+
+## 2026-10-02：Clarivate 索引批次 A5（12 本）
+
+- B2 提交 bb22892 的 [Pages 37007435125](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37007435125) build/deploy 均成功，线上首页及 catalog-version HTTP 200，版本 6a2a5c… 与本地一致后再修改本批数据。
+- 在 [MJL 官方界面](https://mjl.clarivate.com/home)按刊号核对唯一 Exact Match、刊名和具体 Core Collection 子库。IEEE Communications Surveys & Tutorials、TIE、TCYB、TMI、TIP、TGRS，以及 Biosensors and Bioelectronics、IJEM、JBO、JCIS、Dyes and Pigments 共十一刊的结果卡明确列 SCIE；此前 unverified 升级为 confirmed / database。匹配刊号与来源见 [A5 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- Frontiers of Optoelectronics 结果明确为 ESCI，已有肯定值保持，evidence 由 publisher 改为 database；其 SCIE 字段未改。SCIE 肯定记录 41→52、数据库依据 24→35；ESCI 肯定仍 8，其中数据库依据 1。EI 42（数据库 24）、JCR 61、中科院 10 不变，公开卡未给覆盖年，继续 null。
+- 逐项审核确认仅十二本对应索引字段改变，其他索引、整刊日期、指南、费用、分区和样例未改；正式目录和候选数量不变。维护队列 296→284 项字段任务，覆盖报告仍为 12 主题/269 候选；未登录 profile 或做单篇检索。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与静态入口资源检查均通过，`git diff --check` 通过。当前自动化设置保持用户授权的五小时续作。
