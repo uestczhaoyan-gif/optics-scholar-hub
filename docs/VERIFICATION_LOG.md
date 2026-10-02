@@ -746,3 +746,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - C4 审核六个未审系列及新确认的联合母会，新增 Optics + Photonics 2027、Sensors + Imaging 2027、Electronic Imaging 2027 三届。正式 74 刊/49 会议/9 活动；候选 271（132 admitted / 136 pending / 3 deferred）。Photonics Europe 2028 与 Photomask 2027 城市仍未知，保留候选；欧洲遥感/安全子系列不重复计母会。EI 首页延期、旧 CFP 与已关闭系统冲突，摘要截止 null、状态 closed。SPIE 当前官方页面和两个子系列逐页读取，IS&T 旧官网 2027 Save the Date 与当届首页/CFP/实际提交页交叉核对；[具体来源](CONFERENCE_EVIDENCE_2026-10-03.md)。未登录/提交稿件或发送邮件。
 - 修改前及与 HEAD 的断言保持全部 46 届旧正式会议和其他候选，仅追加三届、审核六候选并增加一个母会候选；期刊、活动、索引/分区/样例未改。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 234 项字段任务、覆盖 12 主题/271 候选，差异审查、当前数量/文档链接和 git diff --check 通过。便携 Node 24.20.0 构建仍仅有既有单块体积提示。
+
+## 2026-10-03：分区公开证据 A13（六刊）
+
+- C4 ab98d31fe187ac1d5f6c9e7e9e1eda0cec9720b5 的 [Pages 37074836786](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37074836786) build/deploy 成功；线上首页/版本 HTTP 200，2c5e8103bd3a2c53dc3c4eaa8326e8611101585cd942688a760eb81e42cdbf8c 与本地一致后开始本批。
+- 六刊公开指标页及有针对性的公告入口已读；没有学科分区/完整排名的影响因子不换算 Q 值，JCI、CiteScore、SJR 不替代 JCR。CAS 入口访问失败与停发传言分开，未使用学校共享凭据或机构接口；[逐刊范围](RANKING_EVIDENCE_2026-10-03.md)。
+- 本批为文档证据记录，全部 JSON 字节及目录版本保持，正式 74 刊/49 会议/9 活动，候选 271（132 admitted / 136 pending / 3 deferred）、JCR 61/CAS 10、十四刊至少三篇样例保持。当日报告 234 项字段任务、12 主题。
+- 文档批次验证：四份目录 JSON 与 HEAD 字节一致，当前数量/分区/样例计数及 65 个本地 Markdown 链接通过，格式化、差异审查与 git diff --check 通过。未修改程序或目录数据，未重复运行功能测试与本地构建；GitHub 发布仍需验收对应 SHA 的完整 CI 与线上原目录版本。
