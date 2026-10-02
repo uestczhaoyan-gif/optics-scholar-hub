@@ -9,7 +9,7 @@
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
 - 正式目录：74 本期刊、40 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：269 项，123 admitted、143 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
-- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 9、EI 42。24 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；五本中文刊另核对 2026-07-10 中文表），另有 45 本 SCIE 与 3 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，其他肯定证据为出版社声明；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
+- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 9、EI 42。24 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；五本中文刊另核对 2026-07-10 中文表），另有 57 本 SCIE 与 3 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，其他肯定证据为出版社声明；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
 - 交叉适配样例仅 AFM、Nature Electronics、Nature Materials、Nature Nanotechnology 完成至少 3 篇；其余仍需系统补充。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
 
@@ -51,6 +51,8 @@ C1 已审核六个会议系列，新增五届未来会议：SPIE Advanced Lithog
 A5 已核对 IEEE 六刊、Biosensors and Bioelectronics、IJEM、JBO、JCIS、Dyes and Pigments 的当前 SCIE，并将 Frontiers of Optoelectronics 的 ESCI 升级为数据库依据。SCIE 累计 52 本，其中 35 本 MJL 依据；ESCI 8 本，其中 1 本 MJL 依据。维护队列现为 284 项字段任务；继续其他核心、中文和交叉刊及出版社证据的数据库复核，EI/JCR/CAS 仍独立开放。B2 提交 bb22892 的部署与线上版本已确认。
 
 A6 再核对十二刊，新增十条 SCIE、APN 的独立 ESCI，并升级 LAM 的 ESCI 证据。当前 SCIE 62 本（数据库 45）、ESCI 9 本（数据库 3），维护队列 273 项字段任务。APN/LAM 未转换为 SCIE；继续余下出版社依据的当前数据库核验、中文刊及 EI/分区与会议。A5 提交 55afdd0 的部署与线上版本已确认。
+
+A7 将十二条已有 SCIE 出版社证据升级为 MJL 数据库依据，累计 SCIE 62 本（数据库 57）、ESCI 9 本（数据库 3）。A6 提交 812da14 已确认部署与线上版本。继续余下五条出版社 SCIE、六条出版社 ESCI、其他 EI/分区与会议任务。
 
 ## 数据与发布要求
 

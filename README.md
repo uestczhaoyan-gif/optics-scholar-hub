@@ -35,7 +35,7 @@
 3. 学校采用当年或前一年版本时，分别选择对应年份。首版保存已找到的 **2025 中科院升级版公开参考**；尚未核实的 2026 中科院记录不以“新锐分区”等其他版本代替。
 4. 来源分为官方披露、依据官方排名推算、第三方公开参考。第三方参考必须通过学校图书馆的 [中科院分区入口](https://www.fenqubiao.com/) 复核。
 5. 默认显示全部已收录期刊；选择分区体系后仅匹配当前所选维度的 1 / 2 区。EI 补充可以没有分区，需用“不限分区”查看。展开区保留其他学科记录，例如大类 2 区不代表光学小类也是 2 区。
-6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 [24 本 Compendex 来源表核验](docs/INDEX_EVIDENCE_2026-09-30.md)，另有 [45 本当前 SCIE 的 MJL 查询及 3 本 ESCI](docs/INDEX_EVIDENCE_2026-10-02.md)；来源表不等于单篇检索，页面未列某索引不代表未收录。仅更新字段时不刷新整刊核验日期。
+6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 [24 本 Compendex 来源表核验](docs/INDEX_EVIDENCE_2026-09-30.md)，另有 [57 本当前 SCIE 的 MJL 查询及 3 本 ESCI](docs/INDEX_EVIDENCE_2026-10-02.md)；来源表不等于单篇检索，页面未列某索引不代表未收录。仅更新字段时不刷新整刊核验日期。
 
 JCR 首批主要依据 [Optica 官方 2026 JCR 指标表](https://opg.optica.org/content/author/portal/item/style-metrics/)；所有具体记录的来源在 `data/journals.json`。排名推算使用 `ceil(rank / total × 4)`，并非数据库官方核验结果；并列排名或官方规则差异以 JCR 为准。
 
@@ -104,7 +104,7 @@ The [expansion backlog](docs/EXPANSION_PLAN.md) lists optics and interdisciplina
 
 The [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) now support SCI/SCIE, EI Compendex, dual-index filters, ranking years/categories, subject fields and an EI engineering supplement. Index evidence is reviewed incrementally; publisher declarations are distinguished from database verification and unknowns remain explicit.
 
-Twenty-four journals now have EI evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026), with ISSN matches and row references in the [evidence record](docs/INDEX_EVIDENCE_2026-09-30.md). This is database-provider evidence, not an article-level subscription-platform search. Forty-five SCIE records and three ESCI records also have current public Clarivate Master Journal List evidence; see the [latest matches](docs/INDEX_EVIDENCE_2026-10-02.md). Coverage years remain unknown.
+Twenty-four journals now have EI evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026), with ISSN matches and row references in the [evidence record](docs/INDEX_EVIDENCE_2026-09-30.md). This is database-provider evidence, not an article-level subscription-platform search. Fifty-seven SCIE records and three ESCI records also have current public Clarivate Master Journal List evidence; see the [latest matches](docs/INDEX_EVIDENCE_2026-10-02.md). Coverage years remain unknown.
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 

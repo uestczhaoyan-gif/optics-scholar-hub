@@ -51,3 +51,28 @@
 A6 结束时：SCIE 62/74，其中数据库依据 45 本；ESCI 9/74，其中数据库依据 3 本；EI 42/74（数据库依据 24 本）。剩余十二本没有 SCIE 肯定记录，包含已确认 ESCI 的期刊；不等于官方已宣布未收录或停收。
 
 前批 A5 提交 55afdd0 的 [Pages 37008171496](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37008171496) build/deploy 均成功，线上首页及目录版本 HTTP 200，版本 a5398ce7ea7f71081d084e61dbec3c3e9cc4383dacee7e973d57832db6006da3 与本地一致。
+
+## 批次 A7：十二本出版社依据的 SCIE 数据库复核
+
+以下十二本均按目录刊号在 MJL 得到唯一 Exact Match，当前结果卡列 SCIE。已有肯定状态保持，证据从 publisher 升级为 database；不据检索过滤器或 JCR 推断子库。
+
+| 期刊                          | 查询刊号  | 结果卡显示刊号        | 子库 | 来源                                                                                         |
+| ----------------------------- | --------- | --------------------- | ---- | -------------------------------------------------------------------------------------------- |
+| Light: Science & Applications | 2047-7538 | 2095-5545 / 2047-7538 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2047-7538&hide_exact_match_fl=true) |
+| Advanced Photonics            | 2577-5421 | 2577-5421             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2577-5421&hide_exact_match_fl=true) |
+| Advanced Optical Materials    | 2195-1071 | 2195-1071             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2195-1071&hide_exact_match_fl=true) |
+| Nanophotonics                 | 2192-8606 | 2192-8606 / 2192-8614 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2192-8606&hide_exact_match_fl=true) |
+| PhotoniX                      | 2662-1991 | 2662-1991             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2662-1991&hide_exact_match_fl=true) |
+| Photonic Sensors              | 1674-9251 | 1674-9251 / 2190-7439 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=1674-9251&hide_exact_match_fl=true) |
+| eLight                        | 2097-1710 | 2097-1710 / 2662-8643 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2097-1710&hide_exact_match_fl=true) |
+| Nano-Micro Letters            | 2311-6706 | 2311-6706 / 2150-5551 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2311-6706&hide_exact_match_fl=true) |
+| npj Quantum Materials         | 2397-4648 | 2397-4648             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2397-4648&hide_exact_match_fl=true) |
+| npj Quantum Information       | 2056-6387 | 2056-6387             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2056-6387&hide_exact_match_fl=true) |
+| Communications Physics        | 2399-3650 | 2399-3650             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2399-3650&hide_exact_match_fl=true) |
+| Science China Materials       | 2095-8226 | 2095-8226 / 2199-4501 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2095-8226&hide_exact_match_fl=true) |
+
+LSA 结果卡另显示 2095-5545，本批保留目录既有 eISSN 2047-7538，未将卡片的合并 ISSN/eISSN 栏用于改写缺失的刊号类型。其余刊号、其他索引、分区、指南、样例与整刊日期均不变；覆盖起止年仍 null。
+
+A7 结束时：SCIE 62/74，其中数据库依据 57 本；ESCI 9/74，其中数据库依据 3 本；EI 42/74（数据库依据 24 本）。余下五条出版社 SCIE 与六条出版社 ESCI 继续核验。
+
+A6 提交 812da14 的 [Pages 37008821255](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37008821255) build/deploy 均成功，线上首页及版本 HTTP 200，目录版本 5b2a8b6c7ebe02537d2c8f69195ad259b939d74269c1180b41a2776ea45308aa 与本地一致。

@@ -580,3 +580,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - APN 结果仅列 ESCI，新增独立 ESCI 记录；LAM 结果也为 ESCI，将已有 publisher 依据升级为 database。两刊 SCIE 字段继续未核实，不由影响因子或 ESCI 卡推断 SCIE。SCIE 肯定 52→62、数据库 35→45；ESCI 肯定 8→9、数据库 1→3。
 - 逐项差异审核仅十条 SCIE、一条新增 ESCI 及一条 ESCI 证据改变，其他索引、指南、费用、分区、样例与整刊日期不变，覆盖年份仍 null。正式数量及候选状态不变，维护队列 284→273 项字段任务，覆盖报告仍 12 主题/269 候选。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过，`git diff --check` 通过。
+
+## 2026-10-02：Clarivate 索引批次 A7（12 本）
+
+- A6 提交 812da14 的 [Pages 37008821255](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37008821255) build/deploy 均成功，线上首页及版本 HTTP 200，版本 5b2a8b… 与本地一致后开始本批修改。
+- 按官方 MJL 刊号方法核对 LSA、AP、AOM、Nanophotonics、PhotoniX、Photonic Sensors、eLight、Nano-Micro Letters、npj Quantum Materials、npj Quantum Information、Communications Physics、Science China Materials；十二本均唯一 Exact Match 并明确列 SCIE。对应来源与结果刊号见 [A7 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- SCIE 肯定仍 62 本，十二条 publisher 升级为 database，数据库依据 45→57；ESCI 9（数据库 3）、EI 42（数据库 24）、JCR 61、中科院 10 不变。LSA 结果另有刊号，本批未改目录刊号。未登录 profile，未做单篇检索，覆盖年份仍未知。
+- 逐项差异核对确认仅对应 SCIE 字段变化，其他索引、整刊日期、分区、指南、费用和样例不变，正式数量与候选状态不变。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过；维护队列 261 项字段任务，覆盖报告 12 主题/269 候选，`git diff --check` 通过。
