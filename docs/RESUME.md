@@ -10,7 +10,7 @@
 - 正式目录：74 本期刊、41 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：269 项，124 admitted、142 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 10、EI 67。67 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 62 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，本轮现有肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
-- 交叉适配样例仅 AFM、Nature Electronics、Nature Materials、Nature Nanotechnology 完成至少 3 篇；其余仍需系统补充。
+- 交叉适配样例已有九刊至少 3 篇：AFM、Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics、Science Bulletin；其余仍需系统补充。最新 16 篇的日期及卷期见 [E2 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
 
 ## 恢复时先做
@@ -92,3 +92,5 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
 E1 已复核六本作者指南，五本补稿型、文件、入口或费用，Science Advances 安全验证限制保留。NC、两本 npj、Communications Physics、Science Bulletin 的已核实字段见 [E1 证据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)，不从零重复这些字段；整刊日期、分区和索引不刷新，其他政策及交叉样例仍需补。C2 提交 822489d 已确认部署与线上版本，当前正式数量不变。
+
+E2 为五本交叉刊补十六篇近两年光学样例，累计九刊至少三篇。三篇 Science Bulletin 正式论文来自不同期次，另有一篇在线校正稿；首次上线日期与卷期日分开。仅 scopeExamples 更新，前批 E1 提交 09a2bcf 已验收 Pages 37014294734 与线上版本。剩余指南、分区和候选仍继续。

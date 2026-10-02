@@ -2681,7 +2681,27 @@
       "支持主要结论的未报告自编代码在投稿时须可供编辑和审稿人使用；适用稿件可能被要求提供图表底层数值及未裁剪原始图像。发表前提供作者贡献和利益冲突声明。",
       "2022-11-01 起提交的原始研究随发表文章公开审稿意见与作者回复文件；审稿人姓名一般匿名，除非其签名。具体来源：本刊 Article、How to submit 和 Transparent Peer Review 页面。"
     ],
-    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/ncomms/open-access ：当前 APC 为 GBP 5,490 / USD 7,350 / EUR 6,150，适用税费另计，价格由录用日期确定；本刊不收投稿费或页费。机构协议与减免按资格核对，自主减免申请须在投稿时提出，不等于保证免收。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/ncomms/open-access ：当前 APC 为 GBP 5,490 / USD 7,350 / EUR 6,150，适用税费另计，价格由录用日期确定；本刊不收投稿费或页费。机构协议与减免按资格核对，自主减免申请须在投稿时提出，不等于保证免收。",
+    "scopeExamples": [
+      {
+        "title": "超表面光纤端面生成亚波长光学斯格明子",
+        "source": "https://www.nature.com/articles/s41467-024-54207-z",
+        "publishedAt": "2024-11-22",
+        "relevance": "2026-10-02 核验。偏振相关光纤端面超表面产生可切换的光学斯格明子，适配结构光、光纤与微纳光学交叉研究。 出版信息：15, 10141 (2024)。"
+      },
+      {
+        "title": "可编程原子控制的集成光子引擎",
+        "source": "https://www.nature.com/articles/s41467-024-55423-3",
+        "publishedAt": "2025-01-02",
+        "relevance": "2026-10-02 核验。薄膜铌酸锂可见光调制器与自由空间光学协同，实现多通道原子控制；适配集成光子与量子光学。 出版信息：16, 82 (2025)。"
+      },
+      {
+        "title": "自由曲面超表面实现宽视场全双工光无线通信",
+        "source": "https://www.nature.com/articles/s41467-026-70665-z",
+        "publishedAt": "2026-03-19",
+        "relevance": "2026-10-02 核验。形状优化超表面进行大角度光束偏转并用于全双工光无线通信，适配微纳器件与光通信系统。 出版信息：17, 4250 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -2738,7 +2758,27 @@
       "稿件须含 Data Availability 声明；支持主要结论的自编代码需可按要求提供，并在适用时加入 Code availability 声明及访问限制。录用稿通讯作者须在最终稿前关联 ORCID。",
       "返修使用编辑决定信入口，不作为新稿提交；披露与作者有重叠的相关在审或待出版稿件。摘要和未经评审的网络预印本例外不代表会议全文可重复发表。指南、稿型和政策须同时核对。"
     ],
-    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/npjquantmats/apc ：Original Research APC 为 GBP 2,290 / USD 2,990 / EUR 2,590；Comment / Perspective / Review 为 GBP 1,155 / USD 1,535 / EUR 1,295。适用税费另计，价格按录用日期确定；机构协议及减免按资格申请，自主减免应在投稿时提出。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/npjquantmats/apc ：Original Research APC 为 GBP 2,290 / USD 2,990 / EUR 2,590；Comment / Perspective / Review 为 GBP 1,155 / USD 1,535 / EUR 1,295。适用税费另计，价格按录用日期确定；机构协议及减免按资格申请，自主减免应在投稿时提出。",
+    "scopeExamples": [
+      {
+        "title": "开放量子系统的线性与非线性光谱响应理论",
+        "source": "https://www.nature.com/articles/s41535-024-00709-4",
+        "publishedAt": "2024-12-21",
+        "relevance": "2026-10-02 核验。理论框架计算耗散双层石墨烯的线性及非线性光学响应，包括二次谐波与位移电流；不是新器件实验。 出版信息：9, 104 (2024)。"
+      },
+      {
+        "title": "非线性光谱探测磁性拓扑绝缘体的涨落与退相干",
+        "source": "https://www.nature.com/articles/s41535-025-00795-y",
+        "publishedAt": "2025-07-23",
+        "relevance": "2026-10-02 核验。近共振磁偶极光学二次谐波实验探测磁涨落、维度交叉及空间畴结构，适配非线性光谱与量子材料。 出版信息：10, 81 (2025)。"
+      },
+      {
+        "title": "磁光探针揭示钴插层二硫化钽的各向异性多 Q 磁序",
+        "source": "https://www.nature.com/articles/s41535-026-00856-w",
+        "publishedAt": "2026-04-09",
+        "relevance": "2026-10-02 核验。利用多种磁光探针及异常磁双折射解析磁相自旋结构，适配磁光测量与材料物性；不泛化为纯磁学论文均适配。 出版信息：11, 47 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -2795,7 +2835,27 @@
       "提交稿必须包含 Data Availability 声明；使用支持主要结论的自编代码时须有 Code availability 声明并可应编辑和审稿人要求提供。最终录用稿的通讯作者须提前关联 ORCID。",
       "通过编辑决定信提供的入口返修，不另投新稿；相关在审或待出版稿件须披露。各 npj 期刊编辑独立，模板/长度不能从其他刊直接套用。本轮依据为本刊作者、Submission guidelines 与 Content types 页面。"
     ],
-    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/npjqi/apc ：Original Research APC 为 GBP 3,090 / USD 4,390 / EUR 3,690；Brief Communication / Perspective / Review / Comment / Meeting Report 为 GBP 1,510 / USD 2,040 / EUR 1,710。适用税费另计，价格按录用日期确定；机构协议及减免按资格申请，自主减免应在投稿时提出。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/npjqi/apc ：Original Research APC 为 GBP 3,090 / USD 4,390 / EUR 3,690；Brief Communication / Perspective / Review / Comment / Meeting Report 为 GBP 1,510 / USD 2,040 / EUR 1,710。适用税费另计，价格按录用日期确定；机构协议及减免按资格申请，自主减免应在投稿时提出。",
+    "scopeExamples": [
+      {
+        "title": "端到端变分量子传感框架",
+        "source": "https://www.nature.com/articles/s41534-024-00914-w",
+        "publishedAt": "2024-11-19",
+        "relevance": "2026-10-02 核验。理论与数值研究联合优化量子电路和估计器，包含光子体系的实验相关约束与噪声；不是制成新光学传感器的实验证据。 出版信息：10, 118 (2024)。"
+      },
+      {
+        "title": "高背景噪声下的自由空间连续变量量子密钥分发",
+        "source": "https://www.nature.com/articles/s41534-025-01009-w",
+        "publishedAt": "2025-03-27",
+        "relevance": "2026-10-02 核验。实验研究高斯调制相干态量子密钥分发在日光及雨天背景噪声下的传输，适配量子光学与自由空间通信。 出版信息：11, 52 (2025)。"
+      },
+      {
+        "title": "一维波导发射体阵列实现光子量子比特门的理论方案",
+        "source": "https://www.nature.com/articles/s41534-026-01324-w",
+        "publishedAt": "2026-07-17",
+        "relevance": "2026-10-02 核验。理论和数值分析波导耦合二能级发射体阵列中的光子相位门，并考虑有限带宽和无序，适配波导量子光学。 出版信息：12, 112 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -2852,7 +2912,27 @@
       "本刊原始研究可采用 Introduction–Results–Discussion–Methods 或 Introduction–Methods–Results–Discussion 顺序，不按其他 Communications 刊的固定顺序处理。使用统计分析时方法中应设 Statistical Analyses 小节；激光或光伏研究按适用报告清单补材料。",
       "Review/Perspective 主文约 6,000 词为建议，最多 8 个图表项；其他邀约或提案内容另按本刊规则。完整声明、附信和数据代码政策继续对照 Policy Guide，本轮仅核对稿型、格式、正式入口与收费。"
     ],
-    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/commsphys/open-access ：当前 APC 为 GBP 3,150 / USD 4,190 / EUR 3,590，适用税费另计，价格由录用日期确定。机构协议和减免按资格核对，自主减免须在投稿时申请；不承诺所有作者免收。"
+    "publishing": "完全开放获取。2026-10-02 核对 https://www.nature.com/commsphys/open-access ：当前 APC 为 GBP 3,150 / USD 4,190 / EUR 3,590，适用税费另计，价格由录用日期确定。机构协议和减免按资格核对，自主减免须在投稿时申请；不承诺所有作者免收。",
+    "scopeExamples": [
+      {
+        "title": "成丝漏波机制产生高能可调紫外脉冲的理论研究",
+        "source": "https://www.nature.com/articles/s42005-024-01910-4",
+        "publishedAt": "2024-12-20",
+        "relevance": "2026-10-02 核验。理论分析预形成气体等离子体通道中的漏波紫外脉冲产生，适配超快激光及强场光学；不当作实验光源实测。 出版信息：7, 417 (2024)。"
+      },
+      {
+        "title": "遗传优化的可编程光学随机神经网络",
+        "source": "https://www.nature.com/articles/s42005-025-02255-2",
+        "publishedAt": "2025-08-25",
+        "relevance": "2026-10-02 核验。通过散射介质方向优化光学随机投影，结合数值与实验验证网络性能，适配光计算与光学机器学习硬件。 出版信息：8, 349 (2025)。"
+      },
+      {
+        "title": "部分相干多通道涡旋光用于自由空间通信",
+        "source": "https://www.nature.com/articles/s42005-025-02441-2",
+        "publishedAt": "2025-12-09",
+        "relevance": "2026-10-02 核验。涡旋光阵列、相位编码、相干调制与深度学习结合，进行通信概念验证实验；卷属 2026 年，首次发表为 2025-12-09。 出版信息：9, 10 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3747,7 +3827,33 @@
       "通过官方 https://mc03.manuscriptcentral.com/csb 投稿。附信说明工作意义、总字数、通讯作者信息、利益冲突及作者贡献，并按指南给出伦理标准声明。返修附逐条回复与标出修改的稿件。",
       "图像单独提交，图注另列；补充材料随稿提交并清除修订痕迹，录用后按原文件在线发布。利益冲突模板按指南保留 DOCX；数据可用性与适用伦理、生成式 AI 披露按完整作者指南处理。"
     ],
-    "publishing": "可选订阅或开放获取。2026-10-02 核对：OA 费用页 https://www.sciencedirect.com/journal/science-bulletin/publish/open-access-options 列全部稿型 APC USD 3,880（不含税），机构/资助协议按资格核对。作者指南另列订阅稿黑白页费 RMB 1,000（亦标 USD 150）/页，彩页具体收费待编辑部核实；无 OA 费不等于无页费，不将两种费用简单相加为确定报价。"
+    "publishing": "可选订阅或开放获取。2026-10-02 核对：OA 费用页 https://www.sciencedirect.com/journal/science-bulletin/publish/open-access-options 列全部稿型 APC USD 3,880（不含税），机构/资助协议按资格核对。作者指南另列订阅稿黑白页费 RMB 1,000（亦标 USD 150）/页，彩页具体收费待编辑部核实；无 OA 费不等于无页费，不将两种费用简单相加为确定报价。",
+    "scopeExamples": [
+      {
+        "title": "太赫兹准连续域束缚态诱导突变横向光束位移",
+        "source": "https://www.sciencedirect.com/science/article/pii/S2095927325000192",
+        "publishedAt": "2025-01-09",
+        "relevance": "2026-10-02 核验。复合光栅波导形成准 BIC 带，并用太赫兹成像测量横向光束位移，适配太赫兹与微纳光学。 出版信息：70(6), 882–888；卷期日 2025-03-30。"
+      },
+      {
+        "title": "光伏光子晶格中的多拓扑边缘态非线性调控",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S2095927325002464",
+        "publishedAt": "2025-03-10",
+        "relevance": "2026-10-02 核验。掺铁铌酸锂波导阵列实验展示光伏非线性驱动的拓扑边缘孤子调控，适配拓扑光子与非线性光学。 出版信息：70(10), 1605–1610；卷期日 2025-05-30。"
+      },
+      {
+        "title": "高增益二硫化钼光晶体管用于弱光探测与免疫传感",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S2095927325008114",
+        "publishedAt": "2025-08-11",
+        "relevance": "2026-10-02 核验。金纳米线与单层 MoS₂ 的等离激元和应变耦合用于光探测及免疫检测实验，适配光电器件与生医光学；不据题名宣称单光子分辨。 出版信息：70(22), 3812–3821；卷期日 2025-11-30。"
+      },
+      {
+        "title": "音频频段片上双模压缩光",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S2095927326009448",
+        "publishedAt": "2026-08-26",
+        "relevance": "2026-10-02 核验。二氧化硅微腔实验产生音频频段双模压缩态，适配集成量子光子与量子测量。2026-10-02 为在线校正稿，尚未核实正式卷期。 出版信息：In Press, Corrected Proof；尚无正式卷期。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

@@ -644,3 +644,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Science Bulletin 订阅黑白页费与可选 OA APC 分开，彩页收费未核实；Science Advances 网页 403、浏览器为安全验证页，没有改数据。未以同出版社他刊替代，未操作安全验证。
 - 逐刊差异检查仅五本 guide、requirements 和/或 publishing 改变；整刊日期、索引、分区、样例、会议和候选未改，正式数量仍 74 刊/41 届会议/9 项活动。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 206 项、覆盖 12 主题/269 候选，git diff --check 通过。实际额度仍允许续作，本批后继续其他规划。
+
+## 2026-10-02：交叉适配 E2（五刊）
+
+- E1 提交 09a2bcf 的 [Pages 37014294734](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37014294734) build/deploy 成功，线上首页/版本 HTTP 200，版本 34526693627cebbe7e02ca2147d6b15b448c14cac1e1146e871d5b1a283deabe 与本地一致后修改本批。
+- 五刊新增十六篇近两年光学样例；Nature 系按本刊 Published 日期，Science Bulletin 三篇从出版社 PDF 确认首次上线，与第 6/10/22 期日期分开。在线校正稿明确无正式卷期，连续出版刊不编期号；理论与数值结果不描述成新实验。原题及每篇适配见 [E2 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
+- 逐刊断言只新增 scopeExamples，原四刊样例、索引、分区、指南/费用与整刊日期均保持；正式 74 刊/41 届会议/9 项活动及候选 269 项不变。九刊现有至少三篇，其他交叉刊仍开放。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过；维护队列 206 项、覆盖 12 主题/269 候选，差异审查和 git diff --check 通过。单块体积提示与前批一致，构建成功。

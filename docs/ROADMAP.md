@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 10 / 74          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 67 / SCIE 62  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 62 / ESCI 10 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前 AFM、Nature Electronics、Nature Materials 与 Nature Nanotechnology 已记录样例。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有九刊至少三篇：AFM、Nature Electronics、Nature Materials、Nature Nanotechnology，以及 E2 的五刊；首次上线日期、卷期及在线校正稿状态见 [样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -357,3 +357,7 @@ Optica Quantum 补官网刊号与 MJL ESCI；两本中文 EI 刊未取得核心�
 ### 2026-10-02：作者指南 E1
 
 六本复核中五本补本刊稿型、文件、正式入口或费用：Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics、Science Bulletin。Science Advances 正文访问受限，原缺口保留。费用注明核验日与稿型，整刊日期/索引/分区未改；E 的其他指南、完整政策与交叉论文样例仍继续。前批 822489d 部署和线上版本已确认，详见 [E1 依据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-02：交叉适配 E2
+
+Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics 各补三篇，Science Bulletin 补三篇不同正式期次及一篇在线校正稿。累计九刊达到至少三篇，整体规划仍未完成。逐篇核对官网题名/摘要/首次发表日，理论与实验分开，连续出版不编期号，指南与整刊核验日保持。前批 E1 已确认部署及线上版本；[E2 来源与边界](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
