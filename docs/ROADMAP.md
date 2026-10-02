@@ -393,3 +393,7 @@ E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿�
 ### 2026-10-03：IEEE 指南与费用 E9
 
 E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 初投 10 页与正式超 8 页收费分开，TGRS 2026 规则与 1/1 边界保留，JLT 当前通用八页与 2026 专题七页差异明确。只改 guide/requirements/publishing。[具体来源与冲突](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。74 刊/46 会议/9 活动、270 候选及十四刊至少三篇样例保持，未将未核实 APC 填成零。
+
+### 2026-10-03：生医指南与 AIP 费用 E10
+
+E10 补 JBO/Neurophotonics 独立作者指南与 APC，以及 APL Photonics 的明确 Gold OA 费用和 APR 的通用 Author Select 政策边界。JBO 五段摘要、Neurophotonics 未列结构标题与 Data Paper 数据公开规则分别保留。只改两刊指南/费用和两刊费用；[来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。其他 70 刊、现有数量和分区/索引/样例保持；其余核心/中文刊指南、分区与候选待继续。

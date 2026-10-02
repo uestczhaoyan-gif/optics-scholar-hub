@@ -37,3 +37,20 @@ LSA 第 1–2 页稿型表、Nanophotonics 第 3–4 页稿型/模板及第 17 �
 [MWP 2025 官方征稿 PDF](https://ieeephotonics.org/wp-content/uploads/2026/02/JLT-Microwave-Photonics-call-for-papers-2025-extended.pdf) 明确 2026 年 3 月 31 日投稿截止、2026 年 9/10 月刊出，仍列研究稿超过 7 页、邀稿超过 10 页、Tutorial 超过 16 页才计每页 $260；当前本刊通用页则两模式都列超过 8 页。版本/稿型存在差异，目录保留专题确认提醒，不宣称所有特刊适用通用八页额度。该专题截止已过，不另生成未来截止提醒。
 
 TMI FAQ 仍留 ScholarOne 用语，而当前主指南明确 IEEE Author Portal；采用主指南指定入口，不宣称旧站已关闭。TIP 官网沿真实链接进入通用作者页，其链接目标仍是 Manuscript Central，未根据显示名猜造新系统地址。TGRS Style 对简介/照片与清单 recommended 的措辞不一致，保留阶段边界。
+
+## E10：两本生医光学指南及两本 AIP 费用
+
+核验日期 2026-10-03。JBO/Neurophotonics 各自独立读取 Before Submitting、Preparing Manuscript、After Acceptance 三页签；只改两刊 guide/requirements/publishing，AIP 两刊仅改 publishing，不重复其既有作者指南。
+
+| 期刊                    | 官方来源                                                                                                                                          | 核验字段与边界                                                                                                                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| JBO                     | [本刊作者指南](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/author-guidelines)                                        | Letter 八页、约数及图占词数；五段结构摘要 200 词；3–6 关键词、简介 75、单栏、分阶段文件/模板、独立信、CRediT/ORCID、伦理/声明及转送；Gold OA APC $1,675、CC BY 4.0。Research 页限未核实，不套 AP/APN。 |
+| Neurophotonics          | [本刊作者指南](https://www.spiedigitallibrary.org/journals/neurophotonics/author-guidelines)                                                      | Research/Protocol/Tutorial 无硬限、一般预期 10,000 词和八图表；Letter/Data Paper 八页及约数，Data Paper 公开数据独立要求；摘要 200、单栏、文件/信/贡献/伦理；Gold OA APC $1,675、CC BY 4.0。           |
+| APL Photonics           | [AIP 当前 OA 政策](https://publishing.aip.org/resources/researchers/open-science/open-access/) Gold OA 列表、Publication Charges、License、Waiver | 本刊列入 Gold OA，适用其他 Gold OA 金额 USD 2,750；三许可、Group A/B 资格和本刊 Group B USD 1,500。独立费用页访问失败，版本适用时点/税未明确。                                                         |
+| Applied Physics Reviews | [AIP 通用 Author Select](https://publishing.aip.org/resources/researchers/open-science/open-access/)                                              | 通用可选 OA USD 3,800 和三许可；本刊独立费用页本轮不可读，通用金额不等于独立刊价核验，保留本刊例外/税/适用时点。Gold OA 的金额与自动国家减免不套用。                                                   |
+
+### 结构摘要与数据共享边界
+
+JBO 直接列出 Significance/Aim/Approach/Results/Conclusions 五类结构。Neurophotonics 的 Original research 稿型栏注明 requires a structured abstract，但 Parts 的 Abstract 只说 200 词及目标/方法/结果/意义，没有列分段标题。本轮保留其结构标题未知，不抄用 JBO。两刊 CRediT 必填而 ORCID 为鼓励；一般代码/数据声明允许解释限制，只有 Neurophotonics Data Paper 明确发表时公开数据。伦理正文只记录适用研究要求，没有操作任何人/动物或提交伦理申请。
+
+SPIE 费用只读本刊 After Acceptance；Review/Tutorial 免 APC 在 APN 上有声明，在这两刊本轮未见，不能推定同样免收。Neurophotonics 的 Enhanced APC 出现在推广建议，是可选服务，不混入基础 APC。

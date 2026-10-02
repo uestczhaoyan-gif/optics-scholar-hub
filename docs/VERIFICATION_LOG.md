@@ -708,3 +708,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 初投 10 页与正式超 8 页收费分开，TGRS 2026 规则与 1/1 边界保留，JLT 当前通用八页与 2026 专题七页差异明确。只改 guide/requirements/publishing。[逐字段证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。TMI/TGRS/SPS 主指南直接读取，TIP 从本刊实际作者链接确认适用；JLT 浏览器展开本刊四个区块，网页 title 错标不混入其他刊。
 - 修改前及与 HEAD 的逐字段断言通过：仅四刊对应 guide/requirements/publishing 变化，其余 70 刊、分区、索引、样例和整刊日期保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查全部通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核与 git diff --check 通过。首次 pnpm exec 未找到 oxfmt，改用仓库 pnpm format 后成功，不能把首次格式化失败记为通过；便携 Node 24.20.0 构建成功，仅有既有单块体积提示。
+
+## 2026-10-03：生医指南与 AIP 费用 E10（四刊）
+
+- E9 提交 10850ae5294681292200c61e2be2580079388a96 的 [Pages 37043688668](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37043688668) build/deploy 成功；首页/版本 HTTP 200，15900bb9e55ec5b1c54b191188028c8d763d5d6090bd5f23b29777d97a6a6a4b 与本地一致后开始本批。
+- E10 补 JBO/Neurophotonics 独立作者指南与 APC，以及 APL Photonics 的明确 Gold OA 费用和 APR 的通用 Author Select 政策边界。JBO 五段摘要、Neurophotonics 未列结构标题与 Data Paper 数据公开规则分别保留。SPIE 浏览器逐刊读三页签，AIP OA 当前页面直接读取；两个独立 AIP Publication Charges 页不可读，未宣称本刊独立费用核验成功。[具体来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
+- 修改前及与 HEAD 的逐字段断言通过：两刊仅 guide/requirements/publishing，AIP 两刊仅 publishing 改变；其他 70 刊及分区/索引/样例/整刊日期保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核和 git diff --check 通过。便携 Node 24.20.0 构建仅有既有单块体积提示。
