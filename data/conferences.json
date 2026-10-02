@@ -2060,16 +2060,16 @@
     "submissionState": "published",
     "requirements": [
       "官网日程列投稿系统 2026-10-20 开放，投稿截止 2026-12-11；当前日期早于计划开放日，尚不表示可以提交。",
-      "东京大学 ICNNQ 2027 页面确认其为 OPIC 下属会议，投稿与注册通过 OPIC 官网；稿型、篇幅、模板和系统实际可用性待母会及专题规则复核。"
+      "2026-10-02 核对母会 Submission 页面，正文仍为 To Be Announced；稿型、篇幅、模板和提交系统待公布。ICNNQ 为下属会议，应同时核对专题要求。"
     ],
     "publication": "当届出版方式、论文集与索引尚未获得可核实规则；不把下属专题或往届出版路径泛化为母会全部稿件。",
-    "notes": "母会会期、场馆、十五个专题及主要日程来自 opicon.jp 的官方检索快照；主页直接读取和浏览器导航超时。ICNNQ 官方正文确认 10/20 开放、12/11 截止与 1/20 注册开放及母子关系。母会格式、时刻/时区与注册实际入口继续待复核；不重复创建十五条子会议。",
+    "notes": "2026-10-02 已直接读取母会主页、Submission、Registration 与 Venue 正文，确认会期、PACIFICO Yokohama 及主要日程，与既有记录一致。投稿与注册页面正文均为 To Be Announced，10/20 投稿开放及 1/20 注册开放仅是计划日期；当前未核实实际提交/注册入口、费用与截止时刻或时区。仅补本轮字段证据，不刷新整条核验日，不重复创建十五条子会议。",
     "deadlines": [
       {
         "type": "paper",
         "label": "投稿截止（稿型与格式待复核）",
         "date": "2026-12-11",
-        "source": "https://opicon.jp/"
+        "source": "https://opicon.jp/submission/"
       },
       {
         "type": "notification",
@@ -2081,7 +2081,55 @@
         "type": "registration",
         "label": "早鸟注册结束",
         "date": "2027-04-03",
-        "source": "https://opicon.jp/"
+        "source": "https://opicon.jp/registration/"
+      }
+    ]
+  },
+  {
+    "id": "apos-2026",
+    "series": "APOS",
+    "year": 2026,
+    "name": "第 11 届亚太光学传感器会议",
+    "nameEn": "11th Asia-Pacific Optical Sensors Conference",
+    "region": "海外",
+    "location": "澳大利亚 · 悉尼",
+    "venue": "University of New South Wales（具体校内会场待核实）",
+    "start": "2026-01-31",
+    "end": "2026-02-02",
+    "topics": [
+      "传感与测量",
+      "光通信",
+      "激光与非线性",
+      "生物医学光学",
+      "纳米与超表面"
+    ],
+    "description": "光学传感器系列会议，覆盖光纤、波导、激光与微纳及生物光子学传感；此条为官方当届征稿资料确认的 2026 历史届次。",
+    "website": "https://www.apos2026.com/",
+    "notice": "https://www.apos2026.com/static/Callforpaper.pdf",
+    "registration": null,
+    "checkedAt": "2026-10-02",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "征稿 PDF 说明投稿由技术程序委员会评审，录取为口头或海报报告；本轮未核实稿型、篇幅、模板及实际提交系统。",
+      "官网投稿截止栏同时显示 2025-10-31 与 2025-11-30，征稿 PDF 列 2025-09-30；历史截止版本待最终通知核实，暂不选择其中一个日期。"
+    ],
+    "publication": "官网列 Photonic Sensors、Journal of Applied Sciences 和 Advanced Devices & Instrumentation 的会后专刊机会；期刊投稿与评审另行进行，不等于会议论文集或 SCI/EI 保证。当届会议论文集出版与检索安排未核实。",
+    "notes": "已下载官网征稿 PDF，抽取正文并视觉核对两页。页首联合活动范围为 2026-01-31 至 02-04，但 APOS 单独日程为 01-31 至 02-02，第 7 届 IWPFA 为 02-03 至 02-04；本条采用 APOS 范围，不重复创建 IWPFA 正式条目。官网确认悉尼新南威尔士大学；具体校内会场、注册链接和历史投稿最终截止未核实。已结束届次仅供查阅，不按系列周期推算下一届，也不将专刊截止或 APC 政策泛化为会议规则。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "历史投稿最终截止版本待核实",
+        "date": null,
+        "source": "https://www.apos2026.com/",
+        "note": "官网与征稿 PDF 的旧截止版本不同；未确认最终适用通知。"
+      },
+      {
+        "type": "registration",
+        "label": "历史早鸟注册结束",
+        "date": "2025-12-05",
+        "source": "https://www.apos2026.com/",
+        "note": "官网与征稿 PDF 均列此日期；已过去，不代表当前报名可用。"
       }
     ]
   }
