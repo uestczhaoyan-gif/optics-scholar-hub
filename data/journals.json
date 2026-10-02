@@ -357,12 +357,14 @@
     "topics": ["光通信", "集成光子", "电子与器件"],
     "description": "适合光波导、光纤、光互连和光通信系统研究，由 IEEE 与 Optica 联合出版。",
     "website": "https://opg.optica.org/jlt/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 核验本刊 Information for Authors：用标准双栏单倍行距，图片嵌入正文以估算正式页数，上传 Word 与 PDF，经 https://ieee.atyponrex.com/journal/ieee-jlt；LaTeX 另有官方工具/模板入口，本轮未核实完整文件清单。",
+      "一般 contributed 稿 8 页以内不触发当前通用超页费，非不可超投稿页限；作者简介可选，照片不刊。摘要单段且自足，不含缩写、脚注、引用或显示公式，建议三四个关键词；摘要字数本轮未核实。",
+      "Tutorial/Review 仅邀稿；投稿 Impact Statement 至多 100 词，须说明超出现状的贡献，不复制摘要。图形摘要如提供须随稿评审，不能录用后新增。",
+      "预印本按本刊共享规则补 IEEE 版权声明，发表后提供 DOI 引用或含 DOI 的录用版本，不用 IEEE 排版版本。专题 MWP 2025 的官方 2026 征稿 PDF 仍列研究稿超过 7 页收费，与通用页 8 页阈值不同；专题投稿须向编辑确认，不擅自统一。"
     ],
-    "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
+    "publishing": "2026-10-03 核验本刊通用 2026 收费：混合出版，OA 基础 $2,800/篇（8 页以内），IEEE 会员 $2,660，IEEE 及 sponsoring society 会员档 $2,261；折扣不用于超页/彩色费。传统方式前 8 页自愿 $110/页，两模式超过 8 页均 $260/页；印刷彩色 $275 USD/图，税按账单地址/资格。特刊 MWP 2025 的 2026 PDF 列研究稿第 8 页起 $260，与当前通用阈值存在差异；不据通用页保证专题免费页数。金额适用投稿/录用时点未明确。来源：https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
     "checkedAt": "2026-09-09",
     "rankings": [
@@ -4248,10 +4250,12 @@
     "website": "https://ieeetmi.org/",
     "guide": "https://ieeetmi.org/authors-instructions/",
     "requirements": [
-      "通过本刊当前 IEEE Author Portal 入口提交，并对照投稿清单准备文件与成像相关关键词。",
-      "会议扩展稿需上传原会议论文和说明具体新增内容的 Cover Letter，且扩展须在严谨性和完整性上实质增加。综述需经过提案审批与邀请流程。"
+      "2026-10-03 核验本刊指南 Revision 10.2（2025-10-09）：常规/专题稿初投含参考文献至多 10 页，Reject/Resubmit 后重投例外；Challenge Paper 初投至多 14 页且须本刊专门清单及参与组授权材料。正式发表超页费另算，不能把收费起点当初投页限。",
+      "IEEE 双栏单倍行距，图表嵌入正文；摘要单段至多 250 词，无公式/表格/参考文献，不刊作者简介。初投一个完整 PDF，小于 40 MB，Word/LaTeX 源码与独立高清图此阶段不要求；投稿作者须 ORCID。",
+      "从本刊 IEEE Author Portal 提交。一般不鼓励 Cover Letter；会议扩展或曾经其他期刊审理须披露：扩展稿附原会议论文和说明新增内容的信，实质增加严谨性/完整性并引用原文；曾被其他刊拒稿须说明既往评审及修改。综述先提案审批后邀请。",
+      "允许预印本，鼓励发表时共享复现代码/测试数据。正文延伸式文字/图补充文件不允许，代码、数据、视频等按支持文件清单；图形摘要可选但须随稿评审。"
     ],
-    "publishing": "开放获取选择、APC 和超页费用按 TMI 当前作者指南及收费说明核实。"
+    "publishing": "2026-10-03 按本刊 Revision 10.2 指南：正式发表含图和参考文献超过 8 页必收超页费，第 9–10 页 $250/页，第 11 页起 $350/页；OA 稿同样适用。可选 OA 的当前 APC、税及收费适用时点未独立核实，不从其他 IEEE 刊费率推断。来源：https://ieeetmi.org/authors-instructions/"
   },
   {
     "checkedAt": "2026-09-11",
@@ -4301,12 +4305,14 @@
     "topics": ["成像与计算光学"],
     "description": "研究图像、视频及多维信号的形成、采集、处理与分析；覆盖计算成像、图像恢复、生物医学图像和遥感等交叉应用。",
     "website": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing",
-    "guide": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/about-transactions-image-processing",
+    "guide": "https://signalprocessingsociety.org/publications-resources/information-authors",
     "requirements": [
-      "应突出图像处理理论、算法或架构贡献；期刊鼓励公开复现实验所需代码和数据，并支持多媒体补充材料。",
-      "当前链接为官方范围与复现说明；完整投稿格式和篇幅仍需沿期刊官网作者入口核实，未沿用旧版投稿 PDF 的限制。"
+      "2026-10-03 经本刊官网明确链接核验 SPS Transactions & Journals 作者指南：Regular Paper 初投/作为新稿的重投至多 13 个双栏页（10 pt），含图表/参考文献，初投附录/证明也计入；返修至多 16 页，附录/证明置补充材料。Overview 须先联络主编及 white paper 审批，不能直接套常规流程。",
+      "双栏单倍行距 PDF，四边页边距至少 1 inch，用 IEEE Word/LaTeX 模板；摘要 150–250 词且自足，不含参考文献/显示公式。投稿系统中作者与稿件一致，ORCID 与 EDICS 分类按官方清单准备。",
+      "复现代码/数据及图形摘要等补充材料随初投评审；一般补充文字建议不超过六个双栏页，再增须主编批准。会议短稿扩展须引用原文并清楚说明新增贡献，不编造统一扩展比例。",
+      "允许合规预印本，投稿列出已发布同稿的完整 URL；曾遭拒稿须披露既往评审及如何回应。按官方 Author Portal Manuscripts 链接进入，未登录验证；当前指南链接目标仍为 Manuscript Central，系统名称不作为迁移完成证据。"
     ],
-    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+    "publishing": "2026-10-03 核验本刊官网链接的 SPS 指南：混合出版，常规稿前 10 个正式发表页自愿 $110/页，第 11 页起强制 $220/页；OA 稿另付超页费，Overview 不收强制超页费，在线彩色免费。OA APC 当前金额、税及费率适用日期未独立核实。来源：https://signalprocessingsociety.org/publications-resources/information-authors"
   },
   {
     "checkedAt": "2026-09-11",
@@ -4358,10 +4364,11 @@
     "website": "https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/",
     "guide": "https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/",
     "requirements": [
-      "采用 IEEE 双栏单倍行距格式，页码连续，并准备通讯作者信息与 ORCID；从期刊官方入口提交。",
-      "指南对 2026 年 1 月 1 日之后投稿的论文，将强制超页收费起点设为第 11 页；超页费与开放获取 APC 分别计算，投稿前复核最新规定。"
+      "2026-10-03 核验：经 https://ieee.atyponrex.com/journal/tgrs 电子提交；初投和返修均用 IEEE 双栏单倍行距 PDF，图表靠近正文引用，页码连续，行号由系统添加，无须自行加入。",
+      "实验数据须完整，充分描述装置、方法及条件；准备通讯作者完整地址/电话/邮件，作者 ORCID。作者简介/照片在页面 Style 与清单措辞不同，本轮不将推荐清单推定成所有阶段的统一必填。",
+      "正式发表超页收费起点对 2026-01-01 之后投稿设为第 11 页，不是已核实的初投硬性长度上限；摘要长度、会议扩展比例及许可细则仍待本刊依据。录用后最终文件不得未经批准修改内容或作者。"
     ],
-    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+    "publishing": "2026-10-03 核验：混合出版；2026 年投稿可选 OA APC USD 2,800，录用才收费。IEEE 会员 5%、学会会员 20% 折扣不可叠加，学生不适用这两档，低收入国家按资格。2026-01-01 之后投稿超过 10 个正式页收 $230/页，GRS Society 会员 $200/页；之前投稿按超过 6 页，恰在 1/1 的边界未明确。官方另列前 11 页自愿 $110/页，按原文保留，不改成强制收费。超页与 APC 分开；税及许可未核实。来源：https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/"
   },
   {
     "id": "chinese-journal-lasers",

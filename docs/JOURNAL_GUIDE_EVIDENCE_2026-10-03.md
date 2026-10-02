@@ -20,3 +20,20 @@ LSA 第 1–2 页稿型表、Nanophotonics 第 3–4 页稿型/模板及第 17 �
 - nanoph-guide.pdf SHA-256：5c418d561ba1b6b2f0bfbe93f43fa9ab2cfec156dcfefac38b17f33adaebeaeb。
 
 下一批继续尚无细则的 IEEE、生医/制造、中文刊及分区/会议候选；本批五刊的未核实摘要/Letter 细则仍开放，不重复已核验字段。
+
+## E9：四刊 IEEE 投稿与出版细则
+
+核验日期 2026-10-03；只更新 guide/requirements/publishing，其余 70 刊与其他字段保持。没有登录投稿或付款。
+
+| 期刊 | 官方来源/版本                                                                                                                                                                                                                       | 逐字段核验范围                                                                                                                                                                                                                                                                               |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TMI  | [作者指南](https://ieeetmi.org/authors-instructions/) Revision 10.2，2025-10-09                                                                                                                                                     | §§1.2–1.3、1.6–1.8、1.10–1.12、2.1–2.4：常规初投 10 页、Challenge 14 页；单 PDF <40 MB、摘要 250、格式、支持文件边界、会议扩展/既往评审、综述邀请。正式第 9–10 页 $250、第 11 起 $350；本轮 APC 未核实。                                                                                     |
+| TIP  | [本刊入口](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing) Reproducible research 明确链接 [SPS 指南](https://signalprocessingsociety.org/publications-resources/information-authors) | 当前通用指南适用于本刊：Regular 初投 13/返修 16，初投/返修附录计数差别、模板/ORCID/EDICS、摘要、补充材料、预印本与扩展。正式第 11 页起 $220、前 10 页自愿 $110；Overview 例外；APC 未核实。                                                                                                  |
+| TGRS | [本刊作者页](https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/)                                                                                                                                 | Submitting/Format/OA/Page Charges/Checklist/Final Files：专用入口、格式/作者材料；2026 APC USD 2,800，会员与学生折扣范围；1/1 之后投稿第 11 页起 $230（GRS 会员 $200），自愿页费按原文前 11 页。恰好 1/1 未给边界，摘要/许可未核实。                                                         |
+| JLT  | [本刊学会页](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/) Information for Authors 页签                                                                                                      | 浏览器实际展开 Manuscript Preparation、Publication Charges、On-line Repositories、Impact Statement FAQ；通用 2026 费率/八页阈值、Word+PDF、可选简介/不刊照片、摘要格式、100 词影响说明、邀稿/预印本。网页 title 错标 IEEE Photonics Journal，但正文/breadcrumb 明确 JLT，不能按 title 换刊。 |
+
+### JLT 专题与通用阈值差异
+
+[MWP 2025 官方征稿 PDF](https://ieeephotonics.org/wp-content/uploads/2026/02/JLT-Microwave-Photonics-call-for-papers-2025-extended.pdf) 明确 2026 年 3 月 31 日投稿截止、2026 年 9/10 月刊出，仍列研究稿超过 7 页、邀稿超过 10 页、Tutorial 超过 16 页才计每页 $260；当前本刊通用页则两模式都列超过 8 页。版本/稿型存在差异，目录保留专题确认提醒，不宣称所有特刊适用通用八页额度。该专题截止已过，不另生成未来截止提醒。
+
+TMI FAQ 仍留 ScholarOne 用语，而当前主指南明确 IEEE Author Portal；采用主指南指定入口，不宣称旧站已关闭。TIP 官网沿真实链接进入通用作者页，其链接目标仍是 Manuscript Central，未根据显示名猜造新系统地址。TGRS Style 对简介/照片与清单 recommended 的措辞不一致，保留阶段边界。

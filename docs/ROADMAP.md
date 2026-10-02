@@ -389,3 +389,7 @@ E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段�
 ### 2026-10-03：作者指南与费用 E8
 
 E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿型/公开入口和费用；NANO 当前下载的指南为 2025-03-31 版，LSA 为 2026-01-15 版，版本与核验日分开。AP/APN 逐刊读取，不套费率；HPL 初投/原则录用文件分阶段。只改 guide/requirements/publishing，其他字段保持。现有 74 刊/46 会议/9 活动、270 候选及十四刊至少三篇样例保持；[具体来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
+
+### 2026-10-03：IEEE 指南与费用 E9
+
+E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 初投 10 页与正式超 8 页收费分开，TGRS 2026 规则与 1/1 边界保留，JLT 当前通用八页与 2026 专题七页差异明确。只改 guide/requirements/publishing。[具体来源与冲突](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。74 刊/46 会议/9 活动、270 候选及十四刊至少三篇样例保持，未将未核实 APC 填成零。

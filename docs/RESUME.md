@@ -110,3 +110,5 @@ E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、
 E7 补 JOCN 专用模板、Prism 稿件分类、可选作者简介/照片阶段及超过 15 页需事先批准规则；同时补 JOCN、Optics Letters 的自愿页费与可选 OA，OL 印刷彩色另收费。只改两刊对应 guide/requirements/publishing，索引、分区、样例和整刊日期保持。下一批继续其他核心刊指南、分区版本和未审候选；已核实同版索引不重复扫描。额度实际不足时保留此检查点，五小时自动化按现有配置检查实际账户额度后续作。
 
 E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿型/公开入口和费用；NANO 当前下载的指南为 2025-03-31 版，LSA 为 2026-01-15 版，版本与核验日分开。AP/APN 逐刊读取，不套费率；HPL 初投/原则录用文件分阶段。只改 guide/requirements/publishing，其他字段保持。E7 提交 1442598 已确认 Pages 37040892020 与线上 6377eeeb…，当前维护队列 223 项，剩余任务保持开放；[E8 来源与边界](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
+
+E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 初投 10 页与正式超 8 页收费分开，TGRS 2026 规则与 1/1 边界保留，JLT 当前通用八页与 2026 专题七页差异明确。只改 guide/requirements/publishing。E8 提交 60e68cb 已验收 Pages 37042440728 与线上 bd15d286…；验证/提交/部署仍按最新日志收尾。其他 IEEE、生医/制造、中文刊、分区/会议候选继续开放。

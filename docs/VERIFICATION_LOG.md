@@ -701,3 +701,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 四个 P1 页面复核：ACP PDP 10/15 23:59 北京时间、IPC 注册 Before 10/8、OMTA 最终轮/缴费含 10/15、OPTIC 通知 10/9 前均与现值一致。未为无变化刷新正式日期；sources.yml 最新仍为 10/2 的成功运行 36976757481，没有更晚巡检可读。
 - 与修改前逐刊断言仅五刊 guide/requirements/publishing 改变，正式/候选数量、索引、分区、样例及整刊核验日期保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查全部通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核与 git diff --check 通过。便携 Node 24.20.0 构建成功，仅保留既有单块体积提示。
+
+## 2026-10-03：IEEE 指南与费用 E9（四刊）
+
+- E8 提交 60e68cb299bc0160fb46406a1467bc67ef200601 的 [Pages 37042440728](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37042440728) build/deploy 成功；首页/版本 HTTP 200，bd15d286943f3164742d95e14525d3a68364330d0b6d810c3d24dd2b545f2fa8 与本地一致后开始本批。
+- E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 初投 10 页与正式超 8 页收费分开，TGRS 2026 规则与 1/1 边界保留，JLT 当前通用八页与 2026 专题七页差异明确。只改 guide/requirements/publishing。[逐字段证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。TMI/TGRS/SPS 主指南直接读取，TIP 从本刊实际作者链接确认适用；JLT 浏览器展开本刊四个区块，网页 title 错标不混入其他刊。
+- 修改前及与 HEAD 的逐字段断言通过：仅四刊对应 guide/requirements/publishing 变化，其余 70 刊、分区、索引、样例和整刊日期保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查全部通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核与 git diff --check 通过。首次 pnpm exec 未找到 oxfmt，改用仓库 pnpm format 后成功，不能把首次格式化失败记为通过；便携 Node 24.20.0 构建成功，仅有既有单块体积提示。
