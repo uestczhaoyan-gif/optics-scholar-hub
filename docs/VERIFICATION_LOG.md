@@ -620,3 +620,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Ultrafast Science、npj Quantum Information、Communications Physics、Advanced Science、Angewandte 和 Science China Materials 的出版社 EI 依据升级为数据库方来源表；Nature Photonics、AOM、PQE、PRX Quantum、Nature Electronics、Nature Materials 新增 EI 肯定。AOM 旧出版社页没列 EI 不作为未收录结论。Science China Materials 另匹配中文表第 342 行 Renewed，清单语言列不用于改写目录语言或身份。
 - 新增 6 条肯定、升级 6 条出版社证据，当前 EI 59（数据库 59），SCIE 62、ESCI 10 均为数据库依据。逐项差异核对仅对应 EI 字段改变，覆盖年份、其他索引、分区、指南、费用、样例、整刊日期及正式/候选数量不变。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 214 项、覆盖 12 主题/269 候选，`git diff --check` 通过。单块体积提示与 A10 相同，构建仍成功。
+
+## 2026-10-02：Compendex 批次 A12（8 本）
+
+- 前批提交 630e597 的 [Pages 37011481712](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37011481712) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 8b4a7076eb4a58fb8364389f394232fdf87ae432d3edaaee9a0942c3f682dd32 与本地一致后开始本批数据修改。
+- 其余八本交叉刊 EI逐刊核对来源表 SERIALS，刊号唯一匹配，刊名、Journal 类型和出版社身份相符；DISCONTINUED 无匹配，中文表有匹配的条目为 2026 Renewed。具体表版本与行号见 [A12 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- 八刊新增当前 EI 来源表依据，Science Bulletin 另匹配中文表第 338 行 Renewed。Photoacoustics 的刊号在来源表印刷列、目录为电子刊号，仅跨两列核对身份，不用清单列位置改写目录。此轮全部 74 刊的 Compendex 身份扫描已完成，剩余七刊按目录刊号及规范化完整刊名均未匹配，具体缺口另列，不由空结果判定未收录或停收。
+- 新增 8 条肯定、升级 0 条出版社证据，当前 EI 67（数据库 67），SCIE 62、ESCI 10 均为数据库依据。逐项差异核对仅对应 EI 字段改变，覆盖年份、其他索引、分区、指南、费用、样例、整刊日期及正式/候选数量不变。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 206 项、覆盖 12 主题/269 候选，`git diff --check` 通过。七刊公开来源表无匹配已列具体缺口，不标未收录或停收；本版不重复核查。

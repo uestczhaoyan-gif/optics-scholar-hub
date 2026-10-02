@@ -176,3 +176,28 @@ Ultrafast Science、npj Quantum Information、Communications Physics、Advanced 
 A11 结束时：EI 59/74，其中数据库方依据 59 本。本批新增 6 条肯定记录、升级 6 条出版社证据。SCIE 62 与 ESCI 10 均有 MJL 依据；各覆盖起止年、其他索引、分区、指南、费用、样例与整刊日期不变，未进行订阅平台单篇检索。
 
 前批提交 dff0b61 的 [Pages 37011152431](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37011152431) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 d6cfaaabcaad27b2ce259070025903e893d7d65be369e366f47be90c48728e52 与本地一致后开始本批数据修改。
+
+## 批次 A12：其余八本交叉刊 EI（8 本）
+
+复用 A9 已重新下载核对的 [Elsevier 公开来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)，文件哈希与三个表版本见 A9。以下各刊 SERIALS 刊号唯一匹配、刊名/Journal 类型/出版社身份相符，DISCONTINUED 无匹配；存在中文表匹配的刊物另核对 2026 Renewed。
+
+| 期刊                                     | 目录刊号              | SERIALS 行号 | 清单刊名                                 | 中文表行号（Renewed） |
+| ---------------------------------------- | --------------------- | ------------ | ---------------------------------------- | --------------------- |
+| Nature Nanotechnology                    | 1748-3387 / 1748-3395 | 4141         | Nature Nanotechnology                    | —                     |
+| Science Advances                         | 2375-2548             | 5183         | Science Advances                         | —                     |
+| Chinese Physics Letters                  | 0256-307X / 1741-3540 | 800          | Chinese Physics Letters                  | —                     |
+| Journal of Colloid and Interface Science | 0021-9797 / 1095-7103 | 3123         | Journal of Colloid and Interface Science | —                     |
+| Dyes and Pigments                        | 0143-7208 / 1873-3743 | 1177         | Dyes and Pigments                        | —                     |
+| Sensors and Actuators B: Chemical        | 0925-4005             | 5231         | Sensors and Actuators B: Chemical        | —                     |
+| Science Bulletin                         | 2095-9273 / 2095-9281 | 5193         | Science Bulletin                         | 338                   |
+| Photoacoustics                           | 2213-5979             | 4349         | Photoacoustics                           | —                     |
+
+八刊新增当前 EI 来源表依据，Science Bulletin 另匹配中文表第 338 行 Renewed。Photoacoustics 的刊号在来源表印刷列、目录为电子刊号，仅跨两列核对身份，不用清单列位置改写目录。此轮全部 74 刊的 Compendex 身份扫描已完成，剩余七刊按目录刊号及规范化完整刊名均未匹配，具体缺口另列，不由空结果判定未收录或停收。
+
+A12 结束时：EI 67/74，其中数据库方依据 67 本。本批新增 8 条肯定记录、升级 0 条出版社证据。SCIE 62 与 ESCI 10 均有 MJL 依据；各覆盖起止年、其他索引、分区、指南、费用、样例与整刊日期不变，未进行订阅平台单篇检索。
+
+前批提交 630e597 的 [Pages 37011481712](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37011481712) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 8b4a7076eb4a58fb8364389f394232fdf87ae432d3edaaee9a0942c3f682dd32 与本地一致后开始本批数据修改。
+
+### 未取得 Compendex 肯定匹配的七刊
+
+Optica Quantum（2837-6714）；Advanced Photonics Nexus（2791-1519）；Opto-Electronic Science（2097-0382 / 2097-4000）；Light: Advanced Manufacturing（2689-9620 / 2831-4093）；Nature Communications（2041-1723）；npj Quantum Materials（2397-4648）；InfoMat（2567-3165）。在本版 SERIALS、DISCONTINUED 及中文表均无刊号或规范化完整刊名匹配，EI 维持 unverified；此结果只说明本轮公开表未找到，不是数据库方停收声明，也不否认其他平台或版本可能存在覆盖。后续以新版表、出版社明确清单或机构 Engineering Village 入口为依据，不反复重查同一版文件。
