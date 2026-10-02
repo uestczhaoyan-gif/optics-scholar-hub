@@ -276,10 +276,12 @@
     "topics": ["集成光子", "光学材料", "激光与非线性"],
     "description": "面向光子学基础与应用研究，涵盖器件、激光、光场调控和交叉应用。",
     "website": "https://opg.optica.org/prj/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/prj/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 核验本刊页面：本刊接收原创研究、专题稿、邀稿综述及评论；研究稿具体篇幅和摘要限制仍待核实。 通过官方 Submit 链接进入 Prism；只核对公开入口，未验证登录后的提交流程。",
+      "本刊列入 Optica 通用模板表，可用 Word 或 LaTeX，提交 PDF 及 Word 文件/LaTeX 包；LaTeX 尽量使用标准命令，图文件名大小写与引用一致。模板：https://opg.optica.org/content/author/portal/item/templates-default。",
+      "允许投稿前及审稿期间发布预印本。录用后可更新的版本依版权转让或开放获取许可不同而异，并链接正式发表版本；不是对所有版本无限制再分发。来源：https://opg.optica.org/content/author/portal/item/review-copyright-permissions/。",
+      "会议论文可作为期刊投稿基础，须扩充、修订或完善内容，引用/致谢原会议，核对复用版权并修改题名；仍按本刊创新与质量标准正常同行评审，不规定统一新增百分比。来源：https://opg.optica.org/content/author/portal/item/review-general-policies/。"
     ],
     "publishing": "2026-10-02 核验本刊开放获取收费：10 页内 USD 2,500；第 11 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,750。官方表生效日 2024-01-01，录用后支付 APC；税费及价格按投稿或录用日适用的细则未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -436,10 +438,12 @@
     "topics": ["量子光学"],
     "description": "关注量子科学与光学的交叉，包含量子光源、量子信息和相关光子技术。",
     "website": "https://opg.optica.org/opticaq/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/opticaq/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 核验本刊页面：本刊强调由光学/光子学支持的量子信息科技高影响结果，包括理论、实验及技术研究；具体稿型篇幅、摘要和综述提案流程仍待核实。 通过官方 Submit 链接进入 Prism；只核对公开入口，未验证登录后的提交流程。",
+      "本刊列入 Optica 通用模板表，可用 Word 或 LaTeX，提交 PDF 及 Word 文件/LaTeX 包；LaTeX 尽量使用标准命令，图文件名大小写与引用一致。模板：https://opg.optica.org/content/author/portal/item/templates-default。",
+      "允许投稿前及审稿期间发布预印本。录用后可更新的版本依版权转让或开放获取许可不同而异，并链接正式发表版本；不是对所有版本无限制再分发。来源：https://opg.optica.org/content/author/portal/item/review-copyright-permissions/。",
+      "会议论文可作为期刊投稿基础，须扩充、修订或完善内容，引用/致谢原会议，核对复用版权并修改题名；仍按本刊创新与质量标准正常同行评审，不规定统一新增百分比。来源：https://opg.optica.org/content/author/portal/item/review-general-policies/。"
     ],
     "publishing": "2026-10-02 核验本刊开放获取收费：Research Article 8 页内 USD 2,265；超过 8 页每页 USD 145；符合条件的 CC BY 基础价 USD 2,515。官方表生效日 2026-01-01，录用后支付 APC；税费及价格按投稿或录用日适用的细则未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -560,10 +564,12 @@
     "topics": ["综合光学", "成像与计算光学", "激光与非线性"],
     "description": "覆盖范围广的光学研究期刊，适合完整阐述方法、实验和性能验证。",
     "website": "https://opg.optica.org/oe/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/oe/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 核验本刊页面：本刊接收原创研究、专题稿、邀稿综述及已发表文章的评论；研究稿具体篇幅和摘要限制仍待核实。 通过官方 Submit 链接进入 Prism；只核对公开入口，未验证登录后的提交流程。",
+      "本刊列入 Optica 通用模板表，可用 Word 或 LaTeX，提交 PDF 及 Word 文件/LaTeX 包；LaTeX 尽量使用标准命令，图文件名大小写与引用一致。模板：https://opg.optica.org/content/author/portal/item/templates-default。",
+      "允许投稿前及审稿期间发布预印本。录用后可更新的版本依版权转让或开放获取许可不同而异，并链接正式发表版本；不是对所有版本无限制再分发。来源：https://opg.optica.org/content/author/portal/item/review-copyright-permissions/。",
+      "会议论文可作为期刊投稿基础，须扩充、修订或完善内容，引用/致谢原会议，核对复用版权并修改题名；仍按本刊创新与质量标准正常同行评审，不规定统一新增百分比。来源：https://opg.optica.org/content/author/portal/item/review-general-policies/。"
     ],
     "publishing": "2026-10-02 核验本刊开放获取收费：15 页内 USD 2,300；第 16 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,550。官方表生效日 2026-01-01，录用后支付 APC；税费及价格按投稿或录用日适用的细则未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -714,10 +720,12 @@
     "topics": ["生物医学光学", "成像与计算光学"],
     "description": "关注光学在生物医学研究中的方法与应用，包含成像、诊断和生物光子技术。",
     "website": "https://opg.optica.org/boe/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/boe/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 核验本刊页面：本刊接收原创研究、专题稿、邀稿综述及评论；动物/人体研究须注明伦理审批，人体研究须说明知情同意。研究稿具体篇幅和摘要限制仍待核实。 通过官方 Submit 链接进入 Prism；只核对公开入口，未验证登录后的提交流程。",
+      "本刊列入 Optica 通用模板表，可用 Word 或 LaTeX，提交 PDF 及 Word 文件/LaTeX 包；LaTeX 尽量使用标准命令，图文件名大小写与引用一致。模板：https://opg.optica.org/content/author/portal/item/templates-default。",
+      "允许投稿前及审稿期间发布预印本。录用后可更新的版本依版权转让或开放获取许可不同而异，并链接正式发表版本；不是对所有版本无限制再分发。来源：https://opg.optica.org/content/author/portal/item/review-copyright-permissions/。",
+      "会议论文可作为期刊投稿基础，须扩充、修订或完善内容，引用/致谢原会议，核对复用版权并修改题名；仍按本刊创新与质量标准正常同行评审，不规定统一新增百分比。来源：https://opg.optica.org/content/author/portal/item/review-general-policies/。"
     ],
     "publishing": "2026-10-02 核验本刊开放获取收费：15 页内 USD 1,775；第 16 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,025。官方表生效日 2026-01-01，录用后支付 APC；税费及价格按投稿或录用日适用的细则未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -771,10 +779,12 @@
     "topics": ["光学材料", "电子与器件"],
     "description": "以材料的光学性质、制备、表征及器件应用为重点，适合材料与光子学交叉工作。",
     "website": "https://opg.optica.org/ome/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/ome/",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 核验本刊页面：本刊接收原创研究、专题稿、邀稿综述及评论；Opinion 通常邀稿，可先向主编提出选题，至多四页（不计参考文献），此限制不套用到研究稿。研究稿篇幅和摘要限制仍待核实。 通过官方 Submit 链接进入 Prism；只核对公开入口，未验证登录后的提交流程。",
+      "本刊列入 Optica 通用模板表，可用 Word 或 LaTeX，提交 PDF 及 Word 文件/LaTeX 包；LaTeX 尽量使用标准命令，图文件名大小写与引用一致。模板：https://opg.optica.org/content/author/portal/item/templates-default。",
+      "允许投稿前及审稿期间发布预印本。录用后可更新的版本依版权转让或开放获取许可不同而异，并链接正式发表版本；不是对所有版本无限制再分发。来源：https://opg.optica.org/content/author/portal/item/review-copyright-permissions/。",
+      "会议论文可作为期刊投稿基础，须扩充、修订或完善内容，引用/致谢原会议，核对复用版权并修改题名；仍按本刊创新与质量标准正常同行评审，不规定统一新增百分比。来源：https://opg.optica.org/content/author/portal/item/review-general-policies/。"
     ],
     "publishing": "2026-10-02 核验本刊开放获取收费：15 页内 USD 1,760；第 16 页起每页 USD 145；符合条件的 CC BY 基础价 USD 2,010。官方表生效日 2026-01-01，录用后支付 APC；税费及价格按投稿或录用日适用的细则未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",

@@ -63,3 +63,21 @@ Nano-Micro Letters 与 Science China Materials 本刊收费页的 Submit 链接�
 六本开放获取刊录用后付款，无投稿费。默认开放获取协议与 CC BY 不同；CC BY 按经确认的资助方要求在投稿中确定，不把此价格当作人人必付。机构协议及符合条件国家的减免需逐案确认，税费及收费版本适用时点未明确；Photonics Research 的当前表仍保留 2024-01-01 生效日。
 
 本批仅更新七刊 publishing。模板、稿型、会议扩展和其他指南缺口仍开放；索引、分区、样例与整刊日期未刷新。
+
+## E6：Optica 五刊模板与政策
+
+逐刊读取 About/Submission 与公共模板、许可和会议扩展政策；模板表明确列出这五刊，适用范围不是从同出版社推断。仅核对公开 Prism 链接，没有登录提交。
+
+| 期刊                                                                                | 本刊依据及范围                                                                                                                                                 |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Optics Express](https://opg.optica.org/content/journal/about/item/oe/)             | 本刊接收原创研究、专题稿、邀稿综述及已发表文章的评论；研究稿具体篇幅和摘要限制仍待核实。                                                                       |
+| [Biomedical Optics Express](https://opg.optica.org/content/journal/about/item/boe/) | 本刊接收原创研究、专题稿、邀稿综述及评论；动物/人体研究须注明伦理审批，人体研究须说明知情同意。研究稿具体篇幅和摘要限制仍待核实。                              |
+| [Optical Materials Express](https://opg.optica.org/content/journal/about/item/ome/) | 本刊接收原创研究、专题稿、邀稿综述及评论；Opinion 通常邀稿，可先向主编提出选题，至多四页（不计参考文献），此限制不套用到研究稿。研究稿篇幅和摘要限制仍待核实。 |
+| [Photonics Research](https://opg.optica.org/content/journal/about/item/prj/)        | 本刊接收原创研究、专题稿、邀稿综述及评论；研究稿具体篇幅和摘要限制仍待核实。                                                                                   |
+| [Optica Quantum](https://opg.optica.org/content/journal/about/item/opticaq/)        | 本刊强调由光学/光子学支持的量子信息科技高影响结果，包括理论、实验及技术研究；具体稿型篇幅、摘要和综述提案流程仍待核实。                                        |
+
+- [模板表](https://opg.optica.org/content/author/portal/item/templates-default)：Word/LaTeX、PDF 和源文件提交路径；LaTeX 标准命令与文件名大小写。模板页标注 2024-10-24，不将本次核验日当模板版本。
+- [许可和预印本政策](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/)：投稿前/审稿中可发预印本，录用后可更新版本按版权/许可区分，链接正式版本。
+- [会议扩展政策](https://opg.optica.org/content/author/portal/item/review-general-policies/)：新增内容、会议归属、复用版权、修改题名及正常评审，无统一新增百分比。动物/人体研究另有伦理声明要求。
+
+只改五刊 guide/requirements；E5 publishing、索引、分区、样例和整刊日期保留。研究稿长度/摘要等未知细则明确开放，不能把模板或收费页的页数门槛当作研究稿硬上限。

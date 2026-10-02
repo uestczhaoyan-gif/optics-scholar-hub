@@ -680,3 +680,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E5 补 Optica、Optica Quantum、Photonics Research、OE、BOE、OME 的官方 APC、CC BY 资格及超页费，并补 AOP 不收发表费用。官方表生效日与核验日分开；只改 publishing，指南其他细则仍待核实。E4 提交 0db3677 已确认 Pages 37021346286、线上首页/版本 HTTP 200，与本地版本 c9fa4cd07471f4ef9f1e69451b34e3078d74403b068a491b1b6c55e403178677 一致。
 - 官方费用表逐刊核对页数与对应列，区分基础/超页及条件性 CC BY；PRJ 的 2024 生效版本不改成年份推测。AOP 不收发表费用来自明确声明。与更新前逐字段断言仅七刊 publishing 改变，正式/候选数量保持，十四刊样例保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查均通过。维护队列 223 项、覆盖 12 主题/270 候选；差异审核和 git diff --check 通过。构建仍采用已校验的 Node 24.20.0 便携运行时，依赖未变。
+
+## 2026-10-02：作者指南 E6（五刊）
+
+- E6 为 OE、BOE、OME、Photonics Research 和 Optica Quantum 补本刊入口、Word/LaTeX 模板、预印本及会议扩展规则；OME Opinion 的四页限制与研究稿分开。只改 guide/requirements，研究稿篇幅与摘要等未核实内容仍开放。E5 提交 e168b1f 已确认 Pages 37021874250、首页/版本 HTTP 200，与本地 24071643c290bda2af127324d0fcac00019e6d68606b8877d6e97ffba70368e1 一致。
+- 公共模板明确列出五刊，模板/许可和扩展规则有独立官方来源；没有按收费页推算硬性研究稿长度，也没有编造统一扩展比例。与修改前断言仅五刊 guide/requirements 改变；其余字段和数量保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查通过。维护队列 223 项、覆盖 12 主题/270 候选，git diff --check 通过；Node 24.20.0 便携构建仅有既有单块体积提示。
