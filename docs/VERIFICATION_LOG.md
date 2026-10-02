@@ -555,3 +555,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - APOS 官网确认第 11 届 APOS 包含第 7 届 IWPFA、悉尼新南威尔士大学；可读正文未列举办起止日，征稿 PDF 读取超时，继续 pending。不用 2025 投稿/注册日期推算会期，不将期刊专刊截止混作会议 DDL。
 - 正式目录为 74 本期刊、40 届会议、9 项展会/论坛；269 项候选为 123 admitted、143 pending、3 deferred，五个新正式 ID 已回链候选。原有 35 届会议及其他正式数据未改，差异审核确认仅新增五届、更新六个候选和同步文档。未来预告带来未知字段，维护队列 278→300 项字段任务；覆盖仍为 12 主题/269 候选。
 - 发布前通过数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源验证、`git diff --check`。仅有日期的截止不补时刻/时区；注册网址和未核实字段保持未知。剩余索引/分区、会议、指南与样例继续开放，旧 Codex 自动化保持暂停。
+
+## 2026-10-02：部署收尾、定时续作与临近检查 B2
+
+- main 与 origin/main 同为 5c8b8cb、工作区干净；9/30 C1 的 [Pages 36717496113](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36717496113)此前 build/deploy 成功，线上连接超时尚未验收。本轮首页与 catalog-version 均返回 HTTP 200，版本 `ea10274c7bf99ee05bb1c8d7bfbc0e557d746b935a1f48f9eb088dff862e06fe` 与本地一致，未重复提交 C1。
+- 用户明确要求每五小时检查额度后重新开始，并持续推进直到额度受限。复用原 heartbeat `automation`，从 PAUSED 改为 ACTIVE，目标由旧对话改为当前对话；没有创建重复任务或改变其他项目自动化。初始实际额度为五小时 0% 已用、周额度 79% 已用，额度恢复只检查，不使用重置券或购买额度。此授权取代此前不自动恢复的限制；历史暂停记录保留。
+- 读取 [10/2 来源巡检 36976757481](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/36976757481)的 source-report 附件：339 个来源，27 changed、195 unchanged、33 reachable-nontext、70 access-limited、7 fetch-error、6 http-error、1 timeout。变化指纹不直接改写学术事实；27 处仍需按实际字段复核。重新生成维护队列 297 项、覆盖报告 12 主题/269 候选。
+- [ACP PDP 页](https://www.acpconf.com/news/post-deadline)仍为 10/15 23:59 北京时间，[IPC 注册](https://ieee-ipc.org/attendees/registration/)仍为 Before 8 October，[OMTA](https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html)仍为 10/29–31 会期、10/15 最终轮及含当日优惠支付，[OPTIC 投稿指南](https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696)仍为 10/9 前通知与已过的 9/30 Poster-Only；本批不刷新无变化字段或整条日期。IPC 酒店页只确认参会房间预订，不由酒店推断论文会场。
+- 在官方浏览器核对 [Photonics West 指南](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)，通知及材料日期与现目录一致；点击 Register 后到达 [PW27 官方注册入口](https://spie.org/registration/online/PW27)，正文明确当届注册并提示登录或创建账号。补 registration 链接及本轮核验范围；未登录、未核对费用或注册截止，不把入口可达作为完成注册或所有稿件仍可提交的证据。维护队列降为 296 项，正式数量及候选状态不变。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过；差异仅 PW27 registration/notes 和三份续接记录，`git diff --check` 通过。后续按对应提交 SHA 验收部署。

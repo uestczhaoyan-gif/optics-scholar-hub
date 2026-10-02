@@ -1070,7 +1070,7 @@
     "description": "涵盖 BiOS、LASE、OPTO、Quantum West 等方向的综合光子学会议群。此条记录大会共同日程，各分会须另查主题、报告日期及附加投稿要求。",
     "website": "https://spie.org/conferences-and-exhibitions/photonics-west",
     "notice": "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines",
-    "registration": null,
+    "registration": "https://spie.org/registration/online/PW27",
     "checkedAt": "2026-09-13",
     "evidence": "official",
     "submissionState": "published",
@@ -1080,7 +1080,7 @@
       "报告作者需付费注册、按计划参会报告，并提交符合出版规范的全文或海报。上传论文/海报前，联系作者或报告人须完成注册。"
     ],
     "publication": "按要求提交且完成现场报告的材料，经审查后在 SPIE Digital Library 的 Proceedings of SPIE 出版；官网列举 EI 等数据库合作，不代表本届每篇材料已经收录。",
-    "notes": "官网仍显示 call for papers open，但共同摘要日期为 2026/7/22，是否仍可补投须查具体分会，不推定全部开放。注册计划 2026 年 10 月开始，未公布具体日期或完整注册入口；论文/海报上传计划 11/30 开启。海报 PDF 用于日程预览及出版，口头幻灯片 1/27 后可到现场 Speaker Check-in 上传。BiOS Expo 为 1/30–31，Photonics West Exhibition 为 2/2–4，二者不是全部论文会期。 2026-09-30 浏览器复核重要日期：口头幻灯片提前上传截止改为 1/27；通知、海报及全文日期保持不变。本轮不刷新整条核验日期。",
+    "notes": "官网仍显示 call for papers open，但共同摘要日期为 2026/7/22，是否仍可补投须查具体分会，不推定全部开放。注册指南仍列 2026 年 10 月开始；2026-10-02 已核实官方 PW27 注册入口，需登录或创建 SPIE 账号继续，费用与注册截止本轮未核实；论文/海报上传计划 11/30 开启。海报 PDF 用于日程预览及出版，口头幻灯片 1/27 后可到现场 Speaker Check-in 上传。BiOS Expo 为 1/30–31，Photonics West Exhibition 为 2/2–4，二者不是全部论文会期。 2026-09-30 浏览器复核重要日期：口头幻灯片提前上传截止改为 1/27；通知、海报及全文日期保持不变。本轮不刷新整条核验日期。",
     "deadlines": [
       {
         "type": "abstract",

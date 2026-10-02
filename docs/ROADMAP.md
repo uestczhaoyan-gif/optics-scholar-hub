@@ -1,6 +1,6 @@
 # 后续工作规划 / Roadmap
 
-更新：2026-09-30；已恢复本次人工续作，旧 Codex 定时任务继续暂停。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
+更新：2026-10-02；用户已授权持续续作，复用五小时额度检查任务并接到当前对话。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
 
 ## 当前结果与原规划对照
 
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 30 September 2026. Manual work has resumed at the user's request; the old Codex automation remains paused. See [the resumption handoff](RESUME.md) before continuing in a new conversation. The catalog contains 74 journals, 40 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 2 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 74 journals, 40 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 61 journals and CAS records for 10. SCIE has 41 and EI has 42 positive records. Twenty-four EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Twenty-four SCIE records have current Clarivate MJL search-result evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -313,3 +313,7 @@ InfoMat 新增 Wiley 明确 SCIE 声明，肯定记录增至 18/74；EI 不变�
 ### 2026-09-30：会议覆盖批次 C1
 
 审核六个系列，新增 SPIE Advanced Lithography + Patterning 2027、Medical Imaging 2027、Optical Metrology 2027、Astronomical Telescopes + Instrumentation 2028 和 OPIC 2027，正式会议 35→40 届；候选五项转 admitted，APOS 因当届会期缺口仍 pending。前两会有具体投稿和材料规则，后两会仅正式未来会期预告；OPIC 官方检索与 ICNNQ 正文的核验范围单独记录，主站读取超时及稿型/出版缺口保留。详见 [C1 证据页](CONFERENCE_EVIDENCE_2026-09-30.md)。A4 构建、部署与线上版本已确认；本批发布前全部 26 项测试及数据、类型、lint、子路径构建检查通过。当前维护队列 300 项字段任务，继续剩余期刊与未审会议系列，优先补 APOS 会期及新增会议未知字段。
+
+### 2026-10-02：部署收尾与临近检查 B2
+
+C1 线上版本已成功核对，不再保留未验收状态；当日来源巡检已读取，维护报告按当前日期重生成。复核 ACP、IPC、OMTA、OPTIC 与 Photonics West 临近事项，日期未变；补 PW27 官方注册入口，注册截止和费用继续待核实。维护队列 296 项字段任务，数量和候选状态不变。用户明确授权后已复用五小时额度检查任务并接到当前对话，持续按 A/B/C/E/F 处理剩余规划，额度受限时保存进度等后续调度。
