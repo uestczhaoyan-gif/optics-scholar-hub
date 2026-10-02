@@ -100,3 +100,29 @@ Angewandte 初查印刷刊号 1433-7851 没有结果，随后用官方刊名搜�
 A8 结束时：现有 62 条 SCIE 和 9 条 ESCI 肯定记录均有当前 MJL 公开结果卡依据。其余十二刊的 SCIE 未核实字段仍保留，包括 ESCI 刊；EI 42（数据库依据 24）、分区、覆盖年份、刊号、指南、样例与整刊日期均不变。剩余三刊的 Web of Science 身份与其他 EI/分区等继续开放。
 
 A7 提交 5df254f 的 [Pages 37009592247](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37009592247) build/deploy 均成功，线上首页及版本 HTTP 200，目录版本 2a734460399d77d4ee59b4286afeebb6e2db75852ba8261c87ca1b35c38b421f 与本地一致。
+
+## 批次 A9：Optica Quantum 身份与 IEEE/生医/制造 EI（12 本）
+
+Optica Quantum [官网](https://opg.optica.org/opticaq/home.cfm)明确公布 ISSN 2837-6714，补入目录的 issn 字段，eissn 仍未知。[MJL 刊号查询](https://mjl.clarivate.com/search-results?issn=2837-6714&hide_exact_match_fl=true)唯一 Exact Match，结果明确为 ESCI；新增独立 ESCI，SCIE 保留未核实。另对光学 精密工程（1004-924X）及红外与激光工程（1007-2276）查询，四个 Core Collection 默认过滤器开启时无刊号结果，刊名搜索仅得相关他刊，未取得本刊匹配；不宣称官方未收录或停收，不改其 SCIE。
+
+10/2 重新打开 [Elsevier Compendex 页面](https://www.elsevier.com/products/engineering-village/databases/compendex)，当前 View source list 仍指向[八月来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。重新下载 SHA-256 为 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，与 9/30 相同。SERIALS 2026-08-07、DISCONTINUED 2026-05-01、中文表 2026-07-10 三个版本分别核对；只读提取，不修改原表。
+
+以下十一刊在 SERIALS 各有唯一刊号匹配，刊名、Journal 类型和出版社身份相符，停收表无匹配。IEEE COMST 的 and/& 按刊号对应；Neurophotonics 原二手线索升级为当前来源表依据。
+
+| 期刊                                               | 目录刊号              | SERIALS 行号 | 清单刊名                                           | 中文表行号（Renewed） |
+| -------------------------------------------------- | --------------------- | ------------ | -------------------------------------------------- | --------------------- |
+| IEEE Communications Surveys & Tutorials            | 1553-877X             | 1816         | IEEE Communications Surveys and Tutorials          | —                     |
+| Proceedings of the IEEE                            | 0018-9219 / 1558-2256 | 4724         | Proceedings of the IEEE                            | —                     |
+| IEEE Transactions on Industrial Electronics        | 0278-0046 / 1557-9948 | 2092         | IEEE Transactions on Industrial Electronics        | —                     |
+| IEEE Transactions on Cybernetics                   | 2168-2267 / 2168-2275 | 2070         | IEEE Transactions on Cybernetics                   | —                     |
+| IEEE Transactions on Medical Imaging               | 0278-0062 / 1558-254X | 2105         | IEEE Transactions on Medical Imaging               | —                     |
+| IEEE Transactions on Image Processing              | 1057-7149 / 1941-0042 | 2090         | IEEE Transactions on Image Processing              | —                     |
+| IEEE Transactions on Geoscience and Remote Sensing | 0196-2892 / 1558-0644 | 2086         | IEEE Transactions on Geoscience and Remote Sensing | —                     |
+| Biosensors and Bioelectronics                      | 0956-5663 / 1873-4235 | 592          | Biosensors and Bioelectronics                      | —                     |
+| Journal of Biomedical Optics                       | 1083-3668 / 1560-2281 | 3073         | Journal of Biomedical Optics                       | —                     |
+| Neurophotonics                                     | 2329-423X / 2329-4248 | 4170         | Neurophotonics                                     | —                     |
+| International Journal of Extreme Manufacturing     | 2631-8644 / 2631-7990 | 2621         | International Journal of Extreme Manufacturing     | —                     |
+
+A9 结束时：EI 肯定记录 42→53，其中数据库方依据 24→35；SCIE 62（均数据库）、ESCI 9→10（均数据库）。本批不推断覆盖年份、不替换刊号类型；其他分区、指南、费用、样例和整刊日期不变。Optica Quantum 在该 Compendex 表按新刊号无匹配，EI 继续未核实，空结果不判未收录。
+
+A8 提交 11cce82 的 [Pages 37010047912](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37010047912) build/deploy 均成功，线上目录版本 3e041b4ebe98c5c5a8e1552ef4a0c08c15f57648599df86f6c2f2dd6276c546a 与本地一致。

@@ -459,7 +459,7 @@
         "total": 129
       }
     ],
-    "issn": null,
+    "issn": "2837-6714",
     "eissn": null,
     "domains": ["光学", "物理"],
     "indexes": [
@@ -482,6 +482,16 @@
         "coverageStart": null,
         "coverageEnd": null,
         "note": "待逐刊核验索引，不能依据分区或期刊名称推断。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2837-6714&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-02",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Optica Quantum 官网 About this Journal 公布 ISSN 2837-6714；Clarivate MJL 按该刊号查询，唯一 Exact Match 的刊名与刊号一致，结果卡明确列 Web of Science Core Collection: Emerging Sources Citation Index。未登录 profile 或单篇检索，覆盖年份未知；SCIE 独立保留未核实。"
       }
     ]
   },
@@ -3591,13 +3601,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 592 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3756,13 +3766,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 1816 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3811,13 +3821,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4724 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3866,13 +3876,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2092 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3921,13 +3931,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2070 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -3976,13 +3986,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2105 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -4031,13 +4041,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2090 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -4086,13 +4096,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2086 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
@@ -4413,13 +4423,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 3073 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
@@ -4468,13 +4478,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": "secondary",
-        "source": "https://fnirs.org/resources/neurophotonics/",
-        "checkedAt": "2026-09-14",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "SfNIRS 将本刊列为官方期刊并声明 SCIE/Ei Compendex；该介绍混有 2019/2022 历史信息且索引声明无日期。本页不是 SPIE 或数据库直接证据，当前状态仍待核验。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4170 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
@@ -4579,13 +4589,13 @@
       },
       {
         "database": "EI_COMPENDEX",
-        "status": "unverified",
-        "evidence": null,
-        "source": null,
-        "checkedAt": null,
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "本轮无当前逐刊索引声明或数据库直查；不把历史 JCR 表、Web of Science 总称或 ISSN 注册等同于 SCIE/EI 收录。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2621 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
     "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"

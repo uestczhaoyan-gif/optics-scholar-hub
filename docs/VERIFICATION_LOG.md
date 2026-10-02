@@ -596,3 +596,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Angewandte 印刷刊号初查无结果，改用官方刊名搜索，再以结果显示的既有电子刊号 1521-3773 得到唯一匹配；没有将空结果当作停收。中国光学现刊号 2097-1842 匹配，不用历史刊号覆盖现刊。
 - 五条 SCIE、六条 ESCI 由 publisher 升级为 database，肯定数量仍为 SCIE 62、ESCI 9，现全部有 MJL 结果依据。EI、分区、覆盖年份、指南、费用、样例、整刊日期和正式/候选数量均不变；未登录 profile 或做单篇检索。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 250 项字段任务、覆盖 12 主题/269 候选，差异审核与 `git diff --check` 通过。
+
+## 2026-10-02：索引批次 A9（12 本）
+
+- A8 提交 11cce82 的 [Pages 37010047912](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37010047912) build/deploy 均成功，线上首页及版本 HTTP 200，版本 3e041b… 与本地一致。
+- Optica Quantum 官网明确 ISSN 2837-6714，补身份字段；MJL 唯一 Exact Match 为 ESCI，新增独立记录，SCIE/EI 保留未知。光学 精密工程与红外与激光工程的刊号查询无结果、刊名查询未得对应卡片，不据此标停收。
+- Elsevier 当前页面来源表链接与 9/30 相同；重新下载 SHA-256 和 SERIALS/停收/中文表的版本均相同。按刊号、刊名、Journal 类型、出版社核对 IEEE 六刊和 Proceedings of the IEEE、Biosensors and Bioelectronics、JBO、Neurophotonics、IJEM，十一刊 SERIALS 唯一匹配、DISCONTINUED 无匹配，新增 EI confirmed/database。具体行号见 [A9 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- EI 肯定 42→53、数据库方依据 24→35；ESCI 9→10（均数据库）、SCIE 62 不变。仅更新对应索引和 Optica Quantum 刊号，覆盖年份、分区、指南、费用、样例、整刊日期及正式/候选数量不变。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过；维护队列 238 项字段任务、覆盖 12 主题/269 候选，差异审核与 `git diff --check` 通过。
