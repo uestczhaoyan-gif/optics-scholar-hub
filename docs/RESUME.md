@@ -124,3 +124,5 @@ E13 补 OEA/OES 数据可用性与补充材料规则：ScienceDB 出版阶段存
 C4 审核六个未审系列及新确认的联合母会，新增 Optics + Photonics 2027、Sensors + Imaging 2027、Electronic Imaging 2027 三届。正式 74 刊/49 会议/9 活动；候选 271（132 admitted / 136 pending / 3 deferred）。Photonics Europe 2028 与 Photomask 2027 城市仍未知，保留候选；欧洲遥感/安全子系列不重复计母会。EI 首页延期、旧 CFP 与已关闭系统冲突，摘要截止 null、状态 closed。E13 bdffcf8 已确认 Pages 37073169839 与线上 77b6ae8d…；本批验证/提交/部署见最新日志。下一批继续薄弱方向候选、分区及期刊指南/样例。
 
 A13 针对六刊读取官方指标及相关公告入口，均未取得可直接录入的 JCR 学科分区；CAS 官方入口本轮不可读，未采纳二手停发说法或新锐分区替代。只保存核验范围，全部 JSON 和日期保持，JCR 61/CAS 10 不变。[范围与后续入口](RANKING_EVIDENCE_2026-10-03.md)。C4 ab98d31 已确认 Pages 37074836786 构建/部署成功，线上首页及版本 HTTP 200、2c5e8103… 与本地一致。后续转 NML 收费冲突、其他刊指南和未审候选，不重复这六刊同版指标页。
+
+E14 为 AFM 补研究稿建议/摘要、返修制作、TOC、数据声明及领域清单；ACS Photonics、ACS Nano、Nano Letters 各补本刊 Fast Format、SI 分类和数据政策，鼓励与强制分开。NML 保留出版社现价并显式记录独立刊站免 APC 冲突。仅四刊 requirements 与 NML publishing 改变；[逐字段证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。A13 bd1b3c1 已确认 Pages 37075731347 和线上原目录版本，首次连接超时只复查同一部署，未重复提交。其他指南/分区及候选仍继续。

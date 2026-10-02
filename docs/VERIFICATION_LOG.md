@@ -753,3 +753,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 六刊公开指标页及有针对性的公告入口已读；没有学科分区/完整排名的影响因子不换算 Q 值，JCI、CiteScore、SJR 不替代 JCR。CAS 入口访问失败与停发传言分开，未使用学校共享凭据或机构接口；[逐刊范围](RANKING_EVIDENCE_2026-10-03.md)。
 - 本批为文档证据记录，全部 JSON 字节及目录版本保持，正式 74 刊/49 会议/9 活动，候选 271（132 admitted / 136 pending / 3 deferred）、JCR 61/CAS 10、十四刊至少三篇样例保持。当日报告 234 项字段任务、12 主题。
 - 文档批次验证：四份目录 JSON 与 HEAD 字节一致，当前数量/分区/样例计数及 65 个本地 Markdown 链接通过，格式化、差异审查与 git diff --check 通过。未修改程序或目录数据，未重复运行功能测试与本地构建；GitHub 发布仍需验收对应 SHA 的完整 CI 与线上原目录版本。
+
+## 2026-10-03：材料与 ACS 投稿政策 E14（五刊）
+
+- A13 bd1b3c1a838b535f8e608de0c1d4279622de7b33 的 [Pages 37075731347](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37075731347) build/deploy 成功，首页/版本 HTTP 200，2c5e8103bd3a2c53dc3c4eaa8326e8611101585cd942688a760eb81e42cdbf8c 与本地一致后编辑本批。首次线上连接超时只重查同一 SHA，没有重复提交/推送。
+- E14 内容与范围见[证据页](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。AFM 建议长度与摘要硬限分开、初投/返修分开；三刊 ACS 各读对应三节与版本；NML 两个官方页面政策冲突保留，不臆断旧版。未上传稿件、登录或联系编辑部。
+- 长操作前检查点保存在忽略目录 work/E14_RESEARCH_2026-10-03.md；下一步执行逐字段断言、必要数据/功能/构建验证、差异审查，验证通过后提交推送并验收同一 SHA。
+- 发布前逐字段断言通过：仅 AFM/ACS Photonics/ACS Nano/Nano Letters 的 requirements 与 NML publishing 更新；其余 69 刊及其他目录完全保持。74 刊/49 会议/9 活动、271 候选、JCR 61/CAS 10、十四刊至少三篇样例保持。数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查通过；维护队列 234 项、覆盖 12 主题，68 个本地文档链接及差异审查、git diff --check 通过。构建使用已校验 Node 24.20.0，仅有既有单块体积提示。

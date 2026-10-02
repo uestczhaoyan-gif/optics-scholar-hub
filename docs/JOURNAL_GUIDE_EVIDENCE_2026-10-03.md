@@ -87,3 +87,17 @@ AOP PDF SHA-256：22bdd3de0f49559201e01efda5b8671a3f8c45fe744a4d0d06ec8d0bba18e7
 - [9201 Supplementary Information](https://www.oejournal.org/news/9201) 随初投/返修送审、正文独立理解并引用 SI、非文字文件附说明、最终录用版本不可再改/增。直接在线上传文件/包当前限 30 MB，推荐 MP4，未推导整个稿件包的总容量。两份政策均实际浏览器阅读全文，未登录/存储/上传任何论文或数据。
 
 字段范围只限上述政策，既有篇幅/收费、索引、分区、样例和整刊日期保持；移除已过时的“数据政策本轮未核实”，仍保留模板源码未核实。
+
+## E14：AFM 制作要求、三刊 ACS 数据政策与 NML 收费冲突
+
+核验日 2026-10-03。仅四刊 requirements 与 NML publishing 更新，原稿型/分区/索引/样例及整刊日期保持。三刊 ACS 各读取自己的 coden 指南，页首均标 2026-08-27；相同段落分别确认，未套用出版社另一刊政策。
+
+| 期刊                          | 字段与已读范围                                                                                                                                                                                           | 官方来源与边界                                                                                                                                                                                                                              |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Advanced Functional Materials | requirements：初投 Free Format 与返修制作阶段；Research Article 典型全文 3000–8000 词、3–8 展示项不是硬限，摘要 200 词、3–7 关键词；TOC 尺寸和 50–60 词；DAS 必需、伦理/法律共享例外；适用领域清单须提交 | [本刊指南](https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/author-guidelines)的相应五节；确认 Word/LaTeX 与清单链接，未解析模板或各清单参数，不声称摘要限适用所有稿型。费用未补。                                             |
+| ACS Photonics                 | requirements：初投完整参考文献/图表嵌入/无批注；SI 同时交，发表与审稿用途分开；鼓励数据发表时共享                                                                                                        | [apchd5 指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=apchd5)，Fast Format、Supporting Information、Research Data Policy 三节。当前数据节未列等级或强制 DAS，不套另两刊 Level 1。                              |
+| ACS Nano                      | requirements：同样三节逐刊读取；明确 Level 1 的数据/DAS 鼓励，公开集正确引用                                                                                                                             | [ancac3 指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=ancac3)。本轮未覆盖全部结晶/生物构建体专项要求，不将一般共享鼓励覆盖专项存档要求。                                                                       |
+| Nano Letters                  | requirements：同样三节逐刊读取；明确 Level 1 的数据/DAS 鼓励，公开集正确引用                                                                                                                             | [nalefd 指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=nalefd)。Fast Format 不取消本刊 Letter 连续正文等原稿型规则；未补 ACS APC。                                                                              |
+| Nano-Micro Letters            | publishing：出版社 £1890 / USD2690 / EUR2190、按录用日及适用税仍明确；独立刊站无 APC 说法冲突                                                                                                            | [出版社收费](https://link.springer.com/journal/40820/how-to-publish-with-us)与[独立刊站](https://www.nmlett.org/index.php/nml)正文同时可读。独立站未标生效日，无法确认谁已失效；保留现价出处并明确冲突，不承诺免费/实际账单。未联系编辑部。 |
+
+三刊 SI 的发表文件需具体内容与文件扩展名说明、位置在致谢/参考文献之前；仅供审稿的未发表或在印参考副本不作为公开 SI。鼓励数据共享与免费提供已发表 SI 是不同要求。
