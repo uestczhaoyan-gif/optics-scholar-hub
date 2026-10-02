@@ -28,3 +28,20 @@
 | Science Bulletin / OA 全部稿型                                                              |     — | 3,880 |     — | 不含税；按个体协议核对。订阅路径作者指南另列黑白页 RMB 1,000（亦标 USD 150）/页，彩页规则待编辑部核实。 |
 
 五本正式条目只改 `guide`、`requirements` 和/或 `publishing`，整刊核验日、分区、索引、论文样例及候选状态保留。费用和规则的精确出处见表内链接；E 的其他作者指南与交叉样例仍开放。
+
+## E3：六刊指南或收费补充
+
+仅更改六刊 guide、requirements 和/或 publishing；整刊日期、索引、分区与样例保持。2026-10-02 当前报价与其定价时点分别记录，货币不是汇率换算，未知税费不当作含税报价。
+
+| 期刊                    | 官方来源与核验结果                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nano-Micro Letters      | [本刊/出版社收费页](https://link.springer.com/journal/40820/how-to-publish-with-us)：完全开放获取、CC BY。2026-10-02 收费页列当前 APC GBP 1,890 / USD 2,690 / EUR 2,190，适用 VAT/地方税另计，价格按录用日确定；不使用指南遗留的 2023 报价。机构协议及减免依资格核对，自主减免应在投稿时申请。                                                                   |
+| Science China Materials | [本刊/出版社收费页](https://link.springer.com/journal/40843/how-to-publish-with-us)：混合出版。2026-10-02 收费页列可选 OA APC GBP 3,090 / USD 4,990 / EUR 3,990，适用 VAT/地方税另计，按录用日定价；订阅出版不收此 APC。编辑部版面费与出版社 OA APC 独立，版面费当前金额仍待核实；机构 OA 协议不自动涵盖编辑部版面费，不把无 APC 解释成总费用为零。              |
+| Advanced Science        | [本刊/出版社收费页](https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/open-access)：完全开放获取。2026-10-02 本刊页列 APC USD 6,730 / GBP 4,480 / EUR 5,640（税费另计）；Comment 稿型免此 APC，不收投稿费或页费。国家/地区减免和 Wiley Open Access Account 覆盖按资格核对，账户覆盖与投稿日及发表时有效安排有关；不能把 Comment 免收套用于原始研究。 |
+| InfoMat                 | [本刊/出版社收费页](https://onlinelibrary.wiley.com/page/journal/25673165/homepage/open-access)：完全开放获取、CC BY。2026-10-02 本刊页列 APC USD 3,000 / GBP 2,300 / EUR 2,550（税费另计），Society Members 列全额 APC 的 10% 优惠，具体会员资格须核实；不收投稿费或页费。国家/地区减免、机构账户覆盖按资格处理，不能沿用创刊前三年免 APC 的历史介绍。          |
+| PRX Quantum             | [本刊/出版社收费页](https://journals.aps.org/authors/apcs)：完全开放获取、CC BY 4.0。2026-10-02 APS 官方 2026 APC 表列 PRX Quantum USD 3,590；价格在投至实际发表期刊时确定，转投也按该刊提交时点处理。Editorial、Comment、Correction 不适用 APC；机构协议及低收入地区减免按资格核实。税费处理本轮未核实，不将此数额称为含税总价。                                |
+| Advanced Materials      | [本刊作者指南](https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/author-guidelines)：研究稿建议长度与摘要硬限分开，支持 Free Format，Wiley Authors ADMA 为现入口；模板/TOC 和返修材料按本刊说明。收费未新增报价。                                                                                                                                    |
+
+Nano-Micro Letters 与 Science China Materials 本刊收费页的 Submit 链接分别为 [nmlett](https://mc03.manuscriptcentral.com/nmlett) 和 [scms](https://mc03.manuscriptcentral.com/scms)，本轮请求 403；仅核实官方所指向的渠道，不称已完成登录验证。NML 双盲、摘要与 TOC 的既有条款未重新全核，邮件方式遗留仍须编辑部澄清。SCM 最新版面费金额及全文模板细则继续待核实。
+
+[PRX Quantum 本刊指南](https://journals.aps.org/prxquantum/authors)同时列 Research Article 无统一上限、Perspective 7,500、Tutorial 37,500、Comment/Reply 3,500 词，单独更新类型表。其他既有条款仍保留，不刷新整刊 checkedAt。InfoMat 创刊免 APC 的旧 overview 与当前收费页区分；Wiley Comment 免收规则只来自 Advanced Science 本刊，不能泛化到 InfoMat。

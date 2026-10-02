@@ -1344,10 +1344,12 @@
     "topics": ["光学材料", "电子与器件"],
     "description": "材料科学交叉期刊；光学相关工作应突出材料本身的新机制、功能或性能，而不只是常规光学测试。",
     "website": "https://advanced.onlinelibrary.wiley.com/journal/15214095",
-    "guide": "https://advanced.onlinelibrary.wiley.com/journal/15214095",
+    "guide": "https://advanced.onlinelibrary.wiley.com/hub/journal/15214095/author-guidelines",
     "requirements": [
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-02 本刊指南：Research Article 通常 3,000–8,000 词、3–8 个图表项，但不是硬性篇幅上限；摘要最多 200 词，3–7 个关键词。Review 通常 10,000–20,000 词亦非硬上限，不把研究稿建议套到其他稿型。",
+      "新稿支持 Free Format，通过官方 Wiley Authors 的 https://authors.wiley.com/journal/ADMA 提交；2025-11-25 前启动的稿件按官网旧 Editorial Manager 提示处理。正文可用 Word 或 LaTeX 生成的合并 PDF，补充信息单独提供。",
+      "准备数据可用性、资助、利益冲突及适用伦理声明；披露核心材料组成。返修提交逐条回复、有标记和无标记两版稿件，并按 Word/LaTeX 模板整理。",
+      "TOC 文字 50–60 词，原创图 55 mm × 50 mm 或 110 mm × 20 mm；按研究领域补相应数据报告清单。收费及其他未核实政策仍按本刊最新页核对。"
     ],
     "publishing": "出版模式、APC / 超页费与机构协议请在作者指南和收费页核实，不依据分区推断费用。",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -1953,9 +1955,9 @@
     "requirements": [
       "现指南规定双盲评审：正文及附属材料去除作者身份，另交含作者、单位、联系方式和致谢资助信息的标题页。",
       "准备 150–250 词摘要、4–6 个关键词及原创 TOC 图（8 cm × 4 cm、至少 600 dpi），图文摘要文字不超过 80 词。",
-      "通过现官网 Submit your manuscript 入口确认提交渠道；指南仍含邮件投稿旧表述，投稿前向编辑部核实，勿自行向未经核实地址发送稿件。"
+      "2026-10-02 本刊页 Submit your manuscript 明确指向 https://mc03.manuscriptcentral.com/nmlett；本轮入口请求 403，未验证登录后的流程。指南仍有邮件投稿旧表述，投稿前应向编辑部核实具体渠道。"
     ],
-    "publishing": "开放获取并收取 APC；指南保留的 2023 年收费不是当前报价，请查看现 Fees and funding 页面及机构协议。",
+    "publishing": "完全开放获取、CC BY。2026-10-02 收费页列当前 APC GBP 1,890 / USD 2,690 / EUR 2,190，适用 VAT/地方税另计，价格按录用日确定；不使用指南遗留的 2023 报价。机构协议及减免依资格核对，自主减免应在投稿时申请。 来源：https://link.springer.com/journal/40820/how-to-publish-with-us",
     "guide": "https://link.springer.com/journal/40820/submission-guidelines",
     "schedule": "常规稿件通过现官网系统受理，专题另查通知；初审、评审和出版分别计时，不将历史平均天数当作保证。",
     "checkedAt": "2026-09-11",
@@ -2209,10 +2211,10 @@
     "guide": "https://journals.aps.org/prxquantum/authors",
     "requirements": [
       "通过 APS Submission Server 提交，评审可使用 PDF；推荐提供 LaTeX 或 Word 源文件，准备数据可用性声明。",
-      "Research Article 无统一篇幅上限；Perspective 上限 7500 词，通常邀稿但接受提案咨询。",
+      "2026-10-02 本刊指南：Research Article 无统一篇幅上限；Perspective 最多 7,500 词、Tutorial 最多 37,500 词，通常邀稿但接受提案咨询；Comment/Reply 最多 3,500 词。不同稿型的限制分别适用。",
       "准备解释科学问题、主要进展和意义的通俗摘要，官网建议约 150 词；正式发表前必须提供。"
     ],
-    "publishing": "完全开放获取，CC BY；录用后收取 APC，机构协议及减免查 APS 最新收费页。"
+    "publishing": "完全开放获取、CC BY 4.0。2026-10-02 APS 官方 2026 APC 表列 PRX Quantum USD 3,590；价格在投至实际发表期刊时确定，转投也按该刊提交时点处理。Editorial、Comment、Correction 不适用 APC；机构协议及低收入地区减免按资格核实。税费处理本轮未核实，不将此数额称为含税总价。 来源：https://journals.aps.org/authors/apcs"
   },
   {
     "checkedAt": "2026-09-11",
@@ -3328,7 +3330,7 @@
       "新稿通过 Wiley Authors 提交；2025 年 11 月 25 日以前启动的稿件按官网旧系统提示处理。",
       "支持 Free Format 新投稿，准备包含必要章节的可编辑正文、清晰图表和单独补充材料；格式宽松不免除研究与伦理声明。"
     ],
-    "publishing": "完全开放获取，APC 与机构协议请查 Wiley 最新说明。"
+    "publishing": "完全开放获取。2026-10-02 本刊页列 APC USD 6,730 / GBP 4,480 / EUR 5,640（税费另计）；Comment 稿型免此 APC，不收投稿费或页费。国家/地区减免和 Wiley Open Access Account 覆盖按资格核对，账户覆盖与投稿日及发表时有效安排有关；不能把 Comment 免收套用于原始研究。 来源：https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/open-access"
   },
   {
     "checkedAt": "2026-09-11",
@@ -3384,7 +3386,7 @@
       "研究论文建议 5000 词以内（含摘要，不含参考文献和图表），不是硬上限；摘要 260 词以内，3–6 个关键词。",
       "新稿支持 Free Format，正文需可编辑，Supporting Information 单独提交；涉及核心材料须披露结构和组成。"
     ],
-    "publishing": "开放获取期刊；APC、资助与授权条款按本刊现行说明确认。"
+    "publishing": "完全开放获取、CC BY。2026-10-02 本刊页列 APC USD 3,000 / GBP 2,300 / EUR 2,550（税费另计），Society Members 列全额 APC 的 10% 优惠，具体会员资格须核实；不收投稿费或页费。国家/地区减免、机构账户覆盖按资格处理，不能沿用创刊前三年免 APC 的历史介绍。 来源：https://onlinelibrary.wiley.com/page/journal/25673165/homepage/open-access"
   },
   {
     "checkedAt": "2026-09-11",
@@ -3492,10 +3494,10 @@
     "website": "https://link.springer.com/journal/40843",
     "guide": "https://link.springer.com/journal/40843/submission-guidelines",
     "requirements": [
-      "使用官网提供的 Articles 模板和 Instructions for Authors PDF，从现 Submit your manuscript 入口提交。",
+      "2026-10-02 本刊页 Submit your manuscript 指向 https://mc03.manuscriptcentral.com/scms；入口请求 403，未验证登录后的流程。按既有作者指南使用 Articles 模板和 Instructions for Authors PDF。",
       "注意编辑部单独收取的版面费不同于 Springer Nature 开放获取 APC，机构 OA 协议不自动涵盖编辑部版面费。"
     ],
-    "publishing": "混合出版；编辑部版面费、出版社 OA APC 与机构协议需分别核实。"
+    "publishing": "混合出版。2026-10-02 收费页列可选 OA APC GBP 3,090 / USD 4,990 / EUR 3,990，适用 VAT/地方税另计，按录用日定价；订阅出版不收此 APC。编辑部版面费与出版社 OA APC 独立，版面费当前金额仍待核实；机构 OA 协议不自动涵盖编辑部版面费，不把无 APC 解释成总费用为零。 来源：https://link.springer.com/journal/40843/how-to-publish-with-us"
   },
   {
     "checkedAt": "2026-09-11",

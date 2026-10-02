@@ -660,3 +660,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 断言所有旧正式会议及无关候选深度相同；期刊/活动未改。只有注册页明确时刻的 AOMATT 早鸟使用 at/Asia/Shanghai，其他截止只写 date。各出版/索引声明与录用条件分开。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项字段任务、覆盖 12 主题/270 候选，差异审查和 git diff --check 通过。
 - 本地 Node 24.19.0 在预渲染完成后触发 Windows libuv 退出断言。按 [Node 官方 24.20.0 发布说明](https://nodejs.org/en/blog/release/v24.20.0)使用临时便携二进制（官方 SHA-256 校验通过）重建成功，未改全局运行时、依赖锁文件或 CI。不能把前两次非零退出记为构建成功；最终验证采用 24.20.0，构建仍仅有既有单块体积提示。
+
+## 2026-10-02：指南与收费 E3（六刊）
+
+- C3 提交 56d1d9c 的 [Pages 37018974566](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37018974566) build/deploy 成功，线上首页和版本 HTTP 200，87c29984b3637fdbd9cf374507eee005974a6364b1eb6b7e7015a6e54a601ac5 与本地一致后开始本批。
+- Advanced Materials 泛化描述换成本刊作者指南，长度建议与硬限、Free Format 初投与返修分别记录。五刊新增官方 APC，保留定价时点、税/机构减免边界；InfoMat 历史免收不当作当前费用，SCM 无 OA APC 不等于无版面费。具体来源见 [E3 证据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
+- PRX Quantum 本刊篇幅按四类分开；NML/SCM 官方 Submit 链接已核对，但入口 403，未宣称登录流程已验证。逐刊断言只变 guide/requirements/publishing，索引、分区、样例、整刊日期及会议/候选未改，正式 74 刊/46 届会议/9 活动，候选 270（129 admitted / 138 pending / 3 deferred）。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过。维护队列 223 项、覆盖 12 主题/270 候选，git diff --check 通过；本地构建使用已校验的官方 Node 24.20.0 便携运行时，未改依赖。

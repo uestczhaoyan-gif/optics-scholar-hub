@@ -365,3 +365,7 @@ Nature Communications、npj Quantum Materials、npj Quantum Information、Commun
 ### 2026-10-02：会议核验 C3
 
 七系列审核新增五届（四未来、一历史联合），正式 46 届。GFP 与 SPIE DCS 按官方现名维护同一候选；南京联合届只计一次，AOMATT 独立系列不混同。OSD 2028 城市及 YSAOM 独立层级继续 pending。AOMATT 摘要官方版本冲突留 null，早鸟有精确北京时间。候选 270（129 admitted / 138 pending / 3 deferred）；临近 10/7、10/12 截止已入日历。前批 E2 已验收部署；[逐项依据](CONFERENCE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-02：指南与收费 E3
+
+Advanced Materials 补本刊指南；五刊补有日期与官方来源的 APC，PRX Quantum 新增分稿型篇幅，NML/SCM 补本刊指向的入口并记录 403。当前正式与候选数量、分区/索引/样例及整刊核验日不变，SCM 页费和 NML 投稿渠道遗留待核实。前批 C3 已验收部署及线上摘要；[E3 来源](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。

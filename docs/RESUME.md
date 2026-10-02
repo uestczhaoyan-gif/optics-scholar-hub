@@ -98,3 +98,5 @@ E2 为五本交叉刊补十六篇近两年光学样例，累计九刊至少三�
 C3 已审核七系列，新增南京 AOMTA/YSAOM 历史联合届、LiM 2027、SiPhotonics 2027（原 GFP）、SPIE Defense + Security 2027（原 DCS）及成都 AOMATT 2026。正式 46 届、候选 270（129 admitted / 138 pending / 3 deferred）。优先跟踪 10/7 SPIE 与 10/12 SiPhotonics 截止；AOMATT 摘要 9/30 与 10/25 官方冲突保留 null，早鸟明确 10/20 23:59 北京时间。YSAOM 独立层级及 OSD 2028 城市仍待核实。E2 提交 a3c6406 已确认 Pages 37016214730 和线上版本。
 
 本地构建恢复说明：捆绑 Node 24.19.0 在 C3 构建完成后出现 Windows libuv 退出断言；官方 24.20.0 已含修复，本轮经官方 SHA-256 校验的便携二进制位于忽略目录 work/node24.20/node.exe，直接运行 vinext CLI 与 prepare-static.mjs 已通过。全局运行时及锁文件未改；恢复时若该临时文件不在，按官方发布页获取并校验，不把崩溃退出标成功。
+
+E3 补六刊指南或收费：Advanced Materials 本刊稿型/材料，NML、SCM、Advanced Science、InfoMat、PRX Quantum 的官方 APC（区分录用/投稿日、税及减免）。ScholarOne 两入口被 403，仅确认官方链接，不声称登录后流程已核验；NML 邮件遗留与 SCM 版面费仍待补。C3 提交 56d1d9c 已验收 Pages 37018974566 和线上版本。索引、分区、样例及整刊日期保持，继续剩余任务。
