@@ -4,18 +4,18 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **74 本期刊、46 届会议、9 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **74 本期刊、49 届会议、9 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 46 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 49 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
 | 日历、分享筛选、本地关注、审核统计 | 已实现；现有 26 项自动测试                    | 随新增字段补必要测试，不重复开发                         |
-| 广覆盖候选池和审核流程             | 已有 270 项结构化候选及审核规则               | 规范状态、身份、适配证据和待办，不将候选数量算成正式收录 |
+| 广覆盖候选池和审核流程             | 已有 271 项结构化候选及审核规则               | 规范状态、身份、适配证据和待办，不将候选数量算成正式收录 |
 
 ## 数据缺口快照
 
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 2 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 74 journals, 46 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 74 journals, 49 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 61 journals and CAS records for 10. SCIE has 62 and EI has 67 positive records. 67 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Sixty-two SCIE records have current Clarivate MJL search-result evidence; ten ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -409,3 +409,7 @@ E12 修复 OEA 旧指南 404，核对 OEA/OES 当前通用稿型、初投/返修
 ### 2026-10-03：数据与补充材料 E13
 
 E13 补 OEA/OES 数据可用性与补充材料规则：ScienceDB 出版阶段存储、共享范围/例外、禁运和合理请求、DAS 位置及 SI 当前 30 MB 上传限制分别记录。仅 requirements 更新，独立代码规则与模板源码内容仍未知。[适用入口与逐字段来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。E12 已确认部署和线上版本；后续转未审会议系列，其他规划仍开放。
+
+### 2026-10-03：会议覆盖 C4
+
+C4 审核六个未审系列及新确认的联合母会，新增 Optics + Photonics 2027、Sensors + Imaging 2027、Electronic Imaging 2027 三届。正式 74 刊/49 会议/9 活动；候选 271（132 admitted / 136 pending / 3 deferred）。Photonics Europe 2028 与 Photomask 2027 城市仍未知，保留候选；欧洲遥感/安全子系列不重复计母会。EI 首页延期、旧 CFP 与已关闭系统冲突，摘要截止 null、状态 closed。[逐字段证据与母子关系](CONFERENCE_EVIDENCE_2026-10-03.md)。其他候选及未知字段继续开放。

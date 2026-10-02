@@ -739,3 +739,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E13 补 OEA/OES 数据可用性与补充材料规则：ScienceDB 出版阶段存储、共享范围/例外、禁运和合理请求、DAS 位置及 SI 当前 30 MB 上传限制分别记录。仅 requirements 更新，独立代码规则与模板源码内容仍未知。逐刊实际导航确认两份政策的适用入口，浏览器全文读取；[证据与边界](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
 - 修改前及与 HEAD 的逐字段断言通过，仅两刊 requirements 改变；其他 72 刊、正式/候选数量及无关字段保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核和 git diff --check 通过。便携 Node 24.20.0 构建仅有既有单块体积提示。
+
+## 2026-10-03：会议覆盖 C4（七个系列层级）
+
+- E13 bdffcf8d7a2083dc3d9e629182eac587dcee5d4d 的 [Pages 37073169839](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37073169839) build/deploy 成功，首页/版本 HTTP 200，77b6ae8d5c37bbfd70150bbe376fd712bfd1b34057769fcc1c46350da9b58385 与本地一致后开始本批。
+- C4 审核六个未审系列及新确认的联合母会，新增 Optics + Photonics 2027、Sensors + Imaging 2027、Electronic Imaging 2027 三届。正式 74 刊/49 会议/9 活动；候选 271（132 admitted / 136 pending / 3 deferred）。Photonics Europe 2028 与 Photomask 2027 城市仍未知，保留候选；欧洲遥感/安全子系列不重复计母会。EI 首页延期、旧 CFP 与已关闭系统冲突，摘要截止 null、状态 closed。SPIE 当前官方页面和两个子系列逐页读取，IS&T 旧官网 2027 Save the Date 与当届首页/CFP/实际提交页交叉核对；[具体来源](CONFERENCE_EVIDENCE_2026-10-03.md)。未登录/提交稿件或发送邮件。
+- 修改前及与 HEAD 的断言保持全部 46 届旧正式会议和其他候选，仅追加三届、审核六候选并增加一个母会候选；期刊、活动、索引/分区/样例未改。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 234 项字段任务、覆盖 12 主题/271 候选，差异审查、当前数量/文档链接和 git diff --check 通过。便携 Node 24.20.0 构建仍仅有既有单块体积提示。

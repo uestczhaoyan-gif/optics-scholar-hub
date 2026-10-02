@@ -191,12 +191,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "成像、色彩、显示、计算摄影；专题逐一去重",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ei2027.imaging.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["electronic-imaging-2027"],
+    "decisionReason": "IS&T 当届官网与官方 Save the Date 明确 2027 会期/会场；母会计一次，投稿系统关闭与首页延期冲突保留。",
+    "nextAction": "等待官方统一首页 10/12 延期、CFP 9/28 与系统已关闭状态；核实模板/出版细则及计划 10 月下旬注册。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-812fe13b0c",
@@ -446,12 +446,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光学工程、纳米、材料与系统",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/optics-and-photonics",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-optics-photonics-2027"],
+    "decisionReason": "官网未来预告明确 2027-08-29–09-02 返回 San Diego，按预告收录；2026 页首未移植。",
+    "nextAction": "核实 2027 具体会场、征稿/模板、注册与出版要求，页面切换后补字段。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-7dca2e8728",
@@ -488,12 +488,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "掩模、EUV；核对联合大会与子会议",
-    "sourceEntry": null,
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方明确下一届 2027-09-26–30；正文仅确认 2026 Monterey 与下一年日期，当届城市/会场未核实，保留 pending。",
+    "nextAction": "核实 2027 官方城市、会场、两子会议关系和征稿；不照搬 2026 会场/投稿材料。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-371089ec00",
@@ -516,12 +516,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "欧洲光子学综合",
-    "sourceEntry": null,
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/photonics-europe",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方明确 2028-04-02–06 会议及 4/4–5 展览；当届城市/会场未核实，Conferences 链接仍落 2026 programme，保留 pending。",
+    "nextAction": "核实 2028 官方城市/会场与征稿；不把旧 Strasbourg 页首或第三方预告当当届依据。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-b8168ba324",
@@ -553,31 +553,31 @@
   },
   {
     "candidateId": "conference-series-ed1f00d66f",
-    "name": "Remote Sensing",
-    "aliases": [],
+    "name": "SPIE Environmental Remote Sensing",
+    "aliases": ["Remote Sensing", "SPIE Remote Sensing"],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "两个相关系列，核查当届联合举办与独立征稿",
-    "sourceEntry": null,
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging/programme/conferences/environmental-remote-sensing",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方确认欧洲环境遥感为 Sensors + Imaging 子系列，现有详情为 2026；母会 2027 已收录一次，子系列不重复计数。",
+    "nextAction": "跟踪 2027 子系列独立征稿/范围；母会见 spie-sensors-imaging-2027，不把它当本候选别名或重复关联正式条目。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-52c54011b8",
-    "name": "Security + Defence",
-    "aliases": [],
+    "name": "SPIE Security + Defence（欧洲系列）",
+    "aliases": ["Security + Defence", "SPIE Security + Defence"],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "两个相关系列，核查当届联合举办与独立征稿",
-    "sourceEntry": null,
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging/programme/conferences/security--defence",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方确认欧洲 Security + Defence 为 Sensors + Imaging 子系列；与美国 Defense + Security 区分，现有详情为 2026，保留 pending。",
+    "nextAction": "核实 2027 子系列独立征稿；母会见 spie-sensors-imaging-2027，不新增同日重复母会或混合美国系列。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-12e621d438",
@@ -3829,5 +3829,19 @@
     "reviewedAt": "2026-10-02",
     "decisionReason": "官网及当届通知 PDF 确认成都 11/20–22 与会场，摘要截止版本冲突按字段保留，其他已确认日程独立收录。",
     "nextAction": "解决 9/30 与 10/25 摘要截止冲突，核实模板与真实投稿入口；全文系统 11/30 开放后继续核验。"
+  },
+  {
+    "candidateId": "conference-series-spie-sensors-imaging",
+    "name": "SPIE Sensors + Imaging",
+    "aliases": [],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "欧洲环境遥感与安全光电联合母会；两子系列另留候选，不重复计届次。",
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-sensors-imaging-2027"],
+    "decisionReason": "官网当届预告明确 2027-09-12–16 Stockholm；只记录整体母会一次，征稿/会场仍未知。",
+    "nextAction": "补 2027 征稿、会场与注册及出版规则；确认子日程与独立投稿范围。",
+    "reviewedAt": "2026-10-03"
   }
 ]

@@ -7,8 +7,8 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：74 本期刊、46 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：270 项，129 admitted、138 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：74 本期刊、49 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：271 项，132 admitted、136 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 10、EI 67。67 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 62 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，本轮现有肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
 - 交叉适配样例已有十四刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
@@ -87,7 +87,7 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 
 ## 可复制的新对话提示
 
-请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 74 本期刊、46 届会议、9 项活动是 2026-10-02 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
+请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 74 本期刊、49 届会议、9 项活动是 2026-10-03 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
 
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
@@ -120,3 +120,5 @@ E11 补 AOP 提案具体材料与非硬性四十页建议，Optica 的公开评�
 E12 修复 OEA 旧指南 404，核对 OEA/OES 当前通用稿型、初投/返修/校样及费用。跨两刊收费表备注经截图确认豁免至 2026 年底，其他刊 2027 推广不套用；正文词数为建议，2027 过渡/税/版本时点保留未知。E11 提交 cf87ba5 已验收 Pages 37044727487 和线上 862791a5…；当前草稿验证/提交/部署进度见最新日志。实际额度限制时保护未提交文件，不使用重置券；其余计划继续开放。
 
 E13 补 OEA/OES 数据可用性与补充材料规则：ScienceDB 出版阶段存储、共享范围/例外、禁运和合理请求、DAS 位置及 SI 当前 30 MB 上传限制分别记录。仅 requirements 更新，独立代码规则与模板源码内容仍未知。E12 提交 f4166f8 已补验收 Pages 37045266202 和线上 b762d13f…；本轮实际额度五小时/周均恢复允许，未使用重置券或购买。当前批次验证及部署状态见最新日志；其余规划保持开放。
+
+C4 审核六个未审系列及新确认的联合母会，新增 Optics + Photonics 2027、Sensors + Imaging 2027、Electronic Imaging 2027 三届。正式 74 刊/49 会议/9 活动；候选 271（132 admitted / 136 pending / 3 deferred）。Photonics Europe 2028 与 Photomask 2027 城市仍未知，保留候选；欧洲遥感/安全子系列不重复计母会。EI 首页延期、旧 CFP 与已关闭系统冲突，摘要截止 null、状态 closed。E13 bdffcf8 已确认 Pages 37073169839 与线上 77b6ae8d…；本批验证/提交/部署见最新日志。下一批继续薄弱方向候选、分区及期刊指南/样例。

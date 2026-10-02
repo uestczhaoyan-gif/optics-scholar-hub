@@ -2407,5 +2407,158 @@
         "source": "https://www.aomatt.org/uploads/AOMATT%202026/2026-09-16/file/1789525413273_p4ilvlpt.pdf"
       }
     ]
+  },
+  {
+    "id": "spie-optics-photonics-2027",
+    "series": "SPIE Optics + Photonics",
+    "year": 2027,
+    "name": "SPIE 光学与光子学大会 2027",
+    "nameEn": "SPIE Optics + Photonics 2027",
+    "region": "海外",
+    "location": "美国 · 圣迭戈",
+    "venue": "2027 具体会场待官方确认",
+    "start": "2027-08-29",
+    "end": "2027-09-02",
+    "topics": [
+      "综合光学",
+      "光学设计与制造",
+      "纳米与超表面",
+      "光学材料",
+      "电子与器件"
+    ],
+    "description": "SPIE 综合光学与光子学会议，系列覆盖光学工程、纳米科学及有机光子学；2027 会期与返回圣迭戈预告已公布。",
+    "website": "https://spie.org/conferences-and-exhibitions/optics-and-photonics",
+    "notice": "https://spie.org/conferences-and-exhibitions/optics-and-photonics",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026-10-03 核验官网正文的 2027 预告：8/29–9/2 返回 San Diego。2027 征稿篇幅、模板、提交入口和评审要求尚未核实。",
+      "官网页首、节目与 Presenters 当前仍属 2026；当届注册费用、论文/报告材料及截止待公布。"
+    ],
+    "publication": "2027 论文集、报告材料的出版条件及索引信息待当届通知核实。",
+    "notes": "会期/城市来自官网未来预告段，非 2026 页首或第三方日历；2027 具体会场及展览子日程仍未知，日期仅到日，不补时刻或时区。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027 摘要截止待公布",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/optics-and-photonics"
+      },
+      {
+        "type": "registration",
+        "label": "2027 注册截止待公布",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/optics-and-photonics"
+      }
+    ]
+  },
+  {
+    "id": "spie-sensors-imaging-2027",
+    "series": "SPIE Sensors + Imaging",
+    "year": 2027,
+    "name": "SPIE 传感与成像大会 2027",
+    "nameEn": "SPIE Sensors + Imaging 2027",
+    "region": "海外",
+    "location": "瑞典 · 斯德哥尔摩",
+    "venue": "2027 具体会场待官方确认",
+    "start": "2027-09-12",
+    "end": "2027-09-16",
+    "topics": ["传感与测量", "成像与计算光学", "量子光学"],
+    "description": "SPIE 欧洲传感与光子成像母会，联合 Environmental Remote Sensing 和 Security + Defence 两个子系列，覆盖环境遥感与安全光电应用。",
+    "website": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging",
+    "notice": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026-10-03 核验母会正文预告 2027-09-12–16、Stockholm Sweden；2027 征稿、模板、投稿入口、报告要求仍待公布。",
+      "现有两个子系列详情及 Presenters 是 2026 版，不移植其旧截止、专题清单或投稿材料；2027 正式规则待当届通知。"
+    ],
+    "publication": "母会官网有历届 SPIE Digital Library 论文集说明，但 2027 稿件出版条件、具体卷号与数据库检索尚未核实。",
+    "notes": "整体活动预告只计一个母会，遥感与欧洲 Security + Defence 保留独立候选关系，不再复制两份同日会议。2027 具体报告/展览子日程和会场未知；与美国 SPIE Defense + Security 2027 为不同系列。官网页首 Edinburgh 14–17 September 2026 不作下一届信息。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027 征稿截止待公布",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging"
+      },
+      {
+        "type": "registration",
+        "label": "2027 注册截止待公布",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging"
+      }
+    ]
+  },
+  {
+    "id": "electronic-imaging-2027",
+    "series": "Electronic Imaging",
+    "year": 2027,
+    "name": "IS&T 电子成像学术大会 2027",
+    "nameEn": "IS&T Electronic Imaging Symposium 2027",
+    "region": "海外",
+    "location": "美国 · 伯灵格姆",
+    "venue": "Hyatt Regency San Francisco Airport",
+    "start": "2027-01-24",
+    "end": "2027-01-27",
+    "topics": ["成像与计算光学", "传感与测量", "电子与器件", "生物医学光学"],
+    "description": "IS&T 主办的成像科学母会，以多个技术会议组成八个方向，连接光学与传感器、计算摄影、显示、感知和成像算法。",
+    "website": "https://ei2027.imaging.org/",
+    "notice": "https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2027 CFP 列两条投稿路径：1–2 页摘要说明问题、方法及预期/已完成结果；journal-first 则向 JIST/JPI 交完整稿，并注明拟在 EI 口头报告。来源：https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3",
+      "摘要路径可选仅报告（无配套出版）、会前论文集或会后论文集；全文截止分别为 2027-01-04、2027-02-21，不混作摘要投稿截止。",
+      "CFP 的 Submit now 实际指向 https://event.fourwaves.com/ei2027/submission 并跳至本会域公开提交页 https://ei2027.imaging.org/submission；页面明确 Submissions closed September 28, 2026 / Submission period is finished，未登录或提交。",
+      "首页摘要延期至 2026-10-12，但 CFP 仍写 9/28、实际系统已关闭，截止留 null 待官方统一；具体模板/评审细则、费用与登录后的流程尚未核实。"
+    ],
+    "publication": "当届 CFP 区分 presentation-only 无出版、会前/会后 proceedings 和 JIST/JPI journal-first。官网声明录用论文开放获取；本届具体论文集索引及单篇检索未核实，不能保证 EI Compendex 收录（会议缩写 EI 与数据库 EI 不是同一含义）。",
+    "notes": "IS&T 官方旧 2026 页面顶部的 2027 Save the Date 确认 Hyatt Regency San Francisco Airport / Burlingame；与 2027 官网地址 1333 Old Bayshore Highway 对应。1/24 包含 This Is Imaging 互动活动，母会整体会期 1/24–27，只计一次。计划 2026 年 10 月下旬开放注册、11/9 发布预排日程；不把开放月份或节目发布时间当注册/录用截止。首页延期、CFP 和系统关闭冲突保留；不套用页脚旧 9/28 21:00 PDT 到新的未知截止。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "Journal-first 历史投稿截止（JIST/JPI）",
+        "date": "2026-08-16",
+        "source": "https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3"
+      },
+      {
+        "type": "abstract",
+        "label": "Abstract-first 延期公告与系统关闭冲突，待确认",
+        "date": null,
+        "source": "https://ei2027.imaging.org/",
+        "note": "首页 Extended to October 12, 2026；CFP 仍为 September 28；https://ei2027.imaging.org/submission 明确 9/28 已关闭。"
+      },
+      {
+        "type": "camera-ready",
+        "label": "会前论文集全文截止",
+        "date": "2027-01-04",
+        "source": "https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3"
+      },
+      {
+        "type": "camera-ready",
+        "label": "会后论文集全文截止",
+        "date": "2027-02-21",
+        "source": "https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3"
+      },
+      {
+        "type": "notification",
+        "label": "审稿反馈分批 7–10 月，具体通知日待核实",
+        "date": null,
+        "source": "https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布（计划 2026 年 10 月下旬开放）",
+        "date": null,
+        "source": "https://ei2027.imaging.org/"
+      }
+    ]
   }
 ]
