@@ -65,3 +65,14 @@ SPIE 费用只读本刊 After Acceptance；Review/Tutorial 免 APC 在 APN 上�
 | Optica | [本刊详细页](https://opg.optica.org/content/journal/about/item/optica/about.cfm) Peer Review Process、Transfer Request、Embargo Policy                                                      | 至少两位外评、可选公开评审通信须同意、转刊决定两周内激活/目标刊审批/重投及原投稿日；科研预印本不被媒体禁发一概禁止，10am Eastern Time 不推算固定中国时刻。既有篇幅/250 词信保留，不重复作为新核验成果。                   |
 
 AOP PDF SHA-256：22bdd3de0f49559201e01efda5b8671a3f8c45fe744a4d0d06ec8d0bba18e748。正文上限/摘要/完整源码清单仍待指南；官方当前链接不等于 PDF 2026 新修订。未发送提案、请求转刊或联系任何编辑。
+
+## E12：OEA/OES 新官网投稿与 APC 政策
+
+核验日期 2026-10-03；两刊仅 guide/requirements/publishing 改变，其余 72 刊、分区/索引/样例/整刊日期保持。
+
+- OEA 旧 `oea/list/AuthorGuidelines` 浏览器返回 Error 404；页尾真实 Submission Guidelines 链接改指 [9200 投稿指南](https://www.oejournal.org/news/9200)。OES 官网 For Authors 的相同入口及 Article Types/Publication Charges 实际链接亦核对，不猜造路径。
+- [9204 稿型规则](https://www.oejournal.org/news/9204) 明确适用于全体 OEJ 刊（ROE 的类型另有限定），OEA/OES 对应 Article/Review/Letter/Perspective/News & Views/Editorial。正文指导值、摘要表列最大、参考文献/图表分别读取；Word Limit 脚注不改成不可超正文上限。
+- [9200 投稿指南](https://www.oejournal.org/news/9200) 列初投 Word 合并优先/常见分文件、ScholarOne、模板、可选 SI；返修回复清单/原记录、建议 24h 校样、复用授权。两刊 ScholarOne 具体 URL 及模板源码内容未核实，没有登录提交。
+- [9208 费用及版权](https://www.oejournal.org/news/9208) 逐行表列 OEA/OES 标准 USD 2,980/2,160/860；Note 的 Waived APC by the end of 2026 经浏览器截图确认是跨两刊合并单元格。其余刊的 2027 年推广不套两刊。标准金额不当 2027 价格承诺，CC BY 4.0、作者版权、录用后表单、邀稿/酌情减免按页面记录。after 2027 的酌情政策不猜出 2027 过渡方案，税和按何日定价未知。
+
+以上为官网当前可读政策，页面均未标修订版本日。只有实际浏览器阅读成功，web 抓取仍 403；不将抓取失败当页面缺政策。

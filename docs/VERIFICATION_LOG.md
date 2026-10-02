@@ -722,3 +722,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E11 补 AOP 提案具体材料与非硬性四十页建议，Optica 的公开评审通信、两周转刊窗口及媒体/预印本边界；未发送邮件或请求转刊。AOP 仅 guide/requirements、Optica 仅 requirements 更新，费用等其他字段保持。AOP PDF 三页文字读取、第 1 页视觉核对，Optica 详细页三节直接读取；[来源/范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
 - 修改前及与 HEAD 的逐字段断言通过；其余 72 刊和正式/候选数量保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核和 git diff --check 通过。便携 Node 24.20.0 构建成功，仅有既有单块体积提示。
+
+## 2026-10-03：OEA/OES 投稿政策 E12（两刊）
+
+- E11 提交 cf87ba54de5dca7e8ed64b924f600845cf1984f3 的 [Pages 37044727487](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37044727487) build/deploy 成功；首页/版本 HTTP 200，862791a5562d7d750f00f663f903a1c4a5133e2d0229fd773a903e2420b57098 与本地一致后开始本批。
+- E12 修复 OEA 旧指南 404，核对 OEA/OES 当前通用稿型、初投/返修/校样及费用。跨两刊收费表备注经截图确认豁免至 2026 年底，其他刊 2027 推广不套用；正文词数为建议，2027 过渡/税/版本时点保留未知。浏览器沿旧 OEA 页尾和 OES For Authors 的真实导航读取三份官方政策，跨行费用备注视觉核对；[字段/边界](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
+- 修改前及与 HEAD 的逐字段断言通过，仅两刊对应三字段变化；其他 72 刊和正式/候选数量保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核和 git diff --check 通过。便携 Node 24.20.0 构建仅有既有单块体积提示。
+- 批次验证后额度接口周窗口显示已用 100%，仍返回 ordinaryUsageAllowed=true；先按授权尝试收尾提交与部署，实际限制出现即保护当前进度，下一次五小时任务先补推/验收同一提交，不重置或购买额度。

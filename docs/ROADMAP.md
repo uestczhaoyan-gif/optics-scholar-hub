@@ -401,3 +401,7 @@ E10 补 JBO/Neurophotonics 独立作者指南与 APC，以及 APL Photonics 的�
 ### 2026-10-03：AOP/Optica 作者流程 E11
 
 E11 补 AOP 提案具体材料与非硬性四十页建议，Optica 的公开评审通信、两周转刊窗口及媒体/预印本边界；未发送邮件或请求转刊。AOP 仅 guide/requirements、Optica 仅 requirements 更新，费用等其他字段保持。[逐字段来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。全体规划保持开放，未知字段没有补猜值。
+
+### 2026-10-03：OEA/OES 投稿政策 E12
+
+E12 修复 OEA 旧指南 404，核对 OEA/OES 当前通用稿型、初投/返修/校样及费用。跨两刊收费表备注经截图确认豁免至 2026 年底，其他刊 2027 推广不套用；正文词数为建议，2027 过渡/税/版本时点保留未知。只改两刊 guide/requirements/publishing；[来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。其他期刊指南、分区、未审候选和样例仍需继续。

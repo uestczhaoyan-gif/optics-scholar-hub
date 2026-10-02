@@ -2080,12 +2080,14 @@
     "topics": ["综合光学", "纳米与超表面", "电子与器件"],
     "description": "面向光学与光电子前沿研究，覆盖光场调控、微纳器件、光电材料及应用。",
     "website": "https://www.oejournal.org/oea",
-    "guide": "https://www.oejournal.org/oea/list/AuthorGuidelines",
+    "guide": "https://www.oejournal.org/news/9200",
     "requirements": [
-      "通过期刊官网作者指南及提交入口核实当期文章类型、模板、正文和补充材料要求。",
-      "本轮作者指南正文访问受限，篇幅、格式和费用细则待补；不要依据其他同系列期刊的规则替代。"
+      "2026-10-03 核验新版 OEJ 通用稿型指南，明确适用于两刊：Article 正文建议 15,000 词、摘要表列至多 200 词、参考文献至多 100；Review 建议 30,000 词、摘要 200、参考文献 300。正文不计摘要/参考文献/图表，Word Limit 脚注说明为指导值，编辑可结合评审考虑超建议稿件。",
+      "Letter 正文建议 3,000 词、摘要表列至多 150 词、参考文献 50；Perspective 建议 6,000 词、摘要 150、图表至多 5、参考文献 100。News & Views 需事先安排且不作同行评审稿，建议 500–1,500 词、摘要 100、参考文献 15；Editorial 为邀稿，建议 1,000 词且无摘要。",
+      "官方 Submission Guidelines 指 ScholarOne 初投，优先一个 Word 文件合并正文/图表/参考文献，也接受常用格式分文件；有 Word/LaTeX 模板入口。可选 Supplementary Information 另交，完整源码/数据政策本轮未核实，不把模板链接当已验证登录系统。",
+      "返修通过原 ScholarOne 稿件记录提交修改稿、详细评审回复及修改清单，不另建新稿。校样尽快反馈，24 小时为优先建议；复用图/表须取得书面电子发表许可并附原出处。指南版本日期和两刊具体 ScholarOne URL 未核实。"
     ],
-    "publishing": "开放获取期刊；具体 APC、版权与减免以本刊现行指南及编辑部说明为准。"
+    "publishing": "2026-10-03 核验 OEJ 当前收费表：本刊 Gold OA、CC BY 4.0、作者保留版权。标准 APC（USD）：Research 2,980、Letter 2,160、News & Views 860；跨两刊合并备注明确 APC 豁免至 2026 年底，截图核对适用 OEA/OES。其他 OEJ 刊至 2027 年底的推广期不套本刊；不保证标准表即 2027 实际价。录用后由通讯作者在 ScholarOne 处理费用/版权表，邀稿可豁免；其他酌情申请须投稿时提出，政策写 after 2027，2027 过渡/税/适用投稿或录用日仍未知。来源：https://www.oejournal.org/news/9208"
   },
   {
     "checkedAt": "2026-09-11",
@@ -2145,12 +2147,14 @@
     "topics": ["综合光学", "量子光学", "纳米与超表面"],
     "description": "聚焦光学与光电子基础科学的突破性研究，适合具有普适物理认识的光场、材料和器件课题。",
     "website": "https://www.oejournal.org/oes",
-    "guide": "https://www.oejournal.org/oes",
+    "guide": "https://www.oejournal.org/news/9200",
     "requirements": [
-      "从本刊官网进入作者指南和投稿系统，核对文章类型、原始数据、图表和补充材料要求。",
-      "本轮官网正文访问受限，具体篇幅与投稿格式待核实；ESCI 不等同于 SCI/SCIE。"
+      "2026-10-03 核验新版 OEJ 通用稿型指南，明确适用于两刊：Article 正文建议 15,000 词、摘要表列至多 200 词、参考文献至多 100；Review 建议 30,000 词、摘要 200、参考文献 300。正文不计摘要/参考文献/图表，Word Limit 脚注说明为指导值，编辑可结合评审考虑超建议稿件。",
+      "Letter 正文建议 3,000 词、摘要表列至多 150 词、参考文献 50；Perspective 建议 6,000 词、摘要 150、图表至多 5、参考文献 100。News & Views 需事先安排且不作同行评审稿，建议 500–1,500 词、摘要 100、参考文献 15；Editorial 为邀稿，建议 1,000 词且无摘要。",
+      "官方 Submission Guidelines 指 ScholarOne 初投，优先一个 Word 文件合并正文/图表/参考文献，也接受常用格式分文件；有 Word/LaTeX 模板入口。可选 Supplementary Information 另交，完整源码/数据政策本轮未核实，不把模板链接当已验证登录系统。",
+      "返修通过原 ScholarOne 稿件记录提交修改稿、详细评审回复及修改清单，不另建新稿。校样尽快反馈，24 小时为优先建议；复用图/表须取得书面电子发表许可并附原出处。指南版本日期和两刊具体 ScholarOne URL 未核实。"
     ],
-    "publishing": "出版方式、APC 和版权要求需在本刊官网或向编辑部确认。"
+    "publishing": "2026-10-03 核验 OEJ 当前收费表：本刊 Gold OA、CC BY 4.0、作者保留版权。标准 APC（USD）：Research 2,980、Letter 2,160、News & Views 860；跨两刊合并备注明确 APC 豁免至 2026 年底，截图核对适用 OEA/OES。其他 OEJ 刊至 2027 年底的推广期不套本刊；不保证标准表即 2027 实际价。录用后由通讯作者在 ScholarOne 处理费用/版权表，邀稿可豁免；其他酌情申请须投稿时提出，政策写 after 2027，2027 过渡/税/适用投稿或录用日仍未知。来源：https://www.oejournal.org/news/9208"
   },
   {
     "checkedAt": "2026-09-11",
