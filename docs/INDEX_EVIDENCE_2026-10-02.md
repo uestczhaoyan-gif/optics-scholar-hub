@@ -26,3 +26,28 @@
 当前 SCIE 肯定记录 52/74、MJL 数据库依据 35 本；ESCI 8/74，其中 1 本数据库依据；EI 42/74，其中 24 本 Compendex 来源表依据。此前二十四本 SCIE 和 Compendex 表版本、行号见 [9/30 证据页](INDEX_EVIDENCE_2026-09-30.md)。未核实不等于未收录；索引与 JCR/CAS 分区继续分开。
 
 前批 B2 提交 bb22892 的 [Pages 37007435125](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37007435125) build/deploy 均成功，线上首页及 catalog-version HTTP 200，版本 6a2a5c8f548ecee0bfcf7e87fdbda4fce0f6d5ce14dfc78ddba2aa819b62d32a 与本地一致。
+
+## 批次 A6：其余核心、量子、物理与生医刊（12 本）
+
+继续按 A5 的官方 MJL 刊号方法，以下十二本均为唯一 Exact Match。十刊新增 SCIE 肯定记录；Advanced Photonics Nexus 新增 ESCI 字段，Light: Advanced Manufacturing 的 ESCI 从出版社声明升级为数据库依据，两者均不转换为 SCIE。
+
+| 期刊                              | 查询刊号  | 结果卡显示刊号        | 子库 | 来源                                                                                         |
+| --------------------------------- | --------- | --------------------- | ---- | -------------------------------------------------------------------------------------------- |
+| Advanced Photonics Nexus          | 2791-1519 | 2791-1519             | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2791-1519&hide_exact_match_fl=true) |
+| Opto-Electronic Advances          | 2096-4579 | 2096-4579 / 2097-3993 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2096-4579&hide_exact_match_fl=true) |
+| Progress in Quantum Electronics   | 0079-6727 | 0079-6727 / 1873-1627 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0079-6727&hide_exact_match_fl=true) |
+| PRX Quantum                       | 2691-3399 | 2691-3399             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2691-3399&hide_exact_match_fl=true) |
+| Science Advances                  | 2375-2548 | 2375-2548             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2375-2548&hide_exact_match_fl=true) |
+| Chinese Physics Letters           | 0256-307X | 0256-307X / 1741-3540 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0256-307X&hide_exact_match_fl=true) |
+| Sensors and Actuators B: Chemical | 0925-4005 | 0925-4005             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0925-4005&hide_exact_match_fl=true) |
+| Science Bulletin                  | 2095-9273 | 2095-9273 / 2095-9281 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2095-9273&hide_exact_match_fl=true) |
+| Proceedings of the IEEE           | 0018-9219 | 0018-9219 / 1558-2256 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=0018-9219&hide_exact_match_fl=true) |
+| Neurophotonics                    | 2329-423X | 2329-423X / 2329-4248 | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2329-423X&hide_exact_match_fl=true) |
+| Photoacoustics                    | 2213-5979 | 2213-5979             | SCIE | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2213-5979&hide_exact_match_fl=true) |
+| Light: Advanced Manufacturing     | 2689-9620 | 2689-9620 / 2831-4093 | ESCI | [MJL 结果](https://mjl.clarivate.com/search-results?issn=2689-9620&hide_exact_match_fl=true) |
+
+只更新对应索引字段，APN 新增独立 ESCI 记录；原 SCIE 未核实字段保留。Neurophotonics 原为 secondary / unverified，此次取得当前 SCIE 数据库结果。各覆盖起止年仍 null，不从 JCR 或出版年份推断；其余索引、分区和整刊日期未改。
+
+A6 结束时：SCIE 62/74，其中数据库依据 45 本；ESCI 9/74，其中数据库依据 3 本；EI 42/74（数据库依据 24 本）。剩余十二本没有 SCIE 肯定记录，包含已确认 ESCI 的期刊；不等于官方已宣布未收录或停收。
+
+前批 A5 提交 55afdd0 的 [Pages 37008171496](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37008171496) build/deploy 均成功，线上首页及目录版本 HTTP 200，版本 a5398ce7ea7f71081d084e61dbec3c3e9cc4383dacee7e973d57832db6006da3 与本地一致。

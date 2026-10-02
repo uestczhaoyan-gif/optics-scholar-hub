@@ -572,3 +572,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Frontiers of Optoelectronics 结果明确为 ESCI，已有肯定值保持，evidence 由 publisher 改为 database；其 SCIE 字段未改。SCIE 肯定记录 41→52、数据库依据 24→35；ESCI 肯定仍 8，其中数据库依据 1。EI 42（数据库 24）、JCR 61、中科院 10 不变，公开卡未给覆盖年，继续 null。
 - 逐项审核确认仅十二本对应索引字段改变，其他索引、整刊日期、指南、费用、分区和样例未改；正式目录和候选数量不变。维护队列 296→284 项字段任务，覆盖报告仍为 12 主题/269 候选；未登录 profile 或做单篇检索。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与静态入口资源检查均通过，`git diff --check` 通过。当前自动化设置保持用户授权的五小时续作。
+
+## 2026-10-02：Clarivate 索引批次 A6（12 本）
+
+- A5 提交 55afdd0 的 [Pages 37008171496](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37008171496) build/deploy 均成功，线上版本 a5398c… 与本地一致。随后才录入本批数据。
+- 同一官方 MJL 方法核对十二本的唯一 Exact Match 和结果卡子库。OEA、PQE、PRX Quantum、Science Advances、Chinese Physics Letters、Sensors and Actuators B: Chemical、Science Bulletin、Proceedings of the IEEE、Neurophotonics、Photoacoustics 十条 SCIE 从 unverified 升级为 confirmed / database；Neurophotonics 原二手线索改为当前数据库依据。各查询刊号和结果刊号见 [A6 证据页](INDEX_EVIDENCE_2026-10-02.md)。
+- APN 结果仅列 ESCI，新增独立 ESCI 记录；LAM 结果也为 ESCI，将已有 publisher 依据升级为 database。两刊 SCIE 字段继续未核实，不由影响因子或 ESCI 卡推断 SCIE。SCIE 肯定 52→62、数据库 35→45；ESCI 肯定 8→9、数据库 1→3。
+- 逐项差异审核仅十条 SCIE、一条新增 ESCI 及一条 ESCI 证据改变，其他索引、指南、费用、分区、样例与整刊日期不变，覆盖年份仍 null。正式数量及候选状态不变，维护队列 284→273 项字段任务，覆盖报告仍 12 主题/269 候选。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过，`git diff --check` 通过。
