@@ -760,3 +760,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E14 内容与范围见[证据页](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。AFM 建议长度与摘要硬限分开、初投/返修分开；三刊 ACS 各读对应三节与版本；NML 两个官方页面政策冲突保留，不臆断旧版。未上传稿件、登录或联系编辑部。
 - 长操作前检查点保存在忽略目录 work/E14_RESEARCH_2026-10-03.md；下一步执行逐字段断言、必要数据/功能/构建验证、差异审查，验证通过后提交推送并验收同一 SHA。
 - 发布前逐字段断言通过：仅 AFM/ACS Photonics/ACS Nano/Nano Letters 的 requirements 与 NML publishing 更新；其余 69 刊及其他目录完全保持。74 刊/49 会议/9 活动、271 候选、JCR 61/CAS 10、十四刊至少三篇样例保持。数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查通过；维护队列 234 项、覆盖 12 主题，68 个本地文档链接及差异审查、git diff --check 通过。构建使用已校验 Node 24.20.0，仅有既有单块体积提示。
+
+## 2026-10-03：设计/成像/激光会议 C5（七个系列层级）
+
+- E14 a21e0a0fead857d45f0f2368c320b7c1a8953cf8 的 [Pages 37076180292](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37076180292) build/deploy 成功；首页/版本 HTTP 200，7769c8aa25c00a7f02de4b6a0cc71743a04f50927d886633c4326d549d5726ca 与本地一致。首次 push 因 GitHub 连接失败未上传，随后补推同一本地提交成功，没有重复提交。
+- C5 审核六个既有系列及新确认的 ImageSense 母会，新增两届未来预告（IODC 2027、OIC 2028）及四届历史会议（Advanced Photonics 2026、Imaging 2025、ISLC 2026、ImageSense 2026）。正式 74 刊/55 会议/9 活动；候选 272（138 admitted / 131 pending / 3 deferred）。NP 隶属已收母会仍 pending，旧 Imaging 与 ImageSense 的继承关系未证实，不强行合并。[字段来源与层级](CONFERENCE_EVIDENCE_2026-10-03.md)。E14 a21e0a0 已确认 Pages 37076180292 与线上 7769c8aa…；本批必要验证已通过，提交与部署结果见最新日志；其他规划继续。
+- IODC 主页面浏览器读取，SPIE 日历使用本轮此前已读的会场依据；其他 Optica/OPG 与坦佩雷大学官方页面直接读取。受限论文集只确认登录入口，未登录、订阅更新或联系主办方；详细记录与检查点已保存。
+
+- 发布前精确断言：全部 49 届旧会议、期刊/活动/其他基础数据保持，仅追加六届并更新六个旧候选及一个新母会候选。数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查通过；维护队列 240 项字段任务、覆盖 12 主题/272 候选，102 个本地 Markdown 链接、当前数量、JCR 61/CAS 10、十四刊至少三篇样例、差异审查与 git diff --check 通过。构建用已校验 Node 24.20.0，仅有既有单块体积提示。

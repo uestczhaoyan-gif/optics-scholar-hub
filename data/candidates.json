@@ -85,17 +85,17 @@
   },
   {
     "candidateId": "conference-series-f86c122a9c",
-    "name": "Advanced Photonics Congress",
-    "aliases": [],
+    "name": "Optica Advanced Photonics Congress",
+    "aliases": ["Advanced Photonics Congress"],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "集成光子、通信、网络与器件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.optica.org/events/congress/advanced_photonics_congress/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optica-advanced-photonics-2026"],
+    "decisionReason": "本轮读取当届官方身份、会期与城市依据，按历史届次准入；征稿与出版缺口保留。",
+    "nextAction": "跟踪下一届官方通知；本届历史截止、篇幅及费用仍待核实，不按周期推算。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-4a1a73009b",
@@ -200,17 +200,20 @@
   },
   {
     "candidateId": "conference-series-812fe13b0c",
-    "name": "Imaging and Applied Optics Congress",
-    "aliases": [],
+    "name": "Optica Imaging Congress（历史 Imaging and Applied Optics）",
+    "aliases": [
+      "Imaging and Applied Optics Congress",
+      "Optica Imaging Congress"
+    ],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "成像、计算光学；核对当届组成专题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optica-imaging-2025"],
+    "decisionReason": "本轮读取当届官方身份、会期与城市依据，按历史届次准入；征稿与出版缺口保留。",
+    "nextAction": "跟踪新届通知；2026 ImageSense 现名与已知旧 Imaging 系列的继承/合并关系未确认，暂不合并候选。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-e0f7ec421a",
@@ -306,12 +309,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光学设计；核查与 ODF 的举办关系",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/international-optical-design-conference",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["iodc-2027"],
+    "decisionReason": "本轮读取当届官方身份、会期与城市依据，按未来预告准入；征稿与出版缺口保留。",
+    "nextAction": "跟踪本届官方征稿/注册与出版通知，不据预告断言系统开放。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-fc127a71af",
@@ -320,12 +323,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "半导体激光",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://events.tuni.fi/islc2026/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["islc-2026"],
+    "decisionReason": "本轮读取当届官方身份、会期与城市依据，按历史届次准入；征稿与出版缺口保留。",
+    "nextAction": "跟踪下一届官方通知；本届历史截止、篇幅及费用仍待核实，不按周期推算。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-150febea7b",
@@ -376,12 +379,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "薄膜、镀膜、光学材料",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.optica.org/events/topical_meetings/optical_interference_coatings/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["oic-2028"],
+    "decisionReason": "本轮读取当届官方身份、会期与城市依据，按未来预告准入；征稿与出版缺口保留。",
+    "nextAction": "跟踪本届官方征稿/注册与出版通知，不据预告断言系统开放。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-e6fc0bf647",
@@ -1022,12 +1025,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "核查是否独立或隶属当届 congress",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.optica.org/events/congress/advanced_photonics_congress/program/nonlinear_photonics/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "2026 当届官方页明确为 Advanced Photonics Congress 的专题，已有母会正式记录；不重复计一次同日子会议。",
+    "nextAction": "保留独立专题候选；跟踪未来独立届次/投稿与出版规则，2026 母会见 optica-advanced-photonics-2026。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-1436f76ab4",
@@ -3842,6 +3845,20 @@
     "relatedExistingIds": ["spie-sensors-imaging-2027"],
     "decisionReason": "官网当届预告明确 2027-09-12–16 Stockholm；只记录整体母会一次，征稿/会场仍未知。",
     "nextAction": "补 2027 征稿、会场与注册及出版规则；确认子日程与独立投稿范围。",
+    "reviewedAt": "2026-10-03"
+  },
+  {
+    "candidateId": "conference-series-optica-imagesense",
+    "name": "Optica ImageSense Congress",
+    "aliases": [],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "光学成像与传感母会；核对与历史 Imaging 系列关系",
+    "sourceEntry": "https://www.optica.org/events/congress/optica_imagesense_congress/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optica-imagesense-2026"],
+    "decisionReason": "当届官方母会名称、2026 会期和城市/会场已读；按一个历史届次收录，不复制十二专题。",
+    "nextAction": "核实与旧 Imaging 系列的继承/合并关系及下一届；旧系列仍独立保存，不直接设永久别名。",
     "reviewedAt": "2026-10-03"
   }
 ]

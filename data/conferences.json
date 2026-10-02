@@ -2560,5 +2560,252 @@
         "source": "https://ei2027.imaging.org/"
       }
     ]
+  },
+  {
+    "id": "iodc-2027",
+    "series": "IODC",
+    "year": 2027,
+    "name": "国际光学设计会议 2027",
+    "nameEn": "International Optical Design Conference 2027",
+    "region": "海外",
+    "location": "美国 · 诺福克",
+    "venue": "Norfolk Waterside Marriott",
+    "start": "2027-06-06",
+    "end": "2027-06-10",
+    "topics": ["光学设计与制造", "成像与计算光学", "传感与测量"],
+    "description": "面向光学设计者、工程师与研究者的系列会议；2027 由 SPIE 管理，会期和城市已公布。",
+    "website": "https://spie.org/conferences-and-exhibitions/international-optical-design-conference",
+    "notice": "https://spie.org/conferences-and-exhibitions/international-optical-design-conference",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026-10-03 核验 SPIE 当届页：2027-06-06–10、Norfolk；IODC 独立官网实际链接指向此页，并说明论文提交、酒店与注册信息随后公布。",
+      "2027 征稿篇幅、模板、摘要截止及真正投稿入口未核实；MySchedule 是日程链接，不当作提交或注册开放依据。"
+    ],
+    "publication": "2027 稿件发表条件、论文集及检索安排待当届通知，不从历届 SPIE 论文集推断。",
+    "notes": "会场来自 SPIE 官方活动日历：https://spie.org/conferences-and-exhibitions/conferences-and-exhibitions-calendar?filterEventType=conference;exhibition 。IODC 2027 独立会期与 Optica Design and Fabrication Congress 的 Antwerp 2027-04-11–15 不合并；独立系列官网 https://iodc.info/ 明确 SPIE 为 meeting manager。日期仅到日，未补时区/时刻。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027 摘要/投稿最终截止待核实",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/international-optical-design-conference"
+      },
+      {
+        "type": "registration",
+        "label": "2027 注册截止待核实",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/international-optical-design-conference"
+      }
+    ]
+  },
+  {
+    "id": "oic-2028",
+    "series": "Optica OIC",
+    "year": 2028,
+    "name": "Optica 光学干涉镀膜会议 2028",
+    "nameEn": "Optica OIC — Optical Interference Coatings Conference 2028",
+    "region": "海外",
+    "location": "加拿大 · 惠斯勒",
+    "venue": "Whistler Conference Centre",
+    "start": "2028-05-21",
+    "end": "2028-05-26",
+    "topics": ["光学设计与制造", "光学材料", "激光与非线性", "传感与测量"],
+    "description": "光学干涉镀膜系列专题会议，涵盖设计理论、材料、沉积、表征和应用；2028 会期与会场有官方预告。",
+    "website": "https://www.optica.org/events/topical_meetings/optical_interference_coatings/",
+    "notice": "https://www.optica.org/events/topical_meetings/optical_interference_coatings/",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026-10-03 从 Optica Thin Films 技术组的实际链接进入本届通知，核实 2028-05-21–26、Whistler Conference Centre。",
+      "当前页面只有身份、会期/会场、范围及更新订阅；2028 投稿材料、截止和报名入口未核实。"
+    ],
+    "publication": "2028 论文集及出版/检索条件待当届通知；2025 会议在 Applied Optics 2026 的专刊不属于 2028 投稿安排。",
+    "notes": "官方技术组同样列出会期/会场：https://www.optica.org/get_involved/technical_groups/fdi/thin_films/ 。没有根据每三年周期计算日期；未来预告不证明征稿开放。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2028 摘要/投稿最终截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/optical_interference_coatings/"
+      },
+      {
+        "type": "registration",
+        "label": "2028 注册截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/optical_interference_coatings/"
+      }
+    ]
+  },
+  {
+    "id": "optica-advanced-photonics-2026",
+    "series": "Optica Advanced Photonics Congress",
+    "year": 2026,
+    "name": "Optica 先进光子学大会 2026（历史届次）",
+    "nameEn": "Optica Advanced Photonics Congress 2026",
+    "region": "海外",
+    "location": "美国 · 长滩",
+    "venue": "Hilton Long Beach",
+    "start": "2026-07-26",
+    "end": "2026-07-30",
+    "topics": [
+      "集成光子",
+      "光通信",
+      "光学材料",
+      "激光与非线性",
+      "纳米与超表面",
+      "电子与器件"
+    ],
+    "description": "联合八个专题会议的光子学母会，覆盖光学材料、集成与特种光纤、通信信号处理等；此条为已经结束的 2026 届次。",
+    "website": "https://www.optica.org/events/congress/advanced_photonics_congress/",
+    "notice": "https://www.optica.org/events/congress/advanced_photonics_congress/",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "当前官方主页确认会期、Hilton Long Beach 与八个专题组成；2026 历史征稿篇幅、模板、最终截止及提交系统未核实。",
+      "Nonlinear Photonics（NP）当届页明确隶属本母会；本目录只计一次母会，不再创建同日子会议条目。"
+    ],
+    "publication": "官方页有 2026 Technical Digest Papers 入口，说明需登录访问；本轮未读取受限论文集全文，不作单篇 SCI/EI 检索保证。",
+    "notes": "八个专题包括 BGPP、IPR、NP、NOMA、Networks、SPPCom、SOLITH、SOF；当届范围不代表下一届仍完全相同。已结束记录供查阅，不据全年会期或年度周期推算 2027。NP 另保留候选，待独立层级及当届投稿条件。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2026 摘要/投稿最终截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/congress/advanced_photonics_congress/"
+      },
+      {
+        "type": "registration",
+        "label": "2026 注册截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/congress/advanced_photonics_congress/"
+      }
+    ]
+  },
+  {
+    "id": "optica-imaging-2025",
+    "series": "Optica Imaging Congress",
+    "year": 2025,
+    "name": "Optica 成像大会 2025（历史届次）",
+    "nameEn": "Optica Imaging Congress 2025",
+    "region": "海外",
+    "location": "美国 · 西雅图",
+    "venue": "2025 具体会场未核实",
+    "start": "2025-08-18",
+    "end": "2025-08-21",
+    "topics": ["成像与计算光学", "传感与测量", "生物医学光学"],
+    "description": "Optica 成像母会 2025 历史届次，含三维成像、计算感知、数字全息、成像系统、传播及断层成像专题。",
+    "website": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025",
+    "notice": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "当届 OPG 公开论文集页确认 2025-08-18–21、Seattle；六个组成专题只计一个母会。",
+      "历史稿件篇幅、模板、最终投稿日程、注册入口和费用未核实；此论文集页不是当前征稿通知。"
+    ],
+    "publication": "已读取 OPG 2025 公开论文集目录与会期信息；没有据论文集存在断言数据库或单篇检索。",
+    "notes": "OPG 同一 ImagingOPC 系列表将 2022 的 Imaging and Applied Optics 与 2023–2025 的 Optica Imaging Congress 放在一起：https://opg.optica.org/conference.cfm?congress=ImagingOPC 。旧官网入口本轮 404；采用当届出版社记录。2026 ImageSense 的继承/合并关系尚无明确公告，不直接作永久别名。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2025 摘要/投稿最终截止待核实",
+        "date": null,
+        "source": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025"
+      },
+      {
+        "type": "registration",
+        "label": "2025 注册截止待核实",
+        "date": null,
+        "source": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025"
+      }
+    ]
+  },
+  {
+    "id": "islc-2026",
+    "series": "ISLC",
+    "year": 2026,
+    "name": "第 30 届国际半导体激光会议 2026（历史届次）",
+    "nameEn": "30th International Semiconductor Laser Conference 2026",
+    "region": "海外",
+    "location": "芬兰 · 坦佩雷",
+    "venue": "Tampere Hall",
+    "start": "2026-06-14",
+    "end": "2026-06-17",
+    "topics": ["激光与非线性", "电子与器件", "集成光子", "光通信"],
+    "description": "半导体激光、放大器与 LED 系列会议，采用单会场报告形式；坦佩雷大学承载的当届官网确认已结束的 2026 届次。",
+    "website": "https://events.tuni.fi/islc2026/",
+    "notice": "https://events.tuni.fi/islc2026/",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "官网明确在线注册已关闭；当届最终摘要/PDP 截止、稿件篇幅、模板和真正提交入口本轮未核实。",
+      "Programme 页明确学术会议在 Tampere Hall 举行，逐日主程序为 6/14–17；可选制造可持续性 workshop 与主会议安排分开。"
+    ],
+    "publication": "当届页面有报告摘要和程序入口；论文集出版社、稿件出版要求及单篇检索未核实，不承诺 SCI/EI。",
+    "notes": "会场依据：https://events.tuni.fi/islc2026/programme/ 。网页导航另列 Thursday，但程序正文主会议日程与主页均为 6/14–17，不扩大到 6/18；不按两年周期推算下一届。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2026 摘要/投稿最终截止待核实",
+        "date": null,
+        "source": "https://events.tuni.fi/islc2026/"
+      },
+      {
+        "type": "registration",
+        "label": "2026 注册截止待核实",
+        "date": null,
+        "source": "https://events.tuni.fi/islc2026/"
+      }
+    ]
+  },
+  {
+    "id": "optica-imagesense-2026",
+    "series": "Optica ImageSense Congress",
+    "year": 2026,
+    "name": "Optica ImageSense 成像与传感大会 2026（历史届次）",
+    "nameEn": "Optica ImageSense Congress 2026",
+    "region": "海外",
+    "location": "荷兰 · 马斯特里赫特",
+    "venue": "The Maastricht Exhibition & Conference Centre",
+    "start": "2026-07-12",
+    "end": "2026-07-17",
+    "topics": ["成像与计算光学", "传感与测量", "量子光学", "光通信"],
+    "description": "汇集成像采集/处理/显示、光学传感、光谱及量子感知的 Optica 母会；官方页面确认 2026 历史届次。",
+    "website": "https://www.optica.org/events/congress/optica_imagesense_congress/",
+    "notice": "https://www.optica.org/events/congress/optica_imagesense_congress/",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "当届主页明确会期、马斯特里赫特会场和十二个专题组成；专题不单独复制为十二份同日会议。",
+      "历史摘要篇幅、最终截止、模板和提交系统未核实；与旧 Optica Imaging Congress 的继承/合并关系继续待核实。"
+    ],
+    "publication": "主页称可访问 2026 Technical Digest，实际链接进入 OPG 登录页；本轮未登录或读取受限论文全文，不作数据库检索保证。",
+    "notes": "十二个当届专题含 3D、AO、AIS、COSI、FTS、HISE、IS、LACSEA、Sensors、ES、pcAOP、QSM。本条按当届官方名称独立保存，不将旧 Imaging 系列名称强行替换，也不与八专题的 Advanced Photonics 母会混同。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2026 摘要/投稿最终截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/congress/optica_imagesense_congress/"
+      },
+      {
+        "type": "registration",
+        "label": "2026 注册截止待核实",
+        "date": null,
+        "source": "https://www.optica.org/events/congress/optica_imagesense_congress/"
+      }
+    ]
   }
 ]
