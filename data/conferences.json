@@ -2132,5 +2132,280 @@
         "note": "官网与征稿 PDF 均列此日期；已过去，不代表当前报名可用。"
       }
     ]
+  },
+  {
+    "id": "aomta-ysaom-2026",
+    "series": "AOMTA & YSAOM",
+    "year": 2026,
+    "name": "第三届国际先进光学制造技术及应用会议暨第六届先进光学制造青年科学家会议",
+    "nameEn": "3rd Conference on Advanced Optical Manufacturing Technologies & Applications and 6th Young Scientists on Advanced Optical Manufacturing Conference",
+    "region": "中国境内",
+    "location": "中国 · 南京",
+    "venue": "南京珍宝假日饭店（江宁店）",
+    "start": "2026-07-22",
+    "end": "2026-07-24",
+    "topics": ["光学设计与制造", "纳米与超表面", "光学材料", "传感与测量"],
+    "description": "先进光学制造、设计、加工与检测方向的联合学术会议；2026 南京届已举办，按当届联合活动记录一项，不将两个系列永久合并。",
+    "website": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
+    "notice": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
+    "registration": "https://b2b.csoe.org.cn/registration/YSAOM2026.html",
+    "checkedAt": "2026-10-02",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "官方页面提供中文摘要与英文摘要模板，英文摘要 500–800 词；实际投稿入口为 https://b2b.csoe.org.cn/submission/YSAOM2026.html。中文摘要具体长度、本届全文格式与最终出版材料仍待核实。",
+      "摘要分三轮，最后一轮为 2026-07-10。此为已结束历史届次，保留入口不表示当前接受投稿。",
+      "普通代表注册费 3250 元、早鸟 3050 元，学生 2250 元、早鸟 2050 元；官网要求 7/5 前完成早鸟缴费，在职研究生不适用学生价。论文发表版面费另列 2500 元（同一第一作者不超过两篇），不含住宿。"
+    ],
+    "publication": "官网列合作期刊及 SPIE 等论文出版渠道；合作、推荐或收录申请不保证录用或当届每篇 EI/SCI 检索，具体稿型及出版条件仍须核实。",
+    "notes": "官方完整日程含 7/22 报到、课程与青年活动，7/23 开幕、7/24 专题报告；中国光学工程学会 7/29 会后报道 https://csoe.org.cn/detail/2167.html 确认 7/22–24 举办，不仅使用 7/23–24 的主报告日。YSAOM 往届曾与 APCOM 联合，不能由 2026 联合关系认定两个系列永久同义。英文名称为中文标题译写。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史摘要第一轮",
+        "date": "2026-04-10",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html"
+      },
+      {
+        "type": "abstract",
+        "label": "历史摘要第二轮",
+        "date": "2026-05-20",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html"
+      },
+      {
+        "type": "abstract",
+        "label": "历史摘要最后一轮",
+        "date": "2026-07-10",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html"
+      },
+      {
+        "type": "registration",
+        "label": "历史早鸟缴费界限（官网要求此日前）",
+        "date": "2026-07-05",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
+        "note": "原文为 7/5 前缴费，未给精确时刻；不要当作当日 23:59。"
+      }
+    ]
+  },
+  {
+    "id": "lim-2027",
+    "series": "LiM",
+    "year": 2027,
+    "name": "激光制造会议 2027",
+    "nameEn": "Lasers in Manufacturing 2027",
+    "region": "海外",
+    "location": "德国 · 慕尼黑",
+    "venue": "ICM – International Congress Center Messe München",
+    "start": "2027-06-21",
+    "end": "2027-06-24",
+    "topics": ["激光与非线性", "光学设计与制造", "纳米与超表面", "传感与测量"],
+    "description": "WLT 主办的激光加工学术会议，覆盖宏观加工、微纳加工与增材制造，包括过程诊断及光学机理；与产业展同场但有独立摘要评审。",
+    "website": "https://wlt.de/node/31",
+    "notice": "https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf",
+    "registration": null,
+    "checkedAt": "2026-10-02",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "英文摘要 150 词，以纯文本填写 ConfTool 表单；官网与征稿 PDF 指向 https://www.conftool.org/lim2027/，入口已读取，旧 LiM 账户不自动迁移，需当届账户。",
+      "摘要由科学委员会评审，录取为口头或海报报告；2027-03-26 发出录用通知。当前未核实全文篇幅、模板及最终材料截止。"
+    ],
+    "publication": "当届征稿 PDF 说明主席在现场选择优秀报告供会后同行评审期刊专刊投稿；专刊仍需独立评审。2027 全体报告的统一论文集及实际索引未核实，不沿用 2025 论文集安排。",
+    "notes": "2026 年 9 月征稿 PDF 两页已抽取并视觉核对，会期、会场、150 词及两个日期一致。LiM 属 World of Photonics Congress 2027，并与 LASER World of PHOTONICS 展同场及设 CLEO 联合专题；不重复计入母会或展会。ConfTool 当前作者登录页可核实投稿入口，不能据此声称缴费注册开放；费用、注册截止及精确时区仍未知。官网时间表一处残留 LiM 2025 字样，2027 页首和 PDF 均确认本届身份。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "英文摘要截止（150 词）",
+        "date": "2027-01-31",
+        "source": "https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知",
+        "date": "2027-03-26",
+        "source": "https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布或核实",
+        "date": null,
+        "source": "https://wlt.de/node/31"
+      }
+    ]
+  },
+  {
+    "id": "siphotonics-2027",
+    "series": "IEEE SiPhotonics",
+    "year": 2027,
+    "name": "IEEE 硅光子会议 2027（原 GFP）",
+    "nameEn": "IEEE Silicon Photonics Conference 2027",
+    "region": "中国境内",
+    "location": "中国台湾 · 台北",
+    "venue": "具体会场待当届官方通知",
+    "start": "2027-04-11",
+    "end": "2027-04-14",
+    "topics": ["集成光子", "光通信", "电子与器件", "纳米与超表面"],
+    "description": "IEEE Photonics Society 硅光子器件与集成会议，延续原 Group IV Photonics 系列；适配硅光设计、材料工艺、光互连及器件集成。",
+    "website": "https://www.ieee-siphotonics.org/",
+    "notice": "https://www.ieee-siphotonics.org/paper-submission/submission-guidelines/",
+    "registration": null,
+    "checkedAt": "2026-10-02",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "2027 投稿窗口为 2026-09-18 至 10-12；官方链接指向 https://siphotonics2027.exordo.com/，本轮已读取该届系统页面，未创建账户或提交稿件。",
+      "技术稿件限两页，单倍行距、四边一英寸页边距，图表包含在两页内；另填 45 词节目摘要及 50 词作者简介。使用当届指南提供的模板，不将两页稿与短摘要混为一项。",
+      "录用后按 IEEE PDF eXpress 与版权流程处理；作者须注册并现场报告。最终稿截止与通知日期仍未核实。"
+    ],
+    "publication": "当届指南说明录用且在会场报告的论文提交 IEEE Xplore；须满足注册、报告及最终材料要求，不保证自动 EI/其他索引。",
+    "notes": "主页直接说明原系列为 International Conference on Group IV Photonics（2004 年起）；按更名维护原候选 ID，不另建 GFP 会议。2027 会期与台北依据本届主页，酒店页面仍待公布，不沿用 2026 Ottawa 会场。注册计划于 2026 年 12 月开放，没有擅定某日；注册表列 March 11 价格分界但截止时刻及实际入口未核实。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "两页技术稿件截止",
+        "date": "2026-10-12",
+        "source": "https://www.ieee-siphotonics.org/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "最终材料截止待核实",
+        "date": null,
+        "source": "https://www.ieee-siphotonics.org/paper-submission/submission-guidelines/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待核实（计划 2026 年 12 月开放）",
+        "date": null,
+        "source": "https://www.ieee-siphotonics.org/attendees/registration/"
+      }
+    ]
+  },
+  {
+    "id": "spie-defense-security-2027",
+    "series": "SPIE Defense + Security",
+    "year": 2027,
+    "name": "SPIE 防务与安全光子技术会议 2027",
+    "nameEn": "SPIE Defense + Security 2027",
+    "region": "海外",
+    "location": "美国 · 佛罗里达州奥兰多地区",
+    "venue": "Gaylord Palms Resort & Convention Center（Kissimmee）",
+    "start": "2027-04-18",
+    "end": "2027-04-22",
+    "topics": [
+      "成像与计算光学",
+      "传感与测量",
+      "光学设计与制造",
+      "激光与非线性",
+      "电子与器件"
+    ],
+    "description": "面向防务与安全应用的 SPIE 学术系列，适配红外/光电成像、探测、激光与传感器研究；根据本届官网现名及日程收录。",
+    "website": "https://spie.org/conferences-and-exhibitions/defense-and-security",
+    "notice": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters/abstract-submission-guidelines",
+    "registration": null,
+    "checkedAt": "2026-10-02",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "技术评审摘要 200–300 词、节目摘要 50–150 词，均为纯文本；报告者简介不超过 1000 字符（含空格），另填题名与作者信息。具体专题可有附加要求。",
+      "从官方 Browse call for papers 选择最适合的一项专题，再用其 Submit An Abstract 入口和 SPIE 账户提交；同一摘要只投一次，不直接把综合征稿列表当作上传表单。",
+      "录用报告者须注册缴费并按期现场报告，联系作者或报告者须先注册才能上传论文/海报；论文集材料需满足出版规范。2027-02-15 为材料系统计划开放日。"
+    ],
+    "publication": "按当届指南，现场报告并依规范和截止提交的论文、报告/海报材料，经主席或编辑批准后发表于 SPIE Digital Library 的 Proceedings of SPIE；可被要求修改或拒绝出版。官网一般索引渠道声明不等于本届或每篇的数据库检索证明。",
+    "notes": "原 Defense + Commercial Sensing 官方路径跳转至 Defense + Security，按现名更新同一候选，避免把更名当新系列。参会页确认会场地址为 6000 West Osceola Parkway, Kissimmee；主页将地区标作 Orlando。会议为 4/18–22，展览仅 4/20–22，不混用。12 月注册开放仅有月份，实际付费入口、费用与各截止时刻/时区待核实。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "技术评审摘要截止",
+        "date": "2026-10-07",
+        "source": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters/abstract-submission-guidelines"
+      },
+      {
+        "type": "notification",
+        "label": "作者通知及节目上线",
+        "date": "2027-01-06",
+        "source": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters"
+      },
+      {
+        "type": "poster",
+        "label": "海报 PDF 预览及出版材料截止",
+        "date": "2027-03-24",
+        "source": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters"
+      },
+      {
+        "type": "camera-ready",
+        "label": "论文集稿件截止",
+        "date": "2027-03-31",
+        "source": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters"
+      },
+      {
+        "type": "camera-ready",
+        "label": "口头报告幻灯片提前上传截止",
+        "date": "2027-04-16",
+        "source": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters",
+        "note": "之后须在现场 Speaker Check-in 上传。"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待核实（计划 2026 年 12 月开放）",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters"
+      }
+    ]
+  },
+  {
+    "id": "aomatt-2026",
+    "series": "AOMATT",
+    "year": 2026,
+    "name": "第十二届国际先进光学制造与检测学术会议",
+    "nameEn": "12th International Symposium on Advanced Optical Manufacturing and Testing Technologies",
+    "region": "中国境内",
+    "location": "中国 · 成都",
+    "venue": "成都空港国际会议中心",
+    "start": "2026-11-20",
+    "end": "2026-11-22",
+    "topics": [
+      "光学设计与制造",
+      "纳米与超表面",
+      "传感与测量",
+      "集成光子",
+      "成像与计算光学"
+    ],
+    "description": "先进光学制造与检测学术系列，覆盖精密制造、望远镜、自适应光学、超构光学、微纳器件与光电测量；与南京 AOMTA/YSAOM 为不同主办与系列。",
+    "website": "https://www.aomatt.org/",
+    "notice": "https://www.aomatt.org/uploads/AOMATT%202026/2026-09-16/file/1789525413273_p4ilvlpt.pdf",
+    "registration": "https://www.learningconf.cn/MeetingAttendence/Index?conferenceId=20260625-CFMT-FC51A791",
+    "checkedAt": "2026-10-02",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "官方 PDF 列摘要阶段及全文阶段；当前摘要篇幅、模板、最终适用截止与实际摘要提交页面仍待核实，不根据登录页推定投稿可用。",
+      "全文 SPIE 系统计划于 2026-11-30 开放，全文投稿截止 2027-01-01；开放晚于会期为原通知明确安排，尚未核实系统入口。",
+      "官方注册页链接至 Learning Conference 登录入口。普通代表注册 3200 元（早鸟 2800），学生 2300 元（早鸟 2000）；全文发表处理费另为 1200 元。早鸟以缴费完成为准，博士后不适用学生价。"
+    ],
+    "publication": "官方通知说明会议论文集拟入 SPIE Digital Library，并提交 EI Compendex；“提交检索”不保证已收录或每篇检索。具体全文规则与录用出版条件仍须当届通知。",
+    "notes": "官网会议通知 PDF 已抽取并视觉核对前四页：会期含 11/20 注册与学会活动，不能只取 11/21–22 报告日。会场位于成都市双流区成双大道南段 1555 号。摘要截止主页为 2026-10-25，下载通知为 2026-09-30，未找到明确延期说明，故日历保留 null 并列冲突。早鸟注册页明确 10/20 23:59 北京时间，采用 Asia/Shanghai；费用表同时写此日前缴费，边界须以官方确认及系统为准。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要截止存在官方版本冲突，待确认",
+        "date": null,
+        "source": "https://www.aomatt.org/",
+        "note": "主页 2026-10-25；会议通知 PDF 2026-09-30，未找到延期说明。"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟缴费结束",
+        "at": "2026-10-20T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://www.aomatt.org/news/398",
+        "note": "注册页 Notes 明确时刻；费用表另写此日前缴费，请提前完成并核对系统。"
+      },
+      {
+        "type": "paper",
+        "label": "会后全文投稿截止",
+        "date": "2027-01-01",
+        "source": "https://www.aomatt.org/uploads/AOMATT%202026/2026-09-16/file/1789525413273_p4ilvlpt.pdf"
+      }
+    ]
   }
 ]

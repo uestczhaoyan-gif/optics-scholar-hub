@@ -6,12 +6,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "可能联合举办，分别确认层级和独立投稿规则",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["aomta-ysaom-2026"],
+    "decisionReason": "2026 联合会议的官方页及会后报道确认南京 7/22–24，按一届联合活动收录。",
+    "nextAction": "跟踪下一届官方通知；中文篇幅及全文出版条件待核实，不把 YSAOM 认作本系列永久别名。",
+    "reviewedAt": "2026-10-02"
   },
   {
     "candidateId": "conference-series-0c69bcc1fc",
@@ -62,12 +62,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "可能联合举办，分别确认层级和独立投稿规则",
-    "sourceEntry": null,
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "2026 YSAOM 与 AOMTA 联合届次已按主系列关联 aomta-ysaom-2026，仅计一项。往届亦曾与 APCOM 联合，不能将两个系列永久合并；此候选独立层级尚待审核。",
+    "nextAction": "从官网往届链接核对 2025 APCOM/YSAOM 等组合与独立届次。避免重复关联正式条目，查清系列身份后继续审核。",
+    "reviewedAt": "2026-10-02"
   },
   {
     "candidateId": "conference-series-7c90065305",
@@ -172,17 +172,17 @@
   },
   {
     "candidateId": "conference-series-e6ae36e513",
-    "name": "Defense + Commercial Sensing",
-    "aliases": [],
+    "name": "SPIE Defense + Security",
+    "aliases": ["Defense + Commercial Sensing"],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "红外、成像、传感；检查当届系列命名",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/defense-and-security",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-defense-security-2027"],
+    "decisionReason": "原路径跳转及当届页明确现名、奥兰多地区 4/18–22、Kissimmee 会场和 10/7 摘要截止；按更名维护原系列。",
+    "nextAction": "优先跟进 10/7 截止；12 月核对真实注册入口及费用，按专题核实附加要求和论文模板。",
+    "reviewedAt": "2026-10-02"
   },
   {
     "candidateId": "conference-series-c5441ee444",
@@ -231,17 +231,22 @@
   },
   {
     "candidateId": "conference-series-aead4966a6",
-    "name": "International Conference on Group IV Photonics（GFP）",
-    "aliases": ["GFP", "International Conference on Group IV Photonics"],
+    "name": "IEEE Silicon Photonics Conference（SiPhotonics；原 GFP）",
+    "aliases": [
+      "International Conference on Group IV Photonics（GFP）",
+      "GFP",
+      "International Conference on Group IV Photonics",
+      "SiPhotonics"
+    ],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "硅光与 IV 族光子器件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.ieee-siphotonics.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["siphotonics-2027"],
+    "decisionReason": "IEEE 官网直接确认原 GFP 系列的现名、2027 台北会期及当届两页投稿规则；按更名维护原候选 ID。",
+    "nextAction": "优先跟踪 10/12 论文截止与最终稿通知；补 2027 会场及 12 月实际注册入口，不沿用 2026 酒店。",
+    "reviewedAt": "2026-10-02"
   },
   {
     "candidateId": "conference-series-16db7fbed6",
@@ -399,12 +404,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "设计、薄膜、制造、检测",
-    "sourceEntry": null,
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/optical-systems-design",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方主页给出下一届 2028-04-02–06，展览 04-04–05；页首 Strasbourg/4/12–16 明确属 2026，不认作 2028 城市。2028 具体城市尚未核实，继续候选。",
+    "nextAction": "从当届通知核实 2028 城市、会场及征稿；不沿用 2026 页首，不把展览日期作为会期。",
+    "reviewedAt": "2026-10-02"
   },
   {
     "candidateId": "conference-series-bb1bd9e19f",
@@ -989,12 +994,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学术交流和工业应用并重，确认稿件形式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://wlt.de/node/31",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["lim-2027"],
+    "decisionReason": "WLT 官网及 2027 两页征稿 PDF 确认会期、慕尼黑 ICM、150 词摘要与当届 ConfTool。",
+    "nextAction": "继续核实本届注册收费、全文规则和最终材料；专刊机会不作为全体论文出版保证。",
+    "reviewedAt": "2026-10-02"
   },
   {
     "candidateId": "conference-series-799c0350c8",
@@ -3807,5 +3812,22 @@
     "decisionReason": "当届中英文官网确认会期、会场和主办方，2027 投稿模板与表单已发布。",
     "nextAction": "复核 2027 注册页面及费用、录用通知和出版安排；已检查模板但未注明篇幅上限，全文是否必需须向会务确认。",
     "reviewedAt": "2026-09-15"
+  },
+  {
+    "candidateId": "conference-series-573426c9fe",
+    "name": "国际先进光学制造与检测学术会议（AOMATT）",
+    "aliases": [
+      "AOMATT",
+      "International Symposium on Advanced Optical Manufacturing and Testing Technologies"
+    ],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "精密光学制造、检测、微纳与自适应光学；区分 AOMTA/YSAOM",
+    "sourceEntry": "https://www.aomatt.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["aomatt-2026"],
+    "reviewedAt": "2026-10-02",
+    "decisionReason": "官网及当届通知 PDF 确认成都 11/20–22 与会场，摘要截止版本冲突按字段保留，其他已确认日程独立收录。",
+    "nextAction": "解决 9/30 与 10/25 摘要截止冲突，核实模板与真实投稿入口；全文系统 11/30 开放后继续核验。"
   }
 ]

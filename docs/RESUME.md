@@ -7,8 +7,8 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：74 本期刊、41 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：269 项，124 admitted、142 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：74 本期刊、46 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：270 项，129 admitted、138 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 10、EI 67。67 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 62 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，本轮现有肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
 - 交叉适配样例已有九刊至少 3 篇：AFM、Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics、Science Bulletin；其余仍需系统补充。最新 16 篇的日期及卷期见 [E2 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
@@ -87,10 +87,14 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 
 ## 可复制的新对话提示
 
-请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 74 本期刊、41 届会议、9 项活动是 2026-10-02 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
+请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 74 本期刊、46 届会议、9 项活动是 2026-10-02 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
 
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
 E1 已复核六本作者指南，五本补稿型、文件、入口或费用，Science Advances 安全验证限制保留。NC、两本 npj、Communications Physics、Science Bulletin 的已核实字段见 [E1 证据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)，不从零重复这些字段；整刊日期、分区和索引不刷新，其他政策及交叉样例仍需补。C2 提交 822489d 已确认部署与线上版本，当前正式数量不变。
 
 E2 为五本交叉刊补十六篇近两年光学样例，累计九刊至少三篇。三篇 Science Bulletin 正式论文来自不同期次，另有一篇在线校正稿；首次上线日期与卷期日分开。仅 scopeExamples 更新，前批 E1 提交 09a2bcf 已验收 Pages 37014294734 与线上版本。剩余指南、分区和候选仍继续。
+
+C3 已审核七系列，新增南京 AOMTA/YSAOM 历史联合届、LiM 2027、SiPhotonics 2027（原 GFP）、SPIE Defense + Security 2027（原 DCS）及成都 AOMATT 2026。正式 46 届、候选 270（129 admitted / 138 pending / 3 deferred）。优先跟踪 10/7 SPIE 与 10/12 SiPhotonics 截止；AOMATT 摘要 9/30 与 10/25 官方冲突保留 null，早鸟明确 10/20 23:59 北京时间。YSAOM 独立层级及 OSD 2028 城市仍待核实。E2 提交 a3c6406 已确认 Pages 37016214730 和线上版本。
+
+本地构建恢复说明：捆绑 Node 24.19.0 在 C3 构建完成后出现 Windows libuv 退出断言；官方 24.20.0 已含修复，本轮经官方 SHA-256 校验的便携二进制位于忽略目录 work/node24.20/node.exe，直接运行 vinext CLI 与 prepare-static.mjs 已通过。全局运行时及锁文件未改；恢复时若该临时文件不在，按官方发布页获取并校验，不把崩溃退出标成功。

@@ -651,3 +651,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 五刊新增十六篇近两年光学样例；Nature 系按本刊 Published 日期，Science Bulletin 三篇从出版社 PDF 确认首次上线，与第 6/10/22 期日期分开。在线校正稿明确无正式卷期，连续出版刊不编期号；理论与数值结果不描述成新实验。原题及每篇适配见 [E2 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 逐刊断言只新增 scopeExamples，原四刊样例、索引、分区、指南/费用与整刊日期均保持；正式 74 刊/41 届会议/9 项活动及候选 269 项不变。九刊现有至少三篇，其他交叉刊仍开放。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查均通过；维护队列 206 项、覆盖 12 主题/269 候选，差异审查和 git diff --check 通过。单块体积提示与前批一致，构建成功。
+
+## 2026-10-02：会议核验 C3（七系列）
+
+- E2 提交 a3c6406 的 [Pages 37016214730](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37016214730) build/deploy 成功，线上首页及版本 HTTP 200，6008ec6c5b59cb364d47be0f136b345a05e11eec5930733e5183de915eb4c929 与本地一致后开始本批。
+- 七系列审核新增五届，逐项来源见 [C3 证据](CONFERENCE_EVIDENCE_2026-10-02.md)。LiM 两页 PDF、AOMATT 第 1–4 页已抽取及视觉核对；SPIE 更名、规则/会场及 IEEE 现名/投稿直接读当届页面。四届未来、一届历史联合，正式 74 刊/46 届会议/9 项活动；候选 270（129 admitted / 138 pending / 3 deferred）。
+- 原 GFP/DCS 按现名更名，不增同义系列；南京 AOMTA/YSAOM 联合届只关联主系列，YSAOM 保持 pending 待独立层级核实。OSD 2028 当届城市未知，旧 2026 页首不套用。AOMATT 与南京制造会为不同系列，摘要截止两官方版本冲突留 null，其他一致日程与真实注册入口独立记录。
+- 断言所有旧正式会议及无关候选深度相同；期刊/活动未改。只有注册页明确时刻的 AOMATT 早鸟使用 at/Asia/Shanghai，其他截止只写 date。各出版/索引声明与录用条件分开。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项字段任务、覆盖 12 主题/270 候选，差异审查和 git diff --check 通过。
+- 本地 Node 24.19.0 在预渲染完成后触发 Windows libuv 退出断言。按 [Node 官方 24.20.0 发布说明](https://nodejs.org/en/blog/release/v24.20.0)使用临时便携二进制（官方 SHA-256 校验通过）重建成功，未改全局运行时、依赖锁文件或 CI。不能把前两次非零退出记为构建成功；最终验证采用 24.20.0，构建仍仅有既有单块体积提示。
