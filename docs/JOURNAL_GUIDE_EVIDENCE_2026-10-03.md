@@ -54,3 +54,14 @@ TMI FAQ 仍留 ScholarOne 用语，而当前主指南明确 IEEE Author Portal�
 JBO 直接列出 Significance/Aim/Approach/Results/Conclusions 五类结构。Neurophotonics 的 Original research 稿型栏注明 requires a structured abstract，但 Parts 的 Abstract 只说 200 词及目标/方法/结果/意义，没有列分段标题。本轮保留其结构标题未知，不抄用 JBO。两刊 CRediT 必填而 ORCID 为鼓励；一般代码/数据声明允许解释限制，只有 Neurophotonics Data Paper 明确发表时公开数据。伦理正文只记录适用研究要求，没有操作任何人/动物或提交伦理申请。
 
 SPIE 费用只读本刊 After Acceptance；Review/Tutorial 免 APC 在 APN 上有声明，在这两刊本轮未见，不能推定同样免收。Neurophotonics 的 Enhanced APC 出现在推广建议，是可选服务，不混入基础 APC。
+
+## E11：AOP 提案与 Optica 编辑流程
+
+核验日期 2026-10-03，AOP 仅 guide/requirements、Optica 仅 requirements 更新，费用、其余 72 刊及分区/索引/样例/整刊日期保持。
+
+| 期刊   | 官方来源                                                                                                                                                                                    | 新核验字段与边界                                                                                                                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AOP    | [本刊页](https://opg.optica.org/content/journal/about/item/aop/) Submission Information、[提案 PDF](https://opg.optica.org/aop/journal/aop/pdfs/Proposal-Details.pdf) 第 1–3 页，未标修订日 | 潜在作者可提案，完整长稿仍邀稿；Review/Tutorial 不鼓励少于 40 页（不计参考文献），不是硬下限；选题必要性、近五年文献/近期综述、发展影响、作者资历、团队/关键词、完成日期。建议未套 Roadmap。第 1 页页数建议渲染视觉核对。 |
+| Optica | [本刊详细页](https://opg.optica.org/content/journal/about/item/optica/about.cfm) Peer Review Process、Transfer Request、Embargo Policy                                                      | 至少两位外评、可选公开评审通信须同意、转刊决定两周内激活/目标刊审批/重投及原投稿日；科研预印本不被媒体禁发一概禁止，10am Eastern Time 不推算固定中国时刻。既有篇幅/250 词信保留，不重复作为新核验成果。                   |
+
+AOP PDF SHA-256：22bdd3de0f49559201e01efda5b8671a3f8c45fe744a4d0d06ec8d0bba18e748。正文上限/摘要/完整源码清单仍待指南；官方当前链接不等于 PDF 2026 新修订。未发送提案、请求转刊或联系任何编辑。

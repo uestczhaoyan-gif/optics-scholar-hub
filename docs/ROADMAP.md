@@ -397,3 +397,7 @@ E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 
 ### 2026-10-03：生医指南与 AIP 费用 E10
 
 E10 补 JBO/Neurophotonics 独立作者指南与 APC，以及 APL Photonics 的明确 Gold OA 费用和 APR 的通用 Author Select 政策边界。JBO 五段摘要、Neurophotonics 未列结构标题与 Data Paper 数据公开规则分别保留。只改两刊指南/费用和两刊费用；[来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。其他 70 刊、现有数量和分区/索引/样例保持；其余核心/中文刊指南、分区与候选待继续。
+
+### 2026-10-03：AOP/Optica 作者流程 E11
+
+E11 补 AOP 提案具体材料与非硬性四十页建议，Optica 的公开评审通信、两周转刊窗口及媒体/预印本边界；未发送邮件或请求转刊。AOP 仅 guide/requirements、Optica 仅 requirements 更新，费用等其他字段保持。[逐字段来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。全体规划保持开放，未知字段没有补猜值。

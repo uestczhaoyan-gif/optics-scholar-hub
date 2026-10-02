@@ -114,3 +114,5 @@ E8 补 LSA、Nanophotonics、HPL、AP、APN 五刊的本刊指南、模板/稿�
 E9 补 TMI、TIP、TGRS、JLT 四刊投稿/正式页数、文件和费用；TMI 初投 10 页与正式超 8 页收费分开，TGRS 2026 规则与 1/1 边界保留，JLT 当前通用八页与 2026 专题七页差异明确。只改 guide/requirements/publishing。E8 提交 60e68cb 已验收 Pages 37042440728 与线上 bd15d286…；验证/提交/部署仍按最新日志收尾。其他 IEEE、生医/制造、中文刊、分区/会议候选继续开放。
 
 E10 补 JBO/Neurophotonics 独立作者指南与 APC，以及 APL Photonics 的明确 Gold OA 费用和 APR 的通用 Author Select 政策边界。JBO 五段摘要、Neurophotonics 未列结构标题与 Data Paper 数据公开规则分别保留。E9 提交 10850ae 已确认 Pages 37043688668 和线上 15900bb9…；验证与新提交的部署收尾看最新日志，未将全部规划标完成。
+
+E11 补 AOP 提案具体材料与非硬性四十页建议，Optica 的公开评审通信、两周转刊窗口及媒体/预印本边界；未发送邮件或请求转刊。AOP 仅 guide/requirements、Optica 仅 requirements 更新，费用等其他字段保持。E10 提交 58ac01a 已确认 Pages 37044291954、线上 60d8a99b…；下一批仍可继续其他刊指南、分区/会议候选与样例，按实际额度保存续接。

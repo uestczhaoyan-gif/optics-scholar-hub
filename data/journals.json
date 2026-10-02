@@ -162,11 +162,12 @@
     "topics": ["综合光学"],
     "description": "以光学与光子学的系统综述和教程为特色，适合建立领域知识框架；投稿前先确认综述提案及邀稿政策。",
     "website": "https://opg.optica.org/aop/home.cfm",
-    "guide": "https://opg.optica.org/content/author/portal/",
+    "guide": "https://opg.optica.org/content/journal/about/item/aop/",
     "requirements": [
-      "长篇综述、tutorial 和 roadmap 为邀稿；准备此类稿件前先按官方流程联系编辑，不能按普通研究论文直接投稿。",
-      "先核对本刊研究范围与稿件类型，用本刊作者指南准备正文、图表、参考文献及补充材料。",
-      "通过官网作者入口进入投稿系统，检查作者署名、数据可用性、利益冲突与版权声明；不要将投稿系统回执视为录用。"
+      "2026-10-03 核验：长综述、Tutorial、Roadmap 为邀稿，但任何潜在作者均可先向编辑提交提案（aopmss@optica.org），不将提案资格当作完整稿件已获邀请。Review/Tutorial 的官方 Proposal Requirements PDF 未标修订日期。",
+      "Review/Tutorial 须平衡介绍多个活跃团队的工作，不只是作者自身成果；PDF 不鼓励少于 40 页（不含参考文献），属于建议而非已核实硬性下限，正文上限仍未知。Tutorial 面向学生和非本领域读者，鼓励合适的图/动画/视频。",
+      "提案列全体作者/单位与通讯作者；说明此时选题必要性、近五年重要文献与其他近期综述；Review 说明未来发展，Tutorial 说明近期突破的影响与方向。另附作者资格/相关论文、具体关键词、拟覆盖关键团队及现实完成日期。",
+      "提案流程依据：https://opg.optica.org/aop/journal/aop/pdfs/Proposal-Details.pdf；完整稿件沿本刊作者中心/Prism 入口准备，摘要/模板/文件细则本轮未核实，PDF 的 Review/Tutorial 建议不擅自套到 Roadmap。"
     ],
     "publishing": "2026-10-02 核验：Optica 官方收费页明确 Advances in Optics and Photonics 不收发表费用。稿型与邀稿流程仍按本刊指南核对。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",
@@ -224,7 +225,10 @@
     "requirements": [
       "官网列出的稿型篇幅为 Letter 4 页、Research Article 6–8 页、Mini-review 8–12 页；使用本刊模板，具体排版要求由作者入口确认。",
       "Letter 和 Research Article 需附 250 词投稿信，说明概念创新及对更广泛光学群体的预期影响；标题和摘要需让非本细分方向读者理解。",
-      "Mini-review 通常邀稿；有意投稿者可先联系主编提出主题。通过官网 Submit a Paper 进入 Prism 投稿系统，常规研究需突出广泛意义与技术严谨性。"
+      "Mini-review 通常邀稿；有意投稿者可先联系主编提出主题。通过官网 Submit a Paper 进入 Prism 投稿系统，常规研究需突出广泛意义与技术严谨性。",
+      "2026-10-03 补核本刊详细页：通过编辑初筛的 Letter/Research Article 通常由至少两位外部评审审理；可选公开决策信、匿名评审意见和作者回复，须作者/评审同意，不默认公开评审身份或通信。",
+      "有转刊选项的决定须在决定信后两周内经 Prism 激活，作者同意并选目标刊、附给新编辑的简述；目标编辑可同意或拒绝。同意后保留原投稿日并按目标刊格式/长度完成重投；拒绝后再投稿为新稿。转刊不等于录用。",
+      "允许与科研同行讨论、预印本和会议报告；媒体宣传遵守本刊新闻禁发规则，发表日美国东部时间 10:00 解禁，具体文章日期仍按通知，不推算成所有月份固定北京时间。"
     ],
     "publishing": "2026-10-02 核验本刊开放获取收费：Letter（至多 4 页）/memorandum（至多 2 页）USD 2,910；Research Article（至多 8 页）USD 3,460；超过 8 页每页 USD 145；符合条件的 CC BY 基础价分别 USD 3,160（≤4 页）/3,710（5–8 页）。官方表生效日 2026-01-01，录用后支付 APC；税费及价格按投稿或录用日适用的细则未明确。来源：https://opg.optica.org/content/author/portal/item/review-pub-charge?section=apcs/",
     "schedule": "常规稿件通常全年受理；专题 / 邀稿另有安排。初审、同行评审、返修、录用和上线分别计时，具体周期以编辑部为准。",

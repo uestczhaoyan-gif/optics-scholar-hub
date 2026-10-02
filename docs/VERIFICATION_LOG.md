@@ -715,3 +715,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E10 补 JBO/Neurophotonics 独立作者指南与 APC，以及 APL Photonics 的明确 Gold OA 费用和 APR 的通用 Author Select 政策边界。JBO 五段摘要、Neurophotonics 未列结构标题与 Data Paper 数据公开规则分别保留。SPIE 浏览器逐刊读三页签，AIP OA 当前页面直接读取；两个独立 AIP Publication Charges 页不可读，未宣称本刊独立费用核验成功。[具体来源](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
 - 修改前及与 HEAD 的逐字段断言通过：两刊仅 guide/requirements/publishing，AIP 两刊仅 publishing 改变；其他 70 刊及分区/索引/样例/整刊日期保持。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核和 git diff --check 通过。便携 Node 24.20.0 构建仅有既有单块体积提示。
+
+## 2026-10-03：AOP/Optica 作者流程 E11（两刊）
+
+- E10 提交 58ac01a9b7c4740eefd2e0fc03f5ebc238d7093f 的 [Pages 37044291954](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37044291954) build/deploy 成功；首页/版本 HTTP 200，60d8a99be91d109c804eab01077270b21c0f9b48a888b0d012be9e49fec56103 与本地一致后开始本批。
+- E11 补 AOP 提案具体材料与非硬性四十页建议，Optica 的公开评审通信、两周转刊窗口及媒体/预印本边界；未发送邮件或请求转刊。AOP 仅 guide/requirements、Optica 仅 requirements 更新，费用等其他字段保持。AOP PDF 三页文字读取、第 1 页视觉核对，Optica 详细页三节直接读取；[来源/范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。
+- 修改前及与 HEAD 的逐字段断言通过；其余 72 刊和正式/候选数量保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 223 项、覆盖 12 主题/270 候选，差异审核和 git diff --check 通过。便携 Node 24.20.0 构建成功，仅有既有单块体积提示。
