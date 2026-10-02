@@ -34,3 +34,44 @@
 ## 差异范围与后续
 
 本批只新增五刊 scopeExamples；已有四刊样例保留，累计九刊至少三篇。指南/费用、分区、索引和整刊 checkedAt 不刷新。下一批继续其他交叉刊、分区版本及未审会议候选；不重复这十六篇的日期核验。
+
+## E4：五刊十五篇
+
+本批窗口仍为 2024-10-02 至 2026-10-02，逐篇核对出版社题名、Published/First published、摘要和正式出版身份。NML 为连续出版，仅列卷和文章号；其余四刊取不同卷/期组合。NML 的 2024 年首次上线论文归入 2025 年卷，InfoMat 智能窗首次上线在 2025 年但归入 2026 年卷，不替换首次日期。没有以 Accepted 或卷期月份作为首次发表日。
+
+| 期刊                    | 官方原题与文章来源                                                                                                                                                                                                                 | 首次发表   | 出版信息                 | 适配与边界                                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Nano-Micro Letters      | [Low-Temperature Fabrication of Stable Black-Phase CsPbI3 Perovskite Flexible Photodetectors Toward Wearable Health Monitoring](https://link.springer.com/article/10.1007/s40820-024-01565-4)                                      | 2024-11-15 | 17, 63 (2025)            | 低温制备黑相 CsPbI₃ 薄膜并构建柔性光探测器，用于成像与光电容积脉搏检测实验，适配光电材料和可穿戴光学；不作为临床验证。               |
+| Nano-Micro Letters      | [Single-Crystal Diamond Nanowires Embedded with Platinum Nanoparticles for High-Temperature Solar-Blind Photodetector](https://link.springer.com/article/10.1007/s40820-025-01746-9)                                               | 2025-04-16 | 17, 220 (2025)           | 嵌入铂纳米粒子的金刚石纳米线实现高温深紫外日盲光探测，适配光电器件、等离激元及严苛环境光学探测。                                     |
+| Nano-Micro Letters      | [Enhancing Ultraviolet Stability and Operational Durability of Perovskite Photodetectors by Incorporating Chlorine into Thermally-Switchable Tautomeric Passivators](https://link.springer.com/article/10.1007/s40820-025-02015-5) | 2026-01-05 | 18, 178 (2026)           | 含氯钝化剂调控缺陷及电荷提取，实验评估钙钛矿光探测器的紫外与环境稳定性；适配光电材料及器件可靠性，不外推实际服役寿命。               |
+| Science China Materials | [Grain size control in quasi-two-dimensional perovskite thin film via intermediate phase engineering for efficient bound exciton generation](https://link.springer.com/article/10.1007/s40843-024-3127-5)                          | 2024-10-29 | 67(12), 3925–3931 (2024) | 中间相工程控制薄膜晶粒，结合飞秒瞬态吸收实验研究束缚激子动力学与受激发射阈值，适配发光材料和超快光谱；激光器应用为研究展望。         |
+| Science China Materials | [Self-recoverable broadband near-infrared mechanoluminescence in Cr3+-doped MgO](https://link.springer.com/article/10.1007/s40843-025-3515-0)                                                                                      | 2025-10-10 | 68(12), 4440–4447 (2025) | Cr³⁺ 掺杂 MgO 的近红外应力发光及非破坏光学检测，适配发光材料与传感；生物应力成像为模拟模型，不当作临床或体内验证。                   |
+| Science China Materials | [Solvent-hydrolysis-driven engineering of ordered single quantum well 2D perovskites](https://link.springer.com/article/10.1007/s40843-025-3977-8)                                                                                 | 2026-05-14 | 69(8), 4594–4603 (2026)  | DMF 水解生成的二甲胺调控结晶，制备有序单量子阱薄膜与光探测器并评估光响应及稳定性，适配材料生长和光电探测；大规模成像集成为展望。     |
+| PRX Quantum             | [Atom-Mediated Deterministic Generation and Stitching of Photonic Graph States](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010340)                                                                          | 2025-03-04 | 6(1), 010340 (2025)      | 理论方案利用光学谐振腔中的原子节点生成与拼接光子图态，适配腔量子电动力学及量子光子网络；不描述成已建成网络实验。                     |
+| PRX Quantum             | [Tailoring Fusion-Based Photonic Quantum Computing Schemes to Quantum Emitters](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020304)                                                                          | 2025-04-04 | 6(2), 020304 (2025)      | 理论与数值分析适配量子发射体的光子融合架构，研究光子损失、可区分性及自旋噪声等约束，适配量子光学与光子计算；不是完整量子计算机演示。 |
+| PRX Quantum             | [Enhancing Optical Imaging via Quantum Computation](https://journals.aps.org/prxquantum/abstract/10.1103/s94k-929p)                                                                                                                | 2026-01-27 | 7(1), 010318 (2026)      | 将光子振幅编码到量子比特寄存器，研究未分辨光源的量子成像算法，适配量子光学与计算成像；天文应用是方案场景，不代表新系外行星观测。     |
+| InfoMat                 | [Thin-film event-based vision sensors for enhanced multispectral perception beyond human vision](https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.70007)                                                                       | 2025-03-09 | 7(7), e70007 (2025)      | 氧化物 p–n 结结合光伏与热释电机制形成两端薄膜事件传感器，实验展示弱光边缘提取及多光谱手势识别，适配光探测与类脑视觉。                |
+| InfoMat                 | [Circularly polarized laser from three-dimensional perovskite induced by intramolecular interaction](https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.70061)                                                                   | 2025-08-27 | 7(11), e70061 (2025)     | 手性分子与三维钙钛矿的相互作用实现圆偏振激光，适配手性发光材料、偏振光学及微纳光源。                                                 |
+| InfoMat                 | [Next-generation photochromic smart window: Wood-derived cellulose flexible composites integrated thermal insulation, UV-shielding, and anti-counterfeiting](https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.70049)           | 2025-09-23 | 8(1), e70049 (2026)      | 木源纤维素复合薄膜结合光致变色、荧光和紫外屏蔽，研究智能窗及防伪应用，适配功能光学材料；卷属 2026 年，首次上线在 2025 年。           |
+| Advanced Science        | [High-Speed Design of Multiplexed Meta-Optics Enabled by Physics-Driven Self-Supervised Network](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509242)                                                              | 2025-07-30 | 12(40), e09242 (2025)    | 物理驱动自监督网络映射全息图与超原子结构，计算设计波长、偏振和深度复用超全息，适配计算光学与微纳器件设计；计算加速不等于制造通量。   |
+| Advanced Science        | [Polarization-Improved Bidirectional-Pump Atomic Magnetometer Based on Spin-Decoupled Metasurface](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509028)                                                            | 2025-07-06 | 12(37), e09028 (2025)    | 超表面同时调控圆偏振泵浦及线偏振探测，实验改善原子磁力计偏振均匀性和磁场检测，适配量子光学、偏振器件与精密测量。                     |
+| Advanced Science        | [Reconfigurable, Temperature Resilient Phase-Change Metasurfaces Fabricated via High Throughput Nanoimprinting Lithography](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521515)                                   | 2026-03-26 | 13(27), e21515 (2026)    | TiO₂ 纳米压印骨架结合 Sb₂Se₃ 相变层，实验实现近/中红外滤波调制及可见至近红外手性响应切换，适配光学制造与可重构微纳光子器件。         |
+
+### 卷期补充依据
+
+Springer 文章页只展示卷/页，Wiley/APS 文章页部分显示不完整时，另核对出版社向 Crossref 登记的公开记录，issue 与 published-online 分开读取。以下 DOI 均有卷期字段；未从文章号或页码推算期号。
+
+- [10.1007/s40843-024-3127-5 的 Crossref 登记](https://api.crossref.org/works/10.1007%2Fs40843-024-3127-5)。
+- [10.1007/s40843-025-3515-0 的 Crossref 登记](https://api.crossref.org/works/10.1007%2Fs40843-025-3515-0)。
+- [10.1007/s40843-025-3977-8 的 Crossref 登记](https://api.crossref.org/works/10.1007%2Fs40843-025-3977-8)。
+- [10.1103/PRXQuantum.6.010340 的 Crossref 登记](https://api.crossref.org/works/10.1103%2FPRXQuantum.6.010340)。
+- [10.1103/PRXQuantum.6.020304 的 Crossref 登记](https://api.crossref.org/works/10.1103%2FPRXQuantum.6.020304)。
+- [10.1103/s94k-929p 的 Crossref 登记](https://api.crossref.org/works/10.1103%2Fs94k-929p)。
+- [10.1002/inf2.70007 的 Crossref 登记](https://api.crossref.org/works/10.1002%2Finf2.70007)。
+- [10.1002/inf2.70061 的 Crossref 登记](https://api.crossref.org/works/10.1002%2Finf2.70061)。
+- [10.1002/inf2.70049 的 Crossref 登记](https://api.crossref.org/works/10.1002%2Finf2.70049)。
+- [10.1002/advs.202509242 的 Crossref 登记](https://api.crossref.org/works/10.1002%2Fadvs.202509242)。
+- [10.1002/advs.202509028 的 Crossref 登记](https://api.crossref.org/works/10.1002%2Fadvs.202509028)。
+- [10.1002/advs.202521515 的 Crossref 登记](https://api.crossref.org/works/10.1002%2Fadvs.202521515)。
+
+只新增五刊 scopeExamples；累计十四刊至少三篇。PRX Quantum 的三篇为理论/计算研究，材料刊中的模拟生医场景不外推临床结果；同主题微波/超声论文、封面图片与首次上线早于窗口的论文未计入。其余交叉期刊、指南、分区与候选任务仍开放。

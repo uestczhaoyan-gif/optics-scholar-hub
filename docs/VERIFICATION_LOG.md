@@ -667,3 +667,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Advanced Materials 泛化描述换成本刊作者指南，长度建议与硬限、Free Format 初投与返修分别记录。五刊新增官方 APC，保留定价时点、税/机构减免边界；InfoMat 历史免收不当作当前费用，SCM 无 OA APC 不等于无版面费。具体来源见 [E3 证据](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
 - PRX Quantum 本刊篇幅按四类分开；NML/SCM 官方 Submit 链接已核对，但入口 403，未宣称登录流程已验证。逐刊断言只变 guide/requirements/publishing，索引、分区、样例、整刊日期及会议/候选未改，正式 74 刊/46 届会议/9 活动，候选 270（129 admitted / 138 pending / 3 deferred）。
 - 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过。维护队列 223 项、覆盖 12 主题/270 候选，git diff --check 通过；本地构建使用已校验的官方 Node 24.20.0 便携运行时，未改依赖。
+
+## 2026-10-02：交叉适配 E4（五刊）
+
+- E3 提交 3fcbeeb 的 [Pages 37019694610](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37019694610) build/deploy 成功，线上首页/版本 HTTP 200，0780d3ccc4cec636cee248e7827f541e905c71d43968cb36d76707ade1f2fe55 与本地一致后修改本批。
+- 五刊各补三篇近两年光学论文，逐篇核对题名、首次发表与摘要；另以出版社 Crossref 登记核对四刊卷期。NML 连续出版列卷/文章号，首次发表与归入卷期跨年分开；具体原题、卷期和适配见 [E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
+- 逐刊断言只新增五刊 scopeExamples，其余 69 刊、索引、分区、指南/费用和整刊核验日期不变；累计十四刊至少三篇。正式 74 刊/46 届会议/9 项活动，候选 270（129 admitted / 138 pending / 3 deferred）保持。
+- 发布前数据校验、26 项测试、typecheck、lint、Pages 子路径构建与六个入口资源检查通过。维护队列 223 项、覆盖 12 主题/270 候选；与 HEAD 的逐字段差异检查及 git diff --check 通过。构建采用已校验的 Node 24.20.0 便携运行时，仍只有既有单块体积提示。

@@ -10,7 +10,7 @@
 - 正式目录：74 本期刊、46 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：270 项，129 admitted、138 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 10、EI 67。67 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 62 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，本轮现有肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
-- 交叉适配样例已有九刊至少 3 篇：AFM、Nature Electronics、Nature Materials、Nature Nanotechnology、Nature Communications、npj Quantum Materials、npj Quantum Information、Communications Physics、Science Bulletin；其余仍需系统补充。最新 16 篇的日期及卷期见 [E2 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
+- 交叉适配样例已有十四刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
 
 ## 恢复时先做
@@ -100,3 +100,5 @@ C3 已审核七系列，新增南京 AOMTA/YSAOM 历史联合届、LiM 2027、Si
 本地构建恢复说明：捆绑 Node 24.19.0 在 C3 构建完成后出现 Windows libuv 退出断言；官方 24.20.0 已含修复，本轮经官方 SHA-256 校验的便携二进制位于忽略目录 work/node24.20/node.exe，直接运行 vinext CLI 与 prepare-static.mjs 已通过。全局运行时及锁文件未改；恢复时若该临时文件不在，按官方发布页获取并校验，不把崩溃退出标成功。
 
 E3 补六刊指南或收费：Advanced Materials 本刊稿型/材料，NML、SCM、Advanced Science、InfoMat、PRX Quantum 的官方 APC（区分录用/投稿日、税及减免）。ScholarOne 两入口被 403，仅确认官方链接，不声称登录后流程已核验；NML 邮件遗留与 SCM 版面费仍待补。C3 提交 56d1d9c 已验收 Pages 37018974566 和线上版本。索引、分区、样例及整刊日期保持，继续剩余任务。
+
+E4 为 NML、SCM、PRX Quantum、InfoMat、Advanced Science 各补三篇近两年光学论文，累计十四刊至少三篇；SCM/Wiley/APS 另核对 Crossref 出版社登记卷期，NML 连续出版不造期号。仅改样例，索引、分区、指南和整刊日期保持。E3 提交 3fcbeeb 已确认 Pages 37019694610 和线上版本。其余规划继续开放。

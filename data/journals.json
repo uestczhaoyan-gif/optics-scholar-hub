@@ -1983,6 +1983,26 @@
         "coverageEnd": null,
         "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4112 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配；中文表（2026-07-10 版）第 305 行为 2026 Renewed（保持收录）。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
+    ],
+    "scopeExamples": [
+      {
+        "title": "低温黑相钙钛矿柔性光探测器用于可穿戴监测",
+        "source": "https://link.springer.com/article/10.1007/s40820-024-01565-4",
+        "publishedAt": "2024-11-15",
+        "relevance": "2026-10-02 核验。低温制备黑相 CsPbI₃ 薄膜并构建柔性光探测器，用于成像与光电容积脉搏检测实验，适配光电材料和可穿戴光学；不作为临床验证。 出版信息：17, 63 (2025)。"
+      },
+      {
+        "title": "铂纳米粒子嵌入金刚石纳米线的高温日盲探测器",
+        "source": "https://link.springer.com/article/10.1007/s40820-025-01746-9",
+        "publishedAt": "2025-04-16",
+        "relevance": "2026-10-02 核验。嵌入铂纳米粒子的金刚石纳米线实现高温深紫外日盲光探测，适配光电器件、等离激元及严苛环境光学探测。 出版信息：17, 220 (2025)。"
+      },
+      {
+        "title": "含氯互变异构钝化剂改善钙钛矿探测器紫外稳定性",
+        "source": "https://link.springer.com/article/10.1007/s40820-025-02015-5",
+        "publishedAt": "2026-01-05",
+        "relevance": "2026-10-02 核验。含氯钝化剂调控缺陷及电荷提取，实验评估钙钛矿光探测器的紫外与环境稳定性；适配光电材料及器件可靠性，不外推实际服役寿命。 出版信息：18, 178 (2026)。"
+      }
     ]
   },
   {
@@ -2214,7 +2234,27 @@
       "2026-10-02 本刊指南：Research Article 无统一篇幅上限；Perspective 最多 7,500 词、Tutorial 最多 37,500 词，通常邀稿但接受提案咨询；Comment/Reply 最多 3,500 词。不同稿型的限制分别适用。",
       "准备解释科学问题、主要进展和意义的通俗摘要，官网建议约 150 词；正式发表前必须提供。"
     ],
-    "publishing": "完全开放获取、CC BY 4.0。2026-10-02 APS 官方 2026 APC 表列 PRX Quantum USD 3,590；价格在投至实际发表期刊时确定，转投也按该刊提交时点处理。Editorial、Comment、Correction 不适用 APC；机构协议及低收入地区减免按资格核实。税费处理本轮未核实，不将此数额称为含税总价。 来源：https://journals.aps.org/authors/apcs"
+    "publishing": "完全开放获取、CC BY 4.0。2026-10-02 APS 官方 2026 APC 表列 PRX Quantum USD 3,590；价格在投至实际发表期刊时确定，转投也按该刊提交时点处理。Editorial、Comment、Correction 不适用 APC；机构协议及低收入地区减免按资格核实。税费处理本轮未核实，不将此数额称为含税总价。 来源：https://journals.aps.org/authors/apcs",
+    "scopeExamples": [
+      {
+        "title": "原子介导的光子图态确定性生成与拼接理论",
+        "source": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010340",
+        "publishedAt": "2025-03-04",
+        "relevance": "2026-10-02 核验。理论方案利用光学谐振腔中的原子节点生成与拼接光子图态，适配腔量子电动力学及量子光子网络；不描述成已建成网络实验。 出版信息：6(1), 010340 (2025)。"
+      },
+      {
+        "title": "面向量子发射体的融合式光子量子计算方案",
+        "source": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020304",
+        "publishedAt": "2025-04-04",
+        "relevance": "2026-10-02 核验。理论与数值分析适配量子发射体的光子融合架构，研究光子损失、可区分性及自旋噪声等约束，适配量子光学与光子计算；不是完整量子计算机演示。 出版信息：6(2), 020304 (2025)。"
+      },
+      {
+        "title": "借助量子计算增强光学成像的理论方案",
+        "source": "https://journals.aps.org/prxquantum/abstract/10.1103/s94k-929p",
+        "publishedAt": "2026-01-27",
+        "relevance": "2026-10-02 核验。将光子振幅编码到量子比特寄存器，研究未分辨光源的量子成像算法，适配量子光学与计算成像；天文应用是方案场景，不代表新系外行星观测。 出版信息：7(1), 010318 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3330,7 +3370,27 @@
       "新稿通过 Wiley Authors 提交；2025 年 11 月 25 日以前启动的稿件按官网旧系统提示处理。",
       "支持 Free Format 新投稿，准备包含必要章节的可编辑正文、清晰图表和单独补充材料；格式宽松不免除研究与伦理声明。"
     ],
-    "publishing": "完全开放获取。2026-10-02 本刊页列 APC USD 6,730 / GBP 4,480 / EUR 5,640（税费另计）；Comment 稿型免此 APC，不收投稿费或页费。国家/地区减免和 Wiley Open Access Account 覆盖按资格核对，账户覆盖与投稿日及发表时有效安排有关；不能把 Comment 免收套用于原始研究。 来源：https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/open-access"
+    "publishing": "完全开放获取。2026-10-02 本刊页列 APC USD 6,730 / GBP 4,480 / EUR 5,640（税费另计）；Comment 稿型免此 APC，不收投稿费或页费。国家/地区减免和 Wiley Open Access Account 覆盖按资格核对，账户覆盖与投稿日及发表时有效安排有关；不能把 Comment 免收套用于原始研究。 来源：https://advanced.onlinelibrary.wiley.com/hub/journal/21983844/open-access",
+    "scopeExamples": [
+      {
+        "title": "物理驱动自监督网络快速设计复用超表面光学",
+        "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509242",
+        "publishedAt": "2025-07-30",
+        "relevance": "2026-10-02 核验。物理驱动自监督网络映射全息图与超原子结构，计算设计波长、偏振和深度复用超全息，适配计算光学与微纳器件设计；计算加速不等于制造通量。 出版信息：12(40), e09242 (2025)。"
+      },
+      {
+        "title": "自旋解耦超表面的双向光泵浦原子磁力计",
+        "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509028",
+        "publishedAt": "2025-07-06",
+        "relevance": "2026-10-02 核验。超表面同时调控圆偏振泵浦及线偏振探测，实验改善原子磁力计偏振均匀性和磁场检测，适配量子光学、偏振器件与精密测量。 出版信息：12(37), e09028 (2025)。"
+      },
+      {
+        "title": "纳米压印制备耐温可重构相变超表面",
+        "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521515",
+        "publishedAt": "2026-03-26",
+        "relevance": "2026-10-02 核验。TiO₂ 纳米压印骨架结合 Sb₂Se₃ 相变层，实验实现近/中红外滤波调制及可见至近红外手性响应切换，适配光学制造与可重构微纳光子器件。 出版信息：13(27), e21515 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3386,7 +3446,27 @@
       "研究论文建议 5000 词以内（含摘要，不含参考文献和图表），不是硬上限；摘要 260 词以内，3–6 个关键词。",
       "新稿支持 Free Format，正文需可编辑，Supporting Information 单独提交；涉及核心材料须披露结构和组成。"
     ],
-    "publishing": "完全开放获取、CC BY。2026-10-02 本刊页列 APC USD 3,000 / GBP 2,300 / EUR 2,550（税费另计），Society Members 列全额 APC 的 10% 优惠，具体会员资格须核实；不收投稿费或页费。国家/地区减免、机构账户覆盖按资格处理，不能沿用创刊前三年免 APC 的历史介绍。 来源：https://onlinelibrary.wiley.com/page/journal/25673165/homepage/open-access"
+    "publishing": "完全开放获取、CC BY。2026-10-02 本刊页列 APC USD 3,000 / GBP 2,300 / EUR 2,550（税费另计），Society Members 列全额 APC 的 10% 优惠，具体会员资格须核实；不收投稿费或页费。国家/地区减免、机构账户覆盖按资格处理，不能沿用创刊前三年免 APC 的历史介绍。 来源：https://onlinelibrary.wiley.com/page/journal/25673165/homepage/open-access",
+    "scopeExamples": [
+      {
+        "title": "覆盖紫外至近红外的薄膜事件视觉传感器",
+        "source": "https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.70007",
+        "publishedAt": "2025-03-09",
+        "relevance": "2026-10-02 核验。氧化物 p–n 结结合光伏与热释电机制形成两端薄膜事件传感器，实验展示弱光边缘提取及多光谱手势识别，适配光探测与类脑视觉。 出版信息：7(7), e70007 (2025)。"
+      },
+      {
+        "title": "分子内相互作用诱导三维钙钛矿圆偏振激光",
+        "source": "https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.70061",
+        "publishedAt": "2025-08-27",
+        "relevance": "2026-10-02 核验。手性分子与三维钙钛矿的相互作用实现圆偏振激光，适配手性发光材料、偏振光学及微纳光源。 出版信息：7(11), e70061 (2025)。"
+      },
+      {
+        "title": "木源纤维素柔性复合材料的光致变色智能窗",
+        "source": "https://onlinelibrary.wiley.com/doi/abs/10.1002/inf2.70049",
+        "publishedAt": "2025-09-23",
+        "relevance": "2026-10-02 核验。木源纤维素复合薄膜结合光致变色、荧光和紫外屏蔽，研究智能窗及防伪应用，适配功能光学材料；卷属 2026 年，首次上线在 2025 年。 出版信息：8(1), e70049 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3497,7 +3577,27 @@
       "2026-10-02 本刊页 Submit your manuscript 指向 https://mc03.manuscriptcentral.com/scms；入口请求 403，未验证登录后的流程。按既有作者指南使用 Articles 模板和 Instructions for Authors PDF。",
       "注意编辑部单独收取的版面费不同于 Springer Nature 开放获取 APC，机构 OA 协议不自动涵盖编辑部版面费。"
     ],
-    "publishing": "混合出版。2026-10-02 收费页列可选 OA APC GBP 3,090 / USD 4,990 / EUR 3,990，适用 VAT/地方税另计，按录用日定价；订阅出版不收此 APC。编辑部版面费与出版社 OA APC 独立，版面费当前金额仍待核实；机构 OA 协议不自动涵盖编辑部版面费，不把无 APC 解释成总费用为零。 来源：https://link.springer.com/journal/40843/how-to-publish-with-us"
+    "publishing": "混合出版。2026-10-02 收费页列可选 OA APC GBP 3,090 / USD 4,990 / EUR 3,990，适用 VAT/地方税另计，按录用日定价；订阅出版不收此 APC。编辑部版面费与出版社 OA APC 独立，版面费当前金额仍待核实；机构 OA 协议不自动涵盖编辑部版面费，不把无 APC 解释成总费用为零。 来源：https://link.springer.com/journal/40843/how-to-publish-with-us",
+    "scopeExamples": [
+      {
+        "title": "中间相工程调控准二维钙钛矿束缚激子与受激发射",
+        "source": "https://link.springer.com/article/10.1007/s40843-024-3127-5",
+        "publishedAt": "2024-10-29",
+        "relevance": "2026-10-02 核验。中间相工程控制薄膜晶粒，结合飞秒瞬态吸收实验研究束缚激子动力学与受激发射阈值，适配发光材料和超快光谱；激光器应用为研究展望。 出版信息：67(12), 3925–3931 (2024)。"
+      },
+      {
+        "title": "氧化镁中的可自恢复宽带近红外应力发光",
+        "source": "https://link.springer.com/article/10.1007/s40843-025-3515-0",
+        "publishedAt": "2025-10-10",
+        "relevance": "2026-10-02 核验。Cr³⁺ 掺杂 MgO 的近红外应力发光及非破坏光学检测，适配发光材料与传感；生物应力成像为模拟模型，不当作临床或体内验证。 出版信息：68(12), 4440–4447 (2025)。"
+      },
+      {
+        "title": "溶剂水解调控单量子阱二维钙钛矿光探测器",
+        "source": "https://link.springer.com/article/10.1007/s40843-025-3977-8",
+        "publishedAt": "2026-05-14",
+        "relevance": "2026-10-02 核验。DMF 水解生成的二甲胺调控结晶，制备有序单量子阱薄膜与光探测器并评估光响应及稳定性，适配材料生长和光电探测；大规模成像集成为展望。 出版信息：69(8), 4594–4603 (2026)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

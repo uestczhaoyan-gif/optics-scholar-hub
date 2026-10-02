@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 10 / 74          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 67 / SCIE 62  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 62 / ESCI 10 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有九刊至少三篇：AFM、Nature Electronics、Nature Materials、Nature Nanotechnology，以及 E2 的五刊；首次上线日期、卷期及在线校正稿状态见 [样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有十四刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science；首次上线日期、卷期及在线校正稿状态见 [样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -369,3 +369,7 @@ Nature Communications、npj Quantum Materials、npj Quantum Information、Commun
 ### 2026-10-02：指南与收费 E3
 
 Advanced Materials 补本刊指南；五刊补有日期与官方来源的 APC，PRX Quantum 新增分稿型篇幅，NML/SCM 补本刊指向的入口并记录 403。当前正式与候选数量、分区/索引/样例及整刊核验日不变，SCM 页费和 NML 投稿渠道遗留待核实。前批 C3 已验收部署及线上摘要；[E3 来源](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md)。
+
+### 2026-10-02：交叉适配 E4
+
+五刊补十五篇近两年光学样例，累计十四刊至少三篇，其他刊仍需系统核验。首次发表与卷期跨年分别记录，卷期缺显示时核对出版社向 Crossref 登记数据；连续出版不编期号。理论/计算与实验、模拟生医与临床证据分别说明。E3 已确认部署及线上版本；[来源与边界](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
