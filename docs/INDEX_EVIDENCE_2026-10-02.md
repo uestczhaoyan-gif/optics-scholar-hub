@@ -151,3 +151,28 @@ A8 提交 11cce82 的 [Pages 37010047912](https://github.com/uestczhaoyan-gif/op
 A10 结束时：EI 53/74，其中数据库方依据 47 本。本批新增 0 条肯定记录、升级 12 条出版社证据。SCIE 62 与 ESCI 10 均有 MJL 依据；各覆盖起止年、其他索引、分区、指南、费用、样例与整刊日期不变，未进行订阅平台单篇检索。
 
 前批提交 7f6b06c 的 [Pages 37010772497](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37010772497) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 6c76f134748b2a85ebaee4c1c1471bb9ecea17c743957a2981bf86b39a20464d 与本地一致后开始本批数据修改。
+
+## 批次 A11：量子、物理与材料十二刊 EI（12 本）
+
+复用 A9 已重新下载核对的 [Elsevier 公开来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)，文件哈希与三个表版本见 A9。以下各刊 SERIALS 刊号唯一匹配、刊名/Journal 类型/出版社身份相符，DISCONTINUED 无匹配；存在中文表匹配的刊物另核对 2026 Renewed。
+
+| 期刊                                    | 目录刊号              | SERIALS 行号 | 清单刊名                                  | 中文表行号（Renewed） |
+| --------------------------------------- | --------------------- | ------------ | ----------------------------------------- | --------------------- |
+| Ultrafast Science                       | 2097-0331 / 2765-8791 | 5690         | Ultrafast Science                         | —                     |
+| npj Quantum Information                 | 2056-6387             | 4213         | npj Quantum Information                   | —                     |
+| Communications Physics                  | 2399-3650             | 873          | Communications Physics                    | —                     |
+| Advanced Science                        | 2198-3844             | 157          | Advanced Science                          | —                     |
+| Angewandte Chemie International Edition | 1433-7851 / 1521-3773 | 278          | Angewandte Chemie - International Edition | —                     |
+| Science China Materials                 | 2095-8226 / 2199-4501 | 5197         | Science China Materials                   | 342                   |
+| Nature Photonics                        | 1749-4885 / 1749-4893 | 4142         | Nature Photonics                          | —                     |
+| Advanced Optical Materials              | 2195-1071             | 150          | Advanced Optical Materials                | —                     |
+| Progress in Quantum Electronics         | 0079-6727 / 1873-1627 | 4986         | Progress in Quantum Electronics           | —                     |
+| PRX Quantum                             | 2691-3399             | 4999         | PRX Quantum                               | —                     |
+| Nature Electronics                      | 2520-1131             | 4137         | Nature Electronics                        | —                     |
+| Nature Materials                        | 1476-1122 / 1476-4660 | 4140         | Nature Materials                          | —                     |
+
+Ultrafast Science、npj Quantum Information、Communications Physics、Advanced Science、Angewandte 和 Science China Materials 的出版社 EI 依据升级为数据库方来源表；Nature Photonics、AOM、PQE、PRX Quantum、Nature Electronics、Nature Materials 新增 EI 肯定。AOM 旧出版社页没列 EI 不作为未收录结论。Science China Materials 另匹配中文表第 342 行 Renewed，清单语言列不用于改写目录语言或身份。
+
+A11 结束时：EI 59/74，其中数据库方依据 59 本。本批新增 6 条肯定记录、升级 6 条出版社证据。SCIE 62 与 ESCI 10 均有 MJL 依据；各覆盖起止年、其他索引、分区、指南、费用、样例与整刊日期不变，未进行订阅平台单篇检索。
+
+前批提交 dff0b61 的 [Pages 37011152431](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37011152431) build/deploy 均成功，线上首页与版本 HTTP 200，目录版本 d6cfaaabcaad27b2ce259070025903e893d7d65be369e366f47be90c48728e52 与本地一致后开始本批数据修改。
