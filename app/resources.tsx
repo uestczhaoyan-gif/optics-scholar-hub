@@ -2,6 +2,7 @@ import { External } from '@/components/external-link';
 import config from '@/data/site.json';
 import rawJournals from '@/data/journals.json';
 import rawConferences from '@/data/conferences.json';
+import conferenceSeries from '@/data/conference-series.json';
 import { hasIndex, type Journal, type Conference } from '@/lib/catalog';
 export function Guide() {
   return (
@@ -135,6 +136,11 @@ export function DataNotes() {
       '不同年份分开记录，母大会专题不重复计数',
     ],
     [
+      '持续跟踪的会议系列',
+      conferenceSeries.length,
+      '系列与届次分开，保留历史并跟进后续公告',
+    ],
+    [
       '截止存在未知项的会议',
       conferences.filter((c) => c.deadlines.some((d) => !d.at && !d.date))
         .length,
@@ -198,6 +204,9 @@ export function DataNotes() {
         </article>
         <article className="guide-card">
           <h3>更新如何发生</h3>
+          <p>
+            “系列与往届”保留同系列历史记录和已核实的未来届次，可单独关注系列。最新已收录届次结束后，系列继续进入后续公告核验队列，每30天复查；新届次通过审核发布后进入同一系列。尚未公告的年份、地点和截止不推算。
+          </p>
           <p>
             每天约北京时间 09:23
             检查来源可达性与内容变化（调度可能延迟），生成报告；维护者人工复核后提交发布。网页不会自动把抓取结果认定为新

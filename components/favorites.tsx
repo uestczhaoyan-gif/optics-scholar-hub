@@ -2,21 +2,24 @@
 import { useEffect, useState } from 'react';
 import { favoritesKey, parseFavorites } from '@/lib/favorites';
 
-export function useFavorites(knownIds: readonly string[]) {
+export function useFavorites(
+  knownIds: readonly string[],
+  storageKey = favoritesKey,
+) {
   const [ids, setIds] = useState<string[]>([]);
   const [ready, setReady] = useState(false);
   const [storageFailed, setStorageFailed] = useState(false);
   useEffect(() => {
     const timer = setTimeout(() => {
       try {
-        setIds(parseFavorites(localStorage.getItem(favoritesKey), knownIds));
+        setIds(parseFavorites(localStorage.getItem(storageKey), knownIds));
       } catch {
         setStorageFailed(true);
       }
       setReady(true);
     }, 0);
     return () => clearTimeout(timer);
-  }, [knownIds]);
+  }, [knownIds, storageKey]);
   function toggle(id: string) {
     if (!ready || !knownIds.includes(id)) return;
     const next = ids.includes(id)
@@ -24,7 +27,7 @@ export function useFavorites(knownIds: readonly string[]) {
       : [...ids, id];
     setIds(next);
     try {
-      localStorage.setItem(favoritesKey, JSON.stringify(next));
+      localStorage.setItem(storageKey, JSON.stringify(next));
     } catch {
       setStorageFailed(true);
     }

@@ -5,6 +5,7 @@ import conferences from '@/data/conferences.json';
 import events from '@/data/events.json';
 import topics from '@/data/topics.json';
 import site from '@/data/site.json';
+import conferenceSeries from '@/data/conference-series.json';
 import { checkCatalogUpdate } from '@/lib/catalog-update';
 import { writeFilterLink, type FilterState } from '@/lib/filter-link';
 
@@ -30,6 +31,7 @@ export function CatalogUpdate({
         events,
         topics,
         site,
+        conferenceSeries,
       });
       setVersion(result.changed ? result.version : '');
       const time = new Date(result.publishedAt).toLocaleString('zh-CN', {

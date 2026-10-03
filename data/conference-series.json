@@ -1,0 +1,719 @@
+[
+  {
+    "id": "series-75ad69d7586c",
+    "name": "ACP",
+    "aliases": [],
+    "editionIds": ["acp-2026"],
+    "website": "https://www.acpconf.com/",
+    "sources": [
+      "https://www.acpconf.com/",
+      "https://www.acpconf.com/news/paper-submission"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-1436f76ab44c",
+    "name": "OFC",
+    "aliases": [],
+    "editionIds": ["ofc-2027"],
+    "website": "https://www.ofcconference.org/home/",
+    "sources": [
+      "https://www.ofcconference.org/home/",
+      "https://www.ofcconference.org/submit-a-paper/submission-guidelines/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-ee5c59fb09be",
+    "name": "CLEO",
+    "aliases": [],
+    "editionIds": ["cleo-2027"],
+    "website": "https://cleoconference.org/",
+    "sources": [
+      "https://cleoconference.org/",
+      "https://cleoconference.org/2027-call-for-papers/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-884b2e9cc2a9",
+    "name": "COS 年会",
+    "aliases": [],
+    "editionIds": ["cos-2026"],
+    "website": "https://meeting.cncos.org.cn/cosconf2026/index.htm",
+    "sources": ["https://meeting.cncos.org.cn/cosconf2026/index.htm"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-e0aa59321b2a",
+    "name": "ECOC",
+    "aliases": [],
+    "editionIds": ["ecoc-2026"],
+    "website": "https://ecoc2026.org/",
+    "sources": [
+      "https://ecoc2026.org/",
+      "https://ecoc2026.org/ECOC2026/paper-submission"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-9ca5e7bc1abb",
+    "name": "FiO + LS",
+    "aliases": [],
+    "editionIds": ["fio-2026"],
+    "website": "https://www.frontiersinoptics.com/",
+    "sources": [
+      "https://www.frontiersinoptics.com/",
+      "https://www.frontiersinoptics.com/submissions/author-timeline"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-6ea78a0d43e3",
+    "name": "IEEE IPC",
+    "aliases": [],
+    "editionIds": ["ipc-2026"],
+    "website": "https://ieee-ipc.org/",
+    "sources": [
+      "https://ieee-ipc.org/",
+      "https://ieee-ipc.org/paper-submission/submission-guidelines/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-8bb528917eaf",
+    "name": "Optica ODF",
+    "aliases": [],
+    "editionIds": ["odf-2027"],
+    "website": "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/",
+    "sources": [
+      "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/",
+      "https://www.optica.org/events/congress/optical_design_and_fabrication_congress/submit_papers/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-0d93e81109e8",
+    "name": "IEEE ICIP",
+    "aliases": [],
+    "editionIds": ["icip-2026"],
+    "website": "https://2026.ieeeicip.org/",
+    "sources": [
+      "https://2026.ieeeicip.org/",
+      "https://2026.ieeeicip.org/call-for-papers-and-abstracts/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-f73fbdc0215b",
+    "name": "Optica Biophotonics",
+    "aliases": [],
+    "editionIds": ["biophotonics-2027"],
+    "website": "https://www.optica.org/events/congress/biophotonics_congress/",
+    "sources": [
+      "https://www.optica.org/events/congress/biophotonics_congress/",
+      "https://www.optica.org/events/congress/biophotonics_congress/submit_papers/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-9306e954f354",
+    "name": "Optica Laser Congress",
+    "aliases": [],
+    "editionIds": ["laser-congress-2026"],
+    "website": "https://www.optica.org/events/congress/laser_congress/",
+    "sources": [
+      "https://www.optica.org/events/congress/laser_congress/",
+      "https://www.optica.org/events/congress/laser_congress/submit_papers/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-b0c4ac2df9cc",
+    "name": "OMTA",
+    "aliases": [],
+    "editionIds": ["omta-2026"],
+    "website": "https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html",
+    "sources": ["https://b2b.csoe.org.cn/mobile/meeting/OMTA2026.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-85ffa76b9f90",
+    "name": "Optica Quantum 2.0",
+    "aliases": [],
+    "editionIds": ["quantum-2027"],
+    "website": "https://www.optica.org/events/topical_meetings/quantum/",
+    "sources": [
+      "https://www.optica.org/events/topical_meetings/quantum/",
+      "https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-371089ec00a2",
+    "name": "Photonics Asia",
+    "aliases": [],
+    "editionIds": ["photonics-asia-2026"],
+    "website": "https://meeting.cncos.org.cn/pa2026/",
+    "sources": [
+      "https://meeting.cncos.org.cn/pa2026/",
+      "https://cncos.org.cn/Content/view/id/2051.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-c24fd6043a31",
+    "name": "COS Changchun",
+    "aliases": [],
+    "editionIds": ["cos-changchun-2026"],
+    "website": "https://meeting.cncos.org.cn/cc2026/index.htm",
+    "sources": ["https://meeting.cncos.org.cn/cc2026/index.htm"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-af2567157c7b",
+    "name": "全国精密工程学术研讨会",
+    "aliases": [],
+    "editionIds": ["precision-engineering-2026"],
+    "website": "https://www.cis.org.cn/post/detail/185/7084",
+    "sources": ["https://www.cis.org.cn/post/detail/185/7084"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-97185827f1be",
+    "name": "OPTIC",
+    "aliases": [],
+    "editionIds": ["optic-2026"],
+    "website": "https://www.conf.tw/site/page.aspx?lang=en&pid=901&sid=1696",
+    "sources": [
+      "https://www.conf.tw/site/page.aspx?lang=en&pid=901&sid=1696",
+      "https://www.conf.tw/site/page.aspx?lang=en&pid=16&sid=1696"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-a519e108b98e",
+    "name": "OECC & IP",
+    "aliases": [],
+    "editionIds": ["oecc-ip-2027"],
+    "website": "https://oeccip2027.org/",
+    "sources": [
+      "https://oeccip2027.org/",
+      "https://www.oeccip2027.org/pages/39"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-81fb168117fb",
+    "name": "OGC",
+    "aliases": [],
+    "editionIds": ["ogc-2026"],
+    "website": "https://ipsogc.org/",
+    "sources": ["https://ipsogc.org/", "https://ipsogc.org/sub.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-2f5a792b7310",
+    "name": "ICOCN",
+    "aliases": [],
+    "editionIds": ["icocn-2026"],
+    "website": "https://www.icocn.org.cn/",
+    "sources": [
+      "https://www.icocn.org.cn/",
+      "https://www.icocn.org.cn/?pages_18/="
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-9ae4f3391a51",
+    "name": "SPIE Photonics West",
+    "aliases": [],
+    "editionIds": ["photonics-west-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/photonics-west",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/photonics-west",
+      "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-a797adc92f6e",
+    "name": "AOPC",
+    "aliases": [],
+    "editionIds": ["aopc-2026"],
+    "website": "https://b2b.csoe.org.cn/meeting/WPC2026.html",
+    "sources": ["https://b2b.csoe.org.cn/meeting/WPC2026.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-f1ef1344e10c",
+    "name": "AOP (SPOF)",
+    "aliases": [],
+    "editionIds": ["aop-2026"],
+    "website": "https://aop2026.org/",
+    "sources": ["https://aop2026.org/", "https://aop2026.org/submissions.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-86cdd7a29672",
+    "name": "EOSAM",
+    "aliases": [],
+    "editionIds": ["eosam-2026"],
+    "website": "https://www.europeanoptics.org/events/eos/eosam2026.html",
+    "sources": [
+      "https://www.europeanoptics.org/events/eos/eosam2026.html",
+      "https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-f99079d1fc30",
+    "name": "IRMMW-THz",
+    "aliases": [],
+    "editionIds": ["irmmw-thz-2026"],
+    "website": "https://www.irmmw-thz.org/conference/",
+    "sources": [
+      "https://www.irmmw-thz.org/conference/",
+      "https://www.irmmw-thz.org/abstract-submission/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-02a841634310",
+    "name": "ICOLS",
+    "aliases": [],
+    "editionIds": ["icols-2027"],
+    "website": "https://icols2027.com/",
+    "sources": ["https://icols2027.com/"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-9e6b148be1d3",
+    "name": "ICO Congress",
+    "aliases": [],
+    "editionIds": ["ico-27-2027"],
+    "website": "https://www.cncos.org.cn/Content/view/id/1851.html",
+    "sources": ["https://www.cncos.org.cn/Content/view/id/1851.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-143d6d71f628",
+    "name": "OFS",
+    "aliases": [],
+    "editionIds": ["ofs-2026"],
+    "website": "https://ofs30.org/",
+    "sources": [
+      "https://ofs30.org/",
+      "https://ofs30.org/submission-information/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-e1d136865433",
+    "name": "WSOF",
+    "aliases": [],
+    "editionIds": ["wsof-2027"],
+    "website": "https://www.wsof2027.org/",
+    "sources": [
+      "https://www.wsof2027.org/",
+      "https://www.wsof2027.org/index.php/abstracts/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-7ece259636d0",
+    "name": "CIOP",
+    "aliases": [],
+    "editionIds": ["ciop-2026"],
+    "website": "https://ciop.com.cn/",
+    "sources": [
+      "https://ciop.com.cn/",
+      "https://www.seu-picas.com/team_activities/107.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-b80c961db8bd",
+    "name": "OFS-China",
+    "aliases": [],
+    "editionIds": ["ofs-china-2026"],
+    "website": "https://b2b.csoe.org.cn/meeting/ofsc2026.html",
+    "sources": ["https://b2b.csoe.org.cn/meeting/ofsc2026.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-fd36467103fc",
+    "name": "ICORS",
+    "aliases": [],
+    "editionIds": ["icors-2026"],
+    "website": "https://icors2026.org/",
+    "sources": [
+      "https://icors2026.org/",
+      "https://icors2026.org/abstract-submission/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-6e3a34c17677",
+    "name": "USQS",
+    "aliases": [],
+    "editionIds": ["usqs-2027"],
+    "website": "https://www.usqs.com.cn/",
+    "sources": [
+      "https://www.usqs.com.cn/",
+      "https://www.usqs.com.cn/en/h-col-126.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-280e7bbb1981",
+    "name": "CLEO/Europe–EQEC",
+    "aliases": [],
+    "editionIds": ["cleo-europe-eqec-2027"],
+    "website": "https://www.cleoeurope.org/",
+    "sources": ["https://www.cleoeurope.org/"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-00a40d7a4af9",
+    "name": "CLEO-PR",
+    "aliases": [],
+    "editionIds": ["cleo-pr-2026"],
+    "website": "https://cleopr2026.org.cn/",
+    "sources": [
+      "https://cleopr2026.org.cn/",
+      "https://www.bagevent.com/event/9077151/p/566129"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-40c6903e6239",
+    "name": "SPIE Advanced Lithography + Patterning",
+    "aliases": [],
+    "editionIds": ["spie-lithography-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning",
+      "https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-c28e551f0223",
+    "name": "SPIE Medical Imaging",
+    "aliases": [],
+    "editionIds": ["spie-medical-imaging-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/medical-imaging",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/medical-imaging",
+      "https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-eb1414467e76",
+    "name": "SPIE Optical Metrology",
+    "aliases": [],
+    "editionIds": ["spie-optical-metrology-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/optical-metrology",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/optical-metrology"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-70b6053ab2a4",
+    "name": "SPIE Astronomical Telescopes + Instrumentation",
+    "aliases": [],
+    "editionIds": ["spie-astro-2028"],
+    "website": "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-7d65f247f5f2",
+    "name": "OPIC",
+    "aliases": [],
+    "editionIds": ["opic-2027"],
+    "website": "https://opicon.jp/",
+    "sources": ["https://opicon.jp/"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-6119c5733e87",
+    "name": "APOS",
+    "aliases": [],
+    "editionIds": ["apos-2026"],
+    "website": "https://www.apos2026.com/",
+    "sources": [
+      "https://www.apos2026.com/",
+      "https://www.apos2026.com/static/Callforpaper.pdf"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-4e5136e95266",
+    "name": "AOMTA & YSAOM",
+    "aliases": [],
+    "editionIds": ["aomta-ysaom-2026"],
+    "website": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
+    "sources": ["https://b2b.csoe.org.cn/meeting/YSAOM2026.html"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-ea1694596fc1",
+    "name": "LiM",
+    "aliases": [],
+    "editionIds": ["lim-2027"],
+    "website": "https://wlt.de/node/31",
+    "sources": [
+      "https://wlt.de/node/31",
+      "https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-85eafd34a363",
+    "name": "IEEE SiPhotonics",
+    "aliases": [],
+    "editionIds": ["siphotonics-2027"],
+    "website": "https://www.ieee-siphotonics.org/",
+    "sources": [
+      "https://www.ieee-siphotonics.org/",
+      "https://www.ieee-siphotonics.org/paper-submission/submission-guidelines/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-e2828f0dad68",
+    "name": "SPIE Defense + Security",
+    "aliases": [],
+    "editionIds": ["spie-defense-security-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/defense-and-security",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/defense-and-security",
+      "https://spie.org/conferences-and-exhibitions/defense-and-security/presenters/abstract-submission-guidelines"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-afcf0a2fe49b",
+    "name": "AOMATT",
+    "aliases": [],
+    "editionIds": ["aomatt-2026"],
+    "website": "https://www.aomatt.org/",
+    "sources": [
+      "https://www.aomatt.org/",
+      "https://www.aomatt.org/uploads/AOMATT%202026/2026-09-16/file/1789525413273_p4ilvlpt.pdf"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-d95a0dcae1f0",
+    "name": "SPIE Optics + Photonics",
+    "aliases": [],
+    "editionIds": ["spie-optics-photonics-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/optics-and-photonics",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/optics-and-photonics"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-b0a0e3b0882e",
+    "name": "SPIE Sensors + Imaging",
+    "aliases": [],
+    "editionIds": ["spie-sensors-imaging-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/sensors-and-imaging",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/sensors-and-imaging"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-c5441ee444d2",
+    "name": "Electronic Imaging",
+    "aliases": [],
+    "editionIds": ["electronic-imaging-2027"],
+    "website": "https://ei2027.imaging.org/",
+    "sources": [
+      "https://ei2027.imaging.org/",
+      "https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-e66bb1658658",
+    "name": "IODC",
+    "aliases": [],
+    "editionIds": ["iodc-2027"],
+    "website": "https://spie.org/conferences-and-exhibitions/international-optical-design-conference",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/international-optical-design-conference"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-f948b77cd562",
+    "name": "Optica OIC",
+    "aliases": [],
+    "editionIds": ["oic-2028"],
+    "website": "https://www.optica.org/events/topical_meetings/optical_interference_coatings/",
+    "sources": [
+      "https://www.optica.org/events/topical_meetings/optical_interference_coatings/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-7eeb0ea1ef3b",
+    "name": "Optica Advanced Photonics Congress",
+    "aliases": [],
+    "editionIds": ["optica-advanced-photonics-2026"],
+    "website": "https://www.optica.org/events/congress/advanced_photonics_congress/",
+    "sources": [
+      "https://www.optica.org/events/congress/advanced_photonics_congress/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-f346be857f1a",
+    "name": "Optica Imaging Congress",
+    "aliases": [],
+    "editionIds": ["optica-imaging-2025"],
+    "website": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025",
+    "sources": [
+      "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-c5b1d17c308b",
+    "name": "ISLC",
+    "aliases": [],
+    "editionIds": ["islc-2026"],
+    "website": "https://events.tuni.fi/islc2026/",
+    "sources": ["https://events.tuni.fi/islc2026/"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-7a78619a9410",
+    "name": "Optica ImageSense Congress",
+    "aliases": [],
+    "editionIds": ["optica-imagesense-2026"],
+    "website": "https://www.optica.org/events/congress/optica_imagesense_congress/",
+    "sources": [
+      "https://www.optica.org/events/congress/optica_imagesense_congress/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-8d43c85f590a",
+    "name": "PHOTONICS (India)",
+    "aliases": [],
+    "editionIds": ["photonics-india-2026"],
+    "website": "https://photonics2026.iith.ac.in/",
+    "sources": [
+      "https://photonics2026.iith.ac.in/",
+      "https://photonics2026.iith.ac.in/guidelines/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-196e79fa054c",
+    "name": "Photonics in Switching and Computing",
+    "aliases": [],
+    "editionIds": ["psc-2026"],
+    "website": "https://psc2026.org/",
+    "sources": [
+      "https://psc2026.org/",
+      "https://psc2026.org/paper-submission/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-8405d097236a",
+    "name": "Optical Interconnects and Packaging (formerly OI)",
+    "aliases": [],
+    "editionIds": ["oip-2026", "oip-2027"],
+    "website": "https://oip-conference.org/",
+    "sources": [
+      "https://oip-conference.org/",
+      "https://oip-conference.org/paper-submission-1"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-0688805a8f4f",
+    "name": "IEEE Photonics Society Summer Topicals",
+    "aliases": [],
+    "editionIds": ["ieee-sum-2027"],
+    "website": "https://www.ieee-sum.org/",
+    "sources": [
+      "https://www.ieee-sum.org/",
+      "https://www.ieee-sum.org/paper-submission/submission-guidelines/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-06bcdca55d05",
+    "name": "International Conference on Ultrafast Phenomena",
+    "aliases": [],
+    "editionIds": ["ultrafast-phenomena-2026"],
+    "website": "https://www.up2026.jp/",
+    "sources": [
+      "https://www.up2026.jp/",
+      "https://www.up2026.jp/submission.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-d903687e894f",
+    "name": "International Display Workshops",
+    "aliases": [],
+    "editionIds": ["idw-2026"],
+    "website": "https://www.idw.or.jp/",
+    "sources": [
+      "https://www.idw.or.jp/",
+      "https://www.idw.or.jp/authinfo.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-e8f703ba9bc1",
+    "name": "International Meeting on Information Display",
+    "aliases": [],
+    "editionIds": ["imid-2026"],
+    "website": "https://imid.or.kr/2026/conference_info.asp",
+    "sources": [
+      "https://imid.or.kr/2026/conference_info.asp",
+      "https://imid.or.kr/2026/guideline_paper_submission.asp"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-1341c55cd713",
+    "name": "SID Display Week Technical Symposium",
+    "aliases": [],
+    "editionIds": ["sid-display-week-symposium-2027"],
+    "website": "https://www.displayweek.org/program/authors-presenters/",
+    "sources": [
+      "https://www.displayweek.org/program/authors-presenters/",
+      "https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-326103f96086",
+    "name": "International Congress on Applications of Lasers & Electro-Optics",
+    "aliases": [],
+    "editionIds": ["icaleo-2026"],
+    "website": "https://icaleo.org/",
+    "sources": [
+      "https://icaleo.org/",
+      "https://icaleo.org/presenter-information"
+    ],
+    "nextEditionCheckedAt": null
+  }
+]

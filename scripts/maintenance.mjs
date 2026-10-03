@@ -1,4 +1,5 @@
 // Pure helpers shared by the online source check and offline maintenance report.
+import { seriesMaintenance } from './conference-series.mjs';
 export function sourceIndex(catalogs) {
   const index = new Map();
   for (const [catalog, items] of Object.entries(catalogs)) {
@@ -20,10 +21,10 @@ export function sourceIndex(catalogs) {
 }
 
 export function maintenanceQueue(
-  { conferences = [], journals = [], events = [] },
+  { conferences = [], journals = [], events = [], conferenceSeries = [] },
   now = new Date(),
 ) {
-  const rows = [];
+  const rows = seriesMaintenance(conferenceSeries, conferences, now);
   const today = now.toISOString().slice(0, 10);
   const add = (item, priority, field, reason, source) =>
     rows.push({

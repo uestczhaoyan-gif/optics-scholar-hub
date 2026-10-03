@@ -72,3 +72,19 @@ Journal records store independent ranking dimensions and evidence. CAS major/min
 `data/events.json` 独立存储展览、产业论坛、历史学术论坛：id/name/kind/start/end/location/topics/description/website/notice/checkedAt/participation/relation，可选 parentId 指向母展。无公开征稿依据不复用论文截止模型。官方来源检查包含该文件。
 
 构建输出 `catalog-version.json`，含 schema=1、数据 SHA-256 和 publishedAt（构建时间）。摘要对象顺序固定为 journals/conferences/events/topics/site，不包含用户关注或访问行为；刷新按钮仅请求本网站该文件，不触发远端主办方抓取。
+
+## 会议系列 / Conference series
+
+新增 data/conference-series.json，类型见 lib/conference-series.ts，约束见 scripts/conference-series.mjs。
+
+| 字段                 | 含义                                                             |
+| -------------------- | ---------------------------------------------------------------- |
+| id                   | 永久系列 ID；首次创建后保留，更名不得重算                        |
+| name / aliases       | 已核实系列名及更名别名；不同地区 CLEO、母会/子会不因缩写相近合并 |
+| editionIds           | 引用 conferences.json 的届次 ID；每个正式届次恰好归属一个系列    |
+| website / sources    | 后续公告入口与官方来源；每日巡检逐字段保留引用，同 URL 去重请求  |
+| nextEditionCheckedAt | 后续公告实际核验日或 null；不等于最新届次完整核验日              |
+
+S1 从现有已核实系列标签和来源建立 64 个身份、关联 65 届；全部 nextEditionCheckedAt 初始为 null，表示尚未专门复查后续公告，不声称 64 系列都已当日完整核验。加入新届次时同步 editionIds；保留旧届次及其独立要求、截止、核验日。更名时保留 id，将旧名放入 aliases，并保存官方继承关系证据。系列关注使用独立存储键，更新目录后新届次沿用原系列关注。
+
+A stable series identity owns references to reviewed conference editions. Renames retain the ID and verified aliases; regional variants and parent/subevents remain distinct. The next-announcement review date is independent of each edition's review date. Historical rules do not automatically apply to a later edition.

@@ -10,6 +10,7 @@ test('update check uses deployed subpath and compares data with the build digest
     events: [],
     topics: [],
     site: {},
+    conferenceSeries: [],
   };
   const version = createHash('sha256')
     .update(JSON.stringify(payload))
@@ -36,6 +37,21 @@ test('update check uses deployed subpath and compares data with the build digest
       )
     ).changed,
     false,
+  );
+  assert.equal(
+    (
+      await checkCatalogUpdate(
+        'https://example.org/optics-scholar-hub/',
+        {
+          ...payload,
+          conferenceSeries: [
+            { id: 'same-series', editionIds: ['next-edition'] },
+          ],
+        },
+        mock,
+      )
+    ).changed,
+    true,
   );
   assert.equal(
     (

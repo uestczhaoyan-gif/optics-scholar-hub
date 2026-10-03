@@ -1,4 +1,5 @@
 import { validateCandidates } from './coverage.mjs';
+import { validateConferenceSeries } from './conference-series.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import { validateJournalMetadata } from './validate-journal.mjs';
@@ -27,6 +28,7 @@ const conferences = read('conferences'),
   journals = read('journals');
 const events = read('events');
 const topics = read('topics');
+validateConferenceSeries(read('conference-series'), conferences);
 assert(Array.isArray(topics) && topics.length > 0);
 topics.forEach(text);
 assert.equal(new Set(topics).size, topics.length, 'Duplicate topic vocabulary');

@@ -38,3 +38,13 @@ Run `pnpm report:maintenance` for an offline task queue. Review imminent events 
 ## 候选与方向覆盖
 
 运行 `pnpm report:coverage` 生成覆盖报告与候选待办，或查看 CI 的 maintenance-queue 附件；维护规则见 [候选说明](CANDIDATES.md)。正式条目新增或改名时同步候选关联。`pnpm validate:data` 同时检查候选身份、类型和状态一致性。
+
+## 系列后续公告与时间深度
+
+每日来源检查已包含 data/conference-series.json 的 website/sources，沿用现有每日约 09:23 北京时间工作流，无新增重复调度。同 URL 仍只请求一次，报告保留 conferenceSeries/系列ID: sources.序号 等字段。自动文字指纹只提出核验信号；事实需人工阅读当届官方公告、验证、提交并验收部署。
+
+离线维护队列增加 P2 系列任务：最新已收录届次已结束且 nextEditionCheckedAt 为 null 或距实际核验至少 30 天，查找后续官方公告。没有新公告时记录读到的来源和范围后仅更新该系列核验日；访问失败不刷新日期。已知未结束届次继续使用原临近/缺口任务。历史截止不重新排为未来提醒。
+
+新增后续届次时保留旧条目；按官方身份/会期创建独立 ID，同步稳定系列 editionIds、候选关联及文档数量。不能复用旧届投稿要求、APC、城市或推算日期。系列更名须有官方继承依据，保留稳定 ID。来源范围写入核验日志，必要验证后按提交 SHA 确认 Pages build/deploy 与线上目录版本。系列数据已纳入版本摘要，单独增加关联也会触发“加载新版”。
+
+The daily source workflow includes series announcement sources. Ended series without a reviewed future edition enter a 30-day review queue. A successful manual review updates only nextEditionCheckedAt; failed requests do not. Add officially evidenced editions without removing history, preserve stable series IDs and validate deployment before publishing facts.

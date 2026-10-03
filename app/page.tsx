@@ -54,7 +54,11 @@ import { readFilterLink } from '@/lib/filter-link';
 import { FavoriteButton, useFavorites } from '@/components/favorites';
 import { EventsDirectory } from '@/components/events-directory';
 import { CatalogUpdate } from '@/components/catalog-update';
+import rawSeries from '@/data/conference-series.json';
+import { ConferenceSeriesDirectory } from '@/components/conference-series';
+import type { ConferenceSeries } from '@/lib/conference-series';
 const conferences = rawConferences as Conference[];
+const conferenceSeries = rawSeries as ConferenceSeries[];
 const journals = rawJournals as Journal[];
 const knownIds = [...conferences, ...journals].map((item) => item.id);
 const options = (values: string[]) =>
@@ -106,11 +110,13 @@ function ConferenceCard({
   now,
   zone,
   favorite,
+  onSeries,
 }: {
   c: Conference;
   now: Date;
   zone: string;
   favorite: { active: boolean; disabled: boolean; onToggle: () => void };
+  onSeries: () => void;
 }) {
   const d = nextDeadline(c, now, true);
   const status = conferenceStatus(c, now);
@@ -150,6 +156,9 @@ function ConferenceCard({
           </span>
           <span>⌖ {c.location}</span>
         </div>
+        <button className="series-link" onClick={onSeries}>
+          查看系列与往届，准备下一届
+        </button>
       </div>
       <div className="deadline-box">
         <span className="eyebrow">
@@ -245,6 +254,7 @@ export default function Home() {
   const [tab, setTab] = useState('conferences');
   const favorites = useFavorites(knownIds);
   const [favoritesOnly, setFavoritesOnly] = useState(false);
+  const [selectedSeriesId, setSelectedSeriesId] = useState<string | null>(null);
   const [query, setQuery] = useState('');
   const [topic, setTopic] = useState('全部方向');
   const [region, setRegion] = useState('全部地区');
@@ -273,6 +283,7 @@ export default function Home() {
       const value = location.hash.slice(1);
       const isCatalogTab = [
         'conferences',
+        'series',
         'journals',
         'events',
         'guide',
@@ -503,6 +514,7 @@ export default function Home() {
               <BookOpen />
               期刊目录
             </TabsTrigger>
+            <TabsTrigger value="series">系列与往届</TabsTrigger>
             <TabsTrigger value="guide">
               <Microscope />
               投稿入门
@@ -806,6 +818,14 @@ export default function Home() {
                           disabled: !favorites.ready,
                           onToggle: () => favorites.toggle(c.id),
                         }}
+                        onSeries={() => {
+                          setSelectedSeriesId(
+                            conferenceSeries.find((s) =>
+                              s.editionIds.includes(c.id),
+                            )?.id ?? null,
+                          );
+                          switchTab('series');
+                        }}
                       />
                     ))}
                   </div>
@@ -913,6 +933,15 @@ export default function Home() {
           </TabsContent>
           <TabsContent value="events">
             <EventsDirectory now={now} />
+          </TabsContent>
+          <TabsContent value="series">
+            <ConferenceSeriesDirectory
+              series={conferenceSeries}
+              conferences={conferences}
+              now={now}
+              selectedId={selectedSeriesId}
+              onClear={() => setSelectedSeriesId(null)}
+            />
           </TabsContent>
           <TabsContent value="data">
             <DataNotes />

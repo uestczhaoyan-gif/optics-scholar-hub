@@ -39,6 +39,9 @@ const payload = Object.fromEntries(
     JSON.parse(fs.readFileSync(`data/${name}.json`, 'utf8')),
   ]),
 );
+payload.conferenceSeries = JSON.parse(
+  fs.readFileSync('data/conference-series.json', 'utf8'),
+);
 fs.writeFileSync(
   path.join(root, 'catalog-version.json'),
   JSON.stringify({
