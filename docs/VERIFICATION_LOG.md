@@ -927,3 +927,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/E18_RESEARCH_2026-10-03.md保存C13验收与精确范围。实际五小时90%/周30%允许；只三requirements改变，旧条目其他字段及其余目录保持。必要验证/范围审查后推送同SHA验收，未用重置券，其他规划继续。
 
 - 发布前数据校验、三刊仅requirements/原要求保持与其余82刊/其他全部JSON保持断言通过；129个本地Markdown链接、维护295项/唯一CIOP后续任务、12主题覆盖及当前全部计数通过。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；本数据批次完整30项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-03：非线性与遥感覆盖 C14
+
+- E18 6457c1dc18b89729c07a8a953257cdcdd31e8c6a已验收[Pages37117365046](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37117365046)：build/deploy成功，首页/版本HTTP200，88ca2a463d28eb47bde13ef3eb8b3bde225c198a7e6589e66917433bbdb8534f与本地一致（2026-10-03T10:45:11.182Z），同SHA完整CI成功后编辑。
+- 三新候选审核：新增NLO2025历史与IGARSS2027未来，ISDH具体终日冲突暂缓。[字段来源及范围](CONFERENCE_EVIDENCE_2026-10-03.md)。IGARSS完整论文/摘要/近期文章出版路径和Q1未知体系分开；没有系统登录、投稿或日期推算。
+- 长操作前work/C14_RESEARCH_2026-10-03.md保存验收与范围，实际五小时92%/周30%仍允许。旧72届/66系列及其他目录保持，新增两届/两系列、三个候选白名单断言通过；必要校验、差异审查和构建后推送同SHA验收。OSD本轮未获新字段不刷新，已核PhotonicsEurope不重复，其他规划继续。
+
+- 发布前数据校验、旧72届/66系列/85刊与其他JSON保持、三候选字段白名单和当前计数断言通过；172个本地Markdown链接、维护301项（唯一CIOP后续任务）及12主题覆盖通过。85/74/10、68系列、273163/105/5、分区索引/二十刊样例保持；Pages子路径构建及六入口资源exit0，差异审查/git diff --check通过，完整功能检查待同SHA CI。

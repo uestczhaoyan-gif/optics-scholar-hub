@@ -974,12 +974,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "届次、所属大会和出版要求",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
+    "sourceEntry": "https://isdh2026.org/",
+    "reviewStatus": "deferred",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "发现ISDH2026自称站点，Save the Date写Monday6/22至Friday6/27，但2026年6/27为周六；活动表又同时写Thursday6/25与Friday6/25。终日冲突未解决，来源身份仍待大学公告交叉确认。",
+    "nextAction": "从Lake Forest College官方公告或准确日程核实主办关联、完整会期及出版/征稿形式；不自行改成6/26，也不把布展6/21作为技术会起日。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-f13ba49e84",
@@ -1016,12 +1016,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "核查是否独立或隶属当届 congress",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.optica.org/events/topical_meetings/nonlinear_optics/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optica-nlo-2025"],
+    "decisionReason": "Optica官方主页确认独立NLO专题身份、2025-08-04–07和檀香山度假村会场，收录历史届次；后续未知。",
+    "nextAction": "跟进后续独立当届官方通知及2025历史稿件/出版规则，不推算2027或混入期刊专刊截止。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-d85f0e0a68",
@@ -1271,12 +1271,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学遥感、高光谱、摄影测量及仪器专题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://2027.ieeeigarss.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["igarss-2027"],
+    "decisionReason": "2027官网/CFP/日期/Topics直接确认47届GRSS会议、7/11–16雷克雅未克及会场，光学高光谱/Lidar/被动传感有明确适配范围。",
+    "nextAction": "系统11/10计划开放后核Paper Kit、完整稿模板、报告条件、注册入口/费用与最近文章Q1体系；不将摘要路径当Xplore出版。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-dbfff63d70",

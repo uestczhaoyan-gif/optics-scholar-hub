@@ -3707,5 +3707,104 @@
         "source": "https://ufo2025.fc.up.pt/registration/"
       }
     ]
+  },
+  {
+    "id": "optica-nlo-2025",
+    "series": "Optica Nonlinear Optics",
+    "year": 2025,
+    "name": "Optica非线性光学专题会议 NLO 2025（历史届次）",
+    "nameEn": "Optica Nonlinear Optics Topical Meeting 2025",
+    "region": "海外",
+    "location": "美国 · 檀香山",
+    "venue": "'Alohilani Resort Waikiki Beach",
+    "start": "2025-08-04",
+    "end": "2025-08-07",
+    "topics": ["激光与非线性", "量子光学", "光学材料"],
+    "description": "Optica独立非线性光学专题会议，讨论不同能量和频率尺度下的非线性现象、材料、器件及应用。保留2025历史会期，为后续官方届次提供系列入口。",
+    "website": "https://www.optica.org/events/topical_meetings/nonlinear_optics/",
+    "notice": "https://www.optica.org/events/topical_meetings/nonlinear_optics/",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "本轮实际读取Optica官方专题主页，确认2025身份、会期、檀香山会场及研究范围；篇幅、模板、投稿入口、费用和注册条件尚未逐字段核实。",
+      "目前已读主页仍列2025，没有已核实的后续具体日城；不按周期推算2027，不将期刊专刊截止当会议投稿截止。"
+    ],
+    "publication": "2025会议出版、归档和索引条件尚未核实；不以学会主办或相关期刊专刊保证收录。",
+    "notes": "保留独立NLO系列，不因研究主题相近并入其他Optica母会。核验范围仅当届主页，未知历史截止保持null。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025历史投稿截止未核实",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/nonlinear_optics/"
+      },
+      {
+        "type": "registration",
+        "label": "2025历史注册截止未核实",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/nonlinear_optics/"
+      }
+    ]
+  },
+  {
+    "id": "igarss-2027",
+    "series": "IEEE IGARSS",
+    "year": 2027,
+    "name": "IEEE国际地球科学与遥感研讨会 IGARSS 2027",
+    "nameEn": "47th IEEE International Geoscience and Remote Sensing Symposium",
+    "region": "海外",
+    "location": "冰岛 · 雷克雅未克",
+    "venue": "Harpa Concert Hall & Conference Centre",
+    "start": "2027-07-11",
+    "end": "2027-07-16",
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "IEEE GRSS地球科学与遥感会议；本目录重点提示高光谱、激光雷达、被动光学传感和光学建模等直接适配方向，会议整体也包含微波及其他遥感研究。",
+    "website": "https://2027.ieeeigarss.org/",
+    "notice": "https://2027.ieeeigarss.org/call_for_papers.php",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "CFP区分四页完整论文、400–600词摘要和近期已发表文章。完整论文路径才有IEEE Xplore出版；摘要仅供口头/海报交流。模板、Paper Kit及细化版式尚待投稿入口公布，不补造参考文献页限。",
+      "近期文章路径要求2026-01-01之后在Q1-ranked期刊发表，官网未说明此Q1的分区体系，不替换为JCR或中科院。学生论文竞赛限完整论文。",
+      "投稿系统计划2026-11-10开放，普通摘要/论文2027-01-11截止。录用完整稿提交与作者注册均4/30；费用及实际注册入口未知，不把3/29计划开放当作已可登记。"
+    ],
+    "publication": "当届CFP说明录用完整论文纳入会议论文集和IEEE Xplore，摘要及近期已发表文章路径不纳入该论文集。具体报告条件及数据库实际检索仍须后续核实，不承诺自动EI/SCIE。",
+    "notes": "依据Topics限定光学适配：高光谱处理、光学建模、Lidar和被动光学多/高光谱传感。所有已读截止仅日期，没有时刻/时区；CCT与Tutorial提案分别10/15和11/3 2026，属于专题/教程提案，不混作普通稿DDL。注册3/29 2027计划开放，未填写或登录任何系统。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "完整论文/摘要投稿截止",
+        "date": "2027-01-11",
+        "source": "https://2027.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "notification",
+        "label": "作者录用通知",
+        "date": "2027-03-12",
+        "source": "https://2027.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "camera-ready",
+        "label": "录用完整论文提交截止",
+        "date": "2027-04-30",
+        "source": "https://2027.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "registration",
+        "label": "录用论文作者注册截止",
+        "date": "2027-04-30",
+        "source": "https://2027.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册结束",
+        "date": "2027-04-30",
+        "source": "https://2027.ieeeigarss.org/important_dates.php"
+      }
+    ]
   }
 ]

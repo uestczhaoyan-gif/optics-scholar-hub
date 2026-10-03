@@ -220,3 +220,18 @@ SPIE 页面经普通浏览器可读，几次导航超时后读取实际页面确
 | SPIE AR/VR/MR身份、层级及日期 | [官方专题目录](https://spie.org/conferences-and-exhibitions/photonics-west/program/conferences/ar-vr-mr)及[技术会14490](https://spie.org/PW27A/conferencedetails/optical-architectures-for-displays-and-sensing-in-augmented-virtual-and-mixed-reality)正常浏览器正文 | Optical Architectures for Displays and Sensing in Augmented, Virtual, and Mixed Reality VIII，摘要2026-07-22、通知10-12、稿件2027-01-13。只适用这一技术会，不代表所有AR/VR/MR专题。PW母会1/30–2/4与Expo2/2–4不作独立技术会会期；MainStage提案9/30另属展示提案。尚无独立技术会具体举办日，保持pending；未打开登录/投稿，不将Submit按钮等同系统接受稿件。 |
 
 精确范围：旧70届/85刊/活动/主题/站点保持；追加DH2026、UFO2025及两个新稳定系列。只ImageSense旧系列sources追加DH链接，六对应候选指定审核字段变化。当前85刊/72会议/10活动、66系列（6个多届），273候选161/108/4；索引、分区及样例计数保持。
+
+## C14：NLO历史、IGARSS未来与ISDH冲突
+
+核验2026-10-03。本批审核三个新候选，两届入库、一项明确冲突暂缓；OSD主页额外读取无新字段，保留先前核验日，已今日读过的Photonics Europe未重查。
+
+| 条目 / 字段           | 已读来源及结果                                                                                                                                                                      | 保留范围                                                                                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NLO2025身份/会期/范围 | [Optica专题主页](https://www.optica.org/events/topical_meetings/nonlinear_optics/)明确8/4–7、檀香山'Alohilani Resort Waikiki Beach；非线性现象、材料/器件及不同能量/光谱尺度。      | 独立专题历史届次；未读投稿细则、费用、出版，均未知。主页无已核实后续日城，不推算2027；期刊专刊不是会议DDL。                                              |
+| IGARSS2027身份/场地   | [当届首页](https://2027.ieeeigarss.org/)及[CFP](https://2027.ieeeigarss.org/call_for_papers.php)：第47届GRSS会议，2027-07-11–16、雷克雅未克Harpa Concert Hall & Conference Centre。 | 未来已发布征稿不表示投稿系统已开放；注册入口和费用未核实。                                                                                               |
+| IGARSS光学适配        | [Topics](https://2027.ieeeigarss.org/topics.php)列高光谱处理、光学建模、Lidar及被动光学多/高光谱传感。                                                                              | 整会还含微波等，描述注明光学子集，不把全部地球科学泛归光学。                                                                                             |
+| IGARSS稿型/出版       | [CFP](https://2027.ieeeigarss.org/call_for_papers.php)：四页完整论文可入Xplore，400–600词摘要不入；近期Q1期刊文章须2026-01-01之后发表；学生竞赛限完整论文。                         | Q1体系未说明，不改写成JCR/CAS；模板/Paper Kit尚待系统，页数是否含参考文献未核实。仅完整论文路径有该出版说明，不保证实际数据库检索。                      |
+| IGARSS日期            | [Important Dates](https://2027.ieeeigarss.org/important_dates.php)：系统2026-11-10计划上线、2027-01-11投稿、3/12通知；4/30录用稿提交/作者注册/早鸟阶段结束，注册3/29开放。          | 均日期级无时刻/时区；CCT10/15 2026和Tutorial11/3是提案，不混普通稿DDL。没有登录系统或填表。                                                              |
+| ISDH冲突及身份        | [发现站点](https://isdh2026.org/)自称Lake Forest College/Lillard Science Center：Save the Date写6/22至Friday6/27，而2026-06-27是周六；活动表Thursday6/25与Friday6/25重复。          | 终日不选一个充数，改deferred，待大学官方公告/准确日程交叉证实主办关系及技术会期；不自行纠成6/26。布展6/21不作技术会开始，展示/缴费发言不凭空称评审论文。 |
+
+旧72届、66系列、85刊及其他目录保持；只追加两届及两个稳定系列、三个候选指定字段。当前85/74/10、68稳定系列、273候选163/105/5；仍6个多届系列，分区索引和二十刊样例保持。

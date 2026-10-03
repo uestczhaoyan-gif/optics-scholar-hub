@@ -787,5 +787,30 @@
       "https://ufo2025.fc.up.pt/news/post-04/"
     ],
     "nextEditionCheckedAt": "2026-10-03"
+  },
+  {
+    "id": "series-0b3a7b20ba9c",
+    "name": "Optica Nonlinear Optics",
+    "aliases": [],
+    "editionIds": ["optica-nlo-2025"],
+    "website": "https://www.optica.org/events/topical_meetings/nonlinear_optics/",
+    "sources": [
+      "https://www.optica.org/events/topical_meetings/nonlinear_optics/"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
+  },
+  {
+    "id": "series-4c03de207508",
+    "name": "IEEE IGARSS",
+    "aliases": [],
+    "editionIds": ["igarss-2027"],
+    "website": "https://2027.ieeeigarss.org/",
+    "sources": [
+      "https://2027.ieeeigarss.org/",
+      "https://2027.ieeeigarss.org/topics.php",
+      "https://2027.ieeeigarss.org/important_dates.php",
+      "https://2027.ieeeigarss.org/call_for_papers.php"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]
