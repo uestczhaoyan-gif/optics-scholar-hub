@@ -505,3 +505,7 @@ IMID2027官方预告位于图像感谢信，原文字指纹不能发现同URL图
 ## C13：历史会期与后续发现（2026-10-03）
 
 新增DH2026与UFO2025两历史届次，当前85刊/72会议/10活动、66系列（6个多届）、273候选161/108/4。直接核实UFO历史稿件/注册规则，未知出版/时区保留；DH/ImageSense2027加拿大7月未到具体日，不生成未来届次。QCMC/EWOFS/ARVRMR仍pending，[逐字段范围](CONFERENCE_EVIDENCE_2026-10-03.md)。S2 3326d9e79650568405d3dd889e39fc1d73c5b684已验收[Pages37116311255](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37116311255)：build/deploy成功，首页/版本HTTP200，4d810d2bf24c7d9995a72e1ea98ca6b38bd091931d42a77a2ab357700f4d211f与本地一致（2026-10-03T10:25:39.234Z），同SHA完整30项测试/typecheck/lint等CI成功后编辑。 其他规划继续，现有五小时任务保持。
+
+## E18：传统光学三刊准备细则（2026-10-03）
+
+AO/JOSA A/JOSA B补摘要、通讯作者、图表/资助与补充材料；仅requirements，建议/硬性上限、通用/独立规则及2020页面版本分开，[具体依据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。C13 3998d91aa6037c90beb31b6be4039abd3f794bf5已验收[Pages37117128691](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37117128691)：build/deploy成功，首页/版本HTTP200，3ad612188bff38ad228a6927756ef4b8690337756e31e1b0a7be285bcab87a3d与本地一致（2026-10-03T10:40:12.624Z），同SHA完整CI成功后修改。 当前全部计数保持，剩余规划继续。

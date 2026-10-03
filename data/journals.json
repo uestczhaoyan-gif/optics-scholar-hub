@@ -4971,7 +4971,10 @@
     "requirements": [
       "接收应用研究、邀请综述、评论与 Application Notes；范围以本刊 About 为准。",
       "Optica 接受 Word 或 LaTeX；模板视觉样式为参考，不是强制排版。LaTeX 主文仅一个 .tex，附非标准样式文件，包内不可嵌套压缩包；按 PRISM 官方入口提交。来源 https://opg.optica.org/content/author/portal/item/templates-default/ 。",
-      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。"
+      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立硬性摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。",
+      "2026-10-03核对明确覆盖本刊的通用样式指南：摘要约100词，未核实本刊独立硬性上限。标注通讯作者时只能一位；资助段由PRISM登记信息生成，正文占位文字在制作时替换。来源 https://opg.optica.org/content/author/portal/item/style-optica-styleguide/ 。",
+      "图表按文中引用顺序编号并嵌入正文，每幅图一个图像文件；使用Word表格编辑器或LaTeX表格，不能直接导入Excel表。来源 https://opg.optica.org/content/author/portal/item/style-optica-styleguide/ 。",
+      "补充材料随稿上传并送审；补充文档通常为Word/LaTeX转PDF，图表编号S1等，主文须独立完整。补充内容不做文字编辑，经PRISM提交者由Figshare托管；视频15MB是建议上限。本页标注2020-06-11，2026-10-03仍可读，版本日与核验日分开。来源 https://opg.optica.org/content/author/portal/item/style-supplementary-materials/ 。"
     ],
     "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 订阅与可选 OA 并行；可选 OA USD 2300，符合资格的 CC BY USD 2550/篇。税及特定优惠本批未核实。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 。",
     "schedule": "官网列每月 1、10、20 日三期，并采用 article-at-a-time；常规稿经 PRISM 投稿，频次不保证个别审稿时限。",
@@ -5020,7 +5023,10 @@
     "requirements": [
       "本刊接收研究论文、教程、讨论、专题稿、已刊论文评论及部分回顾；须符合经典光学、成像与视觉范围。",
       "Optica 接受 Word 或 LaTeX；模板视觉样式为参考，不是强制排版。LaTeX 主文仅一个 .tex，附非标准样式文件，包内不可嵌套压缩包；按 PRISM 官方入口提交。来源 https://opg.optica.org/content/author/portal/item/templates-default/ 。",
-      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。"
+      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立硬性摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。",
+      "2026-10-03核对明确覆盖本刊的通用样式指南：摘要约100词，未核实本刊独立硬性上限。标注通讯作者时只能一位；资助段由PRISM登记信息生成，正文占位文字在制作时替换。来源 https://opg.optica.org/content/author/portal/item/style-optica-styleguide/ 。",
+      "图表按文中引用顺序编号并嵌入正文，每幅图一个图像文件；使用Word表格编辑器或LaTeX表格，不能直接导入Excel表。来源 https://opg.optica.org/content/author/portal/item/style-optica-styleguide/ 。",
+      "补充材料随稿上传并送审；补充文档通常为Word/LaTeX转PDF，图表编号S1等，主文须独立完整。补充内容不做文字编辑，经PRISM提交者由Figshare托管；视频15MB是建议上限。本页标注2020-06-11，2026-10-03仍可读，版本日与核验日分开。来源 https://opg.optica.org/content/author/portal/item/style-supplementary-materials/ 。"
     ],
     "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 订阅与可选 OA 并行；可选 OA USD 2300，符合资格的 CC BY USD 2550/篇。税及特定优惠本批未核实。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 。",
     "schedule": "官网列月刊、article-at-a-time；常规稿经 PRISM 投稿，不将历史中位数当作审稿承诺。",
@@ -5070,7 +5076,10 @@
     "requirements": [
       "本刊接收原创研究、专题稿、邀请综述和教程、已刊论文评论；量子/非线性及光子器件范围与 JOSA A 分开。",
       "Optica 接受 Word 或 LaTeX；模板视觉样式为参考，不是强制排版。LaTeX 主文仅一个 .tex，附非标准样式文件，包内不可嵌套压缩包；按 PRISM 官方入口提交。来源 https://opg.optica.org/content/author/portal/item/templates-default/ 。",
-      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。"
+      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立硬性摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。",
+      "2026-10-03核对明确覆盖本刊的通用样式指南：摘要约100词，未核实本刊独立硬性上限。标注通讯作者时只能一位；资助段由PRISM登记信息生成，正文占位文字在制作时替换。来源 https://opg.optica.org/content/author/portal/item/style-optica-styleguide/ 。",
+      "图表按文中引用顺序编号并嵌入正文，每幅图一个图像文件；使用Word表格编辑器或LaTeX表格，不能直接导入Excel表。来源 https://opg.optica.org/content/author/portal/item/style-optica-styleguide/ 。",
+      "补充材料随稿上传并送审；补充文档通常为Word/LaTeX转PDF，图表编号S1等，主文须独立完整。补充内容不做文字编辑，经PRISM提交者由Figshare托管；视频15MB是建议上限。本页标注2020-06-11，2026-10-03仍可读，版本日与核验日分开。来源 https://opg.optica.org/content/author/portal/item/style-supplementary-materials/ 。"
     ],
     "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 2026 卷已确认 S2O 全部开放、免 APC；符合资格的 CC BY 另收 USD 250，不能据此声称超页或印刷彩图免收。2027 S2O 尚依赖年度订阅门槛，不承诺继续免 APC。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 及 https://opg.optica.org/content/library/portal/item/subscribe-to-open 。税本批未核实。",
     "schedule": "官网列月刊、article-at-a-time；常规稿经 PRISM 投稿，S2O 按出版卷年确认而非投稿年自动套用。",

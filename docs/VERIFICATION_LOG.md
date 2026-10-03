@@ -919,3 +919,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/C13_RESEARCH_2026-10-03.md保存S2验收和修改边界。旧70届/85刊及其余目录保持，两个新稳定系列、六候选白名单及ImageSense来源追加断言通过；实际额度五小时85%/周29%允许，未用重置券。必要验证/差异审查后提交推送验收同SHA；其他规划继续。
 
 - 发布前数据校验、旧70届/其余目录与候选字段白名单/66稳定系列归属和当前计数断言通过；166个本地Markdown链接、维护295项（唯一CIOP后续任务）及12主题/273候选覆盖通过。85/72/10、JCR68/CAS11、SCIE72/ESCI11/EI78及二十刊样例保持。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；完整功能检查由同SHA CI验收。
+
+## 2026-10-03：传统光学三刊准备细则 E18
+
+- C13 3998d91aa6037c90beb31b6be4039abd3f794bf5已验收[Pages37117128691](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37117128691)：build/deploy成功，首页/版本HTTP200，3ad612188bff38ad228a6927756ef4b8690337756e31e1b0a7be285bcab87a3d与本地一致（2026-10-03T10:40:12.624Z），同SHA完整CI成功后修改。
+- AO/JOSA A/JOSA B补摘要建议、通讯作者、资助/图表和补充文件的适用细则；[逐字段出处/版本边界](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。约100词/视频15MB的建议与硬性上限分开，旧费用/索引/分区/完整核验日保持。
+- 长操作前work/E18_RESEARCH_2026-10-03.md保存C13验收与精确范围。实际五小时90%/周30%允许；只三requirements改变，旧条目其他字段及其余目录保持。必要验证/范围审查后推送同SHA验收，未用重置券，其他规划继续。
+
+- 发布前数据校验、三刊仅requirements/原要求保持与其余82刊/其他全部JSON保持断言通过；129个本地Markdown链接、维护295项/唯一CIOP后续任务、12主题覆盖及当前全部计数通过。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；本数据批次完整30项测试/typecheck/lint由同SHA CI验收。

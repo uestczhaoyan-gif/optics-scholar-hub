@@ -148,3 +148,11 @@ AOP PDF SHA-256：22bdd3de0f49559201e01efda5b8671a3f8c45fe744a4d0d06ec8d0bba18e7
 - [PhotoniX本刊指南](https://link.springer.com/journal/43074/submission-guidelines)：独立读取cover letter、software数据声明及20MB补充文件规则，保存同类材料边界；单匿名评审正文明确审稿人知道作者机构、报告对作者匿名，不套用eLight透明审稿。原Research结构/图文件10MB及当前APC保持，未声称其他稿型全部核验。
 
 另只读APS PRL/PRA/PRB作者页，三刊不在当前79刊正式目录，未当作已有刊修改，未查准入数据库或增添分区。已读规则保存work/E17_RESEARCH_2026-10-03.md供未来候选准入后使用。
+
+## E18：AO / JOSA A / JOSA B 样式和补充材料
+
+核验2026-10-03，仅三刊requirements。官方[通用样式指南](https://opg.optica.org/content/author/portal/item/style-optica-styleguide/)开头明确包含AO、JOSA A、JOSA B；分别依据适用名单增加准备细则，不改已核稿型、费用或S2O年度判断。摘要约100词，不写独立严格上限；指定通讯作者时仅一位。资助段来自PRISM登记，正文占位在制作时替换。图嵌入正文/按引用顺序编号、每幅图一个文件；表格用Word编辑器或LaTeX，不直接导入Excel。
+
+所链[补充材料指南](https://opg.optica.org/content/author/portal/item/style-supplementary-materials/)正文标注2020-06-11，本轮仍能读取，版本与核验日分开。材料初投上传并随稿评审；文档通常Word/LaTeX转PDF、图表S1编号，主文须脱离补充亦完整。补充内容不做文字编辑、PRISM上传者由Figshare托管。视频15MB是建议上限，未核系统硬限制；此处未录入未进一步核实的软件/大数据规则或许可变化，也不移植合作刊例外。未下载、登录、上传或购买服务。
+
+原清单“独立摘要上限未核实”澄清为“独立硬性摘要上限”，与通用约100词区别。旧三条其余文字和所有非requirements字段保留，其他82刊/会议/系列/活动/候选/基础JSON保持。当前85/72/10、66系列、273候选161/108/4及索引分区/样例计数不变。
