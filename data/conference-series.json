@@ -378,7 +378,9 @@
     "website": "https://www.usqs.com.cn/",
     "sources": [
       "https://www.usqs.com.cn/",
-      "https://www.usqs.com.cn/en/h-col-126.html"
+      "https://www.usqs.com.cn/en/h-col-126.html",
+      "https://www.usqs.com.cn/h-col-122.html",
+      "https://www.usqs.com.cn/en/h-col-122.html"
     ],
     "nextEditionCheckedAt": null
   },

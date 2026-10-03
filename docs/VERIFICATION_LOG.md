@@ -865,3 +865,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [B3字段来源及范围](CONFERENCE_EVIDENCE_2026-10-03.md)：ACP/IPC/OMTA/OPTIC/PW临近日期与目录一致，只补三届实际参会政策。住宿/退款不当投稿或最终注册截止，未知费用及早鸟冲突继续保留；整条核验日不刷新。长操作前work/B3_RESEARCH_2026-10-03.md保存C9验收与精确范围，数量和候选状态保持。必要验证后提交推送同SHA验收；未登录、注册或付款。
 
 - 发布前数据校验、三届字段白名单/所有截止及整条日期保持断言、107个本地Markdown链接、维护295项/覆盖12主题与当前计数通过；Pages子路径构建及六入口资源exit0，差异审查/git diff --check通过。数据批次不新增或重复功能测试，本次完整29项测试/typecheck/lint由同SHA Pages CI验收，未在本地再跑无关功能回归。
+
+## 2026-10-03：已有未来预告 C10
+
+- B3 637edb59aa19691915ce2e4afc0eaa40b61d0434已验收[Pages37112615745](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37112615745)：build/deploy成功，首页/版本HTTP200，5f28d208ef0801ad52e7a23538d74e45df3bbc1519e8f29f8690158b7465652a与本地一致（2026-10-03T09:20:00.231Z）后正式修改。本SHA完整CI检查成功。
+- [C10字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)：USQS旧年度注册异常已变，正常浏览器确认2027横幅和表单，登记链接/发布费率可补；无年份退款继续未知，不造日历截止。其他四预告限定范围未取得新征稿字段，不为凑提交更新日期。长操作前work/C10_RESEARCH_2026-10-03.md保存B3验收/修改范围；全部数量/索引分区保持，验证后推送同SHA验收。
+
+- 发布前精确断言：只USQS登记/追加要求/notes及未知注册来源说明、该系列新增来源和对应候选nextAction/reviewedAt改变；其余68会议及全部日期/checkedAt保持。数据校验、110个本地Markdown链接、维护294项/覆盖12主题与当前计数通过；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过。数量79/69/10、候选273（153/116/4）、JCR62/CAS11、十四刊样例保持；完整功能检查在同SHA CI验收。
