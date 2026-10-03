@@ -327,7 +327,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["islc-2026"],
     "decisionReason": "本轮读取当届官方身份、会期与城市依据，按历史届次准入；征稿与出版缺口保留。",
-    "nextAction": "跟踪下一届官方通知；本届历史截止、篇幅及费用仍待核实，不按周期推算。",
+    "nextAction": "基金会参会报道确认2028岐阜线索；预告页日期域名的主办方关联尚未充分核实，跟进正式官方入口后再追加。",
     "reviewedAt": "2026-10-03"
   },
   {
@@ -723,12 +723,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "光通信、集成光子",
-    "sourceEntry": "https://ecoc2026.org/",
+    "sourceEntry": "https://ecoc2027.org/important-dates/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["ecoc-2026"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["ecoc-2026", "ecoc-2027"],
+    "decisionReason": "官方后续届次身份及会期已核实，追加2027记录并保留2026历史；征稿缺口分别保存。",
+    "nextAction": "核对2027模板/篇幅、PDP、注册和出版，关注2/15系统开放。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-f623de7866",
@@ -737,12 +737,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学会官网、当届征稿与出版形式",
-    "sourceEntry": "https://www.europeanoptics.org/events/eos/eosam2026.html",
+    "sourceEntry": "https://www.europeanoptics.org/events/eos/eosam-2027.html",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["eosam-2026"],
-    "decisionReason": "已读取 EOS 当届官网、会场、重要日期和投稿指南，以 2026 坦佩雷届次收录；未采用旧届会场和混有旧年份的海报场次。",
-    "nextAction": "核对最终论文集及后续届次；追加海报注册安排与非出版一页稿的适用条件仍需组织方确认。",
-    "reviewedAt": "2026-09-14"
+    "relatedExistingIds": ["eosam-2026", "eosam-2027"],
+    "decisionReason": "官方后续届次身份及会期已核实，追加2027记录并保留2026历史；征稿缺口分别保存。",
+    "nextAction": "跟踪2027征稿/注册/出版细则，不沿用旧届规则。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-00afad0df0",
@@ -767,10 +767,10 @@
     "scopeHint": "综合光学、激光与非线性、量子光学",
     "sourceEntry": "https://www.frontiersinoptics.com/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["fio-2026"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["fio-2026", "fio-2027"],
+    "decisionReason": "官方后续届次身份及会期已核实，追加2027记录并保留2026历史；征稿缺口分别保存。",
+    "nextAction": "跟踪2027征稿/注册/出版细则，不沿用旧届规则。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-0d93e81109",
@@ -779,12 +779,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "成像与计算光学",
-    "sourceEntry": "https://2026.ieeeicip.org/",
+    "sourceEntry": "https://signalprocessingsociety.org/events/2027-ieee-international-conference-image-processing-icip",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["icip-2026"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["icip-2026", "icip-2027"],
+    "decisionReason": "官方后续届次身份及会期已核实，追加2027记录并保留2026历史；征稿缺口分别保存。",
+    "nextAction": "补2027完整CFP、模板/页限、会场、注册和各通道出版政策；已知3/31仅日期。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-6ea78a0d43",
@@ -919,7 +919,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["ultrafast-phenomena-2026"],
     "decisionReason": "当届邀请函及大学会后报道确认2026札幌8/2–7历史届。",
-    "nextAction": "跟踪下一届；两页TechnicalDigest与No proceedings分别保留，PDP注册适用日期待补，不保证索引。",
+    "nextAction": "2026邀请函/首页无具体后续官方日城；不能由两年周期推算2028会期。继续跟踪原出版冲突与后续公告。",
     "reviewedAt": "2026-10-03"
   },
   {

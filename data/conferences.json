@@ -3369,5 +3369,208 @@
         "note": "有现场注册价格；只记录阶段结束日，未确认最终截止或具体时刻。"
       }
     ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "ecoc-2027",
+    "series": "ECOC",
+    "year": 2027,
+    "name": "欧洲光通信会议 ECOC 2027",
+    "nameEn": "53rd European Conference on Optical Communication",
+    "location": "意大利 · 米兰",
+    "venue": "MiCo – Milano Convention Centre",
+    "start": "2027-10-10",
+    "end": "2027-10-14",
+    "topics": ["光通信", "集成光子", "传感与测量", "量子光学", "电子与器件"],
+    "description": "ECOC 后续米兰届次，官方技术范围覆盖光纤、光子器件、通信系统/网络、自由空间光通信、量子及数据中心光互连。",
+    "website": "https://ecoc2027.org/",
+    "notice": "https://ecoc2027.org/important-dates/",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "官方日程注明普通及Demo系统于2027-02-15开放、注册系统于02-22开放；日程已公布不表示现在开放。",
+      "普通论文与Demo截止分别保存；当届篇幅、模板、摘要长度、投稿入口及PDP尚未核实，不沿用2026规则。"
+    ],
+    "publication": "当届出版、报告/no-show及索引送审条件尚未核实，不将旧届出版政策视为2027保证。",
+    "notes": "技术会议10/10–14，与展览10/11–13分开。会场出处：https://ecoc2027.org/venue/；研究范围：https://ecoc2027.org/topics/。各截止只有日期，无公布时刻/时区。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止",
+        "date": "2027-04-25",
+        "source": "https://ecoc2027.org/important-dates/"
+      },
+      {
+        "type": "demo",
+        "label": "Demo稿件截止",
+        "date": "2027-04-25",
+        "source": "https://ecoc2027.org/important-dates/"
+      },
+      {
+        "type": "notification",
+        "label": "普通稿件录用通知",
+        "date": "2027-06-25",
+        "source": "https://ecoc2027.org/important-dates/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止",
+        "date": "2027-08-06",
+        "source": "https://ecoc2027.org/important-dates/"
+      },
+      {
+        "type": "registration",
+        "label": "常规注册截止",
+        "date": "2027-10-03",
+        "source": "https://ecoc2027.org/important-dates/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP安排待核实",
+        "date": null,
+        "source": "https://ecoc2027.org/important-dates/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "fio-2027",
+    "series": "FiO + LS",
+    "year": 2027,
+    "name": "光学前沿与激光科学会议 FiO + LS 2027（预告）",
+    "nameEn": "Frontiers in Optics + Laser Science 2027",
+    "location": "美国 · 华盛顿州西雅图",
+    "venue": "Seattle Convention Center the Arch",
+    "start": "2027-09-26",
+    "end": "2027-09-30",
+    "topics": ["综合光学", "激光与非线性", "量子光学"],
+    "description": "FiO + LS 已公布的后续西雅图技术会议，供提前规划基础光学与激光科学交流；本届详细征稿仍待补。",
+    "website": "https://www.frontiersinoptics.com/",
+    "notice": "https://www.frontiersinoptics.com/",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "首页明确2027技术会议会期及会场；投稿要求、模板、篇幅及系统开放状态仍待核实。",
+      "当前Submit a Paper与Registration页面仍显示2026罗切斯特届次；旧两页/摘要、费用及截止不移用为2027。"
+    ],
+    "publication": "2027录用、报告及论文集条件尚未核实；现有投稿页仍属2026，不据此保证后续届次出版或索引。",
+    "notes": "2027产业展示9/28–29，与技术会议9/26–30分开。首页已切换后续届次，但旧页https://www.frontiersinoptics.com/submissions和https://www.frontiersinoptics.com/registration仍为2026。保留2026独立历史条目。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止待公布",
+        "date": null,
+        "source": "https://www.frontiersinoptics.com/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP截止待公布",
+        "date": null,
+        "source": "https://www.frontiersinoptics.com/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布",
+        "date": null,
+        "source": "https://www.frontiersinoptics.com/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "eosam-2027",
+    "series": "EOSAM",
+    "year": 2027,
+    "name": "欧洲光学学会年会 EOSAM 2027（预告）",
+    "nameEn": "European Optical Society Annual Meeting 2027",
+    "location": "波兰 · 弗罗茨瓦夫",
+    "venue": "Wroclaw Tech Congress Center",
+    "start": "2027-09-27",
+    "end": "2027-09-30",
+    "topics": ["综合光学"],
+    "description": "EOS与弗罗茨瓦夫科技大学联合组织的后续年会，涵盖光学与光子学；2027专题与征稿细则尚待公布。",
+    "website": "https://www.europeanoptics.org/events/eos/eosam-2027.html",
+    "notice": "https://www.europeanoptics.org/events/eos/eosam-2027.html",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "EOS当届公告已核实会期、城市、会场及合作组织；页面写More information coming soon。",
+      "2027稿件长度、模板、口头/海报、注册与出版选择待核实；不沿用2026的两页和报告规则。"
+    ],
+    "publication": "2027论文集出版、费用、报告要求及JEOS-RP扩展通道尚未核实。",
+    "notes": "9/4官方会后回顾亦确认2027日期城市：https://www.europeanoptics.org/news/optics-under-the-northern-light.html。旧历届总览仍写2027地点待公布，采用明确当届公告，不修改2026历史规则。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "投稿截止待公布",
+        "date": null,
+        "source": "https://www.europeanoptics.org/events/eos/eosam-2027.html"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待公布",
+        "date": null,
+        "source": "https://www.europeanoptics.org/events/eos/eosam-2027.html"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "icip-2027",
+    "series": "IEEE ICIP",
+    "year": 2027,
+    "name": "IEEE 国际图像处理会议 ICIP 2027",
+    "nameEn": "IEEE International Conference on Image Processing 2027",
+    "location": "新加坡",
+    "venue": "具体会场待官方公告核实",
+    "start": "2027-11-29",
+    "end": "2027-12-03",
+    "topics": ["成像与计算光学"],
+    "description": "IEEE SPS后续图像处理会议，新加坡届次已在学会日历与当届官网共同确认；适配图像/视频处理及计算成像方向。",
+    "website": "https://2027.ieeeicip.org/",
+    "notice": "https://signalprocessingsociety.org/events/2027-ieee-international-conference-image-processing-icip",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "IEEE SPS官方活动页列普通论文截止2027-03-31，仅日期，无时刻/时区。",
+      "当届官网仍为初步介绍，详细CFP、篇幅、模板、WIP/OJSP通道与提交系统未核实；不沿用2026规则。",
+      "官网注册链接指向共址SPS Summit，尚未核对2027具体费率/注册覆盖范围，不把共址整体安排当作ICIP独立政策。"
+    ],
+    "publication": "2027当届论文集、IEEE Xplore、报告与no-show条件待核实；IEEE会议身份不等于所有通道必然出版。",
+    "notes": "学会页与2027官网均为11/29–12/3、新加坡；不套用旧组织指南通常9–10月的建议。其他共址活动独立，不重复计作ICIP届次。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（SPS活动公告）",
+        "date": "2027-03-31",
+        "source": "https://signalprocessingsociety.org/events/2027-ieee-international-conference-image-processing-icip"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知待核实",
+        "date": null,
+        "source": "https://2027.ieeeicip.org/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "终稿截止待核实",
+        "date": null,
+        "source": "https://2027.ieeeicip.org/"
+      },
+      {
+        "type": "registration",
+        "label": "注册截止待核实",
+        "date": null,
+        "source": "https://2027.ieeeicip.org/"
+      }
+    ]
   }
 ]

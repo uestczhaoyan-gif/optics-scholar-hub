@@ -48,25 +48,29 @@
     "id": "series-e0aa59321b2a",
     "name": "ECOC",
     "aliases": [],
-    "editionIds": ["ecoc-2026"],
-    "website": "https://ecoc2026.org/",
+    "editionIds": ["ecoc-2026", "ecoc-2027"],
+    "website": "https://ecoc2027.org/",
     "sources": [
       "https://ecoc2026.org/",
-      "https://ecoc2026.org/ECOC2026/paper-submission"
+      "https://ecoc2026.org/ECOC2026/paper-submission",
+      "https://ecoc2027.org/",
+      "https://ecoc2027.org/important-dates/",
+      "https://ecoc2027.org/venue/",
+      "https://ecoc2027.org/topics/"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-9ca5e7bc1abb",
     "name": "FiO + LS",
     "aliases": [],
-    "editionIds": ["fio-2026"],
+    "editionIds": ["fio-2026", "fio-2027"],
     "website": "https://www.frontiersinoptics.com/",
     "sources": [
       "https://www.frontiersinoptics.com/",
       "https://www.frontiersinoptics.com/submissions/author-timeline"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-6ea78a0d43e3",
@@ -96,13 +100,15 @@
     "id": "series-0d93e81109e8",
     "name": "IEEE ICIP",
     "aliases": [],
-    "editionIds": ["icip-2026"],
-    "website": "https://2026.ieeeicip.org/",
+    "editionIds": ["icip-2026", "icip-2027"],
+    "website": "https://2027.ieeeicip.org/",
     "sources": [
       "https://2026.ieeeicip.org/",
-      "https://2026.ieeeicip.org/call-for-papers-and-abstracts/"
+      "https://2026.ieeeicip.org/call-for-papers-and-abstracts/",
+      "https://2027.ieeeicip.org/",
+      "https://signalprocessingsociety.org/events/2027-ieee-international-conference-image-processing-icip"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-f73fbdc0215b",
@@ -258,13 +264,14 @@
     "id": "series-86cdd7a29672",
     "name": "EOSAM",
     "aliases": [],
-    "editionIds": ["eosam-2026"],
-    "website": "https://www.europeanoptics.org/events/eos/eosam2026.html",
+    "editionIds": ["eosam-2026", "eosam-2027"],
+    "website": "https://www.europeanoptics.org/events/eos/eosam-2027.html",
     "sources": [
       "https://www.europeanoptics.org/events/eos/eosam2026.html",
-      "https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html"
+      "https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html",
+      "https://www.europeanoptics.org/events/eos/eosam-2027.html"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-f99079d1fc30",
@@ -595,7 +602,7 @@
     "editionIds": ["islc-2026"],
     "website": "https://events.tuni.fi/islc2026/",
     "sources": ["https://events.tuni.fi/islc2026/"],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-7a78619a9410",
@@ -664,9 +671,10 @@
     "website": "https://www.up2026.jp/",
     "sources": [
       "https://www.up2026.jp/",
-      "https://www.up2026.jp/submission.html"
+      "https://www.up2026.jp/submission.html",
+      "https://www.up2026.jp/invitation.html"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-d903687e894f",
