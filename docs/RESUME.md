@@ -128,3 +128,5 @@ A13 针对六刊读取官方指标及相关公告入口，均未取得可直接�
 E14 为 AFM 补研究稿建议/摘要、返修制作、TOC、数据声明及领域清单；ACS Photonics、ACS Nano、Nano Letters 各补本刊 Fast Format、SI 分类和数据政策，鼓励与强制分开。NML 保留出版社现价并显式记录独立刊站免 APC 冲突。仅四刊 requirements 与 NML publishing 改变；[逐字段证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。A13 bd1b3c1 已确认 Pages 37075731347 和线上原目录版本，首次连接超时只复查同一部署，未重复提交。其他指南/分区及候选仍继续。
 
 C5 审核六个既有系列及新确认的 ImageSense 母会，新增两届未来预告（IODC 2027、OIC 2028）及四届历史会议（Advanced Photonics 2026、Imaging 2025、ISLC 2026、ImageSense 2026）。正式 74 刊/55 会议/9 活动；候选 272（138 admitted / 131 pending / 3 deferred）。NP 隶属已收母会仍 pending，旧 Imaging 与 ImageSense 的继承关系未证实，不强行合并。[字段来源与层级](CONFERENCE_EVIDENCE_2026-10-03.md)。E14 a21e0a0 已确认 Pages 37076180292 与线上 7769c8aa…；本批必要验证已通过，提交与部署结果见最新日志；其他规划继续。
+
+E15 审核六刊作者细则，更新 OPE/CPL/中国激光/光学学报/进展五刊相应投稿字段；IRLA 访问失败保留原缺口。三刊现主稿及各自长摘要、收费文件逐件核验，建议/硬限、稿型与文件版本分开，CPL 页限及 OPE 审稿/入口冲突保留。[来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。数量、索引/分区、样例及其他字段不变，其他规划继续。

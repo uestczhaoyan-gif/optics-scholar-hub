@@ -101,3 +101,28 @@ AOP PDF SHA-256：22bdd3de0f49559201e01efda5b8671a3f8c45fe744a4d0d06ec8d0bba18e7
 | Nano-Micro Letters            | publishing：出版社 £1890 / USD2690 / EUR2190、按录用日及适用税仍明确；独立刊站无 APC 说法冲突                                                                                                            | [出版社收费](https://link.springer.com/journal/40820/how-to-publish-with-us)与[独立刊站](https://www.nmlett.org/index.php/nml)正文同时可读。独立站未标生效日，无法确认谁已失效；保留现价出处并明确冲突，不承诺免费/实际账单。未联系编辑部。 |
 
 三刊 SI 的发表文件需具体内容与文件扩展名说明、位置在致谢/参考文献之前；仅供审稿的未发表或在印参考副本不作为公开 SI。鼓励数据共享与免费提供已发表 SI 是不同要求。
+
+## E15：六本中文刊/中文主办刊的作者入口与版本
+
+2026-10-03 核对 OPE、CPL、中国激光、光学学报、激光与光电子学进展及 IRLA；只更新前五刊的对应投稿字段，IRLA 未取得新细则。网页原发布日期、目录内附件路径、本次读取日期及规则生效日期分开，没有登录、注册或联系编辑部。
+
+| 对象               | 官方依据与实际范围                                                                                                                                                                                                                                                                                                                                                                        | 保留边界                                                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 光学 精密工程      | 当前菜单实际进入[征稿细则](https://ope.lightpublishing.cn/zh/info/1454/)，原伦理证明要求仍保留；[下载目录](https://ope.lightpublishing.cn/download?columnId=393&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=0&code=download&newsDataType=news&newCompositeId=1425&childId=&lang=zh)只读列名/发布时间，中文模板 2024-03-15，英文/EI 摘要等 2023-02-24。 | 公开费率 500 元/版面未标生效日期；二审/三审表述冲突。投稿链接显示 ScholarOne、实际 href eope.net，真实可用入口仍未确认。未读模板内部限制，不保证审稿周期。           |
+| CPL                | [现官网指南入口](https://cpl.iphy.ac.cn/instructionsforauthors)只有导航；[当前 Author Center](https://editorial.iphy.ac.cn/journalx_cpl/authorLogOn.action?mag_Id=4)实际打开[公开说明](https://editorial.iphy.ac.cn/journalx_cpl/basicinfo/viewHtmlFile.action?id=8)，另读[官方另一说明](https://editorial.iphy.ac.cn/journalx_cpl_cn/basicinfo/viewHtmlFile.action?id=8)。               | 当前系统链接写 Letter 3 页，另一说明写 4 页；文件/提交方式亦不同，未给修订日，不选定现行硬限。系统内材料、模板及费用未知。                                           |
+| 中国激光           | [指南](https://www.opticsjournal.net/J/zgjg/News/PT1901230001332y5A8.html)原发布日期 2019-01-23；[下载中心](https://www.opticsjournal.net/J/zgjg/News/PT200904000018nTpWs.html)实际当前主稿和授权附件；[研究稿长摘要 PDF](https://www.opticsjournal.net/Post/files/2025/12/img_134114634534678836.pdf)第 1 页文字/图像核对。                                                              | docx、签字/盖章扫描件及共用模板的摘要建议/关键词/AIGC；研究稿长摘要 800–1200 单词，标正文图表、不放参考文献、替换原短摘要，末尾另页。未把研究稿规则推广到快报/综述。 |
+| 光学学报           | [指南](https://www.opticsjournal.net/J/gxxb/News/PT1606120003261w4z7.html)原发布 2019-01-20；[当前下载中心](https://www.opticsjournal.net/J/gxxb/News/PT120618000033LhNkQ.html)与[独立长摘要模板](https://www.opticsjournal.net/Post/files/2026/2/img_134153307487325221.docx)分别读取。                                                                                                  | 指南内旧 2021 主稿模板与当前目录分开；长摘要研究/综述 800–1200、快报 400–600 单词，稿型结构不同，不加参考文献及图表/公式/章节序号。内部生效日未给。                  |
+| 激光与光电子学进展 | [指南](https://www.opticsjournal.net/J/lop/News/PT190121000081qXtZw.html)原发布 2019-01-21；实际指向[2025-04-07 下载中心](https://www.opticsjournal.net/j/lop/news/pt250407000312pmspv.html)，[本刊长摘要模板](https://www.opticsjournal.net/Post/files/2026/4/img_134211277353737550.docx)独立读取。                                                                                     | 长摘要稿型篇幅及结构与本刊文件核对，不由另外一刊推断。其他稿型正文上限和预印本政策仍未知。                                                                           |
+| 红外与激光工程     | [官网](https://www.irla.cn/)网页工具 502，普通浏览器报 ERR_CONNECTION_CLOSED。                                                                                                                                                                                                                                                                                                            | 仅记录这次访问结果，原刊名/刊号/索引证据不变；未取得当前模板、篇幅或收费，不继续访问错误页或降低安全设置。                                                           |
+
+三刊当前主稿模板逐文件下载并抽取 XML 的摘要/关键词/图表/创新点/AIGC 段落；三份字节一致。中文摘要约 300 字为建议。没有将模板示例论文当作本刊新样例，也不据 URL 的年份断言内部生效版本。
+
+三刊各自的收费页：[中国激光](https://www.opticsjournal.net/J/zgjg/News/PT2008310000346B8Ea.html)、[光学学报](https://www.opticsjournal.net/J/gxxb/News/PT200831000039Yu2x5.html)、[进展](https://www.opticsjournal.net/J/lop/News/PT2008310000410GcIf.html)，实际关联不同文件名的收费附件均已下载，三份字节一致。单页文字与图像确认适用四刊：审稿 200 元/篇；中国激光/光学学报常规 600 元/页，进展 550 元/页；快报 1,000 元/页、简讯 4,000 元/篇。录用后预排版估页；账务识别规则和实际通知金额不简化为自行计算的付款额。PDF 未注明生效或修订日期，不把网页 2020 原发布日期改成 2026。
+
+核验缓存（忽略目录）哈希：
+
+- 三刊收费 PDF：52a31663a665c8e9bc03cb4f7ab09a00e288668e4213041a43f6b810a5d4a6fa。
+- 三刊当前主稿 DOCX：ec2b39fd1e77d794d5f90b6f2a57079b022c36db9f90a0638ae1b62eefca9f6f。
+- 中国激光研究长摘要 PDF：bffcbbff4c917bffbabf2b85f79aba9a81dc93de5ccdc6347d1b1d56413f739a。
+- 光学学报长摘要 DOCX：3e09d35c6d81011c0f36847e88941c420f74329f7e32ca8bf38135a80e1f6140。
+- 进展长摘要 DOCX：21972f6d91130eb6c49762723d66222661814608259eb18863a5487c7ed9f085。
