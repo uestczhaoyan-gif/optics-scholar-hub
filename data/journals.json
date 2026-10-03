@@ -5188,5 +5188,163 @@
         "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 374 行，Journal 类型及印刷刊号匹配，电子刊号格为 -，不声称该格匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。"
       }
     ]
+  },
+  {
+    "id": "physical-review-a",
+    "name": "Physical Review A",
+    "abbr": "PRA",
+    "publisher": "American Physical Society",
+    "issn": "2469-9926",
+    "eissn": "2469-9934",
+    "domains": ["光学", "物理"],
+    "topics": ["量子光学", "激光与非线性", "纳米与超表面", "传感与测量"],
+    "description": "原子、分子与光学物理及量子科学；官方范围明确光子学、非线性光学、光力学和量子光学。按 JCR 2025 OPTICS Q2 及直接光学适配收录；一般量子算法须另判断研究匹配。",
+    "website": "https://journals.aps.org/pra/",
+    "guide": "https://journals.aps.org/pra/authors",
+    "requirements": [
+      "2026-10-03 本刊指南：Regular Article 无统一篇幅上限，Letter 最多 4,500 词，投稿信需说明采用短稿和优先处理的理由；Perspective 当前仅邀稿，Comment/Reply 最多 3,500 词。Letter 结构摘要另有专门细则，本轮未核实其全部要求。",
+      "通过 APS Submission Server（https://authors.aps.org/）提交；评审 PDF 即可，推荐 LaTeX（REVTeX apstemplate）或 Word 源文件。普通研究稿摘要上限未核实。",
+      "准备数据可用性声明并披露适用的实质 AI 使用；返修含干净稿、逐条回复、改动说明与标改 PDF。附录、补充材料和联合/扩展稿需按本刊对应规则处理，不能套用会议论文豁免。"
+    ],
+    "publishing": "订阅与可选 Gold OA 分开。2026-10-03 APS 官方 2026 APC 表列本刊可选 OA USD 2,910、CC BY 4.0，按投至实际发表期刊的时点定价，转刊按目标刊处理。Editorial/Comment/Correction 不适用 APC；机构协议及低收入地区减免须核对资格。作者指南另列可选印刷彩色：首图 USD 1,090、每增一图 595，在线彩色免费；该表未注明版年，核验日为 2026-10-03。税及其他费用未核实，不将此价格写成含税总价或全刊强制费用。来源：https://journals.aps.org/authors/apcs 印刷彩色来源：https://journals.aps.org/pra/authors#color-figures-charges",
+    "schedule": "常规投稿，专题另查当期公告；不承诺审稿或出版时长。",
+    "checkedAt": "2026-10-03",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=568",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2469-9926&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开浏览器查询：刊号 2469-9926 返回唯一 Exact Match，刊名/刊号一致，结果卡明确 Science Citation Index Expanded。未登录完整 profile 或做单篇检索，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier 官方 Compendex SERIALS（2026-08-07 版）第 4381 行，Journal 刊名/刊号匹配；DISCONTINUED（2026-05-01 版）无同名匹配。印刷/电子两刊号均匹配。未做订阅平台逐篇检索，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Enhanced tunable photon-pair generation from a nonlinear metasurface with a guided-mode cavity",
+        "source": "https://journals.aps.org/pra/abstract/10.1103/p1wr-98wx",
+        "publishedAt": "2025-06-20",
+        "relevance": "2026-10-03 核验官方摘要和出版信息：111(6), 063519。非线性超表面导模腔的光子对产生理论及泵浦调谐，适配量子光源/纳米光子学；预测增强不当作已实现器件实验。"
+      },
+      {
+        "title": "Angle-insensitive nonlinear enhancement in an all-dielectric metasurface via Brillouin-zone folding",
+        "source": "https://journals.aps.org/pra/abstract/10.1103/gw9j-9dxk",
+        "publishedAt": "2025-08-12",
+        "relevance": "2026-10-03 核验官方摘要和出版信息：112(2), 023508。利用布里渊区折叠获得角度鲁棒共振及三次谐波增强，适配超表面与非线性光学；仅据摘要不声称已制作或实验验证。"
+      },
+      {
+        "title": "Probing bandwidth and sensitivity in Rydberg atom sensing via optical homodyne and rf heterodyne detection",
+        "source": "https://journals.aps.org/pra/abstract/10.1103/jsbl-45t9",
+        "publishedAt": "2026-01-20",
+        "relevance": "2026-10-03 核验官方摘要和出版信息：113(1), 013729。铷蒸气 EIT 探测中联合光学零差与射频外差，实验研究带宽/灵敏度和数字信号接收；适配光谱、量子传感与光学读出，不能概括成一般射频会议适配。"
+      }
+    ]
+  },
+  {
+    "id": "physical-review-applied",
+    "name": "Physical Review Applied",
+    "abbr": "PRApplied",
+    "publisher": "American Physical Society",
+    "issn": null,
+    "eissn": "2331-7019",
+    "domains": ["光学", "物理", "材料", "电子"],
+    "topics": [
+      "集成光子",
+      "电子与器件",
+      "量子光学",
+      "纳米与超表面",
+      "传感与测量"
+    ],
+    "description": "联系应用物理与工程技术，光学适配包括光子器件、光电子、超材料及量子光学传感。按 JCR 2025 PHYSICS, APPLIED 的 JIF Q2 收录；同表 AIS Q1 不当作 JCR Q1，非光学工程内容须另判断。",
+    "website": "https://journals.aps.org/prapplied/",
+    "guide": "https://journals.aps.org/prapplied/authors",
+    "requirements": [
+      "2026-10-03 本刊指南：Regular Article 无统一篇幅上限，Letter 最多 4,500 词，Review 最多 30,000 词；Perspective 邀稿但可送一页提案，Comment/Reply 最多 3,500 词。",
+      "通过 APS Submission Server（https://authors.aps.org/）提交；Research Article/Letter 初投需100 词的重要性说明。评审 PDF 即可，推荐 REVTeX LaTeX 或 Word 源文件；正式研究稿摘要词数未核实。",
+      "准备数据可用性声明和适用的实质 AI 披露；论文应可独立阅读，适合附录的信息一般优先放附录，补充材料和相关联合投稿另按指南处理。更长的相关稿须有实质新增并说明引用关系，不默认允许重复会议稿。"
+    ],
+    "publishing": "订阅与可选 Gold OA 分开。2026-10-03 APS 官方 2026 APC 表列本刊可选 OA USD 2,910、CC BY 4.0，按投至实际发表期刊的时点定价，转刊按目标刊处理。Editorial/Comment/Correction 不适用 APC；机构协议及低收入地区减免须核对资格。税及非 OA 的其他费用未核实，不将此价格写成含税总价或全刊强制费用。来源：https://journals.aps.org/authors/apcs",
+    "schedule": "常规投稿，Letters 优先处理不等于保证时长或录用；专题另查正式通知。",
+    "checkedAt": "2026-10-03",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2331-7019&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开浏览器查询：刊号 2331-7019 返回唯一 Exact Match，刊名/刊号一致，结果卡明确 Science Citation Index Expanded。未登录完整 profile 或做单篇检索，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier 官方 Compendex SERIALS（2026-08-07 版）第 4382 行，Journal 刊名/刊号匹配；DISCONTINUED（2026-05-01 版）无同名匹配。只匹配在线 2331-7019；表中印刷为“-”，CD-ROM 2331-7043 不作印刷刊号。未做订阅平台逐篇检索，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Simulation of integrated nonlinear quantum optics: From nonlinear interferometer to temporal walk-off compensator",
+        "source": "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064092",
+        "publishedAt": "2024-12-26",
+        "relevance": "2026-10-03 核验官方摘要和出版信息：22(6), 064092。对集成非线性量子光学、干涉仪及时间走离补偿建立数值模型，适配集成光子与量子光源；不当作已制造芯片演示。"
+      },
+      {
+        "title": "Kerker superscattering",
+        "source": "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.014001",
+        "publishedAt": "2025-01-02",
+        "relevance": "2026-10-03 核验官方摘要和出版信息：23(1), 014001。介质谐振体/超表面散射的理论、全波分析及微波实验，提供光子散射设计适配；实验频段为微波，不冒称可见光实验。"
+      },
+      {
+        "title": "Super-Heisenberg-limited sensing via collective subradiance in waveguide quantum electrodynamics",
+        "source": "https://journals.aps.org/prapplied/abstract/10.1103/4crz-846z",
+        "publishedAt": "2026-08-05",
+        "relevance": "2026-10-03 核验官方摘要和出版信息：26(2), 024008。纳米光子波导发射体阵列的集体亚辐射传感理论，适配波导 QED 与量子测量；尺度律有模型前提，不代表普遍突破量子极限或已建成传感器。"
+      }
+    ]
   }
 ]

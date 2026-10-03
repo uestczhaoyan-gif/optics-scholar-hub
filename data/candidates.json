@@ -2044,12 +2044,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "综述与研究论文、基础与工程方向适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://journals.aps.org/pra/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["physical-review-a"],
+    "decisionReason": "官方范围及三篇近两年不同期次光学论文适配，JCR 2025 明确学科 JIF Q2；SCIE/EI 分别取得数据库方证据，按原 Q1/Q2 路径收录。",
+    "nextAction": "维护实际投稿规则/费用，补未核摘要细则及 CAS/更新版 JCR；保留分区年份和来源等级。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-e6e4373a42",
@@ -2058,12 +2058,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "综述与研究论文、基础与工程方向适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://journals.aps.org/prapplied/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["physical-review-applied"],
+    "decisionReason": "官方范围及三篇近两年不同期次光学论文适配，JCR 2025 明确学科 JIF Q2；SCIE/EI 分别取得数据库方证据，按原 Q1/Q2 路径收录。",
+    "nextAction": "维护实际投稿规则/费用，补未核摘要细则及 CAS/更新版 JCR；保留分区年份和来源等级。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-cc5eeb48e1",
@@ -3164,12 +3164,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
+    "sourceEntry": "https://journals.aps.org/prb/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "已核出版社身份、MJL SCIE 与 EI 来源表，JCR 2025 二手明确 Q2；尚未完成三篇近两年光学适配和最终准入，继续 pending。",
+    "nextAction": "按 JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md 已完成范围续作：补三篇不同期次光学样例、各刊完整投稿细则，再判准入；不重复同版索引核验。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-1f130b1b67",
@@ -3178,12 +3178,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
+    "sourceEntry": "https://journals.aps.org/prl/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "已核出版社身份、MJL SCIE 与 EI 来源表，JCR 2025 二手明确 Q1；尚未完成三篇近两年光学适配和最终准入，继续 pending。",
+    "nextAction": "按 JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md 已完成范围续作：补三篇不同期次光学样例、各刊完整投稿细则，再判准入；不重复同版索引核验。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-4f36df3adf",
@@ -3192,12 +3192,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
+    "sourceEntry": "https://journals.aps.org/prresearch/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "已核出版社身份、MJL ESCI 与 EI 来源表，JCR 2025 二手明确 Q1；尚未完成三篇近两年光学适配和最终准入，继续 pending。",
+    "nextAction": "按 JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md 已完成范围续作：补三篇不同期次光学样例、各刊完整投稿细则，再判准入；不重复同版索引核验。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-ffb2a8ae1b",
@@ -3206,12 +3206,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
+    "sourceEntry": "https://journals.aps.org/prx/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "已核出版社身份、MJL SCIE 与 EI 来源表，JCR 2025 二手明确 Q1；尚未完成三篇近两年光学适配和最终准入，继续 pending。",
+    "nextAction": "按 JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md 已完成范围续作：补三篇不同期次光学样例、各刊完整投稿细则，再判准入；不重复同版索引核验。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-afaccd053b",

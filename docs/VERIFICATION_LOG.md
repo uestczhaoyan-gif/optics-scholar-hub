@@ -872,3 +872,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - [C10字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)：USQS旧年度注册异常已变，正常浏览器确认2027横幅和表单，登记链接/发布费率可补；无年份退款继续未知，不造日历截止。其他四预告限定范围未取得新征稿字段，不为凑提交更新日期。长操作前work/C10_RESEARCH_2026-10-03.md保存B3验收/修改范围；全部数量/索引分区保持，验证后推送同SHA验收。
 
 - 发布前精确断言：只USQS登记/追加要求/notes及未知注册来源说明、该系列新增来源和对应候选nextAction/reviewedAt改变；其余68会议及全部日期/checkedAt保持。数据校验、110个本地Markdown链接、维护294项/覆盖12主题与当前计数通过；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过。数量79/69/10、候选273（153/116/4）、JCR62/CAS11、十四刊样例保持；完整功能检查在同SHA CI验收。
+
+## 2026-10-03：APS候选核验 F2
+
+- C10 dbb9d3884f0f578987ed37ebb7c0f70200fdbc7b已验收[Pages37112980212](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37112980212)：build/deploy成功，首页/版本HTTP200，716fb085adb43fc3ac876c8ba8ae47a646b8cc67db1601aac39c4cc3469fce0e与本地一致（2026-10-03T09:27:59.378Z）。同SHA完整CI成功后正式修改本批。
+- 六刊MJL/同版EI及二手JCR2025按字段核验；新增PRA/PRApplied，三篇样例分别核对不同期次/发表日与研究边界，其余四刊仍pending。[来源及范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。Applied JIF Q2/AIS Q1分开，Research仅ESCI，CAS及摘要细则未知不编造。
+- 长操作前work/F2_RESEARCH_2026-10-03.md已保存C10验收、各字段和剩余任务；实际额度五小时48%/周23%允许。只追加两刊及六稳定候选指定字段，旧79刊和会议/系列/活动/基础词表保持；验证和差异审查后推送同SHA验收。其他规划开放，不使用重置券。
+
+- 发布前旧79刊/其他目录/267候选保持及六候选白名单断言通过；数据校验、151个本地Markdown链接/当前计数、维护296项（12后续系列任务）/12主题覆盖通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；完整29项测试/typecheck/lint待同SHA CI验收。PRA追加已读可选印刷彩色费用，分开核验日与未注明版年；最终摘要按实际构建验收。
