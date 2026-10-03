@@ -1750,12 +1750,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "相关性高，但仍必须逐年核实分区门槛",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://opg.optica.org/content/journal/about/item/ao/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["applied-optics"],
+    "decisionReason": "官方范围直接涉及光学系统、仪器、激光或光子器件，Compendex 来源表与刊号核实；按既有 EI 工程补充路径准入，JCR/CAS 分区尚无完整版本/学科证据。",
+    "nextAction": "补明确版本与学科的 JCR/CAS；跟进未核实投稿政策及动态费用，不以 JIF 推算分区。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-b2ec04237a",
@@ -1904,12 +1904,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "相关性高，但仍必须逐年核实分区门槛",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://opg.optica.org/content/journal/about/item/josaa/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["josa-a"],
+    "decisionReason": "官方范围直接涉及光学系统、仪器、激光或光子器件，Compendex 来源表与刊号核实；按既有 EI 工程补充路径准入，JCR/CAS 分区尚无完整版本/学科证据。",
+    "nextAction": "补明确版本与学科的 JCR/CAS；跟进未核实投稿政策及动态费用，不以 JIF 推算分区。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-2d211e4ebe",
@@ -1918,12 +1918,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "相关性高，但仍必须逐年核实分区门槛",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://opg.optica.org/content/journal/about/item/josab/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["josa-b"],
+    "decisionReason": "官方范围直接涉及光学系统、仪器、激光或光子器件，Compendex 来源表与刊号核实；按既有 EI 工程补充路径准入，JCR/CAS 分区尚无完整版本/学科证据。",
+    "nextAction": "补明确版本与学科的 JCR/CAS；跟进未核实投稿政策及动态费用，不以 JIF 推算分区。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-4d348a50e2",
@@ -3458,12 +3458,12 @@
     "kind": "journal",
     "priority": 3,
     "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://link.springer.com/journal/340",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["applied-physics-b"],
+    "decisionReason": "官方范围直接涉及光学系统、仪器、激光或光子器件，Compendex 来源表与刊号核实；按既有 EI 工程补充路径准入，JCR/CAS 分区尚无完整版本/学科证据。",
+    "nextAction": "补明确版本与学科的 JCR/CAS；跟进未核实投稿政策及动态费用，不以 JIF 推算分区。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-3b99fda9e6",
@@ -3626,12 +3626,12 @@
     "kind": "journal",
     "priority": 3,
     "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://journals.spiedigitallibrary.org/journals/optical-engineering",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optical-engineering"],
+    "decisionReason": "官方范围直接涉及光学系统、仪器、激光或光子器件，Compendex 来源表与刊号核实；按既有 EI 工程补充路径准入，JCR/CAS 分区尚无完整版本/学科证据。",
+    "nextAction": "补明确版本与学科的 JCR/CAS；跟进未核实投稿政策及动态费用，不以 JIF 推算分区。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "journal-de8b7d21e8",

@@ -791,3 +791,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - C6 审核七系列、新增六届，OI更名OIP由官方明确确认；OPJ终日冲突暂缓，CHILAS/HILAS关系未知。截止精度、普通/PDP、母会/专题、旧届/2027分别保存；早鸟和UP出版表述冲突保留。[逐字段来源与范围](CONFERENCE_EVIDENCE_2026-10-03.md)。
 - 长操作前已保存 work/C6_RESEARCH_2026-10-03.md，实际五小时67%/周10%且允许工作；未用重置券。只有追加六会议及七候选审核，其他期刊、索引分区、样例与目录保持；必要验证和差异审查后推送，同SHA验收部署。
 - 发布前精确断言通过：55届旧会议及全部期刊/活动/主题/站点JSON保持，只追加六届并更新七个候选（稳定ID不变）。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护249项字段任务、12主题/272候选，112个本地Markdown链接与当前数量核对通过。JCR62/CAS11、十四刊至少三篇样例保持；差异审查和git diff --check通过。下一轮优先四项deferred及新预告缺口。
+
+## 2026-10-03：传统光学与器件期刊 F1（五刊）
+
+- C6 130b6fedb1e9bd16ed9aecc4070b4ae91825ddb8 的 [Pages 37089602380](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37089602380) build/deploy 成功；首页/版本 HTTP 200，ac05ac43c08ec5257be29aa4fc742f87585d83303d57071ee8e506c2d4f7bc0d 与本地一致，2026-10-03T02:28:51.548Z 验收后开始正式修改。
+- F1 追加 AO、JOSA A/B、OE、APB 五刊并关联五个稳定候选；全部通过已有确证 EI 的补充路径，没有新增或推算分区。每刊独立 MJL SCIE 卡和 Compendex 来源表记录保存，APB 只匹配表中印刷刊号。具体准入、逐字段来源、2026 S2O/OA 与旧指南冲突见 [F1 证据](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)。
+- 长操作前保存 work/F1_RESEARCH_2026-10-03.md，实际五小时 77% / 周 12%、ordinaryUsageAllowed=true；没有使用重置券。只读公开材料，未登录、投稿或付款。必要验证与差异审查后提交推送并验收同一 SHA。
+
+- 发布前精确断言通过：旧74刊及其他四份目录数据完全保持，只追加五刊、更新五候选，稳定ID/名称/别名/优先级保持。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护254项字段任务、12主题/272候选，118个本地Markdown链接和当前数量通过。JCR62/CAS11、十四刊至少三篇样例保持；差异审查及git diff --check通过。83%五小时/13%周，仍允许工作；继续规划，未用重置券。

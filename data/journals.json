@@ -4942,5 +4942,238 @@
       }
     ],
     "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+  },
+  {
+    "id": "applied-optics",
+    "name": "Applied Optics",
+    "abbr": "AO",
+    "publisher": "Optica Publishing Group",
+    "issn": "1559-128X",
+    "eissn": "2155-3165",
+    "domains": ["光学", "电子", "机械与制造"],
+    "topics": ["综合光学", "光学设计与制造", "传感与测量", "成像与计算光学"],
+    "description": "聚焦光学技术与光子学的实际应用，包括仪器、激光、传感和成像；贡献应体现可验证的性能和实际应用。按已核实 EI 工程补充路径收录，分区待核实。",
+    "website": "https://opg.optica.org/content/journal/about/item/ao/",
+    "guide": "https://opg.optica.org/content/author/",
+    "requirements": [
+      "接收应用研究、邀请综述、评论与 Application Notes；范围以本刊 About 为准。",
+      "Optica 接受 Word 或 LaTeX；模板视觉样式为参考，不是强制排版。LaTeX 主文仅一个 .tex，附非标准样式文件，包内不可嵌套压缩包；按 PRISM 官方入口提交。来源 https://opg.optica.org/content/author/portal/item/templates-default/ 。",
+      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。"
+    ],
+    "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 订阅与可选 OA 并行；可选 OA USD 2300，符合资格的 CC BY USD 2550/篇。税及特定优惠本批未核实。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 。",
+    "schedule": "官网列每月 1、10、20 日三期，并采用 article-at-a-time；常规稿经 PRISM 投稿，频次不保证个别审稿时限。",
+    "checkedAt": "2026-10-03",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1559-128X&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询：以 ISSN 1559-128X 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 370 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。"
+      }
+    ]
+  },
+  {
+    "id": "josa-a",
+    "name": "Journal of the Optical Society of America A",
+    "abbr": "JOSA A",
+    "publisher": "Optica Publishing Group",
+    "issn": "1084-7529",
+    "eissn": "1520-8532",
+    "domains": ["光学", "物理", "信息与计算"],
+    "topics": [
+      "成像与计算光学",
+      "光学设计与制造",
+      "传感与测量",
+      "生物医学光学"
+    ],
+    "description": "经典光学、成像科学与视觉研究，含光学仪器、测量、计算成像和机器视觉；按已核实 EI 工程补充路径纳入相关系统与方法，分区待核实。",
+    "website": "https://opg.optica.org/content/journal/about/item/josaa/",
+    "guide": "https://opg.optica.org/content/author/",
+    "requirements": [
+      "本刊接收研究论文、教程、讨论、专题稿、已刊论文评论及部分回顾；须符合经典光学、成像与视觉范围。",
+      "Optica 接受 Word 或 LaTeX；模板视觉样式为参考，不是强制排版。LaTeX 主文仅一个 .tex，附非标准样式文件，包内不可嵌套压缩包；按 PRISM 官方入口提交。来源 https://opg.optica.org/content/author/portal/item/templates-default/ 。",
+      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。"
+    ],
+    "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 订阅与可选 OA 并行；可选 OA USD 2300，符合资格的 CC BY USD 2550/篇。税及特定优惠本批未核实。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 。",
+    "schedule": "官网列月刊、article-at-a-time；常规稿经 PRISM 投稿，不将历史中位数当作审稿承诺。",
+    "checkedAt": "2026-10-03",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1084-7529&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询：以 ISSN 1084-7529 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 3683 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。"
+      }
+    ]
+  },
+  {
+    "id": "josa-b",
+    "name": "Journal of the Optical Society of America B",
+    "abbr": "JOSA B",
+    "publisher": "Optica Publishing Group",
+    "issn": "0740-3224",
+    "eissn": "1520-8540",
+    "domains": ["光学", "物理", "材料"],
+    "topics": [
+      "激光与非线性",
+      "量子光学",
+      "集成光子",
+      "光学材料",
+      "纳米与超表面"
+    ],
+    "description": "光与物质相互作用的光学物理，覆盖激光、非线性、量子、波导及集成光子器件。按确证 EI 且直接相关的器件/光学路径收录，不以影响因子推算分区。",
+    "website": "https://opg.optica.org/content/journal/about/item/josab/",
+    "guide": "https://opg.optica.org/content/author/",
+    "requirements": [
+      "本刊接收原创研究、专题稿、邀请综述和教程、已刊论文评论；量子/非线性及光子器件范围与 JOSA A 分开。",
+      "Optica 接受 Word 或 LaTeX；模板视觉样式为参考，不是强制排版。LaTeX 主文仅一个 .tex，附非标准样式文件，包内不可嵌套压缩包；按 PRISM 官方入口提交。来源 https://opg.optica.org/content/author/portal/item/templates-default/ 。",
+      "出版须含利益冲突 Disclosures 和 Data Availability Statement；准备全部作者联系方式、资助及共同作者同意，重投稿须回复此前审稿意见。本批未核实本刊独立摘要上限及登录后上传流程。来源 https://opg.optica.org/content/author/portal/item/submission-checklist/ 。"
+    ],
+    "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 2026 卷已确认 S2O 全部开放、免 APC；符合资格的 CC BY 另收 USD 250，不能据此声称超页或印刷彩图免收。2027 S2O 尚依赖年度订阅门槛，不承诺继续免 APC。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 及 https://opg.optica.org/content/library/portal/item/subscribe-to-open 。税本批未核实。",
+    "schedule": "官网列月刊、article-at-a-time；常规稿经 PRISM 投稿，S2O 按出版卷年确认而非投稿年自动套用。",
+    "checkedAt": "2026-10-03",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0740-3224&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询：以 ISSN 0740-3224 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 3684 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。"
+      }
+    ]
+  },
+  {
+    "id": "optical-engineering",
+    "name": "Optical Engineering",
+    "abbr": "OE",
+    "publisher": "SPIE",
+    "issn": "0091-3286",
+    "eissn": "1560-2303",
+    "domains": ["光学", "电子", "机械与制造"],
+    "topics": ["光学设计与制造", "电子与器件", "传感与测量", "成像与计算光学"],
+    "description": "光学与光子学系统、器件和仪器的研发及应用；图像处理或 AI 必须对光学工程有明确贡献。按已核实 EI 工程补充收录，分区未知。",
+    "website": "https://journals.spiedigitallibrary.org/journals/optical-engineering",
+    "guide": "https://journals.spiedigitallibrary.org/journals/optical-engineering/author-guidelines",
+    "requirements": [
+      "接收 Research Paper、通常邀请的 Review Paper 和 Patent Review。英文初投为含所有图表的单个 PDF；返修提供可编辑 Word/LaTeX 及独立图文件。",
+      "摘要不超过 200 词，3–6 个关键词；作者简历不超过 75 词。12 pt 为可读字体示例，本批不当作硬性字号。",
+      "录用稿须含 Code and Data Availability，列作者 CRediT 贡献；AI 不作作者，使用情况按指南在 Materials and Methods 披露。",
+      "会议扩展稿须说明并引用此前稿件、处理再用权限，不臆造统一新增比例；单匿名评审至少两名审稿人，不保证录用。"
+    ],
+    "publishing": "2026-10-03 核对：无强制版面费，混合出版。可选 Gold OA USD 1675，符合 SPIE/机构资格 USD 1255，特定经济考虑 USD 425；每篇仅一种折扣，Review/Tutorial 有费用豁免。Gold 为 CC BY 4.0，免费 Green 保留 SPIE 版权；税及实际资格待个案核对。来源 https://www.spiedigitallibrary.org/journals/open-access 。",
+    "schedule": "常规稿经本刊 Submit Manuscript 官方入口；特刊另查征稿，不将出版制作时间当作审稿期限。",
+    "checkedAt": "2026-10-03",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0091-3286&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询：以 ISSN 0091-3286 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4256 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。"
+      }
+    ]
+  },
+  {
+    "id": "applied-physics-b",
+    "name": "Applied Physics B",
+    "abbr": "APB",
+    "publisher": "Springer Nature",
+    "issn": "0946-2171",
+    "eissn": "1432-0649",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["激光与非线性", "光学材料", "电子与器件", "量子光学"],
+    "description": "激光、线性/非线性光学、超快过程及光子材料与器件的应用研究；按确证 EI 且直接相关的光子器件与激光路径收录，不假定 Q1/Q2。",
+    "website": "https://link.springer.com/journal/340",
+    "guide": "https://link.springer.com/journal/340/submission-guidelines",
+    "requirements": [
+      "接收常规研究、Rapid Communication 和邀请综述；快速通讯无特定页限，稿型由编辑决定，不保证快速录用。",
+      "每次初投及返修提供可编辑 LaTeX 源文件；也接受 Word。摘要最多 200 词，短标题最多 120 个字符（含空格）。",
+      "原创研究须含 Data Availability Statement，利益冲突及适用伦理声明；补充材料随稿送审。",
+      "当前指南/范围页仍有版权转让、订阅读者和免费版面旧文字；与 2026 全 OA 通知及当前费用/许可冲突，出版政策按明确新通知记录，旧文字适用范围仍待编辑部澄清。"
+    ],
+    "publishing": "自 2026 年 1 月全面 OA。2026-10-03 官方本刊页 APC GBP 2690 / USD 4090 / EUR 3090，以录用日定价，另加适用税；提供 CC BY 或 CC BY-NC-ND，资格型减免及机构资助另核对。酌情减免须投稿时申请，不能等审稿后或录用后。来源 https://link.springer.com/journal/340/how-to-publish-with-us ；转型 https://link.springer.com/journal/340/updates/27838354 。",
+    "schedule": "常规稿按本刊 Submit your manuscript 进入系统；专题另查当届通知，旧指南的制作/印刷时间不作承诺。",
+    "checkedAt": "2026-10-03",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0946-2171&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询：以 ISSN 0946-2171 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 374 行，Journal 类型及印刷刊号匹配，电子刊号格为 -，不声称该格匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。"
+      }
+    ]
   }
 ]
