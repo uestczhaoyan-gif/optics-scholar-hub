@@ -84,7 +84,9 @@
     "website": "https://ieee-ipc.org/",
     "sources": [
       "https://ieee-ipc.org/",
-      "https://ieee-ipc.org/paper-submission/submission-guidelines/"
+      "https://ieee-ipc.org/paper-submission/submission-guidelines/",
+      "https://ieee-ipc.org/attendees/registration/",
+      "https://ieee-ipc.org/attendees/hotel-travel/"
     ],
     "nextEditionCheckedAt": null
   },

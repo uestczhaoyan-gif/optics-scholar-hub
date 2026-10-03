@@ -858,3 +858,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/C9_RESEARCH_2026-10-03.md保存C8验收及范围；79刊/69会议/10活动、64系列，273候选153/116/4。只追加母展/候选及五系列与对应五候选指定字段；必要范围验证和差异审查后提交推送，按同SHA验收。其他规划继续，未用重置券。
 
 - 发布前精确范围断言通过：旧79刊/69会议/9活动与基础词表保持，只追加一活动/候选及五系列与五候选白名单字段。数据校验、29项测试、typecheck/lint、Pages子路径构建与六入口资源检查通过；维护295项（12后续系列任务）、12主题/273候选，140个本地Markdown链接和当前计数通过。JCR62/CAS11、十四刊样例保持；差异审查/git diff --check通过。
+
+## 2026-10-03：临近事项与参会政策 B3
+
+- C9 7adefc10c79208b093d250ffecb1b9a6c727192c已验收[Pages37112307916](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37112307916)：build/deploy成功，首页/版本HTTP200，8a1dc4ad6f46cf95fda2ed9b9374132b8b4157977c2ce3f7d123fb5ac48f1b17与本地一致（2026-10-03T09:14:47.376Z）后正式编辑。查询助手在旧Node24.19退出出现libuv断言，随后用已校验24.20查询同一部署成功，没有重复提交。
+- [B3字段来源及范围](CONFERENCE_EVIDENCE_2026-10-03.md)：ACP/IPC/OMTA/OPTIC/PW临近日期与目录一致，只补三届实际参会政策。住宿/退款不当投稿或最终注册截止，未知费用及早鸟冲突继续保留；整条核验日不刷新。长操作前work/B3_RESEARCH_2026-10-03.md保存C9验收与精确范围，数量和候选状态保持。必要验证后提交推送同SHA验收；未登录、注册或付款。
+
+- 发布前数据校验、三届字段白名单/所有截止及整条日期保持断言、107个本地Markdown链接、维护295项/覆盖12主题与当前计数通过；Pages子路径构建及六入口资源exit0，差异审查/git diff --check通过。数据批次不新增或重复功能测试，本次完整29项测试/typecheck/lint由同SHA Pages CI验收，未在本地再跑无关功能回归。
