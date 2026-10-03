@@ -932,12 +932,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学术交流和工业应用并重，确认稿件形式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://icaleo.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["icaleo-2026"],
+    "decisionReason": "当届官方主页/报告人/注册页面浏览器读取，确认2026丹佛10/5–8及CFP已关闭。",
+    "nextAction": "会前核实报告人后续通知与原始材料要求；10/4仅价格阶段结束，最终注册截止未知。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-1b467b6faa",
@@ -946,12 +946,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学术 symposium 与商业展览分开",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.idw.or.jp/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["idw-2026"],
+    "decisionReason": "当届官网确认2026滨松12/2–4及普通/Late News稿件、注册、出版规则。",
+    "nextAction": "跟踪Late News 10/22通知与10/29注册；3DSA子会届数版本冲突未解决，不单独收录。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-de76643319",
@@ -960,12 +960,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学术 symposium 与商业展览分开",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://imid.or.kr/2026/conference_info.asp",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["imid-2026"],
+    "decisionReason": "当届官网确认2026釜山BEXCO 8/18–21，普通一页PDF和历史通知/作者注册。",
+    "nextAction": "跟踪下一届；Late News细则、论文集出版商/归档索引仍待核实，不按周期推算。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-aa2bfcea3a",
@@ -988,12 +988,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学术交流和工业应用并重，确认稿件形式",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.jlps.gr.jp/lpm/lpm2027/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方检索缓存有2027会期/地点线索，但当届页及学会公告直接访问502，浏览器证书名称不匹配，未取得可核实当前正文。",
+    "nextAction": "待官方正常TLS页面恢复后核对身份、日期、场馆和投稿指南；不绕过证书、不用旧届SPIE出版声明填充。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-ddd3720667",
@@ -1114,12 +1114,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "学术 symposium 与商业展览分开",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.displayweek.org/program/authors-presenters/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["sid-display-week-symposium-2027"],
+    "decisionReason": "2027官方征稿页与四页PDF确认Technical Symposium 6/8–11及两种2–4页投稿路径；区别整周活动和展览。",
+    "nextAction": "跟进2027投稿接收状态及作者注册；摘要50–70 word maximum表述保留，申请延期不冒充普通截止。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-b8536105ea",

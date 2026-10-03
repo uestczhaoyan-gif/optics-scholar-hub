@@ -807,3 +807,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前保存 work/E16_RESEARCH_2026-10-03.md，实际五小时85%/周13%允许工作；只修改三刊 requirements/publishing，其他76刊与所有其他字段和目录保持。必要验证与差异审查后提交推送并验收同SHA，继续其余规划，不用重置券。
 
 - 发布前精确断言通过：仅三刊 requirements/publishing 改变，其余76刊及所有分区/索引/样例/整刊日期和其他五份目录JSON保持。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护254项字段任务、12主题/272候选，86个本地Markdown链接及当前计数通过。差异审查与git diff --check通过；已校验Node24.20.0仅有既有块体积提示。
+
+## 2026-10-03：显示与激光加工系列 C7（五系列）
+
+- E16 c902a0ea81f2200dd95b1924789fd43a6854253d 的 [Pages 37090802393](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37090802393) build/deploy成功；首页/版本HTTP200，602848d800f66dbddb0d48bf4279e5ea637dde1f14f3f6bae3aef8b4deba9dce与本地一致，2026-10-03T02:48:00.973Z验收后编辑本批。
+- C7只新增四届及审核五稳定候选，79刊/65会议/9活动，272候选（152/116/4）。[逐字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)保存官网日期精度、SID层级/摘要措辞、ICALEO价格阶段及LPM证书限制；未登录、付款或联系主办方。
+- 长操作前保存work/C7_RESEARCH_2026-10-03.md；实际五小时91%/周14%允许工作，未用重置券。其余规划开放，必要验证及差异审查后推送并按同SHA验收。
+
+- 发布前精确断言通过：61届旧会议、79刊及活动/主题/站点数据保持，只追加四届并更新五稳定候选。数据校验、26项测试、typecheck、lint、Pages子路径构建和六入口资源检查通过；维护264项字段任务、12主题/272候选，123个本地Markdown链接及当前数量通过。JCR62/CAS11、十四刊至少三篇样例保持，差异审查与git diff --check通过。构建使用已校验Node24.20.0，仅有既有块体积提示。

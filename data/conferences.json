@@ -3113,5 +3113,261 @@
         "note": "注册页要求全体presenters6/15完成注册，但PDP截止7/15；未强行适用旧注册日。"
       }
     ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "idw-2026",
+    "series": "International Display Workshops",
+    "year": 2026,
+    "name": "第33届国际显示研讨会 IDW 2026",
+    "nameEn": "33rd International Display Workshops",
+    "location": "日本 · 滨松",
+    "venue": "ACT CITY Hamamatsu",
+    "start": "2026-12-02",
+    "end": "2026-12-04",
+    "topics": ["电子与器件", "成像与计算光学", "光学材料", "传感与测量"],
+    "description": "由显示相关学会组织的显示技术论文研讨会，覆盖显示光学、三维显示、器件和材料。I-DEMO 演示与普通/Late News 论文通道分开。",
+    "website": "https://www.idw.or.jp/",
+    "notice": "https://www.idw.or.jp/authinfo.html",
+    "registration": "https://www.idw.or.jp/registration.html",
+    "submissionState": "closed",
+    "requirements": [
+      "最终稿为 A4、2–4 页 PDF，至少写满两页，使用 Word/PDF/LaTeX 模板；摘要最多400字符（官网约称50词），3–5关键词，标出报告人，正文双栏且不加页码/页眉。",
+      "普通稿与 Late News 使用各自 Confit 链接。普通与 Late News 均已截止；作者注册截止分别为9/8与10/29。官方明确23:59 UTC−10，不按日本时区转换为同一日。"
+    ],
+    "publication": "会期及会后至2026年12月供参会者访问 Proceedings，其后进入开放归档并分配 DOI；未报告或撤回的论文不进入开放归档。版权属于 ITE/SID，正式报告前不得预先公开 camera-ready；推荐期刊扩展不等于保证收录或索引。",
+    "notes": "会期/会场 https://www.idw.or.jp/；稿件 https://www.idw.or.jp/msinstruction.html。首页3DSA专题届数与第一轮公告检索片段不一致，未新增该子会或替其选定届数。I-DEMO 的10/1不是论文截止。注册仅线上办理，早鸟与Late News作者注册虽同日仍分别记录。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通 Technical Summary 截止（延长后，已过）",
+        "at": "2026-06-25T23:59:00-10:00",
+        "timezone": "Etc/GMT+10",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知",
+        "date": "2026-07-31",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "普通最终稿截止（已过）",
+        "at": "2026-09-08T23:59:00-10:00",
+        "timezone": "Etc/GMT+10",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "registration",
+        "label": "普通作者注册截止（已过）",
+        "at": "2026-09-08T23:59:00-10:00",
+        "timezone": "Etc/GMT+10",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "pdp",
+        "label": "Late News 最终稿截止（已过）",
+        "at": "2026-09-22T23:59:00-10:00",
+        "timezone": "Etc/GMT+10",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "notification",
+        "label": "Late News 录用通知",
+        "date": "2026-10-22",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "registration",
+        "label": "Late News 作者注册截止",
+        "at": "2026-10-29T23:59:00-10:00",
+        "timezone": "Etc/GMT+10",
+        "source": "https://www.idw.or.jp/authinfo.html"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止（非最终注册截止）",
+        "at": "2026-10-29T23:59:00-10:00",
+        "timezone": "Etc/GMT+10",
+        "source": "https://www.idw.or.jp/registration.html"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "imid-2026",
+    "series": "International Meeting on Information Display",
+    "year": 2026,
+    "name": "第26届国际信息显示会议 IMID 2026（历史届次）",
+    "nameEn": "26th International Meeting on Information Display",
+    "location": "韩国 · 釜山",
+    "venue": "BEXCO",
+    "start": "2026-08-18",
+    "end": "2026-08-21",
+    "topics": ["电子与器件", "成像与计算光学", "光学材料", "传感与测量"],
+    "description": "KIDS/SID 信息显示会议，涵盖 AR/VR/MR 与三维显示光学、发光材料、检验计量和制造。2026届已结束，展览不另计为论文会议。",
+    "website": "https://imid.or.kr/2026/conference_info.asp",
+    "notice": "https://imid.or.kr/2026/guideline_paper_submission.asp",
+    "registration": "https://imid.or.kr/2026/reg.asp",
+    "submissionState": "closed",
+    "requirements": [
+      "普通论文仅提交一页 PDF，11pt Times New Roman、单倍行距，使用当届模板及官网 genimice 投稿入口；无需另交最终稿。",
+      "每篇报告至少一位报告作者在7/31前注册付款，否则从 proceedings 排除。Late News 详情页本轮未取得正文，未把普通一页规则认作独立 Late News 全部规则。"
+    ],
+    "publication": "官网注册说明列 E-proceedings；论文集出版商、归档条件及数据库索引尚未核实，不承诺 SCI/EI。",
+    "notes": "身份/会期/会场 https://imid.or.kr/2026/conference_info.asp 与 https://imid.or.kr/2026/welcome.asp；方向及日期 https://imid.or.kr/2026/cfp.asp。普通截止由3/31、4/13延至4/24，Late News由6/28延至7/3；通知与注册只公布日期，不补具体时刻。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（延长后，历史）",
+        "date": "2026-04-24",
+        "source": "https://imid.or.kr/2026/cfp.asp"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知（历史）",
+        "date": "2026-05-29",
+        "source": "https://imid.or.kr/2026/cfp.asp"
+      },
+      {
+        "type": "pdp",
+        "label": "Late News 截止（延长后，历史）",
+        "date": "2026-07-03",
+        "source": "https://imid.or.kr/2026/cfp.asp"
+      },
+      {
+        "type": "notification",
+        "label": "Late News 录用通知（历史）",
+        "date": "2026-07-10",
+        "source": "https://imid.or.kr/2026/cfp.asp"
+      },
+      {
+        "type": "registration",
+        "label": "作者/提前注册截止（历史）",
+        "date": "2026-07-31",
+        "source": "https://imid.or.kr/2026/reg.asp"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "sid-display-week-symposium-2027",
+    "series": "SID Display Week Technical Symposium",
+    "year": 2027,
+    "name": "SID 显示周技术研讨会 2027",
+    "nameEn": "SID Display Week 2027 Technical Symposium",
+    "location": "美国 · 加利福尼亚州圣何塞",
+    "venue": "San Jose McEnery Convention Center",
+    "start": "2027-06-08",
+    "end": "2027-06-11",
+    "topics": ["电子与器件", "成像与计算光学", "光学材料", "传感与测量"],
+    "description": "SID Display Week 的论文 Technical Symposium，覆盖显示光学与器件、材料、AR/VR/MR 和测量；按征稿页明确的研讨会6/8–11记录。",
+    "website": "https://www.displayweek.org/program/authors-presenters/",
+    "notice": "https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "两条投稿路径均为2–4页 PDF：完整论文可直接作为最终稿，或提交 technical summary 后补最终 digest 稿；最多四页，至少三个关键词，列出全部作者并标出报告人。",
+      "摘要原文为“50–70 word maximum”，保留这一表述，不推定50词为硬性下限。需说明目标、成果、影响和已有相似工作的区别；录用作者承诺现场报告。",
+      "官网已给投稿链接，但未登录核实系统是否接收。12/31延期仅限申请获准者，不是所有稿件统一截止；2027注册要求和截止仍未知。"
+    ],
+    "publication": "Technical Symposium Digest 稿件2–4页；完整论文或摘要两种路径及3/15最终稿规则分别保留，不承诺数据库索引。",
+    "notes": "会场 https://www.displayweek.org/exhibitors/faq/。整周活动6/6–11、展览/I-Zone6/8–10，与研讨会6/8–11分开，未新增展览条目。PDF明确普通及Late News为PST但未给时刻；通知与最终稿保持日期精度。现注册页仍为2026，不移用。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文/technical summary 截止",
+        "date": "2026-12-01",
+        "source": "https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf",
+        "note": "官网PDF标PST，未给具体时刻；单独申请延期不改此普通截止。",
+        "timezone": "America/Los_Angeles"
+      },
+      {
+        "type": "pdp",
+        "label": "Late News 截止",
+        "date": "2027-01-20",
+        "source": "https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf",
+        "note": "窗口2027/1/1–20，PST，未给时刻。",
+        "timezone": "America/Los_Angeles"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知",
+        "date": "2027-01-31",
+        "source": "https://www.displayweek.org/program/authors-presenters/"
+      },
+      {
+        "type": "notification",
+        "label": "Late News 录用通知",
+        "date": "2027-02-06",
+        "source": "https://www.displayweek.org/program/authors-presenters/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "最终 digest 稿截止",
+        "date": "2027-03-15",
+        "source": "https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf"
+      },
+      {
+        "type": "registration",
+        "label": "2027 作者注册截止待核实",
+        "date": null,
+        "source": "https://www.displayweek.org/program/authors-presenters/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "icaleo-2026",
+    "series": "International Congress on Applications of Lasers & Electro-Optics",
+    "year": 2026,
+    "name": "第45届激光与电光应用国际大会 ICALEO 2026",
+    "nameEn": "45th International Congress on Applications of Lasers & Electro-Optics",
+    "location": "美国 · 科罗拉多州丹佛",
+    "venue": "Hilton Denver City Center",
+    "start": "2026-10-05",
+    "end": "2026-10-08",
+    "topics": ["激光与非线性", "光学设计与制造", "传感与测量", "电子与器件"],
+    "description": "面向激光材料加工、电光应用及相关仪器的年度论文大会；当届官网明确2026征稿已关闭，参会注册与征稿分开。",
+    "website": "https://icaleo.org/",
+    "notice": "https://icaleo.org/presenter-information",
+    "registration": "https://icaleo.org/attend",
+    "submissionState": "closed",
+    "requirements": [
+      "报告人页明确2026论文及海报征稿已关闭；原始摘要截止、篇幅和文件规范本轮未取得，保持待核实。官网链接指向本届 Omnipress Catalyst，但未登录或提交。",
+      "可选择盲审路径；被选中的手稿在大会 proceedings 与 Journal of Laser Applications 的安排，不等于所有稿件均发表为期刊论文。"
+    ],
+    "publication": "报告人页说明大会 proceedings 及可选盲审路径，海报亦可提交手稿参与；具体归档及逐篇数据库收录未核验，不承诺 SCI/EI。",
+    "notes": "主页会期/会场经普通浏览器读取；注册 https://icaleo.org/attend 经官网 Whova 入口办理。Late Registration 9/1–10/4是价格阶段，另有现场价格，不能把10/4当最终注册截止；页面同时残留Standard Registration Open Now，当前费率适用性未知。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文/海报原始截止待核实（官方已关闭）",
+        "date": null,
+        "source": "https://icaleo.org/presenter-information"
+      },
+      {
+        "type": "registration",
+        "label": "作者注册截止待核实",
+        "date": null,
+        "source": "https://icaleo.org/presenter-information"
+      },
+      {
+        "type": "registration",
+        "label": "Late Registration 价格阶段结束（非最终注册截止）",
+        "date": "2026-10-04",
+        "source": "https://icaleo.org/attend",
+        "note": "有现场注册价格；只记录阶段结束日，未确认最终截止或具体时刻。"
+      }
+    ]
   }
 ]

@@ -75,3 +75,38 @@ SPIE 页面经普通浏览器可读，几次导航超时后读取实际页面确
 - **CHILAS保持pending**：精确候选全名/缩写本轮未取得官方当届身份；[Optica 2024母会程序](https://www.optica.org/events/congress/high-brightness_sources_and_light-driven_interacti/program/)包含HILAS（High-Intensity Lasers and High-Field Phenomena），是三专题之一，名称与CHILAS不同。未取得继承/同名依据，不自动更名或合并，不把2024套为2026。
 
 后续优先PHOTONICS 10/15通知/PDP开放、OPJ结束日澄清、OIP/SUM 2027正式征稿及会场；已结束页的遗留按钮和PDP文字不表示当前可投。未登录、报名、付款或联系主办方。
+
+## C7：显示与激光加工五系列（2026-10-03）
+
+新增四届，LPM继续候选。只读公开材料，未登录投稿/报名、付款或联系主办方。四届字段按以下来源入库；旧61届、全部期刊、展会及索引/分区保持。官网没有给时刻的日期保持日期精度。
+
+### IDW 2026
+
+- 身份/会期/场馆：[当届首页](https://www.idw.or.jp/)明确第33届、2026/12/2–4、ACT CITY Hamamatsu。方向为显示光学、器件/材料及三维成像相关研讨会，I-DEMO不是普通论文通道。首页写17th 3DSA，第一轮公告检索片段写15th；未读取完整PDF核对这一数字，不导入子会、不选定其届数。
+- 日期/通道：[作者说明](https://www.idw.or.jp/authinfo.html)普通Technical Summary由6/15延至6/25 23:59 UTC−10；普通通知7/31，最终稿及普通作者注册9/8 23:59 UTC−10。Late News最终稿9/22同一时区时刻，通知10/22，作者注册10/29同一时区时刻。以固定UTC−10存储（Etc/GMT+10），日期通知不添时刻。两个Confit链接由官网分别确认，未检查登录后流程。
+- 稿件/出版：[manuscript说明](https://www.idw.or.jp/msinstruction.html)2–4页A4、至少两整页，PDF上传，Word/PDF/LaTeX模板；摘要400字符上限、约50词，3–5关键词、标出报告人、正文双栏且不加页眉页码。没有将约50词改为硬性词数上限。Proceedings供参会者至2026年12月，之后开放归档/DOI；未报告/撤稿不归档。ITE/SID版权及报告前camera-ready公开限制仅适用该会，期刊推荐不作索引保证。
+- 注册：[注册页](https://www.idw.or.jp/registration.html)早鸟10/29 23:59 UTC−10，只有线上办理；与同日Late News作者注册分成两项，不称最终参会注册截止。未核费率或付款流程。
+
+### IMID 2026（历史届次）
+
+- 身份/场馆：[Conference Information](https://imid.or.kr/2026/conference_info.asp)及[欢迎页](https://imid.or.kr/2026/welcome.asp)明确26th、KIDS/SID、8/18–21、BEXCO Busan。已结束；展览不额外计算论文会议。
+- 方向/截止：[当届CFP](https://imid.or.kr/2026/cfp.asp)覆盖AR/VR/MR、三维光学、发光材料、计量/检验及制造；普通由3/31、4/13延至4/24，通知5/29；Late News由6/28延至7/3，通知7/10。日期无时刻，按日期入库。独立Late News详情paper_submission.asp访问CacheMiss，未称其规则已读。
+- 普通材料：[Submission Guidelines](https://imid.or.kr/2026/guideline_paper_submission.asp)仅一页PDF，11pt Times New Roman单倍行距、无需再交final manuscript；genimice链接仅核来源。每稿报告人至少一位7/31前注册付款，否则从proceedings排除。未把普通模板强行套到未读取的Late News正文。
+- 注册/出版：[注册说明](https://imid.or.kr/2026/reg.asp)确认7/31及E-proceedings kit；出版商、归档/数据库索引未知，不从SID/KIDS身份推算SCI/EI。
+
+### SID Display Week 2027 Technical Symposium
+
+- 日程/层级：[2027征稿页](https://www.displayweek.org/program/authors-presenters/)明确Technical Symposium 6/8–11；整周6/6–11，展览/I-Zone6/8–10。[会场FAQ](https://www.displayweek.org/exhibitors/faq/)明确San Jose McEnery Convention Center。正式条目按论文研讨会命名及6/8–11，不把整周或展览另计论文会。
+- 稿件/具体日期：[2027四页官方PDF](https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf)本轮逐页文字读取；截图接口未返回可见图片，不声称完成版面视觉核对。路径1为2–4页完整论文，路径2为2–4页technical summary后补digest；最多四页，PDF，至少三关键词、全作者/报告人、目的成果影响及旧作区别，现场报告承诺。摘要原文“50–70 word maximum”保留措辞歧义，不断言50为硬性下限。
+- 普通12/1/2026、Late News窗口1/1–20/2027注明PST但无时刻，以日期和America/Los_Angeles记录；单独申请延期至12/31不是全体普通截止。普通/晚稿通知1/31、2/6及最终稿3/15来自当届征稿/PDF，不添加时刻。完整论文初稿可直接用于digest、technical summary最终稿规则独立记录；未声称数据库索引。
+- 投稿/注册边界：官网Submit Abstract链接存在，但未登录核对接收状态，submissionState保持unknown。[现注册页](https://www.displayweek.org/attendees/registration/)仍为2026，2027入口及作者注册截止null，不移用2026价格/日期。
+
+### ICALEO 2026
+
+- [当届首页](https://icaleo.org/)经普通浏览器读取：45th、10/5–8、Denver、Hilton Denver City Center，激光材料加工、电光应用等；浏览工具直连403不等于官网无事实，正常浏览器取得正文后才录入。
+- [报告人页](https://icaleo.org/presenter-information)浏览器正文明确2026论文与海报CFP closed；Omnipress Catalyst当届链接确认，原始摘要截止、页数/文件格式未取得，保持null/未知。可选盲审、选定稿件Proceedings/JLA及海报手稿适用边界分别说明，不保证所有论文发表为JLA或收录SCI/EI。
+- [参会注册页](https://icaleo.org/attend)正文确认Whova官方入口、Loyalty阶段6/1结束、Late价格阶段9/1–10/4以及现场价格。10/4只记价格阶段结束，不当最终注册截止。Standard Registration Open Now并存，当前费率适用性未解决；未核作者注册截止、支付或登录。
+
+### LPM 2027：继续pending
+
+[当届官网](https://www.jlps.gr.jp/lpm/lpm2027/)和[学会最新公告](https://www.jlps.gr.jp/symposium/information/latest.html)官方检索缓存有2027/6/1–4、LIGHT CUBE UTSUNOMIYA及摘要/注册线索，但本轮直接页面502，浏览器ERR_CERT_COMMON_NAME_INVALID。已观察到的裸域学会目录也不可读；未绕过证书或猜更多URL。缓存没有升级成当前全文核验，未新增正式日期/会场；恢复正常TLS后再逐字段核对，不用2004 SPIE出版信息填当届。
