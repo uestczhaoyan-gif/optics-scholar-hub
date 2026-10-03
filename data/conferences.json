@@ -3862,5 +3862,85 @@
         "source": "https://iccp2027.iccp-conference.org/"
       }
     ]
+  },
+  {
+    "id": "isprs-2026",
+    "series": "ISPRS Congress",
+    "year": 2026,
+    "name": "第25届国际摄影测量与遥感大会 ISPRS 2026（历史届次）",
+    "nameEn": "XXV ISPRS Congress 2026",
+    "region": "海外",
+    "location": "加拿大 · 多伦多",
+    "venue": "Metro Toronto Convention Centre — South Building",
+    "start": "2026-07-04",
+    "end": "2026-07-11",
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "摄影测量、遥感与空间信息大会，直接适配多/高光谱和热成像传感、激光雷达、视觉计量与三维重建。会议也含微波等其他方向，按本届具体专题判断适配。",
+    "website": "https://www.isprs2026toronto.com/",
+    "notice": "https://www.isprs.org/congresses/toronto2026/default.aspx",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026报告指南：普通口头报告12分钟及3分钟问答；提前上传PPT/PDF，建议16:9并携备份。上传入口另发，实际上传截止和普通投稿模板/篇幅本轮未核实。",
+      "海报上限高46英寸×宽45英寸（116.8×114.3厘米），优先竖版，尺寸以内亦可横版。须按分配的场次展示；这些历史准备要求不自动适用于2030。"
+    ],
+    "publication": "学会2026目录链接ISPRS Archives XLIX与同行评审ISPRS Annals XI的分委员会论文集。只核出版目录及本届汇总入口，没有逐篇检索、完整审稿政策或索引保证；共址CSRS出版单独区分。",
+    "notes": "当届主页明确已经结束。会期/届号来自ISPRS学会目录，场馆来自Venue Info，适配来自Themes & Topics，报告要求来自Presenter Quick Guide。主页47th为共址加拿大遥感研讨会，不是ISPRS届号；历史投稿/注册日期和费率未知。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "历史普通投稿截止本轮未核实",
+        "date": null,
+        "source": "https://www.isprs.org/congresses/toronto2026/default.aspx"
+      },
+      {
+        "type": "registration",
+        "label": "历史注册截止与费用本轮未核实",
+        "date": null,
+        "source": "https://www.isprs2026toronto.com/"
+      }
+    ]
+  },
+  {
+    "id": "isprs-2030",
+    "series": "ISPRS Congress",
+    "year": 2030,
+    "name": "第27届国际摄影测量与遥感大会 ISPRS 2030（未来预告）",
+    "nameEn": "XXVII ISPRS Congress 2030",
+    "region": "海外",
+    "location": "韩国 · 仁川",
+    "venue": "Songdo ConvensiA（主办方预告，待后续正式日程复核）",
+    "start": "2030-06-29",
+    "end": "2030-07-06",
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "ISPRS学会正式公布的仁川未来届次，用于提前规划摄影测量、遥感及空间信息研究。光学标签表示系列适配；2030具体征稿主题和技术场次尚未公布。",
+    "website": "https://www.isprs.org/news/announcements/default.aspx",
+    "notice": "https://www.isprs.org/news/announcements/default.aspx",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "目前只确认学会发布的主办城市、整体会期、届号，以及其所链主办方页面的场馆预告；2030投稿系统、模板、篇幅、评审、费用和注册均待当届通知。",
+      "2026报告时长、海报尺寸、出版路径和截止不能迁入2030。2029悉尼已公布年份但具体日期未核实，暂留系列线索；不按旧四年周期或新年会周期推算日期。"
+    ],
+    "publication": "2030出版及索引条件尚未核实；不以2026 Archives/Annals出版目录保证本届相同路径或数据库收录。",
+    "notes": "依据学会2026-08-06公告确认2030-06-29至07-06、XXVII和仁川；8/7公告另列2029悉尼XXVI及自2029年起年会安排，覆盖旧6月XXVI2030招标届号。学会所链http://opusk.org/isprs2030/在正常浏览器读到Songdo ConvensiA；网页工具HTTPS自动转向超时不当事实来源。目录入口保留已读HTTPS学会公告。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2030征稿尚待官方公布",
+        "date": null,
+        "source": "https://www.isprs.org/news/announcements/default.aspx"
+      },
+      {
+        "type": "registration",
+        "label": "2030注册安排尚未核实",
+        "date": null,
+        "source": "https://www.isprs.org/news/announcements/default.aspx"
+      }
+    ]
   }
 ]

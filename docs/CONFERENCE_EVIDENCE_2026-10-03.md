@@ -245,3 +245,18 @@ CFP：3/1计划开放OpenReview，全部作者档案截止前完成，非机构�
 表中投稿3/16、终稿6/22，所有截止17:00 Pacific Time。日期在America/Los_Angeles夏令时，以UTC−07保存at；最终通知6/1为非截止仅date。注册入口/费用、具体会议楼宇、模板内容及索引条件未知。未登录、提交或联系主办；普通静态解析只见HTML外壳，动态CFP巡检需后续查真实公开来源端点，不能声称现指纹覆盖全部动态内容。
 
 另预核[ISPRS2026官方目录](https://www.isprs.org/congresses/toronto2026/default.aspx)确认7/4–11 Toronto及Archives XLIX/Annals XI；[学会公告](https://www.isprs.org/news/announcements/default.aspx)已写2029 Sydney年会与2030 Incheon 6/29–7/6，旧四年周期不推算，新旧届号需按最新公告继续核对。只保存研究，不改ISPRS候选或正式JSON，见work/C15_RESEARCH_2026-10-03.md；仍需当届范围/场馆/征稿及后续细则。ISBI只读搜索所见泛用提案线索，未核实具体日城，不收录。
+
+## C16：ISPRS历史与未来，同系列独立规则
+
+实际核验2026-10-03；2026与2030两届入选，2029只保留线索。一个稳定ISPRS Congress系列关联两届，不与共址加拿大遥感研讨会混合。
+
+| 字段               | 官方来源与实际范围                                                                                                                               | 结论与缺口                                                                                                                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026身份/日期/出版 | [学会2026目录](https://www.isprs.org/congresses/toronto2026/default.aspx)标题与出版链接区；[当届主页](https://www.isprs2026toronto.com/)已结束   | XXV、Toronto、7/4–11；Archives XLIX与同行评审Annals XI分开。未逐篇/逐卷全文读取，不保证索引。主页47th为共址CSRS。                                                                            |
+| 2026适配/场馆      | [Themes & Topics](https://www.isprs2026toronto.com/themes-topics)及[Venue Info](https://www.isprs2026toronto.com/venue-info)实际正文             | 多/高光谱、热成像、Lidar、校准、视觉计量/三维重建为光学子集；整个会议亦含微波。MTCC South Building，非秘书处温哥华地址。                                                                     |
+| 2026准备           | [Presenter Quick Guide](https://www.isprs2026toronto.com/presenterquickguide)；[出版汇总](https://www.isprs2026toronto.com/proceedings-schedule) | 口头12分钟+3问答，PPT/PDF建议16:9/提前上传；海报高46×宽45英寸，优先竖版。历史投稿模板/篇幅、上传具体截止、费用本轮未核实。ISPRS/CSRS出版链接区分。                                           |
+| 后续年度与届号     | [学会公告](https://www.isprs.org/news/announcements/default.aspx)8/6、8/7段落                                                                    | 2029 Sydney XXVI；2030 Incheon XXVII，6/29–7/6。自2029年起年会公告覆盖旧6月XXVI2030招标称呼；不推算以后日期。                                                                                |
+| 2030场馆/边界      | 上述学会所链[主办方页面](http://opusk.org/isprs2030/)正常浏览器实际正文                                                                          | Songdo ConvensiA预告；日期与学会一致。网页工具自动HTTPS转向超时后正常HTTP浏览器成功，未改造URL；目录入口使用HTTPS学会公告，HTTP出处在此保留。注册、征稿、费用、出版/索引均未知，不复用2026。 |
+| 2029具体日程       | [悉尼官网](https://www.isprs2029.com)已读主页                                                                                                    | 2029/XXVI已知、完整日期未取得；混合2029/2030标题不能推翻正文主办身份。不建日期记录，不凭ICCSydney预告推算会期。                                                                              |
+
+系列sources保存已核实HTTPS入口并纳入现有每日巡检；HTTP主办方场馆出处仅文档/notes，未冒称每日HTTPS巡检直接覆盖该HTTP页面。未登录、订阅、投稿或联系主办。旧75届/69系列/85刊/其他JSON及272候选保持。当前85/77/10、70系列，7系列有至少两届；273候选165/103/5，其他分区索引和样例保持。

@@ -1414,12 +1414,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学遥感、高光谱、摄影测量及仪器专题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.isprs.org/news/announcements/default.aspx",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["isprs-2026", "isprs-2030"],
+    "decisionReason": "官方学会与当届来源确证2026多伦多历史届、2030仁川会期与系列光学适配，两个独立届次关联同一稳定系列；2029仅年份线索不正式收录。",
+    "nextAction": "跟进2029悉尼具体会期及2030当届CFP、模板、评审出版、注册费用和正式场馆日程；自2029年起年会安排不用于推算日期，2026规则不迁入后届。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-f648a884e4",

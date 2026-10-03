@@ -825,5 +825,23 @@
       "https://iccp2027.iccp-conference.org/#callforpapers"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-db763d6c1679",
+    "name": "ISPRS Congress",
+    "aliases": [],
+    "editionIds": ["isprs-2026", "isprs-2030"],
+    "website": "https://www.isprs.org/news/announcements/default.aspx",
+    "sources": [
+      "https://www.isprs.org/news/announcements/default.aspx",
+      "https://www.isprs.org/congresses/toronto2026/default.aspx",
+      "https://www.isprs2026toronto.com/",
+      "https://www.isprs2026toronto.com/themes-topics",
+      "https://www.isprs2026toronto.com/venue-info",
+      "https://www.isprs2026toronto.com/presenterquickguide",
+      "https://www.isprs2026toronto.com/proceedings-schedule",
+      "https://www.isprs2029.com"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   }
 ]
