@@ -136,3 +136,5 @@ A14 为 Photonic Sensors 补主办方编辑部明确声明的两项 JCR Q1 排�
 C6 审核 PHOTONICS、PSC、OI/OIP、OPJ、SUM、CHILAS、UP 七系列，新增六届：PHOTONICS 2026、PSC 2026、OIP 2026/2027、SUM 2027、UP 2026。正式74刊/61会议/9活动，候选272（143 admitted / 125 pending / 4 deferred）。OPJ终日官方冲突暂缓，CHILAS与HILAS关系未知；历史/未来规则分开，早鸟和出版冲突保留。[逐字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)。A14 3374738 已验收 Pages 37088948448 与线上861ad4a4…；其他规划继续。
 
 F1 按既有 EI 工程补充路径审核并新增 Applied Optics、JOSA A、JOSA B、Optical Engineering、Applied Physics B 五刊，未假定 Q1/Q2；五刊 SCIE/EI 均取得数据库方依据。正式79刊/61会议/9活动，候选272（148 admitted / 120 pending / 4 deferred），JCR62/CAS11、SCIE67/ESCI10/EI72。JOSA B 2026 S2O 与 APB 2026全面OA分别核实，动态费用及旧指南冲突保留。[逐字段证据](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)。C6 130b6fe 已确认 Pages 37089602380 与线上 ac05ac43…；其他规划继续。
+
+E16 补 COMST、Proceedings of the IEEE、TCYB 三刊稿件/费用边界。COMST收费上限不放宽投稿页限；Proceedings35页为建议；TCYB摘要和无版年费用与2026通用表冲突保留。仅三刊 requirements/publishing 更新，79刊/61会议/9活动及所有索引分区/样例保持。[来源范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。F1 4c84a05 已验收 Pages37090491637 与线上ed5fd15d…；TIE现入口与旧PDF访问失败未更新，后续继续。

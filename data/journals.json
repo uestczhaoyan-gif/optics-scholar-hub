@@ -4117,9 +4117,10 @@
     "guide": "https://www.comsoc.org/publications/journals/ieee-comst/policies-guidelines",
     "requirements": [
       "接收 Survey 与 Tutorial；摘要和引言需明确文章类别及覆盖范围，综述要求全面梳理文献。",
-      "当前指南规定新稿不超过 30 页双栏，修订稿少于 40 页；通过 IEEE Author Portal 提交 PDF 或 Word。投稿前再次核对篇幅与费用政策。"
+      "当前指南规定新稿不超过 30 页双栏，修订稿少于 40 页；通过 IEEE Author Portal 提交 PDF 或 Word。投稿前再次核对篇幅与费用政策。",
+      "2026-10-03 本刊指南补充：仅决定信明确允许的拒稿重投须逐点回复并标记修改，仍作新稿且可换审稿人。所有作者须 ORCID；AI 生成文字按指南披露。初投 PDF/Word，经 https://ieee.atyponrex.com/journal/comst-ieee 官方入口；录用后最终材料另交，不能以收费示例放宽初投/返修页限。"
     ],
-    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+    "publishing": "2026-10-03 本刊明列混合出版、2026 年投稿 OA APC USD 2800；IEEE 会员 5% / 学会会员 20%，不能叠加，不适用于本科/研究生。2020-01-01 之后投稿的录用稿，第31–38出版页 USD220/页，最多8页收费；较长稿的计费例子不构成超过现页限的许可。税按IEEE 2026通用表另加，实际减免资格待核对。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -4172,9 +4173,11 @@
     "guide": "https://proceedingsoftheieee.ieee.org/resources/preparing-your-regular-paper/",
     "requirements": [
       "常规论文需提供新见解和批判性评述；不以报告单项新实验结果的研究论文为主要稿型。",
-      "随稿附详细 Cover Letter，说明主题意义、综述类型、与既有综述的区别及作者相关资历；采用官方模板。"
+      "随稿附详细 Cover Letter，说明主题意义、综述类型、与既有综述的区别及作者相关资历；采用官方模板。",
+      "2026-10-03 本刊 Regular 指南：通常20–25页，未设硬性页限，强烈建议至多35页；作者照片/简介随稿，简介最多200词。Supplementary code/data/video 随稿评审；AI 生成文字披露。",
+      "Cover Letter 还需作者学术主页及超出自身工作的背景引用，缺详细说明可不送审。Author Portal 选择 Regular Paper / Proceedings of the IEEE Editorial Office: Regular Issue；正文入口与另一个 Research Exchange 按钮并存，未登录确认迁移或上传流程。"
     ],
-    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+    "publishing": "混合出版；2026-10-03 经本刊链接核对 IEEE 2026 通用 hybrid OA APC USD2800，以投稿日定价、另加适用税；会员5%/学会20%，不叠加、不用于学生及超页/彩图费。本刊额外费用仍待独立核实。来源 https://open.ieee.org/for-authors/article-processing-charges/ 。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -4282,9 +4285,11 @@
     "guide": "https://www.ieeesmc.org/publications/transactions-on-cybernetics/information-for-authors-3/",
     "requirements": [
       "常规论文通常为 10 页或更短；指南允许付费增加 2 页，超过 12 页的稿件仅邀请稿或综述存在例外。",
-      "会议扩展稿需明确说明与已发表版本的区别，引用并披露相关工作；其他文稿类型按各自篇幅要求准备。"
+      "会议扩展稿需明确说明与已发表版本的区别，引用并披露相关工作；其他文稿类型按各自篇幅要求准备。",
+      "2026-10-03 本刊页要求双栏 PDF，可在8.5×11英寸纸张正确打印，并准备纯文字摘要。Technical Correspondence 是扩展既有 TCYB/TSMC Part B 的贡献，通常不超过5页，不把它当通用短论文。",
+      "普通摘要前段100–250词、后段150–250词相互冲突，未选定下限；TC另列最多100词。预印本与此前发表/提交稿须披露，补充代码/数据/视频在正文引用；本轮不采用旧页面审稿时长作承诺。"
     ],
-    "publishing": "混合出版，可选择传统订阅发表或开放获取；APC 与超页费分别按本刊最新规定核实。"
+    "publishing": "混合出版。2026-10-03 本刊无明确版年的页仍写 OA USD2345，与 IEEE 2026通用hybrid USD2800（投稿日定价、另税）不一致，实际适用价格待确认。该页另列自愿USD110/出版页、强制超页USD175/页（普通稿超10页、TC超5页），不将未标版本金额冒充独立2026价表；OA、超页和印刷彩图分开。来源本刊指南及 https://open.ieee.org/for-authors/article-processing-charges/ 。"
   },
   {
     "checkedAt": "2026-09-11",

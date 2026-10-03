@@ -799,3 +799,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前保存 work/F1_RESEARCH_2026-10-03.md，实际五小时 77% / 周 12%、ordinaryUsageAllowed=true；没有使用重置券。只读公开材料，未登录、投稿或付款。必要验证与差异审查后提交推送并验收同一 SHA。
 
 - 发布前精确断言通过：旧74刊及其他四份目录数据完全保持，只追加五刊、更新五候选，稳定ID/名称/别名/优先级保持。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护254项字段任务、12主题/272候选，118个本地Markdown链接和当前数量通过。JCR62/CAS11、十四刊至少三篇样例保持；差异审查及git diff --check通过。83%五小时/13%周，仍允许工作；继续规划，未用重置券。
+
+## 2026-10-03：IEEE 长稿/短稿规则 E16（三刊）
+
+- F1 4c84a05b38ac4b1aa1c0812287221560da60f0dc 的 [Pages 37090491637](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37090491637) build/deploy 成功；首页/版本 HTTP200，ed5fd15dc56049ec01af3d9d941376524013638a1bf04b8ab9591b092e89de9f 与本地一致，2026-10-03T02:40:10.386Z 验收后开始正式编辑。
+- E16 三刊规则及动态费用逐字段见 [作者证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)：COMST 计费示例不放宽页限、Proceedings 建议与硬限分开，TCYB 官方摘要及无版年费用冲突保留。TIE 当前入口与旧PDF访问失败未改；没有声称读到正文，未登录投稿或付款。
+- 长操作前保存 work/E16_RESEARCH_2026-10-03.md，实际五小时85%/周13%允许工作；只修改三刊 requirements/publishing，其他76刊与所有其他字段和目录保持。必要验证与差异审查后提交推送并验收同SHA，继续其余规划，不用重置券。
+
+- 发布前精确断言通过：仅三刊 requirements/publishing 改变，其余76刊及所有分区/索引/样例/整刊日期和其他五份目录JSON保持。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护254项字段任务、12主题/272候选，86个本地Markdown链接及当前计数通过。差异审查与git diff --check通过；已校验Node24.20.0仅有既有块体积提示。
