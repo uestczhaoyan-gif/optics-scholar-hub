@@ -139,3 +139,12 @@ AOP PDF SHA-256：22bdd3de0f49559201e01efda5b8671a3f8c45fe744a4d0d06ec8d0bba18e7
 - 中国激光研究长摘要 PDF：bffcbbff4c917bffbabf2b85f79aba9a81dc93de5ccdc6347d1b1d56413f739a。
 - 光学学报长摘要 DOCX：3e09d35c6d81011c0f36847e88941c420f74329f7e32ca8bf38135a80e1f6140。
 - 进展长摘要 DOCX：21972f6d91130eb6c49762723d66222661814608259eb18863a5487c7ed9f085。
+
+## E17：eLight / PhotoniX 补充材料与审稿边界
+
+核验2026-10-03，仅两刊requirements追加；已有稿型、文件、费用、索引、分区、样例和整刊核验日期保持。没有登录、上传、推荐审稿人或请求转刊。
+
+- [eLight本刊指南](https://link.springer.com/journal/43593/submission-guidelines)：Cover letter要求适配/政策/利益冲突、作者同意、未重复或同时投稿及专题名称；推荐/排除审稿人可选。数据声明软件部分列归档DOI、系统/语言/依赖/许可证及非学术限制，机器可读/社区强制公共归档与公开数据完整引用分开。Additional files每件20MB、随文公开/引用/描述，数据不以个人院系网页代替认可归档。审稿报告随发表文章公开而审稿人匿名；不推断回复信也全部公开。已存Letter摘要限制及费用未重复改写，其他稿型具体限额待补。
+- [PhotoniX本刊指南](https://link.springer.com/journal/43074/submission-guidelines)：独立读取cover letter、software数据声明及20MB补充文件规则，保存同类材料边界；单匿名评审正文明确审稿人知道作者机构、报告对作者匿名，不套用eLight透明审稿。原Research结构/图文件10MB及当前APC保持，未声称其他稿型全部核验。
+
+另只读APS PRL/PRA/PRB作者页，三刊不在当前79刊正式目录，未当作已有刊修改，未查准入数据库或增添分区。已读规则保存work/E17_RESEARCH_2026-10-03.md供未来候选准入后使用。

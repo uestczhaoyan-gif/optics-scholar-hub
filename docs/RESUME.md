@@ -140,3 +140,5 @@ F1 按既有 EI 工程补充路径审核并新增 Applied Optics、JOSA A、JOSA
 E16 补 COMST、Proceedings of the IEEE、TCYB 三刊稿件/费用边界。COMST收费上限不放宽投稿页限；Proceedings35页为建议；TCYB摘要和无版年费用与2026通用表冲突保留。仅三刊 requirements/publishing 更新，79刊/61会议/9活动及所有索引分区/样例保持。[来源范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。F1 4c84a05 已验收 Pages37090491637 与线上ed5fd15d…；TIE现入口与旧PDF访问失败未更新，后续继续。
 
 C7 审核显示/激光加工五系列，新增 IDW 2026、IMID 2026 历史届次、SID Technical Symposium 2027、ICALEO 2026 四届。正式79刊/65会议/9活动，候选272（152 admitted / 116 pending / 4 deferred）。LPM当届正文/证书受限保持pending；SID整周/研讨会日期、摘要措辞、注册版本与ICALEO价格阶段边界分别保留。[逐字段来源](CONFERENCE_EVIDENCE_2026-10-03.md)。E16 c902a0e 已验收 Pages37090802393 与线上602848d8…；其他规划继续。
+
+E17 为 eLight/PhotoniX 追加 cover letter、软件数据声明、补充文件20MB及各自匿名/公开审稿边界，仅 requirements 改变；现有稿型/费用/索引/分区/日期保持。[逐字段证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。C7 780ea0a 已验收 Pages37091630582 与线上f28d7a8a…，当前79刊/65会议/9活动、272候选152/116/4。实际97%五小时额度仍允许，其他规划继续开放。

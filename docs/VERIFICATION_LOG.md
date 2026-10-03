@@ -815,3 +815,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前保存work/C7_RESEARCH_2026-10-03.md；实际五小时91%/周14%允许工作，未用重置券。其余规划开放，必要验证及差异审查后推送并按同SHA验收。
 
 - 发布前精确断言通过：61届旧会议、79刊及活动/主题/站点数据保持，只追加四届并更新五稳定候选。数据校验、26项测试、typecheck、lint、Pages子路径构建和六入口资源检查通过；维护264项字段任务、12主题/272候选，123个本地Markdown链接及当前数量通过。JCR62/CAS11、十四刊至少三篇样例保持，差异审查与git diff --check通过。构建使用已校验Node24.20.0，仅有既有块体积提示。
+
+## 2026-10-03：补充材料及审稿政策 E17（两刊）
+
+- C7 780ea0aa994158931ce68774a23e0e31e3aca947 的 [Pages37091630582](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37091630582) build/deploy成功，首页/版本HTTP200，f28d7a8a9240f57500131a7ae2df15660f9dc3257599bb7a66e074108648e335与本地一致，2026-10-03T02:59:40.783Z验收后编辑本批。
+- E17 为 eLight/PhotoniX 追加 cover letter、软件数据声明、补充文件20MB及各自匿名/公开审稿边界，仅 requirements 改变；现有稿型/费用/索引/分区/日期保持。[逐字段证据](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。C7 780ea0a 已验收 Pages37091630582 与线上f28d7a8a…，当前79刊/65会议/9活动、272候选152/116/4。实际97%五小时额度仍允许，其他规划继续开放。
+- 长操作前work/E17_RESEARCH_2026-10-03.md已保存；只改两刊requirements，原五条要求及其余77刊、所有其他字段/目录保持。必要验证后提交推送，按同SHA验收；实际额度不足时保存接续，不使用重置券。
+
+- 发布前精确断言通过：仅两刊requirements追加，原要求/其他77刊及其他五份JSON保持。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护264项、12主题/272候选、92个本地Markdown链接及当前计数通过。JCR62/CAS11、十四刊至少三篇样例不变；差异审查及git diff --check通过，Node24.20.0构建只有既有块体积提示。
