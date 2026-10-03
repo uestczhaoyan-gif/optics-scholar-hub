@@ -180,7 +180,7 @@
     "editionIds": ["cos-changchun-2026"],
     "website": "https://meeting.cncos.org.cn/cc2026/index.htm",
     "sources": ["https://meeting.cncos.org.cn/cc2026/index.htm"],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-af2567157c7b",
@@ -188,8 +188,12 @@
     "aliases": [],
     "editionIds": ["precision-engineering-2026"],
     "website": "https://www.cis.org.cn/post/detail/185/7084",
-    "sources": ["https://www.cis.org.cn/post/detail/185/7084"],
-    "nextEditionCheckedAt": null
+    "sources": [
+      "https://www.cis.org.cn/post/detail/185/7084",
+      "https://www.cis.org.cn/post/index/185",
+      "https://www.cis.org.cn/post/detail/185/7281"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-97185827f1be",
@@ -258,8 +262,11 @@
     "aliases": [],
     "editionIds": ["aopc-2026"],
     "website": "https://b2b.csoe.org.cn/meeting/WPC2026.html",
-    "sources": ["https://b2b.csoe.org.cn/meeting/WPC2026.html"],
-    "nextEditionCheckedAt": null
+    "sources": [
+      "https://b2b.csoe.org.cn/meeting/WPC2026.html",
+      "https://csoe.org.cn/index.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-f1ef1344e10c",
@@ -483,8 +490,11 @@
     "aliases": [],
     "editionIds": ["aomta-ysaom-2026"],
     "website": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
-    "sources": ["https://b2b.csoe.org.cn/meeting/YSAOM2026.html"],
-    "nextEditionCheckedAt": null
+    "sources": [
+      "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
+      "https://csoe.org.cn/index.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-ea1694596fc1",
@@ -609,9 +619,10 @@
     "editionIds": ["optica-imaging-2025"],
     "website": "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025",
     "sources": [
-      "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025"
+      "https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025",
+      "https://opg.optica.org/conference.cfm?congress=ImagingOPC"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-c5b1d17c308b",

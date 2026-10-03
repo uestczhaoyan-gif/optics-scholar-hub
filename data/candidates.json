@@ -10,8 +10,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["aomta-ysaom-2026"],
     "decisionReason": "2026 联合会议的官方页及会后报道确认南京 7/22–24，按一届联合活动收录。",
-    "nextAction": "跟踪下一届官方通知；中文篇幅及全文出版条件待核实，不把 YSAOM 认作本系列永久别名。",
-    "reviewedAt": "2026-10-02"
+    "nextAction": "联合会议2026页及CSOE当前首页已读范围未取得下一届公告；继续分别核实AOMTA/YSAOM层级，不将联合关系当永久别名，历史中文篇幅/出版缺口保留。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-0c69bcc1fc",
@@ -24,8 +24,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["aopc-2026"],
     "decisionReason": "官方当届页面确认会期、会场及投稿日程；作为 WPC 学术组成部分收录，展览不重复计数。",
-    "nextAction": "查证早鸟日期两处冲突；跟踪后续届次，不从历史日程推算。",
-    "reviewedAt": "2026-09-14"
+    "nextAction": "WPC/AOPC2026页及CSOE当前首页已读范围未取得下一届会期；早鸟6/20与6/30冲突保持，不按周期推算或复制母展日期。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-bcf898110e",
@@ -212,7 +212,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["optica-imaging-2025"],
     "decisionReason": "本轮读取当届官方身份、会期与城市依据，按历史届次准入；征稿与出版缺口保留。",
-    "nextAction": "跟踪新届通知；2026 ImageSense 现名与已知旧 Imaging 系列的继承/合并关系未确认，暂不合并候选。",
+    "nextAction": "OPG ImagingOPC系列列表最新已发布条目仍2025；论文集列表不证明未来会议取消，ImageSense继承关系未确认，保持两个稳定系列独立，跟踪官方新公告。",
     "reviewedAt": "2026-10-03"
   },
   {
@@ -612,8 +612,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["precision-engineering-2026"],
     "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "nextAction": "学会专题会议首页与8/18会后报道已读，未取得下一届通知；保留2026报到/主报告/参观日期区别，后续城市和会期未知，不按年度推算。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-75ad69d758",
@@ -699,8 +699,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["cos-changchun-2026"],
     "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "nextAction": "2026长春官网已读范围无下一届具体日期；每年联动一展两会的描述不当2027日城，区分长春学术大会、全国学术大会及Light会议。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-ecccc58036",

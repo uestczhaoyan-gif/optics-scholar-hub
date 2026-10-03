@@ -896,3 +896,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/C11_RESEARCH_2026-10-03.md已保存验收、来源与拟改范围。只追加一届、六系列核验日/实际来源及六对应候选nextAction/reviewedAt/IMID关联；旧69届及其他目录保持。修正CANDIDATES当前数量和DATA_MODEL旧摘要顺序说明，其他规划开放。必要校验、范围断言、差异审查和构建后提交推送验收同SHA。
 
 - 发布前数据校验、旧69届/其他目录及267候选保持/六系列与六候选白名单断言通过；162个本地Markdown链接及当前计数通过。维护300项（6个后续系列任务）、12主题/273候选；85/70/10、JCR68/CAS11、二十刊样例保持。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；同SHA完整CI和部署随后验收。文档脚本首轮因已更新表格断言停止，已检查局部结果后完成剩余步骤，无重复证据条目。
+
+## 2026-10-03：后续系列核验 C12
+
+- C11 66562d74bb4c4b61ba95ae5b58a37ba247e141df已验收[Pages37115667619](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37115667619)：build/deploy成功，首页/版本HTTP200，d82e231ece1db7e564c881fbf7f6bd1f25c274fbed5d5c9167e2d1934b139044与本地一致（2026-10-03T10:14:39.179Z）；完整同SHA CI成功后修改。
+- 五系列[官方来源与实际范围](CONFERENCE_EVIDENCE_2026-10-03.md)已记录；只系列核验日/新来源及对应候选nextAction/reviewedAt，没有未来日期推算或历史规则修改。长操作前work/C12_RESEARCH_2026-10-03.md保存验收和边界。当前目录/状态/分区索引保持，其他规划继续，未用重置券。
+
+- 发布前数据校验、所有事实目录字节保持及五系列/五候选字段白名单断言通过；123个本地Markdown链接与当前计数通过。维护295项（唯一CIOP后续任务）、12主题/273候选；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过。没有重复功能测试；同SHA完整CI及线上版本随后验收。
