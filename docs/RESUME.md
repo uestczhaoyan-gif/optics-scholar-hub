@@ -7,8 +7,8 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：79 本期刊、69 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：272 项，152 admitted、116 pending、4 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：79 本期刊、69 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，153 admitted、116 pending、4 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 62/79、中科院 11/79；SCIE 肯定记录 67、ESCI 10、EI 72。72 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 67 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
 - 交叉适配样例已有十四刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 29 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
@@ -25,7 +25,7 @@
 
 | 优先级 | 任务与可执行入口                                                                                                                               | 保留的边界                                                                                                         |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| P1     | 优先推进系列后续公告核验（C8 后尚有 17 系列任务），并查 ACP、IPC、IRMMW-THz、OMTA、OPTIC、Photonics West；关注 FiO 进行中及 OFS-China 后续通知 | 9/30 首批已更新 OMTA 会期/最终轮/缴费和 Photonics West 幻灯片截止。旧 OFS-China 与 Laser Congress 截止不当未来提醒 |
+| P1     | 优先推进系列后续公告核验（C9 后尚有 12 系列任务），并查 ACP、IPC、IRMMW-THz、OMTA、OPTIC、Photonics West；关注 FiO 进行中及 OFS-China 后续通知 | 9/30 首批已更新 OMTA 会期/最终轮/缴费和 Photonics West 幻灯片截止。旧 OFS-China 与 Laser Congress 截止不当未来提醒 |
 | P1     | 补 JCR/CAS 版本与学科；跟进七刊 EI 缺口及两本中文刊的 Web of Science 身份                                                                      | 已有 SCIE 62、ESCI 10、EI 67 均为数据库依据；同一版公开表不重复扫描，缺匹配不等于未收录                            |
 | P1     | 补已收录的未来会议：USQS 2027、CLEO/Europe–EQEC 2027、ICOLS 2027、ICO 2027、WSOF 2027                                                          | USQS 英文注册页仍是 2026；欧洲 CLEO 征稿页仍为 2025；会期已知不代表投稿开放                                        |
 | P1     | 解决 deferred：NDTA 2026、CIOE 纳米压印论坛、CIOE 微显示论坛、OPJ 2026                                                                         | NDTA 酒店已有官方依据，中英文摘要长度仍冲突；两个 CIOE 活动日期/母子层级及 OPJ 终日有冲突，未解决继续暂缓          |
@@ -87,7 +87,7 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 
 ## 可复制的新对话提示
 
-请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 79 本期刊、69 届会议、9 项活动是 2026-10-03 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
+请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 79 本期刊、69 届会议、10 项活动是 2026-10-03 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
 
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
@@ -158,3 +158,7 @@ E17 9a95742701a079209da4a807c9da1b592552a5a1 已验收 Pages37091880262：build/
 优先实施时间深度：复查六系列，新增ECOC/FiO/EOSAM/ICIP 2027四届并关联原稳定系列。正式79刊/69会议/9活动、64系列，272候选152/116/4保持；有至少两届的系列由1增至5。六个后续核验日独立保存，旧65届保持；UP无具体官方后续，ISLC2028新域名官方关联仍待核实，不新增。FiO2027首页与旧征稿/注册页分开；ECOC普通/Demo和展览、ICIP共址注册/独立政策分开。[字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)。
 
 S1 de7a4e248f0fb14c56d29c5410882658d28655c3 已验收 [Pages37111110265](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37111110265)：build/deploy成功、首页/版本HTTP200，14afaed1d674c5f2b9ed8a7556ce583b21b022f4c1f5ee024f2e881f3f762e79与本地一致（2026-10-03T08:53:54.438Z）。首次TLS连接异常只复查同一部署，无重复提交。C8必要验证后上传验收；其余17个已结束系列后续任务及全部原规划仍继续。
+
+## 2026-10-03：国内与亚太后续核验 C9
+
+C9 核查六系列后续范围：五系列主页已读，CIOP证书错误保留原核验日。新增CIOE2027母展，旧2026活动保持；OGC/COS2026不挪用2027母展会期，CLEO-PR2028仅筹备线索。[逐字段来源与边界](CONFERENCE_EVIDENCE_2026-10-03.md)。正式79刊/69会议/10活动、64系列；273候选153/116/4。后续系列任务12项，其他规划继续。

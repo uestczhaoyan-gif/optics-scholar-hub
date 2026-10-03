@@ -153,8 +153,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["cleo-pr-2026"],
     "decisionReason": "当届官网及学会公告确认 2026 北京届次、会场和投稿/出版规则，已收录历史记录。",
-    "nextAction": "跟踪下一届正式通知；实际论文出版与 EI 覆盖须逐篇核实，不按举办周期推算日期。",
-    "reviewedAt": "2026-09-15"
+    "nextAction": "2026-10-03已读2026官网；NCKU学会秘书招聘公告提及CLEO-PR2028筹备，但无具体会期/举办城市。跟踪正式当届公告；招聘工作地点不能作为会议城市。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-280e7bbb19",
@@ -282,8 +282,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["icocn-2026"],
     "decisionReason": "最终技术日程确认 2026 年 7 月 20–23 日及西宁会场，按历史届次收录。",
-    "nextAction": "关注下一届官方通知；作者指南超页规则、模板版本与退款日期仍有官网表述问题，未自行修正。",
-    "reviewedAt": "2026-09-13"
+    "nextAction": "2026-10-03已读官网2026首页/历届入口，未取得下一届公告；跟踪后续官方通知，历史超页/退款表述问题仍待补。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-1027a7838c",
@@ -486,8 +486,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["ogc-2026"],
     "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "nextAction": "2026-10-03已读当届首页及CIOE会议表，仍为2026且标已结束；跟踪下一届独立公告，不沿用CIOE2027母展会期。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-0434ec4c23",
@@ -640,8 +640,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["apos-2026"],
     "decisionReason": "官网当届身份与征稿 PDF 已核对；PDF 区分 APOS 2026-01-31–02-02 和 IWPFA 02-03–04，按 APOS 历史届次收录，不使用联合总范围。",
-    "nextAction": "跟踪官方下一届通知，不按周期推算；历史投稿最终版本、稿型与校内会场继续待核实，专刊不混入会议截止。",
-    "reviewedAt": "2026-10-02"
+    "nextAction": "2026-10-03普通浏览器已读官网全文，仍为2026及旧截止/专刊信息；跟踪正式下一届，不按18个月周期推算。历史截止冲突、稿型/会场及专刊适用范围继续待核实。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-ee5c59fb09",
@@ -685,8 +685,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["cos-2026"],
     "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "nextAction": "2026-10-03已读2026大会主页、学会国内会议首页及CIOE会议表，未取得下一届具体公告；不沿用母展2027会期或按旧周期推算。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-c24fd6043a",
@@ -3864,6 +3864,20 @@
     "relatedExistingIds": ["optica-imagesense-2026"],
     "decisionReason": "当届官方母会名称、2026 会期和城市/会场已读；按一个历史届次收录，不复制十二专题。",
     "nextAction": "核实与旧 Imaging 系列的继承/合并关系及下一届；旧系列仍独立保存，不直接设永久别名。",
+    "reviewedAt": "2026-10-03"
+  },
+  {
+    "candidateId": "event-7d763b2aa2",
+    "name": "第28届中国国际光电博览会（CIOE 中国光博会）",
+    "aliases": ["第28届中国国际光电博览会", "CIOE 2027"],
+    "kind": "event",
+    "priority": 2,
+    "scopeHint": "综合光学与光电产业链；母展不作为论文会议。",
+    "sourceEntry": "https://www.cioe.cn/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["cioe-2027"],
+    "decisionReason": "官方当前首页明确第28届、2027-09-08–10及深圳国际会展中心（宝安），作为独立2027母展收录。",
+    "nextAction": "跟踪2027观众登记及同期独立会议公告，核实规则后补充；当前2026会议表不证明2027子活动已公布。",
     "reviewedAt": "2026-10-03"
   }
 ]

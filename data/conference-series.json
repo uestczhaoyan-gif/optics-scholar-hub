@@ -41,8 +41,12 @@
     "aliases": [],
     "editionIds": ["cos-2026"],
     "website": "https://meeting.cncos.org.cn/cosconf2026/index.htm",
-    "sources": ["https://meeting.cncos.org.cn/cosconf2026/index.htm"],
-    "nextEditionCheckedAt": null
+    "sources": [
+      "https://meeting.cncos.org.cn/cosconf2026/index.htm",
+      "https://www.cncos.org.cn/Content/index/catid/12.html",
+      "https://conference.cioe.cn/en/ConferenceList.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-e0aa59321b2a",
@@ -215,8 +219,12 @@
     "aliases": [],
     "editionIds": ["ogc-2026"],
     "website": "https://ipsogc.org/",
-    "sources": ["https://ipsogc.org/", "https://ipsogc.org/sub.html"],
-    "nextEditionCheckedAt": null
+    "sources": [
+      "https://ipsogc.org/",
+      "https://ipsogc.org/sub.html",
+      "https://conference.cioe.cn/en/ConferenceList.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-2f5a792b7310",
@@ -228,7 +236,7 @@
       "https://www.icocn.org.cn/",
       "https://www.icocn.org.cn/?pages_18/="
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-9ae4f3391a51",
@@ -389,9 +397,10 @@
     "website": "https://cleopr2026.org.cn/",
     "sources": [
       "https://cleopr2026.org.cn/",
-      "https://www.bagevent.com/event/9077151/p/566129"
+      "https://www.bagevent.com/event/9077151/p/566129",
+      "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4387"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-40c6903e6239",
@@ -458,7 +467,7 @@
       "https://www.apos2026.com/",
       "https://www.apos2026.com/static/Callforpaper.pdf"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-4e5136e95266",

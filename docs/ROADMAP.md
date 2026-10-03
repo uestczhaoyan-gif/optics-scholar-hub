@@ -4,7 +4,7 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **79 本期刊、69 届会议、9 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **79 本期刊、69 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
@@ -14,8 +14,8 @@
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
-| 日历、分享筛选、本地关注、审核统计 | 已实现；现有 26 项自动测试                    | 随新增字段补必要测试，不重复开发                         |
-| 广覆盖候选池和审核流程             | 已有 272 项结构化候选及审核规则               | 规范状态、身份、适配证据和待办，不将候选数量算成正式收录 |
+| 日历、分享筛选、本地关注、审核统计 | 已实现；现有 29 项自动测试                    | 随新增字段补必要测试，不重复开发                         |
+| 广覆盖候选池和审核流程             | 已有 273 项结构化候选及审核规则               | 规范状态、身份、适配证据和待办，不将候选数量算成正式收录 |
 
 ## 数据缺口快照
 
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 79 journals, 69 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 79 journals, 69 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 62 journals and CAS records for 11. SCIE has 67 and EI has 72 positive records. 72 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Sixty-seven SCIE records have current Clarivate MJL search-result evidence; ten ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -469,3 +469,7 @@ E17 9a95742701a079209da4a807c9da1b592552a5a1 已验收 Pages37091880262：build/
 优先实施时间深度：复查六系列，新增ECOC/FiO/EOSAM/ICIP 2027四届并关联原稳定系列。正式79刊/69会议/9活动、64系列，272候选152/116/4保持；有至少两届的系列由1增至5。六个后续核验日独立保存，旧65届保持；UP无具体官方后续，ISLC2028新域名官方关联仍待核实，不新增。FiO2027首页与旧征稿/注册页分开；ECOC普通/Demo和展览、ICIP共址注册/独立政策分开。[字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)。
 
 S1 de7a4e248f0fb14c56d29c5410882658d28655c3 已验收 [Pages37111110265](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37111110265)：build/deploy成功、首页/版本HTTP200，14afaed1d674c5f2b9ed8a7556ce583b21b022f4c1f5ee024f2e881f3f762e79与本地一致（2026-10-03T08:53:54.438Z）。首次TLS连接异常只复查同一部署，无重复提交。C8必要验证后上传验收；其余17个已结束系列后续任务及全部原规划仍继续。
+
+## 2026-10-03：国内与亚太后续核验 C9
+
+C9 核查六系列后续范围：五系列主页已读，CIOP证书错误保留原核验日。新增CIOE2027母展，旧2026活动保持；OGC/COS2026不挪用2027母展会期，CLEO-PR2028仅筹备线索。[逐字段来源与边界](CONFERENCE_EVIDENCE_2026-10-03.md)。正式79刊/69会议/10活动、64系列；273候选153/116/4。后续系列任务12项，其他规划继续。
