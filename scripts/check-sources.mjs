@@ -39,7 +39,8 @@ for (const url of urls) {
       continue;
     }
     const contentType = response.headers.get('content-type') || '';
-    if (!/text\/html|text\/plain/.test(contentType)) {
+    const isImage = /^image\//i.test(contentType);
+    if (!isImage && !/text\/html|text\/plain/i.test(contentType)) {
       await response.body?.cancel();
       rows.push({ url, status: 'reachable-nontext' });
       continue;
@@ -57,8 +58,12 @@ for (const url of urls) {
       }
       chunks.push(value);
     }
-    const body = Buffer.concat(chunks).toString('utf8');
-    if (/<title[^>]*>[^<]*(just a moment|access denied|captcha)/i.test(body)) {
+    const bytes = Buffer.concat(chunks);
+    const body = isImage ? '' : bytes.toString('utf8');
+    if (
+      !isImage &&
+      /<title[^>]*>[^<]*(just a moment|access denied|captcha)/i.test(body)
+    ) {
       rows.push({ url, status: 'access-limited' });
       continue;
     }
@@ -67,16 +72,25 @@ for (const url of urls) {
       .replace(/<[^>]+>/g, ' ')
       .replace(/\s+/g, ' ')
       .trim();
-    const hash = createHash('sha256').update(normalized).digest('hex');
+    const fingerprint = isImage ? 'image-bytes' : 'text';
+    const hash = createHash('sha256')
+      .update(isImage ? bytes : normalized)
+      .digest('hex');
+    // A different comparison method starts a fresh baseline; legacy text caches remain usable.
+    const old = previous[url];
+    const comparable =
+      old &&
+      (old.fingerprint === fingerprint || (!old.fingerprint && !isImage));
     rows.push({
       url,
-      status: !previous[url]
+      fingerprint,
+      status: !comparable
         ? 'baseline'
-        : previous[url].hash === hash
+        : old.hash === hash
           ? 'unchanged'
           : 'changed',
     });
-    current[url] = { hash, checkedAt: new Date().toISOString() };
+    current[url] = { hash, fingerprint, checkedAt: new Date().toISOString() };
   } catch (error) {
     rows.push({
       url,
@@ -102,12 +116,13 @@ const report = [
   `Run: ${new Date().toISOString()}`,
   '',
   'Changes require human review. HTTP 403/429 does not mean a link is dead. Website navigation changes may also alter fingerprints. No catalog data was changed.',
+  'Explicit image sources use byte fingerprints, not image recognition. A changed image may contain layout or metadata changes; its dates and claims still require manual review. Other nontext sources are checked for reachability only.',
   '',
-  '| Status | Affected records and fields | Source |',
-  '| --- | --- | --- |',
+  '| Status | Comparison | Affected records and fields | Source |',
+  '| --- | --- | --- | --- |',
   ...rows.map(
     (r) =>
-      `| ${r.status}${r.http ? ' ' + r.http : ''} | ${r.references.map((ref) => tableCell(`${ref.catalog}/${ref.id}: ${ref.field}`)).join('<br>')} | ${tableCell(r.url)} |`,
+      `| ${r.status}${r.http ? ' ' + r.http : ''} | ${r.fingerprint || '—'} | ${r.references.map((ref) => tableCell(`${ref.catalog}/${ref.id}: ${ref.field}`)).join('<br>')} | ${tableCell(r.url)} |`,
   ),
 ].join('\n');
 await fs.writeFile('source-state/state.json', JSON.stringify(current, null, 2));

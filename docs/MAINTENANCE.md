@@ -48,3 +48,9 @@ Run `pnpm report:maintenance` for an offline task queue. Review imminent events 
 新增后续届次时保留旧条目；按官方身份/会期创建独立 ID，同步稳定系列 editionIds、候选关联及文档数量。不能复用旧届投稿要求、APC、城市或推算日期。系列更名须有官方继承依据，保留稳定 ID。来源范围写入核验日志，必要验证后按提交 SHA 确认 Pages build/deploy 与线上目录版本。系列数据已纳入版本摘要，单独增加关联也会触发“加载新版”。
 
 The daily source workflow includes series announcement sources. Ended series without a reviewed future edition enter a 30-day review queue. A successful manual review updates only nextEditionCheckedAt; failed requests do not. Add officially evidenced editions without removing history, preserve stable series IDs and validate deployment before publishing facts.
+
+## 公告图片巡检
+
+目录中明确保存为官网/通知/系列sources的image/*来源支持image-bytes指纹；普通文本仍用text指纹，其他非文本保持reachable-nontext。报告新增Comparison列。不会自动发现或下载HTML中的所有图片，也不会OCR/解析或自动改写会议事实。图片字节变化可能来自版式/压缩/元数据，须人工目视对应官方公告再逐字段编辑。
+
+同URL去重，访问仍顺序、15秒超时及2MB上限；失败、受限或超限不覆盖上次成功基线。文本旧缓存可继续比较，比较方法切换建立新baseline。只有显式追踪来源的变化可产生信号，不能声称覆盖整站所有图像。IMID已列入2026官方感谢信引用的图像，用于跟踪后续更新，保留其2027字段原始出处。

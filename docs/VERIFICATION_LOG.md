@@ -903,3 +903,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 五系列[官方来源与实际范围](CONFERENCE_EVIDENCE_2026-10-03.md)已记录；只系列核验日/新来源及对应候选nextAction/reviewedAt，没有未来日期推算或历史规则修改。长操作前work/C12_RESEARCH_2026-10-03.md保存验收和边界。当前目录/状态/分区索引保持，其他规划继续，未用重置券。
 
 - 发布前数据校验、所有事实目录字节保持及五系列/五候选字段白名单断言通过；123个本地Markdown链接与当前计数通过。维护295项（唯一CIOP后续任务）、12主题/273候选；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过。没有重复功能测试；同SHA完整CI及线上版本随后验收。
+
+## 2026-10-03：公告图片巡检 S2
+
+- C12 471b70c71a2c1f49cc1f3d7f3e57943bd7222755已验收[Pages37115972022](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37115972022)：build/deploy成功，首页/版本HTTP200，b158cad6526a16857d2de4fe53c160efbfab4680f4ce072768960bf9554dbc7d与本地一致（2026-10-03T10:19:26.031Z），同SHA完整CI成功后修改。
+- 修复显式公告图片缺少变化指纹：image-bytes与text分别记录，旧文字缓存兼容、方法切换重建基线；沿用同URL去重、顺序访问/15秒/2MB及失败保留。只追加IMID已读官方图像到该系列sources，所有学术事实不改。未自动爬图、OCR或解析新日期，其他非文本保持可达检查；每日工作流调度不改。
+- 长操作前work/S2_RESEARCH_2026-10-03.md保存范围和C12验收。一项新集成测试初轮误将首次成功时间当失败前基线，修正为最近成功快照后两项来源测试通过；真实IMID图像HTTPS探测baseline/unchanged成功，孤立于正式缓存，结果work/S2-live-probe/source-report。完整功能检查随后完成，再推送验收同SHA。
+
+- 最终数据/范围校验、30项测试、typecheck、修正const后的lint全部通过；125个本地Markdown链接、维护295项/唯一CIOP后续任务、12主题覆盖通过。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；目录学术事实保持，仅IMID图像来源追加。实际五小时79%/周28%允许，继续其余有价值规划，无重置券。
