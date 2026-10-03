@@ -235,3 +235,13 @@ SPIE 页面经普通浏览器可读，几次导航超时后读取实际页面确
 | ISDH冲突及身份        | [发现站点](https://isdh2026.org/)自称Lake Forest College/Lillard Science Center：Save the Date写6/22至Friday6/27，而2026-06-27是周六；活动表Thursday6/25与Friday6/25重复。          | 终日不选一个充数，改deferred，待大学官方公告/准确日程交叉证实主办关系及技术会期；不自行纠成6/26。布展6/21不作技术会开始，展示/缴费发言不凭空称评审论文。 |
 
 旧72届、66系列、85刊及其他目录保持；只追加两届及两个稳定系列、三个候选指定字段。当前85/74/10、68稳定系列、273候选163/105/5；仍6个多届系列，分区索引和二十刊样例保持。
+
+## C15：ICCP2027动态征稿
+
+核验2026-10-03，正常浏览器点击[Home](https://iccp2027.iccp-conference.org/#home)和[Call for Papers](https://iccp2027.iccp-conference.org/#callforpapers)读取完整正文。Home确认马里兰大学College Park、2027-08-02–04；夏令学校7/31–8/1分开。CFP明确计算相机、照明/显示、结构光/ToF、计算光学、科学及生医成像，非仅泛算法。
+
+CFP：3/1计划开放OpenReview，全部作者档案截止前完成，非机构邮箱可需两周审核。匿名正文/SI，作者名单截止后锁定；所链LaTeX文件名含2026，本轮未下载，不声称已核包内容。无严格页限，超过8页不含参考文献需合理贡献；总长超12页含参考文献$220/页，币种未明确，超18页仅会议路径。至少三专家双匿名、可选一页rebuttal5/4–11、shepherd后终稿；PAMI为全新档案级研究，会议扩展不具资格，推荐后仍可能额外小修或转会议出版。匿名补充不保证审稿人阅读；同行评审workshop属前发表，未评审arXiv另有边界。
+
+表中投稿3/16、终稿6/22，所有截止17:00 Pacific Time。日期在America/Los_Angeles夏令时，以UTC−07保存at；最终通知6/1为非截止仅date。注册入口/费用、具体会议楼宇、模板内容及索引条件未知。未登录、提交或联系主办；普通静态解析只见HTML外壳，动态CFP巡检需后续查真实公开来源端点，不能声称现指纹覆盖全部动态内容。
+
+另预核[ISPRS2026官方目录](https://www.isprs.org/congresses/toronto2026/default.aspx)确认7/4–11 Toronto及Archives XLIX/Annals XI；[学会公告](https://www.isprs.org/news/announcements/default.aspx)已写2029 Sydney年会与2030 Incheon 6/29–7/6，旧四年周期不推算，新旧届号需按最新公告继续核对。只保存研究，不改ISPRS候选或正式JSON，见work/C15_RESEARCH_2026-10-03.md；仍需当届范围/场馆/征稿及后续细则。ISBI只读搜索所见泛用提案线索，未核实具体日城，不收录。

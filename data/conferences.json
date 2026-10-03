@@ -3806,5 +3806,61 @@
         "source": "https://2027.ieeeigarss.org/important_dates.php"
       }
     ]
+  },
+  {
+    "id": "iccp-2027",
+    "series": "IEEE ICCP",
+    "year": 2027,
+    "name": "IEEE计算摄影国际会议 ICCP 2027",
+    "nameEn": "International Conference on Computational Photography 2027",
+    "region": "海外",
+    "location": "美国 · 马里兰州 College Park",
+    "venue": "University of Maryland（具体会议楼待核实）",
+    "start": "2027-08-02",
+    "end": "2027-08-04",
+    "topics": ["成像与计算光学", "传感与测量", "电子与器件", "生物医学光学"],
+    "description": "计算摄影/成像会议，覆盖光学系统、相机、照明、结构光与飞行时间成像，以及科学和生物医学成像等应用。夏令学校与正式会议分开。",
+    "website": "https://iccp2027.iccp-conference.org/",
+    "notice": "https://iccp2027.iccp-conference.org/#callforpapers",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "2027 CFP通过OpenReview匿名提交，计划2027-03-01开放；全部作者在截止前完成档案，非机构邮箱新档案审核可需两周。正文、致谢及补充均须匿名，投稿截止后不可更改作者列表。官方LaTeX包文件名仍含2026，本轮仅核链接未下载其内容。",
+      "无严格投稿页限，但正文超过8页（不含参考文献）须与贡献匹配；总长超过12页（含参考文献）有$220/页强制收费，具体币种/费用计算适用范围仍待核实。超过18页只可进入会议路径，不进PAMI特刊。",
+      "所有有效稿至少三位专家双匿名评审；可选一页rebuttal窗口5/4–11。PAMI路径要求全新且档案级研究，不能是已发表会议扩展；会议路径与PAMI推荐均须按shepherd意见返修，推荐不等于期刊最终录用。",
+      "补充材料匿名，审稿人可选择是否阅读。同行评审workshop也属先前发表，未评审arXiv/技术报告另有边界；禁止同时投高度重叠稿，具体政策以本届CFP为准。"
+    ],
+    "publication": "共用评审后分配会议论文集或PAMI计算摄影特刊路径，均在会上口头报告。PAMI可要求额外小修，未满足者可转会议出版；未核实论文集最终索引与报告后出版细则，不保证自动EI/SCIE。",
+    "notes": "官网Home/Call for Papers通过动态标签读取；普通静态解析只见外壳。夏令学校2027-07-31–08-01不并入8/2–4会期。原文所有截止17:00 Pacific Time，3/16及6/22在America/Los_Angeles夏令时UTC−07；通知仅保存日期。注册入口、费用及具体楼宇未知。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "匿名论文投稿截止（17:00 Pacific Time）",
+        "at": "2027-03-16T17:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://iccp2027.iccp-conference.org/#callforpapers"
+      },
+      {
+        "type": "notification",
+        "label": "最终结果通知",
+        "date": "2027-06-01",
+        "source": "https://iccp2027.iccp-conference.org/#callforpapers"
+      },
+      {
+        "type": "camera-ready",
+        "label": "最终稿截止（17:00 Pacific Time）",
+        "at": "2027-06-22T17:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://iccp2027.iccp-conference.org/#callforpapers"
+      },
+      {
+        "type": "registration",
+        "label": "作者/普通注册截止未核实",
+        "date": null,
+        "source": "https://iccp2027.iccp-conference.org/"
+      }
+    ]
   }
 ]

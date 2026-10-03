@@ -1288,12 +1288,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "计算摄影与成像，优先于一般算法会议",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://iccp2027.iccp-conference.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["iccp-2027"],
+    "decisionReason": "官方2027主页及动态CFP直接确认College Park马里兰大学8/2–4、成像光学范围及独立征稿，正式入选；夏令学校分开。",
+    "nextAction": "跟进3/1系统开放，核当前所链含2026文件名模板的实际内容、注册/费用、具体会场及PAMI转交规则；动态CFP来源巡检另需实际端点证据。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-d1a5934e3e",

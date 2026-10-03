@@ -812,5 +812,18 @@
       "https://2027.ieeeigarss.org/call_for_papers.php"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-a38889ac131d",
+    "name": "IEEE ICCP",
+    "aliases": [],
+    "editionIds": ["iccp-2027"],
+    "website": "https://iccp2027.iccp-conference.org/",
+    "sources": [
+      "https://iccp2027.iccp-conference.org/",
+      "https://iccp2027.iccp-conference.org/#home",
+      "https://iccp2027.iccp-conference.org/#callforpapers"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]
