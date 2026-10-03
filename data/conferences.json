@@ -3574,5 +3574,45 @@
         "source": "https://2027.ieeeicip.org/"
       }
     ]
+  },
+  {
+    "id": "imid-2027",
+    "series": "International Meeting on Information Display",
+    "year": 2027,
+    "name": "国际信息显示会议 IMID 2027（预告）",
+    "nameEn": "International Meeting on Information Display 2027",
+    "region": "海外",
+    "location": "韩国 · 釜山",
+    "venue": "BEXCO",
+    "start": "2027-08-24",
+    "end": "2027-08-27",
+    "topics": ["电子与器件"],
+    "description": "IMID组委会在2026会后感谢信中公布下一届会期与会场。2027专题和征稿安排尚待核实，先供显示研究的年度准备参考。",
+    "website": "https://imid.or.kr/2026/newsletter/thanksletter.html",
+    "notice": "https://imid.or.kr/2026/newsletter/thanksletter.html",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "当届预告来自2026官方会后感谢信图像，已目视读取2027日期、釜山及BEXCO；尚未取得2027独立征稿正文。",
+      "2027篇幅、模板、普通/Late News稿件规则、作者注册及费用待核实，不移用2026一页PDF或截止。"
+    ],
+    "publication": "2027论文集出版商、归档、报告条件及数据库索引尚未核实。",
+    "notes": "IMID根站当前仍转到2026主页；其Thanksletter链接公布2027会期与会场。预告不证明投稿或注册已开放，2026统计与规则仅留在历史届次。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2027投稿截止待公布",
+        "date": null,
+        "source": "https://imid.or.kr/2026/newsletter/thanksletter.html"
+      },
+      {
+        "type": "registration",
+        "label": "2027注册截止待公布",
+        "date": null,
+        "source": "https://imid.or.kr/2026/newsletter/thanksletter.html"
+      }
+    ]
   }
 ]

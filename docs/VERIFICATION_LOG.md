@@ -888,3 +888,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/F3_RESEARCH_2026-10-03.md保存F2验收及准入范围；只追加四刊及四稳定候选指定字段，旧81刊和其他目录保持。初轮索引参数缺失被数据校验发现，已修正，并显式保存Research SCIE未知；修正后数据校验通过，维护303项、12主题/273候选。必要验证及差异审查后推送同SHA验收，其他规划开放，未用重置券。
 
 - 最终发布前数据校验、旧81刊/其他目录/269候选保持和四候选白名单断言通过；Research显式SCIE未知/ESCI肯定、所有新分区2025版secondary断言通过。155个本地Markdown链接/当前计数、维护303项（12后续系列任务）/12主题覆盖通过；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过。85/69/10、候选273（159/110/4）、JCR68/CAS11、SCIE72/ESCI11/EI78、二十刊样例保持；完整功能检查在同SHA CI验收。
+
+## 2026-10-03：后续系列核验 C11
+
+- F3 bc96f6c4332f4f890267fc49307e0edfdb08f7c2已验收[Pages37114963476](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37114963476)：build/deploy成功，首页/版本HTTP200，e7c21ca1d4c48eac93757972d3dd5bebcafcfd06af7bb7f9ff9f0ca69aea3333与本地一致（2026-10-03T10:05:07.490Z）；同SHA完整CI成功后正式编辑。
+- 六系列实际核验，追加IMID2027预告；[逐字段出处/范围](CONFERENCE_EVIDENCE_2026-10-03.md)。官网图像感谢信实际目视后确认日期场馆，其他五系列仅声明已读范围，没有日期推算或旧规则复用；CIOP失败不重复查。
+- 长操作前work/C11_RESEARCH_2026-10-03.md已保存验收、来源与拟改范围。只追加一届、六系列核验日/实际来源及六对应候选nextAction/reviewedAt/IMID关联；旧69届及其他目录保持。修正CANDIDATES当前数量和DATA_MODEL旧摘要顺序说明，其他规划开放。必要校验、范围断言、差异审查和构建后提交推送验收同SHA。
+
+- 发布前数据校验、旧69届/其他目录及267候选保持/六系列与六候选白名单断言通过；162个本地Markdown链接及当前计数通过。维护300项（6个后续系列任务）、12主题/273候选；85/70/10、JCR68/CAS11、二十刊样例保持。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；同SHA完整CI和部署随后验收。文档脚本首轮因已更新表格断言停止，已检查局部结果后完成剩余步骤，无重复证据条目。

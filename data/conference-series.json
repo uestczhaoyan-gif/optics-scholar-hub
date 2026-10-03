@@ -267,8 +267,12 @@
     "aliases": [],
     "editionIds": ["aop-2026"],
     "website": "https://aop2026.org/",
-    "sources": ["https://aop2026.org/", "https://aop2026.org/submissions.html"],
-    "nextEditionCheckedAt": null
+    "sources": [
+      "https://aop2026.org/",
+      "https://aop2026.org/submissions.html",
+      "https://optica.pt/"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-86cdd7a29672",
@@ -368,7 +372,7 @@
       "https://icors2026.org/",
       "https://icors2026.org/abstract-submission/"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-6e3a34c17677",
@@ -593,9 +597,10 @@
     "editionIds": ["optica-advanced-photonics-2026"],
     "website": "https://www.optica.org/events/congress/advanced_photonics_congress/",
     "sources": [
-      "https://www.optica.org/events/congress/advanced_photonics_congress/"
+      "https://www.optica.org/events/congress/advanced_photonics_congress/",
+      "https://www.optica.org/events/"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-f346be857f1a",
@@ -624,9 +629,10 @@
     "editionIds": ["optica-imagesense-2026"],
     "website": "https://www.optica.org/events/congress/optica_imagesense_congress/",
     "sources": [
-      "https://www.optica.org/events/congress/optica_imagesense_congress/"
+      "https://www.optica.org/events/congress/optica_imagesense_congress/",
+      "https://www.optica.org/events/"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-8d43c85f590a",
@@ -648,9 +654,10 @@
     "website": "https://psc2026.org/",
     "sources": [
       "https://psc2026.org/",
-      "https://psc2026.org/paper-submission/"
+      "https://psc2026.org/paper-submission/",
+      "https://psc2026.org/about-psc/"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-8405d097236a",
@@ -705,13 +712,14 @@
     "id": "series-e8f703ba9bc1",
     "name": "International Meeting on Information Display",
     "aliases": [],
-    "editionIds": ["imid-2026"],
+    "editionIds": ["imid-2026", "imid-2027"],
     "website": "https://imid.or.kr/2026/conference_info.asp",
     "sources": [
       "https://imid.or.kr/2026/conference_info.asp",
-      "https://imid.or.kr/2026/guideline_paper_submission.asp"
+      "https://imid.or.kr/2026/guideline_paper_submission.asp",
+      "https://imid.or.kr/2026/newsletter/thanksletter.html"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-03"
   },
   {
     "id": "series-1341c55cd713",

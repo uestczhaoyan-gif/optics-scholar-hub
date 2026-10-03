@@ -71,7 +71,7 @@ Journal records store independent ranking dimensions and evidence. CAS major/min
 
 `data/events.json` 独立存储展览、产业论坛、历史学术论坛：id/name/kind/start/end/location/topics/description/website/notice/checkedAt/participation/relation，可选 parentId 指向母展。无公开征稿依据不复用论文截止模型。官方来源检查包含该文件。
 
-构建输出 `catalog-version.json`，含 schema=1、数据 SHA-256 和 publishedAt（构建时间）。摘要对象顺序固定为 journals/conferences/events/topics/site，不包含用户关注或访问行为；刷新按钮仅请求本网站该文件，不触发远端主办方抓取。
+构建输出 `catalog-version.json`，含 schema=1、数据 SHA-256 和 publishedAt（构建时间）。摘要对象顺序固定为 journals/conferences/events/topics/site/conferenceSeries，不包含用户关注或访问行为；刷新按钮仅请求本网站该文件，不触发远端主办方抓取。
 
 ## 会议系列 / Conference series
 

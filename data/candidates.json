@@ -94,7 +94,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["optica-advanced-photonics-2026"],
     "decisionReason": "本轮读取当届官方身份、会期与城市依据，按历史届次准入；征稿与出版缺口保留。",
-    "nextAction": "跟踪下一届官方通知；本届历史截止、篇幅及费用仍待核实，不按周期推算。",
+    "nextAction": "官网主页及Optica活动首页已读范围仍为2026，无已核实下一届会期；跟踪新公告，历史稿件/费用缺口独立保留，不按周期推算。",
     "reviewedAt": "2026-10-03"
   },
   {
@@ -299,7 +299,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["psc-2026"],
     "decisionReason": "当届官网确认2026瓦伦西亚历史届会期/会场及普通/PDP稿件条件。",
-    "nextAction": "跟踪下一届官方通知；早鸟8/30与8/31冲突保留，不按周期推算2027。",
+    "nextAction": "2026主页及About PSC已读，尚无已核实下一届公告；年度/轮换地区介绍不当2027日城。保留历史早鸟冲突，区分同缩写的其他PSC活动。",
     "reviewedAt": "2026-10-03"
   },
   {
@@ -887,8 +887,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["icors-2026"],
     "decisionReason": "当届官网、场馆页及正式日程确认拉曼光谱系列身份与 2026 会期；已收录历史届次，保留旧预告日期差异。",
-    "nextAction": "跟踪后续届次和 JRS 独立专刊通知；报告数量在摘要页与注册套餐间存在口径差异，须向会务确认。",
-    "reviewedAt": "2026-09-15"
+    "nextAction": "官网主页已读范围仍为2026摘要集、照片和专刊，下一届待官方公告；外部学会列表2027 Istanbul与当届2026冲突，不作为新届。JRS专刊不当会议摘要DDL，历史报告数量差异保留。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-fb3cf0f27d",
@@ -962,9 +962,9 @@
     "scopeHint": "学术 symposium 与商业展览分开",
     "sourceEntry": "https://imid.or.kr/2026/conference_info.asp",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["imid-2026"],
+    "relatedExistingIds": ["imid-2026", "imid-2027"],
     "decisionReason": "当届官网确认2026釜山BEXCO 8/18–21，普通一页PDF和历史通知/作者注册。",
-    "nextAction": "跟踪下一届；Late News细则、论文集出版商/归档索引仍待核实，不按周期推算。",
+    "nextAction": "官方会后感谢信已确认IMID2027会期/会场并追加预告；继续跟踪独立官网、2027征稿/注册/费用/出版，不移用2026材料规则或索引。",
     "reviewedAt": "2026-10-03"
   },
   {
@@ -3728,8 +3728,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["aop-2026"],
     "decisionReason": "当届官网及 Indico 确認会期、校区与投稿出版流程；冲突摘要截止留空。",
-    "nextAction": "复核历史截止变更及后续届次；不以合作期刊宣传确定索引或分区。",
-    "reviewedAt": "2026-09-14"
+    "nextAction": "2026会后主页和SPOF首页已读范围未有下一届完整公告；不按两年推算2028，历史摘要截止冲突及费用独立保留。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "event-cioe-infrared-detection-2026",
@@ -3863,7 +3863,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["optica-imagesense-2026"],
     "decisionReason": "当届官方母会名称、2026 会期和城市/会场已读；按一个历史届次收录，不复制十二专题。",
-    "nextAction": "核实与旧 Imaging 系列的继承/合并关系及下一届；旧系列仍独立保存，不直接设永久别名。",
+    "nextAction": "官网主页及Optica活动首页已读范围仍为2026，下一届与旧Imaging继承关系待官方公告；保留独立系列，不用搜索无结果证明未举办。",
     "reviewedAt": "2026-10-03"
   },
   {
