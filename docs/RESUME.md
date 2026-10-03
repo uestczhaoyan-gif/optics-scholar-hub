@@ -7,8 +7,8 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：85 本期刊、70 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：273 项，159 admitted、110 pending、4 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：85 本期刊、72 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，161 admitted、108 pending、4 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
 - 交叉适配样例已有二十刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 30 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
@@ -30,7 +30,7 @@
 | P1     | 补已收录的未来会议：USQS 2027、CLEO/Europe–EQEC 2027、ICOLS 2027、ICO 2027、WSOF 2027                                                                                  | USQS 注册入口/现发布费率已补，退款年度待核实；欧洲 CLEO 征稿页仍为 2025；会期已知不代表投稿开放                    |
 | P1     | 解决 deferred：NDTA 2026、CIOE 纳米压印论坛、CIOE 微显示论坛、OPJ 2026                                                                                                 | NDTA 酒店已有官方依据，中英文摘要长度仍冲突；两个 CIOE 活动日期/母子层级及 OPJ 终日有冲突，未解决继续暂缓          |
 | P1/P2  | 继续每批审核 5–8 个系列：先进光学制造及其他未审候选；跟进新入选 SPIE/OPIC 的字段缺口；APOS 2026 历史届次已入选                                                         | 从 data/candidates.json 取真实当前状态；区分母会、分会、展览以及不同地区的 CLEO                                    |
-| P2     | 跟踪候选 QCMC、UFO、EWOFS                                                                                                                                              | QCMC 下一届 2027 但具体日城未核实；UFO 只核实 2025 身份；EWOFS 2027 页面仍不完整。不要按周期推算                   |
+| P2     | 跟踪候选 QCMC、UFO、EWOFS                                                                                                                                              | QCMC 2027具体日城未知；UFO2025已收历史届，后续未知；EWOFS2027页面不完整，DH/ImageSense2027仅加拿大7月线索          |
 | P2     | 继续逐刊补作者指南与费用，补材料/电子/物理交叉期刊近两年不同期次至少 3 篇光学论文样例                                                                                  | 已完成的细则见日志；只核实部分字段时不刷新整刊日期。样例需要真实题名、链接、发表日和适配理由                       |
 | P2     | 审核更多中文 EI、生医、制造、器件期刊                                                                                                                                  | Q1/Q2 主合集按明确版本准入；EI 工程补充需确证 EI，不暗中改变收录门槛                                               |
 
@@ -87,7 +87,7 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 
 ## 可复制的新对话提示
 
-请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 85 本期刊、70 届会议、10 项活动是 2026-10-03 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
+请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 85 本期刊、72 届会议、10 项活动是 2026-10-03 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
 
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
@@ -190,3 +190,5 @@ F3新增PRB/PRL/PRResearch/PRX，每刊三篇近两年不同卷期光学样例�
 ## 2026-10-03：公告图片变化巡检 S2
 
 IMID2027官方预告位于图像感谢信，原文字指纹不能发现同URL图片改动；现为目录显式列入的image/*来源保存字节SHA256，报告区分image-bytes/text。仅生成核验信号，不识别或自动发布图中日期；沿用每日来源工作流、同URL去重、15秒/2MB和失败保留基线，没有新增定时任务。新增一项集成测试，覆盖首次/不变/改变、字节差异、共享引用、失败/超限与方法切换。IMID图像真实HTTPS探测首次baseline、随后unchanged；其他非文本仍可达检查。当前85/70/10、273159/110/4及学术事实保持，其他规划继续。
+
+C13新增DH2026和UFO2025两历史届次，正式85刊/72会议/10活动、66稳定系列、273候选161/108/4。UFO完整历史材料/费用及延期日期已读，CET解释待核仅date；DH/ImageSense2027只加拿大7月线索。QCMC/EWOFS/ARVRMR仍pending，[逐字段范围](CONFERENCE_EVIDENCE_2026-10-03.md)。S2 3326d9e79650568405d3dd889e39fc1d73c5b684已验收[Pages37116311255](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37116311255)：build/deploy成功，首页/版本HTTP200，4d810d2bf24c7d9995a72e1ea98ca6b38bd091931d42a77a2ab357700f4d211f与本地一致（2026-10-03T10:25:39.234Z），同SHA完整30项测试/typecheck/lint等CI成功后编辑。 下一批继续制造、生医、红外/遥感候选及现有指南、分区/样例；不重复本批相同页面。

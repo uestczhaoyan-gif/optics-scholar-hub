@@ -709,12 +709,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "届次、所属大会和出版要求",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optica-dh-2026"],
+    "decisionReason": "Optica官方当届主页与Program直接确认DH2026身份、6/1–4、台北及会场，收录历史届次；2027加拿大7月ImageSense只留线索。",
+    "nextAction": "补2026历史稿件/出版规则，跟进2027 ImageSense独立公告、具体日城及征稿，不移用旧安排。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-e0aa59321b",
@@ -755,8 +755,8 @@
     "reviewStatus": "pending",
     "relatedExistingIds": [],
     "decisionReason": "当届首页已预告第九届 EWOFS，2027-09-07 至 09-10、葡萄牙阿威罗；投稿指南和场馆页仍显示 Developer Login，委员会未成功读取，保留候选继续核验。",
-    "nextAction": "等待官网公开委员会、会场和征稿页；重要日期页目前仅写 Available soon，不推测截止或出版形式。",
-    "reviewedAt": "2026-09-15"
+    "nextAction": "2026-10-03根页公开范围只有9/7–10 2027、Aveiro及Developer Login；等待公开委员会、会场和CFP，不尝试登录、不移用旧届出版或日期。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-9ca5e7bc1a",
@@ -873,8 +873,8 @@
     "reviewStatus": "pending",
     "relatedExistingIds": [],
     "decisionReason": "永久官网确认系列始于 1990 年，下一届为 2027；当前未公布具体日期、城市或征稿，保留候选。已修正原误写的 QIP 提示。",
-    "nextAction": "跟踪 https://www.qcmc-conference.org/call-abstracts.html 的当届通知，核实会期、城市、投稿与出版；不与 ICQCMC 或 QCNC 合并。",
-    "reviewedAt": "2026-09-15"
+    "nextAction": "2026-10-03实际读取永久主页、Call for Abstracts及News：下一届仅2027，征稿页尚待发布，具体日城未知；旧2024新闻和周期不推算2027，继续等待当届公告。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-17086a3ce9",
@@ -902,11 +902,11 @@
     "priority": 2,
     "scopeHint": "超短脉冲产生、操控与测量；包含高峰值/平均功率激光、相干合成和超快光学技术。",
     "sourceEntry": "https://ufo2025.fc.up.pt/",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "官方大学域名的 About、委员会及最终日程检索结果确认 UFO XIV 于 2025-10-05 至 10-10 在葡萄牙亚速尔 Furnas 举行；当前未核实后续届次，保留候选。",
-    "nextAction": "跟踪下一届官方公告；如补历史届次，继续核实完整征稿与会场证据。2025 延期通知的 CET 时区写法需核对，不直接按欧洲夏令时转换；不得将 Ultrafast Phenomena 或 USQS 混作本系列。",
-    "reviewedAt": "2026-09-15"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ufo-2025"],
+    "decisionReason": "大学官方About、会场、Submission和Registration正文已可直接读取，确认UFO XIV 2025身份、10/5–10及Furnas会场，收录历史届次。",
+    "nextAction": "跟踪下一届官方公告并补出版条件；2025延期CET时区解释保留缺口，不与UP或USQS合并，不推算后续会期。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-06bcdca55d",
@@ -1128,12 +1128,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "核对独立征稿、与 Photonics West 的关系",
-    "sourceEntry": null,
+    "sourceEntry": "https://spie.org/conferences-and-exhibitions/photonics-west/program/conferences/ar-vr-mr",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "SPIE官方AR/VR/MR目录与PW27A技术会14490已读，确认光学显示/感测专题，但尚未取得独立技术会议具体日程，保持候选。",
+    "nextAction": "核实技术会14490具体会期、层级和投稿规则；当前官方摘要7/22 2026、通知10/12 2026、稿件1/13 2027，仅适用该技术会。PW母会1/30–2/4、Expo2/2–4与MainStage提案9/30不作独立会议日程或技术摘要DDL。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-ca9c7249b4",
@@ -3863,7 +3863,7 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["optica-imagesense-2026"],
     "decisionReason": "当届官方母会名称、2026 会期和城市/会场已读；按一个历史届次收录，不复制十二专题。",
-    "nextAction": "官网主页及Optica活动首页已读范围仍为2026，下一届与旧Imaging继承关系待官方公告；保留独立系列，不用搜索无结果证明未举办。",
+    "nextAction": "DH官方页已说明2027年7月在加拿大加入ImageSense，具体日城、独立母会通知及征稿待核；2026主页范围与旧Imaging继承关系仍未知，保留独立系列，不生成日期。",
     "reviewedAt": "2026-10-03"
   },
   {

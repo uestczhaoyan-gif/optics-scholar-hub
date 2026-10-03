@@ -3614,5 +3614,98 @@
         "source": "https://imid.or.kr/2026/newsletter/thanksletter.html"
       }
     ]
+  },
+  {
+    "id": "optica-dh-2026",
+    "series": "Optica Digital Holography and Three-Dimensional Imaging",
+    "year": 2026,
+    "name": "数字全息与三维成像会议 DH 2026（历史届次）",
+    "nameEn": "Digital Holography and Three-Dimensional Imaging 2026",
+    "region": "中国境内",
+    "location": "中国台湾 · 台北",
+    "venue": "Chang Yung-Fa Foundation International Convention Center",
+    "start": "2026-06-01",
+    "end": "2026-06-04",
+    "topics": ["成像与计算光学", "传感与测量", "电子与器件"],
+    "description": "Optica 数字全息与三维成像专题会议，覆盖相干/非相干全息、三维显示、材料、数值重建及人工智能方法。本条保留2026历史会期，供后续届次准备参考。",
+    "website": "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/",
+    "notice": "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/program/",
+    "registration": null,
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "本轮实际读取Optica当届主页与Program，确认2026身份、会期、台北会场及研究范围；投稿篇幅、模板、入口、费用和作者注册条件尚未核实。",
+      "官方主页说明本会议2027年7月将属于加拿大的Optica ImageSense Congress；具体日期、城市、会场和2027征稿仍未知，不沿用2026安排。"
+    ],
+    "publication": "2026论文集、归档和出版/索引条件尚未逐字段核实；Program链接不独自证明检索。",
+    "notes": "DH2026台北为独立历史届次，不与2026马斯特里赫特ImageSense母会合并。2027目前仅有国家、月份及所属母会线索，不生成具体会期或日历记录。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2026历史投稿截止未核实",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/"
+      },
+      {
+        "type": "registration",
+        "label": "2026历史注册截止未核实",
+        "date": null,
+        "source": "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/"
+      }
+    ]
+  },
+  {
+    "id": "ufo-2025",
+    "series": "Ultrafast Optics",
+    "year": 2025,
+    "name": "第十四届超快光学国际会议 UFO XIV 2025（历史届次）",
+    "nameEn": "14th International Conference on Ultrafast Optics (UFO XIV)",
+    "region": "海外",
+    "location": "葡萄牙 · 亚速尔圣米格尔岛 Furnas",
+    "venue": "Terra Nostra Garden Hotel（Casino会议楼）",
+    "start": "2025-10-05",
+    "end": "2025-10-10",
+    "topics": ["激光与非线性", "传感与测量"],
+    "description": "围绕超短脉冲的产生、操控与测量开展现场交流，包含超快激光技术。保留完整2025历史届次，不与Ultrafast Phenomena或USQS混作同一系列。",
+    "website": "https://ufo2025.fc.up.pt/",
+    "notice": "https://ufo2025.fc.up.pt/submission/",
+    "registration": "https://ufo2025.fc.up.pt/registration/",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "官方Submission要求一页论文，使用所链Word或LaTeX模板生成PDF，通过EasyChair提交并登记全部作者；选择口头、海报或两者，口头名额按评审安排。仅核实官方链接，未登录或提交。",
+      "口头报告幻灯片16:9，海报A0竖版841×1189mm；官网要求会前上传幻灯片，不把此要求当作最终论文截止。",
+      "2025注册页：早鸟截至8/5，普通USD775、学生575；8/6起普通875、学生675。费用含午餐、欢迎会、团体活动及会议晚宴；作者注册/最终登记截止仍未核实。此为历史报价，不移用后续届次。"
+    ],
+    "publication": "本轮未取得正式论文集、归档/索引及报告后出版条件的官方依据，保持未知。",
+    "notes": "About与最终日程公告均为2025-10-05至10-10；Venue确认Furnas会场。Submission划去3/31并改为4/16 23:59:59 CET，延期公告一致；CET与当地夏令时的适用解释未核实，因此仅保存日期，不生成精确UTC时刻。通知仅写June 2025 (tentative)，保持null。2025主页实际读取范围未见已核实后续届次，不按周期推算。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "一页论文延期截止（历史；原文23:59:59 CET解释待核）",
+        "date": "2025-04-16",
+        "source": "https://ufo2025.fc.up.pt/submission/"
+      },
+      {
+        "type": "notification",
+        "label": "结果通知（仅暂定2025年6月，无具体日）",
+        "date": null,
+        "source": "https://ufo2025.fc.up.pt/submission/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟价阶段结束（历史）",
+        "date": "2025-08-05",
+        "source": "https://ufo2025.fc.up.pt/registration/"
+      },
+      {
+        "type": "registration",
+        "label": "最终/作者注册截止未核实",
+        "date": null,
+        "source": "https://ufo2025.fc.up.pt/registration/"
+      }
+    ]
   }
 ]

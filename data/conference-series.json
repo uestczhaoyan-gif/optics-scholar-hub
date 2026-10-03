@@ -641,7 +641,8 @@
     "website": "https://www.optica.org/events/congress/optica_imagesense_congress/",
     "sources": [
       "https://www.optica.org/events/congress/optica_imagesense_congress/",
-      "https://www.optica.org/events/"
+      "https://www.optica.org/events/",
+      "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/"
     ],
     "nextEditionCheckedAt": "2026-10-03"
   },
@@ -756,5 +757,35 @@
       "https://icaleo.org/presenter-information"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-ac3306383732",
+    "name": "Optica Digital Holography and Three-Dimensional Imaging",
+    "aliases": ["DH"],
+    "editionIds": ["optica-dh-2026"],
+    "website": "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/",
+    "sources": [
+      "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/",
+      "https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/program/"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
+  },
+  {
+    "id": "series-0fd0d2cd4feb",
+    "name": "Ultrafast Optics",
+    "aliases": ["UFO"],
+    "editionIds": ["ufo-2025"],
+    "website": "https://ufo2025.fc.up.pt/",
+    "sources": [
+      "https://ufo2025.fc.up.pt/",
+      "https://ufo2025.fc.up.pt/about/",
+      "https://ufo2025.fc.up.pt/committee/",
+      "https://ufo2025.fc.up.pt/venue/",
+      "https://ufo2025.fc.up.pt/submission/",
+      "https://ufo2025.fc.up.pt/registration/",
+      "https://ufo2025.fc.up.pt/news/post-03/",
+      "https://ufo2025.fc.up.pt/news/post-04/"
+    ],
+    "nextEditionCheckedAt": "2026-10-03"
   }
 ]

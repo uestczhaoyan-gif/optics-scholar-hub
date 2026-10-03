@@ -911,3 +911,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/S2_RESEARCH_2026-10-03.md保存范围和C12验收。一项新集成测试初轮误将首次成功时间当失败前基线，修正为最近成功快照后两项来源测试通过；真实IMID图像HTTPS探测baseline/unchanged成功，孤立于正式缓存，结果work/S2-live-probe/source-report。完整功能检查随后完成，再推送验收同SHA。
 
 - 最终数据/范围校验、30项测试、typecheck、修正const后的lint全部通过；125个本地Markdown链接、维护295项/唯一CIOP后续任务、12主题覆盖通过。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；目录学术事实保持，仅IMID图像来源追加。实际五小时79%/周28%允许，继续其余有价值规划，无重置券。
+
+## 2026-10-03：历史届次与未完整候选 C13
+
+- S2 3326d9e79650568405d3dd889e39fc1d73c5b684已验收[Pages37116311255](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37116311255)：build/deploy成功，首页/版本HTTP200，4d810d2bf24c7d9995a72e1ea98ca6b38bd091931d42a77a2ab357700f4d211f与本地一致（2026-10-03T10:25:39.234Z），同SHA完整30项测试/typecheck/lint等CI成功后编辑。
+- 五候选逐项读官方正文，新增DH2026/UFO2025历史届次；QCMC/EWOFS/ARVRMR保持pending。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-03.md)。DH/ImageSense2027加拿大7月只留线索，UFO CET时刻解释未知仅date；历史费用不迁入未来，母会/展览不作子会具体日。
+- 长操作前work/C13_RESEARCH_2026-10-03.md保存S2验收和修改边界。旧70届/85刊及其余目录保持，两个新稳定系列、六候选白名单及ImageSense来源追加断言通过；实际额度五小时85%/周29%允许，未用重置券。必要验证/差异审查后提交推送验收同SHA；其他规划继续。
+
+- 发布前数据校验、旧70届/其余目录与候选字段白名单/66稳定系列归属和当前计数断言通过；166个本地Markdown链接、维护295项（唯一CIOP后续任务）及12主题/273候选覆盖通过。85/72/10、JCR68/CAS11、SCIE72/ESCI11/EI78及二十刊样例保持。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；完整功能检查由同SHA CI验收。
