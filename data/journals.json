@@ -5346,5 +5346,342 @@
         "relevance": "2026-10-03 核验官方摘要和出版信息：26(2), 024008。纳米光子波导发射体阵列的集体亚辐射传感理论，适配波导 QED 与量子测量；尺度律有模型前提，不代表普遍突破量子极限或已建成传感器。"
       }
     ]
+  },
+  {
+    "id": "physical-review-b",
+    "name": "Physical Review B",
+    "abbr": "PRB",
+    "publisher": "American Physical Society",
+    "issn": "2469-9950",
+    "eissn": "2469-9969",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["光学材料", "纳米与超表面", "量子光学", "激光与非线性"],
+    "description": "凝聚态与材料物理，官方范围包含光子学、超材料及半导体；适配光与材料耦合、极化激元和光谱。按 JCR 2025 三个明确学科 Q2 及持续光学样例收录，不默认所有凝聚态课题适用。",
+    "website": "https://journals.aps.org/prb/",
+    "guide": "https://journals.aps.org/prb/authors",
+    "requirements": [
+      "2026-10-03 本刊指南：Regular Article 无统一上限，Letter 最多 4,500 词并说明短稿优先处理理由，Comment/Reply 最多 3,500 词；Perspective 分为前瞻、纪念与社区议题三类，不套用 PRA 的仅邀稿声明。",
+      "通过 APS Submission Server（https://authors.aps.org/）提交，评审 PDF 即可，推荐 REVTeX LaTeX 或 Word 源文件；准备数据可用性声明并披露实质 AI 使用。正式摘要硬限未核实，模板链接可用不代表全部源码或登录上传步骤已核验。",
+      "PRB 的 Additional Materials 当前未要求上述指南以外材料；不得移用 PRL 的 100 词说明或 PRX 的通俗摘要要求。相关联合稿需分别说明投稿关系，较长稿须有实质新增并引用相关工作。"
+    ],
+    "publishing": "订阅与可选 Gold OA 分开，CC BY 4.0；2026-10-03 APS 官方 2026 表列可选 APC USD 2,910，按提交到实际发表刊的时点定价。机构协议、低收入地区减免和免 APC 稿型按资格处理；税及其他费用未知。来源：https://journals.aps.org/authors/apcs 本刊作者指南另列可选印刷彩色首图 USD 1,090、追加每图 595，在线彩色免费；该费表无版年，记录核验日不称2026定价。来源：https://journals.aps.org/prb/authors#color-figures-charges",
+    "schedule": "常规投稿与专题分开；短稿优先处理不保证审稿时间。",
+    "checkedAt": "2026-10-03",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, CONDENSED MATTER",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=607",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2469-9950&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-03 正常浏览器 MJL 刊号 2469-9950 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Science Citation Index Expanded。未登录 profile 或做单篇检索，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4383 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。印刷/电子刊号分别匹配。未做订阅平台单篇检索，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Optical coherence storage in dark exciton states using spin-dependent three-pulse photon echo",
+        "source": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.045423",
+        "publishedAt": "2025-01-16",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：111(4), 045423。InGaAs/GaAs 量子阱中三脉冲光子回波与暗激子相干存储实验，适配半导体光谱与光学量子信息；不称已部署量子存储网络。"
+      },
+      {
+        "title": "Tunable exciton polaritons in biased bilayer graphene",
+        "source": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.075411",
+        "publishedAt": "2025-02-10",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：111(7), 075411。双层石墨烯微腔中电调激子极化激元的半经典/量子模型，适配强光物质耦合；强耦合为给定寿命下的预测，不当已完成实验。"
+      },
+      {
+        "title": "Excitonic bound states in the continuum in van der Waals heterostructure metasurfaces",
+        "source": "https://journals.aps.org/prb/abstract/10.1103/n2wb-qdhr",
+        "publishedAt": "2025-08-12",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：112(8), L081405。二维激子层与光学共振 vdW 超表面的干涉、准 BIC 和数值模拟，适配纳米光子与量子发光；辐射抑制为理论/模拟结论。"
+      }
+    ]
+  },
+  {
+    "id": "physical-review-letters",
+    "name": "Physical Review Letters",
+    "abbr": "PRL",
+    "publisher": "American Physical Society",
+    "issn": "0031-9007",
+    "eissn": "1079-7114",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["量子光学", "激光与非线性", "纳米与超表面", "传感与测量"],
+    "description": "跨基础与应用物理的简短重要研究，明确涵盖 AMO；光学样例包括非线性光子晶体、量子发光及两光子传感。JCR 2025 综合物理 Q1；稿件须达到广泛意义和重要性要求，非一般光学稿默认适用。",
+    "website": "https://journals.aps.org/prl/",
+    "guide": "https://journals.aps.org/prl/authors",
+    "requirements": [
+      "2026-10-03 本刊指南：Letter 核心最多 3,750 词，另可最多两页 End Matter，不计核心；Comment/Reply 最多 750 词。Essay 为编辑委托、最多 3,750 词；不套用其他 APS 刊的 3,500 词评论上限。",
+      "初投提供 100 词说明，解释主要结果、目标读者及为何符合 PRL 准入。写作需让广泛物理读者理解影响、创新与兴趣；超长豁免须编辑明确批准，不视作自动放宽。",
+      "通过 APS Submission Server（https://authors.aps.org/）提交，评审 PDF 即可，推荐 REVTeX LaTeX 或 Word 源文件；准备数据可用性声明并披露实质 AI 使用。正式摘要硬限未核实，模板链接可用不代表全部源码或登录上传步骤已核验。",
+      "正文须可独立理解，补充材料引用文献需在主稿列出；联合长短稿须有实质新增和完整关联说明，不能以可联合投稿为理由重复发表。"
+    ],
+    "publishing": "订阅与可选 Gold OA 分开，CC BY 4.0；2026-10-03 APS 官方 2026 表列可选 APC USD 4,140，按提交到实际发表刊的时点定价。机构协议、低收入地区减免和免 APC 稿型按资格处理；税及其他费用未知。来源：https://journals.aps.org/authors/apcs SCOAP3 的高能物理资格不自动适用于普通光学稿；印刷彩色及其他费用本轮未核实。",
+    "schedule": "常规 Letters 投稿；编辑初筛和审稿均不承诺固定周期。",
+    "checkedAt": "2026-10-03",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0031-9007&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-03 正常浏览器 MJL 刊号 0031-9007 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Science Citation Index Expanded。未登录 profile 或做单篇检索，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4386 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。印刷/电子刊号分别匹配。未做订阅平台单篇检索，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Pseudospin Transverse Localization of Light in an Optical Disordered Spin-Glass Phase",
+        "source": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.123803",
+        "publishedAt": "2025-03-26",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：134(12), 123803。二阶非线性光子晶体中的无序伪自旋局域理论和光学类比实验，适配非线性光学；不当作磁性材料自旋玻璃实验。"
+      },
+      {
+        "title": "Robust Purcell Effect of Quantum Dots Using Nonlocal Plasmonic Metasurfaces",
+        "source": "https://journals.aps.org/prl/abstract/10.1103/gt4z-gwdw",
+        "publishedAt": "2025-06-20",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：134(24), 243804。光子晶体中金纳米结构非局域模与量子点耦合、稳健 Purcell 增强，适配量子发光和等离激元器件；不能扩大成全部无序均无影响。"
+      },
+      {
+        "title": "Optical Sensing near the Quantum Limit with Enhanced Dynamic Range by Resolving the Spectra of Interfering Photons",
+        "source": "https://journals.aps.org/prl/abstract/10.1103/6xy6-c2yd",
+        "publishedAt": "2026-02-09",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：136(6), 060803。独立光子对、频率分辨检测与估计的光学测量实验；量子极限结论限于无损条件，生医/纳米成像为潜在应用。"
+      }
+    ]
+  },
+  {
+    "id": "physical-review-research",
+    "name": "Physical Review Research",
+    "abbr": "PRResearch",
+    "publisher": "American Physical Society",
+    "issn": null,
+    "eissn": "2643-1564",
+    "domains": ["光学", "物理", "信息与计算"],
+    "topics": ["量子光学", "光通信", "传感与测量"],
+    "description": "完全开放获取的综合物理研究刊，光学适配由量子干涉、低光子通信和光晶格钟样例支持。按 JCR 2025 综合物理 Q1 收录；当前 MJL 为 ESCI，分区 Q1 不代表 SCIE，非光学内容须独立判断。",
+    "website": "https://journals.aps.org/prresearch/",
+    "guide": "https://journals.aps.org/prresearch/authors",
+    "requirements": [
+      "2026-10-03 本刊指南：Regular Article 无统一上限，Letter 最多 4,500 词，Comment/Reply 最多 3,500 词；Perspective 邀稿但可一页提案，无统一上限，须包含开放挑战/未来方向，不接收只综述、白皮书或意见稿。",
+      "通过 APS Submission Server（https://authors.aps.org/）提交，评审 PDF 即可，推荐 REVTeX LaTeX 或 Word 源文件；准备数据可用性声明并披露实质 AI 使用。正式摘要硬限未核实，模板链接可用不代表全部源码或登录上传步骤已核验。",
+      "论文及适用补充材料按独立可读性处理；相关联合稿需说明关系和实质新增，返修遵循本刊干净稿、回复和标改材料要求。"
+    ],
+    "publishing": "完全 Gold OA，CC BY 4.0；2026-10-03 APS 官方 2026 表列本刊 APC USD 2,910，按提交到实际发表刊的时点定价。机构协议、低收入地区减免和免 APC 稿型按资格处理；税及其他费用未知。来源：https://journals.aps.org/authors/apcs",
+    "schedule": "常规投稿与专题分开；完全 OA 不意味着保证录用或出版时长。",
+    "checkedAt": "2026-10-03",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": "https://mjl.clarivate.com/search-results?issn=2643-1564&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前 MJL 公开卡只明确 ESCI，未得 SCIE 依据，SCIE 保留待核验；Q1 分区与 EI 不能替代 SCIE。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2643-1564&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-03 正常浏览器 MJL 刊号 2643-1564 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Emerging Sources Citation Index。未登录 profile 或做单篇检索，覆盖起止未知。ESCI 不转换为 SCIE，JCR 分区亦不能证明 SCIE。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4388 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。号码 26431564 位于源表印刷列、电子列“-”；出版社仅在线身份为准，明确载体列差异，不声称两列均匹配。未做订阅平台单篇检索，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Impact of temporal correlations, coherence, and postselection on two-photon interference",
+        "source": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013190",
+        "publishedAt": "2025-02-21",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：7(1), 013190。分析级联光子对的时间关联、退相干及后选择对干涉可见度的共同作用，适配量子光源；不据摘要概括为无条件提高干涉。"
+      },
+      {
+        "title": "Communicating at a record 14.5 bits per received photon through a photon-starved channel",
+        "source": "https://journals.aps.org/prresearch/abstract/10.1103/mmth-7tww",
+        "publishedAt": "2025-08-01",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：7(3), 033108。1550 nm 光子稀缺接收实验，适配低功率/空间光通信；摘要区分每入射光子与每检测光子效率，实验室衰减链路不称已建成星际通信。"
+      },
+      {
+        "title": "Observation and measurement of the 1S0–3P0 transition in an optical lattice clock using the 198Hg bosonic isotope",
+        "source": "https://journals.aps.org/prresearch/abstract/10.1103/q28c-kb61",
+        "publishedAt": "2026-09-28",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：8(3), 033366。198Hg 光晶格钟中磁场诱导跃迁的实验表征与 87Sr 比较，适配光谱及精密计量；正式题名的上下标用纯文本等价表达。"
+      }
+    ]
+  },
+  {
+    "id": "physical-review-x",
+    "name": "Physical Review X",
+    "abbr": "PRX",
+    "publisher": "American Physical Society",
+    "issn": null,
+    "eissn": "2160-3308",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["量子光学", "纳米与超表面", "集成光子"],
+    "description": "完全开放获取的综合物理高选择性研究刊，光学样例覆盖合成频率拓扑、光子晶体散射和自由空间非高斯态。按 JCR 2025 综合物理 Q1 收录；须符合显著发现/跨领域进展等编辑标准，不泛收所有量子或材料课题。",
+    "website": "https://journals.aps.org/prx/",
+    "guide": "https://journals.aps.org/prx/authors",
+    "requirements": [
+      "2026-10-03 本刊指南：Research Article 无统一上限，Perspective 邀稿、最多 7,500 词，Comment/Reply 最多 3,500 词；不把其他 APS 刊的 Letter 稿型和上限移用到 PRX。",
+      "通过 APS Submission Server（https://authors.aps.org/）提交，评审 PDF 即可，推荐 REVTeX LaTeX 或 Word 源文件；准备数据可用性声明并披露实质 AI 使用。正式摘要硬限未核实，模板链接可用不代表全部源码或登录上传步骤已核验。",
+      "发表前必须提供最多 150 词的 Popular Summary，面向非本领域读者，避免公式/术语；它与用于内部推广的 Author Summary 不同。返修/联合稿需按本刊材料与关联说明处理。"
+    ],
+    "publishing": "完全 Gold OA，CC BY 4.0；2026-10-03 APS 官方 2026 表列本刊 APC USD 4,685，按提交到实际发表刊的时点定价。机构协议、低收入地区减免和免 APC 稿型按资格处理；税及其他费用未知。来源：https://journals.aps.org/authors/apcs",
+    "schedule": "常规研究稿与邀稿分开；高选择性标准不提供录用或时长保证。",
+    "checkedAt": "2026-10-03",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2160-3308&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-03 正常浏览器 MJL 刊号 2160-3308 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Science Citation Index Expanded。未登录 profile 或做单篇检索，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-03",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4389 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。只匹配电子刊号，印刷列“-”；不从 JCR 转录的重复号码生成印刷身份。未做订阅平台单篇检索，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Quantized Hall Drift in a Frequency-Encoded Photonic Chern Insulator",
+        "source": "https://journals.aps.org/prx/abstract/10.1103/2dyh-yhrb",
+        "publishedAt": "2026-02-05",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：16(1), 011020。光纤环中频率合成维度实现光子 Chern 平台并测量驱动耗散 Hall 类比，适配拓扑光子；不是电子带电输运实验。"
+      },
+      {
+        "title": "Stealthy-Hyperuniform Wave Dynamics in Two-Dimensional Photonic Crystals",
+        "source": "https://journals.aps.org/prx/abstract/10.1103/8bz9-5g8s",
+        "publishedAt": "2026-05-07",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：16(2), 021028。实验以光子带线宽分析超均匀光子晶体薄板散射，指出辐射损耗导致残余散射；不把超均匀性写成完全透明或零损耗。"
+      },
+      {
+        "title": "Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses",
+        "source": "https://journals.aps.org/prx/abstract/10.1103/q2h3-58pz",
+        "publishedAt": "2026-08-21",
+        "relevance": "2026-10-03 核验官方公开摘要与出版信息：16(3), 031047。自由空间光脉冲中压缩猫态的实验制备及零差预示，适配量子光源/连续变量光子计算；未来容错架构是应用方向，不称已建成计算机。"
+      }
+    ]
   }
 ]

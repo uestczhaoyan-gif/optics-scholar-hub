@@ -74,3 +74,47 @@ JCR来源为[UEFISCDI机构公开转录](https://uefiscdi.gov.ro/resource-865584
 四剩余综合物理刊稳定候选只更新已核范围和nextAction，保持pending。忽略目录work/F2_RESEARCH_2026-10-03.md、MJL结果卡文本、F2-JCR-matches.json与渲染页保存研究检查点；正式文档包含可迁移的来源、版本/行页号和核验边界，不依赖临时文件才可续作。
 
 PRA作者指南收费段另读：在线彩色免费，可选印刷彩色首图USD1090、追加每图595；该表未注明版年，以2026-10-03核验日保存。与可选OA费用独立，税/其他费用仍未知。Applied印刷或其他费用本轮未核实。
+
+## 下午 F3：四刊光学适配与正式准入
+
+核验：2026-10-03。F2中的四pending为当批历史快照，本批四刊完成至少三篇不同卷期正式光学样例审核后准入；当前85刊/69会议/10活动、273候选159/110/4。JCR仍为同一2025版secondary，索引为同日F2的数据库方公开卡/源表，不重查同版当新证据。CAS未知保留。
+
+### 分区与索引范围
+
+PRB正式保存三项Q2：[材料综合第454页](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454)、[应用物理第604页](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604)、[凝聚态第607页](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=607)，454/607新增目视JIF列，604 F2已核。PRL/PRResearch/PRX正式保存[综合物理Q1第612页](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612)。MJL/Compendex逐刊来源、行号/版本同F2表；Research源表载体列冲突保留，SCIE显式unverified，ESCI/EI confirmed。PRX电子刊号不当印刷身份。
+
+### 官方范围与本刊规则
+
+| 期刊与官方依据                                                                                                          | 本次实际核验范围                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PRB：[About](https://journals.aps.org/prb/about) / [Authors](https://journals.aps.org/prb/authors)                      | 2026-10-03 本刊指南：Regular Article 无统一上限，Letter 最多 4,500 词并说明短稿优先处理理由，Comment/Reply 最多 3,500 词；Perspective 分为前瞻、纪念与社区议题三类，不套用 PRA 的仅邀稿声明。         |
+| PRL：[About](https://journals.aps.org/prl/about) / [Authors](https://journals.aps.org/prl/authors)                      | 2026-10-03 本刊指南：Letter 核心最多 3,750 词，另可最多两页 End Matter，不计核心；Comment/Reply 最多 750 词。Essay 为编辑委托、最多 3,750 词；不套用其他 APS 刊的 3,500 词评论上限。                  |
+| PRResearch：[About](https://journals.aps.org/prresearch/about) / [Authors](https://journals.aps.org/prresearch/authors) | 2026-10-03 本刊指南：Regular Article 无统一上限，Letter 最多 4,500 词，Comment/Reply 最多 3,500 词；Perspective 邀稿但可一页提案，无统一上限，须包含开放挑战/未来方向，不接收只综述、白皮书或意见稿。 |
+| PRX：[About](https://journals.aps.org/prx/about) / [Authors](https://journals.aps.org/prx/authors)                      | 2026-10-03 本刊指南：Research Article 无统一上限，Perspective 邀稿、最多 7,500 词，Comment/Reply 最多 3,500 词；不把其他 APS 刊的 Letter 稿型和上限移用到 PRX。                                       |
+
+四刊各自读到PDF评审、LaTeX/Word源文件、DAS/实质AI披露和相关稿/返修边界。PRL100词初投准入说明与PRX发表前最多150词Popular Summary分别保存；后者不等于内部推广Author Summary。模板源码、普通摘要字数和登录后上传步骤未完全核实，不把指南链接当全部要求已复现。PRB Additional Materials不另列要求，不复制其他刊附件。
+
+[APS2026费用表](https://journals.aps.org/authors/apcs)沿用F2当日核验：PRB/PRL可选Gold与Research/PRX全面OA分别处理。PRB作者指南另核可选印刷彩色1090首图/595追加、在线免费，该费表无版年；其他三刊印刷或其他收费未核实，税/减免须按资格。SCOAP3高能物理资格不自动适用于普通光学稿。
+
+### 十二篇光学样例
+
+样本窗口2024-10-03至核验日；各刊不同卷期，不要求各刊覆盖所有季度。实际Published日与卷期标示分开，不以Accepted日替代。
+
+| 期刊与正式题名/来源                                                                                                                                                                             | 发表日     | 适配及卷期                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| PRB：[Optical coherence storage in dark exciton states using spin-dependent three-pulse photon echo](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.045423)                         | 2025-01-16 | 111(4), 045423。InGaAs/GaAs 量子阱中三脉冲光子回波与暗激子相干存储实验，适配半导体光谱与光学量子信息；不称已部署量子存储网络。         |
+| PRB：[Tunable exciton polaritons in biased bilayer graphene](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.075411)                                                                 | 2025-02-10 | 111(7), 075411。双层石墨烯微腔中电调激子极化激元的半经典/量子模型，适配强光物质耦合；强耦合为给定寿命下的预测，不当已完成实验。        |
+| PRB：[Excitonic bound states in the continuum in van der Waals heterostructure metasurfaces](https://journals.aps.org/prb/abstract/10.1103/n2wb-qdhr)                                           | 2025-08-12 | 112(8), L081405。二维激子层与光学共振 vdW 超表面的干涉、准 BIC 和数值模拟，适配纳米光子与量子发光；辐射抑制为理论/模拟结论。           |
+| PRL：[Pseudospin Transverse Localization of Light in an Optical Disordered Spin-Glass Phase](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.123803)                              | 2025-03-26 | 134(12), 123803。二阶非线性光子晶体中的无序伪自旋局域理论和光学类比实验，适配非线性光学；不当作磁性材料自旋玻璃实验。                  |
+| PRL：[Robust Purcell Effect of Quantum Dots Using Nonlocal Plasmonic Metasurfaces](https://journals.aps.org/prl/abstract/10.1103/gt4z-gwdw)                                                     | 2025-06-20 | 134(24), 243804。光子晶体中金纳米结构非局域模与量子点耦合、稳健 Purcell 增强，适配量子发光和等离激元器件；不能扩大成全部无序均无影响。 |
+| PRL：[Optical Sensing near the Quantum Limit with Enhanced Dynamic Range by Resolving the Spectra of Interfering Photons](https://journals.aps.org/prl/abstract/10.1103/6xy6-c2yd)              | 2026-02-09 | 136(6), 060803。独立光子对、频率分辨检测与估计的光学测量实验；量子极限结论限于无损条件，生医/纳米成像为潜在应用。                      |
+| PRResearch：[Impact of temporal correlations, coherence, and postselection on two-photon interference](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013190)           | 2025-02-21 | 7(1), 013190。分析级联光子对的时间关联、退相干及后选择对干涉可见度的共同作用，适配量子光源；不据摘要概括为无条件提高干涉。             |
+| PRResearch：[Communicating at a record 14.5 bits per received photon through a photon-starved channel](https://journals.aps.org/prresearch/abstract/10.1103/mmth-7tww)                          | 2025-08-01 | 7(3), 033108。1550 nm 光子稀缺接收实验，适配低功率/空间光通信；摘要区分每入射光子与每检测光子效率，实验室衰减链路不称已建成星际通信。  |
+| PRResearch：[Observation and measurement of the 1S0–3P0 transition in an optical lattice clock using the 198Hg bosonic isotope](https://journals.aps.org/prresearch/abstract/10.1103/q28c-kb61) | 2026-09-28 | 8(3), 033366。198Hg 光晶格钟中磁场诱导跃迁的实验表征与 87Sr 比较，适配光谱及精密计量；正式题名的上下标用纯文本等价表达。               |
+| PRX：[Quantized Hall Drift in a Frequency-Encoded Photonic Chern Insulator](https://journals.aps.org/prx/abstract/10.1103/2dyh-yhrb)                                                            | 2026-02-05 | 16(1), 011020。光纤环中频率合成维度实现光子 Chern 平台并测量驱动耗散 Hall 类比，适配拓扑光子；不是电子带电输运实验。                   |
+| PRX：[Stealthy-Hyperuniform Wave Dynamics in Two-Dimensional Photonic Crystals](https://journals.aps.org/prx/abstract/10.1103/8bz9-5g8s)                                                        | 2026-05-07 | 16(2), 021028。实验以光子带线宽分析超均匀光子晶体薄板散射，指出辐射损耗导致残余散射；不把超均匀性写成完全透明或零损耗。                |
+| PRX：[Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses](https://journals.aps.org/prx/abstract/10.1103/q2h3-58pz)                                                  | 2026-08-21 | 16(3), 031047。自由空间光脉冲中压缩猫态的实验制备及零差预示，适配量子光源/连续变量光子计算；未来容错架构是应用方向，不称已建成计算机。 |
+
+两篇PRB（075411、n2wb-qdhr）的出版社摘要搜索缓存完整可读、直接打开工具内部错误；Research光钟在[官方主题/最近列表](https://journals.aps.org/prresearch/subjects)中摘要可读，独立页面直开亦工具错误。未声称读取付费全文或绕过安全验证。正常浏览器APS主题页遇安全验证，未操作挑战；其余样例公开页面可读。额外以[Crossref出版方登记接口](https://api.crossref.org/journals/2643-1564/works)发现通信论文，逐DOI核对以上受限样例及缺显示卷期，不以该API推论研究结论。
+
+补充元数据：[PRB075411](https://api.crossref.org/works/10.1103/PhysRevB.111.075411)、[PRB激子BIC](https://api.crossref.org/works/10.1103/n2wb-qdhr)、[PRResearch光钟](https://api.crossref.org/works/10.1103/q28c-kb61)、[PRX Hall](https://api.crossref.org/works/10.1103/2dyh-yhrb)、[PRResearch干涉](https://api.crossref.org/works/10.1103/PhysRevResearch.7.013190)标题/ISSN/发表日/卷期匹配。光钟题名的MathML上下标以1S0–3P0、198Hg纯文本等价表示，不删除物理信息。临时原数据work/F3-crossref-metadata.json和F3_RESEARCH_2026-10-03.md保留；以上链接/范围使正式记录可迁移续作。
