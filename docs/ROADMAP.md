@@ -19,12 +19,12 @@
 
 ## 数据缺口快照
 
-统计自 2026-10-02 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或所有单篇实际数据库覆盖已确认。
+统计自 2026-10-03 当前 `data/journals.json`；统计的是已有记录，不代表全年度、全学科或所有单篇实际数据库覆盖已确认。
 
 | 项目                  | 已有记录的期刊数 | 尚需处理                                                                                                                            |
 | --------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| JCR 分区              | 61 / 74          | 其余 13 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
-| 中科院分区            | 10 / 74          | 其余 64 本；同时核对版本、大类、小类，未知不补造                                                                                    |
+| JCR 分区              | 62 / 74          | 其余 12 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
+| 中科院分区            | 11 / 74          | 其余 63 本；同时核对版本、大类、小类，未知不补造                                                                                    |
 | SCIE 肯定记录         | 62 / 74          | 其余 12 本没有肯定记录；不等于未被收录                                                                                              |
 | EI Compendex 肯定记录 | 67 / 74          | 其余 7 本没有肯定记录；不等于未被收录                                                                                               |
 | ESCI 肯定记录         | 10 / 74          | 独立保存，不换算为 SCIE                                                                                                             |
@@ -64,7 +64,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 74 journals, 55 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 61 journals and CAS records for 10. SCIE has 62 and EI has 67 positive records. 67 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Sixty-two SCIE records have current Clarivate MJL search-result evidence; ten ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 62 journals and CAS records for 11. SCIE has 62 and EI has 67 positive records. 67 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Sixty-two SCIE records have current Clarivate MJL search-result evidence; ten ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. Completed batches are recorded below; remaining tasks stay explicitly open.
 
@@ -429,3 +429,7 @@ C5 审核六个既有系列及新确认的 ImageSense 母会，新增两届未�
 ### 2026-10-03：中文刊作者细则 E15
 
 E15 审核六刊作者细则，更新 OPE/CPL/中国激光/光学学报/进展五刊相应投稿字段；IRLA 访问失败保留原缺口。三刊现主稿及各自长摘要、收费文件逐件核验，建议/硬限、稿型与文件版本分开，CPL 页限及 OPE 审稿/入口冲突保留。[来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。数量、索引/分区、样例及其他字段不变，其他规划继续。
+
+### 2026-10-03：主办方分区证据 A14
+
+A14 为 Photonic Sensors 补主办方编辑部明确声明的两项 JCR Q1 排名与三项 CAS 一区；发布年2026和指标年2025分开，CAS 2025具体版本仍待核实。当前 JCR 62/CAS 11；六本中文刊未得完整版本/学科证据，不造分区。[逐字段范围](RANKING_EVIDENCE_2026-10-03.md)。E15 8f8cece 已验收 Pages 37088078536 与线上 926500b4…；其余规划继续。

@@ -1832,7 +1832,64 @@
     "publishing": "2026 年起由清华大学出版社出版。现官网说明开放获取，APC 由电子科技大学承担；投稿前再核实最新政策。",
     "schedule": "常规投稿按官网系统受理，编辑处理与同行评审无保证时限；不沿用旧出版社的审稿速度统计。",
     "checkedAt": "2026-09-11",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026（2025 指标；主办方公告）",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "仪器与仪表",
+        "quartile": 1,
+        "source": "https://news.uestc.edu.cn/info/1003/41154.htm",
+        "evidence": "official",
+        "rank": 18,
+        "total": 81,
+        "level": "category"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2026（2025 指标；主办方公告）",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "光学",
+        "quartile": 1,
+        "source": "https://news.uestc.edu.cn/info/1003/41154.htm",
+        "evidence": "official",
+        "rank": 30,
+        "total": 129,
+        "level": "category"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年版（具体版本待核实；主办方公告）",
+        "year": 2025,
+        "category": "物理",
+        "level": "major",
+        "quartile": 1,
+        "source": "https://news.uestc.edu.cn/info/1003/41154.htm",
+        "evidence": "official"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年版（具体版本待核实；主办方公告）",
+        "year": 2025,
+        "category": "仪器与仪表",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://news.uestc.edu.cn/info/1003/41154.htm",
+        "evidence": "official"
+      },
+      {
+        "system": "CAS",
+        "edition": "2025 年版（具体版本待核实；主办方公告）",
+        "year": 2025,
+        "category": "光学",
+        "level": "minor",
+        "quartile": 1,
+        "source": "https://news.uestc.edu.cn/info/1003/41154.htm",
+        "evidence": "official"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",

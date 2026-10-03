@@ -9,7 +9,7 @@
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
 - 正式目录：74 本期刊、55 届会议、9 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：272 项，138 admitted、131 pending、3 deferred。与正式条目通过 relatedExistingIds 关联。
-- JCR 有记录 61/74、中科院 10/74；SCIE 肯定记录 62、ESCI 10、EI 67。67 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 62 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，本轮现有肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
+- JCR 有记录 62/74、中科院 11/74；SCIE 肯定记录 62、ESCI 10、EI 67。67 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 62 本 SCIE 与 10 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，本轮现有肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)。
 - 交叉适配样例已有十四刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 26 项测试；不重建这些功能。
 
@@ -130,3 +130,5 @@ E14 为 AFM 补研究稿建议/摘要、返修制作、TOC、数据声明及领�
 C5 审核六个既有系列及新确认的 ImageSense 母会，新增两届未来预告（IODC 2027、OIC 2028）及四届历史会议（Advanced Photonics 2026、Imaging 2025、ISLC 2026、ImageSense 2026）。正式 74 刊/55 会议/9 活动；候选 272（138 admitted / 131 pending / 3 deferred）。NP 隶属已收母会仍 pending，旧 Imaging 与 ImageSense 的继承关系未证实，不强行合并。[字段来源与层级](CONFERENCE_EVIDENCE_2026-10-03.md)。E14 a21e0a0 已确认 Pages 37076180292 与线上 7769c8aa…；本批必要验证已通过，提交与部署结果见最新日志；其他规划继续。
 
 E15 审核六刊作者细则，更新 OPE/CPL/中国激光/光学学报/进展五刊相应投稿字段；IRLA 访问失败保留原缺口。三刊现主稿及各自长摘要、收费文件逐件核验，建议/硬限、稿型与文件版本分开，CPL 页限及 OPE 审稿/入口冲突保留。[来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md)。数量、索引/分区、样例及其他字段不变，其他规划继续。
+
+A14 为 Photonic Sensors 补主办方编辑部明确声明的两项 JCR Q1 排名与三项 CAS 一区；发布年2026和指标年2025分开，CAS 2025具体版本仍待核实。当前 JCR 62/CAS 11；六本中文刊未得完整版本/学科证据，不造分区。[逐字段范围](RANKING_EVIDENCE_2026-10-03.md)。E15 8f8cece 已验收 Pages 37088078536 与线上 926500b4…；其余规划继续。

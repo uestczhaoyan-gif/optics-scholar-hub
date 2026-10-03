@@ -777,3 +777,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三刊当前菜单逐页读取，收费单页及中国激光长摘要第 1 页视觉核对，DOCX 只读取有关段落；未执行模板内容、登录或付款。必要验证与差异审查已通过；提交与部署结果见后续记录。
 
 - 发布前精确断言通过：OPE 及三刊 guide/requirements/publishing、CPL requirements 改变，其余 69 刊和所有其他目录数据/字段保持。74 刊/55 会议/9 活动、272 候选（138/131/3）、JCR 61/CAS 10、十四刊至少三篇样例保持。数据校验、26 项测试、typecheck、lint、Pages 子路径构建和六个入口资源检查通过；当日报告维护 240 项、覆盖 12 主题，74 个本地文档链接、差异审查与 git diff --check 通过。已校验 Node 24.20.0 构建仅有既有单块体积提示。
+
+## 2026-10-03：主办方分区证据 A14
+
+- E15 8f8cece5b68812a4574b12e9f0e1470d70c649af 的 [Pages 37088078536](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37088078536) build/deploy 成功，首页/版本 HTTP 200，926500b487a7ce5dc7ce27a4e1a2b652d464305f01d273a3bb6bf7b98fbb4498 与本地一致；2026-10-03T01:59:32.452Z 验收后开始本批正式修改。
+- A14 仅 Photonic Sensors rankings 增加五条主办方编辑部明确声明：两 JCR Q1，三 CAS 一区；2026 发布/2025 指标与 CAS 2025 具体版本未知分别保存。[逐字段来源和六刊保留范围](RANKING_EVIDENCE_2026-10-03.md)。其他刊、索引/指南/样例/整刊日期及其余目录不变。
+- 长操作前检查点 work/A14_RESEARCH_2026-10-03.md 保存 E15 验收和核验范围；实际额度五小时58%/周9%，接口仍允许工作，未使用重置券。必要验证与差异审查后提交推送，验收同一 SHA 的 Pages 与线上目录。
+- 发布前精确断言通过：仅 Photonic Sensors 五条 rankings 新增，其余 73 刊、该刊其他字段及其他五份目录 JSON 保持。数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 239 项字段任务、12 主题/272 候选，78 个本地 Markdown 链接和当前计数通过。74 刊/55 会议/9 活动、138/131/3 候选状态、十四刊至少三篇样例保持；差异审查和 git diff --check 通过。
