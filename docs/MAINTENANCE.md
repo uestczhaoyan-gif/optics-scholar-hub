@@ -54,3 +54,11 @@ The daily source workflow includes series announcement sources. Ended series wit
 目录中明确保存为官网/通知/系列sources的image/*来源支持image-bytes指纹；普通文本仍用text指纹，其他非文本保持reachable-nontext。报告新增Comparison列。不会自动发现或下载HTML中的所有图片，也不会OCR/解析或自动改写会议事实。图片字节变化可能来自版式/压缩/元数据，须人工目视对应官方公告再逐字段编辑。
 
 同URL去重，访问仍顺序、15秒超时及2MB上限；失败、受限或超限不覆盖上次成功基线。文本旧缓存可继续比较，比较方法切换建立新baseline。只有显式追踪来源的变化可产生信号，不能声称覆盖整站所有图像。IMID已列入2026官方感谢信引用的图像，用于跟踪后续更新，保留其2027字段原始出处。
+
+## 动态正文的显式来源
+
+动态标签页可能只在首页HTML中留下外壳，首页指纹无变化不能证明征稿正文无变化。人工读取正常页面后，可以把实际观察并核实的公开HTML正文端点追加到该系列sources。不得猜路径、盲爬整站或把成功抓取当事实核验。
+
+ICCP2027已保存[Home正文](https://iccp2027.iccp-conference.org/pages/home.html)与[CFP正文](https://iccp2027.iccp-conference.org/pages/callforpapers.html)。来源取自已渲染页面的资源清单；删除请求时间戳前后实际HTTP200且正文逐字节一致。现有text指纹即可检查两页，无新调度或抓取执行器。隔离实测baseline/unchanged及同URL多引用通过，正式缓存未改。
+
+Explicit, reviewed public HTML endpoints can monitor dynamically loaded text with the existing source checker. A wrapper page alone does not cover its loaded content. Only ICCP's observed Home and CFP endpoints were added; changes remain manual-review signals, not automatic catalog edits.

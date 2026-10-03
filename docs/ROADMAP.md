@@ -521,3 +521,7 @@ C15新增ICCP2027，现85刊/75会议/10活动、69系列、273候选164/104/5�
 ## C16：ISPRS时间深度（2026-10-03）
 
 C16新增ISPRS2026历史与2030预告，2029具体日期未知仅线索；当前85刊/77会议/10活动、70稳定系列（7个多届）、273候选165/103/5。[字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)。C15 0720633c066f6f1496cacb5bb009e47ca17a7202已验收[Pages37118113485](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37118113485)：build/deploy及完整CI成功，首页/版本HTTP200，8825712958e671bcd09c48aec8a612a36cc446aa1195429b89e187fe5413f112与本地一致（2026-10-03T13:27:36.417Z）。 新额度窗口允许继续；下一步解决ICCP动态正文巡检来源端点，继续剩余候选、逐刊指南/样例与临近字段。2030规则未知，不复用2026。已有五小时任务保持，其他规划未完成。
+
+## S3：动态正文来源（2026-10-03）
+
+S3将ICCP2027实际公开加载的Home/CFP正文HTML追加到系列sources，现有每日text指纹可以监测已核两页；仅单届notes说明变更，所有学术事实/日期/计数保持。[实测与边界](MAINTENANCE.md)。C16 6839ca0a47cdca5f56e7e047c3f5f8b80551c5ab已验收[Pages37126973432](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37126973432)：build/deploy及完整CI成功，首页/版本HTTP200，685af700e2eeb7c82e774e71a726961fac16b4a5fbdf370a4afb1cbd275817c9与本地一致（2026-10-03T13:42:10.903Z）。 下一批ISBI2027已有实际当届官网线索，须核CFP、光学子集、场馆和EDT跨季节时区歧义；不可凭旧提案准入。继续其他规划，既有五小时任务保持。

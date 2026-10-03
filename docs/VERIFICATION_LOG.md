@@ -951,3 +951,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/C16_RESEARCH_2026-10-03.md保存新额度、C15验收及精确范围；只追加两届/一系列与单候选六字段，其他JSON保持。必要验证/差异审查/构建后推送并验收同SHA，其他规划继续。
 
 - 发布前数据校验、旧75届/69系列及其他目录保持/单候选六字段白名单和当前计数断言通过；179个本地Markdown链接、维护307项（唯一CIOP后续任务）及12主题覆盖通过。85/77/10、70系列/7多届、273165/103/5、JCR68/CAS11、索引和二十刊样例保持。Pages子路径构建及六入口资源exit0，差异审查/git diff --check通过；完整30项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-03：动态正文来源 S3
+
+- C16 6839ca0a47cdca5f56e7e047c3f5f8b80551c5ab已验收[Pages37126973432](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37126973432)：build/deploy及完整CI成功，首页/版本HTTP200，685af700e2eeb7c82e774e71a726961fac16b4a5fbdf370a4afb1cbd275817c9与本地一致（2026-10-03T13:42:10.903Z）。 成功后正式修改。
+- 正常浏览器实际CFP状态的资源清单提供pages/home.html与pages/callforpapers.html，并实际核无时间戳端点200、text/html、与观察到的原请求内容逐字节一致；不猜URL、不读取隐藏应用状态。[维护范围](MAINTENANCE.md)。两来源追加ICCP系列sources，只更新单届notes的巡检说明，学术事实/日期/其他数据保持。
+- 长操作前work/S3_RESEARCH_2026-10-03.md保存验收及范围；隔离实际现有checker两URL baseline/unchanged、同URL双引用去重通过，正式缓存未动。没有功能代码或调度修改，不新增镜像实现的测试。必要数据/范围校验、报告/文档/构建与差异审查后推送验收同SHA；其他规划继续。
+
+- 发布前数据校验、sources/notes精确白名单及所有学术字段保持断言通过；143个本地Markdown链接、维护307项/覆盖12主题及当前计数保持。Pages子路径构建/六入口资源exit0、差异审查/git diff --check通过；同SHA完整CI与部署随后验收。

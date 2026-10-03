@@ -822,7 +822,9 @@
     "sources": [
       "https://iccp2027.iccp-conference.org/",
       "https://iccp2027.iccp-conference.org/#home",
-      "https://iccp2027.iccp-conference.org/#callforpapers"
+      "https://iccp2027.iccp-conference.org/#callforpapers",
+      "https://iccp2027.iccp-conference.org/pages/home.html",
+      "https://iccp2027.iccp-conference.org/pages/callforpapers.html"
     ],
     "nextEditionCheckedAt": null
   },
