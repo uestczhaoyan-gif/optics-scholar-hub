@@ -225,12 +225,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "通过主办者确认系列身份，防止与同名活动混淆",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://photonics2026.iith.ac.in/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["photonics-india-2026"],
+    "decisionReason": "IIT Hyderabad官网确认当届身份、12/9–13海得拉巴会期及征稿/注册日程。",
+    "nextAction": "跟进10/15PDP开放与通知；早鸟10/30对Before1Nov边界冲突、具体会场及出版仍待核实。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-aead4966a6",
@@ -295,12 +295,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光交换、光计算；核对正式名称",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://psc2026.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["psc-2026"],
+    "decisionReason": "当届官网确认2026瓦伦西亚历史届会期/会场及普通/PDP稿件条件。",
+    "nextAction": "跟踪下一届官方通知；早鸟8/30与8/31冲突保留，不按周期推算2027。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-51bee6655f",
@@ -360,17 +360,22 @@
   },
   {
     "candidateId": "conference-series-4719446bc5",
-    "name": "Optical Interconnects Conference（OI）",
-    "aliases": ["OI", "Optical Interconnects Conference"],
+    "name": "Optical Interconnects and Packaging Conference（OIP，原 OI）",
+    "aliases": [
+      "OI",
+      "Optical Interconnects Conference",
+      "OIP",
+      "Optical Interconnects and Packaging Conference"
+    ],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光互连",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://oip-conference.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["oip-2026", "oip-2027"],
+    "decisionReason": "Optica官方明确OI更名OIP；当前官网确认2027圣巴巴拉，2026旧指南/日历确认柯林斯堡历史届。",
+    "nextAction": "核实2027会场完整名称、当届CFP与注册，不移用2026两页稿规则。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-e334642c77",
@@ -435,12 +440,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "核查当届语言、国际参与和投稿条件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
+    "sourceEntry": "https://opt-j.com/opj2026/",
+    "reviewStatus": "deferred",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "2026日文主页/投稿页页眉写12/16–19，正文及英文主页写12/16–18；会期终日仍冲突，暂不入正式目录。",
+    "nextAction": "等官方澄清终日；已核实会员资格、1页予稿及10/26–11/6PDP，英文旧9/4未体现日文9/11延期，不混同OPIC/OPIE。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-84244b0436",
@@ -589,12 +594,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "专题轮换，以当届内容为准",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.ieee-sum.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-sum-2027"],
+    "decisionReason": "现官方主页明确2027年7/12–14波尔图；按未来母会预告收录。",
+    "nextAction": "跟进2027专题、会场、具体截止及注册；公开指南混有2026内容，提案不当普通投稿。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-af2567157c",
@@ -662,12 +667,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "系列准确名称、周期与当前主办方",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.optica.org/events/congress/high-brightness_sources_and_light-driven_interacti/program/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "精确CHILAS身份未取得官方依据；可读2024母会包含HILAS，缩写与正式全名不同，尚不能认作同一系列。",
+    "nextAction": "优先查清CHILAS原始名称依据及与HILAS关系；未证实前不新增别名、不按两年周期推算。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-884b2e9cc2",
@@ -910,12 +915,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "系列准确名称、周期与当前主办方",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.up2026.jp/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ultrafast-phenomena-2026"],
+    "decisionReason": "当届邀请函及大学会后报道确认2026札幌8/2–7历史届。",
+    "nextAction": "跟踪下一届；两页TechnicalDigest与No proceedings分别保留，PDP注册适用日期待补，不保证索引。",
+    "reviewedAt": "2026-10-03"
   },
   {
     "candidateId": "conference-series-9271b88c27",

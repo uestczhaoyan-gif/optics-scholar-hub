@@ -784,3 +784,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - A14 仅 Photonic Sensors rankings 增加五条主办方编辑部明确声明：两 JCR Q1，三 CAS 一区；2026 发布/2025 指标与 CAS 2025 具体版本未知分别保存。[逐字段来源和六刊保留范围](RANKING_EVIDENCE_2026-10-03.md)。其他刊、索引/指南/样例/整刊日期及其余目录不变。
 - 长操作前检查点 work/A14_RESEARCH_2026-10-03.md 保存 E15 验收和核验范围；实际额度五小时58%/周9%，接口仍允许工作，未使用重置券。必要验证与差异审查后提交推送，验收同一 SHA 的 Pages 与线上目录。
 - 发布前精确断言通过：仅 Photonic Sensors 五条 rankings 新增，其余 73 刊、该刊其他字段及其他五份目录 JSON 保持。数据校验、26 项测试、typecheck、lint、Pages 子路径构建及六个入口资源检查通过；维护队列 239 项字段任务、12 主题/272 候选，78 个本地 Markdown 链接和当前计数通过。74 刊/55 会议/9 活动、138/131/3 候选状态、十四刊至少三篇样例保持；差异审查和 git diff --check 通过。
+
+## 2026-10-03：光子学系列 C6（七系列）
+
+- A14 33747387db72cf0c15cbaab46edd8d95d6eac258 的 [Pages 37088948448](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37088948448) build/deploy成功；首页/版本 HTTP200，861ad4a47c8923f8401220420400302282db3d33df64f111c2faad67487b4ad5 与本地一致，2026-10-03T02:12:55.095Z验收后正式编辑本批。
+- C6 审核七系列、新增六届，OI更名OIP由官方明确确认；OPJ终日冲突暂缓，CHILAS/HILAS关系未知。截止精度、普通/PDP、母会/专题、旧届/2027分别保存；早鸟和UP出版表述冲突保留。[逐字段来源与范围](CONFERENCE_EVIDENCE_2026-10-03.md)。
+- 长操作前已保存 work/C6_RESEARCH_2026-10-03.md，实际五小时67%/周10%且允许工作；未用重置券。只有追加六会议及七候选审核，其他期刊、索引分区、样例与目录保持；必要验证和差异审查后推送，同SHA验收部署。
+- 发布前精确断言通过：55届旧会议及全部期刊/活动/主题/站点JSON保持，只追加六届并更新七个候选（稳定ID不变）。数据校验、26项测试、typecheck、lint、Pages子路径构建及六入口资源检查通过；维护249项字段任务、12主题/272候选，112个本地Markdown链接与当前数量核对通过。JCR62/CAS11、十四刊至少三篇样例保持；差异审查和git diff --check通过。下一轮优先四项deferred及新预告缺口。

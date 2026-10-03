@@ -4,13 +4,13 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **74 本期刊、55 届会议、9 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **74 本期刊、61 届会议、9 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 55 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 61 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
@@ -39,7 +39,7 @@ JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问�
 | 批次 / 优先级                          | 要做什么                                                                                                                                                  | 交付与验收条件                                                                                         |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | A / P1：已有索引与分区证据             | 已有肯定索引均有数据库方证据：SCIE 62、ESCI 10、EI 67。下一步补 JCR/CAS 年度与学科、七刊 EI 缺口及两本中文刊的 Web of Science 身份；不重复同版清单        | 每字段保存来源、证据等级、版本或核验日期；无法核实保留缺口，不从历史 JCR 的索引列推断当前收录          |
-| B / P1：临近会议与冲突                 | 先处理维护报告中临近 14 天事项，再处理未知日期；NDTA 2026 酒店已有官方依据，继续核实中英文摘要长度冲突、CIOE 纳米压印论坛日期冲突                         | 每届使用当届官方通知，分别记录截止与举办时间；冲突未解继续暂缓，不选一个日期充数                       |
+| B / P1：临近会议与冲突                 | 先处理维护报告中临近 14 天事项，再处理未知日期；NDTA 2026 酒店已有官方依据，继续核实中英文摘要长度冲突、CIOE 纳米压印论坛日期及 OPJ 终日冲突              | 每届使用当届官方通知，分别记录截止与举办时间；冲突未解继续暂缓，不选一个日期充数                       |
 | C / P1：会议与活动覆盖                 | 每批审核 5–8 个系列，CIOP 历史届次已收录，继续补原始征稿；Photonics West、AOPC、OGC、OECC、ICOCN 已有届次，继续查后续；向制造、生医、显示、红外、遥感扩展 | 区分系列、届次、母子会议、论文会议和展览；有当届依据才新增正式记录，无下一届通知则保留系列候选         |
 | D / 已完成（2026-09-12）：活动维护能力 | 已将 `events` 纳入离线维护队列与报告，显示类型和母活动关联                                                                                                | 覆盖即将举办、日期未知、核验过期与历史活动；保留母子关系、不重复统计；必要边界测试通过                 |
 | E / P2：投稿指南与交叉适配             | 每批 5–8 本，补受限作者指南、综述/邀稿提案流程、模板、正式提交入口、篇幅、费用、预印本与会议扩展规则；补交叉期刊样例                                      | 规则注明适用稿型、官方来源与核验范围；动态费用保留日期；样例含题名/DOI和光学适配理由，样本不足明确说明 |
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 74 journals, 55 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 74 journals, 61 conference editions and 9 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 62 journals and CAS records for 11. SCIE has 62 and EI has 67 positive records. 67 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Sixty-two SCIE records have current Clarivate MJL search-result evidence; ten ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -433,3 +433,7 @@ E15 审核六刊作者细则，更新 OPE/CPL/中国激光/光学学报/进展�
 ### 2026-10-03：主办方分区证据 A14
 
 A14 为 Photonic Sensors 补主办方编辑部明确声明的两项 JCR Q1 排名与三项 CAS 一区；发布年2026和指标年2025分开，CAS 2025具体版本仍待核实。当前 JCR 62/CAS 11；六本中文刊未得完整版本/学科证据，不造分区。[逐字段范围](RANKING_EVIDENCE_2026-10-03.md)。E15 8f8cece 已验收 Pages 37088078536 与线上 926500b4…；其余规划继续。
+
+### 2026-10-03：光子学系列 C6
+
+C6 审核 PHOTONICS、PSC、OI/OIP、OPJ、SUM、CHILAS、UP 七系列，新增六届：PHOTONICS 2026、PSC 2026、OIP 2026/2027、SUM 2027、UP 2026。正式74刊/61会议/9活动，候选272（143 admitted / 125 pending / 4 deferred）。OPJ终日官方冲突暂缓，CHILAS与HILAS关系未知；历史/未来规则分开，早鸟和出版冲突保留。[逐字段证据](CONFERENCE_EVIDENCE_2026-10-03.md)。A14 3374738 已验收 Pages 37088948448 与线上861ad4a4…；其他规划继续。

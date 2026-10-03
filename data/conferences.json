@@ -2807,5 +2807,311 @@
         "source": "https://www.optica.org/events/congress/optica_imagesense_congress/"
       }
     ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "photonics-india-2026",
+    "series": "PHOTONICS (India)",
+    "year": 2026,
+    "name": "第 17 届国际光纤与光子学会议 PHOTONICS 2026",
+    "nameEn": "17th International Conference on Fiber Optics and Photonics",
+    "location": "印度 · 海得拉巴",
+    "venue": "具体会场待核实（IIT Hyderabad 主办）",
+    "start": "2026-12-09",
+    "end": "2026-12-13",
+    "topics": ["综合光学", "激光与非线性", "光通信", "集成光子", "传感与测量"],
+    "description": "印度 PHOTONICS 系列当届官网由 IIT Hyderabad 承载，覆盖光纤、激光、量子与器件等光子学研究；与同名展览区分。",
+    "website": "https://photonics2026.iith.ac.in/",
+    "notice": "https://photonics2026.iith.ac.in/guidelines/",
+    "registration": "https://photonics2026.iith.ac.in/registration/",
+    "submissionState": "closed",
+    "requirements": [
+      "按指定模板提交 1–2 页稿件，允许 PDF 或 DOC/DOCX，经官网 ConfServ 链接提交；每次注册最多支持两项投稿的报告。",
+      "所有报告作者及参会共同作者均须注册。普通投稿 9/25 已截止；PDP 公告为 10/15 开放、11/15 截止，未确认登录后的接收状态。"
+    ],
+    "publication": "本轮指南未明确论文集出版商或索引，不承诺 SCI/EI；报告方式为口头或海报。",
+    "notes": "会期来源 https://photonics2026.iith.ac.in/dates/ ；主办身份 https://photonics2026.iith.ac.in/ 。普通截止从 8/30 延至 9/25。日期表早鸟10/30，但 https://photonics2026.iith.ac.in/registration/ 收费表标 Before 1 Nov，边界冲突保留未知；FAQ 仍在更新。主办学校不等于已确认具体会场。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通稿件截止（延长后，已过）",
+        "date": "2026-09-25",
+        "source": "https://photonics2026.iith.ac.in/dates/"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知",
+        "date": "2026-10-15",
+        "source": "https://photonics2026.iith.ac.in/dates/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 最新成果截止",
+        "date": "2026-11-15",
+        "source": "https://photonics2026.iith.ac.in/dates/",
+        "note": "公告10/15开放，无具体时刻，不把普通截止套用于PDP。"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟边界官方页不一致，待确认",
+        "date": null,
+        "source": "https://photonics2026.iith.ac.in/registration/",
+        "note": "日期表10/30，收费表Before1Nov；不选一个日期。"
+      },
+      {
+        "type": "registration",
+        "label": "最终注册截止",
+        "date": "2026-11-30",
+        "source": "https://photonics2026.iith.ac.in/dates/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "psc-2026",
+    "series": "Photonics in Switching and Computing",
+    "year": 2026,
+    "name": "光子交换与计算国际会议 PSC 2026（历史届次）",
+    "nameEn": "International Conference on Photonics in Switching and Computing 2026",
+    "location": "西班牙 · 瓦伦西亚",
+    "venue": "Ciudad Politécnica de la Innovación（Universitat Politècnica de València 校区）",
+    "start": "2026-09-15",
+    "end": "2026-09-17",
+    "topics": ["光通信", "集成光子", "电子与器件", "量子光学"],
+    "description": "覆盖光交换网络、光计算与神经形态计算、量子网络及器件的 PSC 系列，2026 届已结束。",
+    "website": "https://psc2026.org/",
+    "notice": "https://psc2026.org/paper-submission/",
+    "registration": "https://psc2026.org/registration/",
+    "submissionState": "published",
+    "requirements": [
+      "普通与 PDP 页面均要求指定模板三页稿件及35词摘要，提交PDF；官方 EDAS 链接及 PDF eXpress 合规要求已核实，系统登录流程未验证。",
+      "官网明确已关闭投稿；需履行 IEEE 版权与报告要求。"
+    ],
+    "publication": "官方称录用且现场报告的论文进入 PSC2026 Proceedings 并提供于 IEEE Xplore；no-show 不出版。未核验数据库单篇收录，不承诺 SCI/EI。",
+    "notes": "会场 https://psc2026.org/conference-centre/ ；方向 https://psc2026.org/technical-scope/ 。日期表早鸟8/31，注册页写8/30截止、8/31涨价，保留冲突。投稿页正文另残留 Confit 登录术语，实际链接为 EDAS，未视为已验证登录步骤。 PDP作者注册适用截止未核实，不把普通8/15强行用于晚PDP。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（延长后，历史）",
+        "date": "2026-06-19",
+        "source": "https://psc2026.org/important-dates/"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知（历史）",
+        "date": "2026-07-28",
+        "source": "https://psc2026.org/important-dates/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 截止（历史）",
+        "date": "2026-09-04",
+        "source": "https://psc2026.org/call-for-postdeadline-papers/"
+      },
+      {
+        "type": "registration",
+        "label": "普通作者注册截止（历史；PDP适用性待核实）",
+        "date": "2026-08-15",
+        "source": "https://psc2026.org/important-dates/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟日期官方冲突，待核实",
+        "date": null,
+        "source": "https://psc2026.org/registration/",
+        "note": "日期表8/31；注册页8/30截止且8/31涨价。"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "oip-2026",
+    "series": "Optical Interconnects and Packaging (formerly OI)",
+    "year": 2026,
+    "name": "光互连与封装会议 OIP 2026（历史届次，原 OI）",
+    "nameEn": "Optical Interconnects and Packaging Conference 2026",
+    "location": "美国 · 科罗拉多州柯林斯堡",
+    "venue": "具体会场待核实",
+    "start": "2026-06-15",
+    "end": "2026-06-17",
+    "topics": ["光通信", "集成光子", "电子与器件"],
+    "description": "专注高速光互连、共封装光学、器件与高密度封装的单会场系列；Optica 官方日历明确 OI 更名为 OIP。",
+    "website": "https://oip-conference.org/",
+    "notice": "https://oip-conference.org/paper-submission-1",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "当届指南要求 IEEE 模板两页原创、未发表稿件，包括作者信息及图表；另提交最多45词摘要。",
+      "录用后需完成 IEEE 版权程序并在会议报告；当前公开2026页面投稿与录用日期仍为TBC，旧提交链接不表示当前开放。"
+    ],
+    "publication": "官方指南规定只有录用且实际报告的论文进入 IEEE Xplore proceedings；未做单篇数据库核验，不承诺SCI/EI。",
+    "notes": "系列身份及历史会期来源：https://www.optica.org/events/global_calendar/events/optical_interconnects_and_packaging_(oip)_conference/ 。现主页已更新为2027，不把现主页新城/会场套给2026。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2026 最终论文截止待核实（官网TBC）",
+        "date": null,
+        "source": "https://oip-conference.org/paper-submission-1"
+      },
+      {
+        "type": "notification",
+        "label": "2026 录用通知待核实（官网TBC）",
+        "date": null,
+        "source": "https://oip-conference.org/paper-submission-1"
+      },
+      {
+        "type": "registration",
+        "label": "2026 注册截止待核实",
+        "date": null,
+        "source": "https://oip-conference.org/paper-submission-1"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "oip-2027",
+    "series": "Optical Interconnects and Packaging (formerly OI)",
+    "year": 2027,
+    "name": "光互连与封装会议 OIP 2027（预告）",
+    "nameEn": "Optical Interconnects and Packaging Conference 2027",
+    "location": "美国 · 加利福尼亚州圣巴巴拉",
+    "venue": "具体会场名称待核实",
+    "start": "2027-04-26",
+    "end": "2027-04-28",
+    "topics": ["光通信", "集成光子", "电子与器件"],
+    "description": "OIP 现官方主页明确2027会期与城市，面向AI通信及光互连/封装；征稿细则尚待当届公告。",
+    "website": "https://oip-conference.org/",
+    "notice": "https://oip-conference.org/",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "2027 具体论文/摘要篇幅、模板、提交系统及作者注册规则待核实；官网旧 Paper Submission 页面仍明确2026，不移用为2027。",
+      "未来预告；有会期不等于普通投稿或注册已开放。"
+    ],
+    "publication": "2027 出版条件与论文集尚未核实，不沿用2026 IEEE Xplore声明，不承诺索引。",
+    "notes": "官网地点行出现 Hilton Santa Barbara Beachfront Re 和633 E Cabrillo Blvd，完整会场名称尚待核实；页面仍有 OIP26 sponsor 字样。与OI候选关联同一系列，按当届字段分别记录。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2027 论文截止待公布",
+        "date": null,
+        "source": "https://oip-conference.org/"
+      },
+      {
+        "type": "registration",
+        "label": "2027 注册截止待公布",
+        "date": null,
+        "source": "https://oip-conference.org/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "ieee-sum-2027",
+    "series": "IEEE Photonics Society Summer Topicals",
+    "year": 2027,
+    "name": "IEEE 光子学会夏季专题会议 SUM 2027（预告）",
+    "nameEn": "IEEE Photonics Society Summer Topicals Meeting Series 2027",
+    "location": "葡萄牙 · 波尔图",
+    "venue": "具体会场待核实",
+    "start": "2027-07-12",
+    "end": "2027-07-14",
+    "topics": ["综合光学", "集成光子", "光通信", "电子与器件"],
+    "description": "围绕轮换光子学热点组织多个专题的 IEEE 母会，2027官网正在征集专题提案，不将专题提案当作普通论文投稿。",
+    "website": "https://www.ieee-sum.org/",
+    "notice": "https://www.ieee-sum.org/paper-submission/submission-guidelines/",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "官网预计2027年1月开启普通投稿、2月截止，未给具体日；注册预计3月开放。",
+      "现公开指南有两页稿件、45词摘要和50词报告人简介，但同页残留2026通知；2027最终适用要求和专题名单须再核实。"
+    ],
+    "publication": "公开指南写录用并现场报告才进入 IEEE Xplore，但同页混有旧届通知；2027出版适用性待确认，不承诺SCI/EI。",
+    "notes": "首页 https://www.ieee-sum.org/ 明确2027会期城市；Topics页 https://www.ieee-sum.org/paper-submission/topics/ 的提案征集与普通论文分开。历史2026程序和已开放注册旧页不当成2027接收入口。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止仅公布2027年2月，具体日待核实",
+        "date": null,
+        "source": "https://www.ieee-sum.org/paper-submission/submission-guidelines/"
+      },
+      {
+        "type": "registration",
+        "label": "2027 注册截止待公布（预计3月开放）",
+        "date": null,
+        "source": "https://www.ieee-sum.org/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-03",
+    "evidence": "official",
+    "id": "ultrafast-phenomena-2026",
+    "series": "International Conference on Ultrafast Phenomena",
+    "year": 2026,
+    "name": "第25届国际超快现象会议 UP 2026（历史届次）",
+    "nameEn": "XXV International Conference on Ultrafast Phenomena 2026",
+    "location": "日本 · 札幌",
+    "venue": "Sapporo Convention Centre",
+    "start": "2026-08-02",
+    "end": "2026-08-07",
+    "topics": ["激光与非线性", "光学材料", "量子光学", "传感与测量"],
+    "description": "涵盖超短脉冲光源与超快物理、化学及生物动力学的跨学科系列；官网邀请函及大学会后报道确认2026札幌届已结束。",
+    "website": "https://www.up2026.jp/",
+    "notice": "https://www.up2026.jp/submission.html",
+    "registration": "https://www.up2026.jp/registration.html",
+    "submissionState": "published",
+    "requirements": [
+      "提交35词摘要与两页summary PDF；单稿只选一个topic，全体作者须同意，至少一作者完整注册并到场报告。",
+      "本轮可读的是PDP及报告人说明，PDP只接受口头报告；普通系统明确关闭。官网两页摘要说明与正式论文集声明分别保留。"
+    ],
+    "publication": "投稿页称录用的两页summary用于 Technical Digest，同时明确 No proceedings will be published；保留两种表述，不据此声称归档论文集、SCI或EI。",
+    "notes": "会期会场 https://www.up2026.jp/invitation.html ；会后报道 https://www.ile.osaka-u.ac.jp/core2corepl/2026/08/07/post-1980/index.html 。普通通知仅写2026年3月；注册页6/15全体报告人截止早于PDP7/15，其PDP适用性未确认。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文截止（延长后，历史）",
+        "at": "2026-02-07T23:59:00+09:00",
+        "timezone": "Asia/Tokyo",
+        "source": "https://www.up2026.jp/"
+      },
+      {
+        "type": "pdp",
+        "label": "PDP 截止（历史）",
+        "at": "2026-07-15T23:59:00+09:00",
+        "timezone": "Asia/Tokyo",
+        "source": "https://www.up2026.jp/submission.html"
+      },
+      {
+        "type": "notification",
+        "label": "普通录用通知仅给2026年3月，具体日待核实",
+        "date": null,
+        "source": "https://www.up2026.jp/"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟截止（历史）",
+        "date": "2026-05-31",
+        "source": "https://www.up2026.jp/registration.html"
+      },
+      {
+        "type": "registration",
+        "label": "PDP 作者注册适用截止待确认",
+        "date": null,
+        "source": "https://www.up2026.jp/registration.html",
+        "note": "注册页要求全体presenters6/15完成注册，但PDP截止7/15；未强行适用旧注册日。"
+      }
+    ]
   }
 ]
