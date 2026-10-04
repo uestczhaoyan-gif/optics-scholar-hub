@@ -1042,3 +1042,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 只九新届/四系列/四候选六审核字段，旧91届/81系列及全部其他JSON保护；必要校验/范围/文档/报告/构建与差异审查后上传、验收同SHA。其他规划继续。
 
 - 发布前数据校验、旧91届/81系列保持、四候选六字段白名单及未来未知/提案/时区边界断言通过；221个本地Markdown链接、维护369项/后续两项、12主题覆盖及当前计数通过。85/100/10、85系列/12多届、273候选180/88/5，分区索引与23刊样例保持。Pages子路径构建及六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。发布前实际五小时70%/周44%允许，未用重置券。
+
+## 2026-10-04：生化传感六篇 E22
+
+- C22 ef63a86d3f01f8c58b4c440b4d89b595248002e9已验收[Pages37185777328](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37185777328)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，153394d1f462d472353f085cdbe90c9c0eb75ed45eb3a100f5d6df9cf8ed7881与本地一致（2026-10-04T07:27:13.423Z）。 正式编辑前已验收；work/E22_RESEARCH_2026-10-04.md保存长操作前实际70%/周44%允许及后续74%/45%、来源范围，不用重置券。
+- 六出版社页实际正常浏览器读取页头/公开摘要/Show more历史，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。Available online不是Accepted/VOR/卷期；光子皮肤二手02-27不覆盖原页02-26，X伴生刊排除。
+- 只两scopeExamples，其他83刊/旧23刊样例及全部其他JSON保护；必要数据/精确范围/文档/报告/构建及差异审查后推送，同SHA验收CI/部署/线上版本，其他规划继续。
+
+- 发布前数据校验、两字段白名单/旧23刊样例与其他83刊/全部其他JSON保持、25刊样例首次日/不同卷断言通过；180个本地Markdown链接、维护369项和12主题覆盖通过。Pages子路径构建及六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

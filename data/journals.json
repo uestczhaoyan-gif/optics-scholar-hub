@@ -4000,7 +4000,27 @@
       "通过当前官网所链 https://submit.elsevier.com/BIOSBE 提交；提供可编辑.doc/.docx或.tex源文件，Word单栏，LaTeX可双栏；PDF不是可编辑源文件，系统生成评审PDF。补充材料随主稿提交、文中引用并附说明，返修阶段方可增加/替换。",
       "单盲评审，通常至少两位评审人。初投必须说明数据可用性；本刊Option B鼓励仓库存储并引用/链接数据，不可共享时说明原因，不能把鼓励公开写成全部强制。具体适用稿型和声明见 https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/guide-for-authors 。"
     ],
-    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；OA APC USD 5440（不含税），适用全部稿型，机构/基金或个人条件可影响实际报价。订阅路径无OA出版费，不代表所有潜在收费均为零。OA当前列CC BY、CC BY-NC和CC BY-NC-ND，作者保留版权；选择出版方式不影响评审/录用。来源 https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/open-access-options 。"
+    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；OA APC USD 5440（不含税），适用全部稿型，机构/基金或个人条件可影响实际报价。订阅路径无OA出版费，不代表所有潜在收费均为零。OA当前列CC BY、CC BY-NC和CC BY-NC-ND，作者保留版权；选择出版方式不影响评审/录用。来源 https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/open-access-options 。",
+    "scopeExamples": [
+      {
+        "title": "A high-performance photonic-ionic E-skin with synergistic electronic/optical sensing for motion tracking",
+        "source": "https://doi.org/10.1016/j.bios.2025.117317",
+        "publishedAt": "2025-02-26",
+        "relevance": "2026-10-04核验出版社页头、Show more发表历史及公开摘要：光子离子凝胶结构色与电子双模运动检测，姿态/声带振动演示，适配光学响应材料和可穿戴传感。Volume278,117317，期次2025-06-15；Available online02-26、Version of Record03-07，未取二手元数据02-27。非临床获批证据。"
+      },
+      {
+        "title": "Affordable plasmonic biosensing: democratizing SERS with scalable, field-compatible substrate fabrication",
+        "source": "https://doi.org/10.1016/j.bios.2026.118487",
+        "publishedAt": "2026-02-05",
+        "relevance": "2026-10-04核验出版社页头、发表历史及公开摘要：低成本银等离激元SERS基底，农药和培养细菌检测实验，适配拉曼光谱/生化传感。Volume301,118487，期次2026-06-01；Available online02-05、Version of Record02-13。未将检测演示当临床/公共卫生认证。"
+      },
+      {
+        "title": "Electrochemically engineered plasmonic nanostructuring on universally captured bacterial surfaces for label-free and ultrasensitive SERS pathogen detection",
+        "source": "https://doi.org/10.1016/j.bios.2026.118577",
+        "publishedAt": "2026-03-02",
+        "relevance": "2026-10-04核验出版社页头、发表历史及公开摘要：4-MPBA捕获细菌/电化学沉金产生等离激元热点，SERS与分类算法区分细菌，适配光学换能和病原检测。Volume308,118577，期次2026-09-15；Available online03-02、Version of Record05-13。范围为公开摘要，不声称全部实验数据复核或临床性能。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -4058,7 +4078,27 @@
       "通过当前官网所链 https://submit.elsevier.com/SNB 提交；提供可编辑.doc/.docx或.tex源文件，Word单栏，LaTeX可双栏；PDF不是可编辑源文件，系统生成评审PDF。补充材料随主稿提交、文中引用并附说明，返修阶段方可增加/替换。",
       "单盲评审，通常至少两位评审人。初投必须说明数据可用性；本刊Option B鼓励仓库存储并引用/链接数据，不可共享时说明原因，不能把鼓励公开写成全部强制。具体适用稿型和声明见 https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/guide-for-authors 。"
     ],
-    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；OA APC USD 4890（不含税），适用全部稿型，机构/基金或个人条件可影响实际报价。订阅路径无OA出版费，不代表所有潜在收费均为零。OA当前列CC BY、CC BY-NC和CC BY-NC-ND，作者保留版权；选择出版方式不影响评审/录用。来源 https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/open-access-options 。"
+    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；OA APC USD 4890（不含税），适用全部稿型，机构/基金或个人条件可影响实际报价。订阅路径无OA出版费，不代表所有潜在收费均为零。OA当前列CC BY、CC BY-NC和CC BY-NC-ND，作者保留版权；选择出版方式不影响评审/录用。来源 https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/open-access-options 。",
+    "scopeExamples": [
+      {
+        "title": "Engineering hierarchical Ag nanoparticles-coated periodic nanoripples for enhanced SERS performance",
+        "source": "https://doi.org/10.1016/j.snb.2025.137706",
+        "publishedAt": "2025-03-29",
+        "relevance": "2026-10-04核验出版社页头、发表历史及公开摘要：飞秒激光周期结构/沉积银纳米颗粒增强SERS，染料分子检测与稳定性实验、数值光学模拟，适配激光加工和化学光谱传感。Volume436,137706，期次2025-08-01；Available online03-29、Version of Record04-02。探针染料验证不扩为复杂临床样本验证。"
+      },
+      {
+        "title": "Metal organic frameworks-based sensor for visual monitoring of cortisol in human fluids",
+        "source": "https://doi.org/10.1016/j.snb.2026.139605",
+        "publishedAt": "2026-02-04",
+        "relevance": "2026-10-04核验出版社页头、发表历史及公开摘要：Eu-MOF多发射荧光探针和手机颜色读出检测皮质醇，人体液样本回收率实验，适配荧光材料/生化分析。Volume454,139605，期次2026-05-01；Available online02-04、Version of Record02-06。不是器械批准或临床诊断指南。"
+      },
+      {
+        "title": "Miniaturized fiber-coupled microscope with cell-embedded hydrogel for odorant sensing",
+        "source": "https://doi.org/10.1016/j.snb.2026.139855",
+        "publishedAt": "2026-03-21",
+        "relevance": "2026-10-04核验出版社页头、发表历史及公开摘要：微型荧光显微镜/扇出光纤阵列/嗅觉受体细胞水凝胶，乙酰苯剂量响应与便携空气界面演示，适配光纤读出和生物化学传感。Volume458,139855，期次2026-07-01；Available online03-21、Version of Record03-24。仅已验证目标物范围，不推成所有气味检测。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

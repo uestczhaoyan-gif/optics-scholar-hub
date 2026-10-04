@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 11 / 85          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 78 / SCIE 72  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 72 / ESCI 11 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十三刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors；首次上线日期、卷期及在线校正稿状态见 [样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十五刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E22 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -565,3 +565,7 @@ E21 45c8ee77c9a4039f66051c1ce3e29043c234a990已验收[Pages37183967735](https://
 ## C22 材料光学会议时间深度（2026-10-04）
 
 C21 15316fae6cbca5a674d233f9d814afe94f5a8e21已验收[Pages37184918851](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37184918851)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，490b7e5d3bc18f4bd1a741b8a4ca501df3ffa7576972dcaf4e04f74477afd7c5与本地一致（2026-10-04T07:11:11.580Z）。 四材料系列九届按当届或正式未来日程准入；MRS Spring至2030明示日期与未知稿规分开，E-MRS2026历史/2027独立未来及组织提案边界保留。[范围](CONFERENCE_EVIDENCE_2026-10-04.md)。当前85刊/100届/10活动、85系列/12多届、273候选180/88/5。MRS10/14摘要临近进入维护，其余指南/样例、候选、分区索引仍未完成；不为消耗额度重复无变化核验。
+
+## E22：生化传感光学适配（2026-10-04）
+
+C22 ef63a86d3f01f8c58b4c440b4d89b595248002e9已验收[Pages37185777328](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37185777328)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，153394d1f462d472353f085cdbe90c9c0eb75ed45eb3a100f5d6df9cf8ed7881与本地一致（2026-10-04T07:27:13.423Z）。 BIOSBE/SNB各三不同卷样例覆盖结构色/SERS/荧光手机读出/光纤显微器件，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。公开摘要适配不当全文实验审计；出版社首次在线与VOR/期次分开，伴生X不混用。仅两字段、25刊至少三篇，其他规划继续。

@@ -10,7 +10,7 @@
 - 正式目录：85 本期刊、100 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：273 项，180 admitted、88 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
-- 交叉适配样例已有二十三刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
+- 交叉适配样例已有二十五刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E22 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
 ## 恢复时先做
@@ -240,3 +240,7 @@ E21 45c8ee77c9a4039f66051c1ce3e29043c234a990已验收[Pages37183967735](https://
 ## C22 材料系列与2030未来深度（2026-10-04）
 
 C21 15316fae6cbca5a674d233f9d814afe94f5a8e21已验收[Pages37184918851](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37184918851)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，490b7e5d3bc18f4bd1a741b8a4ca501df3ffa7576972dcaf4e04f74477afd7c5与本地一致（2026-10-04T07:11:11.580Z）。 新增MRS Spring2027–2030/Fall2026及E-MRS春秋2026/2027共九届、四系列；当前85/100/10、85系列/12多届、273候选180/88/5，23刊样例及分区索引保持。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。MRS2027摘要10/14精确ET、4000字符/无图/SUBMIT及12月中旬通知已核；远期城市会期明示但场馆/规则未知。E-MRS历史3000字符/各届海报和费用分别保存，2027组织提案不是普通摘要；CET歧义留日级。下一批回逐刊指南/材料交叉样例、其他候选与临近维护；实际五小时65%/周44%允许，未用重置券，既有任务保持。
+
+## 2026-10-04：生化传感六篇光学样例 E22
+
+C22 ef63a86d3f01f8c58b4c440b4d89b595248002e9已验收[Pages37185777328](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37185777328)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，153394d1f462d472353f085cdbe90c9c0eb75ed45eb3a100f5d6df9cf8ed7881与本地一致（2026-10-04T07:27:13.423Z）。 两生化传感刊各三独立卷、近两年原始论文，核出版社页头/摘要及Available online、Version of Record、期次日期，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。只两scopeExamples，整刊日期/索引分区/指南费用和其他目录保持；25刊≥3样例。85/100/10、85系列/12多届、273180/88/5保持，继续器件/材料及其他交叉刊样例、指南/候选和分区。
