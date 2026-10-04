@@ -114,3 +114,43 @@ ISBI文件2,108,834字节，C17实施时来源检查对PDF仅可达性；随后S
 普通论文进入Xplore仍受范围/质量及报告/全额注册条件约束；Sensors Letters独立评审、Sensors Journal扩展稿非自动接受。未确认实际EI单篇检索。记录ieee-sensors-2026；候选conference-series-61e9589bca。所有仅日期值不造时区；后续届次未核而保持开放维护。
 
 本批未改变85刊、分区/索引/23刊样例及其他目录JSON。历史计数不批量替换，README/扩充计划遗留当前统计单独修正。相关模板、注册/投稿平台均未登录、提交、邮件或付款；未知与冲突留下一步任务，其他规划继续。
+
+## C22：MRS/E-MRS材料光学与未来日程（2026-10-04）
+
+四真实候选追加九届：MRS Spring2027/28/29/30、MRS Fall2026、E-MRS Spring2026/27及Fall2026/27；正式85刊/100届/10活动、85稳定系列（12多届）、273候选180 admitted/88 pending/5 deferred。各材料母会仅光学相关专题子集适配；附带展览不另算论文会议。MRS与E-MRS、春季与秋季各为独立系列，不将专题子会重复建成母会。
+
+### MRS Spring
+
+| 字段/核验范围         | 官方来源及实际读取                                                                                                                                                                                                                                                                                                                                                    | 保存与未知边界                                                                                                                                                                                       |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2027会期/会场/主题    | [当届主页](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit)、[Call for Abstracts](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts)正常浏览器：2027-04-05–09西雅图Summit Convention Center/Hyatt Regency；EL06光子界面、EL07等离激元/超表面、EL08集成光学计算、SB05生物光子 | web请求520，正常浏览器原URL正文成功；系列光学子集有当届专题，不泛收全部材料                                                                                                                          |
+| 摘要时间/指南         | 页面实际链接[两页指南PDF](https://www.mrs.org/docs/default-source/meetings-events/spring-meetings/2027/s27-abstract-submission-guidelines.pdf?sfvrsn=7f521c00_3)正常TLS下载、全文抽取并两页渲染核图：10/14/2026 23:59 ET；题名/正文连列4000字符含空格，无图/图形/图表；≤3关键词、无需会员，报告形式/转专题由organizers决定，同摘要一次，需最终SUBMIT                  | 字符上限分项或合计在登录系统尚未核，明确原文范围；12月中旬通知不造具体日；注册/费用、实际论文集与索引未知。SHA256 bc27cacd267b2b7f54d1c10c49f0f2dbd4b0d7c6583ee21e228fa5e7c6fa4998；未登录/注册/提交 |
+| 2028–2030独立未来届次 | [学会2026-02-16正式五年新闻](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)实际普通浏览器正文：2028-03-27–31 Vancouver；2029-04-09–13 Seattle；2030-04-28–05-03 Honolulu                                                                                              | 只明示城市/日期，场馆/本届光学专题/稿规费用未知，unknown与null；不套2027字符规则、不靠轮换周期推算                                                                                                   |
+
+记录mrs-spring-2027/2028/2029/2030，候选conference-series-ef5f36cccc。2027明示ET精确截止用America/New_York（当日UTC−4），其余未来安排只日期。本轮未核2026 MRS Spring具体光学主题/指南，虽五年新闻有会期，暂未新增该历史届。
+
+### MRS Fall 2026
+
+[当届主页](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting)和[注册页](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration)实际普通浏览器确认2026-11-29–12-04 Boston、Hynes Convention Center/相邻Sheraton，注册开放。公开[初轮CFP PDF](https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2026/f26-mrs-call-for-abstracts-3-20-26.pdf?sfvrsn=ee77ae88_4)下载后68页；只抽取/渲染第一页（日期/6月17日23:59ET图像页眉）与第13页（EL07等离激元/纳米光子/超表面、传感/生物光子等范围）。未声称通读全文；初轮截止已过，后续延期/晚海报与当前完整摘要细则未核，不复用2027春季规则。PDF SHA256 1ff9139a9b402bc520aa4b2198f14750d9d8f41a7136a233fb09991a0dd38ed1。
+
+注册当前表10/29 23:59 ET前一般$1240/会员1085、学生380/学生会员335；10/30起1360/1185/405/360。原表$币种未明，不补USD；注册含会员至2027-11-30。书面取消10/29前扣50，10/30–11/28扣250，会议起不退；这些是参会规则，非出版费/最终报名关闭日。未核统一会议录、实际索引、后续Fall具体会期。记录mrs-fall-2026，候选conference-series-9028ec0d2a；ET精确日期用America/New_York，未知最终注册null。
+
+### E-MRS Spring 2026/2027
+
+| 字段/范围             | 官方当届依据及实际读取                                                                                                                                                                                                                                                                                     | 保存与未知边界                                                                                                                                                                       |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026历史会期/光学适配 | [2026主页](https://www.european-mrs.com/meetings/2026-spring-meeting-exhibit)、[D光子器件混合集成专题](https://www.european-mrs.com/hybrid-integration-and-multiphysics-nanomaterials-photonic-devices-and-circuits-emrs)：5/25–29 Strasbourg Convention Centre；磁光/电光/非线性材料、N激光加工/O极化激元 | 5/24接待非会期；D是母会内专题不另计独立会议                                                                                                                                          |
+| 本届作者/费用/报告    | [2026 Practical Information](https://www.european-mrs.com/meetings/2026-spring/practical-information)实际读作者、海报/注册/费表：英文纯文本3000字符含空格，无图公式，可多稿/无摘要费/需正式提交；1/28 23:59 Paris延期，3/6最晚通知；普通含问答建议15分钟、A0竖海报贴胶带不用图钉                           | 1/28冬季Europe/Paris UTC+1精确可用。4/16前一般EUR640/学生380，之后790/480、现场850/530，未明确当天包容性。5/18 17:00 CET在夏季有歧义，保持日级；在线截止与现场费并存不保证可现场报名 |
+| 2027独立预告          | [2027页](https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit)、[专题提案通知](https://www.european-mrs.com/latest-news/spring-27-call-symposium-topics)、[日期列表](https://www.european-mrs.com/meetings/deadlines)均具体5/17–21同城Convention Centre                                       | 通用“last week of May”不覆盖具体日；本届symposia数量占位/名单未明，光学标签只系列线索。4/1/2026 organizer proposal非普通作者DDL；征稿/费用保持unknown，不搬2026                      |
+
+主页所称向适配专题期刊投稿、费表如适用的一卷proceedings均不保证全会统一论文集或实际EI/SCIE检索。记录emrs-spring-2026/2027，候选conference-series-632b4a2c04；历史准备与未来规则明确分开。
+
+### E-MRS Fall 2026/2027
+
+[2026主页](https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit)确认2026-09-14–17 Warsaw University of Technology中央校园；[F应用光学材料专题](https://www.european-mrs.com/applied-optical-materials-emerging-functionalities-emrs)实际读计算/成像、辐射冷却、传感、非线性/发光等范围。[2026 Practical Information](https://www.european-mrs.com/meetings/2026-fall/practical-information)实际读英文纯文本3000字符/无图公式、可多稿/无摘要费/需正式提交；6/9原文23:59无时区仅日级，7/15最晚通知；报告通常含问答15分钟，海报A0竖、无需胶带/图钉且无现场打印，和春季不同。
+
+历史费表8/17前一般EUR570/学生350、之后680/410、现场730/460。8/17 before/after与日期列表界限保持日级；在线9/7 17:00 CET的夏令时歧义保留，9/13现场接待非会期。会议主页邀请向适配期刊投稿，具体出版/实际索引未核，不把参会自动当录用。
+
+[2027独立官方页](https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit)及日期列表直接9/20–23华沙理工；当前10/15/2026是专题组织提案、12月底决定，非普通摘要，不混入学生论文DDL。本届光学专题/投稿细则与注册费用尚未知，未来普通摘要/注册null，不沿用历史3000字符或费表。记录emrs-fall-2026/2027，候选conference-series-d02307a863。
+
+本批旧91届/81系列/其他JSON及23刊样例全部保持，仅四候选六审核字段变化。没有登录、投稿、申请、邮件或付款；来源超时只用同URL普通浏览器读取。当前和未来/历史分别呈现，未知与冲突保留任务，其他规划继续。

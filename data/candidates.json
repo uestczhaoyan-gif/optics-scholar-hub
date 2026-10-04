@@ -1176,12 +1176,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光电材料、超表面、发光、光能转换等专题，不能整包导入所有材料方向",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["emrs-fall-2026", "emrs-fall-2027"],
+    "decisionReason": "2026F应用光学材料及光子专题、2027独立官方会期场馆确认；历史与专题提案/未来普通征稿分开。",
+    "nextAction": "10/15只是organizer proposal，待2027普通作者摘要/专题/注册公告；历史CET与早鸟边界保留。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-632b4a2c04",
@@ -1190,12 +1190,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光电材料、超表面、发光、光能转换等专题，不能整包导入所有材料方向",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["emrs-spring-2026", "emrs-spring-2027"],
+    "decisionReason": "2026历史光子混合集成/非线性专题及2027独立会期场馆均明示；旧指南与未来unknown分开。",
+    "nextAction": "待2027具体光学专题/普通摘要与费率；通用五月末描述不覆盖5/17–21，保留历史CET歧义。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-77d3928027",
@@ -1445,12 +1445,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光电材料、超表面、发光、光能转换等专题，不能整包导入所有材料方向",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["mrs-fall-2026"],
+    "decisionReason": "当届日城/会场与EL07光学子集确认；公开初轮CFP范围、当前费表独立读取，未把旧初轮或春季稿规当当前完整征稿。",
+    "nextAction": "核2026后续延期/晚海报及完整作者规则、报告材料/出版与后续Fall届次，不猜年度日程。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-ef5f36cccc",
@@ -1459,12 +1459,17 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光电材料、超表面、发光、光能转换等专题，不能整包导入所有材料方向",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": [
+      "mrs-spring-2027",
+      "mrs-spring-2028",
+      "mrs-spring-2029",
+      "mrs-spring-2030"
+    ],
+    "decisionReason": "2027当届光学计算/超表面/生物光子专题及稿规、会期确认；官方五年新闻支持2028–2030独立预告，具体主题/场馆仍未知。",
+    "nextAction": "优先10/14摘要与12月中旬通知；核2027注册/报告/出版边界，逐届跟踪2028–2030具体公告。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-8155a8a3f6",

@@ -7,8 +7,8 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：85 本期刊、91 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：273 项，176 admitted、92 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：85 本期刊、100 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，180 admitted、88 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
 - 交叉适配样例已有二十三刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
@@ -236,3 +236,7 @@ E20 80d6b09d8f599178561b9422d39680ee50dac698已验收[Pages37183642235](https://
 ## C21 器件/传感广度与未来深度（2026-10-04）
 
 E21 45c8ee77c9a4039f66051c1ce3e29043c234a990已验收[Pages37183967735](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183967735)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，8a43be02d3bff44c95a96fb80bb3ebcdbc925a7787bf5834b1cdfba2c212f77d与本地一致（2026-10-04T06:51:37.413Z）。 新增MEMS2027、SENSORS2026、IEDM2026/27/28及VLSI2027，四个稳定系列；正式85/91/10、81系列/9多届、273候选176/92/5，23刊样例与分区索引保持。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。两开放海报不出版，SENSORS10/5已录用展示文件与10/16新海报分开；MEMS10/27与系统12/4、SENSORS通知8/23–24等冲突保留。未来IEDM稿规/费用未知，VLSI详细指南尚待发布；其他材料/中文候选、期刊指南样例与索引分区继续。实际五小时51%/周41%允许，未用重置券；既有五小时任务保持。
+
+## C22 材料系列与2030未来深度（2026-10-04）
+
+C21 15316fae6cbca5a674d233f9d814afe94f5a8e21已验收[Pages37184918851](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37184918851)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，490b7e5d3bc18f4bd1a741b8a4ca501df3ffa7576972dcaf4e04f74477afd7c5与本地一致（2026-10-04T07:11:11.580Z）。 新增MRS Spring2027–2030/Fall2026及E-MRS春秋2026/2027共九届、四系列；当前85/100/10、85系列/12多届、273候选180/88/5，23刊样例及分区索引保持。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。MRS2027摘要10/14精确ET、4000字符/无图/SUBMIT及12月中旬通知已核；远期城市会期明示但场馆/规则未知。E-MRS历史3000字符/各届海报和费用分别保存，2027组织提案不是普通摘要；CET歧义留日级。下一批回逐刊指南/材料交叉样例、其他候选与临近维护；实际五小时65%/周44%允许，未用重置券，既有任务保持。

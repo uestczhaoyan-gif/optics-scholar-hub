@@ -4760,5 +4760,398 @@
         "source": "https://2026.ieee-sensorsconference.org/registration"
       }
     ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "mrs-spring-2027",
+    "series": "MRS Spring Meeting",
+    "year": 2027,
+    "name": "MRS春季材料研究学术会议 2027",
+    "nameEn": "2027 MRS Spring Meeting & Exhibit",
+    "location": "美国 · 华盛顿州西雅图",
+    "venue": "Summit at Seattle Convention Center及Hyatt Regency Seattle",
+    "start": "2027-04-05",
+    "end": "2027-04-09",
+    "topics": ["光学材料", "纳米与超表面", "集成光子", "生物医学光学"],
+    "description": "综合材料学术会议；当届EL06–08等含光子界面、超表面/等离激元和集成光学计算，SB05为纳米生物光子。只适配相应光学材料/器件专题，附带展览不另计论文会议。",
+    "website": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit",
+    "notice": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "当届两页指南列题名与摘要文字≤4000字符含空格，不收图片/图形/图表；关键词最多3个。指南连列题名/正文，系统分项/合计计数未进登录核实，按实际表单限制准备。",
+      "Abstract Central需作者/单位/邮箱、专题及口头/海报偏好，非MRS会员也可投稿；仅获明确邀请才能选Invited，最终报告形式及专题转投由组织者决定。",
+      "同一摘要只提交一次，重复会被删除；必须最后SUBMIT，保存草稿不送审。结果拟12月中旬，无具体日不造通知日期；注册入口/2027费率及报告文件规则仍待本届公告。"
+    ],
+    "publication": "本轮核实摘要评选和口头/海报路径，未确认2027统一会议论文集、出版费或实际数据库索引；会议报告和MRS期刊独立录用分开。",
+    "notes": "2026-10-14 23:59 ET为当届明示截止（America/New_York当日UTC−4）。主页/CFP与PDF指南正常浏览器/只读下载核实；未登录Abstract Central。2028–2030官方未来日程另记预告，2027稿规不迁入。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027普通摘要提交截止",
+        "at": "2026-10-14T23:59:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts"
+      },
+      {
+        "type": "notification",
+        "label": "拟2026年12月中旬通知，具体日待公布",
+        "date": null,
+        "source": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts"
+      },
+      {
+        "type": "registration",
+        "label": "2027注册入口/费率和截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "mrs-spring-2028",
+    "series": "MRS Spring Meeting",
+    "year": 2028,
+    "name": "MRS春季材料研究学术会议 2028（会期预告）",
+    "nameEn": "2028 MRS Spring Meeting & Exhibit",
+    "location": "加拿大 · 不列颠哥伦比亚省温哥华",
+    "venue": "具体会场尚未公布",
+    "start": "2028-03-27",
+    "end": "2028-03-31",
+    "topics": ["光学材料", "集成光子"],
+    "description": "MRS官方五年会期公告直接明示的未来届次。系列含材料光学/光子交叉研究；本届光学专题尚未公布，适配标签为系列线索，不代表当届全部材料研究均属光学。",
+    "website": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030",
+    "notice": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "官方当前只确认日期与城市，具体场馆、专题、摘要/模板、注册/费用和报告流程均待本届公告；不套用2027的4000字符或费用。"
+    ],
+    "publication": "未来会期新闻未确认本届论文集/期刊轨道、出版费或实际数据库索引。",
+    "notes": "会期来自2026-02-16学会正式新闻，不按轮换周期推算；2030跨4/5月分别保留，未来公告变化仍需逐届复核。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "本届征稿/摘要截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+      },
+      {
+        "type": "registration",
+        "label": "本届注册/费用和截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "mrs-spring-2029",
+    "series": "MRS Spring Meeting",
+    "year": 2029,
+    "name": "MRS春季材料研究学术会议 2029（会期预告）",
+    "nameEn": "2029 MRS Spring Meeting & Exhibit",
+    "location": "美国 · 华盛顿州西雅图",
+    "venue": "具体会场尚未公布",
+    "start": "2029-04-09",
+    "end": "2029-04-13",
+    "topics": ["光学材料", "集成光子"],
+    "description": "MRS官方五年会期公告直接明示的未来届次。系列含材料光学/光子交叉研究；本届光学专题尚未公布，适配标签为系列线索，不代表当届全部材料研究均属光学。",
+    "website": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030",
+    "notice": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "官方当前只确认日期与城市，具体场馆、专题、摘要/模板、注册/费用和报告流程均待本届公告；不套用2027的4000字符或费用。"
+    ],
+    "publication": "未来会期新闻未确认本届论文集/期刊轨道、出版费或实际数据库索引。",
+    "notes": "会期来自2026-02-16学会正式新闻，不按轮换周期推算；2030跨4/5月分别保留，未来公告变化仍需逐届复核。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "本届征稿/摘要截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+      },
+      {
+        "type": "registration",
+        "label": "本届注册/费用和截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "mrs-spring-2030",
+    "series": "MRS Spring Meeting",
+    "year": 2030,
+    "name": "MRS春季材料研究学术会议 2030（会期预告）",
+    "nameEn": "2030 MRS Spring Meeting & Exhibit",
+    "location": "美国 · 夏威夷州檀香山",
+    "venue": "具体会场尚未公布",
+    "start": "2030-04-28",
+    "end": "2030-05-03",
+    "topics": ["光学材料", "集成光子"],
+    "description": "MRS官方五年会期公告直接明示的未来届次。系列含材料光学/光子交叉研究；本届光学专题尚未公布，适配标签为系列线索，不代表当届全部材料研究均属光学。",
+    "website": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030",
+    "notice": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "官方当前只确认日期与城市，具体场馆、专题、摘要/模板、注册/费用和报告流程均待本届公告；不套用2027的4000字符或费用。"
+    ],
+    "publication": "未来会期新闻未确认本届论文集/期刊轨道、出版费或实际数据库索引。",
+    "notes": "会期来自2026-02-16学会正式新闻，不按轮换周期推算；2030跨4/5月分别保留，未来公告变化仍需逐届复核。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "本届征稿/摘要截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+      },
+      {
+        "type": "registration",
+        "label": "本届注册/费用和截止待公布",
+        "date": null,
+        "source": "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "mrs-fall-2026",
+    "series": "MRS Fall Meeting",
+    "year": 2026,
+    "name": "MRS秋季材料研究学术会议 2026",
+    "nameEn": "2026 MRS Fall Meeting & Exhibit",
+    "location": "美国 · 马萨诸塞州波士顿",
+    "venue": "Hynes Convention Center及Sheraton Boston Hotel",
+    "start": "2026-11-29",
+    "end": "2026-12-04",
+    "topics": ["光学材料", "纳米与超表面", "集成光子", "生物医学光学"],
+    "description": "综合材料学术会议，当届EL07明确纳米光子/超表面/等离激元及光子器件、生物传感等专题。按光学材料交叉子集收录，展览不是另一个论文会议。",
+    "website": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
+    "notice": "https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2026/f26-mrs-call-for-abstracts-3-20-26.pdf?sfvrsn=ee77ae88_4",
+    "registration": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration",
+    "submissionState": "published",
+    "requirements": [
+      "公开初轮CFP列普通摘要6月17日23:59 ET，已过；当前主页未见普通新投入口。本轮未核后续延期/晚海报政策及摘要字符细则，不用2027春季规则替代。",
+      "当前注册已开放，需要MRS账户；10月29日前一般$1240/会员$1085、学生$380/学生会员$335，10月30日起分别$1360/$1185/$405/$360。原表$未明确币种，研究身份折扣按费表核对。",
+      "注册含MRS会员至2027年11月30日；10月29日前书面取消扣$50，10/30–11/28扣$250，开会后不退款。这是2026参会费及取消安排，非出版费。"
+    ],
+    "publication": "本轮核CFP摘要报告与注册安排，未核2026统一论文集、独立出版费或实际EI/SCIE单篇收录；相关期刊投稿不是参会自动录用。",
+    "notes": "68页CFP本轮仅第一页图像会期/初轮截止及第13页EL07范围抽取和渲染，未声称通读全专题或全部稿规；当前主页/注册正常浏览器可读。11/29–12/4为学术会议总跨度，展览单独安排不改变会期；后续Fall届次待核，不从周期造日期。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "初轮普通摘要截止（已过；后续延期未核）",
+        "at": "2026-06-17T23:59:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2026/f26-mrs-call-for-abstracts-3-20-26.pdf?sfvrsn=ee77ae88_4"
+      },
+      {
+        "type": "registration",
+        "label": "2026预注册优惠费截止（非关闭）",
+        "at": "2026-10-29T23:59:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration"
+      },
+      {
+        "type": "registration",
+        "label": "最终报名关闭日未核",
+        "date": null,
+        "source": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "emrs-spring-2026",
+    "series": "E-MRS Spring Meeting",
+    "year": 2026,
+    "name": "E-MRS欧洲材料研究春季会议 2026（历史届次）",
+    "nameEn": "2026 E-MRS Spring Meeting & Exhibit",
+    "location": "法国 · 斯特拉斯堡",
+    "venue": "Strasbourg Convention & Exhibition Centre（Palais de la Musique et des Congrès）",
+    "start": "2026-05-25",
+    "end": "2026-05-29",
+    "topics": ["光学材料", "集成光子", "激光与非线性"],
+    "description": "综合材料历史学术会议；D专题光子混合集成、磁光/电光及非线性材料，N激光材料加工、O极化激元，按这些光学子集适配。",
+    "website": "https://www.european-mrs.com/meetings/2026-spring-meeting-exhibit",
+    "notice": "https://www.european-mrs.com/meetings/2026-spring/practical-information",
+    "registration": "https://www.european-mrs.com/meetings/2026-spring/practical-information",
+    "submissionState": "published",
+    "requirements": [
+      "2026英文纯文本摘要≤3000字符含空格，无图/公式；可多稿、无摘要投稿费，Key4Events中必须正式提交，草稿不评审。延期至1月28日23:59 Paris，结果最晚3月6日。",
+      "一般报告建议含问答15分钟，具体由专题决定；海报A0竖式、贴胶带不用图钉，作者到场交流并移除，未报告不入最终program。",
+      "仅2026历史费表：4月16日前一般EUR640/学生380，之后790/480，现场850/530；学生要证明。录用不等于注册，每参会人需付费。在线5月18日关闭文字与现场费同时出现，不能据此承诺现场补报名。"
+    ],
+    "publication": "本届主页邀请将科学论文另投适配专题所选期刊；费表提及如适用的一卷proceedings，不证明统一会议录/特定期刊录用或实际数据库索引。具体期刊及出版费待独立核实。",
+    "notes": "已结束，保存历史准备参考；5/24仅接待/注册非会期。在线注册原文May18 5pm CET，夏季Paris时区歧义保留日期级；4/16费率边界未明确含当天，不能自动当23:59。2027有独立页/会期，旧3000字符与费用/海报安装规则不迁入。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2026普通摘要延期截止（历史）",
+        "at": "2026-01-28T23:59:00+01:00",
+        "timezone": "Europe/Paris",
+        "source": "https://www.european-mrs.com/meetings/2026-spring/practical-information"
+      },
+      {
+        "type": "notification",
+        "label": "最晚录用/报告形式通知（历史）",
+        "date": "2026-03-06",
+        "source": "https://www.european-mrs.com/meetings/2026-spring/practical-information"
+      },
+      {
+        "type": "registration",
+        "label": "2026在线注册界限（原文17:00 CET有夏令时歧义）",
+        "date": "2026-05-18",
+        "source": "https://www.european-mrs.com/meetings/2026-spring/practical-information"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "emrs-fall-2026",
+    "series": "E-MRS Fall Meeting",
+    "year": 2026,
+    "name": "E-MRS欧洲材料研究秋季会议 2026（历史届次）",
+    "nameEn": "2026 E-MRS Fall Meeting & Exhibit",
+    "location": "波兰 · 华沙",
+    "venue": "Warsaw University of Technology中央校园（Pl. Politechniki 1）",
+    "start": "2026-09-14",
+    "end": "2026-09-17",
+    "topics": ["光学材料", "集成光子", "传感与测量", "成像与计算光学"],
+    "description": "综合材料历史会议；F应用光学材料覆盖无序光子计算/成像、辐射冷却、光学传感/非线性/发光，L生物光子材料等专题。仅光学相关子集，非整个材料会议都属光学。",
+    "website": "https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit",
+    "notice": "https://www.european-mrs.com/meetings/2026-fall/practical-information",
+    "registration": "https://www.european-mrs.com/meetings/2026-fall/practical-information",
+    "submissionState": "published",
+    "requirements": [
+      "2026英文纯文本摘要≤3000字符，无图/公式，可多稿、无摘要费；在线必须正式提交，6月9日23:59原文未给时区，通知最晚7月15日。",
+      "一般口头建议含问答15分钟，具体由专题定；海报A0竖向841×1189mm，无需胶带或图钉，作者到场并移除，无现场打印。与春季安装/打印安排不同。",
+      "2026历史费表8月17日前一般EUR570/学生350，之后680/410，现场730/460；学生证明，各参会者独立注册付款。在线9月7日17:00 CET与9/13现场注册分开，不能把接待日作会期。"
+    ],
+    "publication": "主会邀请作者另投各专题适配期刊；注册包括如适用的一卷proceedings，未确认全会统一论文集、具体期刊录用或实际索引。",
+    "notes": "历史已结束，6/9仅日期保存而不补Warsaw时区。在线9/7原文CET在夏季有歧义；早鸟写before/after8/17与deadlines页8/17并存，保留日级，不造时刻或当天包容性。2027只专题提案与会期，不沿用2026稿长费率。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2026摘要新截止（原文23:59无时区；历史）",
+        "date": "2026-06-09",
+        "source": "https://www.european-mrs.com/meetings/2026-fall/practical-information"
+      },
+      {
+        "type": "notification",
+        "label": "最晚录用及报告形式通知（历史）",
+        "date": "2026-07-15",
+        "source": "https://www.european-mrs.com/meetings/2026-fall/practical-information"
+      },
+      {
+        "type": "registration",
+        "label": "会前费率界限（历史；当天边界待核）",
+        "date": "2026-08-17",
+        "source": "https://www.european-mrs.com/meetings/deadlines"
+      },
+      {
+        "type": "registration",
+        "label": "在线注册界限（原文17:00 CET歧义；历史）",
+        "date": "2026-09-07",
+        "source": "https://www.european-mrs.com/meetings/2026-fall/practical-information"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "emrs-spring-2027",
+    "series": "E-MRS Spring Meeting",
+    "year": 2027,
+    "name": "E-MRS欧洲材料研究春季会议 2027（会期预告）",
+    "nameEn": "2027 E-MRS Spring Meeting & Exhibit",
+    "location": "法国 · 斯特拉斯堡",
+    "venue": "Strasbourg Convention & Exhibition Centre",
+    "start": "2027-05-17",
+    "end": "2027-05-21",
+    "topics": ["光学材料", "集成光子"],
+    "description": "官方当届页已确认的材料学术会议预告；系列有光学材料/光子集成子集，本届具体光学专题尚未完成发布，标签仅为系列适配线索。",
+    "website": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+    "notice": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "当前仅会期/场馆及专题组织安排，普通作者摘要截止、字符规则/系统、注册/费率与报告细则待本届公告；不套2026要求。"
+    ],
+    "publication": "主页提到向专题所选期刊投稿，具体2027期刊/费用及实际数据库索引未知；会前专题提案不等于普通作者录用。",
+    "notes": "官方具体页与日程均5/17–21；通用“always last week of May”不用于推算或覆盖本届日期。专题提案4/1/2026已过，不当普通摘要截止。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027普通作者摘要截止待公布（非专题提案）",
+        "date": null,
+        "source": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit"
+      },
+      {
+        "type": "registration",
+        "label": "2027注册/费用和截止待公布",
+        "date": null,
+        "source": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "emrs-fall-2027",
+    "series": "E-MRS Fall Meeting",
+    "year": 2027,
+    "name": "E-MRS欧洲材料研究秋季会议 2027（会期预告）",
+    "nameEn": "2027 E-MRS Fall Meeting & Exhibit",
+    "location": "波兰 · 华沙",
+    "venue": "Warsaw University of Technology",
+    "start": "2027-09-20",
+    "end": "2027-09-23",
+    "topics": ["光学材料", "集成光子"],
+    "description": "官方当届页已确认的材料学术会议预告；系列有光学材料/光子集成子集，本届具体光学专题尚未完成发布，标签仅为系列适配线索。",
+    "website": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit",
+    "notice": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "当前仅会期/场馆及专题组织安排，普通作者摘要截止、字符规则/系统、注册/费率与报告细则待本届公告；不套2026要求。"
+    ],
+    "publication": "主页提到向专题所选期刊投稿，具体2027期刊/费用及实际数据库索引未知；会前专题提案不等于普通作者录用。",
+    "notes": "当前10/15/2026是专题组织提案，拟12月底决定，非普通作者摘要；不将其放入论文DDL。普通征稿/专题名单待发布。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027普通作者摘要截止待公布（非专题提案）",
+        "date": null,
+        "source": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit"
+      },
+      {
+        "type": "registration",
+        "label": "2027注册/费用和截止待公布",
+        "date": null,
+        "source": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit"
+      }
+    ]
   }
 ]

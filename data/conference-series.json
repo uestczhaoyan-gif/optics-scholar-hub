@@ -1017,5 +1017,68 @@
       "https://ieee-sensors.org/wp-content/uploads/2023/07/sensors26-cfp_web-02.pdf"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-ef5f36cccccf",
+    "name": "MRS Spring Meeting",
+    "aliases": [],
+    "editionIds": [
+      "mrs-spring-2027",
+      "mrs-spring-2028",
+      "mrs-spring-2029",
+      "mrs-spring-2030"
+    ],
+    "website": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit",
+    "sources": [
+      "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit",
+      "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts",
+      "https://www.mrs.org/docs/default-source/meetings-events/spring-meetings/2027/s27-abstract-submission-guidelines.pdf?sfvrsn=7f521c00_3",
+      "https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-9028ec0d2a88",
+    "name": "MRS Fall Meeting",
+    "aliases": [],
+    "editionIds": ["mrs-fall-2026"],
+    "website": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
+    "sources": [
+      "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
+      "https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2026/f26-mrs-call-for-abstracts-3-20-26.pdf?sfvrsn=ee77ae88_4",
+      "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-632b4a2c043a",
+    "name": "E-MRS Spring Meeting",
+    "aliases": [],
+    "editionIds": ["emrs-spring-2026", "emrs-spring-2027"],
+    "website": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+    "sources": [
+      "https://www.european-mrs.com/meetings/2026-spring-meeting-exhibit",
+      "https://www.european-mrs.com/meetings/2026-spring/practical-information",
+      "https://www.european-mrs.com/hybrid-integration-and-multiphysics-nanomaterials-photonic-devices-and-circuits-emrs",
+      "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+      "https://www.european-mrs.com/meetings/deadlines",
+      "https://www.european-mrs.com/latest-news/spring-27-call-symposium-topics"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-d02307a86371",
+    "name": "E-MRS Fall Meeting",
+    "aliases": [],
+    "editionIds": ["emrs-fall-2026", "emrs-fall-2027"],
+    "website": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit",
+    "sources": [
+      "https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit",
+      "https://www.european-mrs.com/meetings/2026-fall/practical-information",
+      "https://www.european-mrs.com/applied-optical-materials-emerging-functionalities-emrs",
+      "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit",
+      "https://www.european-mrs.com/meetings/deadlines"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]
