@@ -1198,5 +1198,24 @@
       "https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf"
     ],
     "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-72c45945fc88",
+    "name": "International Conference on Medical Image Computing and Computer Assisted Intervention",
+    "aliases": ["MICCAI"],
+    "editionIds": ["miccai-2026", "miccai-2028"],
+    "website": "https://miccai.org/upcoming-conferences/",
+    "sources": [
+      "https://miccai.org/upcoming-conferences/",
+      "https://miccai.org/2026/02/18/announcing-miccai-2027-and-miccai-2028-locations/",
+      "https://conferences.miccai.org/2026/en/",
+      "https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html",
+      "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html",
+      "https://conferences.miccai.org/2026/en/REGISTRATION.html",
+      "https://conferences.miccai.org/2026/en/OPEN-ACCESS-AND-PROCEEDINGS.html",
+      "https://papers.miccai.org/miccai-2026/",
+      "https://conferences.miccai.org/2026/en/workshops.asp"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
   }
 ]

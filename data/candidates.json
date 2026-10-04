@@ -1431,12 +1431,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学/医学成像方法专题，注意不同出版方式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://miccai.org/upcoming-conferences/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["miccai-2026", "miccai-2028"],
+    "decisionReason": "当届官方日城已核；2026主会公开目录确认光片显微/共聚焦内镜/光声子集，2028官方预告明确但稿规未知。2027起日冲突未收正式届。",
+    "nextAction": "解决2027 Society Upcoming9/26与公告9/27起日冲突；补2028具体场馆/征稿/注册/出版，不移植2026规则；2026公开时段冲突保留。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-9028ec0d2a",

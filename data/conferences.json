@@ -5701,5 +5701,129 @@
         "source": "https://www.isscc.org/"
       }
     ]
+  },
+  {
+    "series": "International Conference on Medical Image Computing and Computer Assisted Intervention",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "miccai-2026",
+    "year": 2026,
+    "name": "医学图像计算与计算机辅助干预会议 MICCAI 2026（历史届次）",
+    "nameEn": "29th International Conference on Medical Image Computing and Computer Assisted Intervention",
+    "region": "海外",
+    "location": "法国 · 斯特拉斯堡",
+    "venue": "Strasbourg Convention Center",
+    "start": "2026-09-27",
+    "end": "2026-10-01",
+    "submissionState": "published",
+    "website": "https://conferences.miccai.org/2026/en/",
+    "notice": "https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html",
+    "registration": "https://conferences.miccai.org/2026/en/REGISTRATION.html",
+    "description": "综合医学图像与辅助干预学术会；正式论文目录包含光片荧光显微、共聚焦激光内镜拼接与光声重建。仅这些成像/内镜/计算病理子集条件适配生医光学，其他医学AI不自动为光学主题。",
+    "requirements": [
+      "主会普通稿历史要求：必须先注册投稿意向（题名、完整作者/冲突列表、主题、摘要），再交全文；CMT入口 https://cmt3.research.microsoft.com/MICCAI2026/Submission/Index 。至少一位合作者报名评审，每篇须提名独立评审者；不是参会缴费注册。来源：https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html",
+      "可检索PDF，使用2026 LaTex/Word模板；正文/图表/结论/致谢最多8页，另最多2页参考文献，不改模板格式。双盲含补充、代码/数据仓库；独立Novelty/Impact说明最多500字符，不当摘要长度。模板ZIP和作者CMT指南PDF内部未读。",
+      "2026补充仅适用技术所需视频：单ZIP自包含，avi/mp4/wmv加README列各视频codec；不收一般补充PDF（匿名引用未发表论文例外）、证明/额外结果/分析/嵌入幻灯片，审稿人无必须阅读义务。不得套到2028。",
+      "至少一位注册作者现场展示；紧急情况可向Program Committee申请例外，常规旅行/经费原因不自动豁免。一个注册可展示多稿仅在为这些稿件first author时；完整作者注册截止6/26。",
+      "2026主会早鸟至8/21（含当日），之后晚价；student member/nonmember EUR500/600→600/750，regular member/nonmember820/950→980/1100，含VAT，付款到帐日决定价格。主会科学session为9/28–30；Workshop9/27与10/1另收费，参加两日须分别付费。来源：https://conferences.miccai.org/2026/en/REGISTRATION.html"
+    ],
+    "publication": "主会录用稿由Springer LNCS出版，官网列19卷入口；Society提供主会开放论文与独立卫星论文入口，Springer免费访问为会议首日起4周。只核官网入口/公开目录，不声称逐卷或实际EI/SCIE单篇检索。指南称不早于会前2周，Dates称不早于9/21，具体首次公开日冲突未定，不把计划当实际上线日。来源：https://conferences.miccai.org/2026/en/OPEN-ACCESS-AND-PROCEEDINGS.html",
+    "notes": "Society Upcoming明确本届由Abu Dhabi迁Strasbourg并修订至9/27–10/1，已与现主页/注册核对；完整活动9/27–10/1、主会科学session9/28–30、Workshop两端分开。2027 Upcoming9/26–10/1与Society公告9/27–10/1起日冲突，暂不正式入选。退款页处理时段末句仍写MICCAI2025，未解释为2026退款保证。仅已核普通稿/主会注册，临床日及卫星独立征稿规则未逐项核验。公开目录只核相关题名，不声称光学论文全文审计。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史主会投稿意向/摘要注册（非缴费）",
+        "at": "2026-02-12T23:59:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html"
+      },
+      {
+        "type": "paper",
+        "label": "历史主会全文与补充截止",
+        "at": "2026-02-26T23:59:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html"
+      },
+      {
+        "type": "notification",
+        "label": "历史早期录用通知",
+        "date": "2026-05-07",
+        "source": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html",
+        "note": "官网EOD Pacific Time，未给具体钟点，保留日期级。"
+      },
+      {
+        "type": "notification",
+        "label": "历史其余稿件决定通知",
+        "date": "2026-06-12",
+        "source": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html",
+        "note": "官网EOD Pacific Time，未给具体钟点。"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史早期录用稿终稿",
+        "date": "2026-05-25",
+        "source": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史其他录用稿终稿",
+        "date": "2026-06-26",
+        "source": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html"
+      },
+      {
+        "type": "registration",
+        "label": "历史作者会议注册截止",
+        "date": "2026-06-26",
+        "source": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html"
+      },
+      {
+        "type": "registration",
+        "label": "历史主会早鸟费率截止",
+        "date": "2026-08-21",
+        "source": "https://conferences.miccai.org/2026/en/REGISTRATION.html",
+        "note": "付款到帐日决定费率，具体时刻未给。"
+      }
+    ]
+  },
+  {
+    "series": "International Conference on Medical Image Computing and Computer Assisted Intervention",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "miccai-2028",
+    "year": 2028,
+    "name": "医学图像计算与计算机辅助干预会议 MICCAI 2028（未来预告）",
+    "nameEn": "International Conference on Medical Image Computing and Computer Assisted Intervention 2028",
+    "region": "海外",
+    "location": "巴西 · 圣保罗",
+    "venue": "具体场馆待当届官方公告",
+    "start": "2028-10-16",
+    "end": "2028-10-20",
+    "submissionState": "unknown",
+    "website": "https://miccai.org/upcoming-conferences/",
+    "notice": "https://miccai.org/2026/02/18/announcing-miccai-2027-and-miccai-2028-locations/",
+    "registration": null,
+    "description": "MICCAI Society已公布2028圣保罗会期，供错过本届者提前规划。生医计算成像/显微/内镜方向仅依据既有系列的条件适配，2028具体主题尚待本届征稿。",
+    "requirements": [
+      "Society Upcoming与2027/2028正式地点公告一致确认2028-10-16–20 São Paulo。征稿、模板/篇幅、评审、作者注册及费用均未核，不沿用2026的8+2页、视频限制或现场注册规则。"
+    ],
+    "publication": "2028当届论文集/公开方式/实际索引尚未核实；系列2026的LNCS出版安排不作未来单篇收录保证。",
+    "notes": "官方日城已明确，主会/卫星日程、具体场馆与各稿型另待公告；2027两Society页面起日冲突单独待核，不强行填一个日期。未登录、提交或注册。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2028普通论文截止待当届公告",
+        "date": null,
+        "source": "https://miccai.org/upcoming-conferences/",
+        "note": "官网Paper Submission Deadline: To Be Announced。"
+      },
+      {
+        "type": "registration",
+        "label": "2028作者注册/费用待当届公告",
+        "date": null,
+        "source": "https://miccai.org/upcoming-conferences/"
+      }
+    ]
   }
 ]
