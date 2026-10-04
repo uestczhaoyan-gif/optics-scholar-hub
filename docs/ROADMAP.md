@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 11 / 85          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 78 / SCIE 72  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 72 / ESCI 11 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十五刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E22 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十七刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E25 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -585,3 +585,7 @@ C23 2a6036bc3d39f5c2f7f85b49d1f67146562ce731已验收[Pages37187049524](https://
 ## E24：染料/工业电子当前投稿边界（2026-10-04）
 
 交接8ad95d30bd3e40741f94354f3827b9a74169d543已确认[Pages37187756331](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37187756331)：build/deploy及完整CI成功，首页/版本HTTP200，fce85f64fa7ddd533d6a658c68153f3937ccb3c37b02a91516816a6c903368a8与本地一致（2026-10-04T13:07:37.373Z）。 Dyes and Pigments当前短文/提案、Highlights/图形摘要、化合物/光谱资料、Option C与USD3850不含税已核；TIE当前10/12页与4/6页、机构邮箱/ORCID/硬件实验、2026 US$2800及范围排除已核，旧最终文件页8/10页和超页价冲突明确保留，[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。只指定六字段、原范围条/完整核验日/分区索引/样例与其他83刊及所有其他JSON保持。85/103/10、88系列/12多届、273183/85/5及25刊样例不变。 概览表遗留106修正为实际103，历史执行数不重写。TIE收录是工业电子工程参考，不保证纯光学稿件适配；费用冲突/摘要/模板细节继续开放，其他规划继续。
+
+## E25：胶体与染料实际光学适配（2026-10-04）
+
+E24 ac8c06c1fd0f172d6491638e3c201e6a8f2058f0已验收[Pages37205097390](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37205097390)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，74a50336a2631a7205e7d80aae9b6346d66fcdf888b27b15e2740bc15ae362c0与本地一致（2026-10-04T13:18:26.719Z）。 JCIS/DYPI各三篇不同卷近两年原始光学论文，核出版社原题/DOI/公开摘要及首次在线、VOR与期次，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。结构色自组装/水凝胶/涂层及有机比率/NIR/潜指纹成像分开；未来月份期次已在此前上线，不造月份中的具体日。仅两scopeExamples，其他83刊/旧25刊样例、指南/日期/分区索引及全部其他JSON保持，至少三篇刊数25→27。85/103/10、88系列12多届、273183/85/5保持。 公开摘要适配不当全部全文数据审计，也不从论文推分区或当前索引；其他规划继续。

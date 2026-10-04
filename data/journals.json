@@ -3892,7 +3892,27 @@
       "当前官网提交入口 https://submit.elsevier.com/JCIS ；提供可编辑doc/docx或tex源文件，Word单栏，LaTeX可双栏，PDF不作可编辑源文件，系统生成评审PDF。单盲评审，通常至少两位评审人；补充材料随稿提交、正文引用并附说明，返修阶段才增加/替换。",
       "研究数据适用本刊Option C：要求存入相关数据仓库并引用/链接；不能分享时说明原因，初投必须提供数据可用性声明。来源 https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/guide-for-authors 。"
     ],
-    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；全部稿型OA APC USD 4820（不含税），个人条件/机构协议可影响实际报价。订阅路径无OA出版费，不等于全部潜在收费为零。当前列CC BY、CC BY-NC、CC BY-NC-ND，作者保留版权；出版选择不影响评审/录用。订阅文章作者接受稿经机构库开放的禁限期为24个月，自最终可引用版本正式上线起算，已发表版本公开分享仍有政策限制；具体适用协议另核。来源 https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/open-access-options 。"
+    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；全部稿型OA APC USD 4820（不含税），个人条件/机构协议可影响实际报价。订阅路径无OA出版费，不等于全部潜在收费为零。当前列CC BY、CC BY-NC、CC BY-NC-ND，作者保留版权；出版选择不影响评审/录用。订阅文章作者接受稿经机构库开放的禁限期为24个月，自最终可引用版本正式上线起算，已发表版本公开分享仍有政策限制；具体适用协议另核。来源 https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/open-access-options 。",
+    "scopeExamples": [
+      {
+        "title": "Local stress-assisted fabrication of supramolecular structural color materials for anti-counterfeiting applications",
+        "source": "https://doi.org/10.1016/j.jcis.2025.138884",
+        "publishedAt": "2025-08-30",
+        "relevance": "2026-10-04核验出版社页头、公开摘要及发表历史：局部应力辅助胶体粒子组装为有序超分子光子晶体，结构色薄膜/图案用于显示、防伪与信息编码，适配自组装光学材料与界面机制。Volume702,Part1,138884，期次2026-01-15；Available online2025-08-30、Version of Record09-02。仅公开资料适配，未复核全文全部实验或规模化生产能力。"
+      },
+      {
+        "title": "Mechanically tunable structural color hydrogel with MXene/PEDOT:PSS conductive networks for dual-channel information encoding",
+        "source": "https://doi.org/10.1016/j.jcis.2026.140020",
+        "publishedAt": "2026-02-04",
+        "relevance": "2026-10-04核验出版社页头、公开摘要及发表历史：蛋白石模板光子晶体与MXene/PEDOT:PSS导电水凝胶，形变产生可逆结构色/电阻双响应，手指运动莫尔斯编码演示，适配结构色与柔性光电传感。Volume710,140020，期次2026-05-15；Available online02-04、Version of Record02-10。仅公开摘要适配，不当可穿戴器械认证。"
+      },
+      {
+        "title": "Multifunctional polymer colloidal microspheres for stimuli-responsive structural color coatings with intrinsic antibacterial activity",
+        "source": "https://doi.org/10.1016/j.jcis.2026.140551",
+        "publishedAt": "2026-04-16",
+        "relevance": "2026-10-04核验出版社页头、公开摘要及发表历史：聚合物胶体微球在织物自组装结构色涂层，水/pH响应光学读出和抗菌组分结合，适配胶体光子晶体、颜色传感与界面材料。Volume718,140551，期次2026-09-15；Available online04-16、Version of Record04-18。抗菌/汗液pH应用为论文演示，不扩为临床有效性结论。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3951,7 +3971,27 @@
       "完整研究稿的详细实验方法和化合物表征须在正文；短文的相应方法/表征在ESI补充。所有新化合物及分离中间体按当刊要求提供鉴定；相关UV–Vis/荧光等数据注明介质、波长及相应光谱参数，荧光寿命为理想补充而非统一硬要求。晶体结构须提交CCDC编号并在ESI附CIFCheck，具体适用样品按指南核对。",
       "本刊Research data为Option C：要求存相关仓库并引用/链接，不能共享须说明原因；初投数据可用性声明必需。允许合规分享预印本，不算先前发表；可选SSRN预印本服务并不影响评审。来源 https://www.sciencedirect.com/journal/dyes-and-pigments/publish/guide-for-authors 。"
     ],
-    "publishing": "2026-10-04当刊官方OA页：订阅或Gold OA可选，全部稿型OA APC USD 3850、不含税，实际个人/机构协议报价另核。订阅路径无OA出版费，不等于所有潜在费用为零；当前列CC BY/CC BY-NC/CC BY-NC-ND，作者保留版权，出版选择不影响评审/录用。订阅接受稿机构库自存档禁限期24个月，自最终可引用版本正式上线起算。来源 https://www.sciencedirect.com/journal/dyes-and-pigments/publish/open-access-options 。"
+    "publishing": "2026-10-04当刊官方OA页：订阅或Gold OA可选，全部稿型OA APC USD 3850、不含税，实际个人/机构协议报价另核。订阅路径无OA出版费，不等于所有潜在费用为零；当前列CC BY/CC BY-NC/CC BY-NC-ND，作者保留版权，出版选择不影响评审/录用。订阅接受稿机构库自存档禁限期24个月，自最终可引用版本正式上线起算。来源 https://www.sciencedirect.com/journal/dyes-and-pigments/publish/open-access-options 。",
+    "scopeExamples": [
+      {
+        "title": "A coumarin-thiazole orange conjugate as a near-infrared ratiometric fluorescent probe for G-quadruplex DNA",
+        "source": "https://doi.org/10.1016/j.dyepig.2025.113513",
+        "publishedAt": "2025-12-20",
+        "relevance": "2026-10-04核验出版社页头、公开摘要及发表历史：香豆素–噻唑橙共轭4TO-Cur探针，G4 DNA结合诱导聚集/限制转动，515/680nm双发射实现NIR比率检测并演示细胞成像/逻辑门，适配有机荧光与分子光学传感。Volume247,113513，期次2026-04（只月份）；Available online2025-12-20、Version of Record12-22。未据生物成像演示推断治疗/诊断性能。"
+      },
+      {
+        "title": "A Large Stokes Shift NIR Fluorescent Probe for Sulfur Dioxide Detection: Multi-material substrate visual detection, smartphone-assisted sensing, bioimaging and food monitoring applications",
+        "source": "https://doi.org/10.1016/j.dyepig.2026.113832",
+        "publishedAt": "2026-05-11",
+        "relevance": "2026-10-04核验出版社页头、公开摘要及发表历史：有机QBS探针以近红外荧光增强与比色检测亚硫酸氢根，食品/细胞和斑马鱼成像、传感芯片及手机读出，适配染料分子光谱响应和便携分析。Volume253,113832，期次2026-10（只月份）；Available online05-11、Version of Record05-15。模型/食品检测不等于临床或食品监管批准。"
+      },
+      {
+        "title": "Structure-function decoupled water-soluble fluorescent probes for high-contrast imaging of latent fingerprints with Level-3 details",
+        "source": "https://doi.org/10.1016/j.dyepig.2026.113963",
+        "publishedAt": "2026-06-20",
+        "relevance": "2026-10-04核验出版社页头、公开摘要及发表历史：水溶D–π–A有机荧光分子TPA-Q/DMPA-Q，季铵基增强指纹残留富集，溶液弱发光/固态强发光提高不同基材潜指纹三级细节对比，适配荧光材料和光学成像。Volume254,113963，期次2026-11（只月份、已先上线）；Available online06-20、Version of Record06-21。仅论文公开成像演示，未声称司法鉴定规范已认证。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
