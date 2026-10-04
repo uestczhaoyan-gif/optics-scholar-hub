@@ -58,3 +58,18 @@ DOI依次10.1016/j.bios.2025.117317、10.1016/j.bios.2026.118487、10.1016/j.bio
 | Dyes Pigments：[Structure-function decoupled water-soluble fluorescent probes for high-contrast imaging of latent fingerprints with Level-3 details](https://www.sciencedirect.com/science/article/abs/pii/S0143720826004158)                                                          | 2026-06-20 / 2026-06-21 / Volume254,113963，2026-11（月级，已先上线） | 水溶TPA-Q/DMPA-Q有机荧光与静电富集，潜指纹三级细节光学成像；非司法鉴定认证。                      |
 
 DOI分别为10.1016/j.jcis.2025.138884、10.1016/j.jcis.2026.140020、10.1016/j.jcis.2026.140551、10.1016/j.dyepig.2025.113513、10.1016/j.dyepig.2026.113832、10.1016/j.dyepig.2026.113963，均核实际出版社链接。只两scopeExamples，旧25刊样例及其他83刊/指南/整刊日期/索引分区/其他JSON保护，25→27刊至少三篇；85/103/10、88系列12多届、273183/85/5保持。未据摘要推断全部实验可靠性、临床效果或认证。
+
+## E27：Nano Letters / Inorganic Chemistry
+
+2026-10-04逐篇实际普通浏览器读取出版社原题、Letter/Article、刊名/卷期、公开摘要及展开Article history。DOI正常迁移到ACS新平台；首次Online作publishedAt，不把Received/Accepted/Published in Issue当首次。全部在2024-10-04至2026-10-04内，每刊三个不同卷期。本轮未逐条审计全文/所有图表/SI实验，不使用另刊或综述充数。
+
+| 本刊原题/DOI                                                                                                                                                                                                      | 首次Online / 卷期Published in Issue | 适配与边界                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------ |
+| nano-letters：[Nonlinear Optical Information Encoding with Grayscale Lithography Enabled Metasurfaces](https://doi.org/10.1021/acs.nanolett.5c00991)                                                              | 2025-04-28 / 25(18)，2025-05-07     | 二次谐波振幅/相位单像素编码                            |
+| nano-letters：[Densely Fluorinated Polymer Dots with Peak Absorption beyond 1000 nm for High-Contrast NIR-II Fluorescence Imaging](https://doi.org/10.1021/acs.nanolett.5c05422)                                  | 2026-02-09 / 26(6)，2026-02-18      | 高氟化Pdots吸收/荧光与体内血管成像                     |
+| nano-letters：[Voltage-Tunable Nonlocal Metasurface for Enhanced Outcoupling of Emission from Quantum Dots](https://doi.org/10.1021/acs.nanolett.5c04834)                                                         | 2026-01-20 / 26(10)，2026-03-18     | GaAs量子点可调同波长与增强出射，合作发射尚未演示       |
+| inorganic-chemistry：[Controlling Nanoscale Compositional Inhomogeneities to Enhance Tb3+ Luminescence in YVO4 Nanocrystals](https://doi.org/10.1021/acs.inorgchem.6c03156)                                       | 2026-08-18 / 65(34)，2026-08-31     | 稀土缺陷化学与非辐射路径调节                           |
+| inorganic-chemistry：[Platinum(II) Complexes with Carbene Pincer Chelates for Blue Hyperphosphorescent Organic Light-Emitting Diodes](https://doi.org/10.1021/acs.inorgchem.6c01873)                              | 2026-06-22 / 65(26)，2026-07-06     | Pt(II)蓝光发光材料与OLED，原页6/22覆盖发现源6/21       |
+| inorganic-chemistry：[Synthesis and Optical and Nonlinear Optical Properties of Linear and Two-Dimensional Charge Transfer Chromophores Based on Polyoxometalates](https://doi.org/10.1021/acs.inorgchem.4c04179) | 2024-12-06 / 63(51)，2024-12-23     | 电子吸收/TDDFT与1064/1200nm超瑞利散射测β，非已实现器件 |
+
+仅两scopeExamples，旧27刊样例与其他83刊/完整核验日/排名索引/指南、所有其他JSON保护，27→29刊至少三篇。最初原页自动安全加载后正常显示，未操作验证码/登录/付款或下载受限全文；没有以机构库或搜索摘录日期覆盖ACS原页。其他规划继续。

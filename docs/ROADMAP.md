@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 11 / 85          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 78 / SCIE 72  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 72 / ESCI 11 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十七刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E25 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十九刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E27 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -605,3 +605,7 @@ C25 e764b139e28a30c172b066105a4fd1eedd0c9c4d已验收[Pages37207744738](https://
 ## E26：本刊指南与资助出版（2026-10-04）
 
 C26 0a5d150765de54d18a12deb4a688105abb5e58fe已验收[Pages37208657675](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37208657675)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，95b25becae39a0c34431c3623b3bcdab2df7280b208637f357ca6678adcaa561与本地一致（2026-10-04T14:19:41.538Z）。 Photoacoustics补本刊Letter8初稿页/2000词/5图表与4印刷页、250词摘要、建议Highlights/图形摘要、Option C及USD4070不含税；IJEM本刊IOP About明确编辑部资助CC BY作者无费，并补本刊Letters/Research Highlights1000词。只两刊requirements/publishing，原首条范围/整刊日期/索引分区/样例及其他83刊、全部其他JSON保护。[字段与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。85/112/10、94系列/15多届、189/79/5与27刊样例保持，其余规划继续。
+
+## E27：无机与纳米光学样例（2026-10-04）
+
+E26 0190d244afe22c6169d0ace3c4b80aeb842b0fe7已验收[Pages37209054631](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37209054631)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，87ec92bf908f7c01b50792535d6790bf9f7bef082b240f939091d9caf4b203ad与本地一致（2026-10-04T14:24:02.767Z）。 Nano Letters/Inorganic Chemistry各补三篇近两年不同期次原创光学样例：灰度非线性超表面/NIR-II聚合物点/电压可调量子点出射、稀土缺陷发光/Pt蓝光OLED/POM非线性散射。首次上线与较晚卷期分开；量子点合作发射尚未演示。仅两scopeExamples，其他83刊/旧27刊样例与所有其他JSON保持，29刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/112/10、94系列15多届、273189/79/5、分区索引/指南与整刊日期保持，其余规划继续。

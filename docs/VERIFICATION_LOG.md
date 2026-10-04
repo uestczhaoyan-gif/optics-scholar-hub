@@ -1121,3 +1121,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - IJEM Support/所链About/IOP本刊About已读；收费子页跳第三方validate.perfdrive.com反机器人验证被自动审批拒绝，理由是可能涉及访问控制，未访问验证域名、未转用其他工具绕过。费用依据是此前可读IOP本刊About的明确编辑部资助声明，收费子页/peer-review policy未读，匿名模式未定。无需该受限跳转即可完成本批已核字段。
 - 必要校验/四字段范围/文档/报告/子路径构建与差异审查后推送，验收同SHA CI/部署/线上版本，其他规划继续。
   `n- 发布前数据校验、四字段白名单/原首条范围/83其他刊及全部其他JSON保护、27样例计数与建议材料/费率/匿名未知边界断言通过；207个本地Markdown链接、维护386项/12主题覆盖通过。Pages子路径构建六入口资源exit0，差异审查/git diff --check通过。完整31项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：Nano Letters / Inorganic Chemistry六样例 E27
+
+- E26 0190d244afe22c6169d0ace3c4b80aeb842b0fe7已验收[Pages37209054631](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37209054631)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，87ec92bf908f7c01b50792535d6790bf9f7bef082b240f939091d9caf4b203ad与本地一致（2026-10-04T14:24:02.767Z）。 正式编辑前验收；work/E27_RESEARCH_2026-10-04.md长操作前保存来源线索与范围，最新实际五小时52%/周57%允许，未用重置券。
+- Nano Letters/Inorganic Chemistry各补三篇近两年不同期次原创光学样例：灰度非线性超表面/NIR-II聚合物点/电压可调量子点出射、稀土缺陷发光/Pt蓝光OLED/POM非线性散射。首次上线与较晚卷期分开；量子点合作发射尚未演示。仅两scopeExamples，其他83刊/旧27刊样例与所有其他JSON保持，29刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/112/10、94系列15多届、273189/79/5、分区索引/指南与整刊日期保持，其余规划继续。 六原页普通浏览器读页头/公开摘要、正常点击Article history展开出版历史；最初自动安全加载随后原页正常显示，没有点击验证/CAPTCHA、绕过登录或下载收费全文。OA全文虽可见，仅按页头/摘要/历史范围核验。
+- 必要数据/两字段范围/文档/报告/子路径构建与差异审查后提交推送，同SHA验收部署及线上目录；其余规划继续。
+  `n- 发布前数据校验、仅两scopeExamples/83其他刊与旧27刊样例/其他JSON保持、29刊计数与近两年不同论文/合作发射未知断言通过；210个本地Markdown链接、维护386项及12主题覆盖通过。Pages子路径构建及六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。
