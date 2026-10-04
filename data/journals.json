@@ -3885,9 +3885,14 @@
     "guide": "https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/guide-for-authors",
     "requirements": [
       "突出胶体或界面的基础科学贡献及创新机制；仅有常规材料制备和性能对比不足以体现选题适配性。",
-      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+      "2026-10-04本刊作者指南部分核验：Full length article为常规原创研究；Short communication限重要且紧急结果，编辑先判断适格。Feature article须事先讨论并获编辑邀请，只综述作者近期工作，不接受未邀请Feature或常规全面科学综述。本轮未核到统一字数/页数上限，不推造。",
+      "摘要≤250词，优先用Hypothesis、Experiments（适用时Simulations）、Findings三个小标题；英文关键词1–7个。参考文献通常不超过55条，作为通常要求保存，不视作绝对无例外上限。",
+      "必须交图形摘要，单独文件，建议单幅图；至少531×1328像素（高×宽）或同比更高，按5×13 cm可读，接受TIFF/EPS/PDF/MS Office。",
+      "附信不超过一面A4、独立撰写，不复制或改写摘要/引言/结论：Suitability for JCIS两段说明期刊及A–F分区适配，Novelty两段并引用3–5篇关键已刊论文定位概念推进，Significance一段说明意义；突出可迁移的胶体/界面科学认识，不能只列应用性能提升。",
+      "当前官网提交入口 https://submit.elsevier.com/JCIS ；提供可编辑doc/docx或tex源文件，Word单栏，LaTeX可双栏，PDF不作可编辑源文件，系统生成评审PDF。单盲评审，通常至少两位评审人；补充材料随稿提交、正文引用并附说明，返修阶段才增加/替换。",
+      "研究数据适用本刊Option C：要求存入相关数据仓库并引用/链接；不能分享时说明原因，初投必须提供数据可用性声明。来源 https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/guide-for-authors 。"
     ],
-    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；全部稿型OA APC USD 4820（不含税），个人条件/机构协议可影响实际报价。订阅路径无OA出版费，不等于全部潜在收费为零。当前列CC BY、CC BY-NC、CC BY-NC-ND，作者保留版权；出版选择不影响评审/录用。订阅文章作者接受稿经机构库开放的禁限期为24个月，自最终可引用版本正式上线起算，已发表版本公开分享仍有政策限制；具体适用协议另核。来源 https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/open-access-options 。"
   },
   {
     "checkedAt": "2026-09-11",

@@ -30,3 +30,20 @@
 | 中国/减免          | SocoPay、Discounts/Financial Hardship               | 官网当前大陆支付另6.18%税+3%交易费；有效AAAS会员4%每篇一次，其他资格/实际报价另核。困难减免可投稿前至录用提出、只录用时批准，不保证获批；没有付款/折扣申请/发送邮件。                           |
 
 仅Science Advances.requirements/publishing，删除不再适用的不可读描述；其scopeExamples/日期/索引/分区保持。E21另独立补ACS Sensors样例，其他83刊和其他JSON保持；正式数量不变，至少三篇样例为23刊。[样例范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
+
+## E23：Journal of Colloid and Interface Science
+
+2026-10-04普通浏览器实际读取[本刊作者指南](https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/guide-for-authors)的稿型、评审、文件/摘要/关键词、图形摘要、附信、参考文献、补充材料、Research data/Data statement及Submit online相关段落；所链旧ISSN路径实际重定向到[本刊OA页](https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/open-access-options)，费表/许可/模式/自存档已读。未登录、投稿、付款或绕过警告；不是全指南逐条审计。
+
+| 保存字段            | 实际来源范围                                                               | 已核结论与未核边界                                                                                                                                                          |
+| ------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 稿型/综述           | 指南Article types                                                          | Full length为常规原创研究，Short限重要紧急结果且编辑先判；Feature仅事先讨论并邀请、介绍作者近期工作，不是全面综述。普通科学综述不接受；未核到统一字数/页数上限。            |
+| 摘要/关键词/引用    | Abstract、Keywords及当刊文章结构/References                                | ≤250词，首选Hypothesis / Experiments（或Simulations）/ Findings三个小标题；1–7英文关键词。参考文献通常≤55，通常要求不是绝对无例外。                                         |
+| 图形摘要            | Graphical abstract当刊段                                                   | 必需、独立文件、建议单幅；≥531×1328像素高×宽、5×13cm可读，TIFF/EPS/PDF/MS Office；未声称本刊Highlights必需。                                                                |
+| 附信                | Cover letter                                                               | ≤一面A4、独立撰写；Suitability两段写A–F分区适配，Novelty两段并引3–5关键已刊论文，Significance一段。可迁移科学认识与应用性能分开。                                           |
+| 提交/文件/评审/补充 | Submit online、Writing and formatting、Peer review、Supplementary material | [当前系统入口](https://submit.elsevier.com/JCIS)，未登录。doc/docx/tex可编辑源，PDF非源，Word单栏/LaTeX可双栏；单盲通常≥2评审；补充随稿交/文中引用/附说明，返修阶段才增换。 |
+| 数据                | Research data deposit/citation/linking、Data statement                     | 本刊Option C要求仓库共享并引用链接，不能共享须说明原因；初投可用性声明必需。不能复用BIOSBE/SNB的Option B“鼓励”措辞。                                                        |
+| 费用/许可/模式      | OA页Introduction、APC费表、Licences、Policies                              | 全部稿型USD4820不含税；订阅路径无OA费不是一切免费；CC BY/CC BY-NC/CC BY-NC-ND、作者保留版权、出版选择不影响评审，个别报价/机构资格仍待个案确认。                            |
+| 自存档              | OA页Self-archiving                                                         | 订阅接受稿机构库禁限期24个月，从最终可引用版本正式上线起算；已发表版本分享有限制。仅转述本刊公开政策，不作个别协议法律判断。                                                |
+
+仅jcis.requirements/publishing，原范围条/整刊checkedAt/索引分区/样例及其他84刊、所有其他JSON保护。85刊/103届/10活动、88系列/12多届、273候选183/85/5、25刊至少三篇样例保持。Dyes and Pigments当前指南和IEEE TIE当前入口、其余交叉样例/候选仍待后续核验。

@@ -577,3 +577,7 @@ E22 5a748975a7f3b831007319dc246f272a094b5590已验收[Pages37186160819](https://
 ## C23：SPIE欧洲及光刻历史/未来（2026-10-04）
 
 B4 64ba2ca557eba428f0f673780451319e536156e0已验收[Pages37186450463](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186450463)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，e997ae29f033da056ae5aed070453e1a5826f9ab1ced1a04634fcb9fa3147a6e与本地一致（2026-10-04T07:40:53.417Z）。 三系列三历史届，两个2028和一个2027直接官网预告，由2026历史建立稳定身份，未来城市确认后新增后续届，[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。同场独立PE/OSD分别计一次，PUV联合会与子会/展览不重复。103届/88系列12多届、273183/85/5、25刊样例；未来城市/场馆/征稿规则保持unknown。LPM证书异常留候选，其他规划继续，既有每日与五小时任务保持。
+
+## E23：胶体界面当前作者规则（2026-10-04）
+
+C23 2a6036bc3d39f5c2f7f85b49d1f67146562ce731已验收[Pages37187049524](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37187049524)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，89b0b4e07aa01bf42e2d7fb65f8221c999c79be2d248bbed1e5a17ad30f8e9a3与本地一致（2026-10-04T07:57:04.469Z）。 JCIS本刊稿型/250词摘要/结构/图形摘要/一面A4附信/通常55引用、Option C数据与USD4820不含税OA及24个月自存档已核，[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。只两字段，原范围/整刊日期/索引分区/样例及其他84刊和其他JSON保护；85/103/10、88系列/12多届、273183/85/5、25刊样例保持。 其余指南/样例、未知分区索引、候选与临近冲突仍开放；不为消耗额度重复核验。既有每日来源和五小时检查保持。
