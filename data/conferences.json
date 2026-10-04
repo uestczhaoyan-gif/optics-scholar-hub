@@ -1775,23 +1775,25 @@
     "topics": ["综合光学", "激光与非线性", "量子光学"],
     "description": "面向激光物理、光学工程、激光应用、非线性光学和量子科学的欧洲会议系列；此条为官网已发布的 2027 届次预告，中文名称为编辑译名。",
     "website": "https://www.cleoeurope.org/",
-    "notice": "https://www.cleoeurope.org/",
+    "notice": "https://world-of-photonics.com/en/congress/for-speaker/",
     "registration": null,
     "checkedAt": "2026-09-15",
     "evidence": "official",
-    "submissionState": "unknown",
+    "submissionState": "published",
     "requirements": [
-      "本轮官网仅确认 2027 会期和慕尼黑城市；当届征稿、模板、篇幅及提交系统尚待核实。",
-      "Submission 和 Deadlines 页面仍明确标注 2025，不能将其中口头/海报选择、PDP、注册与截止安排平移为 2027 规则。"
+      "2026-10-04核验World of Photonics Congress当届官方讲者页：计划2026-10-05开启、2027-02-15关闭CLEO/Europe–EQEC投稿；未给精确时区/时刻，仅日期，公布日程不代表系统现在已开放。",
+      "其链接的CLEO Submission仍标题2025；2027模板、篇幅、摘要字数/系统与出版细则未核实，不把旧35词/一页及2025录用通知平移为本届。",
+      "2026-10-04部分核验当届大会共用讲者页 https://world-of-photonics.com/en/congress/for-speaker/：建议16:9 PowerPoint或PDF，视频推荐mp4/h264；会场不能接个人电脑或在会场电脑直接上传，无互联网/PowerPoint插件，ProRes不支持。须提前上传并到ICM一层Speakers Check-In核查，最晚session前一小时可检查/编辑；上传链接/个人凭据拟2027六月初公布，无精确截止不造日期。具体子会报告时长/海报规则仍待其本届通知。"
     ],
     "publication": "2027 出版与检索安排待官方当届通知。首页 IEEE/Optica 论文集说明属于 2025 会后总结，不作为 2027 出版承诺。",
-    "notes": "官网页眉及讲者名单仍为 2025；仅采用明确标注 2027 的下一届预告。与美国 CLEO 独立记录，不将两系列时间、征稿或费用混用。具体场馆不沿用历史届次。",
+    "notes": "官网页眉及讲者名单仍为 2025；仅采用明确标注 2027 的下一届预告。与美国 CLEO 独立记录，不将两系列时间、征稿或费用混用。具体场馆不沿用历史届次。 2026-10-04只补当届大会表中的2027投稿日程和共用报告准备；专题官网详细指南仍2025，未全面重核本条，不刷新checkedAt。大会总跨度6/20–25与展览6/22–25不替代本子会6/21–25。",
     "deadlines": [
       {
         "type": "paper",
-        "label": "2027 投稿截止待公布",
-        "date": null,
-        "source": "https://www.cleoeurope.org/"
+        "label": "2027普通投稿截止（大会当届表；详细稿规待核）",
+        "date": "2027-02-15",
+        "source": "https://world-of-photonics.com/en/congress/for-speaker/",
+        "note": "计划2026-10-05开启；无时区或时刻，仅日期。链接仍2025 Submission，不能据此沿用旧模板或证明系统开放。"
       },
       {
         "type": "registration",
@@ -1998,22 +2000,25 @@
     "topics": ["光学设计与制造", "传感与测量", "成像与计算光学"],
     "description": "光学测量、建模、成像与工业检测领域的 SPIE 学术会议，官网已给 2027 年慕尼黑会期；属于 World of Photonics Congress 的会议组成部分，展览另属不同活动。",
     "website": "https://spie.org/conferences-and-exhibitions/optical-metrology",
-    "notice": "https://spie.org/conferences-and-exhibitions/optical-metrology",
+    "notice": "https://world-of-photonics.com/en/congress/for-speaker/",
     "registration": null,
     "checkedAt": "2026-09-30",
     "evidence": "official",
-    "submissionState": "unknown",
+    "submissionState": "published",
     "requirements": [
-      "本届征稿、稿型、篇幅、模板、提交入口及出版要求待公布或复核；现页节目 PDF 和主席列表仍为 2025 年，不能移用到 2027 年。"
+      "2026-10-04部分核验大会2027讲者页：本子会计划2026年10月中旬开放投稿，关闭2027-02-17。mid-October不是10/15，不造开放日；关闭无时区/时刻，仅日期。",
+      "SPIE子会主页仍含2025节目和主席，详细2027摘要/模板/篇幅、终稿及出版要求待当届通知；公布日期不代表具体提交系统已开放。",
+      "2026-10-04部分核验当届大会共用讲者页 https://world-of-photonics.com/en/congress/for-speaker/：建议16:9 PowerPoint或PDF，视频推荐mp4/h264；会场不能接个人电脑或在会场电脑直接上传，无互联网/PowerPoint插件，ProRes不支持。须提前上传并到ICM一层Speakers Check-In核查，最晚session前一小时可检查/编辑；上传链接/个人凭据拟2027六月初公布，无精确截止不造日期。具体子会报告时长/海报规则仍待其本届通知。"
     ],
     "publication": "2027 当届出版形式和实际索引待核实，不由旧届 SPIE 论文集推定。",
-    "notes": "本条为官方未来预告：页首和 Save the dates 明确 2027-06-21–24。页面混有 EOM25 日程、2025-06-17 版节目与 2025 主席，均未写入当届投稿安排；暂无可确认的 2027 注册截止。",
+    "notes": "本条为官方未来预告：页首和 Save the dates 明确 2027-06-21–24。页面混有 EOM25 日程、2025-06-17 版节目与 2025 主席，均未写入当届投稿安排；暂无可确认的 2027 注册截止。 2026-10-04仅用大会2027讲者表补截止/预计开放范围与共用AV准备；正常浏览器重读SPIE当前页，保留2025稿规边界和原checkedAt，未当完整当届核验。",
     "deadlines": [
       {
         "type": "abstract",
-        "label": "投稿安排及截止待当届通知",
-        "date": null,
-        "source": "https://spie.org/conferences-and-exhibitions/optical-metrology"
+        "label": "2027摘要投稿关闭（大会当届表；细则待核）",
+        "date": "2027-02-17",
+        "source": "https://world-of-photonics.com/en/congress/for-speaker/",
+        "note": "计划2026年10月中旬开放，具体日/时区未知；不得按10/15或旧2025稿规处理。"
       },
       {
         "type": "registration",
@@ -2237,10 +2242,11 @@
     "submissionState": "published",
     "requirements": [
       "英文摘要 150 词，以纯文本填写 ConfTool 表单；官网与征稿 PDF 指向 https://www.conftool.org/lim2027/，入口已读取，旧 LiM 账户不自动迁移，需当届账户。",
-      "摘要由科学委员会评审，录取为口头或海报报告；2027-03-26 发出录用通知。当前未核实全文篇幅、模板及最终材料截止。"
+      "摘要由科学委员会评审，录取为口头或海报报告；2027-03-26 发出录用通知。当前未核实全文篇幅、模板及最终材料截止。",
+      "2026-10-04部分核验当届大会共用讲者页 https://world-of-photonics.com/en/congress/for-speaker/：建议16:9 PowerPoint或PDF，视频推荐mp4/h264；会场不能接个人电脑或在会场电脑直接上传，无互联网/PowerPoint插件，ProRes不支持。须提前上传并到ICM一层Speakers Check-In核查，最晚session前一小时可检查/编辑；上传链接/个人凭据拟2027六月初公布，无精确截止不造日期。具体子会报告时长/海报规则仍待其本届通知。"
     ],
     "publication": "当届征稿 PDF 说明主席在现场选择优秀报告供会后同行评审期刊专刊投稿；专刊仍需独立评审。2027 全体报告的统一论文集及实际索引未核实，不沿用 2025 论文集安排。",
-    "notes": "2026 年 9 月征稿 PDF 两页已抽取并视觉核对，会期、会场、150 词及两个日期一致。LiM 属 World of Photonics Congress 2027，并与 LASER World of PHOTONICS 展同场及设 CLEO 联合专题；不重复计入母会或展会。ConfTool 当前作者登录页可核实投稿入口，不能据此声称缴费注册开放；费用、注册截止及精确时区仍未知。官网时间表一处残留 LiM 2025 字样，2027 页首和 PDF 均确认本届身份。",
+    "notes": "2026 年 9 月征稿 PDF 两页已抽取并视觉核对，会期、会场、150 词及两个日期一致。LiM 属 World of Photonics Congress 2027，并与 LASER World of PHOTONICS 展同场及设 CLEO 联合专题；不重复计入母会或展会。ConfTool 当前作者登录页可核实投稿入口，不能据此声称缴费注册开放；费用、注册截止及精确时区仍未知。官网时间表一处残留 LiM 2025 字样，2027 页首和 PDF 均确认本届身份。 2026-10-04大会讲者表仅列11月开放/次年1月关闭，保留WLT本届CFP明示1/31，不用粗月份覆盖精确日；共用报告上传凭据预计六月初，未知终稿/费率不补造。仅部分核验，不刷新checkedAt。",
     "deadlines": [
       {
         "type": "abstract",

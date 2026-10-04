@@ -569,3 +569,7 @@ C21 15316fae6cbca5a674d233f9d814afe94f5a8e21已验收[Pages37184918851](https://
 ## E22：生化传感光学适配（2026-10-04）
 
 C22 ef63a86d3f01f8c58b4c440b4d89b595248002e9已验收[Pages37185777328](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37185777328)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，153394d1f462d472353f085cdbe90c9c0eb75ed45eb3a100f5d6df9cf8ed7881与本地一致（2026-10-04T07:27:13.423Z）。 BIOSBE/SNB各三不同卷样例覆盖结构色/SERS/荧光手机读出/光纤显微器件，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。公开摘要适配不当全文实验审计；出版社首次在线与VOR/期次分开，伴生X不混用。仅两字段、25刊至少三篇，其他规划继续。
+
+## B4：欧洲未来征稿日程（2026-10-04）
+
+E22 5a748975a7f3b831007319dc246f272a094b5590已验收[Pages37186160819](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186160819)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，f4932634970e9d14d1fc6d072c5e27b997f17282f427e8ac7a15ad17504ed61b与本地一致（2026-10-04T07:34:27.756Z）。 当届大会公开讲者页填两未知投稿日期、补三子会共同报告准备并列系列巡检源，[字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。计划开放不当当前系统已开放，月份/中旬不造某日，不把母会/展览跨度替代子会。仍待2027详细稿规、出版/注册，其他规划继续。

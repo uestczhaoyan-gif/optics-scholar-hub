@@ -404,7 +404,10 @@
     "aliases": [],
     "editionIds": ["cleo-europe-eqec-2027"],
     "website": "https://www.cleoeurope.org/",
-    "sources": ["https://www.cleoeurope.org/"],
+    "sources": [
+      "https://www.cleoeurope.org/",
+      "https://world-of-photonics.com/en/congress/for-speaker/"
+    ],
     "nextEditionCheckedAt": null
   },
   {
@@ -451,7 +454,8 @@
     "editionIds": ["spie-optical-metrology-2027"],
     "website": "https://spie.org/conferences-and-exhibitions/optical-metrology",
     "sources": [
-      "https://spie.org/conferences-and-exhibitions/optical-metrology"
+      "https://spie.org/conferences-and-exhibitions/optical-metrology",
+      "https://world-of-photonics.com/en/congress/for-speaker/"
     ],
     "nextEditionCheckedAt": null
   },
@@ -507,7 +511,8 @@
     "website": "https://wlt.de/node/31",
     "sources": [
       "https://wlt.de/node/31",
-      "https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf"
+      "https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf",
+      "https://world-of-photonics.com/en/congress/for-speaker/"
     ],
     "nextEditionCheckedAt": null
   },

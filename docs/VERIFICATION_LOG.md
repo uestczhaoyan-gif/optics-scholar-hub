@@ -1050,3 +1050,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 只两scopeExamples，其他83刊/旧23刊样例及全部其他JSON保护；必要数据/精确范围/文档/报告/构建及差异审查后推送，同SHA验收CI/部署/线上版本，其他规划继续。
 
 - 发布前数据校验、两字段白名单/旧23刊样例与其他83刊/全部其他JSON保持、25刊样例首次日/不同卷断言通过；180个本地Markdown链接、维护369项和12主题覆盖通过。Pages子路径构建及六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-04：慕尼黑2027提交准备 B4
+
+- E22 5a748975a7f3b831007319dc246f272a094b5590已验收[Pages37186160819](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186160819)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，f4932634970e9d14d1fc6d072c5e27b997f17282f427e8ac7a15ad17504ed61b与本地一致（2026-10-04T07:34:27.756Z）。 work/B4_RESEARCH_2026-10-04.md在正式编辑前保存验收、来源和部分范围，最近实际74%/周45%允许，不用重置券。
+- 大会2027官方讲者页直接可读、实际链接CLEO Submission明确2025；SPIE当页正常浏览器仍2025节目/主席，[字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。只当届明确日程/共用报告准备，未套旧稿规、登录、提交或注册。
+- 三已有会严格字段白名单、两日期级/旧注册和出版保持，三系列只sources；97其他届、85刊/25样例及其他JSON保护，必要校验/报告/文档/构建/差异审查后上传验收同SHA，其他规划继续。
+
+- 发布前数据校验、精确部分字段/整条日期/其他JSON保持及日级/LiM精确日期断言通过；183个本地Markdown链接、维护369项和12主题覆盖通过。Pages子路径构建六资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。实际五小时80%/周46%允许，继续有价值任务。

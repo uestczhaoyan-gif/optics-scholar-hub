@@ -244,3 +244,7 @@ C21 15316fae6cbca5a674d233f9d814afe94f5a8e21已验收[Pages37184918851](https://
 ## 2026-10-04：生化传感六篇光学样例 E22
 
 C22 ef63a86d3f01f8c58b4c440b4d89b595248002e9已验收[Pages37185777328](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37185777328)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，153394d1f462d472353f085cdbe90c9c0eb75ed45eb3a100f5d6df9cf8ed7881与本地一致（2026-10-04T07:27:13.423Z）。 两生化传感刊各三独立卷、近两年原始论文，核出版社页头/摘要及Available online、Version of Record、期次日期，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。只两scopeExamples，整刊日期/索引分区/指南费用和其他目录保持；25刊≥3样例。85/100/10、85系列/12多届、273180/88/5保持，继续器件/材料及其他交叉刊样例、指南/候选和分区。
+
+## 2026-10-04：欧洲2027开稿准备 B4
+
+E22 5a748975a7f3b831007319dc246f272a094b5590已验收[Pages37186160819](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186160819)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，f4932634970e9d14d1fc6d072c5e27b997f17282f427e8ac7a15ad17504ed61b与本地一致（2026-10-04T07:34:27.756Z）。 已补CLEO/Europe–EQEC2027大会表10/5计划开启/2/15关闭，SPIE光学计量2027十月中旬/2/17关闭，均日级；详细子会指南仍2025。三既有会共用报告准备/六月初上传凭据预告及对应系列每日追踪源，[字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。LiM原精确1/31保持。只部分字段、不刷新整条核验日，85/100/10及25刊样例/其他计数保持；继续本届细则与费用、其他指南/候选和索引分区。
