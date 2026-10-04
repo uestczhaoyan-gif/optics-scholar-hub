@@ -6058,5 +6058,76 @@
     ],
     "publishing": "2026-10-05核2025-06-01征稿简则：无审稿费；录用版面费5页以内（含）2500元，超5页部分400元/页。5页是计费分档，不是篇幅硬限；未见税/另行生效日，不称已核2026价表。优先在线出版须先缴费及提交版权协议；作者仍保留指南明示学习/研究/教学使用权，完整协议未读。来源：https://www.photon.ac.cn/info/2453?lang=zh",
     "schedule": "2026-10-05核同一2025指南：初审通过后，首轮外审自投稿起通常约1个月以内；三审通过且缴费/版权材料完成后5个工作日内优先在线，正式出版自投稿约5个月。均为网页一般安排，不保证个稿；收稿3个月无意见可告知编辑部后改投，退修1个月未回或版面费通知1个月未到账有自动退稿规则。来源：https://www.photon.ac.cn/info/2453?lang=zh"
+  },
+  {
+    "id": "acta-physica-sinica",
+    "name": "物理学报",
+    "abbr": "Acta Phys. Sin.",
+    "publisher": "中国物理学会、中国科学院物理研究所",
+    "issn": "1000-3290",
+    "eissn": null,
+    "domains": ["物理", "光学", "材料"],
+    "topics": [
+      "综合光学",
+      "量子光学",
+      "激光与非线性",
+      "光学材料",
+      "传感与测量"
+    ],
+    "description": "中文物理综合半月刊，强调新物理认识及凝聚态、原子分子和光物理。三篇不同期次的发光、太赫兹与激光冷原子实验支持光学交叉适配；一般算法或材料制备须有充分物理内涵。以已核实EI工程补充准入，SCIE独立确认，分区未知。",
+    "website": "https://wulixb.iphy.ac.cn/",
+    "guide": "https://editorial.iphy.ac.cn/journalx_aps/basicinfo/viewHtmlFile.action?id=8",
+    "checkedAt": "2026-10-05",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1000-3290&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号1000-3290唯一Exact Match ACTA PHYSICA SINICA、CHINESE PHYSICAL SOC，结果卡明确Core Collection: Science Citation Index Expanded。未登录profile或查单篇，覆盖年未知；简介历史1999年SCI声明不当数据库覆盖起点。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核Elsevier公开表SERIALS 2026-08-07版第5801行Journal Wuli Xuebao/Acta Physica Sinica、10003290及主办者匹配，电子“-”；CHINESE 2026-07-10版第23行物理学报Renewed（保持收录）；DISCONTINUED 2026-05-01版无匹配。仅新刊号匹配，不重复旧79刊；覆盖年未知，未做订阅单篇检索。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核2026年6月投稿须知 https://editorial.iphy.ac.cn/journalx_aps/basicinfo/viewHtmlFile.action?id=8：中文原创研究/快讯/数据/观点，特邀综述走邀请路径；突出物理机制、原创性及理论与实验联系。观点通常不超过4版面（约7000字）、参考少于30、图不超过3，不能移植为普通研究页限；普通研究硬限未知。",
+      "电子Word或PDF随图，提交创新点/选择本刊理由、中英文题目/单位/摘要及关键词；英文摘要建议约一个版面，未规定统一词数硬限，关键词建议不超过5个，中英文图表题。版权协议和学术规范承诺须签名扫描，投稿后不应改署名/顺序/单位；模板和完整协议未读，系统内材料未核实。",
+      "数据论文需提供可复用数据集的下载地址，其他论文关联数据为共享倡议，不混成全部稿件强制开放。科研或撰写AI辅助须核查内容并披露，纯可读性/参考格式/图表格式辅助可不声明；AI不能署名。",
+      "2026审稿政策 https://wulixb.iphy.ac.cn/shengaozhengce：查重/初审后至少两位外审，意见矛盾可交叉审，编委终审；单盲（专家身份对作者保密），通常一次申诉机会。理论与计算强调实验联系，实验须深入物理分析，不保证泛算法可投稿。"
+    ],
+    "publishing": "2026-10-05核2026-06指南：不收审稿费，正式录用后收版面费并酌付稿酬，金额以录用后通知为准，未取得公开价表，不填数额或推断免APC/Gold OA。投稿版权转让与签名承诺按本刊协议，完整文件未读。来源：https://editorial.iphy.ac.cn/journalx_aps/basicinfo/viewHtmlFile.action?id=8",
+    "schedule": "2026-10-05核2026-06指南：自投稿平均约60天录用、约70天网络预出版、约130天纸刊，未给统计样本或保证。官网另列首轮30/审稿56/网络69天但无统计年，口径有别，不替换为确定时限；审稿政策请专家受邀后15–21天返回，非作者首决承诺。投稿3个月无网上进展可先告知编辑部再改投。优秀原创/重大快讯可自荐加专家推荐绿色通道，未承诺具体天数。来源：https://editorial.iphy.ac.cn/journalx_aps/basicinfo/viewHtmlFile.action?id=8；https://wulixb.iphy.ac.cn/shengaozhengce",
+    "scopeExamples": [
+      {
+        "title": "I型范德瓦耳斯异质结增强的黑磷近红外激子发光",
+        "publishedAt": "2026-04-30",
+        "source": "https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20260454",
+        "relevance": "2026-10-05核公开摘要/元数据，上网日2026-04-30，75(16)160807刊出2026-08-20，非同日。制备3层BP/2层WSe2 I型异质结，室温约1450nm发光增强与变温/栅控PL，支持光学材料和发光器件物理；硅基集成光源属应用前景，不称已实装通信芯片。"
+      },
+      {
+        "title": "太赫兹光谱揭示拓扑半金属Co2MnAl薄膜中光载流子驱动的正负光电导转换",
+        "publishedAt": "2026-04-02",
+        "source": "https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20260353",
+        "relevance": "2026-10-05核公开摘要/元数据，上网日2026-04-02，75(13)130409刊出2026-07-05。光泵浦-太赫兹探测实验、磁场信号分离与Tinkham模型分析正负光电导和自旋载流子，支持超快光谱/光电子物理；不是已生产太赫兹通信器件。"
+      },
+      {
+        "title": "基于铯原子玻色-爱因斯坦凝聚的双光子Bragg散射相干振荡动力学研究",
+        "publishedAt": "2026-05-21",
+        "source": "https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.75.20260094",
+        "relevance": "2026-10-05核公开摘要/元数据，上网日2026-05-21，75(18)180303刊出2026-09-20。相向激光驱动133Cs BEC相干动量转移，吸收成像测Rabi振荡并与二能级模型对应，支持原子/量子光学实验；物质波干涉和量子模拟为方案参考，不称已建精密干涉仪。"
+      }
+    ]
   }
 ]
