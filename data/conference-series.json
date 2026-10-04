@@ -905,5 +905,44 @@
       "https://www.foop2025.canevent.com/"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-aa6c82f3fdd8",
+    "name": "Quantum Information Processing",
+    "aliases": [],
+    "editionIds": ["qip-2027"],
+    "website": "https://qipconference.org/2027/",
+    "sources": [
+      "https://qipconference.org/2027/",
+      "https://qipconference.org/2027/call/",
+      "https://qipconference.org/2027/charter/",
+      "https://qip.iaqi.org/nextqip"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-f68661b67f3a",
+    "name": "APS DAMOP",
+    "aliases": [],
+    "editionIds": ["damop-2027"],
+    "website": "https://www.aps.org/events/2027/damop-2027",
+    "sources": ["https://www.aps.org/events/2027/damop-2027"],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-14bba76de7ef",
+    "name": "APS Global Physics Summit",
+    "aliases": [],
+    "editionIds": ["aps-global-physics-summit-2027"],
+    "website": "https://summit.aps.org/",
+    "sources": [
+      "https://www.aps.org/events/2027/summit",
+      "https://summit.aps.org/about/",
+      "https://summit.aps.org/attend/abstracts/",
+      "https://summit.aps.org/attend/abstracts/contributed/",
+      "https://summit.aps.org/attend/registration/",
+      "https://summit.aps.org/attend/abstracts/sorting-categories/"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]

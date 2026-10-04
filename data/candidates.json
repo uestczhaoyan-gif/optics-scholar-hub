@@ -1103,12 +1103,12 @@
     "kind": "conference-series",
     "priority": 2,
     "scopeHint": "QIP 是条件交叉，不等于光学会议",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://qipconference.org/2027/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["qip-2027"],
+    "decisionReason": "理论量子信息/通信/测量范围有官方依据；当届总体会期/场馆和双提交路径独立确认，教程与主会边界明确保留。",
+    "nextAction": "口头预登记已过，10/5仅已登记；独立海报12/4。等主会日程/IAQI终年更正、注册费用/出版轨道；不把延迟保护视为普通截止。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-a839cf91f8",
@@ -1148,12 +1148,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学、AMO、量子、光子器件专题；核对历史品牌与当前组织关系",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://summit.aps.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["aps-global-physics-summit-2027"],
+    "decisionReason": "官方本届日期、场馆、普通摘要/会员规则与量子/材料区域确认；光学子集适配明确为推断，具体分类尚待核，不将全会当光学。",
+    "nextAction": "继续核光学对应具体分类编码、摘要时区、现场报告细则/出版边界；旧March/April历史须独立核实。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-7ef782a899",
@@ -1162,12 +1162,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "原子分子光物理、冷原子与量子光学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.aps.org/events/2027/damop-2027",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["damop-2027"],
+    "decisionReason": "APS当届2027页直接确认AMO学术会议身份、会期与Chicago Hilton场馆，作为征稿未明预告入选。",
+    "nextAction": "等2027独立CFP/注册/费用；不把GPS或旧DAMOP规则迁入。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-d02307a863",

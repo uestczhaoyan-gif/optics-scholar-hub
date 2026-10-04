@@ -4237,5 +4237,162 @@
         "source": "https://www.ydioe.pku.edu.cn/info/1011/2685.htm"
       }
     ]
+  },
+  {
+    "year": 2027,
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "qip-2027",
+    "series": "Quantum Information Processing",
+    "name": "量子信息处理会议 QIP 2027（含教程活动时段）",
+    "nameEn": "Quantum Information Processing 2027 (including tutorial period)",
+    "location": "新加坡",
+    "venue": "University Cultural Centre（50 Kent Ridge Cres）",
+    "start": "2027-02-20",
+    "end": "2027-02-26",
+    "topics": ["量子光学"],
+    "description": "理论量子信息与计算会议，含通信、测量/层析及量子信息理论。适配相关量子光学理论研究，整体不以一般光学器件实验为范围；目录日期按当届官网公布的完整活动跨度。",
+    "website": "https://qipconference.org/2027/",
+    "notice": "https://qipconference.org/2027/call/",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "口头稿须9月28日前预登记，10月5日仅供已登记稿完成提交；海报走独立HotCRP，口头稿不自动转海报。两者须分别提交。",
+      "口头稿扩展摘要PDF≤3页（参考文献另计）、单栏、字体≥11pt，去作者/单位/致谢；评审不是双盲。另须公开带版本arXiv链接及对应技术稿PDF，完成责任/AI声明并勾选ready for review。",
+      "海报只需题名、作者、摘要及技术稿PDF，不要求扩展摘要或arXiv；报告者须为作者且在HotCRP首位。标记complete后冻结；录用后还须注册/提交海报ID，受容量限制，每注册报告者最多确认一海报。"
+    ],
+    "publication": "当届章程提到可选开放获取会议录，但本轮未确认2027出版社、出版轨道实施、费用或实际数据库索引；录用报告不等同于保证出版。",
+    "notes": "当届主页/CFP写2月20–26总跨度；IAQI页列2/20–21教程、主会2/22起，但终年误写2026，主会独立终日仍待更正，未据错误年份造日期。AoE明确UTC−12。9/30 18:00UTC是arXiv延迟保护界限，不是普通提交截止。参会早鸟/最终日已公布，实际注册入口和费用未核；口头登记已过，海报另可准备。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "口头稿预登记（已过；作者列表须确定）",
+        "at": "2026-09-28T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://qipconference.org/2027/call/"
+      },
+      {
+        "type": "paper",
+        "label": "仅已预登记口头稿的完整提交截止",
+        "at": "2026-10-05T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://qipconference.org/2027/call/"
+      },
+      {
+        "type": "poster",
+        "label": "独立海报提交截止",
+        "at": "2026-12-04T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://qipconference.org/2027/call/"
+      },
+      {
+        "type": "notification",
+        "label": "口头稿结果通知",
+        "at": "2026-11-30T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://qipconference.org/2027/"
+      },
+      {
+        "type": "registration",
+        "label": "参会早鸟截止（费用未核）",
+        "at": "2026-12-20T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://qipconference.org/2027/"
+      },
+      {
+        "type": "registration",
+        "label": "参会注册截止（入口/费用未核）",
+        "at": "2027-01-20T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://qipconference.org/2027/"
+      }
+    ]
+  },
+  {
+    "year": 2027,
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "damop-2027",
+    "series": "APS DAMOP",
+    "name": "APS原子、分子与光物理年会 DAMOP 2027",
+    "nameEn": "58th APS Division of Atomic, Molecular and Optical Physics Meeting 2027",
+    "location": "美国 · 伊利诺伊州芝加哥",
+    "venue": "Hilton Chicago",
+    "start": "2027-05-31",
+    "end": "2027-06-04",
+    "topics": ["量子光学", "激光与非线性", "传感与测量"],
+    "description": "APS原子、分子与光物理分部年度学术会议。光学适配按AMO和光物质相互作用研究判断；当届目前仅学会会期/场馆预告，不代表征稿已开放。",
+    "website": "https://www.aps.org/events/2027/damop-2027",
+    "notice": "https://www.aps.org/events/2027/damop-2027",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "学会当前2027事件页只确认会期和会场；投稿截止、摘要字数/匿名/模板、报告和费用待当届征稿，不沿用2026或Global Physics Summit要求。"
+    ],
+    "publication": "当前会期预告未确认当届会议论文集、出版费或实际数据库索引；APS学术会议与APS期刊投稿录用分开。",
+    "notes": "5月31日至6月4日、Chicago Hilton及58th由APS当前2027页确认。独立稳定系列，与4月Global Physics Summit不合并；未读当届尚未公布的作者指南。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027当届征稿/摘要截止待公布",
+        "date": null,
+        "source": "https://www.aps.org/events/2027/damop-2027"
+      },
+      {
+        "type": "registration",
+        "label": "注册开放/费用和截止待公布",
+        "date": null,
+        "source": "https://www.aps.org/events/2027/damop-2027"
+      }
+    ]
+  },
+  {
+    "year": 2027,
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "aps-global-physics-summit-2027",
+    "series": "APS Global Physics Summit",
+    "name": "APS全球物理峰会 2027",
+    "nameEn": "APS Global Physics Summit 2027",
+    "location": "美国 · 佐治亚州亚特兰大及线上",
+    "venue": "Georgia World Congress Center、Omni Hotel at Centennial Park、Signia by Hilton",
+    "start": "2027-04-11",
+    "end": "2027-04-16",
+    "topics": ["量子光学", "光学材料"],
+    "description": "综合物理学术会议，2027设量子/信息/测量与材料等科学区域。量子光学及光物质/材料研究的适配为据此推断，须核实际专题分类；整体也含粒子、天体等广泛非光学方向。",
+    "website": "https://summit.aps.org/",
+    "notice": "https://summit.aps.org/attend/abstracts/contributed/",
+    "registration": "https://summit.aps.org/attend/registration/",
+    "submissionState": "published",
+    "requirements": [
+      "普通口头/海报摘要约1300字符，按系统默认格式；现场/线上选择可在10月22日前改，之后不能改。投稿者须APS或互惠学会会员，APS会员也可列非会员报告者；概要页会员措辞按具体指南边界理解。",
+      "普通报告10分钟+2分钟问答；每人通常最多一技术口头、一非技术口头和一海报，额外技术摘要可按容量转海报。报告者须参会报告，截止后不能增作者或重排作者。",
+      "早鸟至2月25日：APS Full研究生会员现场$299/线上$199，Basic及非会员$1029/$593；原文$未明确币种，仅2027当前表，不把参会费当论文出版费。其他身份/后续阶段请读完整费表。"
+    ],
+    "publication": "本轮核到摘要报告与会议注册规则，未确认统一论文集或实际数据库索引；APS期刊录用并非会议参会的自动结果。",
+    "notes": "APS事件页摘要10/22 17:00、早鸟2/25 23:59均未注明时区，保存日期级/原文而不造UTC。注册已开放、所有报告者须注册；4/2书面取消界限及$50手续费属退款规则，不作最终报名DDL。当前sorting categories页未列可读具体编码，光学子集需进一步核实；仅本届新记录，未将旧March/April届次自动改名。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通摘要截止（原文17:00，时区待核）",
+        "date": "2026-10-22",
+        "source": "https://www.aps.org/events/2027/summit"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟注册截止（原文23:59，时区待核）",
+        "date": "2027-02-25",
+        "source": "https://www.aps.org/events/2027/summit"
+      },
+      {
+        "type": "registration",
+        "label": "最终注册截止未在已读页面确认",
+        "date": null,
+        "source": "https://summit.aps.org/attend/registration/"
+      }
+    ]
   }
 ]
