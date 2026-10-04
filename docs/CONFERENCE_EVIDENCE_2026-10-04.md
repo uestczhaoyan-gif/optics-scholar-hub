@@ -266,3 +266,15 @@ AOE候选仅关联新AOE2008前身历史届；青年候选仅关联新2025联合
 | 字段与官方来源 | 已核事实/范围 | 边界与未知 |
 | --- | --- | --- |
 | AOE2008[Optica原存档第1–3页](https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf) | 上海Shanghai Expo Convention Center；技术会议2008/10/30–11/2，展览10/31–11/2；普通注册10/21日级。范围含光纤通信、器件、传感和生物光子，前身届次归入现有ACP时间线 | 全档54页，只前3页文本；初稿/模板/费用未核，不复用较新届规则。原档IEEE Xplore/OSA及INSPEC/Ei说明为出版计划，未核实际逐篇检索。前身名称在标题明确，AOE候选关联此独有历史记录 |
+
+## B5：ACP2026当前窗口（2026-10-04）
+
+| 字段与当届官方来源 | 已核范围 | 适用边界 |
+| --- | --- | --- |
+| [主页](https://www.acpconf.com/) / [普通投稿](https://www.acpconf.com/news/paper-submission) / [PDP](https://www.acpconf.com/news/post-deadline) | 普通7/15 23:59北京时间已过，7/22仅修改；PDP10/15 23:59北京时间仍公布开放。普通英文IEEE2–6页、PDP3页，双盲完整/匿名两版同核心，PDF eXpress70761X。录用后终稿10/25日级 | 原有已知稿规/期限保留；未登录后台或通读IEEE模板。PDP扩展期刊邀请非录用保证，终稿无精确时刻不造23:59 |
+| [注册](https://www.acpconf.com/news/registration) / [官方链接的LearningConf入口](https://learningconf.cn/MeetingAttendence/Index?conferenceId=20260106-CFMT-4D690461) | 早鸟须9/30 23:59北京前付费，已结束；当前会员3900/学生2100元，非会员4200/学生2200元；全职工作不享学生价。一篇包含，额外同报告人700元，最多代注册两篇；Workshop/Industry单独参加免费 | 不将免费卫星活动当论文注册；入口重定向登录，只公共页核费率，无注册支付。退款无固定截止/比例，不臆造；旧早鸟价格不作当前价 |
+| [会场/住宿](https://www.acpconf.com/news/venue-hotel) / 主页Hotel标签 | 会场杭州国际博览中心，奔竞大道353号；住宿预订与会议费另办。主页酒店预订期限10/29 | 酒店不等于会场酒店住宿必须购买，10/29不新增普通注册/论文事件；具体酒店空房未查，未预订 |
+| [议程](https://www.acpconf.com/news/program) | 主页9/30公告初步表；Programme页列部分session PDF，并说明仍调整/剩余国庆后公布 | 只网页公告/标签，未逐PDF读排期，不称最终议程完整核验 |
+| [展示](https://www.acpconf.com/news/presentation-guidelines) | 教程/邀请/普通60/30/15分钟含问答，30分钟前上传检查；海报建议高1.2×宽0.8米，无固定模板，指定板并现场答疑；英文 | 按时展示是出版条件，仅到场或迟贴不满足。未核最终个人session/实际单篇索引，不作Xplore或EI覆盖保证 |
+
+仅这组ACP2026官方公开页未见2027日城/投稿；nextEditionCheckedAt仅表示此范围后续公告检查，不代表所有互联网均无公告。保留ACP稳定ID与AOE2008前身历史，不外推下一届。整届checkedAt仍9/9；其他117届/97系列、所有其他JSON与数量保持。

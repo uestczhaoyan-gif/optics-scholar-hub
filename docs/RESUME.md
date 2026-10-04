@@ -310,3 +310,7 @@ C28 54280b926e6778fa0feec7a5206e67d99bc48b07已验收[Pages37212173896](https://
 ## 2026-10-04：Chemical Reviews综述样例 E30
 
 E29 5e95fb7ffb508e365c3eca378551bdf8b0f6bdee已验收[Pages37212635676](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37212635676)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，180cf9a0dc8adb76236d6ecebf2c597e37b910483f721553b943c525dbc97712与本地一致（2026-10-04T15:22:23.748Z）。 Chemical Reviews补三篇近两年不同期次光学综述样例：仿生结构色、光学胶体组装、生物正交光成像治疗。三篇均Review，仍按邀稿/获批提案路径，不当原创实验或临床证据；首次在线与2025/2026较晚卷期分开。仅一scopeExamples，84其他刊/旧33刊样例及整刊日期、指南费用/索引分区与其他JSON保持，34刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届与194/74/5保持，其他规划继续。
+
+## 2026-10-04：ACP当前窗口 B5
+
+E30 ae93dbd30a597d16bb8dc58e2b233c22c021152c已验收[Pages37213012360](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37213012360)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，b29af266af91fa1224a934689c95c9e824b6052720be134462b341b088639766与本地一致（2026-10-04T15:31:26.935Z）。 ACP2026补杭州国际博览中心、当前普通费率/论文覆盖和展示条件；早鸟从日级细化为9/30 23:59北京时间付费截止（已过），核心通知转向当前PDP10/15 23:59，10/25终稿仍仅日期。初步议程待完整公布，酒店10/29不造论文/注册事件；限定范围未见2027公告，保留稳定系列与前身历史。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。仅现届核实字段及同系列sources/后续公告日变化，整届日期/117其他届、97其他系列/其他JSON和85/118/10、194/74/5、34样例保持；其他规划继续。

@@ -7,24 +7,27 @@
     "nameEn": "Asia Communications and Photonics Conference",
     "region": "中国境内",
     "location": "中国 · 杭州",
-    "venue": "具体会场请查看官网参会通知",
+    "venue": "杭州国际博览中心（Hangzhou International Expo Center），杭州市萧山区奔竞大道353号",
     "start": "2026-11-01",
     "end": "2026-11-04",
     "topics": ["光通信", "集成光子", "传感与测量"],
     "description": "面向光通信、光传感和光电子器件的国际会议，适合器件、系统与网络方向交流。",
     "website": "https://www.acpconf.com/",
-    "notice": "https://www.acpconf.com/news/paper-submission",
-    "registration": "https://www.acpconf.com/",
+    "notice": "https://www.acpconf.com/news/post-deadline",
+    "registration": "https://www.acpconf.com/news/registration",
     "checkedAt": "2026-09-09",
     "evidence": "official",
     "submissionState": "published",
     "requirements": [
       "普通论文：英文、IEEE 双栏 2–6 页，包含图表与参考文献；提交完整稿和匿名审稿稿，两者核心内容一致。",
       "PDP：3 页英文 IEEE 模板论文，同时提交完整版本与匿名审稿版本，除作者识别信息外核心内容须一致；使用 IEEE PDF eXpress，会议编号 70761X。",
-      "从官网进入 Learning Conference 系统，选择 ACP 2026 后提交摘要和论文；注册缴费、参会报告与最终 PDF/版权手续分别完成。"
+      "从官网进入 Learning Conference 系统，选择 ACP 2026 后提交摘要和论文；注册缴费、参会报告与最终 PDF/版权手续分别完成。",
+      "2026-10-04部分核验注册 https://www.acpconf.com/news/registration：9/30早鸟已结束。现普通费率：IEEE/Optica/SPIE会员3900元、会员学生2100元，非会员4200元、非会员学生2200元；学生费率不适用于全职工作者。注册含一篇，额外同报告人论文700元，最多代注册两篇；只参加Workshop/Industry Forum免费，不能替代普通论文注册。",
+      "2026-10-04核展示 https://www.acpconf.com/news/presentation-guidelines：Tutorial/Invited/Oral为60/30/15分钟（含问答），提前30分钟到会场上传检查PPT。海报建议高1.2×宽0.8米，无固定模板，须在对应Control ID板张贴并现场答疑；英文报告，迟贴或未展示不满足出版条件。",
+      "2026-10-04核议程 https://www.acpconf.com/news/program：主页9/30宣布初步议程，现有部分session PDF入口；仍可调整，剩余议程预计国庆后发布。只读网页公告及文件标签，未通读各PDF，不将初步表视作最终排期。"
     ],
-    "publication": "至少一位作者注册缴费并现场报告，最终稿需完成版权与 PDF 认证。PDP 扩展稿的期刊邀请不等于期刊录用。",
-    "notes": "普通投稿由 7 月 1 日延至 7 月 15 日；7 月 22 日仅为已有投稿修改窗口。2026-09-10 复核：首页宣布 PDP 已开放，PDP 说明页已提供提交链接；仍需登录官方系统确认提交状态。 2026-10-04仅补系列沿革：AOE与APOC在2009合并为ACP，AOE为前身之一而非另一个AOE2026活动；依据中国光学学会2016介绍 https://cncos.org.cn/Content/view/id/358.html 及Optica2009 ACP官方存档第一页。当前稿规/会期与整届核验日期不随沿革编辑刷新。",
+    "publication": "至少一位作者注册缴费并现场报告，最终稿需完成版权与 PDF 认证。PDP 扩展稿的期刊邀请不等于期刊录用。 2026-10-04注册/展示页明确no-show不在IEEE Xplore出版；仅到场未按时展示也无效。这是本届出版条件，未核实际2026单篇数据库收录。",
+    "notes": "普通投稿由 7 月 1 日延至 7 月 15 日；7 月 22 日仅为已有投稿修改窗口。2026-09-10 复核：首页宣布 PDP 已开放，PDP 说明页已提供提交链接；仍需登录官方系统确认提交状态。 2026-10-04仅补系列沿革：AOE与APOC在2009合并为ACP，AOE为前身之一而非另一个AOE2026活动；依据中国光学学会2016介绍 https://cncos.org.cn/Content/view/id/358.html 及Optica2009 ACP官方存档第一页。当前稿规/会期与整届核验日期不随沿革编辑刷新。 2026-10-04部分核验当届主页、普通稿/PDP、注册、场馆、议程和报告页：PDP官方页面仍提供开放入口，10/15 23:59北京时间截止；LearningConf注册入口跳登录，未登录或验证后台提交状态。早鸟必须9/30 23:59北京时间前付费，已过；10/25仅录用后终稿日期，时刻未知。官网Hotel 10/29只住宿预订截止，不当论文或注册DDL；住宿付款与会议费另办。退款页未给固定截止/比例，须官方确认。会场已核，整届checkedAt保留9/9以标明部分核验，内部模板/最终议程与实际索引仍未核。本次仅检查所列ACP2026公开页，未见2027日城/投稿公告，不按年会周期推造下一届。",
     "deadlines": [
       {
         "type": "paper",
@@ -35,10 +38,11 @@
       },
       {
         "type": "registration",
-        "label": "早鸟注册截止",
-        "date": "2026-09-30",
-        "source": "https://www.acpconf.com/",
-        "note": "官网仅公布日期，具体时刻待核实。"
+        "label": "早鸟注册付费截止（已过）",
+        "at": "2026-09-30T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://www.acpconf.com/news/registration",
+        "note": "须在此前完成缴费才享早鸟；当前应看普通费率，不能仅注册未支付。"
       },
       {
         "type": "pdp",
