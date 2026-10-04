@@ -1800,12 +1800,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "相关性高，但仍必须逐年核实分区门槛",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://opg.optica.org/col/home.cfm",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["chinese-optics-letters"],
+    "decisionReason": "直接光学身份、当前SCIE/EI数据库依据及明确版年JCR 2025 JIF Q1/Q2机构转载参考已核；非2026官方平台/CAS复核。",
+    "nextAction": "确认当前投稿协议/页限与现版价表；保留OPG与CLP材料差异。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-b02fdc8599",
@@ -1814,12 +1814,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "专题征稿与常规投稿区别，核实分区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ieeephotonics.org/publications/journal-of-quantum-electronics/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-jqe"],
+    "decisionReason": "直接光学身份及SCIE/EI数据库依据已核，JCR 2025 JIF Q3；按EI工程补充准入，不误用AIS Q2。",
+    "nextAction": "继续核模板内部、未知硬限/其他费用与明确年度的分区/CAS。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-a6581a61e0",
@@ -1828,12 +1828,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "专题征稿与常规投稿区别，核实分区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ieeephotonics.org/publications/journal-of-selected-topics-in-quantum-electronics/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-jstqe"],
+    "decisionReason": "直接光学身份、当前SCIE/EI数据库依据及明确版年JCR 2025 JIF Q1/Q2机构转载参考已核；非2026官方平台/CAS复核。",
+    "nextAction": "逐项核当期专题CFP与截止、模板内部；补2026分区/CAS。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-5ec1e9575c",
@@ -1842,12 +1842,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "专题征稿与常规投稿区别，核实分区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ieeephotonics.org/publications/photonics-journal/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-photonics-journal"],
+    "decisionReason": "直接光学身份及SCIE/EI数据库依据已核，JCR 2025 JIF Q3；按EI工程补充准入，不误用AIS Q2。",
+    "nextAction": "继续核模板内部、未知硬限/其他费用与明确年度的分区/CAS。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-fdfd788643",
@@ -1856,12 +1856,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "专题征稿与常规投稿区别，核实分区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ieeephotonics.org/publications/photonics-technology-letters/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-ptl"],
+    "decisionReason": "直接光学身份、当前SCIE/EI数据库依据及明确版年JCR 2025 JIF Q1/Q2机构转载参考已核；非2026官方平台/CAS复核。",
+    "nextAction": "继续核模板内部、未知硬限/其他费用与明确年度的分区/CAS。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-9d6bdf8c8c",

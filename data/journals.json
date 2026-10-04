@@ -6129,5 +6129,400 @@
         "relevance": "2026-10-05核公开摘要/元数据，上网日2026-05-21，75(18)180303刊出2026-09-20。相向激光驱动133Cs BEC相干动量转移，吸收成像测Rabi振荡并与二能级模型对应，支持原子/量子光学实验；物质波干涉和量子模拟为方案参考，不称已建精密干涉仪。"
       }
     ]
+  },
+  {
+    "id": "chinese-optics-letters",
+    "name": "Chinese Optics Letters",
+    "abbr": "COL",
+    "publisher": "Chinese Laser Press（Optica Publishing Group 海外发行）",
+    "issn": "1671-7694",
+    "eissn": null,
+    "website": "https://opg.optica.org/col/home.cfm",
+    "guide": "https://opg.optica.org/ao/col/journal/col/author.cfm",
+    "domains": ["光学", "物理", "电子"],
+    "topics": ["综合光学", "激光与非线性", "光通信", "集成光子", "量子光学"],
+    "description": "英文月刊，直接覆盖光学与光子学基础、器件和应用。JCR 2025 OPTICS Q2为机构转载参考；COL作者指南的页数和版权表述与其他官方材料存在差异，保留待确认事项。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核分发站公开作者指南：英文摘要至多100词、2–5关键词，Word或LaTeX及PDF，单独图片分辨率高于300dpi，参考文献含文章题名，提交cover letter。原模板内部未读。",
+      "同页正文称最多5个印刷页，收费段却列额外页费至6页；当前硬页限未知，不能选取收费段作为放宽投稿篇幅的依据。",
+      "官网列实际投稿入口 https://mc03.manuscriptcentral.com/clp-col 。旧指南要求版权转让；另有2025-04-15修订CLP许可全文，CC BY 4.0、非独占出版许可并保留作者版权，附中国作者脱密证明。当前系统实际适用协议未核；不从文件名推断适用所有地区。许可来源：https://researching.cn/Post/files/2025/4/CLP%20CC%20BY%20License_Chinese%20Optics%20Letters_for%20Chinese%20Author.pdf",
+      "至少两位单盲审稿人；仅核公共指南段落，未登录投稿、签署协议或核系统内清单。"
+    ],
+    "publishing": "2026-10-05核分发站费率：至4页RMB4520，额外页RMB1000（该段称最多6页，与正文5页冲突）。价表无独立2026版本及税说明。CLP 2025-04-15许可标CC BY 4.0并保留作者版权，但正文使用Green Open Access，未据此改成已确认Gold OA；当前模式/协议需核。来源：https://opg.optica.org/ao/col/journal/col/author.cfm；https://researching.cn/Post/files/2025/4/CLP%20CC%20BY%20License_Chinese%20Optics%20Letters_for%20Chinese%20Author.pdf",
+    "schedule": "公开指南初筛1–2周、外审约30天、返修7或10天、再审15–30天；About另列审稿约30/发表约100天，均未给统计年或样本，不相加或保证个稿。来源：https://opg.optica.org/ao/col/journal/col/author.cfm；https://opg.optica.org/content/journal/about/item/col/",
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1671-7694&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第798行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。"
+      }
+    ]
+  },
+  {
+    "id": "ieee-jqe",
+    "name": "IEEE Journal of Quantum Electronics",
+    "abbr": "JQE",
+    "publisher": "IEEE",
+    "issn": "0018-9197",
+    "eissn": "1558-1713",
+    "website": "https://ieeephotonics.org/publications/journal-of-quantum-electronics/",
+    "domains": ["光学", "物理", "电子"],
+    "topics": ["量子光学", "激光与非线性", "电子与器件", "集成光子"],
+    "description": "2025-03更新范围强调光子、光物质相互作用及波长小于1mm的器件和系统；量子计算须涉及光子控制或相互作用。JCR 2025四学科JIF均Q3，按数据库EI工程补充准入，不将AIS Q2当JIF Q2。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "QUANTUM SCIENCE & TECHNOLOGY",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=686",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核学会作者指南：双栏稿，review用PDF/Word，LaTeX用于后续处理；所有作者需ORCID，Impact Statement少于250词，解释相对既有理解/器件的进步，不重复摘要。统一摘要硬词数及模板内部未核。",
+      "普通稿8页、邀稿12页为超页收费分档；不得当作已核实绝对页限。初筛后至少两位单盲审稿人，通常最多两轮返修。",
+      "官方实际入口 https://ieee.atyponrex.com/journal/jqe-ieee ，公开工具仅返回Loading；未登录或核系统内材料。"
+    ],
+    "publishing": "Hybrid，2026按投稿日OA APC USD2800，税及其他费用另计；本刊仍挂2025 USD2645为旧年。指南超8页普通稿/12页邀稿USD220每页，未标该超页价的年份；传统路径免OA APC不代表全部免费。来源：https://ieeephotonics.org/publications/journal-of-quantum-electronics/；https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "学会指南报投稿至决定平均约40天，统计年/样本未给；录用后Early Access 2–3天与上传完整最终文件后一周的FAQ口径分开，均非保证。专题/邀稿另依当期通知。来源：https://ieeephotonics.org/publications/journal-of-quantum-electronics/",
+    "guide": "https://ieeephotonics.org/publications/journal-of-quantum-electronics/",
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0018-9197&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第1939行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。"
+      }
+    ]
+  },
+  {
+    "id": "ieee-jstqe",
+    "name": "IEEE Journal of Selected Topics in Quantum Electronics",
+    "abbr": "JSTQE",
+    "publisher": "IEEE",
+    "issn": "1077-260X",
+    "eissn": "1558-4542",
+    "website": "https://ieeephotonics.org/publications/journal-of-selected-topics-in-quantum-electronics/",
+    "domains": ["光学", "物理", "电子"],
+    "topics": ["量子光学", "激光与非线性", "电子与器件", "集成光子"],
+    "description": "一年六期，每期专门主题，面向光学/量子电子器件与系统原创研究。须匹配具体专题征稿；JCR 2025光学/应用物理/电气电子Q1、量子科学Q2为机构转载参考，非2026版。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "QUANTUM SCIENCE & TECHNOLOGY",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=686",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核学会指南：Review/Tutorial仅邀请；Perspective 2–3页、1–2图、20篇参考文献。常规研究与邀稿限制分别处理，具体专题CFP截止尚未逐项核实，不称全年不限期投稿。",
+      "Impact Statement少于500字符（含空格），不重复摘要；所有作者ORCID。普通8页/邀稿12页为超页费用分档，非已核绝对上限；模板内部和统一摘要硬词数未核。",
+      "Guest Editor初筛后至少两位单盲审稿人，通常两轮返修。公开指南入口 https://ieee.atyponrex.com/journal/jstqe-pho ，未登录或核系统内清单。"
+    ],
+    "publishing": "Hybrid，2026按投稿日OA USD2800，税/其他费用另计；本刊2025 USD2645为历史价。普通超8页或邀稿超12页指南列USD220每页，超页价年份未标。来源：https://ieeephotonics.org/publications/journal-of-selected-topics-in-quantum-electronics/；https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "学会指南平均投稿至决定约40天，未标统计年/样本；录用后Early Access 2–3天与最终文件后一周FAQ为不同步骤，非保证。每期专题单独征稿，本批未核具体CFP截止。来源：https://ieeephotonics.org/publications/journal-of-selected-topics-in-quantum-electronics/",
+    "guide": "https://ieeephotonics.org/publications/journal-of-selected-topics-in-quantum-electronics/",
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1077-260X&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第1943行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。"
+      }
+    ]
+  },
+  {
+    "id": "ieee-photonics-journal",
+    "name": "IEEE Photonics Journal",
+    "abbr": "IEEE PJ",
+    "publisher": "IEEE",
+    "issn": null,
+    "eissn": "1943-0655",
+    "website": "https://ieeephotonics.org/publications/photonics-journal/",
+    "domains": ["光学", "电子", "物理"],
+    "topics": ["综合光学", "集成光子", "光通信", "量子光学", "成像与计算光学"],
+    "description": "仅在线全开放获取，覆盖基础、器件与应用光子学。光学反演及光子神经硬件可适配，不能扩为全部AI算法；JCR 2025三学科JIF Q3，按数据库EI工程补充准入。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核学会指南：2021起两栏，审稿PDF/Word、后处理可LaTeX；需作为封面图的graphic abstract，所有作者ORCID，Impact Statement少于500字符含空格，不能复制摘要。硬页限/统一摘要词数及模板内部未核。",
+      "至少两位单盲审稿人，通常一轮返修；官方指南入口 https://ieee.atyponrex.com/journal/pj-ieee ，未登录或核系统内清单。"
+    ],
+    "publishing": "全OA，CC BY且作者保留版权，本刊现页USD2160与IEEE 2026多数全OA USD2160表独立相符；按投稿日，适用当地税另计。机构协议/个人减免资格未评估。来源：https://ieeephotonics.org/publications/photonics-journal/；https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "学会指南平均投稿至决定约77天，未给统计年/样本；录用后2–3天Early Access与上传完整最终文件后一周FAQ为不同口径，非个稿承诺。来源：https://ieeephotonics.org/publications/photonics-journal/",
+    "guide": "https://ieeephotonics.org/publications/photonics-journal/",
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1943-0655&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。MJL另列1943-0647但介质归属未核；官网仅在线且EI表电子1943-0655，印刷号null，不照搬转载JCR纸/电子栏。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第1995行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。"
+      }
+    ]
+  },
+  {
+    "id": "ieee-ptl",
+    "name": "IEEE Photonics Technology Letters",
+    "abbr": "PTL",
+    "publisher": "IEEE",
+    "issn": "1041-1135",
+    "eissn": "1941-0174",
+    "website": "https://ieeephotonics.org/publications/photonics-technology-letters/",
+    "domains": ["光学", "电子"],
+    "topics": [
+      "集成光子",
+      "电子与器件",
+      "光通信",
+      "激光与非线性",
+      "传感与测量"
+    ],
+    "description": "半月刊短报，面向激光器、探测器、光纤/集成器件与光子技术应用。JCR 2025 OPTICS及电气电子Q2、应用物理Q3分别保存，不把最佳分区推广到全部学科。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核学会指南：Letter最多4个印刷页，Impact Statement至多100词；所有作者ORCID，按IEEE模板准备，模板内部及统一摘要词数未核。",
+      "至少两位单盲审稿人，通常三轮返修；官方入口 https://ieee.atyponrex.com/journal/ptl-ieee 跳Research Exchange，工具访问失败，未登录或核系统内清单。"
+    ],
+    "publishing": "Hybrid，2026按投稿日OA USD2800，适用税/其他费用另计；本刊挂2025 USD2645为旧年。本批未取得PTL独立超页费率，不挪用JQE/JSTQE USD220；四页硬限仍保留。来源：https://ieeephotonics.org/publications/photonics-technology-letters/；https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "学会指南平均投稿至决定约77天，未给统计年/样本；录用后2–3天Early Access与最终文件后一周FAQ为不同步骤，非保证。来源：https://ieeephotonics.org/publications/photonics-technology-letters/",
+    "guide": "https://ieeephotonics.org/publications/photonics-technology-letters/",
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1041-1135&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第1996行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。"
+      }
+    ]
   }
 ]

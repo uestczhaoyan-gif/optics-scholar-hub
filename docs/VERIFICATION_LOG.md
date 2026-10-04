@@ -1207,3 +1207,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 浏览器实读官方简介/2026审稿政策、MJL唯一卡和三篇原页摘要/元数据；Web实读2026-06完整指南。未登录/联系/支付/投稿；模板/协议/全文SI未读。稿型软/硬限、平均周期/专家邀请时限与应用前景均保留边界。必要验证和差异审查后上传，按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定6669f5c基线的旧86刊/34样例、272其他候选及全部其他JSON保持、一候选六审核字段白名单与87/196-71-6、73/12/80计数断言通过；三篇日期/卷期与未知费用/分区边界通过。297本地Markdown链接、维护395项/12主题覆盖、Pages子路径六资源构建exit0和数据/文档差异审查通过；git diff --check通过。同SHA完整31项测试/typecheck/lint由CI验收。
+
+## 2026-10-05：直接光学五刊 F6
+
+- F5 325862d55c4a82e95df2b01bd4cbc48ab6f9d8b2已验收[Pages37244250870](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37244250870)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，2567f82ade82b4ec5236d4d8951e954ac08c4a89ab06b35cadfb2d665890979b与本地一致（2026-10-04T23:35:27.515Z）。正式编辑前已验收。work/F6_RESEARCH_2026-10-05.md保存来源/未知；最近实际五小时30%/周69%允许，不用重置券。
+- F6新增COL、IEEE JQE/JSTQE/Photonics Journal/PTL五刊，独立MJL SCIE和EI来源表依据；JCR 2025指标2024的15条JIF学科分区保存为机构转载参考，不取AIS或推2026/CAS。COL/JSTQE/PTL有Q1/Q2；JQE/PJ按EI补充，JIF Q3仍保留。当前92刊/118届/10活动、273候选201 admitted/66 pending/6 deferred、SCIE78/ESCI12/EI85、JCR73/CAS11、35刊样例。旧87刊/35样例和其他JSON保护；[逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f6五本直接光学期刊)。其他规划继续。
+- 五MJL唯一SCIE卡、EI新号、学会四刊与COL原指南、IEEE2026费用表实读；JCR七页渲染核JIF列，COL四页许可全文与修订日核实。JQE/PJ AIS Q2不能误用；COL Green词语/许可及5/6页差异保留。只指南当前挂载段，专题CFP/模板内部/系统清单/现版COL价表未核。必要验证、差异审查和子路径构建后上传，按同SHA验收。其他规划继续。
+- 发布前数据校验、固定325862d的旧87刊/35样例、268其他候选与其他JSON保护通过；五候选六字段白名单、92/201-66-6、78/12/85及73/11计数、15条JIF学科和COL/PJ/PTL未知/冲突边界断言通过。302本地Markdown链接、维护410项/12主题覆盖、Pages子路径构建六资源exit0与数据/文档差异审查通过，git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
