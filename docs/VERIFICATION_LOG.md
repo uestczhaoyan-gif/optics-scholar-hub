@@ -1018,3 +1018,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 只两scopeExamples，其他83刊及旧20刊样例和全部其他JSON保持，22刊至少三篇。必要验证/范围/文档/报告/构建/差异审查后上传验收同SHA，未用重置券，其他规划继续。
 
 - 发布前数据校验、两scopeExamples字段/全部其他学术数据保持与22刊样例计数断言通过；162个本地Markdown链接、维护329项/后续两项和12主题覆盖通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-04：传感三篇及AAAS指南 E21
+
+- E20 80d6b09d8f599178561b9422d39680ee50dac698已验收[Pages37183642235](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183642235)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，309e859fe34019811b0cb957d098827bf40f2d5cb9b0bb32896c7e74c2deeefd与本地一致（2026-10-04T06:44:52.005Z）。 work/E21_RESEARCH_2026-10-04.md保存长操作前范围与验收；正式编辑前接受成功，实际五小时46%/周40%允许，未用重置券。
+- [三篇样例](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)/[当刊指南费用](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)实际正常浏览器读取；收费页超时只复查同页，未造重复提交。15000/10000稿型、150词摘要、SI/辅助限制与USD5450/大陆附加/减免范围分开。
+- ACS Sensors仅scopeExamples；Science Advances仅requirements/publishing；其他83刊/旧22刊样例/全部其他JSON与整刊日期保护。必要验证/文档/报告/构建和差异审查后推送验收同SHA，其他规划继续。
+
+- 发布前数据校验、指定三字段白名单/旧22刊样例/其他83刊及全部其他JSON保持与23刊计数断言通过；170个本地Markdown链接、维护329项/后续两项和12主题覆盖通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；同SHA CI验收完整31项测试/typecheck/lint。

@@ -16,3 +16,15 @@
 ACS页面当前DOI跳至新的article-abstract路径，公开摘要和明确页首日期仍可读；不猜API或用Received/Accepted替代发表日。Science标题/日期/卷期从当篇页首实际读，未凭搜索摘要的“数月前”推算。样例可支持这些方向的发表适配，不能保证新稿录用，也不能推成刊物所有内容均光学。
 
 仅两scopeExamples字段，其他83刊/旧20刊样例、全部索引分区、费用/指南/完整核验日和所有其他JSON保持。至少三篇样例刊数20→22；正式85刊/85会议/10活动及273候选172/96/5不变。
+
+## E21：ACS Sensors三独立期次
+
+实际普通浏览器读取三出版社页头日期、卷期、原题及摘要，第三篇另读器件引言。全部近两年；仅本刊scopeExamples，不更改作者指南、费用、索引分区或完整核验日。
+
+| 原题 / 官方出处                                                                                                                           | 首次发表 / 期次                         | 光学适配与边界                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Developing Fluorescence-Based Sensors to Support Rare Earth Element Separation](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c00833) | 2025-04-23；10(7),4974–4982，期次7/25   | 复杂混合液/微流控中荧光光谱和数据分析定量镧系；工业监测方法适配，未核工业部署。                       |
+| [A Novel Interference-Based Supercritical Angle Fluorescence Biosensor](https://pubs.acs.org/doi/10.1021/acssensors.5c02258)              | 2025-11-21；10(12),9391–9396，期次12/26 | 干涉滤光/超临界角近场采集与蛋白A分析验证，生物光学换能；非临床批准证据。                              |
+| [Rapid Onsite Detection of Fecal Contamination in Water Using a Portable Fluorometric Assay](https://doi.org/10.1021/acssensors.5c03922)  | 2026-02-16；11(2),1570–1578，期次2/27   | LED/微型光学/手机相机与荧光试纸检测尿胆素，台式对比和河水/污水样品验证；不视为全部病原/饮水安全认证。 |
+
+保留4/23与7/25相隔数月的首次/期次区别；没有用Received或Accepted代发表日。样例刊数22→23，旧22刊样例保持；E21同时独立补Science Advances作者规则，见[指南证据](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。

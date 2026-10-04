@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 11 / 85          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 78 / SCIE 72  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 72 / ESCI 11 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十二刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances；首次上线日期、卷期及在线校正稿状态见 [样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十三刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors；首次上线日期、卷期及在线校正稿状态见 [样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -553,3 +553,7 @@ C20 5c0fc68746a0ece6dbd2b0c9b30355e5f345365e已验收[Pages37183109619](https://
 ## E20：纳米及综合科学光学样例（2026-10-04）
 
 E19 631927d8e1e4fb0bf0cd43d0fc0ce344a4757bfe已验收[Pages37183364095](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183364095)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，9f52fa463c37ad08fc9b179819a8404f79fa9eacba11a98137a5719628794601与本地一致（2026-10-04T06:38:59.741Z）。 两刊各三独立期次：超表面生化传感/双层探测器/光谱，光阱/仿生成像/天文偏振，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。摘要适配不当全篇复现，首次日与期次分开；仅scopeExamples，至少三篇样例现22刊。其余规划继续，已有每日巡检与五小时额度任务保持。
+
+## E21：传感适配和综合刊准备（2026-10-04）
+
+E20 80d6b09d8f599178561b9422d39680ee50dac698已验收[Pages37183642235](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183642235)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，309e859fe34019811b0cb957d098827bf40f2d5cb9b0bb32896c7e74c2deeefd与本地一致（2026-10-04T06:44:52.005Z）。 ACS Sensors三近两年独立期次样例与Science Advances本刊指南/费用分开核验，[样例范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)、[指南范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。23刊≥3样例，数量和其他学术事实保持；其余材料/器件、临近字段、分区索引规划继续。
