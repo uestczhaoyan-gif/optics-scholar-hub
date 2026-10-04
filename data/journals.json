@@ -3945,9 +3945,13 @@
     "guide": "https://www.sciencedirect.com/journal/dyes-and-pigments/publish/guide-for-authors",
     "requirements": [
       "官网范围明确排除染料降解、去除或废水处理，以及一般无机颜料、无机发光体／荧光粉；综述须先提交提案获编辑同意。",
-      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+      "2026-10-04本刊作者指南部分核验：Full Text、State-of-the-Art Review与Short Communication分别处理。综述先联系编辑核主题，并用官网Review Proposal Form提案获批准；短文≤1500词、≤10条参考文献、图和/或结构式合计≤3，需补充材料。普通长文未核到统一词数上限。",
+      "摘要≤250词，英文关键词1–7。初投必须交Highlights：独立可编辑文件、3–5条，每条≤85字符含空格；图形摘要也必需、独立文件，≥531×1328像素（高×宽）或同比更高，5×13cm可读，首选TIFF/EPS/PDF/MS Office。",
+      "初投通过 https://submit.elsevier.com/DYPI 提供doc/docx或tex可编辑源文件，PDF不作源文件，Word单栏/LaTeX可双栏，系统生成评审PDF；单盲、通常至少两位评审。补充随稿交、正文引用且附说明，返修才增加/替换；视频建议每件≤150MB、合计≤1GB，按preferred保存而非绝对硬上限。",
+      "完整研究稿的详细实验方法和化合物表征须在正文；短文的相应方法/表征在ESI补充。所有新化合物及分离中间体按当刊要求提供鉴定；相关UV–Vis/荧光等数据注明介质、波长及相应光谱参数，荧光寿命为理想补充而非统一硬要求。晶体结构须提交CCDC编号并在ESI附CIFCheck，具体适用样品按指南核对。",
+      "本刊Research data为Option C：要求存相关仓库并引用/链接，不能共享须说明原因；初投数据可用性声明必需。允许合规分享预印本，不算先前发表；可选SSRN预印本服务并不影响评审。来源 https://www.sciencedirect.com/journal/dyes-and-pigments/publish/guide-for-authors 。"
     ],
-    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+    "publishing": "2026-10-04当刊官方OA页：订阅或Gold OA可选，全部稿型OA APC USD 3850、不含税，实际个人/机构协议报价另核。订阅路径无OA出版费，不等于所有潜在费用为零；当前列CC BY/CC BY-NC/CC BY-NC-ND，作者保留版权，出版选择不影响评审/录用。订阅接受稿机构库自存档禁限期24个月，自最终可引用版本正式上线起算。来源 https://www.sciencedirect.com/journal/dyes-and-pigments/publish/open-access-options 。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -4347,14 +4351,18 @@
     "eissn": "1557-9948",
     "domains": ["电子", "机械与制造", "光学"],
     "topics": ["电子与器件", "传感与测量"],
-    "description": "面向工业电子、测量和控制应用的工程期刊；工业光学传感及相关系统研究需论证工程应用价值和本刊适配性。",
+    "description": "面向工业电子、测量与控制系统的工程期刊，要求实验验证；官网将纯光学工程等列为通常不适配方向。涉及光学的跨域稿件须明确工业电子/电气系统贡献并核实选题，不能仅因含光学传感就视为适配。",
     "website": "https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics",
-    "guide": "https://www.ieee-ies.org/images/files/tie/resources/TRANS-JOURpdf_0324.pdf",
+    "guide": "https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/initial-submission",
     "requirements": [
       "按本刊官方作者清单准备工程研究稿件，明确工业应用背景与技术贡献。",
-      "所列作者说明为出版社留存的版本化 PDF；最新页数、费用和投稿系统仍需从期刊首页核实，不将旧版参数作为当前保证。"
+      "2026-10-04当前官网部分核验：Regular初投≤10页（含作者简介/照片）、返修≤12页，主页明示2025-01-01起实行；Letters初投≤4页、返修≤6页，主页2024-11公告，终稿Letters不含作者简介/照片。旧最终文件页仍8页/最多10页口径，不能作为现行页限保证。",
+      "需以含PC/笔记本以外硬件的装置进行实验验证；符合要求的HiL等硬件平台可计作实验装置，纯软件仿真不满足。官网通常排除光学工程、计算机视觉/图像处理、传感器基础物理及无电子/电气子系统的传感器等；选题不明时向编辑核适配。来源 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/out-of-scope-topics 。",
+      "本刊单盲、至少两位独立评审；初投稿IEEE双栏、保留作者身份，PDF为主（Word可由系统转换），文件≤40MB。所有作者须ORCID，主邮箱必须为机构邮箱；使用官网当前链接的 https://mc.manuscriptcentral.com/tie-ieee 完成全部步骤并收到确认，仅上传文件不算投稿完成。",
+      "不常规接受综述/现状总结或项目报告，编辑部特准稿除外；多部分稿须事先获主编同意。会议扩展稿用Post Conference模板并引用既有会议工作，当前模板版本按实际下载核实。",
+      "录用最终文件需可编辑Word/LaTeX源、与源匹配的排版PDF及适用图件/补充，打包ZIP按系统要求交；最终文件页的旧页限/旧单价与当前公告冲突，实际终稿条件须按录用说明核对。摘要具体词数和更细版权/数据条款须另核。来源 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/initial-submission 和 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/information-for-authors 。"
     ],
-    "publishing": "出版模式、开放获取及超页费用以本刊当前官方规定为准。"
+    "publishing": "2026-10-04当刊主页2026-01公告：2026年投稿的OA APC US$2800；IEEE会员5%或IEEE Society会员20%折扣，不叠加且本科/研究生不适用，资格和税/其他费用另核。2025起Regular前10页不收超页费，第11页起收费；Letters第5–6页收超页费。Final Submission页面仍以旧8/10页口径列US$250每页（IES会员US$200），本轮无法确认这两个单价仍适用当前政策，故当前超页单价保留待核验；前10页无超页费不等于免OA或全部出版费。出版模式及具体报价按投稿/录用协议核实。来源 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics 和 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/final-submission 。"
   },
   {
     "checkedAt": "2026-09-11",

@@ -1076,3 +1076,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 发布前数据校验、只两字段/原范围/其他84刊及全部其他JSON保持与25刊样例计数断言通过；189个本地Markdown链接、维护369项和12主题覆盖通过。Pages子路径构建及六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。最新实际五小时97%/周48%仍允许，优先完成本批上传验收并保存续接，不开启超出余额的新长批次。
 
 - E23 a5e2fc2c38ff7412fe7a5ca680c020787244e197已验收[Pages37187612957](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37187612957)：build/deploy及完整CI成功，首页/版本HTTP200，fce85f64fa7ddd533d6a658c68153f3937ccb3c37b02a91516816a6c903368a8与本地一致（2026-10-04T08:03:36.912Z）。最新实际五小时99%/周49%、ordinaryUsageAllowed=true，余额不足以可靠完成新批次，结束本轮；不是系统已拒绝使用。保护已上传成果，既有五小时调度重新检查，不用重置券/购买额度/恢复旧任务。此次只保存交接文档，目录摘要保持；交接提交也按自身SHA验收部署。
+
+## 2026-10-04：Dyes and Pigments / TIE指南 E24
+
+- 交接8ad95d30bd3e40741f94354f3827b9a74169d543已确认[Pages37187756331](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37187756331)：build/deploy及完整CI成功，首页/版本HTTP200，fce85f64fa7ddd533d6a658c68153f3937ccb3c37b02a91516816a6c903368a8与本地一致（2026-10-04T13:07:37.373Z）。 新窗口实际0%/周49%允许；先读三续接文档及实际GitHub状态，无未上传提交，work/E24_RESEARCH_2026-10-04.md在长操作前保存范围；未用重置券。
+- 两官网自动读取403/418，普通浏览器实际成功。Dyes and Pigments当前短文/提案、Highlights/图形摘要、化合物/光谱资料、Option C与USD3850不含税已核；TIE当前10/12页与4/6页、机构邮箱/ORCID/硬件实验、2026 US$2800及范围排除已核，旧最终文件页8/10页和超页价冲突明确保留，[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。只指定六字段、原范围条/完整核验日/分区索引/样例与其他83刊及所有其他JSON保持。85/103/10、88系列/12多届、273183/85/5及25刊样例不变。 DYPI提案仅核入口，不发送邮件/提交；TIE旧模板/摘要PDF内部未读，最新网站与旧最终页差异逐项保存，未登入或上传。
+- 只六字段及文档当前概览修正，必要校验/范围断言/文档/报告/构建/差异审查后逐批上传，并验收同SHA CI/Pages/线上版本；未改既有调度，其他规划继续。
+- 发布前数据校验、六字段白名单/原首条范围/其他83刊及所有其他JSON保持、25刊样例计数断言通过；192个本地Markdown链接、维护369项与12主题覆盖通过。Pages子路径构建和六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。
