@@ -1169,5 +1169,34 @@
       "https://iccv.thecvf.com/Conferences/2027/Dates"
     ],
     "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-c98100e238d7",
+    "name": "International Conference on Atomic Physics",
+    "aliases": ["ICAP"],
+    "editionIds": ["icap-2024", "icap-2026"],
+    "website": "https://www.icap29.com/home.html",
+    "sources": [
+      "https://icap28.com/",
+      "https://www.icap29.com/home.html",
+      "https://www.icap29.com/exhibitors.html",
+      "https://www.icap29.com/registration.html",
+      "https://www.icap29.com/previous-icaps.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-4db46216fe9f",
+    "name": "IEEE International Solid-State Circuits Conference",
+    "aliases": ["ISSCC"],
+    "editionIds": ["isscc-2027"],
+    "website": "https://www.isscc.org/",
+    "sources": [
+      "https://www.isscc.org/",
+      "https://www.isscc.org/paper-submission-26",
+      "https://www.isscc.org/late-breaking-news-1",
+      "https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
   }
 ]

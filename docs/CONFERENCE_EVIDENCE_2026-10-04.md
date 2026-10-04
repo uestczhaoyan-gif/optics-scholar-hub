@@ -200,3 +200,20 @@ CVPR、ECCV与ICCV是综合计算视觉会议；按各届CFP的计算成像、�
 ICCV2027未建正式届：[主页](https://iccv.thecvf.com/Conferences/2027)直接Hong Kong Convention and Expo Center、10/2–8/2027；[Dates](https://iccv.thecvf.com/Conferences/2027/Dates)却TueOct19–SatOct23/2027、场馆空白。Dates正常浏览器实际确认原文，不将可能残留的旧模板自行改成主会日期，也不任选主页数值；两页纳入系列sources及候选nextAction，待官方澄清。本候选因已核2025历史admitted，不代表2027准入。
 
 原103届/88系列、85刊与27刊样例及其他JSON保护。新增后107届/91系列/13多届、273候选186/82/5；仅三候选六审核字段。继续原剩余计划，未登录、提交、联系主办方或更改调度。
+
+## C25：原子分子光物理历史与芯片投稿轨道（2026-10-04）
+
+ICAP是International Conference on Atomic Physics，不与Computational Accelerator Physics或其他同缩写系列合并；ISSCC为IEEE/SSCS综合固态电路会议，仅图像/光电/光子芯片子集适配。两官方站普通浏览器实际读取，本届含26的路径不凭字符串决定年份。
+
+| 条目/字段来源 | 已核事实与适用范围 | 未知/边界 |
+| --- | --- | --- |
+| ICAP2024：[29届往届页](https://www.icap29.com/previous-icaps.html)直接链接[28届主页](https://icap28.com/) | 第28届、2024-07-14–19、Imperial College London；AMO邀请全体报告/投稿海报。已展开Full Delegate/Student条款：每注册者最多1摘要，6/1截止，获接收后A0 portrait海报，无必须投稿要求 | 摘要词长/模板未核；virtual条款未展开，不能声称线上poster规范。Dinner NaturalHistory/Reception V&A场馆不是主会场。2028未得当届日城，不推周期 |
+| ICAP2024：[主页注册价格段](https://icap28.com/) | 至4/1 Standard（介绍称early）GBP full/student650/450，Late至5/10为750/550，现场850/650。美元仅括注近似值不录 | 三价格阶段，不把5/10当最终报名。所有价格/尺寸只2024，不平移2026；全文论文集/实际索引未知，poster gallery不等于索引论文 |
+| ICAP2026：[home](https://www.icap29.com/home.html)、[ImportantDates](https://www.icap29.com/exhibitors.html) | 第29届2026-06-14–19、Wuhan EastLakeInternationalConferenceCenter（EastLakeHotel北区），现场形式；量子光学/腔QED、钟/干涉仪/精密测量、冷分子、强场超快、量子气体/模拟。3/31早鸟、5/25注册与摘要截止、6/14到达/现场注册 | Dates实际路径exhibitors.html但正文正确，不凭路径当展览。日期均日级；SummerSchool/Satellite非主会期。欢迎contributedposter；摘要篇幅/模板/海报尺寸未知，不用2024A0；英中InformationPDF只核链接未读内部 |
+| ICAP2026：[Registration](https://www.icap29.com/registration.html) | 早鸟USD full/student500/350（CNY3500/2500）；普通4/1–5/25为650/450（4600/3200）；现场750/550（5200/3800），含sessions/会餐/咖啡/材料。住宿到店另付，自愿Banquet50USD/350CNY | 只本届发布费率，未登录付款/注册/住宿；5/25网上结束与现场费用分别保留。会议材料不是正式全文出版证明，论文集/索引unknown |
+| ISSCC2027：[官网](https://www.isscc.org/)、[2027 CFP PDF](https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf) | 2027-02-14–18 SanFrancisco MarriottMarquis；IEEE/SSCS。第一PDF页直接图像/事件传感器、LiDAR/ToF、medical optical microsystems、integratedphotonics/silicon-electronics-photonics、optical links/siliconphotonics。其他电子/AI主题不自动为光学 | 本届投稿路径/主题直接依据，不参考往届日期。五页PDF只前3文字/第1和3图；SHA256 068de124902a70be2d2d6c9e476ba4dab63c3e745bd511f3b4951e91923fee2c，6709920字节，正常TLS只读。每日来源5MB上限可能报too-large，不代表人工未读或要提高限制 |
+| ISSCC2027普通：[PaperSubmission](https://www.isscc.org/paper-submission-26)、PDF第3页 | 实际正文2027：普通2026-09-09 15:00 EDT(19GMT)，现已关闭；摘要≤500字符含空格，定量。两PDF：正文≤5页单栏双行距12ptArialNarrow、少于11000字符含空格（网页排除题名/引用/身份占位）；图≤2页本届模板。≤7主图（含可用芯片图/对照表），≤3补图仅评审不正文引用，表算图。≤30引用在系统单录不正文 | 模板只有入口/未核文件内部，非camera-ready规范；初稿双盲及图像密度工具必须运行，未实际运行提交。普通通知10/21；OpenDesign/OpenData徽章自愿，不写强制数据公开。JSSC邀请非期刊保证录用，全文Digest/实际索引未逐篇检索 |
+| ISSCC2027工业：[LateBreakingNews](https://www.isscc.org/late-breaking-news-1)、PDF第2页 | 限production-grade工业chip/IP、对应2027推出产品，最多4录用。10/7题名+短摘要意向；12/1 camera-ready格式论文；12/9工业review决定通知；12/14编辑批准/节目摘要是后续流程 | 全部日级，无时刻。普通稿不因此延期；LBN不能作为泛学生PDP，模板/篇幅内部未核，不套普通初稿5页。只公共政策与系统入口，未登录/提交/联系 |
+| ISSCC2027学生：PDF第2页StudentResearchPreview | 学生shortpresentation+poster展示，摘要10/21 | 与普通10/21通知是两个事件；资格/稿长/入口及是否Digest归档未核，不承诺发表或把SRP当普通/工业稿 |
+
+仅新增icap-2024、icap-2026与isscc-2027，建立ICAP历史时间线及未来芯片会；ICAP下一届具体日城未知，ISSCC作者注册/费率和LBN/SRP细化保持开放。旧107届/91系列及全部其他JSON保护，当前110届/93系列14多届、273候选188/80/5；85期刊/27刊样例、索引分区保持。

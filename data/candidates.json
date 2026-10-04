@@ -1375,12 +1375,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "原子分子光物理、冷原子与量子光学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.icap29.com/home.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["icap-2024", "icap-2026"],
+    "decisionReason": "逐届官方日期/地点和学术/光学适配已核；ICAP是原子分子光物理而非同缩写加速器会，ISSCC仅光子/成像芯片子集，普通/工业/学生轨道明确。",
+    "nextAction": "后续2028日城/征稿待当届官方公告，不能按两年周期推算；补2026摘要模板/尺寸与出版，旧2024A0不平移。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-3539dba22a",
@@ -1403,12 +1403,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "成像传感器、光电读出与相关芯片，ISSCC 仅条件适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.isscc.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["isscc-2027"],
+    "decisionReason": "逐届官方日期/地点和学术/光学适配已核；ICAP是原子分子光物理而非同缩写加速器会，ISSCC仅光子/成像芯片子集，普通/工业/学生轨道明确。",
+    "nextAction": "优先10/7工业LBN意向，仅2027推出产品/最多4篇；补LBN模板、SRP资格/归档和作者注册费用。普通稿已关闭，不混轨道/推算未来。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-db763d6c16",

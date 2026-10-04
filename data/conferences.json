@@ -5519,5 +5519,187 @@
         "source": "https://iccv.thecvf.com/Conferences/2025"
       }
     ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "icap-2024",
+    "series": "International Conference on Atomic Physics",
+    "year": 2024,
+    "name": "第28届国际原子物理会议 ICAP 2024（历史届次）",
+    "nameEn": "28th International Conference on Atomic Physics",
+    "region": "海外",
+    "location": "英国 · 伦敦",
+    "venue": "Imperial College London",
+    "start": "2024-07-14",
+    "end": "2024-07-19",
+    "topics": ["量子光学", "激光与非线性", "传感与测量"],
+    "description": "系列2026官方往届页直接链接的2024历史会，邀请全体报告与参会者投稿海报覆盖原子、分子和光物理；不能与同缩写加速器计算会议混合。",
+    "website": "https://icap28.com/",
+    "notice": "https://icap28.com/",
+    "registration": "https://icap28.com/",
+    "requirements": [
+      "注册参会者可提交一份概述近期研究的poster abstract，获接收后作contributed poster；每人仅一个摘要，海报A0 portrait。未核摘要词数/模板，不能推算篇幅。",
+      "官方主页提供现场与在线参会；本轮只核已展开Full Delegate/Student政策，未展开virtual细则或声称在线poster规则。",
+      "2024官网GBP现场标准full/student为650/450、late750/550、onsite850/650；美元括注为网页近似值未录。仅历史发布费率，不作2026/未来报价。"
+    ],
+    "publication": "已核形式为邀请报告及投稿海报，页面提供virtual poster gallery；是否有正式全文论文集/实际索引本轮未核，不把摘要接收当SCI/EI发表。",
+    "notes": "ICAP29 Previous ICAPs直接链此站，名称/届次继承明确。Dinner与WelcomeReception另有自然历史/V&A博物馆场地，不当主会场。下一届2026有独立要求，2024海报A0不套用；2028具体日城未取得当届证据。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史海报摘要截止",
+        "date": "2024-06-01",
+        "source": "https://icap28.com/",
+        "note": "主页日期级，不补具体时刻。"
+      },
+      {
+        "type": "registration",
+        "label": "历史标准/早期注册价格阶段截止",
+        "date": "2024-04-01",
+        "source": "https://icap28.com/",
+        "note": "主页称early，价格表称Standard；只已公布阶段结束日。"
+      },
+      {
+        "type": "registration",
+        "label": "历史Late注册价格阶段截止（非最终注册）",
+        "date": "2024-05-10",
+        "source": "https://icap28.com/",
+        "note": "另有现场费率，不能作为最终参会截止。"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "icap-2026",
+    "series": "International Conference on Atomic Physics",
+    "year": 2026,
+    "name": "第29届国际原子物理会议 ICAP 2026（历史届次）",
+    "nameEn": "29th International Conference on Atomic Physics",
+    "region": "中国境内",
+    "location": "中国 · 湖北武汉",
+    "venue": "East Lake International Conference Center（东湖宾馆北区）",
+    "start": "2026-06-14",
+    "end": "2026-06-19",
+    "topics": ["量子光学", "激光与非线性", "传感与测量"],
+    "description": "邀请报告与contributed poster覆盖量子光学/腔QED、原子钟/干涉仪、精密测量、冷分子、量子气体、强场超快与量子模拟，属于原子分子光物理学术会。",
+    "website": "https://www.icap29.com/home.html",
+    "notice": "https://www.icap29.com/exhibitors.html",
+    "registration": "https://www.icap29.com/registration.html",
+    "requirements": [
+      "本届主页欢迎所有参会者的contributed poster，会议为现场形式；摘要提交与网上注册至5/25，具体摘要篇幅/文件模板和海报尺寸本轮未核。",
+      "Registration页给早鸟至3/31、普通4/1–5/25、另有现场价格；May25网上截止不等于取消现场注册。",
+      "官网发布早鸟full/student USD500/350（CNY3500/2500）、普通650/450（4600/3200）、现场750/550（5200/3800），含学术session、会餐/咖啡及材料；住宿到店付、Banquet自愿另USD50/CNY350。本届发布价，不推算未来费用。"
+    ],
+    "publication": "已核本届形式为邀请报告与投稿海报；会议材料不等于正式全文论文集，未核出版路径/单篇索引，不承诺SCI/EI。",
+    "notes": "Important Dates实际路径exhibitors.html但正文明确当届日期；首页完整6/14–19，6/14为到达及现场注册，未将SummerSchool/Satellite日期套主会。29届继承28届有官网往届链；2028日城/征稿仍无已核当届公告，不按两年周期推算。英文/中文ConferenceInformation PDF仅核链接，本轮内部未读，不声称摘要模板已核。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史contributed poster摘要提交截止",
+        "date": "2026-05-25",
+        "source": "https://www.icap29.com/exhibitors.html",
+        "note": "官方只日期，具体时刻未明。"
+      },
+      {
+        "type": "registration",
+        "label": "历史早鸟注册截止",
+        "date": "2026-03-31",
+        "source": "https://www.icap29.com/exhibitors.html"
+      },
+      {
+        "type": "registration",
+        "label": "历史网上注册截止（现场另有安排）",
+        "date": "2026-05-25",
+        "source": "https://www.icap29.com/exhibitors.html",
+        "note": "官网另列现场费率及6/14到达/现场注册，不把此日当最终报名。"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "isscc-2027",
+    "series": "IEEE International Solid-State Circuits Conference",
+    "year": 2027,
+    "name": "IEEE国际固态电路会议 ISSCC 2027",
+    "nameEn": "IEEE International Solid-State Circuits Conference 2027",
+    "region": "海外",
+    "location": "美国 · 加利福尼亚州旧金山",
+    "venue": "San Francisco Marriott Marquis",
+    "start": "2027-02-14",
+    "end": "2027-02-18",
+    "topics": [
+      "电子与器件",
+      "集成光子",
+      "光通信",
+      "成像与计算光学",
+      "生物医学光学",
+      "传感与测量"
+    ],
+    "description": "IEEE/SSCS综合芯片会，仅图像/事件传感器、LiDAR/ToF、医疗光学微系统、集成光子/硅光电子与光链路子集适配。普通稿已关闭；工业产品Late Breaking News与学生SRP独立轨道仍有已发布日期。",
+    "website": "https://www.isscc.org/",
+    "notice": "https://www.isscc.org/paper-submission-26",
+    "registration": null,
+    "requirements": [
+      "普通稿（已关闭）：定量摘要≤500字符含空格；稿件两PDF，正文≤5页单栏双倍行距12pt Arial Narrow、少于11000字符含空格（网页排除题名/引用及身份占位），图稿≤2页用本届模板；最多7幅主图含可用芯片照片/对照表，另≤3评审用补图，表算图。最多30引用单独输入系统。来源：https://www.isscc.org/paper-submission-26",
+      "普通稿双盲，隐去PDF元数据/芯片PCB标识；须运行图像密度检查并确认。普通通知10/21；Open Design/Open Data徽章自愿，不能写成强制公开；本轮未读全部预出版细则或模板文件。",
+      "Late Breaking News仅生产级工业芯片/IP、对应2027推出产品，最多4篇：10/7前提交题名+短摘要表明意向，12/1交camera-ready格式稿，12/9通知。不是普通学术稿延期，LBN模板/篇幅细节未核，不自动套上述普通初稿规格。来源：https://www.isscc.org/late-breaking-news-1",
+      "Student-Research Preview是学生短报告+海报，摘要截止10/21；资格/稿长、投稿入口和是否进入Digest本轮未核，不把SRP当普通论文或LBN工业通道。来源：https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf"
+    ],
+    "publication": "普通稿为Digest of Technical Papers稿件；CFP所提JSSC特刊邀请/奖项不等于所有稿件期刊录用。LBN是有限工业论文轨道、SRP是学生展示，具体归档/实际索引与费用尚未逐项核验。",
+    "notes": "当前官网和2027 CFP明确2/14–18旧金山及酒店；路径paper-submission-26虽含26，实际正文2027/2026-09-09截止与本届PDF一致。五页PDF只读前3页文字、核第1/3页图，不声称通读第4/5页。普通、工业LBN与学生SRP截止/通知分别标注，作者注册/费率及最终资料仍unknown；未登录或提交。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通稿截止（官网现已关闭）",
+        "at": "2026-09-09T15:00:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.isscc.org/paper-submission-26"
+      },
+      {
+        "type": "notification",
+        "label": "普通稿录用通知（非LBN）",
+        "date": "2026-10-21",
+        "source": "https://www.isscc.org/paper-submission-26"
+      },
+      {
+        "type": "pdp",
+        "label": "工业LBN投稿意向截止（限2027产品，非普通稿）",
+        "date": "2026-10-07",
+        "source": "https://www.isscc.org/late-breaking-news-1",
+        "note": "题名+短摘要，仅生产级工业芯片/IP，最多4篇；只日期无时刻。"
+      },
+      {
+        "type": "pdp",
+        "label": "工业LBN camera-ready格式论文提交",
+        "date": "2026-12-01",
+        "source": "https://www.isscc.org/late-breaking-news-1",
+        "note": "独立产品轨道，非普通论文延期/录用后全会终稿。"
+      },
+      {
+        "type": "notification",
+        "label": "工业LBN决定通知",
+        "date": "2026-12-09",
+        "source": "https://www.isscc.org/late-breaking-news-1"
+      },
+      {
+        "type": "abstract",
+        "label": "学生SRP研究预览摘要截止（非普通论文）",
+        "date": "2026-10-21",
+        "source": "https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf",
+        "note": "短报告+海报展示；是否论文集收录未核。"
+      },
+      {
+        "type": "registration",
+        "label": "作者注册/费用截止待核实",
+        "date": null,
+        "source": "https://www.isscc.org/"
+      }
+    ]
   }
 ]

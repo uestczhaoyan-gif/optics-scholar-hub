@@ -1098,3 +1098,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 只四新增届/三新系列与三候选六审核字段；旧103届/88系列、85刊27样例及全部其他JSON保护。RESUME当前样例数/续接句与EXPANSION当前表遗留数字同步，历史记录不改。必要校验/范围/文档/报告/构建与差异审查后上传验收同SHA，剩余规划持续。
 
 - 发布前数据校验、旧103届/88系列及所有其他JSON保持、三候选六字段白名单、107/91/13与186/82/5计数断言通过；CVPR2027稿规/费率unknown、日级AoE和ICCV2027暂不准入/2025通知null明确检查。247个本地Markdown链接、维护376项/12主题覆盖通过。Pages子路径构建与六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：原子物理/芯片三届 C25
+
+- C24 d5ecd3bdcbc681f227806bb718bab93da1763489已验收[Pages37206875465](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37206875465)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，6fe215c9f4ca55c98cdcb93cc35fa96b88d25cc9efaf551ba8962b823dada18f与本地一致（2026-10-04T13:49:18.526Z）。 正式编辑前验收；work/C25_RESEARCH_2026-10-04.md长操作前保护来源与范围，后续实际32%/周54%允许，不用重置券。
+- 两候选新增ICAP2024/2026历史与ISSCC2027，共三届/两系列。ICAP保留A0/费率的届次边界；ISSCC普通已关闭，工业LBN10/7意向限2027推出产品/最多4篇，SRP10/21学生展示独立，不当普通稿延期，[逐字段来源](CONFERENCE_EVIDENCE_2026-10-04.md)。当前85/110/10、93系列/14多届、273候选188 admitted/80 pending/5 deferred，27刊样例/分区索引保持。后续ICAP日城和ISSCC注册/LBN模板/SRP出版仍开放；其他规划继续。 正常浏览器读ICAP29主页/日期/注册/所链ICAP28原页与ISSCC2027LBN/普通稿；已观测PDF经正常TLS下载6709920字节、五页，抽取前3页并渲染核第1/3页，内部其他页未读。未登录、付款、提交或联系主办方。
+- 只三新增届/两新系列、两候选六审核字段；旧107届/91系列、85刊/27样例与全部其他JSON保持。必要验证、范围/报告/文档、构建和差异审查后上传验收同SHA，其余规划继续。
+
+- 发布前数据校验、旧107届/91系列及所有其他JSON保持、两候选六字段白名单、110/93/14与188/80/5计数断言通过；工业LBN限定与学生SRP、未知模板/费用和ICAP届次尺寸边界通过。251个本地Markdown链接、维护383项/12主题覆盖通过；Pages子路径构建/六入口资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint等由同SHA CI验收。
