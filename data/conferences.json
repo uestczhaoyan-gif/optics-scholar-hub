@@ -4060,5 +4060,109 @@
         "source": "https://imagesensors.org/CFP2027/fcfp2027.pdf"
       }
     ]
+  },
+  {
+    "series": "全国光子学学术会议",
+    "region": "中国境内",
+    "topics": [
+      "综合光学",
+      "光通信",
+      "集成光子",
+      "激光与非线性",
+      "纳米与超表面",
+      "成像与计算光学"
+    ],
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "national-photonics-2025",
+    "year": 2025,
+    "name": "第十四届全国光子学学术会议（2025）",
+    "nameEn": "14th National Conference on Photonics 2025",
+    "location": "中国 · 黑龙江哈尔滨",
+    "venue": "哈尔滨华旗饭店国际会议中心",
+    "start": "2025-08-15",
+    "end": "2025-08-17",
+    "description": "国内综合光子学交流会议，2025届含光纤、集成芯片、超快/瞬态、微纳及信息光子五个专题；历史记录用于了解系列与当届准备要求。",
+    "website": "https://meeting.cncos.org.cn/photonics2025/",
+    "notice": "https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf",
+    "registration": "https://meeting.cncos.org.cn/photonics2025/",
+    "requirements": [
+      "中文摘要经会议网站提交，应说明创新性、重要性及具体理论/实验结果，可附图表，注明报告人为学生或教师及职称；同一注册代表最多提交三篇。模板只核官网链接，字数/页限及匿名评审未确认。",
+      "选择SPIE英文论文路径须摘要录用后注册并登录SPIE Submission and Review System，英文稿为中文摘要的扩展全文，须通过全文审稿；不要将摘要交流直接等同于论文集出版。",
+      "官网第三轮通知称投稿内容可为最近已发表或已投稿内容；具体再出版许可及各出版平台规则仍须核实。未发表稿投支持期刊走期刊网站，备注本届会议，仍须期刊审核录用。",
+      "历史参会费：8月1日（含）前教师2000元/学生1500元，之后2500/2000元；需要SPIE出版另付1200元/篇，同一代表最多出版三篇。均人民币、仅2025届；官方/现场注册两渠道。"
+    ],
+    "publication": "2025第三轮通知：经全文审稿的英文稿收录SPIE Digital Library，并提交CPCI/EI Compendex检索；仅为当届组织方出版/送检声明，本轮未核实际论文数据库索引。支持期刊投稿另走期刊审核，非会议保证接收。",
+    "notes": "官网旧背景称每两年举办，但已有2025/2026实际独立当届证据，不能据此推算后届。6月30日为第一轮，7月20日中文摘要第二轮与8月14日英文全文分别保存；精确截止时刻/通知与终稿日未知。海报模板只核链接，未读尺寸，不能套2026尺寸。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "中文摘要第二轮截止（历史）",
+        "date": "2025-07-20",
+        "source": "https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf"
+      },
+      {
+        "type": "paper",
+        "label": "SPIE英文全文截止（历史，独立路径）",
+        "date": "2025-08-14",
+        "source": "https://meeting.cncos.org.cn/photonics2025/"
+      },
+      {
+        "type": "registration",
+        "label": "早期参会费最后一天（含8月1日，历史）",
+        "date": "2025-08-01",
+        "source": "https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf"
+      }
+    ]
+  },
+  {
+    "series": "全国光子学学术会议",
+    "region": "中国境内",
+    "topics": [
+      "综合光学",
+      "光通信",
+      "集成光子",
+      "激光与非线性",
+      "纳米与超表面",
+      "成像与计算光学"
+    ],
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "id": "national-photonics-2026",
+    "year": 2026,
+    "name": "第十五届全国光子学学术会议（2026）",
+    "nameEn": "15th National Conference on Photonics 2026",
+    "location": "中国 · 四川绵阳",
+    "venue": "绵阳科发铂骊酒店",
+    "start": "2026-08-12",
+    "end": "2026-08-15",
+    "description": "国内综合光子学会议，2026届设光纤与集成、超快与瞬态、微纳、信息光子四专题，涵盖光通信/芯片、成像、超表面及生物光子等方向。保留往届供后续准备参考。",
+    "website": "https://meeting.cncos.org.cn/photonics2026/",
+    "notice": "https://meeting.cncos.org.cn/photonics2026/doc/tz3.pdf",
+    "registration": "https://biaodan100.com/web/formview/69e965b8fc918f409a21329b/",
+    "requirements": [
+      "中文摘要通过会议官方网站投稿，说明创新性、重要性及具体理论/实验结果，可附图表，注明报告人为学生或教师并附职称；字数/页限、截止及匿名规则未在已读通知确认。",
+      "投稿可选口头/张贴/邀请意向，实际报告类型由会务组确定；墙报统一1m×1.5m，官网有PPTX模板，本轮仅核链接，未读模板内部或推断朝向。",
+      "未发表论文有意投支持期刊时，按期刊要求另投期刊网站，留言备注第十五届全国光子学会议；绿色通道仍须审核录用后发表。没有迁入2025 SPIE英文全文要求。",
+      "第三轮历史参会费教师2500元/学生2000元，人民币；线上或现场缴费，学会开电子发票。主页早鸟7月15日，但早鸟具体费率及退款规则未确认，金额不复用2025。"
+    ],
+    "publication": "2026第三轮通知仅说明支持期刊绿色通道，经期刊审核录用后优先发表；本轮未确认统一会议论文集或当届SPIE路径。支持期刊旁索引标注不证明会议论文实际索引，不保证自动EI/SCIE。",
+    "notes": "承办方9月报道确认8月12–15日在绵阳举行；第三轮日程8月16日为返程，不作会期结束日。报道还确认南昌大学承办2027年第十六届，但具体会期、举办城市/场馆和征稿尚未知；仅留后续线索不推算日期。公共投稿系统现显示中国光学学会学术大会，不能据此当作本系列仍开放。第三轮PDF实际23,493,441字节超过巡检5MB上限，需人工检查，不声称字节指纹全覆盖。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "中文摘要截止未在已读当届通知确认",
+        "date": null,
+        "source": "https://meeting.cncos.org.cn/photonics2026/doc/tz3.pdf"
+      },
+      {
+        "type": "registration",
+        "label": "早鸟截止（历史；早鸟金额未核）",
+        "date": "2026-07-15",
+        "source": "https://meeting.cncos.org.cn/photonics2026/"
+      }
+    ]
   }
 ]

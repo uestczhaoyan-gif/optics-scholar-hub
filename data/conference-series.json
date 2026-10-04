@@ -874,5 +874,20 @@
       "https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-bcf898110ecf",
+    "name": "全国光子学学术会议",
+    "aliases": ["National Conference on Photonics"],
+    "editionIds": ["national-photonics-2025", "national-photonics-2026"],
+    "website": "https://meeting.cncos.org.cn/photonics2026/",
+    "sources": [
+      "https://meeting.cncos.org.cn/photonics2025/",
+      "https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf",
+      "https://meeting.cncos.org.cn/photonics2026/",
+      "https://meeting.cncos.org.cn/photonics2026/doc/tz3.pdf",
+      "https://www.opt.ac.cn/gb2019/hzjl/hzjl_hzjl/202609/t20260904_8278441.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
   }
 ]

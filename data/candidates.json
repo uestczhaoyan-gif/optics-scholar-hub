@@ -34,12 +34,15 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "光子学、光纤、器件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://meeting.cncos.org.cn/photonics2026/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": [
+      "national-photonics-2025",
+      "national-photonics-2026"
+    ],
+    "decisionReason": "两届官方当届网站/第三轮通知独立确认日期、场馆与综合光子学范围；收录2025/2026历史时间线，准备/出版路径各自保存。",
+    "nextAction": "承办方报道确认南昌大学承办2027年第十六届；等待具体会期、举办城市、征稿与注册，不能凭大学所在地或旧双年周期推算。2026大PDF超5MB需人工核验，2025SPIE规则不迁入后届。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-851e868105",

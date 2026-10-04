@@ -978,3 +978,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 正常TLS授权只读隔离探测ISBI/IISW两实际官方PDF：首次baseline、随后unchanged，ISBI双引用去重；SHA256分别0aed86f4a6cc6bf37fd867f869ca01e8c0c4e88c3e30eb83ad2f4dd771538a14与5a3eec2c273dc594eee9ea352e2592d30d04b9446b54a5d5b69e902fd6739f9f（2026-10-04T05:53:57.817Z/05:53:59.787Z）。work/S4-live-probe保存结果，正式缓存未动。
 
 - 发布前所有目录JSON/每日来源调度字节保持断言、149个本地Markdown链接及当前计数通过；维护319字段任务/唯一CIOP后续任务，12主题覆盖。Pages子路径构建与六入口资源exit0，功能/文档差异审查和git diff --check通过，按同SHA验收完整CI、部署和线上版本后再改正式数据。其他规划继续。
+
+## 2026-10-04：全国光子学时间深度 C18
+
+- S4 ecf3c4adf9a2c11ea7dbb71b1f68af66f300465c已验收[Pages37181592830](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37181592830)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，15aec460873e0fd037776d0930272564fcd97c777506fc4d8c1e6385d027561e与本地一致（2026-10-04T06:02:45.871Z）。 完整验收后修改。长操作前work/C18_RESEARCH_2026-10-04.md保存范围与续接，未用重置券。
+- 两历史届次与一个稳定系列，[字段来源](CONFERENCE_EVIDENCE_2026-10-04.md)。2027大学承办线索已知而日期/城市未知，未造正式条目；2026大PDF超过巡检5MB明确人工边界，8/16返程不是终日。各届出版/费用独立，2025送检声明未当实际索引。
+- 旧79届/72系列及全部其他JSON保持、单候选六字段白名单/8多届与当前计数断言；必要校验、文档/报告/构建和差异审查后推送并验收同SHA。其他规划继续，既有自动任务保持。
+
+- 发布前数据校验、精确范围断言、151个本地Markdown链接和当前计数通过；维护319项（唯一CIOP后续任务）及12主题覆盖，85/81/10、73系列/8多届、273候选168/100/5、分区索引/二十刊样例保持。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；本数据批次完整31项测试等由同SHA CI验收。
