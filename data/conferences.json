@@ -5159,5 +5159,122 @@
         "source": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit"
       }
     ]
+  },
+  {
+    "id": "spie-photonics-europe-2026",
+    "series": "SPIE Photonics Europe",
+    "year": 2026,
+    "name": "SPIE欧洲光子学会议 2026（历史届次）",
+    "nameEn": "SPIE Photonics Europe 2026",
+    "region": "海外",
+    "location": "法国 · 斯特拉斯堡",
+    "venue": "整体会场未在本轮核实",
+    "start": "2026-04-12",
+    "end": "2026-04-16",
+    "topics": ["综合光学", "集成光子", "量子光学", "成像与计算光学"],
+    "description": "综合欧洲光学/光子学学术会议，范围包括数字光学、量子技术、成像、传感、计量、THz、3D打印光学及生物光子。与Optical Systems Design同地同期开会，共用展览但各有学术节目。",
+    "website": "https://spie.org/conferences-and-exhibitions/photonics-europe",
+    "notice": "https://spie.org/conferences-and-exhibitions/photonics-europe",
+    "registration": null,
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "历史已结束，本轮只核官网会期/城市、学术身份及公开主题/节目范围；旧投稿截止、稿规/模板、收费和报告材料未核，不编造历史规则。"
+    ],
+    "publication": "本轮未核本届统一出版形式/全文要求或实际索引；官网历史论文入口不证明每个报告必定出版或EI单篇检索。",
+    "notes": "官网12–16April2026页眉与会后Thank you保留历史；2028未来日期先保存后续线索，两同地会议各计一次，共用展览不再计。 2026-10-04已读官方下一届2028-04-02–06预告；当届城市/会场未确认，未来暂不建正式届，待官方补齐后继续同系列。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史投稿截止本轮未核",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-europe"
+      },
+      {
+        "type": "registration",
+        "label": "历史注册规则本轮未核",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/photonics-europe"
+      }
+    ]
+  },
+  {
+    "id": "spie-optical-systems-design-2026",
+    "series": "SPIE Optical Systems Design",
+    "year": 2026,
+    "name": "SPIE光学系统设计会议 2026（历史届次）",
+    "nameEn": "SPIE Optical Systems Design 2026",
+    "region": "海外",
+    "location": "法国 · 斯特拉斯堡",
+    "venue": "整体会场未在本轮核实",
+    "start": "2026-04-12",
+    "end": "2026-04-16",
+    "topics": ["光学设计与制造", "光学材料", "成像与计算光学"],
+    "description": "欧洲光学仪器/系统设计学术会议；本页列设计工程、薄膜、加工测试、照明、计算光学及仪器应用。与Photonics Europe联合场地，独立会议身份，不把共用展览另建论文会议。",
+    "website": "https://spie.org/conferences-and-exhibitions/optical-systems-design",
+    "notice": "https://spie.org/conferences-and-exhibitions/optical-systems-design",
+    "registration": null,
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "历史已结束，本轮只核官网会期/城市、学术身份及公开主题/节目范围；旧投稿截止、稿规/模板、收费和报告材料未核，不编造历史规则。"
+    ],
+    "publication": "本轮未核本届统一出版形式/全文要求或实际索引；官网历史论文入口不证明每个报告必定出版或EI单篇检索。",
+    "notes": "官网12–16April2026页眉与会后Thank you保留历史；2028未来日期先保存后续线索，两同地会议各计一次，共用展览不再计。 2026-10-04已读官方下一届2028-04-02–06预告；当届城市/会场未确认，未来暂不建正式届，待官方补齐后继续同系列。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史投稿截止本轮未核",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/optical-systems-design"
+      },
+      {
+        "type": "registration",
+        "label": "历史注册规则本轮未核",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/optical-systems-design"
+      }
+    ]
+  },
+  {
+    "id": "spie-photomask-euv-2026",
+    "series": "SPIE Photomask Technology + Extreme Ultraviolet Lithography",
+    "year": 2026,
+    "name": "SPIE光掩模技术与极紫外光刻联合会议 2026（历史届次）",
+    "nameEn": "SPIE Photomask Technology + Extreme Ultraviolet Lithography 2026",
+    "region": "海外",
+    "location": "美国 · 加利福尼亚州蒙特雷",
+    "venue": "整体会场未在本轮核实",
+    "start": "2026-09-08",
+    "end": "2026-09-11",
+    "topics": ["光学设计与制造", "纳米与超表面", "传感与测量", "电子与器件"],
+    "description": "光掩模/EUV光刻联合学术会议，按光学/光刻研究子集适配；2026节目明确高NA、激光等离子体EUV源、光学表面、散射计量及多层镜反射率。两所列子会议不另重复统计，展览另属工业交流。",
+    "website": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography",
+    "notice": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography",
+    "registration": null,
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "历史已结束，本轮只核官网会期/城市、学术身份及公开主题/节目范围；旧投稿截止、稿规/模板、收费和报告材料未核，不编造历史规则。"
+    ],
+    "publication": "本轮未核本届统一出版形式/全文要求或实际索引；官网历史论文入口不证明每个报告必定出版或EI单篇检索。",
+    "notes": "官网2026会期/Monterey及当届EUVprogramme实际读取；其中Portola Hotel DeAnzaIII及MontereyConfCtrSerra2仅专题/海报日程场地，不冒充母会唯一会场。 2026-10-04已读官方下一届2027-09-26–30预告；当届城市/会场未确认，未来暂不建正式届，待官方补齐后继续同系列。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史投稿截止本轮未核",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography"
+      },
+      {
+        "type": "registration",
+        "label": "历史注册规则本轮未核",
+        "date": null,
+        "source": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography"
+      }
+    ]
   }
 ]

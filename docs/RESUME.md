@@ -7,8 +7,8 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：85 本期刊、100 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：273 项，180 admitted、88 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：85 本期刊、103 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，183 admitted、85 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
 - 交叉适配样例已有二十五刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E22 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
@@ -248,3 +248,7 @@ C22 ef63a86d3f01f8c58b4c440b4d89b595248002e9已验收[Pages37185777328](https://
 ## 2026-10-04：欧洲2027开稿准备 B4
 
 E22 5a748975a7f3b831007319dc246f272a094b5590已验收[Pages37186160819](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186160819)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，f4932634970e9d14d1fc6d072c5e27b997f17282f427e8ac7a15ad17504ed61b与本地一致（2026-10-04T07:34:27.756Z）。 已补CLEO/Europe–EQEC2027大会表10/5计划开启/2/15关闭，SPIE光学计量2027十月中旬/2/17关闭，均日级；详细子会指南仍2025。三既有会共用报告准备/六月初上传凭据预告及对应系列每日追踪源，[字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。LiM原精确1/31保持。只部分字段、不刷新整条核验日，85/100/10及25刊样例/其他计数保持；继续本届细则与费用、其他指南/候选和索引分区。
+
+## 2026-10-04：SPIE制造/欧洲时间深度 C23
+
+B4 64ba2ca557eba428f0f673780451319e536156e0已验收[Pages37186450463](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186450463)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，e997ae29f033da056ae5aed070453e1a5826f9ab1ced1a04634fcb9fa3147a6e与本地一致（2026-10-04T07:40:53.417Z）。 新增三系列三历史届：Photonics Europe、Optical Systems Design与Photomask+EUV各2026历史；2027/2028只有日期的预告保留后续线索，[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。未来只明示日期，城市未当届确认，沿用原准入口径只保存线索，不建正式未来届。当前85/103/10、88系列/12多届、273候选183/85/5；25刊样例/分区索引保持。LPM原站证书不匹配未绕过，保留pending及已观测线索。每日巡检最新37184564015（Oct4 07:01:51Z scheduled）success，仅已读元数据，未声称读完附件。继续本届稿规/未知字段、中文/薄弱候选、交叉样例及分区。

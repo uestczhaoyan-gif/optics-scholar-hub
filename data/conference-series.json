@@ -1085,5 +1085,39 @@
       "https://www.european-mrs.com/meetings/deadlines"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-2b80979963bb",
+    "name": "SPIE Photonics Europe",
+    "aliases": [],
+    "editionIds": ["spie-photonics-europe-2026"],
+    "website": "https://spie.org/conferences-and-exhibitions/photonics-europe",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/photonics-europe"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-b52b2d1ab581",
+    "name": "SPIE Optical Systems Design",
+    "aliases": [],
+    "editionIds": ["spie-optical-systems-design-2026"],
+    "website": "https://spie.org/conferences-and-exhibitions/optical-systems-design",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/optical-systems-design"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-2a286635cde7",
+    "name": "SPIE Photomask Technology + Extreme Ultraviolet Lithography",
+    "aliases": [],
+    "editionIds": ["spie-photomask-euv-2026"],
+    "website": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography",
+    "sources": [
+      "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography",
+      "https://spie.org/PUV/conferencedetails/international-conference-extreme-ultraviolet-lithography"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
   }
 ]

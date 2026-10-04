@@ -416,11 +416,11 @@
     "priority": 1,
     "scopeHint": "设计、薄膜、制造、检测",
     "sourceEntry": "https://spie.org/conferences-and-exhibitions/optical-systems-design",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "官方主页给出下一届 2028-04-02–06，展览 04-04–05；页首 Strasbourg/4/12–16 明确属 2026，不认作 2028 城市。2028 具体城市尚未核实，继续候选。",
-    "nextAction": "从当届通知核实 2028 城市、会场及征稿；不沿用 2026 页首，不把展览日期作为会期。",
-    "reviewedAt": "2026-10-02"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-optical-systems-design-2026"],
+    "decisionReason": "官网确认2026历史会期/城市与光学学术身份，历史届准入；未来2028-04-02–06仅明示日期而当届城市未知，按原口径保留后续线索、不建正式未来届。",
+    "nextAction": "已读官网未来2028-04-02–06会期线索，核2028当届城市/会场后再新增正式届；征稿、费用/出版仍待核，不用2026页眉填未知。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-bb1bd9e19f",
@@ -500,11 +500,11 @@
     "priority": 1,
     "scopeHint": "掩模、EUV；核对联合大会与子会议",
     "sourceEntry": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "官方明确下一届 2027-09-26–30；正文仅确认 2026 Monterey 与下一年日期，当届城市/会场未核实，保留 pending。",
-    "nextAction": "核实 2027 官方城市、会场、两子会议关系和征稿；不照搬 2026 会场/投稿材料。",
-    "reviewedAt": "2026-10-03"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-photomask-euv-2026"],
+    "decisionReason": "官网确认2026历史会期/城市与光学学术身份，历史届准入；未来2027-09-26–30仅明示日期而当届城市未知，按原口径保留后续线索、不建正式未来届。",
+    "nextAction": "已读官网未来2027-09-26–30会期线索，核2027当届城市/会场后再新增正式届；征稿、费用/出版仍待核，不用2026页眉填未知。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-371089ec00",
@@ -528,11 +528,11 @@
     "priority": 1,
     "scopeHint": "欧洲光子学综合",
     "sourceEntry": "https://spie.org/conferences-and-exhibitions/photonics-europe",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "官方明确 2028-04-02–06 会议及 4/4–5 展览；当届城市/会场未核实，Conferences 链接仍落 2026 programme，保留 pending。",
-    "nextAction": "核实 2028 官方城市/会场与征稿；不把旧 Strasbourg 页首或第三方预告当当届依据。",
-    "reviewedAt": "2026-10-03"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["spie-photonics-europe-2026"],
+    "decisionReason": "官网确认2026历史会期/城市与光学学术身份，历史届准入；未来2028-04-02–06仅明示日期而当届城市未知，按原口径保留后续线索、不建正式未来届。",
+    "nextAction": "已读官网未来2028-04-02–06会期线索，核2028当届城市/会场后再新增正式届；征稿、费用/出版仍待核，不用2026页眉填未知。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-b8168ba324",
@@ -995,7 +995,7 @@
     "reviewStatus": "pending",
     "relatedExistingIds": [],
     "decisionReason": "官方检索缓存有2027会期/地点线索，但当届页及学会公告直接访问502，浏览器证书名称不匹配，未取得可核实当前正文。",
-    "nextAction": "待官方正常TLS页面恢复后核对身份、日期、场馆和投稿指南；不绕过证书、不用旧届SPIE出版声明填充。",
+    "nextAction": "2026-10-04官方搜索有2027会期/摘要线索，但原站浏览器证书名称不匹配，未绕过或降级HTTP。待官方原页/有效证书及当届稿规可核后审核，保留pending，不据搜索片段新增正式届。",
     "reviewedAt": "2026-10-03"
   },
   {

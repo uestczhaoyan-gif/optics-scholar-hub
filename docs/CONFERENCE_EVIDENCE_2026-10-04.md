@@ -167,3 +167,19 @@ ISBI文件2,108,834字节，C17实施时来源检查对PDF仅可达性；随后S
 | 大会共用报告准备           | 16:9 PPT或PDF，视频推荐mp4/h264；提前上传，到ICM一层check-in核查，可在session前一小时截止前检查/编辑；上传凭据拟2027六月初给出 | 会场不能接个人电脑/直接上传，电脑无互联网/PowerPoint插件且不支持ProRes。具体子会时长/海报、准确上传截止仍未知，不造presentation日；不是整条会期/出版/费用复核     |
 
 母会6/20–25和展览6/22–25不替代三子会日期。仅两个未知截止改为日级、相应通知/状态及三已有会requirements/notes；全部checkedAt与出版、注册不动，三系列只追加已核可读官方源。85刊/100届/10活动、85系列/12多届、候选180/88/5、25刊样例保持，其他规划仍开放。
+
+## C23：SPIE欧洲/光刻系列历史与未来（2026-10-04）
+
+三官方主页实际正常浏览器读取，官网旧2026页眉与会后新未来公告分别保留。三个未来会期直接明示，但已读文字没有将城市/场馆明确标为未来当届，因此按原准入口径只有后续日期线索，不建城市未核的正式未来届；不把2026斯特拉斯堡/蒙特雷平移。
+
+| 稳定系列 / 官方字段源                                                                                                                    | 历史核心 / 未来日期                                                    | 准入与未核范围                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [SPIE Photonics Europe](https://spie.org/conferences-and-exhibitions/photonics-europe)                                                   | 2026-04-12–16 Strasbourg；2028-04-02–06 conferences，4/4–5仅exhibition | 官网综合光子、数字/量子/成像、THz/打印光学/生物光子范围。与OSD co-located、各有独立学术身份；未来本届专题/稿规、注册/费率、出版/实际索引未知                                                                                                               |
+| [SPIE Optical Systems Design](https://spie.org/conferences-and-exhibitions/optical-systems-design)                                       | 2026-04-12–16 Strasbourg；2028-04-02–06 conferences，4/4–5仅exhibition | 当页设计工程、薄膜、加工测试、照明、计算光学及仪器主题。共用PE展览不新增论文会议；历史投稿/费用未读，不编造参数，未来城市/稿规未知                                                                                                                         |
+| [SPIE Photomask Technology + EUV](https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography) | 2026-09-08–11 Monterey；Save the dates2027-09-26–30                    | 母联合学术会计一次。实际所链[EUV2026 programme](https://spie.org/PUV/conferencedetails/international-conference-extreme-ultraviolet-lithography)列高NA、锡激光等离子体EUV源、光学表面/散射计量/多层镜反射率；只读所列公开节目部分，不声称通读全会议录/摘要 |
+
+2026EUV节目部分具体场地Portola Hotel De AnzaIII和MontereyConfCtr Serra2仅对应专题/海报，不冒充母会唯一会场，2027也不沿用。官网2026题名/节目与未来Save dates线索分别保存；所有三条历史submissionState unknown，未核历史征稿/注册日期均null，未把未知写成关闭或开放。未来方向标签只系列线索，不保证全部本届专题。记录spie-photonics-europe-2026、spie-optical-systems-design-2026、spie-photomask-euv-2026及对应三个真实候选。
+
+[LPM2027官方入口](https://www.jlps.gr.jp/lpm/lpm2027/)普通浏览器ERR_CERT_COMMON_NAME_INVALID，未绕过、未降级HTTP。官方检索到学会Jun1–4/Jan22线索，但原页/稿规未成功读取，继续pending，只nextAction说明失败和入口，不刷新reviewedAt或新增正式届。其他网页核验在原浏览器新正常页继续，未更改安全设置。
+
+原100届/85系列与85刊/25刊样例及全部其他学术JSON保护。新增三历史届后85/103/10、88系列12多届、273候选183 admitted/85 pending/5 deferred；CANDIDATES遗留当前数字同步，历史数字不改。其他规划继续。

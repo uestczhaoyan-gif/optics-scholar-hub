@@ -1058,3 +1058,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三已有会严格字段白名单、两日期级/旧注册和出版保持，三系列只sources；97其他届、85刊/25样例及其他JSON保护，必要校验/报告/文档/构建/差异审查后上传验收同SHA，其他规划继续。
 
 - 发布前数据校验、精确部分字段/整条日期/其他JSON保持及日级/LiM精确日期断言通过；183个本地Markdown链接、维护369项和12主题覆盖通过。Pages子路径构建六资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。实际五小时80%/周46%允许，继续有价值任务。
+
+## 2026-10-04：SPIE欧洲/光刻三历史届 C23
+
+- B4 64ba2ca557eba428f0f673780451319e536156e0已验收[Pages37186450463](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37186450463)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，e997ae29f033da056ae5aed070453e1a5826f9ab1ced1a04634fcb9fa3147a6e与本地一致（2026-10-04T07:40:53.417Z）。 正式编辑前验收；work/C23_RESEARCH_2026-10-04.md长操作前保存实际84%/周46%允许、来源与未知范围。最新每日来源37184564015 scheduled/head45c8ee7 success，2026-10-04T07:01:51Z，只已读元数据未审附件；旧自动任务未恢复。
+- 三SPIE官网实际普通浏览器读取；PUV实际链接EUV2026节目核光源/高NA/光学表面与计量子集，[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。三历史正式届与未来线索分开；三个未来城市未明确当届，沿用原准入边界不建未来正式届、不套旧页眉/CFP。
+- 只新增三历史届/三系列（后续实际已核日期），三候选六审核字段、LPM仅nextAction，旧100届/85系列及全部其他JSON保护；CANDIDATES遗留当前计数同步，历史日志不重写。必要校验/文档/报告/构建/差异审查后推送验收同SHA，其他规划继续，未用重置券。
+
+- 最终发布前103届/88系列/12多届、候选183/85/5与原100届/85系列/其他JSON保持断言及数据校验通过；只三历史届，缺城市的三未来预告仍非正式线索。234个本地Markdown链接、维护369项和12主题覆盖通过；最终范围Pages子路径构建及六资源exit0、差异审查/git diff --check通过。完整31项测试/typecheck/lint由同SHA CI验收。
