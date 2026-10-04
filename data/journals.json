@@ -5998,5 +5998,65 @@
         "relevance": "2026-10-03 核验官方公开摘要与出版信息：16(3), 031047。自由空间光脉冲中压缩猫态的实验制备及零差预示，适配量子光源/连续变量光子计算；未来容错架构是应用方向，不称已建成计算机。"
       }
     ]
+  },
+  {
+    "id": "acta-photonica-sinica",
+    "name": "光子学报",
+    "abbr": "APS",
+    "publisher": "科学出版社；中国科学院西安光学精密机械研究所、中国光学学会主办",
+    "issn": "1004-4213",
+    "eissn": null,
+    "domains": ["光学", "物理", "电子"],
+    "topics": [
+      "综合光学",
+      "集成光子",
+      "光通信",
+      "传感与测量",
+      "光学设计与制造"
+    ],
+    "description": "中文光子学与光学研究月刊，官方范围涵盖导波/集成光学、光通信、光传感和光学仪器；以独立数据库证据进入EI工程补充，不依赖未核实分区。ESCI独立显示，不能当SCIE。",
+    "website": "https://www.photon.ac.cn/",
+    "guide": "https://www.photon.ac.cn/info/2453?lang=zh",
+    "checkedAt": "2026-10-05",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": "https://mjl.clarivate.com/search-results?issn=1004-4213&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当日MJL刊号查询唯一Exact Match只列ESCI；没有取得SCIE肯定依据，未知不等于停收，不用ESCI或JCR宣传替代SCIE。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1004-4213&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号1004-4213查询：唯一Exact Match ACTA PHOTONICA SINICA、Science Press与刊号一致，结果卡明确Web of Science Core Collection: Emerging Sources Citation Index。只公开卡，无登录profile/单篇检索；覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05读取已校验Elsevier公开表，SERIALS 2026-08-07版第1708行Journal Guangzi Xuebao/Acta Photonica Sinica及10044213匹配，电子列“-”；CHINESE 2026-07-10版第22行光子学报为Renewed（保持收录），DISCONTINUED 2026-05-01版无匹配。清单更新日不作覆盖起点，未做订阅单篇检索。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05实读当前挂载、末署2025-06-01的征稿简则 https://www.photon.ac.cn/info/2453?lang=zh：正文中文，暂不接收英文稿件；原创论文、快报、观点、评述等，综述只收邀请稿。明示不接收数字图像处理类及无省部级及以上基金资助稿件，不能把综合光学范围理解为所有成像算法都准入。",
+      "官网当前2026年第8期目录也列图像处理题名，只核题名/关键词未读论文。这不自动解除上述指南限制；涉及该边界的投稿需编辑部明确确认。分区宣传缺版年/学科，简介写CAS Q4、简则写CAS3区/JCR4区，冲突保留，不生成ranking。",
+      "通过官网在线投稿，Word稿件及版权协议等材料；另上传100–300字创新点说明，准备基金信息、OCIS码、中英文摘要和图表标题，图片通常不低于600dpi。所有作者签版权协议、录用后禁止改作者与顺序；模板/协议下载文件和后台步骤未读，摘要硬限及篇幅硬限未核实。"
+    ],
+    "publishing": "2026-10-05核2025-06-01征稿简则：无审稿费；录用版面费5页以内（含）2500元，超5页部分400元/页。5页是计费分档，不是篇幅硬限；未见税/另行生效日，不称已核2026价表。优先在线出版须先缴费及提交版权协议；作者仍保留指南明示学习/研究/教学使用权，完整协议未读。来源：https://www.photon.ac.cn/info/2453?lang=zh",
+    "schedule": "2026-10-05核同一2025指南：初审通过后，首轮外审自投稿起通常约1个月以内；三审通过且缴费/版权材料完成后5个工作日内优先在线，正式出版自投稿约5个月。均为网页一般安排，不保证个稿；收稿3个月无意见可告知编辑部后改投，退修1个月未回或版面费通知1个月未到账有自动退稿规则。来源：https://www.photon.ac.cn/info/2453?lang=zh"
   }
 ]
