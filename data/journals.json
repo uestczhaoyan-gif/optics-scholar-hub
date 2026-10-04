@@ -49,6 +49,28 @@
         "quartile": 1,
         "source": "https://www.iikx.com/sci/physics/15679.html",
         "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
       }
     ],
     "issn": "1749-4885",
@@ -1556,7 +1578,7 @@
     "eissn": "2662-1991",
     "domains": ["光学", "物理", "信息与计算"],
     "topics": ["集成光子", "光通信", "成像与计算光学", "纳米与超表面"],
-    "description": "关注光子学驱动的交叉研究、科学发现和工程应用，涵盖光计算、光场调控、传感及光电子。已核实出版社 SCI/EI 声明，分区待核验。",
+    "description": "关注光子学驱动的交叉研究、科学发现和工程应用，涵盖光计算、光场调控、传感及光电子。已核实出版社 SCI/EI 声明，JCR 2025分区有机构转载参考，2026/CAS待核。",
     "website": "https://link.springer.com/journal/43074",
     "guide": "https://link.springer.com/journal/43074/submission-guidelines",
     "requirements": [
@@ -1573,7 +1595,19 @@
     "publishing": "开放获取。2026-09-15 核验出版社指南：当前 APC 为 GBP 1850 / USD 2317 / EUR 2050，适用时另加 VAT 或当地税费，最终价格按录用日期确定。酌情减免申请须在投稿时提出；机构协议覆盖情况须另核实。",
     "schedule": "常规投稿与专题征稿分别核对；首次决定统计不代表录用时间，本站不承诺审稿周期。",
     "checkedAt": "2026-09-10",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=568",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -1606,7 +1640,7 @@
     "eissn": "1616-3028",
     "domains": ["材料", "光学", "电子", "物理"],
     "topics": ["光学材料", "纳米与超表面", "传感与测量"],
-    "description": "综合功能材料期刊，光学相关范围包括半导体、发光材料、激光与传感材料。适合材料机制和性能创新明确的交叉研究；分区待核验。",
+    "description": "综合功能材料期刊，光学相关范围包括半导体、发光材料、激光与传感材料。适合材料机制和性能创新明确的交叉研究；JCR 2025分区有机构转载参考，2026/CAS待核。",
     "website": "https://advanced.onlinelibrary.wiley.com/journal/16163028",
     "guide": "https://advanced.onlinelibrary.wiley.com/hub/journal/16163028/author-guidelines",
     "requirements": [
@@ -1620,7 +1654,74 @@
     "publishing": "开放获取选项、费用和机构协议以 Wiley 当前作者页面及录用安排为准。",
     "schedule": "官网列出每年 52 期；刊期不等于审稿周期，常规稿与专题稿分别核对安排。",
     "checkedAt": "2026-09-10",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=91",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "CHEMISTRY, PHYSICAL",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=98",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=445",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "NANOSCIENCE & NANOTECHNOLOGY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=526",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, CONDENSED MATTER",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=606",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -1683,7 +1784,19 @@
     "publishing": "2026-09-11 核对高教社 Article processing charge 页：Diamond Open Access，不向作者收取 APC。投稿前仍需确认当前政策。",
     "schedule": "常规投稿与专题截止分别核对；官网首次决定中位数不是录用周期承诺。",
     "checkedAt": "2026-09-11",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=236",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -2037,7 +2150,19 @@
     "guide": "https://link.springer.com/journal/43593/submission-guidelines",
     "schedule": "常规稿件通过现官网系统受理，专题另查通知；初审、评审和出版分别计时，不将历史平均天数当作保证。",
     "checkedAt": "2026-09-11",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -2081,7 +2206,41 @@
     "guide": "https://link.springer.com/journal/40820/submission-guidelines",
     "schedule": "常规稿件通过现官网系统受理，专题另查通知；初审、评审和出版分别计时，不将历史平均天数当作保证。",
     "checkedAt": "2026-09-11",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=453",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "NANOSCIENCE & NANOTECHNOLOGY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=529",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -4784,7 +4943,19 @@
     "website": "https://hpl.opticsjournal.net/J/zgjg/Issues.html",
     "guide": "https://www.opticsjournal.net/J/zgjg/News/PT1901230001332y5A8.html",
     "checkedAt": "2026-09-13",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -4838,7 +5009,19 @@
     "website": "https://f.opticsjournal.net/J/gxxb/Issues.html",
     "guide": "https://www.opticsjournal.net/J/gxxb/News/PT1606120003261w4z7.html",
     "checkedAt": "2026-09-13",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -4893,7 +5076,30 @@
     "website": "https://prj.opticsjournal.net/j/lop/issues.html",
     "guide": "https://www.opticsjournal.net/J/lop/News/PT190121000081qXtZw.html",
     "checkedAt": "2026-09-13",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 4,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=242",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 4,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -4947,7 +5153,19 @@
     "website": "https://www.chineseoptics.net.cn/",
     "guide": "https://www.chineseoptics.net.cn/news/tougaoxuzhi.htm",
     "checkedAt": "2026-09-13",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 4,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -5271,7 +5489,7 @@
     "eissn": "2155-3165",
     "domains": ["光学", "电子", "机械与制造"],
     "topics": ["综合光学", "光学设计与制造", "传感与测量", "成像与计算光学"],
-    "description": "聚焦光学技术与光子学的实际应用，包括仪器、激光、传感和成像；贡献应体现可验证的性能和实际应用。按已核实 EI 工程补充路径收录，分区待核实。",
+    "description": "聚焦光学技术与光子学的实际应用，包括仪器、激光、传感和成像；贡献应体现可验证的性能和实际应用。按已核实 EI 工程补充路径收录，JCR 2025分区有机构转载参考，2026/CAS待核。",
     "website": "https://opg.optica.org/content/journal/about/item/ao/",
     "guide": "https://opg.optica.org/content/author/",
     "requirements": [
@@ -5285,7 +5503,19 @@
     "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 订阅与可选 OA 并行；可选 OA USD 2300，符合资格的 CC BY USD 2550/篇。税及特定优惠本批未核实。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 。",
     "schedule": "官网列每月 1、10、20 日三期，并采用 article-at-a-time；常规稿经 PRISM 投稿，频次不保证个别审稿时限。",
     "checkedAt": "2026-10-03",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -5323,7 +5553,7 @@
       "传感与测量",
       "生物医学光学"
     ],
-    "description": "经典光学、成像科学与视觉研究，含光学仪器、测量、计算成像和机器视觉；按已核实 EI 工程补充路径纳入相关系统与方法，分区待核实。",
+    "description": "经典光学、成像科学与视觉研究，含光学仪器、测量、计算成像和机器视觉；按已核实 EI 工程补充路径纳入相关系统与方法，JCR 2025分区有机构转载参考，2026/CAS待核。",
     "website": "https://opg.optica.org/content/journal/about/item/josaa/",
     "guide": "https://opg.optica.org/content/author/",
     "requirements": [
@@ -5337,7 +5567,19 @@
     "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 订阅与可选 OA 并行；可选 OA USD 2300，符合资格的 CC BY USD 2550/篇。税及特定优惠本批未核实。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 。",
     "schedule": "官网列月刊、article-at-a-time；常规稿经 PRISM 投稿，不将历史中位数当作审稿承诺。",
     "checkedAt": "2026-10-03",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -5390,7 +5632,19 @@
     "publishing": "2026-10-03 核对官方收费表：超过 10 个出版页的部分 USD 300/页；USD 125/页为自愿支持，非出版前提；在线彩图免费，印刷彩图首幅 USD 650、后续每幅 USD 325。 2026 卷已确认 S2O 全部开放、免 APC；符合资格的 CC BY 另收 USD 250，不能据此声称超页或印刷彩图免收。2027 S2O 尚依赖年度订阅门槛，不承诺继续免 APC。来源 https://opg.optica.org/content/author/portal/item/review-pub-charge 及 https://opg.optica.org/content/library/portal/item/subscribe-to-open 。税本批未核实。",
     "schedule": "官网列月刊、article-at-a-time；常规稿经 PRISM 投稿，S2O 按出版卷年确认而非投稿年自动套用。",
     "checkedAt": "2026-10-03",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -5423,7 +5677,7 @@
     "eissn": "1560-2303",
     "domains": ["光学", "电子", "机械与制造"],
     "topics": ["光学设计与制造", "电子与器件", "传感与测量", "成像与计算光学"],
-    "description": "光学与光子学系统、器件和仪器的研发及应用；图像处理或 AI 必须对光学工程有明确贡献。按已核实 EI 工程补充收录，分区未知。",
+    "description": "光学与光子学系统、器件和仪器的研发及应用；图像处理或 AI 必须对光学工程有明确贡献。按已核实 EI 工程补充收录，JCR 2025分区有机构转载参考，2026/CAS待核。",
     "website": "https://journals.spiedigitallibrary.org/journals/optical-engineering",
     "guide": "https://journals.spiedigitallibrary.org/journals/optical-engineering/author-guidelines",
     "requirements": [
@@ -5435,7 +5689,19 @@
     "publishing": "2026-10-03 核对：无强制版面费，混合出版。可选 Gold OA USD 1675，符合 SPIE/机构资格 USD 1255，特定经济考虑 USD 425；每篇仅一种折扣，Review/Tutorial 有费用豁免。Gold 为 CC BY 4.0，免费 Green 保留 SPIE 版权；税及实际资格待个案核对。来源 https://www.spiedigitallibrary.org/journals/open-access 。",
     "schedule": "常规稿经本刊 Submit Manuscript 官方入口；特刊另查征稿，不将出版制作时间当作审稿期限。",
     "checkedAt": "2026-10-03",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 4,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -5480,7 +5746,30 @@
     "publishing": "自 2026 年 1 月全面 OA。2026-10-03 官方本刊页 APC GBP 2690 / USD 4090 / EUR 3090，以录用日定价，另加适用税；提供 CC BY 或 CC BY-NC-ND，资格型减免及机构资助另核对。酌情减免须投稿时申请，不能等审稿后或录用后。来源 https://link.springer.com/journal/340/how-to-publish-with-us ；转型 https://link.springer.com/journal/340/updates/27838354 。",
     "schedule": "常规稿按本刊 Submit your manuscript 进入系统；专题另查当届通知，旧指南的制作/印刷时间不作承诺。",
     "checkedAt": "2026-10-03",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -6014,11 +6303,23 @@
       "传感与测量",
       "光学设计与制造"
     ],
-    "description": "中文光子学与光学研究月刊，官方范围涵盖导波/集成光学、光通信、光传感和光学仪器；以独立数据库证据进入EI工程补充，不依赖未核实分区。ESCI独立显示，不能当SCIE。",
+    "description": "中文光子学与光学研究月刊，官方范围涵盖导波/集成光学、光通信、光传感和光学仪器；以独立数据库证据进入EI工程补充，不依赖Q1/Q2；JCR 2025 OPTICS Q4为机构转载参考。ESCI独立显示，不能当SCIE。",
     "website": "https://www.photon.ac.cn/",
     "guide": "https://www.photon.ac.cn/info/2453?lang=zh",
     "checkedAt": "2026-10-05",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 4,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",
@@ -6074,11 +6375,23 @@
       "光学材料",
       "传感与测量"
     ],
-    "description": "中文物理综合半月刊，强调新物理认识及凝聚态、原子分子和光物理。三篇不同期次的发光、太赫兹与激光冷原子实验支持光学交叉适配；一般算法或材料制备须有充分物理内涵。以已核实EI工程补充准入，SCIE独立确认，分区未知。",
+    "description": "中文物理综合半月刊，强调新物理认识及凝聚态、原子分子和光物理。三篇不同期次的发光、太赫兹与激光冷原子实验支持光学交叉适配；一般算法或材料制备须有充分物理内涵。以已核实EI工程补充准入，SCIE独立确认，JCR 2025分区有机构转载参考，2026/CAS待核。",
     "website": "https://wulixb.iphy.ac.cn/",
     "guide": "https://editorial.iphy.ac.cn/journalx_aps/basicinfo/viewHtmlFile.action?id=8",
     "checkedAt": "2026-10-05",
-    "rankings": [],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=610",
+        "evidence": "secondary"
+      }
+    ],
     "indexes": [
       {
         "database": "SCIE",

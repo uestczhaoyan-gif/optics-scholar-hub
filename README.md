@@ -172,3 +172,5 @@ The update button checks the deployed catalog version, then offers to load a new
 每日来源巡检同时覆盖系列官方入口；最新已收录届次结束后，每 30 天进入后续公告核验队列。人工核验当届身份、会期及出处后追加新届次，保留旧记录并完成部署。尚无官方安排时显示“暂无已核实的后续届次”，不按年会/双年会周期推算日期。详见[维护手册](docs/MAINTENANCE.md)。
 
 The series directory links 118 editions to 98 stable conference identities. Follow a series to find newly reviewed editions alongside historical requirements; series favorites remain local and separate from edition favorites. Daily monitoring includes series sources, and ended series enter a next-announcement review queue every 30 days. New editions require official evidence and deployment; past editions remain available. Unknown future dates are never inferred from recurrence patterns.
+
+2026-10-05：补充的[逐学科JCR 2025参考](docs/JCR_EVIDENCE_2026-10-05.md)使已有JCR记录达到90/92刊，版本年/指标年与JIF/AIS分开；未表示2026或中科院分区已全部核实。 The [identified JCR 2025 references](docs/JCR_EVIDENCE_2026-10-05.md) now cover 90 of 92 journals; this is partial historical evidence, with JIF distinct from AIS and CAS.
