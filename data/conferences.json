@@ -3942,5 +3942,123 @@
         "source": "https://www.isprs.org/news/announcements/default.aspx"
       }
     ]
+  },
+  {
+    "id": "isbi-2027",
+    "series": "IEEE ISBI",
+    "year": 2027,
+    "name": "IEEE国际生物医学成像研讨会 ISBI 2027",
+    "nameEn": "IEEE International Symposium on Biomedical Imaging 2027",
+    "region": "海外",
+    "location": "瑞士 · 洛桑（EPFL校园，Ecublens）",
+    "venue": "SwissTech Convention Center",
+    "start": "2027-05-25",
+    "end": "2027-05-28",
+    "topics": ["生物医学光学", "成像与计算光学"],
+    "description": "跨尺度生物和医学成像会议，包含图像形成、采集/重建、物理建模及多模态、多尺度生物图像研究。适用于相关计算与生医光学工作，整体也涵盖其他医学成像模态。",
+    "website": "https://biomedicalimaging.org/2027/",
+    "notice": "https://biomedicalimaging.org/2027/papers/",
+    "registration": null,
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "完整论文单盲评审：技术内容及图表限前4页；可付$200增加第5页，仅放伦理合规、致谢/利益冲突或参考文献，最多5页。币种未明确。每人最多第一作者投稿2篇，其他共同作者不限。",
+      "完整稿走官网所链EDAS，邮件投稿不接受；一页摘要仅可海报交流且不归档出版。须原创且无实质相同稿并行评审；预印本另有允许边界。作者指南所链模板为2025路径，本轮只核链接，包内容/当届适用细节待核。",
+      "必须线下报告，不允许虚拟报告；未实际报告将从会议论文集中撤回。所有稿须有伦理合规及利益冲突说明；AI生成内容需声明所用系统/部分，纯编辑语法增强的声明是建议而非同一强制规则。"
+    ],
+    "publication": "官方2027 CFP说明录用普通四页论文由IEEE Xplore出版；一页摘要海报不作档案出版。作者指南要求线下报告，未报告撤回；具体数据库实际索引仍待核，不保证自动EI/SCIE。",
+    "notes": "主页/指南于10/3读取，官方CFP于10/4下载并渲染目视完成本批核验。首页所有截止写23:59 USA(EDT)，冬季日期与常规季节时制不一致，暂保存日期和原文，不造精确UTC。SPS9月通讯称25th、活动列表称24th，名称不取冲突届号。专题/教程/Workshop/Demo提案9/21 2026已过，Workshop论文1/26与Challenge论文2/26 2027为独立路径，非普通稿。注册页仍Coming Soon，费用/截止未知。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通四页论文截止（原文23:59 USA EDT，时区解释待核）",
+        "date": "2026-10-26",
+        "source": "https://biomedicalimaging.org/2027/"
+      },
+      {
+        "type": "notification",
+        "label": "普通论文结果通知",
+        "date": "2027-01-12",
+        "source": "https://biomedicalimaging.org/2027/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "普通论文最终稿截止（冬季EDT解释待核）",
+        "date": "2027-01-26",
+        "source": "https://biomedicalimaging.org/2027/"
+      },
+      {
+        "type": "abstract",
+        "label": "一页非出版摘要截止（冬季EDT解释待核）",
+        "date": "2027-02-01",
+        "source": "https://biomedicalimaging.org/2027/"
+      },
+      {
+        "type": "notification",
+        "label": "一页摘要结果通知",
+        "date": "2027-02-15",
+        "source": "https://biomedicalimaging.org/2027/"
+      },
+      {
+        "type": "registration",
+        "label": "注册开放/费用及截止尚待公布",
+        "date": null,
+        "source": "https://biomedicalimaging.org/2027/registration/"
+      }
+    ]
+  },
+  {
+    "id": "iisw-2027",
+    "series": "International Image Sensor Workshop",
+    "year": 2027,
+    "name": "国际图像传感器研讨会 IISW 2027",
+    "nameEn": "International Image Sensor Workshop 2027",
+    "region": "海外",
+    "location": "加拿大 · 不列颠哥伦比亚省 Whistler",
+    "venue": "The Westin Resort & Spa",
+    "start": "2027-06-13",
+    "end": "2027-06-17",
+    "topics": ["电子与器件", "成像与计算光学", "传感与测量", "生物医学光学"],
+    "description": "面向固态图像传感器设计与开发，覆盖CMOS/CCD/SPAD、飞行时间和结构光、多/高光谱与偏振成像、片上光学及生医应用；论文按实际器件和光学贡献匹配。",
+    "website": "https://imagesensors.org/2027-international-image-sensor-workshop/",
+    "notice": "https://imagesensors.org/CFP2027/fcfp2027.pdf",
+    "registration": null,
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "首轮征稿摘要：一页正文最多500词，可附最多两页图示，总计不超过3页；须作者姓名、单位和联系信息，不按双匿名规则处理。经所链Microsoft CMT提交，本轮未登录，不将8/1计划开放当当前系统已验证。",
+      "摘要按原创性/质量由程序委员会保密评审，欢迎高质量进行中工作；录用后最终论文4页。口头/flash报告与一般海报要求不混用，具体模板和报告时长待后续说明。",
+      "参会人数有限，优先报告者；最终注册/费用和节目安排待Final Announcement。演示材料提交日为2027-04-30（日期级），没有将其当普通论文截止。"
+    ],
+    "publication": "本届首轮CFP要求最终4页论文，但未核实公开归档、会议论文集或索引条件；不因学会主办、CMT评审或历史出版方式保证EI/SCIE。",
+    "notes": "官方PDF两页于10/4下载并渲染目视：可见2027内容与首页会期/场馆一致。文本提取含不可见2017模板层，未采用其旧日期/规则；网页无关段落不作会议依据。摘要截止原文23:59 PST，但BC自2026改为全年UTC−07，未证实此PST指美国固定标准时或当地时间，暂保存日期级，不据场馆自动换算；通知为by2/12、最终论文3/20与演示材料4/30未给时刻，均日期级。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "摘要截止（原文23:59 PST，所指时区待核）",
+        "source": "https://imagesensors.org/CFP2027/fcfp2027.pdf",
+        "date": "2026-12-10"
+      },
+      {
+        "type": "notification",
+        "label": "摘要录用通知（不晚于本日）",
+        "date": "2027-02-12",
+        "source": "https://imagesensors.org/CFP2027/fcfp2027.pdf"
+      },
+      {
+        "type": "camera-ready",
+        "label": "最终4页论文提交",
+        "date": "2027-03-20",
+        "source": "https://imagesensors.org/CFP2027/fcfp2027.pdf"
+      },
+      {
+        "type": "registration",
+        "label": "注册与费用待Final Announcement",
+        "date": null,
+        "source": "https://imagesensors.org/CFP2027/fcfp2027.pdf"
+      }
+    ]
   }
 ]

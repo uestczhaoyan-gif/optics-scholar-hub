@@ -959,3 +959,13 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 长操作前work/S3_RESEARCH_2026-10-03.md保存验收及范围；隔离实际现有checker两URL baseline/unchanged、同URL双引用去重通过，正式缓存未动。没有功能代码或调度修改，不新增镜像实现的测试。必要数据/范围校验、报告/文档/构建与差异审查后推送验收同SHA；其他规划继续。
 
 - 发布前数据校验、sources/notes精确白名单及所有学术字段保持断言通过；143个本地Markdown链接、维护307项/覆盖12主题及当前计数保持。Pages子路径构建/六入口资源exit0、差异审查/git diff --check通过；同SHA完整CI与部署随后验收。
+
+## 2026-10-04：生医成像与图像传感器 C17
+
+- S3 c8fba752d74bb211feed202fd996030794d88aac已验收[Pages37127257725](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37127257725)：build/deploy及完整CI成功，首页/版本HTTP200，86ed484bf56a6cfebdb4b87b00b889858565d187d85b4ff6f0ab9ec903dba34b与本地一致（2026-10-03T13:47:07.575Z）。 下载调用异常延迟跨日，10/4先查实际额度0%/周33%允许、HEAD与GitHub相同且干净、重生成307维护项/12主题覆盖，再接续。没有重复提交或恢复其他调度。
+- [C17逐字段证据](CONFERENCE_EVIDENCE_2026-10-04.md)：ISBI单盲/4+1页、一页摘要非出版及EDT歧义；IISW实际可见2027两页/PST时区歧义与未知出版分开。保留冲突届号/旧模板链接边界。
+- 长操作前work/C17_RESEARCH_2026-10-04.md保存跨日范围、S3验收与精确白名单。两PDF实际渲染目视；IISW沙箱WindowsTLS凭据失败后同URL授权只读curl成功，证书验证不变。必要校验/范围/差异审查/构建后推送验收同SHA；其他规划继续。
+
+- 首轮时区校验发现IISW的旧冬季映射不符当前Intl规则，尚未提交。查BC政府2026公开公告确认全年UTC−07；修正为日期级并保留原PST歧义，没有更改校验器或套美国城市以通过。修正后再完成必要检查。
+
+- 最终数据校验、旧77届/70系列/其他目录保持及双候选六字段白名单/日期级歧义断言通过；186个本地Markdown链接、维护319项（唯一CIOP后续任务）和12主题覆盖通过。85/79/10、72系列/7多届、273167/101/5、分区索引及二十刊样例保持；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过，完整30项测试/typecheck/lint等由同SHA CI验收。

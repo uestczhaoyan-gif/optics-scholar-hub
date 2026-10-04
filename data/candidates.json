@@ -1316,12 +1316,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学/医学成像方法专题，注意不同出版方式",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://biomedicalimaging.org/2027/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["isbi-2027"],
+    "decisionReason": "当届官网、SPS关联与CFP确证洛桑5/25–28 2027、场馆与生物/计算成像范围，正式入选；普通稿与一页摘要出版分开。",
+    "nextAction": "跟进EDT冬季解释、冲突届号、所链2025模板内容及注册/费用；提案和Workshop/Challenge路径不混普通稿。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-39b9fd64bb",
@@ -1386,12 +1386,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "成像传感器、光电读出与相关芯片，ISSCC 仅条件适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://imagesensors.org/2027-international-image-sensor-workshop/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["iisw-2027"],
+    "decisionReason": "官方2027首轮CFP两页实际目视确证Whistler6/13–17、固态图像传感器与光学范围、独立摘要征稿，正式入选；忽略旧隐藏模板文字。",
+    "nextAction": "跟进PST截止是否指固定标准时或BC当地全年UTC−07、Final Announcement、最终稿模板、注册费/截止与出版归档；网页无关文本和2017隐藏层不采用。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-d36e2878e7",

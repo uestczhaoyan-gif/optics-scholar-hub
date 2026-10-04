@@ -1,16 +1,16 @@
 # 后续工作规划 / Roadmap
 
-更新：2026-10-03；用户已授权持续续作，复用五小时额度检查任务并接到当前对话。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
+更新：2026-10-04；用户已授权持续续作，复用五小时额度检查任务并接到当前对话。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **85 本期刊、77 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **85 本期刊、79 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 77 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 79 届会议；分开记录投稿、PDP、注册、终稿等    | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 3 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 85 journals, 77 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 4 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 85 journals, 79 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 68 journals and CAS records for 11. SCIE has 72 and EI has 78 positive records. 78 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Seventy-two SCIE records have current Clarivate MJL search-result evidence; eleven ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -525,3 +525,7 @@ C16新增ISPRS2026历史与2030预告，2029具体日期未知仅线索；当前
 ## S3：动态正文来源（2026-10-03）
 
 S3将ICCP2027实际公开加载的Home/CFP正文HTML追加到系列sources，现有每日text指纹可以监测已核两页；仅单届notes说明变更，所有学术事实/日期/计数保持。[实测与边界](MAINTENANCE.md)。C16 6839ca0a47cdca5f56e7e047c3f5f8b80551c5ab已验收[Pages37126973432](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37126973432)：build/deploy及完整CI成功，首页/版本HTTP200，685af700e2eeb7c82e774e71a726961fac16b4a5fbdf370a4afb1cbd275817c9与本地一致（2026-10-03T13:42:10.903Z）。 下一批ISBI2027已有实际当届官网线索，须核CFP、光学子集、场馆和EDT跨季节时区歧义；不可凭旧提案准入。继续其他规划，既有五小时任务保持。
+
+## C17：生医成像与图像传感器（2026-10-04）
+
+C17新增ISBI2027与IISW2027，当前85刊/79会议/10活动、72系列/7多届、273候选167/101/5。[字段证据](CONFERENCE_EVIDENCE_2026-10-04.md)。S3 c8fba752d74bb211feed202fd996030794d88aac已验收[Pages37127257725](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37127257725)：build/deploy及完整CI成功，首页/版本HTTP200，86ed484bf56a6cfebdb4b87b00b889858565d187d85b4ff6f0ab9ec903dba34b与本地一致（2026-10-03T13:47:07.575Z）。 PDF下载调用异常延迟后10/4重新核实际额度0%/周33%允许及干净GitHub状态，继续工作。下一步补PDF公告变化信号（现仅可达性）、国内光子学2025/26时间线与其他待核候选；不重复系列功能，已有五小时任务保持，其他规划未完成。

@@ -845,5 +845,34 @@
       "https://www.isprs2029.com"
     ],
     "nextEditionCheckedAt": "2026-10-03"
+  },
+  {
+    "id": "series-fb2f40a8a5d6",
+    "name": "IEEE ISBI",
+    "aliases": [],
+    "editionIds": ["isbi-2027"],
+    "website": "https://biomedicalimaging.org/2027/",
+    "sources": [
+      "https://biomedicalimaging.org/2027/",
+      "https://biomedicalimaging.org/2027/papers/",
+      "https://confcats-event-sessions.s3.us-east-1.amazonaws.com/isbi27/isbi27-cfp_web-03.pdf",
+      "https://biomedicalimaging.org/2027/info/",
+      "https://biomedicalimaging.org/2027/registration/",
+      "https://signalprocessingsociety.org/newsletter/2026/09/2027-international-symposium-biomedical-imaging-isbi"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-9ca7e0e9c4a2",
+    "name": "International Image Sensor Workshop",
+    "aliases": [],
+    "editionIds": ["iisw-2027"],
+    "website": "https://imagesensors.org/2027-international-image-sensor-workshop/",
+    "sources": [
+      "https://imagesensors.org/2027-international-image-sensor-workshop/",
+      "https://imagesensors.org/CFP2027/fcfp2027.pdf",
+      "https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]
