@@ -601,3 +601,7 @@ C24 d5ecd3bdcbc681f227806bb718bab93da1763489已验收[Pages37206875465](https://
 ## C26：MICCAI时间深度（2026-10-04）
 
 C25 e764b139e28a30c172b066105a4fd1eedd0c9c4d已验收[Pages37207744738](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37207744738)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，d57cd321fc0b8007ef4cb1f7502cdf3386dfe256650d7603cce5cd93641bf85c与本地一致（2026-10-04T14:09:09.587Z）。首次push连接超时后补推同提交成功；一次线上TLS重置后只复查原部署，未重复提交。 MICCAI新增2026历史与2028圣保罗官方预告，两届共一稳定系列；2027两个Society页面9/26与9/27起日冲突，未进正式届。2026主会论文目录的光片荧光显微/共聚焦内镜/光声子集已核，未来稿规与注册未知，不套旧8+2页。当前85/112/10、94系列/15多届、273候选189 admitted/79 pending/5 deferred，27刊样例和分区索引保持。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。
+
+## E26：本刊指南与资助出版（2026-10-04）
+
+C26 0a5d150765de54d18a12deb4a688105abb5e58fe已验收[Pages37208657675](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37208657675)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，95b25becae39a0c34431c3623b3bcdab2df7280b208637f357ca6678adcaa561与本地一致（2026-10-04T14:19:41.538Z）。 Photoacoustics补本刊Letter8初稿页/2000词/5图表与4印刷页、250词摘要、建议Highlights/图形摘要、Option C及USD4070不含税；IJEM本刊IOP About明确编辑部资助CC BY作者无费，并补本刊Letters/Research Highlights1000词。只两刊requirements/publishing，原首条范围/整刊日期/索引分区/样例及其他83刊、全部其他JSON保护。[字段与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。85/112/10、94系列/15多届、189/79/5与27刊样例保持，其余规划继续。

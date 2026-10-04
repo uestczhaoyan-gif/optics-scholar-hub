@@ -5021,9 +5021,11 @@
     "guide": "https://www.sciencedirect.com/journal/photoacoustics/publish/guide-for-authors",
     "requirements": [
       "Elsevier 官方范围说明接收本领域原创研究与综述；从本刊 Guide for Authors 核对稿型、模板与提交要求。",
-      "ScienceDirect 本刊指南本轮返回 403，尚未核实当前摘要长度、Highlights 要求和具体投稿文件，不采用第三方转载规则。"
+      "2026-10-04 本刊指南：原创研究无指定稿长/图表数上限，建议精简；Review一般4–6印刷页、可考虑更长，投稿前须咨询主编/栏目编辑。Letter初稿≤8页（含题名、摘要、引用、图表等）、≤2000词、最多5幅图或表，出版≤4印刷页。另接收有重要技术价值的Technical Reports。来源：https://www.sciencedirect.com/journal/photoacoustics/publish/guide-for-authors",
+      "单匿名评审，通常至少2位专家；摘要≤250词，英文关键词1–7。Highlights与图形摘要均为encouraged，非mandatory；若提供Highlights，单独可编辑文件、3–5条各≤85字符含空格；图形摘要单文件、531×1328高×宽像素或更高比例、5×13cm可读。",
+      "须提供可编辑源文件（Word.doc/.docx或LaTex.tex），PDF不是源文件；Word单栏，LaTex可双栏，模板建议非强制。本刊Option C：数据存储、引用链接，不能共享则说明原因；投稿必须data availability声明，患者/保密资料可说明限制。投稿入口 https://submit.elsevier.com/PACS ，未登录或上传。"
     ],
-    "publishing": "Elsevier 将本刊列入开放获取物理期刊；具体 APC、许可与减免以当前本刊说明为准。",
+    "publishing": "2026-10-04 本刊OA页：全开放获取，All articles基础APC USD4070，不含税；列CC BY、CC BY-NC、CC BY-NC-ND选择，资助合规需CC BY可在录用后申请。参与地理定价，按所有作者国家机构信息计算，机构协议/个人资格报价另定；具体价格版本生效日和按投稿/录用时点适用未明确，不推算优惠额。来源：https://www.sciencedirect.com/journal/photoacoustics/publish/open-access-options",
     "checkedAt": "2026-09-13",
     "rankings": [
       {
@@ -5077,9 +5079,11 @@
     "requirements": [
       "接收原创研究与综述；英文撰写，图表嵌入正文相应位置。IOP 提供 Word/LaTeX 模板，按官方 Submit an article 进入系统。",
       "IOP 本刊作者页建议摘要通常不超过 300 词，能独立说明方法、结果与结论；具体稿型的特殊限制仍须查本刊说明。",
-      "准备可复现的方法、数据可用性和必要声明；明确超越现有制造方法的贡献，避免仅有渐进改进。"
+      "准备可复现的方法、数据可用性和必要声明；明确超越现有制造方法的贡献，避免仅有渐进改进。",
+      "2026-10-04 本刊IOP About列Paper、Review、Comment、邀请Reply、Perspectives、News and Views、Letters及Research Highlights；Letters和Research Highlights各≤1000词。通用作者页的Letter介绍不自动代表本刊其他限制，Paper/Review确切字数上限未核。来源：https://iopscience.iop.org/journal/2631-7990/page/about",
+      "本刊链接的IOP作者页说明初投单PDF及相关补充，图表嵌正文、至少12pt可读、Word/LaTex模板可选；摘要通常≤300词，未称为所有稿型不可例外硬上限。源文件用于修订/制作；单/双匿名须查本刊peer-review policy，本轮该页未读，未推断匿名模式。来源：https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/"
     ],
-    "publishing": "出版许可、APC 及资助减免须核对本刊当前说明；不将旧版免费政策作为长期承诺。",
+    "publishing": "2026-10-04 本刊IOP About明确：完全开放获取、CC BY，保留作者版权，出版由编辑部资助，作者不需支付费用（Gold OA without APC）。这是当前官方本刊声明，页面未列生效版本日期，不保证未来永久免费；独立Publication charges子页未完成读取，不依据第三方报价。来源：https://iopscience.iop.org/journal/2631-7990/page/about",
     "checkedAt": "2026-09-13",
     "rankings": [
       {

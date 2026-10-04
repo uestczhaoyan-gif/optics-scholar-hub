@@ -1113,3 +1113,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - MICCAI新增2026历史与2028圣保罗官方预告，两届共一稳定系列；2027两个Society页面9/26与9/27起日冲突，未进正式届。2026主会论文目录的光片荧光显微/共聚焦内镜/光声子集已核，未来稿规与注册未知，不套旧8+2页。当前85/112/10、94系列/15多届、273候选189 admitted/79 pending/5 deferred，27刊样例和分区索引保持。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。 Society Upcoming/公告及2026主页、指南、Dates、注册/出版/主会公开目录和卫星入口实际普通浏览器读取；只相关目录题名和页面已核段落，不声称论文全文、19卷、模板ZIP或全书PDF已读。未登录/注册/联系/提交。
 - 仅两新增届/一系列/一候选六审核字段；旧110届/93系列、85刊/27样例及全部其他JSON保护。EOD通知日级，未来未知、2027起日/2026公开时段与退款年度差异保留。必要验证/文档/报告/构建/差异审查后推送验收同SHA，其余规划继续。
   `n- 发布前数据校验、旧110届/93系列与所有其他JSON保持、一候选六字段白名单、112/94/15和189/79/5计数断言通过；2027未入正式/2028全部截止未知/通知EOD日级边界通过。255个本地Markdown链接、维护386项与12主题覆盖通过。Pages子路径构建和六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。最新实际五小时44%/周56%允许，继续其余规划。
+
+## 2026-10-04：Photoacoustics与IJEM指南 E26
+
+- C26 0a5d150765de54d18a12deb4a688105abb5e58fe已验收[Pages37208657675](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37208657675)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，95b25becae39a0c34431c3623b3bcdab2df7280b208637f357ca6678adcaa561与本地一致（2026-10-04T14:19:41.538Z）。 正式编辑前已验收；work/E26_RESEARCH_2026-10-04.md长操作前保存实际44%/周56%允许及来源，后续47%/56%允许，不用重置券。
+- Photoacoustics补本刊Letter8初稿页/2000词/5图表与4印刷页、250词摘要、建议Highlights/图形摘要、Option C及USD4070不含税；IJEM本刊IOP About明确编辑部资助CC BY作者无费，并补本刊Letters/Research Highlights1000词。只两刊requirements/publishing，原首条范围/整刊日期/索引分区/样例及其他83刊、全部其他JSON保护。[字段与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。85/112/10、94系列/15多届、189/79/5与27刊样例保持，其余规划继续。 Photoacoustics自动403但普通浏览器指南/OA页实际可读；旧ISSN OA路径正常重定向。只读已核稿型/摘要/文件/数据/费用段，不声称完整伦理/临床试验/模板文件已核。
+- IJEM Support/所链About/IOP本刊About已读；收费子页跳第三方validate.perfdrive.com反机器人验证被自动审批拒绝，理由是可能涉及访问控制，未访问验证域名、未转用其他工具绕过。费用依据是此前可读IOP本刊About的明确编辑部资助声明，收费子页/peer-review policy未读，匿名模式未定。无需该受限跳转即可完成本批已核字段。
+- 必要校验/四字段范围/文档/报告/子路径构建与差异审查后推送，验收同SHA CI/部署/线上版本，其他规划继续。
+  `n- 发布前数据校验、四字段白名单/原首条范围/83其他刊及全部其他JSON保护、27样例计数与建议材料/费率/匿名未知边界断言通过；207个本地Markdown链接、维护386项/12主题覆盖通过。Pages子路径构建六入口资源exit0，差异审查/git diff --check通过。完整31项测试/typecheck/lint等由同SHA CI验收。
