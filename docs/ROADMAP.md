@@ -633,3 +633,7 @@ E29 5e95fb7ffb508e365c3eca378551bdf8b0f6bdee已验收[Pages37212635676](https://
 ## 2026-10-04：ACP当前窗口 B5
 
 E30 ae93dbd30a597d16bb8dc58e2b233c22c021152c已验收[Pages37213012360](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37213012360)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，b29af266af91fa1224a934689c95c9e824b6052720be134462b341b088639766与本地一致（2026-10-04T15:31:26.935Z）。 ACP2026补杭州国际博览中心、当前普通费率/论文覆盖和展示条件；早鸟从日级细化为9/30 23:59北京时间付费截止（已过），核心通知转向当前PDP10/15 23:59，10/25终稿仍仅日期。初步议程待完整公布，酒店10/29不造论文/注册事件；限定范围未见2027公告，保留稳定系列与前身历史。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。仅现届核实字段及同系列sources/后续公告日变化，整届日期/117其他届、97其他系列/其他JSON和85/118/10、194/74/5、34样例保持；其他规划继续。
+
+## 2026-10-04：APR本刊费用与周期 E31
+
+B5 ef3fbbf1eba4a3b1cfb25f12d996f773367dc289已验收[Pages37213728476](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37213728476)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，e1eea0f5d788d55277e5cb71df30ad90c811035801c4b037321b07a71dce0b7e与本地一致（2026-10-04T15:40:04.011Z）。 APR本刊原页补确认不收页费、可选OA USD3,800且出版前支付；独立刊价证据取代仅通用政策的缺口。另补2025平均首轮41/录用170/发表195天，保留稿型/样本和起算不详，不作个稿承诺。仅publishing/schedule，整刊日期、指南/样例/排名索引、84其他刊与全部其他JSON保持。[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届、194/74/5及34样例保持，其他规划开放。

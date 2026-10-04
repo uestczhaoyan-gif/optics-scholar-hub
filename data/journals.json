@@ -2553,7 +2553,7 @@
         "note": "Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 377 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。"
       }
     ],
-    "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",
+    "schedule": "2026-10-04实读本刊About页的2025 Publication Speed：平均首轮决定41天、平均录用170天、平均发表195天；页面注明随稿型变化，未给样本量及更细起算定义。这是2025历史均值，不保证当前个稿时限，不将170+195相加；专题截止与返修期限按对应通知。来源：https://pubs.aip.org/aip/apr/pages/about",
     "id": "applied-physics-reviews",
     "name": "Applied Physics Reviews",
     "abbr": "APR",
@@ -2570,7 +2570,7 @@
       "综述多为邀稿；未受邀作者需说明选题及时性、作者专长，并提交官网 editorial summary 模板供编辑评估。",
       "使用 Word 或 LaTeX 准备源文件；初投提交合并正文 PDF，补充材料另存 PDF。图表需提供 alt text，并准备利益冲突、作者贡献和数据可用性声明。"
     ],
-    "publishing": "2026-10-03 核验 AIP 官方通用政策：混合出版的 Author Select 可选 OA 通用 APC USD 3,800，可选 CC BY、CC BY-NC、CC BY-NC-ND，作者/雇主保留版权。该金额为通用政策，本刊独立 Publication Charges 页本轮不可读，是否有本刊例外、税及适用时点仍待核实；不将 Gold OA 的 USD 2,750 或 Group A/B 自动减免套到本刊。可按机构协议核对覆盖资格。来源：https://publishing.aip.org/resources/researchers/open-science/open-access/",
+    "publishing": "2026-10-04实读本刊Publication Charges：不收页费；Author Select可选开放获取APC USD 3,800，选择后须出版前支付，可在新稿/修订稿提交时说明。About确认混合出版，可选择传统订阅路线；页费为零不等于可选OA免费。2026-10-03已核通用政策可选CC BY、CC BY-NC、CC BY-NC-ND且作者/雇主保留版权；机构协议须核覆盖资格，税及金额适用版本/生效日未注明，不套用Gold OA国家自动减免。来源：https://pubs.aip.org/aip/apr/pages/charges；https://pubs.aip.org/aip/apr/pages/about；https://publishing.aip.org/resources/researchers/open-science/open-access/",
     "scopeExamples": [
       {
         "title": "Liquid-metal-assisted exfoliation of 2D β-Ga2O3 with high anisotropy ratio for solar-blind detection and polarization imaging",

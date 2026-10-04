@@ -82,3 +82,12 @@
 | IJEM [本刊链接Support指南](https://publishingsupport.iopscience.iop.org/journals/international-journal-of-extreme-manufacturing/) ArticleFormat/Abstract | 初投单PDF及相关补充、图表嵌入、可读至少12pt、模板可选；通常摘要≤300词。须按本刊评审模式匿名或留身份                                                                                                                                    | Support包含通用IOP稿型，不据此新增本刊Corrigendum/Addendum准入；本刊peer-review policy未读，单/双匿名保留未知。模板文件/完整数据伦理未读，整刊日期不刷新 |
 
 IOP About实际链接Publication charges子页的访问触发validate.perfdrive.com第三方反机器人验证，自动审批拒绝，原因是潜在访问控制风险。未继续该流程或以其他工具访问受限结果；本批资助出版依据是此前可读本刊About的明确声明，收费子页本身仍未审。没有登录、注册、联系编辑、上传或支付。当前所有数量保持，其他规划继续。
+
+## E31：APR独立刊价与2025周期（2026-10-04）
+
+| 字段/官方原页 | 已读事实 | 边界 |
+| --- | --- | --- |
+| [Publication Charges](https://pubs.aip.org/aip/apr/pages/charges) | 明确APR无页费，可选Author Select USD3,800且出版前支付；可在新稿/修订稿说明选择 | 本刊实际原页补证，不只通用价；无税/生效日说明，不将无页费称OA免费，不套GoldOA减免 |
+| [About](https://pubs.aip.org/aip/apr/pages/about) | Hybrid OA。2025 Publication Speed平均首轮41天、录用170天、发表195天，稿型不同 | 未给样本数/进一步起算，不相加、不保证个稿或当前周期；只更新费用/历史周期，既有本刊Q1/索引等未重核或刷新 |
+
+自动安全加载自行完成，无点击验证或绕过；正常拒绝非必要Cookie后从实际Publish菜单访问费用原页。整刊checkedAt仍9/11，其他84刊/全部既有34刊样例与其他JSON保持。
