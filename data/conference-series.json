@@ -2,12 +2,18 @@
   {
     "id": "series-75ad69d7586c",
     "name": "ACP",
-    "aliases": [],
-    "editionIds": ["acp-2026"],
+    "aliases": [
+      "AOE（2009年并入ACP的前身之一）",
+      "Asia Optical Fiber Communication and Optoelectronic Exposition and Conference（ACP前身之一）"
+    ],
+    "editionIds": ["acp-2026", "aoe-2008"],
     "website": "https://www.acpconf.com/",
     "sources": [
       "https://www.acpconf.com/",
-      "https://www.acpconf.com/news/paper-submission"
+      "https://www.acpconf.com/news/paper-submission",
+      "https://cncos.org.cn/Content/view/id/358.html",
+      "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2009/acp-2009-archive.pdf?t=634865214959470000",
+      "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf"
     ],
     "nextEditionCheckedAt": null
   },
@@ -1259,6 +1265,18 @@
       "https://icc2026.ieee-icc.org/",
       "https://icc2026.ieee-icc.org/authors/call-symposia-papers",
       "https://icc2026.ieee-icc.org/about-conference-venue"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-214e17a6f649",
+    "name": "APCOM & YSAOM",
+    "aliases": [],
+    "editionIds": ["apcom-ysaom-2025"],
+    "website": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+    "sources": [
+      "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+      "https://b2b.csoe.org.cn/meeting/YSAOM2026.html"
     ],
     "nextEditionCheckedAt": "2026-10-04"
   }

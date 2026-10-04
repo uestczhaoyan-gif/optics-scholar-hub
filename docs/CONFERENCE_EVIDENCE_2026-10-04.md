@@ -251,3 +251,18 @@ ICAP是International Conference on Atomic Physics，不与Computational Accelera
 | ICC2027[ComSoc本会官方表](https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history) | ICC2027行明确Washington D.C.USA，May30–June3；2026行与当届Glasgow一致。GLOBECOM2026Macao行也一致 | 2027本届CFP/平台/场馆/注册/出版未核，unknown；光通信适配仅根据既有系列2026 ONS子集，待本届主题。拒绝合并同缩写其他IoT/Data/Cloud ICC，不套2026页数/EDAS/注册 |
 
 仅四新增届、三稳定系列与三候选六审核字段；旧112届/94系列保护，85刊/29样例/全部其他JSON保持。现在116届/97系列16多届、192 admitted/76 pending/5 deferred。各未来缺口和未知继续进入巡检与维护，不把日城预告当投稿开放。
+
+## C28：AOE前身与YSAOM不同联合组合（2026-10-04）
+
+| 字段与官方来源 | 已核事实/范围 | 边界与未知 |
+| --- | --- | --- |
+| AOE/ACP沿革：[中国光学学会2016原公告](https://cncos.org.cn/Content/view/id/358.html)、[Optica2009ACP官方存档第1页](https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2009/acp-2009-archive.pdf?t=634865214959470000) | AOE与APOC于2009合并为ACP，两独立官方依据一致；当前ACP稳定ID保留，前身别名明确限定2009合并关系 | 原档113页，只首1页沿革文本；截图生成失败、不称图像已核。未加重复AOE2026或用旧2009稿规/会期补2026；ACP现有会期/指南/整届日期及nextEditionCheckedAt不刷新 |
+| YSAOM2025[CSOE当届原页](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)身份/主席团/简介/日程 | 亚太制造第九届+青年第五届，长沙富力万达文华酒店7/18–20；7/18报到/短课，7/19开幕，7/20闭幕；青年独立主席团。往届区明确2023同APCOM、2024/2022同AOMTA | 新增2025一条联合记录；2026同AOMTA第六青年记录保留。两个合作系列不永久合并、不重复创建同日青年独立记录；英文标题是按中文/官方旧系列名译写，未来2027日城未知 |
+| 同2025页摘要/稿件/模板标签 | 英文摘要500–800词、独立投稿入口；第一轮4/10、第二轮5/20；SPIE出版材料7/25，青年专场7/1独立；模板链接标4–6页/海报80×90cm | 普通最终侧栏6/30与英文7/8不一致，null保留来源差异，不自行解释为延期。中文篇幅、模板/非涉密证明/出版文件内部未核；标签不是完整硬性尺寸/格式审计 |
+| 同2025页注册/出版段 | 普通3250→早鸟3050、学生2250→2050（不含在职），早鸟须7/7前；版面2500且同第一作者≤2篇，住宿另费。出版有SPIE入口与支持期刊渠道 | 只历史2025规则，未转移2026早鸟日期或未来费用。短课程/展示独立报名不当普通论文轨道。支持期刊/一般SPIE索引宣传不能作当前逐刊数据库证据或每篇录用保证，未实际单篇检索 |
+
+AOE候选仅关联新AOE2008前身历史届；青年候选仅关联新2025联合记录，原ACP与AOMTA候选的2026关联保持，一对一计数。仅四指定旧字段和两候选审核字段变化、两新历史届/一新系列；旧数据其他范围保持。现在118届/98系列17多届，194/74/5候选；85刊/31样例与分区索引保持。
+
+| 字段与官方来源 | 已核事实/范围 | 边界与未知 |
+| --- | --- | --- |
+| AOE2008[Optica原存档第1–3页](https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf) | 上海Shanghai Expo Convention Center；技术会议2008/10/30–11/2，展览10/31–11/2；普通注册10/21日级。范围含光纤通信、器件、传感和生物光子，前身届次归入现有ACP时间线 | 全档54页，只前3页文本；初稿/模板/费用未核，不复用较新届规则。原档IEEE Xplore/OSA及INSPEC/Ei说明为出版计划，未核实际逐篇检索。前身名称在标题明确，AOE候选关联此独有历史记录 |

@@ -1148,3 +1148,13 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 必要数据/白名单/文档/报告/子路径构建和差异审查后上传验收同SHA，其余规划继续。
 
 - 发布前数据校验、仅两scopeExamples/83其他刊与旧29刊样例/其他JSON保持、31刊计数/近两年首次日期/不同期次以及纯晶体/逻辑边界断言通过；216个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建与六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：AOE前身与YSAOM联合届次 C28
+
+- E28 0b3b74e3354b582c3aa2a5b5b72d63f77e88242d已验收[Pages37211078034](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37211078034)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，acc4bb5f82b5accfba34f28c08fed08e157251e61c69585a766f343d7959bfa8与本地一致（2026-10-04T14:58:01.549Z）。一次API超时只复查同部署，未重复提交。 正式编辑前已验收；work/C28_RESEARCH_2026-10-04.md长操作前保护官方身份、冲突和范围，最新实际五小时70%/周60%允许，不用重置券。
+- AOE与APOC于2009合并为ACP的前身关系由学会原公告与Optica原档确认，保留ACP稳定ID并加限定前身别名，补AOE2008上海10/30–11/2历史届，不重复造AOE2026。YSAOM2025第五届与APCOM第九届联合，新增长沙7/18–20历史一届；2026与AOMTA联合记录保留，合作系列不永久合并。2025最终摘要6/30与7/8冲突仍null。当前85/118/10、98系列/17多届、273候选194 admitted/74 pending/5 deferred，31刊样例及分区索引保持。[身份与字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。 COS2016原公告/Optica2009ACP存档首1页文本与CSOE2025原页身份/投稿/注册/青年主席团/完整日程实际读取。113页原档只首1页文本，截图生成内部失败，未声称全书/截图已核；2025模板/非涉密证明/全书/合同内部未读，不声称当前索引。未登录、联系、支付、提交。
+- 新增两历史届/一组合系列、ACPnotes与原ACP系列aliases/sources/editionIds、两候选六审核字段。旧116届除ACPnotes、旧97系列除ACP三个字段保持，ACP整届日期与后续核验日null不刷新；AOMTA/YSAOM无永久青年/合作别名。85刊/31样例及其他JSON保护。必要验证/文档/报告/构建/差异审查后上传验收同SHA，其他规划继续。
+
+- 初次验证发现候选全局一对一冲突，失败初稿未发布；修为AOE候选仅关联新AOE2008、YSAOM候选仅关联新2025，原ACP/AOMTA候选及2026关联保持。AOE2008存档54页只第1–3页文本，技术会期10/30–11/2和展览10/31–11/2分开；注册10/21日级，初稿/模板/实际索引未知。重新验证后发布。
+
+- 修后数据校验、全局一对一关联、旧116届除ACPnotes/旧97系列除ACP三个字段与两候选六字段白名单、118/98/17及194/74/5计数断言通过；85刊/31样例和所有其他JSON保持。272个本地Markdown链接、维护392项/12主题覆盖通过；正确CLI入口的Pages子路径构建及六资源exit0、差异审查/git diff --check通过。完整31项测试/typecheck/lint等由同SHA CI验收。最新实际五小时79%/周61%允许，其他规划继续。

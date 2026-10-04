@@ -24,7 +24,7 @@
       "从官网进入 Learning Conference 系统，选择 ACP 2026 后提交摘要和论文；注册缴费、参会报告与最终 PDF/版权手续分别完成。"
     ],
     "publication": "至少一位作者注册缴费并现场报告，最终稿需完成版权与 PDF 认证。PDP 扩展稿的期刊邀请不等于期刊录用。",
-    "notes": "普通投稿由 7 月 1 日延至 7 月 15 日；7 月 22 日仅为已有投稿修改窗口。2026-09-10 复核：首页宣布 PDP 已开放，PDP 说明页已提供提交链接；仍需登录官方系统确认提交状态。",
+    "notes": "普通投稿由 7 月 1 日延至 7 月 15 日；7 月 22 日仅为已有投稿修改窗口。2026-09-10 复核：首页宣布 PDP 已开放，PDP 说明页已提供提交链接；仍需登录官方系统确认提交状态。 2026-10-04仅补系列沿革：AOE与APOC在2009合并为ACP，AOE为前身之一而非另一个AOE2026活动；依据中国光学学会2016介绍 https://cncos.org.cn/Content/view/id/358.html 及Optica2009 ACP官方存档第一页。当前稿规/会期与整届核验日期不随沿革编辑刷新。",
     "deadlines": [
       {
         "type": "paper",
@@ -6047,6 +6047,121 @@
         "label": "2027作者注册/费用待当届公告",
         "date": null,
         "source": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history"
+      }
+    ]
+  },
+  {
+    "id": "apcom-ysaom-2025",
+    "series": "APCOM & YSAOM",
+    "year": 2025,
+    "name": "第九届亚太光学制造会议暨第五届国际先进光学制造青年科学家会议（历史联合届次）",
+    "nameEn": "9th Asia Pacific Conference on Optics Manufacture and 5th Young Scientists on Advanced Optical Manufacturing Conference",
+    "region": "中国境内",
+    "location": "中国 · 湖南长沙",
+    "venue": "长沙市富力万达文华酒店",
+    "start": "2025-07-18",
+    "end": "2025-07-20",
+    "topics": ["光学设计与制造", "纳米与超表面", "光学材料", "传感与测量"],
+    "description": "2025亚太光学制造与先进光学制造青年会议联合届次，涵盖精密表面、微纳结构、短波长光学制造和超精密测量；按一届联合活动计数，保留与2026不同的合作身份。",
+    "website": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+    "notice": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+    "registration": "https://b2b.csoe.org.cn/registration/YSAOM2025.html",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "历史2025英文摘要500–800词，经 https://b2b.csoe.org.cn/submission/YSAOM2025.html 入口；中文摘要/非涉密证明模板可见但内部未读，中文具体篇幅未知。普通最终摘要侧栏6/30与英文正文7/8不一致，保留未知而不任选。",
+      "SPIE稿件截止为2025-07-25，单独为录用后出版材料；链接说明标4–6页、海报模板80×90cm，文件内部未读，不作完整格式/硬性尺寸核验。来源：https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+      "历史普通代表3250元，7/7前缴费3050元；学生2250元、早鸟2050元（不含在职学生）。会费含税等，不含住宿与2500元论文版面费，相同第一作者不超过两篇；不要移植2026的7/5早鸟日期。",
+      "青年学术新秀/学生专场报名7/1，另于7/20下午安排，不当普通摘要最终截止。7/18短课程单独报名收费，完整活动7/18–20与主报告7/19–20分开。"
+    ],
+    "publication": "当届主办方提供SPIE稿件入口及合作期刊列表；这些出版渠道/支持期刊及一般索引介绍不证明每篇实际录用或EI/SCIE检索。本轮未读模板、出版合同、全书PDF或单篇数据库。",
+    "notes": "主办学会页确认YSAOM2025第五届有独立主席团、与APCOM第九届联合；往届链接2023同APCOM、2024/2022同AOMTA。2026 AOMTA/YSAOM第六届另存，不永久合并APCOM与AOMTA，也不为青年组成重复增加同日条目。英文名称按中文标题/旧届所列系列名译写。最终摘要日期冲突未解释为延期；后续2027日城未知，不能从第5/6届或单双年外推。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史摘要第一轮",
+        "date": "2025-04-10",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html"
+      },
+      {
+        "type": "abstract",
+        "label": "历史摘要第二轮",
+        "date": "2025-05-20",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html"
+      },
+      {
+        "type": "abstract",
+        "label": "历史普通最终摘要截止冲突待核",
+        "date": null,
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+        "note": "同一主办页侧栏2025-06-30（最终轮）与英文正文2025-07-08（Final Round）不一致，未提供版本解释。"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史SPIE出版稿件截止",
+        "date": "2025-07-25",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html"
+      },
+      {
+        "type": "registration",
+        "label": "历史早鸟缴费界限（须此前）",
+        "date": "2025-07-07",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+        "note": "原文7/7前，未当当日23:59。"
+      },
+      {
+        "type": "abstract",
+        "label": "历史青年专场独立报名截止",
+        "date": "2025-07-01",
+        "source": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+        "note": "青年专场与专题口头交流可分别报名，不是普通摘要最终截止。"
+      }
+    ]
+  },
+  {
+    "id": "aoe-2008",
+    "series": "ACP",
+    "year": 2008,
+    "name": "AOE 2008 亚洲光纤通信与光电展览暨会议（ACP前身历史届次）",
+    "nameEn": "Asia Optical Fiber Communication and Optoelectronic Exposition & Conference 2008",
+    "region": "中国境内",
+    "location": "中国 · 上海",
+    "venue": "Shanghai Expo Convention Center（原档英文场馆名）",
+    "start": "2008-10-30",
+    "end": "2008-11-02",
+    "topics": [
+      "光通信",
+      "集成光子",
+      "生物医学光学",
+      "传感与测量",
+      "电子与器件"
+    ],
+    "description": "合并前AOE的已核历史技术会议，涵盖光纤通信、光电子器件、光学传感与生物光子；2009与APOC合并为ACP，保留前身名称并归入现有ACP系列时间线。",
+    "website": "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf",
+    "notice": "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf",
+    "registration": null,
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2008原档前3页确认技术会议10/30–11/2、口头及海报路径与范围；展览10/31–11/2另列，技术会议完整会期含10/30。",
+      "本轮未核初稿篇幅、匿名模式、模板、投稿截止、终稿规则及注册费，不沿用2009ACP或2026要求。普通注册截止仅日期2008-10-21，未提供时刻。"
+    ],
+    "publication": "2008原档说明计划进入IEEE Xplore与OSA InfoBase，并宣传INSPEC/Ei；这是当届出版计划，未进行实际论文集或单篇数据库检索，不保证每篇检索。",
+    "notes": "仅Optica原档54页中的第1–3页文本核身份、日城、注册日与范围；未通读全书或核图像。会议前身关联另依据COS2016公告与Optica2009ACP存档；ACP稳定ID保留，前身题名明确展示，AOE2008与ACP2026不作为同名当届活动。未知字段留空，未来AOE独立届次不推算。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "历史初稿截止待核",
+        "date": null,
+        "source": "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf"
+      },
+      {
+        "type": "registration",
+        "label": "历史普通注册截止",
+        "date": "2008-10-21",
+        "source": "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf"
       }
     ]
   }

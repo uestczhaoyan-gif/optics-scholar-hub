@@ -65,12 +65,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "可能联合举办，分别确认层级和独立投稿规则",
-    "sourceEntry": "https://b2b.csoe.org.cn/meeting/YSAOM2026.html",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "2026 YSAOM 与 AOMTA 联合届次已按主系列关联 aomta-ysaom-2026，仅计一项。往届亦曾与 APCOM 联合，不能将两个系列永久合并；此候选独立层级尚待审核。",
-    "nextAction": "从官网往届链接核对 2025 APCOM/YSAOM 等组合与独立届次。避免重复关联正式条目，查清系列身份后继续审核。",
-    "reviewedAt": "2026-10-02"
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/YSAOM2025.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["apcom-ysaom-2025"],
+    "decisionReason": "官方确认2025青年第五届独立主席团与APCOM第九届联合，新增独有2025联合记录；2026与AOMTA第六青年组合是沿革上下文，正式2026仍由原AOMTA候选关联。每届计一条，不永久合并合作系列。",
+    "nextAction": "分别跟踪青年组成与APCOM/AOMTA后续官方身份/联合组合；解决2025侧栏6/30与英文7/8摘要截止冲突，中文篇幅/出版未知保留；暂无2027日城不推算。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-7c90065305",
@@ -110,12 +110,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "核查系列存续与当届官方全称",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["aoe-2008"],
+    "decisionReason": "Optica2008官方存档确认AOE上海历史技术会议；COS原公告及Optica2009档确认与APOC合并为ACP。新增前身历史届归入现有ACP稳定系列，候选只关联独有AOE2008，原ACP候选仍关联2026。",
+    "nextAction": "沿ACP追踪后续公告；AOE历史初稿/模板/实际出版仍未知，不逆移ACP2026稿规。前身别名限定2009合并关系，暂无独立AOE2026证据，不重复创建。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-9c09dc77e0",
