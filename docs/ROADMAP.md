@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 11 / 85          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 78 / SCIE 72  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 72 / ESCI 11 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有三十一刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E28 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有三十三刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E29 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -621,3 +621,7 @@ C27 127752141e547d633d4522f29f4a3c72b1444c62已验收[Pages37210683598](https://
 ## C28：沿革与联合身份（2026-10-04）
 
 E28 0b3b74e3354b582c3aa2a5b5b72d63f77e88242d已验收[Pages37211078034](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37211078034)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，acc4bb5f82b5accfba34f28c08fed08e157251e61c69585a766f343d7959bfa8与本地一致（2026-10-04T14:58:01.549Z）。一次API超时只复查同部署，未重复提交。 AOE与APOC于2009合并为ACP的前身关系由学会原公告与Optica原档确认，保留ACP稳定ID并加限定前身别名，补AOE2008上海10/30–11/2历史届，不重复造AOE2026。YSAOM2025第五届与APCOM第九届联合，新增长沙7/18–20历史一届；2026与AOMTA联合记录保留，合作系列不永久合并。2025最终摘要6/30与7/8冲突仍null。当前85/118/10、98系列/17多届、273候选194 admitted/74 pending/5 deferred，31刊样例及分区索引保持。[身份与字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。
+
+## 2026-10-04：CPL / APR样例 E29
+
+C28 54280b926e6778fa0feec7a5206e67d99bc48b07已验收[Pages37212173896](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37212173896)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，7bb7f16712db46f2894c7d98233938c15f1443b9f4fd93e21db15226e90f61da与本地一致（2026-10-04T15:14:08.773Z）。 Chinese Physics Letters / Applied Physics Reviews各补三篇近两年不同期次光学样例；CPL实验卷积/数值超表面/孤子求解及APR原创深紫外成像/两篇综述路径分开。CPL仅明确Published Date，不称已独立核Early Access；APR首次页头发表与较晚刊月分开。仅两scopeExamples，83其他刊/旧31刊样例、排名索引/指南及整刊日期保持，33刊至少三篇。[逐篇字段与范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届与194/74/5保持，其他规划继续。

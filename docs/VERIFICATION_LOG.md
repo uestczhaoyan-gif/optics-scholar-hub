@@ -1158,3 +1158,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 初次验证发现候选全局一对一冲突，失败初稿未发布；修为AOE候选仅关联新AOE2008、YSAOM候选仅关联新2025，原ACP/AOMTA候选及2026关联保持。AOE2008存档54页只第1–3页文本，技术会期10/30–11/2和展览10/31–11/2分开；注册10/21日级，初稿/模板/实际索引未知。重新验证后发布。
 
 - 修后数据校验、全局一对一关联、旧116届除ACPnotes/旧97系列除ACP三个字段与两候选六字段白名单、118/98/17及194/74/5计数断言通过；85刊/31样例和所有其他JSON保持。272个本地Markdown链接、维护392项/12主题覆盖通过；正确CLI入口的Pages子路径构建及六资源exit0、差异审查/git diff --check通过。完整31项测试/typecheck/lint等由同SHA CI验收。最新实际五小时79%/周61%允许，其他规划继续。
+
+## 2026-10-04：CPL / APR不同稿型样例 E29
+
+- C28 54280b926e6778fa0feec7a5206e67d99bc48b07已验收[Pages37212173896](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37212173896)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，7bb7f16712db46f2894c7d98233938c15f1443b9f4fd93e21db15226e90f61da与本地一致（2026-10-04T15:14:08.773Z）。正式编辑前验收；work/E29_RESEARCH_2026-10-04.md长操作前记录线索、元数据与理论/实验边界。不使用重置券。
+- Chinese Physics Letters / Applied Physics Reviews各补三篇近两年不同期次光学样例；CPL实验卷积/数值超表面/孤子求解及APR原创深紫外成像/两篇综述路径分开。CPL仅明确Published Date，不称已独立核Early Access；APR首次页头发表与较晚刊月分开。仅两scopeExamples，83其他刊/旧31刊样例、排名索引/指南及整刊日期保持，33刊至少三篇。[逐篇字段与范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届与194/74/5保持，其他规划继续。 六原页普通浏览器实际核标题/刊名卷期/公开摘要，CPL点击More Information读日期，APR页头Research/Review Article与发表日；UV另展开历史读Received/Accepted，不混当发表。只摘要/元数据范围，未通读OA全文/内嵌SI、未下载PDF、未买全文或登录。
+- APR自动Web open内部错误；普通浏览器最初安全检查自行完成，未点击验证/CAPTCHA或改变安全设置；随后三原页正常可读。数值聚焦不当实验隔离器、PINN不当实制激光器；APR两综述不当原创实验。必要验证/差异审查/构建后上传并按同SHA验收，其他规划继续。
+
+- 发布前数据校验、仅两scopeExamples/83其他刊与旧31刊样例/其他JSON保持、33刊样例计数和近两年不同论文、日期标签/数值及综述边界断言通过；222个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建及六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。正式编辑前实际五小时85%/周62%允许，剩余规划继续。

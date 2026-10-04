@@ -88,3 +88,18 @@ DOI分别为10.1016/j.jcis.2025.138884、10.1016/j.jcis.2026.140020、10.1016/j.
 | angewandte-chemie：[Machine Learning-Guided Discovery of Copper(I)-Iodide Cluster Scintillators for Efficient X-ray Luminescence Imaging](https://doi.org/10.1002/anie.202413672) | 2024-10-29 / 64(1)，2025-01-02 | Research Article；铜碘簇与柔性复合闪烁体成像，ML筛选含材料验证，非临床 |
 
 AdvancedMaterials检索中的adma.70849是封面说明而非原创论文；adma.202407476虽然2025卷期，但Firstpublished2024-07-14且Perspective，超出近两年原创范围，均排除。钙钛矿逻辑首次2025-11-05，非2026-03-06卷期；ENZ首次2025-09-12，非2026卷期。RTP工作自纠正先前纯晶体解释，照原摘要保存掺杂条件，未扩大到全部纯材料。仅两scopeExamples；83其他刊/旧29刊样例、整刊核验日、排名索引/指南及其他JSON保护，29→31刊至少三篇。
+
+## E29：CPL / APR不同期次与稿型（2026-10-04）
+
+六原页实际读取题名/刊名/卷期/公开摘要；CPL正常展开More Information后读Published Date，未独立核更早Early Access，模型publishedAt仅存该明确日级日期。APR原页头明确Research Article或Review Article及发表日，不用收稿/录用或较晚刊月。均在2024-10-04至2026-10-04范围，每刊三不同期次；仅摘要/元数据范围，未审计全文实验/SI/所有图表。
+
+| 本刊原题与来源 | 发表日与卷期 | 适配及边界 |
+| --- | --- | --- |
+| CPL：[Multi-Distributed Sampling Method to Optimize Physical-Informed Neural Networks for Solving Optical Solitons](https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/7/070001) | Published Date 2025-07-01，42(7)070001 | RAMD采样/PINN与非线性波数值模拟，非实制激光器/通信器件；标题按原页Physical-Informed保留 |
+| CPL：[Monolithically Integrated Optical Convolutional Processors on Thin Film Lithium Niobate](https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/43/1/010404) | Published Date 2026-01-01，43(1)010404 | TFLN单片卷积与三数据集分类实验，仍含后级全连接层与FPGA，不宣称所有电子处理替代 |
+| CPL：[Asymmetric Focusing Metasurfaces with High-Q Factor and Strong Sidelobe Suppression](https://cpl.iphy.ac.cn/en/article/doi/10.1088/0256-307X/43/8/080402?viewType=citedby-info) | Published Date 2026-08-19，43(8)080402 | 双层硅条微扰、高Q聚焦/旁瓣抑制数值设计；未核制备实验，非对称聚焦不等于破坏互易性隔离器 |
+| APR：[Liquid-metal-assisted exfoliation of 2D β-Ga2O3 with high anisotropy ratio for solar-blind detection and polarization imaging](https://doi.org/10.1063/5.0252741) | 2025-03-12，12(1)011420；刊月March2025 | Research Article，二维Ga2O3剥离、265nm偏振响应及四层堆叠成像，非一般可见光相机 |
+| APR：[Synergistic integration of metasurfaces and quantum photonics: Pathways to next-generation technologies](https://doi.org/10.1063/5.0226259) | 2025-11-17，12(4)041318；刊月December2025 | Review Article，超表面量子光子综述，遵循综述提案路径，不当本文新实验 |
+| APR：[Integrated photonic devices in thin-film barium titanate: Opportunities and challenges](https://doi.org/10.1063/5.0325359) | 2026-09-08，13(3)031330；刊月September2026 | Review Article，BTO薄膜与集成器件综述；本征/有效EO响应分开，非本文新器件实验 |
+
+CPL网页更早Early Access日期未知，不从卷期月第一天倒推；这里日期均来自实际展开的标签。APR同时发表原创和综述，本批明确两路径。只新增两scopeExamples，83其他刊/旧31样例以及整刊日期、索引分区/指南和所有其他JSON保持；31→33刊至少三篇。

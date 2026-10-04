@@ -2570,7 +2570,27 @@
       "综述多为邀稿；未受邀作者需说明选题及时性、作者专长，并提交官网 editorial summary 模板供编辑评估。",
       "使用 Word 或 LaTeX 准备源文件；初投提交合并正文 PDF，补充材料另存 PDF。图表需提供 alt text，并准备利益冲突、作者贡献和数据可用性声明。"
     ],
-    "publishing": "2026-10-03 核验 AIP 官方通用政策：混合出版的 Author Select 可选 OA 通用 APC USD 3,800，可选 CC BY、CC BY-NC、CC BY-NC-ND，作者/雇主保留版权。该金额为通用政策，本刊独立 Publication Charges 页本轮不可读，是否有本刊例外、税及适用时点仍待核实；不将 Gold OA 的 USD 2,750 或 Group A/B 自动减免套到本刊。可按机构协议核对覆盖资格。来源：https://publishing.aip.org/resources/researchers/open-science/open-access/"
+    "publishing": "2026-10-03 核验 AIP 官方通用政策：混合出版的 Author Select 可选 OA 通用 APC USD 3,800，可选 CC BY、CC BY-NC、CC BY-NC-ND，作者/雇主保留版权。该金额为通用政策，本刊独立 Publication Charges 页本轮不可读，是否有本刊例外、税及适用时点仍待核实；不将 Gold OA 的 USD 2,750 或 Group A/B 自动减免套到本刊。可按机构协议核对覆盖资格。来源：https://publishing.aip.org/resources/researchers/open-science/open-access/",
+    "scopeExamples": [
+      {
+        "title": "Liquid-metal-assisted exfoliation of 2D β-Ga2O3 with high anisotropy ratio for solar-blind detection and polarization imaging",
+        "publishedAt": "2025-03-12",
+        "source": "https://doi.org/10.1063/5.0252741",
+        "relevance": "2026-10-04核AIP原页Research Article/公开摘要/刊期，首次页头发表2025-03-12，12(1)011420（March2025），非2024收稿日。液态金属辅助剥离二维氧化镓，265nm偏振响应与四层扭转堆叠150×150像素成像验证，支持深紫外探测/材料器件原创路径；未读收费全文或完整SI，不外推通用可见光相机。"
+      },
+      {
+        "title": "Synergistic integration of metasurfaces and quantum photonics: Pathways to next-generation technologies",
+        "publishedAt": "2025-11-17",
+        "source": "https://doi.org/10.1063/5.0226259",
+        "relevance": "2026-10-04核AIP原页Review Article/公开摘要/刊期，首次页头发表2025-11-17，12(4)041318（December2025），较晚刊月另列。综述量子超表面设计、制备、优化与光子产生/量子成像/感知，支持跨量子光学与超表面综述选题；不是本文全新实验成果或普通原创稿准入证据，仍按本刊综述提案路径。"
+      },
+      {
+        "title": "Integrated photonic devices in thin-film barium titanate: Opportunities and challenges",
+        "publishedAt": "2026-09-08",
+        "source": "https://doi.org/10.1063/5.0325359",
+        "relevance": "2026-10-04核AIP原页Review Article/公开摘要/刊期，首次页头发表2026-09-08，13(3)031330（September2026），非1月收稿/8月录用。综述BTO薄膜、异质集成、铁电畴与电光器件，区分膜级本征及器件有效EO响应；适合集成光子材料综述，不当本文新器件实验或相似稿录用保证。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3912,7 +3932,27 @@
       "当前系统 Author Instruction 实际打开 /journalx_cpl/basicinfo/viewHtmlFile.action?id=8，Letter 写至多 3 个期刊页；另一个官方 /journalx_cpl_cn/basicinfo/viewHtmlFile.action?id=8 写 4 页，文件/提交方式也不同。两页均无明确修订日期，现行页限保留冲突，不择一作为硬限。",
       "公开说明要求英文稿、简明摘要和图表连续编号；当前系统链接的说明仍含邮寄及邮件投稿文字，不能据此替代现官网的在线入口。模板、费用和最终提交要求仍须核实。"
     ],
-    "publishing": "版面费、开放获取和版权规则按本刊最新指南及编辑部说明确认。"
+    "publishing": "版面费、开放获取和版权规则按本刊最新指南及编辑部说明确认。",
+    "scopeExamples": [
+      {
+        "title": "Multi-Distributed Sampling Method to Optimize Physical-Informed Neural Networks for Solving Optical Solitons",
+        "publishedAt": "2025-07-01",
+        "source": "https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/7/070001",
+        "relevance": "2026-10-04核原页摘要与More Information，Published Date为2025-07-01，42(7)070001；未独立核更早Early Access。RAMD自适应采样优化PINN求解非线性薛定谔/光孤子问题，适合非线性光学数值方法；不是已制造光通信或激光器性能演示。"
+      },
+      {
+        "title": "Monolithically Integrated Optical Convolutional Processors on Thin Film Lithium Niobate",
+        "publishedAt": "2026-01-01",
+        "source": "https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/43/1/010404",
+        "relevance": "2026-10-04核原页摘要与More Information，Published Date为2026-01-01，43(1)010404；未独立核更早Early Access。薄膜铌酸锂单片光卷积处理器有MNIST/Fashion-MNIST/AG News分类实验与后级维度缩减，支持集成光子计算适配；不扩张成所有电子处理已被纯光替代。"
+      },
+      {
+        "title": "Asymmetric Focusing Metasurfaces with High-Q Factor and Strong Sidelobe Suppression",
+        "publishedAt": "2026-08-19",
+        "source": "https://cpl.iphy.ac.cn/en/article/doi/10.1088/0256-307X/43/8/080402?viewType=citedby-info",
+        "relevance": "2026-10-04核原页摘要与More Information，Published Date为2026-08-19，43(8)080402；未独立核更早Early Access。双层硅纳米条微扰超表面数值预测高Q非对称聚焦与旁瓣抑制，适合超表面理论设计；未核实验制备，不把非对称聚焦当已实现破坏互易性的隔离器。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
