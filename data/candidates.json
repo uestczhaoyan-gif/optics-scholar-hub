@@ -1305,12 +1305,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光电器件、光子集成与成像传感器专题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ieee-iedm.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["iedm-2026", "iedm-2027", "iedm-2028"],
+    "decisionReason": "官方当届与未来日程分别确认2026/2027/2028会期场馆；2026 ODI光子器件范围明确，未来本届主题规则仍未知。",
+    "nextAction": "核2026报告材料上传日与页面冻结/延长期边界；待2027/2028独立CFP，不迁旧规则。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-fb2f40a8a5",
@@ -1333,12 +1333,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学传感、光 MEMS、微纳光学器件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://mems27.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-mems-2027"],
+    "decisionReason": "当届40th身份、会期/场馆、光子/光机械专题与独立海报轨道确认，截止版本冲突仍明确保留。",
+    "nextAction": "优先核Open Poster10/27与系统12/4提示冲突；普通截止已过；跟进注册费率/入口和联合期刊轨道细则。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-61e9589bca",
@@ -1347,12 +1347,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学传感、光 MEMS、微纳光学器件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://2026.ieee-sensorsconference.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-sensors-2026"],
+    "decisionReason": "当届官网/CFP有日期场馆及Optical Sensors专题；普通、期刊与不出版Open Poster路径明确，延期与通知冲突留存。",
+    "nextAction": "优先10/5已录用展示文件与10/16开放海报；继续核通知8/23–24冲突、实际注册系统/模板和后续届次。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-ca6b879229",
@@ -1361,12 +1361,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光电器件、光子集成与成像传感器专题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.vlsisymposium.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["vlsi-2027"],
+    "decisionReason": "2027首轮官方CFP直接确认日城/时区截止及光学计算、光互连和收发器子集；技术/电路2022起合并，同一系列。",
+    "nextAction": "等2027具体作者指南/系统/注册费用与出版载体；2028仅月份不可推算日。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-c04ece235d",

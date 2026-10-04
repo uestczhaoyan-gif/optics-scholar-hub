@@ -1026,3 +1026,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - ACS Sensors仅scopeExamples；Science Advances仅requirements/publishing；其他83刊/旧22刊样例/全部其他JSON与整刊日期保护。必要验证/文档/报告/构建和差异审查后推送验收同SHA，其他规划继续。
 
 - 发布前数据校验、指定三字段白名单/旧22刊样例/其他83刊及全部其他JSON保持与23刊计数断言通过；170个本地Markdown链接、维护329项/后续两项和12主题覆盖通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；同SHA CI验收完整31项测试/typecheck/lint。
+
+## 2026-10-04：器件传感六届 C21
+
+- E21 45c8ee77c9a4039f66051c1ce3e29043c234a990已验收[Pages37183967735](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183967735)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，8a43be02d3bff44c95a96fb80bb3ebcdbc925a7787bf5834b1cdfba2c212f77d与本地一致（2026-10-04T06:51:37.413Z）。 验收后正式编辑。work/C21_RESEARCH_2026-10-04.md长操作前保护续接，实际五小时51%/周41%允许，未用重置券。
+- [逐字段官方来源](CONFERENCE_EVIDENCE_2026-10-04.md)：四系列六届，两个已观测官网PDF经正常TLS只读下载、抽取并渲染核图；不绕过证书、登录或提交。IEDM后两届仅明示会期，MEMS系统旧提示与SENSORS通知冲突保留，开放海报不当出版轨道。
+- 旧85届/77系列及其他JSON保持、四候选六字段白名单；必要数据/范围/文档/报告/构建和差异审查后推送验收同SHA。README/扩充计划英文遗留旧计数同步，历史数字保持；其余规划继续。
+
+- 发布前数据校验、旧85届/77系列保持/四候选六字段白名单/日期与未知路径计数断言通过；217个本地Markdown链接、维护349项及12主题覆盖通过。85/91/10、81系列/9多届、273候选176/92/5、分区索引与23刊样例保持；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过。完整31项测试/typecheck/lint由同SHA CI验收。

@@ -944,5 +944,78 @@
       "https://summit.aps.org/attend/abstracts/sorting-categories/"
     ],
     "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-39b9fd64bb1a",
+    "name": "IEEE MEMS",
+    "aliases": [
+      "IEEE International Conference on Micro Electro Mechanical Systems"
+    ],
+    "editionIds": ["ieee-mems-2027"],
+    "website": "https://mems27.org/",
+    "sources": [
+      "https://mems27.org/",
+      "https://mems27.org/about/conference_info.html",
+      "https://mems27.org/authors/abstract_categories.html",
+      "https://mems27.org/authors/deadlines.html",
+      "https://mems27.org/authors/abstract_guidelines.html",
+      "https://mems27.org/authors/double_blind_review.html",
+      "https://mems27.org/authors/what_is_open_poster.html",
+      "https://mems27.org/authors/abstract_submission.html",
+      "https://mems27.org/authors/journal_archiving_options.html",
+      "https://mems27.org/attendees/registration.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-4754e84ed990",
+    "name": "IEEE IEDM",
+    "aliases": ["IEEE International Electron Devices Meeting"],
+    "editionIds": ["iedm-2026", "iedm-2027", "iedm-2028"],
+    "website": "https://ieee-iedm.org/",
+    "sources": [
+      "https://ieee-iedm.org/",
+      "https://ieee-iedm.org/about/",
+      "https://ieee-iedm.org/topics-of-interest/",
+      "https://ieee-iedm.org/submission-details/",
+      "https://ieee-iedm.org/paper-preparation/",
+      "https://ieee-iedm.org/late-news/",
+      "https://ieee-iedm.org/pre-publish-restrictions/",
+      "https://ieee-iedm.org/attendee/registration-details/",
+      "https://ieee-iedm.org/call-for-papers-overview/"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-1cf49822c73a",
+    "name": "Symposium on VLSI Technology and Circuits",
+    "aliases": ["IEEE Symposium on VLSI Technology and Circuits"],
+    "editionIds": ["vlsi-2027"],
+    "website": "https://www.vlsisymposium.org/",
+    "sources": [
+      "https://www.vlsisymposium.org/",
+      "https://www.vlsisymposium.org/assets/pdf/VLSI2027_1stCFP.pdf",
+      "https://www.vlsisymposium.org/info.html",
+      "https://www.vlsisymposium.org/about.html"
+    ],
+    "nextEditionCheckedAt": null
+  },
+  {
+    "id": "series-61e9589bca77",
+    "name": "IEEE SENSORS",
+    "aliases": [],
+    "editionIds": ["ieee-sensors-2026"],
+    "website": "https://2026.ieee-sensorsconference.org/",
+    "sources": [
+      "https://2026.ieee-sensorsconference.org/",
+      "https://confcats-siteplex.s3.us-east-1.amazonaws.com/sensors26/sensors26_cfp_web_08_f09192f850.pdf",
+      "https://2026.ieee-sensorsconference.org/authors/open-posters",
+      "https://2026.ieee-sensorsconference.org/authors/presentation-instructions",
+      "https://2026.ieee-sensorsconference.org/registration",
+      "https://2026.ieee-sensorsconference.org/travel-venue/venue-and-accommodations",
+      "https://ieee-sensors.org/conferences/ieee-sensors-2026/",
+      "https://ieee-sensors.org/wp-content/uploads/2023/07/sensors26-cfp_web-02.pdf"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]

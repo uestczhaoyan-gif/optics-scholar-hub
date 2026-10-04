@@ -4394,5 +4394,371 @@
         "source": "https://summit.aps.org/attend/registration/"
       }
     ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "ieee-mems-2027",
+    "series": "IEEE MEMS",
+    "year": 2027,
+    "name": "第40届IEEE微机电系统会议 MEMS 2027",
+    "nameEn": "40th IEEE International Conference on Micro Electro Mechanical Systems",
+    "location": "美国 · 夏威夷大岛",
+    "venue": "Hilton Waikoloa Village",
+    "start": "2027-01-17",
+    "end": "2027-01-21",
+    "topics": ["电子与器件", "集成光子", "成像与计算光学", "传感与测量"],
+    "description": "微机电综合学术会议；当届分类明确含光子MEMS、自由空间显示/透镜/探测器、红外成像和MEMS光子集成，适配这些光学器件子集。",
+    "website": "https://mems27.org/",
+    "notice": "https://mems27.org/authors/deadlines.html",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "普通投稿为匿名两页摘要PDF（A4或US Letter）：第一页文字≤600词，不计题名/小标题/参考文献，图表第二页；双盲，作者/单位不出现。普通摘要已过，录用后4页全文及至少一作者注册支付并报告。",
+      "独立Open Poster为A0海报PDF（841×1189mm、≤5MB），不交两页摘要；先取参考号再上传，仅技术内容。截止页/说明页列10月27日，提交页末尾12月4日提示冲突待主办更正，勿按后者延后准备。",
+      "普通全文11月17日截止；注册页面当前无费表或实际报名入口，参会费未知。期刊轨道须另行选择并联合评审，会议录用不保证期刊发表。"
+    ],
+    "publication": "普通4页稿按主办声明进入技术摘要集/IEEE Xplore，传统路径无APC，选择Xplore OA另$800。新MINE轨道限30篇，4页、联合审改及最终决定，录用后$1895 APC+$800 OA；JMEMS轨道联合审改并扩成≥5页，期刊APC由IEEE承担但作者仍付$800 OA。上述$币种未明，参会费另计；Open Poster不入会议录/Xplore，非实际EI检索证明。",
+    "notes": "摘要截止页8月6日与指南7月28日冲突，均已过；只保存来源版本，不声称普通摘要仍开放。Open Poster的10月27日与系统末尾“Thursday, 4 December”冲突，后者未给年份，不造第二个有效截止。所有截止按HST；通知/接受确认另列，注册实际费率及模板文件内容未核。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "普通摘要截止页8月6日（已过；指南7月28日冲突）",
+        "at": "2026-08-06T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "notification",
+        "label": "普通摘要结果通知",
+        "at": "2026-10-12T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "abstract",
+        "label": "录用作者接受确认（非新摘要）",
+        "at": "2026-10-15T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "poster",
+        "label": "开放海报截止页/说明页（系统12月4日提示冲突待核）",
+        "at": "2026-10-27T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "notification",
+        "label": "开放海报结果通知",
+        "at": "2026-11-10T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "poster",
+        "label": "开放海报作者接受确认（非新海报）",
+        "at": "2026-11-13T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "普通录用稿4页全文截止",
+        "at": "2026-11-17T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://mems27.org/authors/deadlines.html"
+      },
+      {
+        "type": "registration",
+        "label": "普通录用作者注册支付界限（费用/入口待核）",
+        "date": "2026-11-17",
+        "source": "https://mems27.org/authors/abstract_guidelines.html"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "iedm-2026",
+    "series": "IEEE IEDM",
+    "year": 2026,
+    "name": "第72届IEEE国际电子器件会议 IEDM 2026",
+    "nameEn": "72nd IEEE International Electron Devices Meeting",
+    "location": "美国 · 加利福尼亚州旧金山",
+    "venue": "Hilton San Francisco Union Square",
+    "start": "2026-12-12",
+    "end": "2026-12-16",
+    "topics": [
+      "电子与器件",
+      "集成光子",
+      "光通信",
+      "成像与计算光学",
+      "传感与测量"
+    ],
+    "description": "电子器件综合学术会议；ODI当届专题明确含硅光、发光/探测/调制器、光电异质集成、量子光子、SPAD/ToF与显示成像，SMB含光机械器件。适配相应器件研究。",
+    "website": "https://ieee-iedm.org/",
+    "notice": "https://ieee-iedm.org/submission-details/",
+    "registration": "https://www.xpressreg.net/register/IEDM1226/start.asp",
+    "submissionState": "closed",
+    "requirements": [
+      "普通与Late News均4页camera-ready PDF（≤2页正文+≤2页图/说明），US Letter、正文≥10pt；在线另填150词摘要不另加页。先经IEEE PDF eXpress合规再上传Mira，不能邮件投稿；录用按提交版本出版，不改作者/致谢。",
+      "普通延长至7月19日23:59 PDT；Late News8月18日23:59 PDT，均已过。标题/作者/摘要冻结仍写7月16日，不推定延长期也延长冻结。Late News限最新突破且不参加旅行资助/学生奖。",
+      "不得会前公开论文或重要部分，包括其他有/无会议录的会议；录用稿须列名作者现场报告，另交20分钟视频及模板PDF幻灯片。注册页11月10日前会议费：学生会员$250/非会员$300，一般会员$655/非会员$815；原文$未明币种，教程/短课另计。"
+    ],
+    "publication": "主办方声明录用4页稿按原稿进入IEDM Technical Digest，需版权与现场报告；PDF eXpress是合规步骤，不等于数据库索引确认。会议后可扩写期刊，不能会前公开；未核当届实际EI/SCIE单篇收录或独立出版费。",
+    "notes": "12月12–16为含教程/短课的完整活动，会议主页明确普通投稿已关闭；旧CFP横幅“open”不当当前受理证明。11月10日是优惠费/酒店界限，非最后参会日；OnDemand12月21日起，注册持续至2027年1月31日且不退款，不扩成实体会期。2027/2028有官方独立会期，仅预告；2026稿规/费表不迁移。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通论文延长截止（已关闭）",
+        "at": "2026-07-19T23:59:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://ieee-iedm.org/submission-details/"
+      },
+      {
+        "type": "pdp",
+        "label": "Late News论文截止（已过）",
+        "at": "2026-08-18T23:59:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "source": "https://ieee-iedm.org/submission-details/"
+      },
+      {
+        "type": "notification",
+        "label": "普通论文结果通知",
+        "date": "2026-09-09",
+        "source": "https://ieee-iedm.org/submission-details/"
+      },
+      {
+        "type": "registration",
+        "label": "优惠注册截止（时刻未明）",
+        "date": "2026-11-10",
+        "source": "https://ieee-iedm.org/attendee/registration-details/"
+      },
+      {
+        "type": "registration",
+        "label": "仅OnDemand注册终日（非实体会期）",
+        "date": "2027-01-31",
+        "source": "https://ieee-iedm.org/attendee/registration-details/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "报告视频/幻灯片上传截止待核",
+        "date": null,
+        "source": "https://ieee-iedm.org/submission-details/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "iedm-2027",
+    "series": "IEEE IEDM",
+    "year": 2027,
+    "name": "IEEE国际电子器件会议 IEDM 2027（会期预告）",
+    "nameEn": "IEEE International Electron Devices Meeting 2027",
+    "location": "美国 · 加利福尼亚州旧金山",
+    "venue": "Hilton Union Square San Francisco",
+    "start": "2027-12-04",
+    "end": "2027-12-08",
+    "topics": ["电子与器件", "集成光子", "成像与计算光学", "传感与测量"],
+    "description": "IEDM主办方未来日程直接确认的届次。系列范围包含光电/显示/传感器；本届具体光子专题和征稿尚待发布，不将2026 ODI主题当本届已确认专题。",
+    "website": "https://ieee-iedm.org/",
+    "notice": "https://ieee-iedm.org/about/",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "当前官方未来日程仅确认会期与酒店；本届征稿、稿长/模板/匿名、报告、注册费待独立公告，不套用2026规则。"
+    ],
+    "publication": "未来日程未确认本届会议录/版权、出版费用及实际数据库索引，保持未知。",
+    "notes": "未来日期来自主办方明示而非年会周期推算；历史、未来三届共用稳定系列并分别保存，错过2026可提前关注后续。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "本届征稿/论文截止待公布",
+        "date": null,
+        "source": "https://ieee-iedm.org/about/"
+      },
+      {
+        "type": "registration",
+        "label": "本届注册/费用与截止待公布",
+        "date": null,
+        "source": "https://ieee-iedm.org/about/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "iedm-2028",
+    "series": "IEEE IEDM",
+    "year": 2028,
+    "name": "IEEE国际电子器件会议 IEDM 2028（会期预告）",
+    "nameEn": "IEEE International Electron Devices Meeting 2028",
+    "location": "美国 · 加利福尼亚州旧金山",
+    "venue": "Hilton Union Square San Francisco",
+    "start": "2028-12-02",
+    "end": "2028-12-06",
+    "topics": ["电子与器件", "集成光子", "成像与计算光学", "传感与测量"],
+    "description": "IEDM主办方未来日程直接确认的届次。系列范围包含光电/显示/传感器；本届具体光子专题和征稿尚待发布，不将2026 ODI主题当本届已确认专题。",
+    "website": "https://ieee-iedm.org/",
+    "notice": "https://ieee-iedm.org/about/",
+    "registration": null,
+    "submissionState": "unknown",
+    "requirements": [
+      "当前官方未来日程仅确认会期与酒店；本届征稿、稿长/模板/匿名、报告、注册费待独立公告，不套用2026规则。"
+    ],
+    "publication": "未来日程未确认本届会议录/版权、出版费用及实际数据库索引，保持未知。",
+    "notes": "未来日期来自主办方明示而非年会周期推算；历史、未来三届共用稳定系列并分别保存，错过2026可提前关注后续。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "本届征稿/论文截止待公布",
+        "date": null,
+        "source": "https://ieee-iedm.org/about/"
+      },
+      {
+        "type": "registration",
+        "label": "本届注册/费用与截止待公布",
+        "date": null,
+        "source": "https://ieee-iedm.org/about/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "vlsi-2027",
+    "series": "Symposium on VLSI Technology and Circuits",
+    "year": 2027,
+    "name": "VLSI技术与电路研讨会 2027",
+    "nameEn": "2027 Symposium on VLSI Technology and Circuits",
+    "location": "日本 · 京都",
+    "venue": "Rihga Royal Hotel Kyoto",
+    "start": "2027-06-20",
+    "end": "2027-06-24",
+    "topics": ["电子与器件", "集成光子", "光通信", "成像与计算光学"],
+    "description": "技术与电路合并的综合学术会议，当届CFP明确含光子/量子器件、光学计算、光收发器/互连、成像和显示电路。限这些交叉子集适配，非全部CMOS/数字电路均为光学。",
+    "website": "https://www.vlsisymposium.org/",
+    "notice": "https://www.vlsisymposium.org/assets/pdf/VLSI2027_1stCFP.pdf",
+    "registration": null,
+    "submissionState": "published",
+    "requirements": [
+      "首轮CFP要求3页paper abstract格式；录用按提交版本出版且不允许修改。详细Authors Guide/Pre-publication Policy、实际投稿系统与模板当前未核，勿用旧届替代。",
+      "6月20日工作坊、21日短课、22–24日技术会；官网称全现场，论文展示材料会后可点播。学生奖申请需投稿时全日制、主要作者且报告者，并标记参评。"
+    ],
+    "publication": "CFP声明录用稿原稿出版；优秀扩展稿可被邀请投TED/JSSC/SSCL，不保证期刊录用。2027具体会议录载体、费用及实际数据库索引仍未确认。",
+    "notes": "Jan25 23:59 JST已明示，以Asia/Tokyo保存。完整跨度6/20–24；通用info页“six-day”与跨度不符，按当届PDF具体分段，不擅自加一天。2028只有6月Honolulu线索，无具体日不建正式届；2027费用/通知/系统与详细政策继续跟进。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2027三页论文摘要截止",
+        "at": "2027-01-25T23:59:00+09:00",
+        "timezone": "Asia/Tokyo",
+        "source": "https://www.vlsisymposium.org/assets/pdf/VLSI2027_1stCFP.pdf"
+      },
+      {
+        "type": "notification",
+        "label": "录用通知日待公布",
+        "date": null,
+        "source": "https://www.vlsisymposium.org/"
+      },
+      {
+        "type": "registration",
+        "label": "2027注册/费用与截止待公布",
+        "date": null,
+        "source": "https://www.vlsisymposium.org/"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "ieee-sensors-2026",
+    "series": "IEEE SENSORS",
+    "year": 2026,
+    "name": "IEEE传感器会议 SENSORS 2026",
+    "nameEn": "IEEE SENSORS 2026",
+    "location": "荷兰 · 鹿特丹",
+    "venue": "Postillion Hotel & Convention Centre WTC Rotterdam",
+    "start": "2026-10-25",
+    "end": "2026-10-28",
+    "topics": ["传感与测量", "生物医学光学", "电子与器件"],
+    "description": "Sensors Council综合传感学术会议，当届CFP明确设Optical Sensors及微流体/生物传感方向。限光学检测及其系统交叉子集，非所有电化学/机械传感均为光学。",
+    "website": "https://2026.ieee-sensorsconference.org/",
+    "notice": "https://2026.ieee-sensorsconference.org/authors/open-posters",
+    "registration": "https://2026.ieee-sensorsconference.org/registration",
+    "submissionState": "published",
+    "requirements": [
+      "Option A≤3页正文+1页参考文献，当前CFP/主页7月2日截止已过；Option B为4页IEEE Sensors Letters特刊稿，5月4日截止，录用后特定会议session。独立轨道，不把期刊投稿当同一普通会议论文。",
+      "已录用口头报告12分钟+3分钟问答，幻灯片pdf/ppt/pptx/pptm与海报PDF均10月5日前按作者私人链接上传。数字海报22.5×40英寸竖向9:16，不打印；更新规则需读完整页面。",
+      "Open Poster10月16日截止，提交题名/海报PDF/有效注册，有限名额先到先审；官网实际链接在线表单。该路径不入会议录或Xplore，不能用其替代正式论文。",
+      "截至10月24日参会费含21%VAT：IEEE会员USD1361.25、非会员USD1633.50、学生/终身会员减价USD907.50。正式论文作者须9月13日前全额非学生注册并现场报告，一份最多两稿；学生/单日减价不覆盖发表。10月1日取消界限已过，不能据新注册期承诺退款。"
+    ],
+    "publication": "普通录用论文送IEEE Xplore还须符合其范围/质量及全额作者注册/报告条件，为主办方声明不是实际EI单篇证明；Option B另由Sensors Letters评审，扩展稿可投Sensors Journal非自动录用。Open Poster不出版。",
+    "notes": "当前CFP_08和主页把普通截止延至7/2、终稿9/13；Council旧CFP_02的6/18、8/30只留历史。通知当前主页8/24与CFP_08的8/23不一致，按主页保存并注明冲突。已录用数字海报10/5上传与Open Poster10/16分开；只有日期，无时区不造UTC。酒店优惠10/22–29不作会期，未来届次尚未核实。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "Option B：Sensors Letters特刊稿截止（已过）",
+        "date": "2026-05-04",
+        "source": "https://confcats-siteplex.s3.us-east-1.amazonaws.com/sensors26/sensors26_cfp_web_08_f09192f850.pdf"
+      },
+      {
+        "type": "paper",
+        "label": "Option A：普通会议论文延期截止（已过）",
+        "date": "2026-07-02",
+        "source": "https://2026.ieee-sensorsconference.org/"
+      },
+      {
+        "type": "notification",
+        "label": "主页录用通知8/24（当前CFP8/23冲突）",
+        "date": "2026-08-24",
+        "source": "https://2026.ieee-sensorsconference.org/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "普通录用稿最终论文截止（已过）",
+        "date": "2026-09-13",
+        "source": "https://2026.ieee-sensorsconference.org/"
+      },
+      {
+        "type": "registration",
+        "label": "正式论文全额作者注册支付截止（已过）",
+        "date": "2026-09-13",
+        "source": "https://2026.ieee-sensorsconference.org/registration"
+      },
+      {
+        "type": "camera-ready",
+        "label": "已录用口头报告幻灯片上传（展示资料）",
+        "date": "2026-10-05",
+        "source": "https://2026.ieee-sensorsconference.org/authors/presentation-instructions"
+      },
+      {
+        "type": "poster",
+        "label": "已录用数字海报PDF上传（非新投稿）",
+        "date": "2026-10-05",
+        "source": "https://2026.ieee-sensorsconference.org/authors/presentation-instructions"
+      },
+      {
+        "type": "poster",
+        "label": "独立Open Poster提交截止（不出版）",
+        "date": "2026-10-16",
+        "source": "https://2026.ieee-sensorsconference.org/authors/open-posters"
+      },
+      {
+        "type": "registration",
+        "label": "参会注册中期费率终日（之后涨价，非关闭）",
+        "date": "2026-10-24",
+        "source": "https://2026.ieee-sensorsconference.org/registration"
+      }
+    ]
   }
 ]

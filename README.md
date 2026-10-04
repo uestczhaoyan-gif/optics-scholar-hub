@@ -21,8 +21,8 @@
 已实现 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，支持索引、领域、收录范围与分区组合筛选。索引数据仍在逐刊核验，未核实记录明确标注。
 
 - **期刊目录**：85 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、ESCI、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
-- **会议日历**：79 届国内外会议，包括 OFC、CLEO、COS、ECOC、FiO + LS、Photonics West、AOPC、AOP、EOSAM、OECC & IP、ICOCN 等；分别记录投稿、PDP、注册、通知及终稿时间。历史届次保留供查阅，不据此推算下一届。
-- **系列与往届**：72 个稳定系列关联 79 届会议，可查历届要求、关注整个系列及导出未结束届次。后续官方公告审核入库后自动归入同系列。已结束系列每 30 天进入下一届公告核验队列。
+- **会议日历**：91 届国内外会议，包括 OFC、CLEO、COS、ECOC、FiO + LS、Photonics West、AOPC、AOP、EOSAM、OECC & IP、ICOCN 等；分别记录投稿、PDP、注册、通知及终稿时间。历史届次保留供查阅，不据此推算下一届。
+- **系列与往届**：81 个稳定系列关联 91 届会议，可查历届要求、关注整个系列及导出未结束届次。后续官方公告审核入库后自动归入同系列。已结束系列每 30 天进入下一届公告核验队列。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
 - **新生指南**：期刊与会议的区别、投稿流程、模板、预印本、注册、报告及出版要求。
 - **共建维护**：JSON 数据、来源链接、核验日期、数据校验、Issue / PR 模板，以及每日来源变化报告。
@@ -36,7 +36,7 @@
 3. 学校采用当年或前一年版本时，分别选择对应年份。首版保存已找到的 **2025 中科院升级版公开参考**；尚未核实的 2026 中科院记录不以“新锐分区”等其他版本代替。
 4. 来源分为官方披露、依据官方排名推算、第三方公开参考。第三方参考必须通过学校图书馆的 [中科院分区入口](https://www.fenqubiao.com/) 复核。
 5. 默认显示全部已收录期刊；选择分区体系后仅匹配当前所选维度的 1 / 2 区。EI 补充可以没有分区，需用“不限分区”查看。展开区保留其他学科记录，例如大类 2 区不代表光学小类也是 2 区。
-6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 72 本 Compendex 来源表核验及 67 本当前 SCIE、10 本 ESCI 的 MJL 查询；见[来源表与 MJL 记录](docs/INDEX_EVIDENCE_2026-10-02.md)及[新增五刊依据](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)；来源表不等于单篇检索，页面未列某索引不代表未收录。仅更新字段时不刷新整刊核验日期。
+6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 78 本 Compendex 来源表核验及 72 本当前 SCIE、11 本 ESCI 的 MJL 查询；见[来源表与 MJL 记录](docs/INDEX_EVIDENCE_2026-10-02.md)及[新增五刊依据](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)、[APS六刊依据](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)；来源表不等于单篇检索，页面未列某索引不代表未收录。仅更新字段时不刷新整刊核验日期。
 
 JCR 首批主要依据 [Optica 官方 2026 JCR 指标表](https://opg.optica.org/content/author/portal/item/style-metrics/)；所有具体记录的来源在 `data/journals.json`。排名推算使用 `ceil(rank / total × 4)`，并非数据库官方核验结果；并列排名或官方规则差异以 JCR 为准。
 
@@ -105,11 +105,11 @@ The [expansion backlog](docs/EXPANSION_PLAN.md) lists optics and interdisciplina
 
 The [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) now support SCI/SCIE, EI Compendex, dual-index filters, ranking years/categories, subject fields and an EI engineering supplement. Index evidence is reviewed incrementally; publisher declarations are distinguished from database verification and unknowns remain explicit.
 
-72 journals now have EI evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026), with ISSN matches and row references in the [evidence record](docs/INDEX_EVIDENCE_2026-10-02.md). This is database-provider evidence, not an article-level subscription-platform search. Sixty-seven SCIE records and ten ESCI records also have current public Clarivate Master Journal List evidence; see the [latest matches](docs/INDEX_EVIDENCE_2026-10-02.md). The [five newly admitted journals](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md) retain their additional matches. Coverage years remain unknown.
+78 journals now have EI evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026), with ISSN matches and row references in the [evidence record](docs/INDEX_EVIDENCE_2026-10-02.md). This is database-provider evidence, not an article-level subscription-platform search. Seventy-two SCIE records and eleven ESCI records also have current public Clarivate Master Journal List evidence; see the [latest matches](docs/INDEX_EVIDENCE_2026-10-02.md). The [five newly admitted journals](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md) retain their additional matches; the [six APS journals](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md) provide the subsequent evidence. Coverage years remain unknown.
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
-The catalog contains **85 journals and 79 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
+The catalog contains **85 journals and 91 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
 
 Exact timestamps can be displayed in Beijing time or UTC. Date-only announcements retain their uncertainty. Unknown dates remain unknown. A Chinese beginner guide explains submission, registration, presentation, preprints, publication, and fees.
 
@@ -167,8 +167,8 @@ The update button checks the deployed catalog version, then offers to load a new
 
 ### 会议系列与定期维护 / Conference series and recurring review
 
-“系列与往届”按稳定系列 ID 关联届次，现有 72 个系列与 79 届会议。可从单届卡片跳转，查询历届会期和准备要求；关注系列后，未来新增的已核实届次会出现在同一系列。系列关注独立于单届关注，保存在本浏览器，无邮件或系统通知。导出未结束届次日历仍为一次性快照。
+“系列与往届”按稳定系列 ID 关联届次，现有 81 个系列与 91 届会议。可从单届卡片跳转，查询历届会期和准备要求；关注系列后，未来新增的已核实届次会出现在同一系列。系列关注独立于单届关注，保存在本浏览器，无邮件或系统通知。导出未结束届次日历仍为一次性快照。
 
 每日来源巡检同时覆盖系列官方入口；最新已收录届次结束后，每 30 天进入后续公告核验队列。人工核验当届身份、会期及出处后追加新届次，保留旧记录并完成部署。尚无官方安排时显示“暂无已核实的后续届次”，不按年会/双年会周期推算日期。详见[维护手册](docs/MAINTENANCE.md)。
 
-The series directory links 79 editions to 72 stable conference identities. Follow a series to find newly reviewed editions alongside historical requirements; series favorites remain local and separate from edition favorites. Daily monitoring includes series sources, and ended series enter a next-announcement review queue every 30 days. New editions require official evidence and deployment; past editions remain available. Unknown future dates are never inferred from recurrence patterns.
+The series directory links 91 editions to 81 stable conference identities. Follow a series to find newly reviewed editions alongside historical requirements; series favorites remain local and separate from edition favorites. Daily monitoring includes series sources, and ended series enter a next-announcement review queue every 30 days. New editions require official evidence and deployment; past editions remain available. Unknown future dates are never inferred from recurrence patterns.
