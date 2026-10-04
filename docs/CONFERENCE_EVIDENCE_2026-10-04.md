@@ -183,3 +183,20 @@ ISBI文件2,108,834字节，C17实施时来源检查对PDF仅可达性；随后S
 [LPM2027官方入口](https://www.jlps.gr.jp/lpm/lpm2027/)普通浏览器ERR_CERT_COMMON_NAME_INVALID，未绕过、未降级HTTP。官方检索到学会Jun1–4/Jan22线索，但原页/稿规未成功读取，继续pending，只nextAction说明失败和入口，不刷新reviewedAt或新增正式届。其他网页核验在原浏览器新正常页继续，未更改安全设置。
 
 原100届/85系列与85刊/25刊样例及全部其他学术JSON保护。新增三历史届后85/103/10、88系列12多届、273候选183 admitted/85 pending/5 deferred；CANDIDATES遗留当前数字同步，历史数字不改。其他规划继续。
+
+## C24：计算成像三系列与历史/未来（2026-10-04）
+
+CVPR、ECCV与ICCV是综合计算视觉会议；按各届CFP的计算成像、相机/多视重建、物理视觉及医学/细胞显微子集条件适配，不把通用AI或整个视觉领域认定为光学。三候选正式关联四届，母会包含Workshop/Tutorial日程，不额外重复计入子活动。以下只已读公开页及指定稿规，不声称逐条伦理/模板内部、全部费用、终稿或论文索引审核。
+
+| 正式届 / 字段来源 | 会期地点 / 范围 | 稿规与日期、保留未知 |
+| --- | --- | --- |
+| CVPR2026：[主页](https://cvpr.thecvf.com/Conferences/2026)、[Dates](https://cvpr.thecvf.com/Conferences/2026/Dates)、[FAQ](https://cvpr.thecvf.com/Conferences/2026/FAQ) | 完整6/3–7，Workshop/Tutorial6/3–4，主会6/5–7；FAQ明确Colorado Convention Center,700 14th Street,Denver CO | [CFP](https://cvpr.thecvf.com/Conferences/2026/CallForPapers)计算成像/事件相机/物理视觉/细胞显微；摘要2025-11-07延期后只AoE日期，全文2025-11-13明确23:59 UTC-12，通知2026-02-20只日级。2025截止属于2026届 |
+| CVPR2026：[AuthorGuidelines](https://cvpr.thecvf.com/Conferences/2026/AuthorGuidelines)、[Registration](https://cvpr.thecvf.com/Conferences/2026/Pricing2) | 初稿8页含图表、纯引用页额外、本届CVPR样式、双盲；官网本届模板链接已核入口，内部未读。计算资源报告项目存在，具体表参数未核 | AUTHOR注册每份最多3篇、虚拟费率不覆盖论文；未录费率/退款或作者截止。本注册页Apr23 23:59 Mountain Time(ET)与Dates18:59UTC不一致，具体早鸟时刻不录。出版由CFP会前两周CVF公开，非索引证明 |
+| CVPR2027：[主页](https://cvpr.thecvf.com/Conferences/2027)、[Dates](https://cvpr.thecvf.com/Conferences/2027/Dates)、[CFP](https://cvpr.thecvf.com/Conferences/2027/CallForPapers) | Seattle WA；完整6/20–25、Workshop/Tutorial6/20–21、主会6/22–25；具体场馆未明。当届计算成像与相机/物理视觉/重建/细胞显微直接列入 | 论文登记2026-11-10、全文11-16、补充11-23、决定2027-02-25均AoE；源定义UTC-12但没给钟点，保存date和注释。OpenReview本届入口及所有作者资料提前完善要求，非机构邮箱可能两周审核。稿规所链[AuthorGuidelines](https://cvpr.thecvf.com/Conferences/2027/AuthorGuidelines)404，8页不能由2026迁入。LLM政策尚制定；作者注册/终稿/费率unknown，出版CFP会前两周CVF公开 |
+| ECCV2026：[主页](https://eccv.ecva.net/Conferences/2026)、[Dates](https://eccv.ecva.net/Conferences/2026/Dates)、[CFP](https://eccv.ecva.net/Conferences/2026/CallForPapers) | 第19届ECVA官方会，Malmö Arena and Malmömässan,瑞典马尔默；完整9/8–12，Workshop/Tutorial9/8–9、主会9/10–12；Expo不额外计论文会 | 登记2/26 23:00 CET、全文3/5 23:00 CET，可用Europe/Stockholm +01；通知6/17。当前CFP与Dates时区互算一致；资料完善和论文登记不是同事件 |
+| ECCV2026：[SubmissionPolicies](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies)、[Registration](https://eccv.ecva.net/Conferences/2026/Registration)、主页延期公告 | 初稿14页LNCS含图表/纯引用页额外，本届字体改变/双盲；仅模板入口未读文件。6/23主页终稿15页含致谢、延期6/30 AoE，不能混同初稿14 | 主页3/4资料/Enrollment延到3/6 23:00 CET，旧政策页仍3/2，登记仍2/26；本轮不把资料窗口当投稿延期。主会full作者7/17 CEST只日期、一份最多2篇，student/virtual不覆盖；Workshop8/10另事件。CFP要求作者或授权代表现场报告，Springer/ECVA公开；后续2028日城未在已读范围公告，不按周期推算 |
+| ICCV2025：[主页](https://iccv.thecvf.com/Conferences/2025)、[Dates](https://iccv.thecvf.com/Conferences/2025/Dates)、[CFP](https://iccv.thecvf.com/Conferences/2025/CallForPapers)、[AuthorGuidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines) | Honolulu, Hawaiʻi Convention Center（Dates称Honolulu Convention Center）；完整10/19–23，Workshop10/19–20、主会10/21–23；计算成像/事件相机/物理视觉/细胞显微子集明确 | 初稿8页含图表、纯引用页额外，ICCV本届样式/双盲及本届OpenReview。登记3/3、全文与补充3/7均23:59 HST（Pacific/Honolulu -10）；CFP通知6/26但Dates6/25 23:59HST，无法确认是否日期口径等效，通知null并保存两源。注册/终稿未核；出版CFP会前两周CVF公开不证明逐篇索引 |
+
+ICCV2027未建正式届：[主页](https://iccv.thecvf.com/Conferences/2027)直接Hong Kong Convention and Expo Center、10/2–8/2027；[Dates](https://iccv.thecvf.com/Conferences/2027/Dates)却TueOct19–SatOct23/2027、场馆空白。Dates正常浏览器实际确认原文，不将可能残留的旧模板自行改成主会日期，也不任选主页数值；两页纳入系列sources及候选nextAction，待官方澄清。本候选因已核2025历史admitted，不代表2027准入。
+
+原103届/88系列、85刊与27刊样例及其他JSON保护。新增后107届/91系列/13多届、273候选186/82/5；仅三候选六审核字段。继续原剩余计划，未登录、提交、联系主办方或更改调度。

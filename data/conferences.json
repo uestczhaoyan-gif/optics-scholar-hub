@@ -5276,5 +5276,248 @@
         "source": "https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography"
       }
     ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "id": "cvpr-2026",
+    "series": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2026,
+    "name": "IEEE/CVF计算机视觉与模式识别会议 CVPR 2026（历史届次）",
+    "nameEn": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026",
+    "region": "海外",
+    "location": "美国 · 科罗拉多州丹佛",
+    "venue": "Colorado Convention Center",
+    "start": "2026-06-03",
+    "end": "2026-06-07",
+    "description": "综合计算视觉学术会议，限计算成像、事件相机、物理视觉、重建及细胞显微等子集适配光学；普通识别/语言模型主题不因此自动成为光学研究。",
+    "website": "https://cvpr.thecvf.com/Conferences/2026",
+    "notice": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers",
+    "registration": "https://cvpr.thecvf.com/Conferences/2026/Pricing2",
+    "requirements": [
+      "历史初稿按本届CVPR样式，正文含图表最多8页，纯引用页可额外；双盲匿名，补充材料与视频不得泄露作者。来源：https://cvpr.thecvf.com/Conferences/2026/AuthorGuidelines",
+      "从本届OpenReview入口提交并完善所有作者资料；2026计算资源报告项目存在，详细表内参数本轮未核，不迁入2027。",
+      "注册页要求每篇主会/Workshop论文由AUTHOR注册覆盖，一份最多3篇；虚拟注册不能覆盖论文。只本届政策，未登录系统或核验逐篇注册。"
+    ],
+    "publication": "本届CFP说明录用论文由CVF在会议前两周公开；注册页提供论文集访问。不将公开论文集当SCI/EI单篇检索证明。",
+    "notes": "完整活动6/3–7，Workshop/Tutorial6/3–4、主会6/5–7。地点由官方FAQ明确；初始摘要延期至2025-11-07，2025截止属于2026届。注册页早鸟时刻与Dates不一致，本轮不录精确早鸟时间。未核全部伦理/计算表/模板内部或终稿细则。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史摘要截止（延期后）",
+        "date": "2025-11-07",
+        "source": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers",
+        "note": "AoE；只公布日级，不补造时刻。"
+      },
+      {
+        "type": "paper",
+        "label": "历史普通全文截止",
+        "at": "2025-11-13T23:59:00-12:00",
+        "timezone": "Etc/GMT+12",
+        "source": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers"
+      },
+      {
+        "type": "notification",
+        "label": "历史普通录用通知",
+        "date": "2026-02-20",
+        "source": "https://cvpr.thecvf.com/Conferences/2026/Dates"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史终稿截止本轮未核",
+        "date": null,
+        "source": "https://cvpr.thecvf.com/Conferences/2026"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "id": "cvpr-2027",
+    "series": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2027,
+    "name": "IEEE/CVF计算机视觉与模式识别会议 CVPR 2027",
+    "nameEn": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027",
+    "region": "海外",
+    "location": "美国 · 华盛顿州西雅图",
+    "venue": "具体场馆待当届公告确认",
+    "start": "2027-06-20",
+    "end": "2027-06-25",
+    "description": "当届征稿明确计算成像与相机、物理视觉、3D重建和医学/生物视觉及细胞显微。适合作为计算光学交叉交流入口，其余通用视觉/AI范围不自动视为光学。",
+    "website": "https://cvpr.thecvf.com/Conferences/2027",
+    "notice": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+    "registration": null,
+    "requirements": [
+      "本届OpenReview入口：https://openreview.net/group?id=thecvf.com/CVPR/2027/Conference；所有共同作者需完整资料，无机构邮箱的新资料审核可能最长两周，提前准备。",
+      "论文登记11/10、全文11/16、补充11/23均AoE（UTC-12）；登记不是参会缴费，征稿页不延期。原页未给具体钟点，保存日期并提示时区。",
+      "CFP实际所链2027 AuthorGuidelines返回404；当前篇幅/模板及完整匿名细则待该届指南发布，不复制2026的8页要求。LLM政策明确仍在制定，待更新。"
+    ],
+    "publication": "2027 CFP说明录用论文由CVF在会前两周公开；如作者提前公开，以更早时间作为披露。具体终稿/作者注册与费用尚未核，不承诺实际索引。",
+    "notes": "完整活动6/20–25，Workshop/Tutorial6/20–21、主会6/22–25；场馆未知。投稿登记与参会注册分别保留；各AoE日期须按UTC-12核对，未写成北京时间当天。2026规则只保留在历史届次。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "本届论文登记截止（非参会注册）",
+        "date": "2026-11-10",
+        "source": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+        "note": "AoE（UTC-12），官方未给具体钟点。"
+      },
+      {
+        "type": "paper",
+        "label": "本届普通全文截止",
+        "date": "2026-11-16",
+        "source": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+        "note": "AoE（UTC-12），官方未给具体钟点，不能据北京时间当天判断。"
+      },
+      {
+        "type": "paper",
+        "label": "本届补充材料截止（非新论文）",
+        "date": "2026-11-23",
+        "source": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+        "note": "AoE（UTC-12），补充材料窗口，不是普通全文延期。"
+      },
+      {
+        "type": "notification",
+        "label": "本届最终决定通知",
+        "date": "2027-02-25",
+        "source": "https://cvpr.thecvf.com/Conferences/2027/Dates",
+        "note": "AoE，时刻未明确。"
+      },
+      {
+        "type": "registration",
+        "label": "本届作者注册/费用截止待公布",
+        "date": null,
+        "source": "https://cvpr.thecvf.com/Conferences/2027"
+      },
+      {
+        "type": "camera-ready",
+        "label": "本届终稿截止待公布",
+        "date": null,
+        "source": "https://cvpr.thecvf.com/Conferences/2027"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "id": "eccv-2026",
+    "series": "European Conference on Computer Vision",
+    "year": 2026,
+    "name": "第19届欧洲计算机视觉会议 ECCV 2026（历史届次）",
+    "nameEn": "19th European Conference on Computer Vision 2026",
+    "region": "海外",
+    "location": "瑞典 · 马尔默",
+    "venue": "Malmö Arena and Malmömässan",
+    "start": "2026-09-08",
+    "end": "2026-09-12",
+    "description": "ECVA官方综合视觉会议；本届计算成像、事件相机、相机标定、多视几何、物理视觉及细胞显微等子集适配，不能把整个机器学习会议视为光学。",
+    "website": "https://eccv.ecva.net/Conferences/2026",
+    "notice": "https://eccv.ecva.net/Conferences/2026/CallForPapers",
+    "registration": "https://eccv.ecva.net/Conferences/2026/Registration",
+    "requirements": [
+      "本届LNCS初稿正文含图表最多14页，纯引用页可额外；2026字体/模板有变化，不能用旧ECCV或CVPR模板。双盲匿名，使用本届Author Kit；本轮只核网页规则/下载入口，未读模板内部。来源：https://eccv.ecva.net/Conferences/2026/SubmissionPolicies",
+      "本届OpenReview投稿、论文登记和共同作者资料分别完成。主页3/4更新资料/Enrollment延至3/6 23:00 CET，但旧SubmissionPolicies还写3/2；论文登记仍2/26，不把资料延期当论文登记延期。",
+      "注册页要求署名作者full registration覆盖每篇论文，一份最多2篇；student/virtual不覆盖。本届主会作者注册7/17 CEST，Workshop作者8/10分别适用。"
+    ],
+    "publication": "CFP说明录用论文通过Springer/ECVA公开，并要求作者或授权代表现场报告；本届公开论文卷已在首页链接。具体逐篇出版/索引本轮未检索，不保证SCI/EI。",
+    "notes": "完整活动9/8–12，Workshop/Tutorial9/8–9、主会9/10–12，Expo不另计论文会议。主页6/23明确终稿延至6/30 AoE、正文15页含致谢，初稿14页分别保存。后续届次当前已读主页未有具体日城，不据两年周期推算2028。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史论文登记截止（非资料完善）",
+        "at": "2026-02-26T23:00:00+01:00",
+        "timezone": "Europe/Stockholm",
+        "source": "https://eccv.ecva.net/Conferences/2026/CallForPapers"
+      },
+      {
+        "type": "paper",
+        "label": "历史普通全文截止",
+        "at": "2026-03-05T23:00:00+01:00",
+        "timezone": "Europe/Stockholm",
+        "source": "https://eccv.ecva.net/Conferences/2026/CallForPapers"
+      },
+      {
+        "type": "notification",
+        "label": "历史最终决定通知",
+        "date": "2026-06-17",
+        "source": "https://eccv.ecva.net/Conferences/2026/CallForPapers"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史终稿截止（延期后）",
+        "date": "2026-06-30",
+        "source": "https://eccv.ecva.net/Conferences/2026",
+        "note": "AoE；只日期，不补时刻。"
+      },
+      {
+        "type": "registration",
+        "label": "历史主会作者full注册截止",
+        "date": "2026-07-17",
+        "source": "https://eccv.ecva.net/Conferences/2026/Registration",
+        "note": "页面只给CEST日期，不补钟点；不把Workshop的8/10套主会。"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "submissionState": "published",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "id": "iccv-2025",
+    "series": "IEEE/CVF International Conference on Computer Vision",
+    "year": 2025,
+    "name": "IEEE/CVF国际计算机视觉大会 ICCV 2025（历史届次）",
+    "nameEn": "IEEE/CVF International Conference on Computer Vision 2025",
+    "region": "海外",
+    "location": "美国 · 夏威夷州檀香山",
+    "venue": "Hawaiʻi Convention Center（主页名称；Dates写Honolulu Convention Center）",
+    "start": "2025-10-19",
+    "end": "2025-10-23",
+    "description": "综合计算视觉会议，本届CFP明确计算成像、事件相机、多视重建、物理视觉及细胞显微子集；作为成像交叉入口，非所有视觉算法均为光学。",
+    "website": "https://iccv.thecvf.com/Conferences/2025",
+    "notice": "https://iccv.thecvf.com/Conferences/2025/CallForPapers",
+    "registration": null,
+    "requirements": [
+      "2025初稿按本届ICCV样式，正文含图表最多8页，纯引用页额外；双盲匿名、补充/视频同样保护身份。本轮只网页规则/模板入口，未读模板文件。来源：https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines",
+      "本届OpenReview入口：https://openreview.net/group?id=thecvf.com/ICCV/2025/Conference；论文登记3/3、全文与补充同为3/7 23:59 HST。",
+      "历史作者注册费率、报告尺寸与终稿细则本轮未核，保持未知，不移用CVPR/ECCV或未来ICCV规则。"
+    ],
+    "publication": "2025 CFP说明录用论文由CVF在会前两周公开；未查询单篇SCI/EI归档，公开论文不等于索引认证。",
+    "notes": "完整10/19–23，Workshop10/19–20、主会10/21–23。通知CFP写6/26，Dates写6/25 23:59 HST，未取得统一解释，提醒日期保留null。2027主页写Hong Kong10/2–8，Dates却10/19–23且场馆空白；新届有冲突，暂不新增，系列保存两官方源等待澄清。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史论文登记截止",
+        "at": "2025-03-03T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://iccv.thecvf.com/Conferences/2025/CallForPapers"
+      },
+      {
+        "type": "paper",
+        "label": "历史全文及补充材料同一截止",
+        "at": "2025-03-07T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://iccv.thecvf.com/Conferences/2025/CallForPapers"
+      },
+      {
+        "type": "notification",
+        "label": "历史通知日期冲突待解释",
+        "date": null,
+        "source": "https://iccv.thecvf.com/Conferences/2025/CallForPapers",
+        "note": "CFP6/26、Dates6/25 23:59 HST；不自行选日。"
+      },
+      {
+        "type": "registration",
+        "label": "历史作者注册截止本轮未核",
+        "date": null,
+        "source": "https://iccv.thecvf.com/Conferences/2025"
+      }
+    ]
   }
 ]

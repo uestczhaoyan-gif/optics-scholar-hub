@@ -1119,5 +1119,55 @@
       "https://spie.org/PUV/conferencedetails/international-conference-extreme-ultraviolet-lithography"
     ],
     "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-406fcf4e4cea",
+    "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "aliases": ["CVPR"],
+    "editionIds": ["cvpr-2026", "cvpr-2027"],
+    "website": "https://cvpr.thecvf.com/",
+    "sources": [
+      "https://cvpr.thecvf.com/Conferences/2026",
+      "https://cvpr.thecvf.com/Conferences/2026/CallForPapers",
+      "https://cvpr.thecvf.com/Conferences/2026/AuthorGuidelines",
+      "https://cvpr.thecvf.com/Conferences/2026/Dates",
+      "https://cvpr.thecvf.com/Conferences/2026/Pricing2",
+      "https://cvpr.thecvf.com/Conferences/2026/FAQ",
+      "https://cvpr.thecvf.com/Conferences/2027",
+      "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+      "https://cvpr.thecvf.com/Conferences/2027/Dates"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-19eaec27ee6f",
+    "name": "European Conference on Computer Vision",
+    "aliases": ["ECCV"],
+    "editionIds": ["eccv-2026"],
+    "website": "https://eccv.ecva.net/",
+    "sources": [
+      "https://eccv.ecva.net/Conferences/2026",
+      "https://eccv.ecva.net/Conferences/2026/Dates",
+      "https://eccv.ecva.net/Conferences/2026/CallForPapers",
+      "https://eccv.ecva.net/Conferences/2026/SubmissionPolicies",
+      "https://eccv.ecva.net/Conferences/2026/Registration"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-a30dbd238b35",
+    "name": "IEEE/CVF International Conference on Computer Vision",
+    "aliases": ["ICCV"],
+    "editionIds": ["iccv-2025"],
+    "website": "https://iccv.thecvf.com/",
+    "sources": [
+      "https://iccv.thecvf.com/Conferences/2025",
+      "https://iccv.thecvf.com/Conferences/2025/Dates",
+      "https://iccv.thecvf.com/Conferences/2025/CallForPapers",
+      "https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines",
+      "https://iccv.thecvf.com/Conferences/2027",
+      "https://iccv.thecvf.com/Conferences/2027/Dates"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
   }
 ]

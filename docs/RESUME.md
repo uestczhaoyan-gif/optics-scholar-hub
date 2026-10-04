@@ -7,10 +7,10 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：85 本期刊、103 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：273 项，183 admitted、85 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
+- 正式目录：85 本期刊、107 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，186 admitted、82 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
-- 交叉适配样例已有二十五刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E22 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
+- 交叉适配样例已有二十七刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E25 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
 ## 恢复时先做
@@ -87,7 +87,7 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 
 ## 可复制的新对话提示
 
-请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 85 本期刊、85 届会议、10 项活动是 2026-10-04 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
+请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 85 本期刊、107 届会议、10 项活动是 2026-10-04 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
 
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
@@ -270,3 +270,7 @@ C23 2a6036bc3d39f5c2f7f85b49d1f67146562ce731已验收[Pages37187049524](https://
 ## 2026-10-04：胶体/有机荧光六样例 E25
 
 E24 ac8c06c1fd0f172d6491638e3c201e6a8f2058f0已验收[Pages37205097390](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37205097390)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，74a50336a2631a7205e7d80aae9b6346d66fcdf888b27b15e2740bc15ae362c0与本地一致（2026-10-04T13:18:26.719Z）。 JCIS/DYPI各三篇不同卷近两年原始光学论文，核出版社原题/DOI/公开摘要及首次在线、VOR与期次，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。结构色自组装/水凝胶/涂层及有机比率/NIR/潜指纹成像分开；未来月份期次已在此前上线，不造月份中的具体日。仅两scopeExamples，其他83刊/旧25刊样例、指南/日期/分区索引及全部其他JSON保持，至少三篇刊数25→27。85/103/10、88系列12多届、273183/85/5保持。 实际新窗口8%/周50%仍允许，继续材料/工程/生医交叉样例及剩余会议候选，临近DDL/分区/指南缺口仍开放；TIE光学范围边界保留，不混用另刊/综述。既有每日与五小时任务保持。
+
+## 2026-10-04：计算成像三系列四届 C24
+
+E25 5ff50f881bc8aad31a0cbfe74a4efd619c391af5已验收[Pages37205969850](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37205969850)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，3bd877043515fffde7a22326dbf3b01e06ab7e4e5f46b9dcd2ce22fcddbf0812与本地一致（2026-10-04T13:36:06.744Z）。 三候选新增CVPR2026/2027、ECCV2026、ICCV2025四届，计算成像/相机/重建与显微子集条件适配；完整活动与主会/Workshop日期分开，往届模板不迁未来。[逐字段来源](CONFERENCE_EVIDENCE_2026-10-04.md)。ICCV2027两官网日期冲突未入正式届，2025通知差异保留null；CVPR2027指南404保留篇幅未知。当前85/107/10、91稳定系列/13多届、273候选186 admitted/82 pending/5 deferred、27刊至少三篇样例；分区索引与其他JSON保持。其他规划继续，既有五小时和每日来源巡检保持。

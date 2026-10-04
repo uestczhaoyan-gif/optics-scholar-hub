@@ -1090,3 +1090,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - JCIS/DYPI各三篇不同卷近两年原始光学论文，核出版社原题/DOI/公开摘要及首次在线、VOR与期次，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。结构色自组装/水凝胶/涂层及有机比率/NIR/潜指纹成像分开；未来月份期次已在此前上线，不造月份中的具体日。仅两scopeExamples，其他83刊/旧25刊样例、指南/日期/分区索引及全部其他JSON保持，至少三篇刊数25→27。85/103/10、88系列12多届、273183/85/5保持。 普通浏览器实际读取六篇原页；Cookie遮挡先按必要Cookie选项正常关闭后再展开历史，未绕过安全警告/登录/付费。G4 DOI实际重定向S0143720825008836，其他期刊/综述发现项未用于本刊原创样例。
 - 必要数据/范围/文档/报告/构建与差异审查后推送，验收同SHA CI/Pages/线上版本；其他规划继续。
 - 发布前数据校验、两scopeExamples字段/其他83刊与旧25刊样例/所有其他JSON保持及27刊计数断言通过，六篇首次日近两年/三独立卷检查通过；195个本地Markdown链接、维护369项及12主题覆盖通过。Pages子路径构建与六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：计算成像三系列四届 C24
+
+- E25 5ff50f881bc8aad31a0cbfe74a4efd619c391af5已验收[Pages37205969850](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37205969850)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，3bd877043515fffde7a22326dbf3b01e06ab7e4e5f46b9dcd2ce22fcddbf0812与本地一致（2026-10-04T13:36:06.744Z）。 正式编辑前验收；work/C24_RESEARCH_2026-10-04.md长操作前保存实际20%/周52%允许及来源/冲突，后续24%/53%允许，未用重置券。P1ACP/ICALEO已在Oct3核过，无新事实不重复改日期。
+- 三候选新增CVPR2026/2027、ECCV2026、ICCV2025四届，计算成像/相机/重建与显微子集条件适配；完整活动与主会/Workshop日期分开，往届模板不迁未来。[逐字段来源](CONFERENCE_EVIDENCE_2026-10-04.md)。ICCV2027两官网日期冲突未入正式届，2025通知差异保留null；CVPR2027指南404保留篇幅未知。当前85/107/10、91稳定系列/13多届、273候选186 admitted/82 pending/5 deferred、27刊至少三篇样例；分区索引与其他JSON保持。其他规划继续，既有五小时和每日来源巡检保持。 三官方站CFP/Dates/历史指南与注册页实际读取；正常浏览器读CVPR2027CFP、ICCV2027冲突Dates、2026/2025篇幅匿名细则，未登录、联系或提交。
+- 只四新增届/三新系列与三候选六审核字段；旧103届/88系列、85刊27样例及全部其他JSON保护。RESUME当前样例数/续接句与EXPANSION当前表遗留数字同步，历史记录不改。必要校验/范围/文档/报告/构建与差异审查后上传验收同SHA，剩余规划持续。
+
+- 发布前数据校验、旧103届/88系列及所有其他JSON保持、三候选六字段白名单、107/91/13与186/82/5计数断言通过；CVPR2027稿规/费率unknown、日级AoE和ICCV2027暂不准入/2025通知null明确检查。247个本地Markdown链接、维护376项/12主题覆盖通过。Pages子路径构建与六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。

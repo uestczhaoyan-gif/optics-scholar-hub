@@ -1204,12 +1204,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "计算摄影、成像重建、逆问题；不能把整个视觉领域都视为光学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://eccv.ecva.net/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["eccv-2026"],
+    "decisionReason": "当届学会官方身份/日城及CFP计算成像、相机/重建、物理视觉/显微子集已核；只条件光学适配，历史/未来和主会/附属活动分开。",
+    "nextAction": "跟踪后续具体日城与征稿；不按偶数年推算。历史资料完善延期与论文登记分开。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-7886ef52c0",
@@ -1218,12 +1218,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "计算摄影、成像重建、逆问题；不能把整个视觉领域都视为光学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://cvpr.thecvf.com/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["cvpr-2026", "cvpr-2027"],
+    "decisionReason": "当届学会官方身份/日城及CFP计算成像、相机/重建、物理视觉/显微子集已核；只条件光学适配，历史/未来和主会/附属活动分开。",
+    "nextAction": "核对2027独立作者指南/模板发布、场馆、费用/终稿；不移用2026页数。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-3e1fcaac43",
@@ -1260,12 +1260,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "计算摄影、成像重建、逆问题；不能把整个视觉领域都视为光学",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://iccv.thecvf.com/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["iccv-2025"],
+    "decisionReason": "当届学会官方身份/日城及CFP计算成像、相机/重建、物理视觉/显微子集已核；只条件光学适配，历史/未来和主会/附属活动分开。",
+    "nextAction": "2027主页Hong Kong10/2–8与Dates10/19–23/空场馆冲突，待官方澄清后新增本届；2025通知差异也保留。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-4c03de2075",
