@@ -73,3 +73,18 @@ DOI分别为10.1016/j.jcis.2025.138884、10.1016/j.jcis.2026.140020、10.1016/j.
 | inorganic-chemistry：[Synthesis and Optical and Nonlinear Optical Properties of Linear and Two-Dimensional Charge Transfer Chromophores Based on Polyoxometalates](https://doi.org/10.1021/acs.inorgchem.4c04179) | 2024-12-06 / 63(51)，2024-12-23     | 电子吸收/TDDFT与1064/1200nm超瑞利散射测β，非已实现器件 |
 
 仅两scopeExamples，旧27刊样例与其他83刊/完整核验日/排名索引/指南、所有其他JSON保护，27→29刊至少三篇。最初原页自动安全加载后正常显示，未操作验证码/登录/付款或下载受限全文；没有以机构库或搜索摘录日期覆盖ACS原页。其他规划继续。
+
+## E28：Advanced Materials / Angewandte Chemie
+
+2026-10-04实际读取六Wiley论文原题、ResearchArticle/Communication、刊名卷期、公开Abstract和Firstpublished。首次在线作publishedAt，较晚卷期另存于relevance；六篇全部2024-10-04至2026-10-04内且每刊三个不同期次。只公开摘要与元数据范围，未下载全文/全部图表/SI；不扩张为完整实验审计或相似稿录用保证。
+
+| 本刊原题/DOI | 首次在线 / 卷期 | 光学适配与边界 |
+| --- | --- | --- |
+| advanced-materials：[Nonlocal Metasurface Lens for Long-Wavelength Infrared Radiation](https://doi.org/10.1002/adma.202507848) | 2025-07-22 / 37(43)，2025-10-29 | Research Article；Ge/ZnSe约10.3µm非局域金属透镜，另封面adma.70849排除 |
+| advanced-materials：[Spatially Encoded Polaritonic Ultra-Strong Coupling in Gradient Metasurfaces with Epsilon-Near-Zero Modes](https://doi.org/10.1002/adma.202510402) | 2025-09-12 / 38(1)，2026-01-02 | Research Article；quasi-BIC/SiO2 ENZ光物质耦合，未来调制/量子应用不当已实现 |
+| advanced-materials：[Light-Driven Reconfigurable Logic in a Monolithic Perovskite Device via Nonlinear Photoresponse Switching](https://doi.org/10.1002/adma.202509566) | 2025-11-05 / 38(14)，2026-03-06 | Research Article；光强极性与单器件逻辑，明确场景概念调制映射+实测光电压，非像素级成像 |
+| angewandte-chemie：[Photoactive Luminescence in a Silver Cluster Crystal](https://doi.org/10.1002/anie.202521059) | 2025-12-13 / 65(5)，2026-01-28 | Communication；Ag8晶格甲醇光致耗氧/UV激活磷光与响应墨水 |
+| angewandte-chemie：[Host-Guest Doping Enables Room Temperature Phosphorescence from Triarylboranes](https://doi.org/10.1002/anie.202524578) | 2026-01-18 / 65(9)，2026-02-23 | Research Article；修正纯晶体RTP旧解释，主客体/PMMA条件分开，不宣称纯晶体本征长余辉 |
+| angewandte-chemie：[Machine Learning-Guided Discovery of Copper(I)-Iodide Cluster Scintillators for Efficient X-ray Luminescence Imaging](https://doi.org/10.1002/anie.202413672) | 2024-10-29 / 64(1)，2025-01-02 | Research Article；铜碘簇与柔性复合闪烁体成像，ML筛选含材料验证，非临床 |
+
+AdvancedMaterials检索中的adma.70849是封面说明而非原创论文；adma.202407476虽然2025卷期，但Firstpublished2024-07-14且Perspective，超出近两年原创范围，均排除。钙钛矿逻辑首次2025-11-05，非2026-03-06卷期；ENZ首次2025-09-12，非2026卷期。RTP工作自纠正先前纯晶体解释，照原摘要保存掺杂条件，未扩大到全部纯材料。仅两scopeExamples；83其他刊/旧29刊样例、整刊核验日、排名索引/指南及其他JSON保护，29→31刊至少三篇。

@@ -1140,3 +1140,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 仅四新增届/三新系列、三候选六审核字段；旧112届/94系列、85刊/29样例与其他JSON保护。必要数据/范围/文档/报告/子路径构建与差异审查后上传验收同SHA，剩余规划继续。
 
 - 发布前数据校验、旧112届/94系列与全部其他JSON保持、三候选六字段白名单、116/97/16及192/76/5计数断言通过；HST、接受确认不当注册、未来全部截止未知与普通/Workshop边界通过。265个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建与六资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：Advanced Materials / Angewandte六样例 E28
+
+- C27 127752141e547d633d4522f29f4a3c72b1444c62已验收[Pages37210683598](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37210683598)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，e1514cb13cee68d64cd466758e49b5682906e59c5bf5a1a785d4e8f461224811与本地一致（2026-10-04T14:50:42.268Z）。 正式编辑前验收；work/E28_RESEARCH_2026-10-04.md长操作前保存来源与边界，最近实际五小时66%/周59%允许，不用重置券。
+- Advanced Materials/Angewandte各补三篇近两年不同期次原创光学样例：长波红外金属透镜/ENZ极化激元耦合/钙钛矿光电逻辑、银簇光响应磷光/掺杂三芳基硼RTP/铜碘簇X射线闪烁成像。首次在线与卷期分开，封面/旧Perspective排除；逻辑非像素成像、RTP纯晶体旧解释被纠正的边界保留。仅两scopeExamples，其他83刊/旧29刊样例与其他JSON保护，31刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/116/10、97系列16多届、192/76/5、分区索引/指南与整刊日期保持，其他规划继续。 Web工具实际打开六Wiley原始论文页并定位稿型/公开摘要/Firstpublished/卷期；不只用搜索片段。DOI普通跳出版社；未登录、买全文、触发Sharefull-text条款或下载SI/PDF。工具有可见OA全文时，仅按摘要/元数据范围判断，不声称整篇实验审计。
+- 必要数据/白名单/文档/报告/子路径构建和差异审查后上传验收同SHA，其余规划继续。
+
+- 发布前数据校验、仅两scopeExamples/83其他刊与旧29刊样例/其他JSON保持、31刊计数/近两年首次日期/不同期次以及纯晶体/逻辑边界断言通过；216个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建与六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint等由同SHA CI验收。

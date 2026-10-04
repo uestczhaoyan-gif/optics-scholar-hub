@@ -1481,6 +1481,26 @@
         "coverageEnd": null,
         "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 143 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
+    ],
+    "scopeExamples": [
+      {
+        "title": "长波红外非局域超表面透镜",
+        "source": "https://doi.org/10.1002/adma.202507848",
+        "publishedAt": "2025-07-22",
+        "relevance": "Ge薄膜/ZnSe基底的非局域金属透镜在约10.3µm工作，厚1.45µm；适配红外平面光学与成像/传感材料。Adv.Mater.37(43)，卷期2025-10-29。原创Research Article，未用另一个封面图条目代替；只摘要/出版元数据核验。"
+      },
+      {
+        "title": "梯度超表面与ENZ模式的空间编码极化激元超强耦合",
+        "source": "https://doi.org/10.1002/adma.202510402",
+        "publishedAt": "2025-09-12",
+        "relevance": "介质双梯度quasi-BIC超表面耦合超薄SiO2的ENZ模，适配纳米光学/光物质耦合；摘要报告η=0.10与模式分裂，不据此声称量子门或调制器已实现。Adv.Mater.38(1)，卷期2026-01-02，首次在线在2025。"
+      },
+      {
+        "title": "单体钙钛矿器件的非线性光响应可重构逻辑",
+        "source": "https://doi.org/10.1002/adma.202509566",
+        "publishedAt": "2025-11-05",
+        "relevance": "MAPbI3陷阱态与非对称双光栅门控制无偏置光强极性切换，实现单器件光电逻辑；适配光电材料/器件。摘要明确为概念场景调制映射加实测光电压，非像素级成像，不写成完整LiFi通信或AI系统。Adv.Mater.38(14)，卷期2026-03-06。"
+      }
     ]
   },
   {
@@ -3741,7 +3761,27 @@
       "详细实验方法和完整表征数据放在 Supporting Information 中；综述及观点类另查提案和邀请要求。",
       "2026-09-12 核对官方 Overview：Review、Minireview、Highlight 应先联系编辑部评估提案，当前不考虑未经邀请直接提交的这些稿型；Research Article 和 Communication 按各自指南准备。"
     ],
-    "publishing": "混合出版，可在录用时选择开放获取；订阅出版和 OA 的版权及费用规则分别确认。"
+    "publishing": "混合出版，可在录用时选择开放获取；订阅出版和 OA 的版权及费用规则分别确认。",
+    "scopeExamples": [
+      {
+        "title": "银簇晶体的紫外激活磷光与光响应墨水",
+        "source": "https://doi.org/10.1002/anie.202521059",
+        "publishedAt": "2025-12-13",
+        "relevance": "Ag8晶体光响应磷光，晶格甲醇光致耗氧缓解淬灭，并形成3D打印光响应墨水；适配发光化学与光响应材料。Angew.Chem.Int.Ed.65(5)，卷期2026-01-28，原创Communication；摘要提及传感/LED背景不当这些器件均已演示。"
+      },
+      {
+        "title": "主客体掺杂三芳基硼的室温长余辉",
+        "source": "https://doi.org/10.1002/anie.202524578",
+        "publishedAt": "2026-01-18",
+        "relevance": "二元主客体掺杂与三重态能量转移调控RTP，适配有机发光/光学传感材料。摘要明确纠正旧纯晶体RTP解释：纯晶体不显该RTP，掺杂体系和PMMA条件分开，不能写成纯晶体本征长余辉。Angew.Chem.Int.Ed.65(9)，卷期2026-02-23。"
+      },
+      {
+        "title": "机器学习发现铜碘簇闪烁体用于X射线发光成像",
+        "source": "https://doi.org/10.1002/anie.202413672",
+        "publishedAt": "2024-10-29",
+        "relevance": "Cu(I)-I簇的辐射发光与柔性复合闪烁体静态/动态X射线成像演示，适配无机光学材料和成像；模型辅助筛选不是纯算法无器件。Angew.Chem.Int.Ed.64(1)，卷期2025-01-02，首次在2024且仍近两年；未据此宣称临床验证。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

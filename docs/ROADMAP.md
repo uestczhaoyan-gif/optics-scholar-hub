@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 11 / 85          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 78 / SCIE 72  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 72 / ESCI 11 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有二十九刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E27 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有三十一刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E28 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 ## 下一阶段执行顺序
 
@@ -613,3 +613,7 @@ E26 0190d244afe22c6169d0ace3c4b80aeb842b0fe7已验收[Pages37209054631](https://
 ## C27：传感与光通信时间深度（2026-10-04）
 
 E27 d9a3c05fc2747a48ce91d8c6d07f3577b749732a已验收[Pages37209447605](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37209447605)：build/deploy与完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，da86fd815fd61d1789752472168dde87da79353bf027e126863569019511ed08与本地一致（2026-10-04T14:35:54.231Z）。API两次连接超时只复查同部署，未重复提交。 新增TRANSDUCERS2027、GLOBECOM2026、ICC2026历史/2027预告四届共三系列，光学传感与光网络子集条件适配。HST初摘要/接受确认/录用后稿件分开，GLOBECOM普通与Workshop更新后截止分开；ICC2027只官方日城，稿规unknown不复制2026。当前85/116/10、97系列/16多届、273候选192 admitted/76 pending/5 deferred、29刊至少三篇样例，分区索引保持。[逐字段来源与范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。
+
+## E28：材料与发光化学样例（2026-10-04）
+
+C27 127752141e547d633d4522f29f4a3c72b1444c62已验收[Pages37210683598](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37210683598)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，e1514cb13cee68d64cd466758e49b5682906e59c5bf5a1a785d4e8f461224811与本地一致（2026-10-04T14:50:42.268Z）。 Advanced Materials/Angewandte各补三篇近两年不同期次原创光学样例：长波红外金属透镜/ENZ极化激元耦合/钙钛矿光电逻辑、银簇光响应磷光/掺杂三芳基硼RTP/铜碘簇X射线闪烁成像。首次在线与卷期分开，封面/旧Perspective排除；逻辑非像素成像、RTP纯晶体旧解释被纠正的边界保留。仅两scopeExamples，其他83刊/旧29刊样例与其他JSON保护，31刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/116/10、97系列16多届、192/76/5、分区索引/指南与整刊日期保持，其他规划继续。
