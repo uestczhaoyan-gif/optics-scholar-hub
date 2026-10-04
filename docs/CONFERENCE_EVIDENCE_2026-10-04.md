@@ -233,3 +233,21 @@ ICAP是International Conference on Atomic Physics，不与Computational Accelera
 | 2026出版/[OpenAccessAndProceedings](https://conferences.miccai.org/2026/en/OPEN-ACCESS-AND-PROCEEDINGS.html)、普通指南/Dates                                             | SpringerLNCS与Society开放主会/卫星稿；官网19卷入口，Springer会议首日起4周免费访问。相关主会目录实际公开                                                                                                                                                                                                                                                                                                                    | 指南noearlier会前2周与Datesnoearlier9/21不一致，准确首次公开日未知，不造实际上线日。未逐卷/单篇检索实际EI/SCIE；旧届LNCS不证明2028规则                                               |
 
 只新增miccai-2026与miccai-2028；2027日冲突保留系列sources/候选nextAction。旧110届/93系列与其他JSON保护。当前112届/94系列15多届、189/79/5候选；85期刊/27刊样例与分区索引保持，其他规划继续。
+
+## C27：TRANSDUCERS / GLOBECOM / ICC（2026-10-04）
+
+三系列四届；综合传感/通信会仅明确光学传感、光网络子集条件适配。页内已核段落不扩张为整份模板/论文集或数据库单篇检索。
+
+| 字段与当届官方来源 | 已核事实/范围 | 未知、冲突与适用边界 |
+| --- | --- | --- |
+| TRANSDUCERS2027[主页](https://www.transducers-eurosensors2027.org/)/[About](https://www.transducers-eurosensors2027.org/about/conference_info.html) | 第25届固态传感/执行器/微系统，联合EUROSENSORS XXXIX；StockholmWaterfront，2027-06-20–24；明确Optical, Photonic, and Atomic Transducers主题 | 本届联合身份不代表两系列永久合并；CityHall欢迎/VasaMuseum宴会不当会场。2029 announcement仅计划环节，未公布日城，不用周期外推 |
+| TRANSDUCERS[Dates](https://www.transducers-eurosensors2027.org/authors/deadlines.html) | InitialAbstractPDF12/8/2026（不延长）、作者通知2/18/2027、接受确认2/23、录用后Manuscripts4/13。全页明确各日终点23:59HST，保存Pacific/Honolulu -10 | 接受确认非参会缴费，不用registration类型误建。Manuscripts记录录用后稿件而非初始普通全文；初稿/终稿长度、模板、评审/平台未知，不照搬2025 |
+| TRANSDUCERS[Registration](https://www.transducers-eurosensors2027.org/attendees/registration.html) | 普通浏览器可打开，但只有标题/导航，正文注册内容尚空白 | 注册开放/费率/早鸟/退款与具体出版、实际索引仍未知；IEEE页脚不能证明出版。节目现场CET字样存在夏季时区歧义，未推算现场钟点，也不改明确摘要HST |
+| GLOBECOM2026[主页](https://globecom2026.ieee-globecom.org/)/[SymposiaCFP](https://globecom2026.ieee-globecom.org/authors/call-symposium-papers) | 澳门中国2026-12-07–11；主会OpticalNetworksandSystems分会题名/EDAS与CFP入口已核。普通Firm5/3，通知8/1，NEW终稿上传+注册9/8，均日级 | 普通投稿已过；具体场馆未知。ONS分会PDF/模板/EDAS内部未读；综合通信其他主题不自动光学 |
+| GLOBECOM[Authors](https://globecom2026.ieee-globecom.org/authors) | 通用Workshop ExtendedSubmission8/19、NewNotification10/5、NewCameraReady10/14；Industry等另有轨道，未当普通论文截止 | 未逐Workshop核特殊日期/主题，不能当普通光学新投稿开放。SubmissionGuidelines普通访问超时，内部网络错误页受URL策略限制读取，细则未读。篇幅、匿名、注册费率、no-show、出版条件保留未知，不从ICC借6/7页和超页费 |
+| ICC2026[主页](https://icc2026.ieee-icc.org/)/[CFP](https://icc2026.ieee-icc.org/authors/call-symposia-papers)/[Venue](https://icc2026.ieee-icc.org/about-conference-venue) | Glasgow2026-05-24–28，SEC，CFP另列CrownePlaza；明确OpticalNetworks&Systems。普通初稿延至2025-11-10 Firm，通知2026-01-19，作者注册/终稿2/13 | 旧9/29、10/13、10/31不作未来提醒。主会/卫星逐日及实际注册价格未核，以上仅日级不造钟点 |
+| ICC2026普通CFP投稿/作者段 | 初稿英文PDF≤6 printed pages、10pt，超限不送审；最终6页含图，至多第7页US$100。EDAS作者/题名与PDF一致，录用后作者名单不能变。Full或LimitedAuthor一次注册最多3篇SYMPOSIUM | 同段WorkshopRegistration只用于accepted workshop，不解释成Workshop费率覆盖3主会稿。模板内部/匿名模式未核；US$100仅超页不是报名费。不退款注册+作者/预先许可合格替代展示，否则有Xplore移除风险 |
+| ICC2026出版CFP与当届主页 | CFP出版条件为录用且展示；主页已公告主会/Workshop在IEEE Xplore上线，链接conhome11586754与11586035分别可见 | 只核公告/链接，未打开逐篇数据库/IEEE Xplore目录，实际EI/SCIE未检索。选稿扩展fast-track OJComSoc仅可能性不保证录用 |
+| ICC2027[ComSoc本会官方表](https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history) | ICC2027行明确Washington D.C.USA，May30–June3；2026行与当届Glasgow一致。GLOBECOM2026Macao行也一致 | 2027本届CFP/平台/场馆/注册/出版未核，unknown；光通信适配仅根据既有系列2026 ONS子集，待本届主题。拒绝合并同缩写其他IoT/Data/Cloud ICC，不套2026页数/EDAS/注册 |
+
+仅四新增届、三稳定系列与三候选六审核字段；旧112届/94系列保护，85刊/29样例/全部其他JSON保持。现在116届/97系列16多届、192 admitted/76 pending/5 deferred。各未来缺口和未知继续进入巡检与维护，不把日城预告当投稿开放。

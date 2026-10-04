@@ -1217,5 +1217,49 @@
       "https://conferences.miccai.org/2026/en/workshops.asp"
     ],
     "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-1ef409cd70cf",
+    "name": "International Conference on Solid-State Sensors, Actuators and Microsystems",
+    "aliases": ["TRANSDUCERS"],
+    "editionIds": ["transducers-2027"],
+    "website": "https://www.transducers-eurosensors2027.org/",
+    "sources": [
+      "https://www.transducers-eurosensors2027.org/",
+      "https://www.transducers-eurosensors2027.org/about/conference_info.html",
+      "https://www.transducers-eurosensors2027.org/authors/deadlines.html",
+      "https://www.transducers-eurosensors2027.org/attendees/registration.html",
+      "https://www.transducers-eurosensors2027.org/program/program_overview.html"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-0851dd99df84",
+    "name": "IEEE Global Communications Conference",
+    "aliases": ["IEEE GLOBECOM", "GLOBECOM"],
+    "editionIds": ["ieee-globecom-2026"],
+    "website": "https://globecom2026.ieee-globecom.org/",
+    "sources": [
+      "https://globecom2026.ieee-globecom.org/",
+      "https://globecom2026.ieee-globecom.org/authors/call-symposium-papers",
+      "https://globecom2026.ieee-globecom.org/authors",
+      "https://globecom2026.ieee-globecom.org/submission-guidelines",
+      "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-9cb65feca0a5",
+    "name": "IEEE International Conference on Communications",
+    "aliases": ["IEEE ICC"],
+    "editionIds": ["ieee-icc-2026", "ieee-icc-2027"],
+    "website": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history",
+    "sources": [
+      "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history",
+      "https://icc2026.ieee-icc.org/",
+      "https://icc2026.ieee-icc.org/authors/call-symposia-papers",
+      "https://icc2026.ieee-icc.org/about-conference-venue"
+    ],
+    "nextEditionCheckedAt": "2026-10-04"
   }
 ]

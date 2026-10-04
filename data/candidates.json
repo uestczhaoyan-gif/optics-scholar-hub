@@ -1232,12 +1232,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光通信/光网络相关 symposium 或 workshop；母大会与 workshop DDL 分开",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://globecom2026.ieee-globecom.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-globecom-2026"],
+    "decisionReason": "本届澳门日城及ONS子集、普通Symposia与独立Workshop通用更新后截止已核；仅相关光网络子集适配。",
+    "nextAction": "补本届场馆/篇幅/评审/注册费率/出版细则；Guidelines访问超时未读，各Workshop独立核主题/截止；后续日城未知。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-c181a69b28",
@@ -1246,12 +1246,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光通信/光网络相关 symposium 或 workshop；母大会与 workshop DDL 分开",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-icc-2026", "ieee-icc-2027"],
+    "decisionReason": "2026当届日城/ONS/稿规已核，2027 ComSoc官方日城预告独立保存，不沿用2026规则。",
+    "nextAction": "补2027当届官网/CFP/主题/场馆/注册/出版；2026主页仅核Xplore公告入口，未逐篇检索实际索引。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-d66850e0b0",
@@ -1478,12 +1478,12 @@
     "kind": "conference-series",
     "priority": 3,
     "scopeHint": "光学传感、光 MEMS、微纳光学器件",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.transducers-eurosensors2027.org/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["transducers-2027"],
+    "decisionReason": "当届官方日城/场馆与Optical, Photonic, and Atomic Transducers主题已核；初摘要HST与录用后稿件分开，EUROSENSORS仅本届联合身份。",
+    "nextAction": "补2027摘要篇幅/模板/评审/投稿入口和注册费率/出版；2029日城尚未发布不推算。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "event-fce8d02fb9",

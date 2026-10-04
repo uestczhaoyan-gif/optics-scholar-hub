@@ -1112,7 +1112,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - C25 e764b139e28a30c172b066105a4fd1eedd0c9c4d已验收[Pages37207744738](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37207744738)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，d57cd321fc0b8007ef4cb1f7502cdf3386dfe256650d7603cce5cd93641bf85c与本地一致（2026-10-04T14:09:09.587Z）。首次push连接超时后补推同提交成功；一次线上TLS重置后只复查原部署，未重复提交。 正式编辑前已验收；work/C26_RESEARCH_2026-10-04.md在长操作前保护来源/冲突，实际五小时40%/周55%允许，不用重置券。
 - MICCAI新增2026历史与2028圣保罗官方预告，两届共一稳定系列；2027两个Society页面9/26与9/27起日冲突，未进正式届。2026主会论文目录的光片荧光显微/共聚焦内镜/光声子集已核，未来稿规与注册未知，不套旧8+2页。当前85/112/10、94系列/15多届、273候选189 admitted/79 pending/5 deferred，27刊样例和分区索引保持。[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。 Society Upcoming/公告及2026主页、指南、Dates、注册/出版/主会公开目录和卫星入口实际普通浏览器读取；只相关目录题名和页面已核段落，不声称论文全文、19卷、模板ZIP或全书PDF已读。未登录/注册/联系/提交。
 - 仅两新增届/一系列/一候选六审核字段；旧110届/93系列、85刊/27样例及全部其他JSON保护。EOD通知日级，未来未知、2027起日/2026公开时段与退款年度差异保留。必要验证/文档/报告/构建/差异审查后推送验收同SHA，其余规划继续。
-  `n- 发布前数据校验、旧110届/93系列与所有其他JSON保持、一候选六字段白名单、112/94/15和189/79/5计数断言通过；2027未入正式/2028全部截止未知/通知EOD日级边界通过。255个本地Markdown链接、维护386项与12主题覆盖通过。Pages子路径构建和六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。最新实际五小时44%/周56%允许，继续其余规划。
+
+- 发布前数据校验、旧110届/93系列与所有其他JSON保持、一候选六字段白名单、112/94/15和189/79/5计数断言通过；2027未入正式/2028全部截止未知/通知EOD日级边界通过。255个本地Markdown链接、维护386项与12主题覆盖通过。Pages子路径构建和六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。最新实际五小时44%/周56%允许，继续其余规划。
 
 ## 2026-10-04：Photoacoustics与IJEM指南 E26
 
@@ -1120,11 +1121,22 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - Photoacoustics补本刊Letter8初稿页/2000词/5图表与4印刷页、250词摘要、建议Highlights/图形摘要、Option C及USD4070不含税；IJEM本刊IOP About明确编辑部资助CC BY作者无费，并补本刊Letters/Research Highlights1000词。只两刊requirements/publishing，原首条范围/整刊日期/索引分区/样例及其他83刊、全部其他JSON保护。[字段与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。85/112/10、94系列/15多届、189/79/5与27刊样例保持，其余规划继续。 Photoacoustics自动403但普通浏览器指南/OA页实际可读；旧ISSN OA路径正常重定向。只读已核稿型/摘要/文件/数据/费用段，不声称完整伦理/临床试验/模板文件已核。
 - IJEM Support/所链About/IOP本刊About已读；收费子页跳第三方validate.perfdrive.com反机器人验证被自动审批拒绝，理由是可能涉及访问控制，未访问验证域名、未转用其他工具绕过。费用依据是此前可读IOP本刊About的明确编辑部资助声明，收费子页/peer-review policy未读，匿名模式未定。无需该受限跳转即可完成本批已核字段。
 - 必要校验/四字段范围/文档/报告/子路径构建与差异审查后推送，验收同SHA CI/部署/线上版本，其他规划继续。
-  `n- 发布前数据校验、四字段白名单/原首条范围/83其他刊及全部其他JSON保护、27样例计数与建议材料/费率/匿名未知边界断言通过；207个本地Markdown链接、维护386项/12主题覆盖通过。Pages子路径构建六入口资源exit0，差异审查/git diff --check通过。完整31项测试/typecheck/lint等由同SHA CI验收。
+
+- 发布前数据校验、四字段白名单/原首条范围/83其他刊及全部其他JSON保护、27样例计数与建议材料/费率/匿名未知边界断言通过；207个本地Markdown链接、维护386项/12主题覆盖通过。Pages子路径构建六入口资源exit0，差异审查/git diff --check通过。完整31项测试/typecheck/lint等由同SHA CI验收。
 
 ## 2026-10-04：Nano Letters / Inorganic Chemistry六样例 E27
 
 - E26 0190d244afe22c6169d0ace3c4b80aeb842b0fe7已验收[Pages37209054631](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37209054631)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，87ec92bf908f7c01b50792535d6790bf9f7bef082b240f939091d9caf4b203ad与本地一致（2026-10-04T14:24:02.767Z）。 正式编辑前验收；work/E27_RESEARCH_2026-10-04.md长操作前保存来源线索与范围，最新实际五小时52%/周57%允许，未用重置券。
 - Nano Letters/Inorganic Chemistry各补三篇近两年不同期次原创光学样例：灰度非线性超表面/NIR-II聚合物点/电压可调量子点出射、稀土缺陷发光/Pt蓝光OLED/POM非线性散射。首次上线与较晚卷期分开；量子点合作发射尚未演示。仅两scopeExamples，其他83刊/旧27刊样例与所有其他JSON保持，29刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/112/10、94系列15多届、273189/79/5、分区索引/指南与整刊日期保持，其余规划继续。 六原页普通浏览器读页头/公开摘要、正常点击Article history展开出版历史；最初自动安全加载随后原页正常显示，没有点击验证/CAPTCHA、绕过登录或下载收费全文。OA全文虽可见，仅按页头/摘要/历史范围核验。
 - 必要数据/两字段范围/文档/报告/子路径构建与差异审查后提交推送，同SHA验收部署及线上目录；其余规划继续。
-  `n- 发布前数据校验、仅两scopeExamples/83其他刊与旧27刊样例/其他JSON保持、29刊计数与近两年不同论文/合作发射未知断言通过；210个本地Markdown链接、维护386项及12主题覆盖通过。Pages子路径构建及六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。
+
+- 发布前数据校验、仅两scopeExamples/83其他刊与旧27刊样例/其他JSON保持、29刊计数与近两年不同论文/合作发射未知断言通过；210个本地Markdown链接、维护386项及12主题覆盖通过。Pages子路径构建及六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-04：传感/光通信四届 C27
+
+- E27 d9a3c05fc2747a48ce91d8c6d07f3577b749732a已验收[Pages37209447605](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37209447605)：build/deploy与完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，da86fd815fd61d1789752472168dde87da79353bf027e126863569019511ed08与本地一致（2026-10-04T14:35:54.231Z）。API两次连接超时只复查同部署，未重复提交。 正式编辑前验收；work/C27_RESEARCH_2026-10-04.md保存来源与未知，实际五小时61%/周59%允许，不用重置券。
+- 新增TRANSDUCERS2027、GLOBECOM2026、ICC2026历史/2027预告四届共三系列，光学传感与光网络子集条件适配。HST初摘要/接受确认/录用后稿件分开，GLOBECOM普通与Workshop更新后截止分开；ICC2027只官方日城，稿规unknown不复制2026。当前85/116/10、97系列/16多届、273候选192 admitted/76 pending/5 deferred、29刊至少三篇样例，分区索引保持。[逐字段来源与范围](CONFERENCE_EVIDENCE_2026-10-04.md)。其他规划继续。 普通浏览器实际读Transducers主页/About/Dates/空白Registration、GLOBECOM主页/CFP/Authors与ICC2026主页/CFP/Venue；ComSoc官方表读2027 ICC行。只页内已核段落，模板/ONS PDF/论文集内部未读，不声称实际索引。未登录/注册/联系/提交。
+- GLOBECOM Guidelines普通访问超时，浏览器内部错误页又被URL策略阻止读取，未改安全/网络设置、未绕过；篇幅/匿名/费率/场馆未知。ICC2026作者说明混含Workshop注册段，保留各轨道边界；2027仅预告。旧日志三处换行字面量修正为真实换行。
+- 仅四新增届/三新系列、三候选六审核字段；旧112届/94系列、85刊/29样例与其他JSON保护。必要数据/范围/文档/报告/子路径构建与差异审查后上传验收同SHA，剩余规划继续。
+
+- 发布前数据校验、旧112届/94系列与全部其他JSON保持、三候选六字段白名单、116/97/16及192/76/5计数断言通过；HST、接受确认不当注册、未来全部截止未知与普通/Workshop边界通过。265个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建与六资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。

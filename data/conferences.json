@@ -5825,5 +5825,229 @@
         "source": "https://miccai.org/upcoming-conferences/"
       }
     ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "transducers-2027",
+    "series": "International Conference on Solid-State Sensors, Actuators and Microsystems",
+    "year": 2027,
+    "name": "固态传感器、执行器与微系统会议 TRANSDUCERS 2027（联合 EUROSENSORS XXXIX）",
+    "nameEn": "25th International Conference on Solid-State Sensors, Actuators and Microsystems — Transducers 2027 / EUROSENSORS XXXIX",
+    "region": "海外",
+    "location": "瑞典 · 斯德哥尔摩",
+    "venue": "Stockholm Waterfront",
+    "start": "2027-06-20",
+    "end": "2027-06-24",
+    "topics": ["传感与测量", "纳米与超表面", "电子与器件"],
+    "submissionState": "published",
+    "website": "https://www.transducers-eurosensors2027.org/",
+    "notice": "https://www.transducers-eurosensors2027.org/authors/deadlines.html",
+    "registration": "https://www.transducers-eurosensors2027.org/attendees/registration.html",
+    "description": "综合固态传感与MEMS/NEMS会议，本届明确Optical, Photonic, and Atomic Transducers主题；光学/光子传感及光微系统可条件适配，其他机电化学生物主题不自动属于光学。与EUROSENSORS XXXIX联合举办。",
+    "requirements": [
+      "本届Dates要求先提交并上传Abstract PDF，2026-12-08截止且声明不延长；2027-02-18通知，2/23是Author Acceptance Due（接受确认），不是已核会议缴费截止。来源：https://www.transducers-eurosensors2027.org/authors/deadlines.html",
+      "录用后Manuscripts Due为2027-04-13；官方声明所有日期终点23:59HST（Pacific/Honolulu，-10）。初稿/录用后稿件篇幅、模板、评审模式及投稿平台内部未核，不套2025要求。",
+      "本届Attendees/Registration入口实际可打开，但仅标题/导航、没有已发布费率或报名说明；注册开放、早鸟/作者费用与退款仍未知。来源：https://www.transducers-eurosensors2027.org/attendees/registration.html"
+    ],
+    "publication": "当届具体论文集/版权、录用后稿件页数及实际索引未核；网站IEEE页脚/联合身份不能替代出版或单篇检索证据。",
+    "notes": "完整活动6/20–24；City Hall欢迎活动和Vasa Museum晚宴不当主会场。系列名保留Transducers，EUROSENSORS只属本届联合身份，不将两系列永久合并或另造重复母会。2029 announcement只是计划环节，无下一届日城不生成正式届；节目现场时区文字CET与瑞典夏季时区可能有歧义，不据此改已明确摘要HST。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "本届初始摘要PDF截止（官方不延长）",
+        "at": "2026-12-08T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://www.transducers-eurosensors2027.org/authors/deadlines.html"
+      },
+      {
+        "type": "notification",
+        "label": "本届摘要作者通知",
+        "at": "2027-02-18T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://www.transducers-eurosensors2027.org/authors/deadlines.html",
+        "note": "Dates统一声明所有日期终点23:59HST。"
+      },
+      {
+        "type": "camera-ready",
+        "label": "本届录用后 Manuscripts Due",
+        "at": "2027-04-13T23:59:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "source": "https://www.transducers-eurosensors2027.org/authors/deadlines.html",
+        "note": "录用后稿件，不当初始普通全文截止；篇幅与模板待核。"
+      },
+      {
+        "type": "registration",
+        "label": "本届作者注册/费用待公告",
+        "date": null,
+        "source": "https://www.transducers-eurosensors2027.org/attendees/registration.html"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "ieee-globecom-2026",
+    "series": "IEEE Global Communications Conference",
+    "year": 2026,
+    "name": "IEEE 全球通信会议 GLOBECOM 2026（光网络与系统子集）",
+    "nameEn": "IEEE Global Communications Conference 2026",
+    "region": "中国境内",
+    "location": "中国 · 澳门",
+    "venue": "具体场馆待当届官方核实",
+    "start": "2026-12-07",
+    "end": "2026-12-11",
+    "topics": ["光通信"],
+    "submissionState": "published",
+    "website": "https://globecom2026.ieee-globecom.org/",
+    "notice": "https://globecom2026.ieee-globecom.org/authors/call-symposium-papers",
+    "registration": "https://globecom2026.ieee-globecom.org/registration",
+    "description": "IEEE ComSoc综合通信会议；本届Symposia明确Optical Networks and Systems，仅光通信/光网络相关分会子集适配。母会、技术分会、Workshop与Industry轨道分别判断。",
+    "requirements": [
+      "普通Symposia CFP的最终Firm论文截止为2026-05-03，通知8/1；更新后的终稿上传与作者注册均9/8。仅日期级，官网这些段落未给时刻。来源：https://globecom2026.ieee-globecom.org/authors/call-symposium-papers",
+      "Authors通用Workshop更新后投稿8/19、通知10/5、camera-ready10/14，与普通Symposia不同；未逐个Workshop核主题/特殊截止，不能当光学普通稿仍开放。来源：https://globecom2026.ieee-globecom.org/authors",
+      "ONS分会题名与EDAS/CFP入口已核；分会PDF/模板内部和Submission Guidelines未读（常规访问超时），篇幅、匿名评审、录用后页数、注册费率及no-show细则未知，不沿用ICC2026的6/7页和$100。"
+    ],
+    "publication": "本届具体出版与提交IEEE Xplore条件尚未从当届细则核实；ComSoc/IEEE身份不作实际EI/SCIE单篇检索保证。",
+    "notes": "澳门日城同时见本届主页/普通CFP与ComSoc官方表。当前普通投稿已过，Workshop通知/终稿仅适用于已提交/录用稿，不是新普通论文入口。Registration链接已确认，费率/开放未读。Guidelines普通网络超时，保留未知；不借旧届或其他ComSoc会议补规则。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "普通Symposia最终论文截止（Firm，已过）",
+        "date": "2026-05-03",
+        "source": "https://globecom2026.ieee-globecom.org/authors/call-symposium-papers"
+      },
+      {
+        "type": "notification",
+        "label": "普通Symposia录用通知",
+        "date": "2026-08-01",
+        "source": "https://globecom2026.ieee-globecom.org/authors/call-symposium-papers"
+      },
+      {
+        "type": "camera-ready",
+        "label": "普通Symposia更新后终稿上传",
+        "date": "2026-09-08",
+        "source": "https://globecom2026.ieee-globecom.org/authors/call-symposium-papers"
+      },
+      {
+        "type": "registration",
+        "label": "普通Symposia更新后作者注册",
+        "date": "2026-09-08",
+        "source": "https://globecom2026.ieee-globecom.org/authors/call-symposium-papers"
+      },
+      {
+        "type": "paper",
+        "label": "独立Workshop通用延长投稿截止（已过）",
+        "date": "2026-08-19",
+        "source": "https://globecom2026.ieee-globecom.org/authors",
+        "note": "需各Workshop核主题和特定安排，不当光学主会延长。"
+      },
+      {
+        "type": "notification",
+        "label": "独立Workshop通用更新后通知",
+        "date": "2026-10-05",
+        "source": "https://globecom2026.ieee-globecom.org/authors"
+      },
+      {
+        "type": "camera-ready",
+        "label": "独立Workshop通用更新后终稿",
+        "date": "2026-10-14",
+        "source": "https://globecom2026.ieee-globecom.org/authors",
+        "note": "仅已录用Workshop，不是新普通稿截止。"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "ieee-icc-2026",
+    "series": "IEEE International Conference on Communications",
+    "year": 2026,
+    "name": "IEEE 国际通信会议 ICC 2026（历史届次，光网络子集）",
+    "nameEn": "IEEE International Conference on Communications 2026",
+    "region": "海外",
+    "location": "英国 · 苏格兰格拉斯哥",
+    "venue": "Scottish Event Campus（SEC）；CFP另列 Crowne Plaza Hotel",
+    "start": "2026-05-24",
+    "end": "2026-05-28",
+    "topics": ["光通信"],
+    "submissionState": "published",
+    "website": "https://icc2026.ieee-icc.org/",
+    "notice": "https://icc2026.ieee-icc.org/authors/call-symposia-papers",
+    "registration": "https://icc2026.ieee-icc.org/registration",
+    "description": "综合通信会议历史届次，本届明确Optical Networks & Systems分会；光网络/光通信研究条件适配。历史要求用于提前准备，不能自动迁移到2027。",
+    "requirements": [
+      "2026普通技术Symposia含SAC通过EDAS https://edas.info/N33911；最终Firm初稿截止2025-11-10，通知2026-01-19，作者注册与终稿均2/13。只日期级。旧9/29、10/13、10/31是被延长的历史版本，不作新未来提醒。来源：https://icc2026.ieee-icc.org/authors/call-symposia-papers",
+      "初稿英文PDF最多6 printed pages、10pt，超过6页不送审；录用后英文最多6页含图，至多加第7页并收US$100超页费。使用标准IEEE模板，初稿与最终作者名单/题名须与EDAS完全一致，录用后作者名单不能变。模板内部未读，匿名模式未定。",
+      "同CFP作者说明中Workshop Registration段仅适用于accepted workshop paper；另句明确一份Full或Limited Author registration最多覆盖3篇SYMPOSIUM稿。不可将Workshop费率误当主会三稿注册。注册费率/本届注册页未读。",
+      "作者展示或提前获TPC Chair许可的合格替代报告者；未展示可能被移除IEEE Xplore，非退款注册费在最终上传前付。普通实际注册费未知，$100仅第7页超页费。"
+    ],
+    "publication": "CFP声明accepted and presented technical papers拟出版ICC2026 proceedings并提交IEEE Xplore；当届主页公告主会/Workshop论文集已上线，并给IEEE Xplore两个独立入口（11586754/11586035）。本轮只核公告和链接，未打开逐篇数据库结果，不能声称实际EI/SCIE检索。",
+    "notes": "本届CFP明确SEC与Crowne Plaza，Venue页明确SEC地址；主会/Workshop/教程具体分日日程未全面核。部分Symposia/SAC论文仅获邀扩展后快速评审IEEE OJComSoc的可能性，不保证期刊录用。2027Washington DC官方日城另存独立届，不复制本届稿规、注册及出版。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "历史普通Symposia最终初稿截止（Firm）",
+        "date": "2025-11-10",
+        "source": "https://icc2026.ieee-icc.org/authors/call-symposia-papers"
+      },
+      {
+        "type": "notification",
+        "label": "历史普通Symposia录用通知",
+        "date": "2026-01-19",
+        "source": "https://icc2026.ieee-icc.org/authors/call-symposia-papers"
+      },
+      {
+        "type": "registration",
+        "label": "历史录用作者注册截止",
+        "date": "2026-02-13",
+        "source": "https://icc2026.ieee-icc.org/authors/call-symposia-papers"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史普通Symposia终稿截止",
+        "date": "2026-02-13",
+        "source": "https://icc2026.ieee-icc.org/authors/call-symposia-papers"
+      }
+    ]
+  },
+  {
+    "checkedAt": "2026-10-04",
+    "evidence": "official",
+    "id": "ieee-icc-2027",
+    "series": "IEEE International Conference on Communications",
+    "year": 2027,
+    "name": "IEEE 国际通信会议 ICC 2027（未来预告）",
+    "nameEn": "IEEE International Conference on Communications 2027",
+    "region": "海外",
+    "location": "美国 · 华盛顿哥伦比亚特区",
+    "venue": "具体场馆待当届官方公告",
+    "start": "2027-05-30",
+    "end": "2027-06-03",
+    "topics": ["光通信"],
+    "submissionState": "unknown",
+    "website": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history",
+    "notice": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history",
+    "registration": null,
+    "description": "IEEE ComSoc本会官方表已公布Washington, D.C. 2027日城，供错过2026者提前准备。光通信标签依据系列2026 ONS子集条件适配；2027具体主题尚待当届征稿。",
+    "requirements": [
+      "2027日城来自IEEE Communications Society官方ICC行；当届CFP/投稿平台、篇幅/模板、匿名模式、作者注册/费率与主会/Workshop日程均未核。不拷贝2026的6页初稿/7页终稿、$100、EDAS或注册规则。"
+    ],
+    "publication": "2027当届具体出版条件与实际索引未核，2026论文集公告不证明2027单篇收录。",
+    "notes": "仅官方明确的2027-05-30–06-03 Washington, D.C.；不将同缩写IoT/Data/Cloud等其他ICC活动合并本系列。未来日期不是投稿已开放，原届次及其独立规则保留。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2027普通论文截止待当届公告",
+        "date": null,
+        "source": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history"
+      },
+      {
+        "type": "registration",
+        "label": "2027作者注册/费用待当届公告",
+        "date": null,
+        "source": "https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history"
+      }
+    ]
   }
 ]
