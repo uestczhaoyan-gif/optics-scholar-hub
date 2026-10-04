@@ -969,3 +969,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 首轮时区校验发现IISW的旧冬季映射不符当前Intl规则，尚未提交。查BC政府2026公开公告确认全年UTC−07；修正为日期级并保留原PST歧义，没有更改校验器或套美国城市以通过。修正后再完成必要检查。
 
 - 最终数据校验、旧77届/70系列/其他目录保持及双候选六字段白名单/日期级歧义断言通过；186个本地Markdown链接、维护319项（唯一CIOP后续任务）和12主题覆盖通过。85/79/10、72系列/7多届、273167/101/5、分区索引及二十刊样例保持；Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过，完整30项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：PDF 公告巡检 S4
+
+- C17 a0d9e659dc8d2e9931202db190361df72a1224c7已验收[Pages37181016074](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37181016074)：build/deploy及完整CI成功，首页/版本HTTP200，15aec460873e0fd037776d0930272564fcd97c777506fc4d8c1e6385d027561e与本地一致（2026-10-04T05:51:29.380Z）。 长操作前work/S4_RESEARCH_2026-10-04.md保存验收和精确范围，实际8%/周35%允许，未使用重置券。
+- 显式 application/pdf 加 pdf-bytes/文件头验证及5,000,000字节上限；text/image维持2MB、15秒/去重/顺序/失败保留。其余非文本可达检查，不自动发现附件、提取正文、OCR或改写事实，调度保持。[维护边界](MAINTENANCE.md)。
+- 新CLI集成覆盖2,108,834字节有效PDF首次/不变/改变、共享引用去重、方法切换、无效头/5MB超限/403保留最近成功基线；既有普通二进制案例继续保留。31项完整测试、typecheck、lint、数据校验均exit0。
+- 正常TLS授权只读隔离探测ISBI/IISW两实际官方PDF：首次baseline、随后unchanged，ISBI双引用去重；SHA256分别0aed86f4a6cc6bf37fd867f869ca01e8c0c4e88c3e30eb83ad2f4dd771538a14与5a3eec2c273dc594eee9ea352e2592d30d04b9446b54a5d5b69e902fd6739f9f（2026-10-04T05:53:57.817Z/05:53:59.787Z）。work/S4-live-probe保存结果，正式缓存未动。
+
+- 发布前所有目录JSON/每日来源调度字节保持断言、149个本地Markdown链接及当前计数通过；维护319字段任务/唯一CIOP后续任务，12主题覆盖。Pages子路径构建与六入口资源exit0，功能/文档差异审查和git diff --check通过，按同SHA验收完整CI、部署和线上版本后再改正式数据。其他规划继续。

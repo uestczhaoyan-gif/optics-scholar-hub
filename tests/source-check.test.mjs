@@ -160,7 +160,7 @@ test('source checker maps shared sources, orders changes and preserves successfu
     if (url.endsWith('blocked')) return new Response('', { status: 403 });
     if (url.endsWith('missing')) return new Response('', { status: 404 });
     if (url.endsWith('timeout')) throw new DOMException('timeout', 'TimeoutError');
-    if (url.endsWith('pdf')) return new Response('pdf', { headers: { 'content-type': 'application/pdf' } });
+    if (url.endsWith('pdf')) return new Response('binary', { headers: { 'content-type': 'application/octet-stream' } });
     return new Response('<html><title>Conference</title>new notice</html>', { headers: { 'content-type': 'text/html' } });
   };`,
   );

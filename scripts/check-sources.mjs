@@ -40,28 +40,33 @@ for (const url of urls) {
     }
     const contentType = response.headers.get('content-type') || '';
     const isImage = /^image\//i.test(contentType);
-    if (!isImage && !/text\/html|text\/plain/i.test(contentType)) {
+    const isPDF = /^application\/pdf(?:;|$)/i.test(contentType);
+    const isBinary = isImage || isPDF;
+    if (!isBinary && !/text\/html|text\/plain/i.test(contentType)) {
       await response.body?.cancel();
       rows.push({ url, status: 'reachable-nontext' });
       continue;
     }
     const reader = response.body.getReader();
+    const sizeLimit = isPDF ? 5_000_000 : 2_000_000;
     let length = 0;
     const chunks = [];
     while (true) {
       const { done, value } = await reader.read();
       if (done) break;
       length += value.length;
-      if (length > 2_000_000) {
+      if (length > sizeLimit) {
         await reader.cancel();
         throw new Error('size-limit');
       }
       chunks.push(value);
     }
     const bytes = Buffer.concat(chunks);
-    const body = isImage ? '' : bytes.toString('utf8');
+    if (isPDF && bytes.subarray(0, 5).toString('ascii') !== '%PDF-')
+      throw new Error('invalid-pdf-header');
+    const body = isBinary ? '' : bytes.toString('utf8');
     if (
-      !isImage &&
+      !isBinary &&
       /<title[^>]*>[^<]*(just a moment|access denied|captcha)/i.test(body)
     ) {
       rows.push({ url, status: 'access-limited' });
@@ -72,15 +77,15 @@ for (const url of urls) {
       .replace(/<[^>]+>/g, ' ')
       .replace(/\s+/g, ' ')
       .trim();
-    const fingerprint = isImage ? 'image-bytes' : 'text';
+    const fingerprint = isImage ? 'image-bytes' : isPDF ? 'pdf-bytes' : 'text';
     const hash = createHash('sha256')
-      .update(isImage ? bytes : normalized)
+      .update(isBinary ? bytes : normalized)
       .digest('hex');
     // A different comparison method starts a fresh baseline; legacy text caches remain usable.
     const old = previous[url];
     const comparable =
       old &&
-      (old.fingerprint === fingerprint || (!old.fingerprint && !isImage));
+      (old.fingerprint === fingerprint || (!old.fingerprint && !isBinary));
     rows.push({
       url,
       fingerprint,
@@ -116,7 +121,7 @@ const report = [
   `Run: ${new Date().toISOString()}`,
   '',
   'Changes require human review. HTTP 403/429 does not mean a link is dead. Website navigation changes may also alter fingerprints. No catalog data was changed.',
-  'Explicit image sources use byte fingerprints, not image recognition. A changed image may contain layout or metadata changes; its dates and claims still require manual review. Other nontext sources are checked for reachability only.',
+  'Explicit image and PDF sources use byte fingerprints, not image recognition or PDF text extraction. Byte changes may reflect layout or metadata changes; dates and claims still require manual review. PDFs are limited to 5 MB, text/images to 2 MB, with a 15-second timeout. Other nontext sources are checked for reachability only.',
   '',
   '| Status | Comparison | Affected records and fields | Source |',
   '| --- | --- | --- | --- |',

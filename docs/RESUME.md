@@ -11,7 +11,7 @@
 - 候选：273 项，167 admitted、101 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
 - 交叉适配样例已有二十刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)。
-- 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 30 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
+- 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
 ## 恢复时先做
 
@@ -204,3 +204,7 @@ C16新增ISPRS2026历史与2030预告，2029具体日期未知仅线索；当前
 S3将ICCP2027实际公开加载的Home/CFP正文HTML追加到系列sources，现有每日text指纹可以监测已核两页；仅单届notes说明变更，所有学术事实/日期/计数保持。[实测与边界](MAINTENANCE.md)。C16 6839ca0a47cdca5f56e7e047c3f5f8b80551c5ab已验收[Pages37126973432](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37126973432)：build/deploy及完整CI成功，首页/版本HTTP200，685af700e2eeb7c82e774e71a726961fac16b4a5fbdf370a4afb1cbd275817c9与本地一致（2026-10-03T13:42:10.903Z）。 下一批ISBI2027已有实际当届官网线索，须核CFP、光学子集、场馆和EDT跨季节时区歧义；不可凭旧提案准入。继续其他规划，既有五小时任务保持。
 
 C17新增ISBI2027与IISW2027，当前85刊/79会议/10活动、72系列/7多届、273候选167/101/5。[字段证据](CONFERENCE_EVIDENCE_2026-10-04.md)。S3 c8fba752d74bb211feed202fd996030794d88aac已验收[Pages37127257725](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37127257725)：build/deploy及完整CI成功，首页/版本HTTP200，86ed484bf56a6cfebdb4b87b00b889858565d187d85b4ff6f0ab9ec903dba34b与本地一致（2026-10-03T13:47:07.575Z）。 PDF下载调用异常延迟后10/4重新核实际额度0%/周33%允许及干净GitHub状态，继续工作。下一步补PDF公告变化信号（现仅可达性）、国内光子学2025/26时间线与其他待核候选；不重复系列功能，已有五小时任务保持，其他规划未完成。
+
+## 2026-10-04：PDF 公告变化巡检 S4
+
+C17 a0d9e659dc8d2e9931202db190361df72a1224c7已验收[Pages37181016074](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37181016074)：build/deploy及完整CI成功，首页/版本HTTP200，15aec460873e0fd037776d0930272564fcd97c777506fc4d8c1e6385d027561e与本地一致（2026-10-04T05:51:29.380Z）。 S4 为显式 PDF 增加字节变化信号及文件头验证；PDF 5MB，文字/图片仍 2MB/15秒，失败保留基线。[维护边界](MAINTENANCE.md)。31项测试、typecheck/lint/数据校验及真实两官方PDF隔离 baseline/unchanged 已通过；只监测变化，不提取或自动发布事实。所有目录 JSON、数量和既有调度保持。下一批国内光子学2025/2026同系列往届核验，先确认当届日期/场馆，不推算2027，不将2025 SPIE路径迁入2026。其他规划继续，额度允许，不用重置券。

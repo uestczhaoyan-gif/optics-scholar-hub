@@ -529,3 +529,7 @@ S3将ICCP2027实际公开加载的Home/CFP正文HTML追加到系列sources，现
 ## C17：生医成像与图像传感器（2026-10-04）
 
 C17新增ISBI2027与IISW2027，当前85刊/79会议/10活动、72系列/7多届、273候选167/101/5。[字段证据](CONFERENCE_EVIDENCE_2026-10-04.md)。S3 c8fba752d74bb211feed202fd996030794d88aac已验收[Pages37127257725](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37127257725)：build/deploy及完整CI成功，首页/版本HTTP200，86ed484bf56a6cfebdb4b87b00b889858565d187d85b4ff6f0ab9ec903dba34b与本地一致（2026-10-03T13:47:07.575Z）。 PDF下载调用异常延迟后10/4重新核实际额度0%/周33%允许及干净GitHub状态，继续工作。下一步补PDF公告变化信号（现仅可达性）、国内光子学2025/26时间线与其他待核候选；不重复系列功能，已有五小时任务保持，其他规划未完成。
+
+## S4：PDF 公告变化信号（2026-10-04）
+
+C17 a0d9e659dc8d2e9931202db190361df72a1224c7已验收[Pages37181016074](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37181016074)：build/deploy及完整CI成功，首页/版本HTTP200，15aec460873e0fd037776d0930272564fcd97c777506fc4d8c1e6385d027561e与本地一致（2026-10-04T05:51:29.380Z）。 显式官方 PDF 已接入每日来源字节巡检，ISBI/IISW真实文件 baseline/unchanged，31项测试通过；字节信号仍需人工渲染和逐字段核验。[范围与限制](MAINTENANCE.md)。目录85/79/10、72系列/7多届、273候选167/101/5保持。后续国内光子学2025/2026时间线、其余候选/指南/论文样例/索引分区继续；未知后届日期不推算，既有五小时任务保持。

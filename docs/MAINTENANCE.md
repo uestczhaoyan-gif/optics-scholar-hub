@@ -18,7 +18,7 @@
 - `baseline`：首次成功抓取或缓存丢失，仅建立比较基线。
 - `access-limited`：401/403/429 或可识别的验证页，不据此删除链接。
 - `http-error` / `timeout` / `fetch-error`：记录异常，人工检查；失败不会覆盖上一次成功指纹。
-- `reachable-nontext`：文件可访问，未做文本指纹比较。
+- `reachable-nontext`：其他非文本文件可访问，未做内容指纹比较；显式图片和 PDF 使用下面的字节指纹。
 - 维护队列与网络报告互相独立；P3 分区待复核不表示现有记录错误。即使自动访问成功，也不能认定分区或日期已人工核实。
 
 未知日期保留 `null`；“3 月初”等宽泛日期写在 label/note 中，不补造某天。Demo、PDP、普通稿、录用通知、终稿和注册必须分开。存在未来截止日期不代表系统已经开放，显式关闭的投稿不会显示倒计时。
@@ -51,7 +51,7 @@ The daily source workflow includes series announcement sources. Ended series wit
 
 ## 公告图片巡检
 
-目录中明确保存为官网/通知/系列sources的image/*来源支持image-bytes指纹；普通文本仍用text指纹，其他非文本保持reachable-nontext。报告新增Comparison列。不会自动发现或下载HTML中的所有图片，也不会OCR/解析或自动改写会议事实。图片字节变化可能来自版式/压缩/元数据，须人工目视对应官方公告再逐字段编辑。
+目录中明确保存为官网/通知/系列sources的image/*来源支持image-bytes指纹；普通文本仍用text指纹；PDF见下节，其余非文本保持reachable-nontext。报告新增Comparison列。不会自动发现或下载HTML中的所有图片，也不会OCR/解析或自动改写会议事实。图片字节变化可能来自版式/压缩/元数据，须人工目视对应官方公告再逐字段编辑。
 
 同URL去重，访问仍顺序、15秒超时及2MB上限；失败、受限或超限不覆盖上次成功基线。文本旧缓存可继续比较，比较方法切换建立新baseline。只有显式追踪来源的变化可产生信号，不能声称覆盖整站所有图像。IMID已列入2026官方感谢信引用的图像，用于跟踪后续更新，保留其2027字段原始出处。
 
@@ -62,3 +62,13 @@ The daily source workflow includes series announcement sources. Ended series wit
 ICCP2027已保存[Home正文](https://iccp2027.iccp-conference.org/pages/home.html)与[CFP正文](https://iccp2027.iccp-conference.org/pages/callforpapers.html)。来源取自已渲染页面的资源清单；删除请求时间戳前后实际HTTP200且正文逐字节一致。现有text指纹即可检查两页，无新调度或抓取执行器。隔离实测baseline/unchanged及同URL多引用通过，正式缓存未改。
 
 Explicit, reviewed public HTML endpoints can monitor dynamically loaded text with the existing source checker. A wrapper page alone does not cover its loaded content. Only ICCP's observed Home and CFP endpoints were added; changes remain manual-review signals, not automatic catalog edits.
+
+## PDF 公告巡检
+
+明确保存到目录来源的 application/pdf 响应现在使用 pdf-bytes SHA256；必须具有 %PDF- 文件头。首次成功与比较方法切换建立 baseline，之后报告 unchanged/changed。同 URL 去重并保留全部字段引用，失败、受限、无效 PDF 或超限保留上次成功基线。其他 MIME 即使文件名以 .pdf 结尾，也仅检查可达性。
+
+PDF 上限为 5,000,000 字节，文字/图片仍为 2,000,000 字节，均沿用 15 秒超时与顺序访问。只检查显式来源，不自动爬取页面中的附件。ISBI2027 的实际 2,108,834 字节 CFP 与 IISW2027 约 1.2MB CFP 已隔离实测 baseline/unchanged；ISBI 的两处引用只请求一次，正式巡检缓存未动。超限只表示本次未比较，不能据此断定链接失效。
+
+字节变化可能来自排版、元数据或隐藏文字层，不能直接当日期变化。巡检不提取 PDF 正文、不 OCR、不改写学术事实；维护者仍需渲染并目视当届官方文件，逐字段保存出处，校验、推送并按 SHA 验收部署。
+
+Explicit application/pdf sources with a valid PDF header use pdf-bytes SHA256. PDF downloads are capped at 5MB; text and images retain 2MB, with the same 15-second timeout. A byte change is a manual-review signal. Invalid, oversized or failed responses retain the last successful baseline; no PDF text extraction or automatic fact edits occur.
