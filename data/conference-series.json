@@ -169,9 +169,12 @@
     "website": "https://meeting.cncos.org.cn/pa2026/",
     "sources": [
       "https://meeting.cncos.org.cn/pa2026/",
-      "https://cncos.org.cn/Content/view/id/2051.html"
+      "https://cncos.org.cn/Content/view/id/2051.html",
+      "https://meeting.cncos.org.cn/pa2026/doc/right.html",
+      "https://meeting.cncos.org.cn/pa2026/doc/reg_fee_table.png",
+      "https://www.cncos.org.cn/Content/view/id/2070.html"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-04"
   },
   {
     "id": "series-c24fd6043a31",
@@ -889,5 +892,18 @@
       "https://www.opt.ac.cn/gb2019/hzjl/hzjl_hzjl/202609/t20260904_8278441.html"
     ],
     "nextEditionCheckedAt": "2026-10-04"
+  },
+  {
+    "id": "series-851e86810591",
+    "name": "全国基础光学与光物理学术讨论会",
+    "aliases": ["Fundamental Optics and Optical Physics"],
+    "editionIds": ["foop-2025"],
+    "website": "https://www.ydioe.pku.edu.cn/info/1011/2685.htm",
+    "sources": [
+      "https://www.ydioe.pku.edu.cn/info/1011/2685.htm",
+      "https://www.cncos.org.cn/Content/view/id/2000.html",
+      "https://www.foop2025.canevent.com/"
+    ],
+    "nextEditionCheckedAt": null
   }
 ]

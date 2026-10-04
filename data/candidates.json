@@ -51,12 +51,12 @@
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "基础光学、量子、非线性",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.ydioe.pku.edu.cn/info/1011/2685.htm",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["foop-2025"],
+    "decisionReason": "主办方当届第一轮通知和学会举办报道独立确认2025日期、场馆、23届身份及六个光学方向，收录历史交流会议；出版/投稿细则仍未知。",
+    "nextAction": "原会议站证书过期未绕过；从主办方继续查完整征稿及下届公告，未成功确认后续故系列日期null。旧检索结果日期和可疑33届PDF不作正式字段。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-8d8d18e458",
@@ -517,8 +517,8 @@
     "reviewStatus": "admitted",
     "relatedExistingIds": ["photonics-asia-2026"],
     "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "nextAction": "已补2026全文10/7、海报PDF9/30、参会费/报告与退款边界；2027官方拟10月3天，具体日期/城市未知，等待当届公告，不能把8/26承办申请截止当作者截止。",
+    "reviewedAt": "2026-10-04"
   },
   {
     "candidateId": "conference-series-557e6200af",
