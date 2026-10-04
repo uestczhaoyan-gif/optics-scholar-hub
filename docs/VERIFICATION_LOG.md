@@ -1166,3 +1166,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - APR自动Web open内部错误；普通浏览器最初安全检查自行完成，未点击验证/CAPTCHA或改变安全设置；随后三原页正常可读。数值聚焦不当实验隔离器、PINN不当实制激光器；APR两综述不当原创实验。必要验证/差异审查/构建后上传并按同SHA验收，其他规划继续。
 
 - 发布前数据校验、仅两scopeExamples/83其他刊与旧31刊样例/其他JSON保持、33刊样例计数和近两年不同论文、日期标签/数值及综述边界断言通过；222个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建及六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。正式编辑前实际五小时85%/周62%允许，剩余规划继续。
+
+## 2026-10-04：Chemical Reviews三篇综述 E30
+
+- E29 5e95fb7ffb508e365c3eca378551bdf8b0f6bdee已验收[Pages37212635676](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37212635676)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，180cf9a0dc8adb76236d6ecebf2c597e37b910483f721553b943c525dbc97712与本地一致（2026-10-04T15:22:23.748Z）。正式编辑前已验收；work/E30_RESEARCH_2026-10-04.md长操作前保存范围与来源，实际五小时87%/周63%允许，不用重置券。
+- Chemical Reviews补三篇近两年不同期次光学综述样例：仿生结构色、光学胶体组装、生物正交光成像治疗。三篇均Review，仍按邀稿/获批提案路径，不当原创实验或临床证据；首次在线与2025/2026较晚卷期分开。仅一scopeExamples，84其他刊/旧33刊样例及整刊日期、指南费用/索引分区与其他JSON保持，34刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届与194/74/5保持，其他规划继续。 三原页普通浏览器读刊名/Review/题名/公开摘要并点击Article history核两出版日，未通读全文/SI或下载/购买，未登录/联系/提交。Web自动403，普通浏览器自动安全加载自行完成，未点击验证或绕过。
+- 近两年且不同期次，12月2025首次的胶体组装2026卷期不逆改发表日。必要数据/范围/文档/报告/子路径构建及差异审查后上传，按同SHA验收，剩余规划开放。
+
+- 发布前数据校验、仅一scopeExamples/84其他刊与旧33样例及其他JSON保持、34刊计数/近两年三不同论文与Review/首次日/非临床边界断言通过；225个本地Markdown链接、维护392项/12主题覆盖通过。Pages子路径构建六资源exit0、差异审查/git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。

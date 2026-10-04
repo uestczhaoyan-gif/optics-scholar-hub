@@ -103,3 +103,15 @@ AdvancedMaterials检索中的adma.70849是封面说明而非原创论文；adma.
 | APR：[Integrated photonic devices in thin-film barium titanate: Opportunities and challenges](https://doi.org/10.1063/5.0325359) | 2026-09-08，13(3)031330；刊月September2026 | Review Article，BTO薄膜与集成器件综述；本征/有效EO响应分开，非本文新器件实验 |
 
 CPL网页更早Early Access日期未知，不从卷期月第一天倒推；这里日期均来自实际展开的标签。APR同时发表原创和综述，本批明确两路径。只新增两scopeExamples，83其他刊/旧31样例以及整刊日期、索引分区/指南和所有其他JSON保持；31→33刊至少三篇。
+
+## E30：Chemical Reviews三条综述路径（2026-10-04）
+
+普通浏览器实际打开三ACS原页、读Review/刊名/题名/公开摘要并正常点击Article history，Published Online与Published in Issue分开。Web自动403不代表原页已核，核验依据为实际可读公开原页；仅元数据/摘要范围，没有读取收费全文/SI、下载PDF或注册购买。
+
+| 原题与DOI | 首次在线 / 较晚卷期 | 适配与边界 |
+| --- | --- | --- |
+| [Bioinspired Multifunctional and Dynamic Color-Tuning Photonic Devices](https://doi.org/10.1021/acs.chemrev.4c00844) | 2025-06-09 / 125(12)5626–5673，2025-06-25 | Review，仿生微纳结构色、动态调色与感知/显示的结构–功能综述，非本文原创器件实验 |
+| [Optical Colloidal Assembly](https://doi.org/10.1021/acs.chemrev.5c00644) | 2025-12-09 / 126(1)448–499，2026-01-14 | Review，光操控胶体排列与粒间固定两步骤，光物理/化学组装适配；非新实验，首次不是2026 |
+| [Bioorthogonal Molecular Turn-On Optical Imaging and Therapy](https://doi.org/10.1021/acs.chemrev.5c00825) | 2026-01-07 / 126(2)1792–1826，2026-01-28 | Review，BioTOP反应激活光信号与预靶向策略综述；非本文新临床疗效证据，不据综述提供治疗建议 |
+
+三篇都在2024-10-04至2026-10-04内且三不同期次。遵守本刊既有邀稿/提案批准要求，综述范围不当普通原创稿准入或录用保证。仅一scopeExamples，84其他刊/旧33样例、指南费用/整刊日期/索引分区和其他JSON保持；33→34刊至少三篇。

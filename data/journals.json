@@ -3181,7 +3181,27 @@
       "提案和邀稿综述提交时均须推荐至少 5 位领域审稿人；提案批准或邀稿不等于全文录用，全文仍经同行评审。",
       "Focus Review 最多 20 个正式出版页，官网折算约 60 个双倍行距投稿页（含图表、参考文献）；同样须邀稿或先获提案批准。普通综述不套用该上限。"
     ],
-    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。",
+    "scopeExamples": [
+      {
+        "title": "Bioinspired Multifunctional and Dynamic Color-Tuning Photonic Devices",
+        "publishedAt": "2025-06-09",
+        "source": "https://doi.org/10.1021/acs.chemrev.4c00844",
+        "relevance": "2026-10-04核ACS原页Review/公开摘要/出版历史，首次在线2025-06-09；125(12)5626–5673刊期2025-06-25。综述仿生微纳结构色、动态调色材料与感知/显示应用，支持光子结构与材料化学综述适配；不是本文新增器件实验，仍须邀稿或先批准提案。"
+      },
+      {
+        "title": "Optical Colloidal Assembly",
+        "publishedAt": "2025-12-09",
+        "source": "https://doi.org/10.1021/acs.chemrev.5c00644",
+        "relevance": "2026-10-04核ACS原页Review/公开摘要/出版历史，首次在线2025-12-09；126(1)448–499刊期2026-01-14，不将2026卷期倒当首次发表。综述光物理/光化学操控胶体排列及光触发粒间固定，支持光镊/光聚合与微纳组装综述；不是本文新实验或普通原创稿路径，须邀稿或先批准提案。"
+      },
+      {
+        "title": "Bioorthogonal Molecular Turn-On Optical Imaging and Therapy",
+        "publishedAt": "2026-01-07",
+        "source": "https://doi.org/10.1021/acs.chemrev.5c00825",
+        "relevance": "2026-10-04核ACS原页Review/公开摘要/出版历史，首次在线2026-01-07；126(2)1792–1826刊期2026-01-28。综述生物正交反应激活光学探针、预靶向成像与治疗设计，支持化学生物光学综述适配；不是本文新临床疗效或医学建议，仍须邀稿或先批准提案。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

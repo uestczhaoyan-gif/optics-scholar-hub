@@ -10,7 +10,7 @@
 - 正式目录：85 本期刊、118 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：273 项，194 admitted、74 pending、5 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 68/85、中科院 11/85；SCIE 肯定记录 72、ESCI 11、EI 78。78 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 72 本 SCIE 与 11 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)及 [APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)。
-- 交叉适配样例已有三十三刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E29 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
+- 交叉适配样例已有三十四刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
 ## 恢复时先做
@@ -306,3 +306,7 @@ E28 0b3b74e3354b582c3aa2a5b5b72d63f77e88242d已验收[Pages37211078034](https://
 ## 2026-10-04：CPL / APR样例 E29
 
 C28 54280b926e6778fa0feec7a5206e67d99bc48b07已验收[Pages37212173896](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37212173896)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，7bb7f16712db46f2894c7d98233938c15f1443b9f4fd93e21db15226e90f61da与本地一致（2026-10-04T15:14:08.773Z）。 Chinese Physics Letters / Applied Physics Reviews各补三篇近两年不同期次光学样例；CPL实验卷积/数值超表面/孤子求解及APR原创深紫外成像/两篇综述路径分开。CPL仅明确Published Date，不称已独立核Early Access；APR首次页头发表与较晚刊月分开。仅两scopeExamples，83其他刊/旧31刊样例、排名索引/指南及整刊日期保持，33刊至少三篇。[逐篇字段与范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届与194/74/5保持，其他规划继续。
+
+## 2026-10-04：Chemical Reviews综述样例 E30
+
+E29 5e95fb7ffb508e365c3eca378551bdf8b0f6bdee已验收[Pages37212635676](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37212635676)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，180cf9a0dc8adb76236d6ecebf2c597e37b910483f721553b943c525dbc97712与本地一致（2026-10-04T15:22:23.748Z）。 Chemical Reviews补三篇近两年不同期次光学综述样例：仿生结构色、光学胶体组装、生物正交光成像治疗。三篇均Review，仍按邀稿/获批提案路径，不当原创实验或临床证据；首次在线与2025/2026较晚卷期分开。仅一scopeExamples，84其他刊/旧33刊样例及整刊日期、指南费用/索引分区与其他JSON保持，34刊至少三篇。[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。85/118/10、98系列17多届与194/74/5保持，其他规划继续。
