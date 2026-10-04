@@ -1074,3 +1074,5 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 必要数据/字段白名单/文档/报告/构建和差异审查后上传，同SHA验收CI/部署/线上版本；尚未完成的规划在续接中保留。
 
 - 发布前数据校验、只两字段/原范围/其他84刊及全部其他JSON保持与25刊样例计数断言通过；189个本地Markdown链接、维护369项和12主题覆盖通过。Pages子路径构建及六入口资源exit0、差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。最新实际五小时97%/周48%仍允许，优先完成本批上传验收并保存续接，不开启超出余额的新长批次。
+
+- E23 a5e2fc2c38ff7412fe7a5ca680c020787244e197已验收[Pages37187612957](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37187612957)：build/deploy及完整CI成功，首页/版本HTTP200，fce85f64fa7ddd533d6a658c68153f3937ccb3c37b02a91516816a6c903368a8与本地一致（2026-10-04T08:03:36.912Z）。最新实际五小时99%/周49%、ordinaryUsageAllowed=true，余额不足以可靠完成新批次，结束本轮；不是系统已拒绝使用。保护已上传成果，既有五小时调度重新检查，不用重置券/购买额度/恢复旧任务。此次只保存交接文档，目录摘要保持；交接提交也按自身SHA验收部署。
