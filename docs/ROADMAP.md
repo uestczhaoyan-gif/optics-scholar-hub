@@ -62,7 +62,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 4 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 85 journals, 79 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 4 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 85 journals, 85 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 68 journals and CAS records for 11. SCIE has 72 and EI has 78 positive records. 78 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Seventy-two SCIE records have current Clarivate MJL search-result evidence; eleven ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -545,3 +545,7 @@ C18 6a92ed20a3efd9cf19fccc1df10faa7c85ba4ede已验收[Pages37181983389](https://
 ## C20：量子/AMO未来预告（2026-10-04）
 
 C19 f146b13209e44c8ef0b5d0ee286c081f33ed32b2已验收[Pages37182355400](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37182355400)：build/deploy及完整CI成功，首页/版本HTTP200，1598180e6f0d645ba2c50a6499f3687e8f1461b17f843ce18789ec7659f988ba与本地一致（2026-10-04T06:20:08.621Z）。三当届官方2027预告独立入选；QIP偏理论、GPS光学子集为推断、DAMOP征稿未知，[字段证据](CONFERENCE_EVIDENCE_2026-10-04.md)。85/85/10、77系列/8多届、273172/96/5，维护329项。期刊指南/交叉样例、器件材料候选和分区索引仍开放；现有每日变化巡检/五小时额度任务保持，不推算后续届次。
+
+## E19：两本传感作者准备（2026-10-04）
+
+C20 5c0fc68746a0ece6dbd2b0c9b30355e5f345365e已验收[Pages37183109619](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183109619)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，659556a381f6e90c3f913d752268392157ff2af3f592812c831f309b60fb1026与本地一致（2026-10-04T06:34:16.279Z）。 两刊以前受限完整指南现正常浏览器可读；分别核稿型/篇幅、综述、Highlights、数据/文件和当刊APC，[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。只指定字段，核验范围不扩为整刊重核。数量与其他规划保持，下一批补其余交叉期刊光学论文样例。

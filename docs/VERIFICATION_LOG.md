@@ -1002,3 +1002,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 旧82届/74系列及其他JSON保持，三候选仅六审核字段；必要数据/范围/文档/报告/构建及差异审查后推送验收同SHA，其他规划继续，未登录、投稿、邮件或支付。
 
 - 发布前数据校验、旧82届/74系列及其他JSON保持/三候选六字段白名单与当前计数断言通过；174个本地Markdown链接、维护329项/后续两项及12主题覆盖通过。85/85/10、77系列/8多届、273172/96/5、分区索引及二十刊样例保持。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint等由同SHA CI验收。
+
+## 2026-10-04：生化传感指南与费用 E19
+
+- C20 5c0fc68746a0ece6dbd2b0c9b30355e5f345365e已验收[Pages37183109619](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183109619)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，659556a381f6e90c3f913d752268392157ff2af3f592812c831f309b60fb1026与本地一致（2026-10-04T06:34:16.279Z）。 长操作前work/E19_RESEARCH_2026-10-04.md保存验收与精确范围。
+- 自动请求403但普通浏览器同URL成功，逐刊实际读稿型、文件/摘要/关键词/Highlights、评审、数据/补充及所链费用页，[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。两刊综述/Highlights区别、Option B鼓励共享与强制声明、APC/订阅边界分开，不登录/提交/付款。
+- 只两requirements/publishing，原范围/其他字段及其他83刊与所有其他JSON保持；必要数据/范围/文档/报告/构建及差异审查后推送验收同SHA，其他规划继续，未用重置券。
+
+- 发布前数据校验、两刊仅requirements/publishing/原范围保留及其他83刊/全部其他JSON保持断言通过；159个本地Markdown链接、维护329项/后续两项、12主题覆盖与当前计数通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

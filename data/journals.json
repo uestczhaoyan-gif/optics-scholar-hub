@@ -3932,9 +3932,12 @@
     "guide": "https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/guide-for-authors",
     "requirements": [
       "说明生物材料、生物衍生材料或仿生识别元件与换能系统的结合；投稿时区分本刊与独立伴生期刊 Biosensors and Bioelectronics: X。",
-      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+      "2026-10-04本刊作者指南部分核验：普通Full paper约5000词、最多6图表；Short Communication约3000词、最多3图表。Review约8000–10000词；非邀约作者先用官方提案模板向系统提交短提案，经编辑批准并邀请后再交全文，仍须常规同行评审。",
+      "摘要≤250词，英文关键词1–7个。建议提供Highlights：另交可编辑文件，3–5条，每条最多85字符含空格；本刊措辞为encouraged，非强制。",
+      "通过当前官网所链 https://submit.elsevier.com/BIOSBE 提交；提供可编辑.doc/.docx或.tex源文件，Word单栏，LaTeX可双栏；PDF不是可编辑源文件，系统生成评审PDF。补充材料随主稿提交、文中引用并附说明，返修阶段方可增加/替换。",
+      "单盲评审，通常至少两位评审人。初投必须说明数据可用性；本刊Option B鼓励仓库存储并引用/链接数据，不可共享时说明原因，不能把鼓励公开写成全部强制。具体适用稿型和声明见 https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/guide-for-authors 。"
     ],
-    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；OA APC USD 5440（不含税），适用全部稿型，机构/基金或个人条件可影响实际报价。订阅路径无OA出版费，不代表所有潜在收费均为零。OA当前列CC BY、CC BY-NC和CC BY-NC-ND，作者保留版权；选择出版方式不影响评审/录用。来源 https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/open-access-options 。"
   },
   {
     "checkedAt": "2026-09-11",
@@ -3987,9 +3990,12 @@
     "guide": "https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/guide-for-authors",
     "requirements": [
       "要求实验结果及有挑战性的复杂样品验证，报告并比较分析性能；不接收缺少化学检测成分的纯折射率、温度或压力传感研究。综述仅接受编辑邀请。",
-      "本轮已核对出版社公开范围说明；完整作者指南自动读取受限，具体篇幅、文件和收费细则仍需在官网确认。"
+      "2026-10-04本刊作者指南部分核验：普通Full-length paper一般不超过6000词或8个期刊页，含图表不含参考文献；Short Communication不超过2000词或4个印刷页，最终长度由编辑决定。Review/Perspective仅编辑邀请，附信写邀请编辑姓名，建议8000/4000词，未经许可不审。",
+      "摘要≤250词，英文关键词1–7个。必须提供Highlights：另交可编辑文件，3–5条，每条最多85字符含空格，不把另一刊的encouraged套为本刊选项。",
+      "通过当前官网所链 https://submit.elsevier.com/SNB 提交；提供可编辑.doc/.docx或.tex源文件，Word单栏，LaTeX可双栏；PDF不是可编辑源文件，系统生成评审PDF。补充材料随主稿提交、文中引用并附说明，返修阶段方可增加/替换。",
+      "单盲评审，通常至少两位评审人。初投必须说明数据可用性；本刊Option B鼓励仓库存储并引用/链接数据，不可共享时说明原因，不能把鼓励公开写成全部强制。具体适用稿型和声明见 https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/guide-for-authors 。"
     ],
-    "publishing": "出版选择、APC、订阅发表费用及机构协议按本刊最新作者指南和收费说明核实。"
+    "publishing": "2026-10-04本刊官方OA页：可选择订阅或Gold OA；OA APC USD 4890（不含税），适用全部稿型，机构/基金或个人条件可影响实际报价。订阅路径无OA出版费，不代表所有潜在收费均为零。OA当前列CC BY、CC BY-NC和CC BY-NC-ND，作者保留版权；选择出版方式不影响评审/录用。来源 https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/open-access-options 。"
   },
   {
     "checkedAt": "2026-09-11",

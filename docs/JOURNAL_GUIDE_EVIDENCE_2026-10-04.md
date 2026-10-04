@@ -1,0 +1,17 @@
+# 期刊作者指南逐字段核验：2026-10-04
+
+## E19：两本生物/化学传感期刊
+
+自动正文请求两刊均403，正常浏览器访问同一URL成功。核验当日页面正文中稿型、评审、文件/摘要/关键词/Highlights、补充信息、Research data/Data statement、Submit online及所链OA页费表。未绕过登录/安全警告，模板仅核入口，未提交提案或上传稿件。
+
+| 字段                              | 官方来源/实际范围                                                                                                                | 保存结论与边界                                                                                                                                                                                                                               |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Biosensors and Bioelectronics稿型 | [当刊指南](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/guide-for-authors)Article types           | Full约5000词/最多6图表，Short约3000/3，Review约8000–10000。非邀约综述先用[提案模板入口](https://legacyfileshare.elsevier.com/promis_misc/BBReviewProposalform.odt)向系统交短提案，批准并获邀请后再交全文。约数不当统一硬上限；模板内部未读。 |
+| Sensors and Actuators B稿型/范围  | [当刊指南](https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/guide-for-authors)Article types/Aims   | Full一般≤6000词或8页，含图表不含参考文献；Short≤2000词或4印刷页，编辑决定。Review/Perspective仅邀请，附信写邀请编辑，建议8000/4000词；既有实验/复杂样品及非纯物理传感边界保留。                                                              |
+| 两刊摘要/文件/评审                | 两当刊指南独立核对Writing and formatting、Peer review、Submit online                                                             | 摘要≤250词/英文关键词1–7；单盲通常≥2评审。可编辑doc/docx/tex，Word单栏/LaTeX可双栏；PDF非源文件，系统生成评审PDF。官网入口分别[BIOSBE](https://submit.elsevier.com/BIOSBE)/[SNB](https://submit.elsevier.com/SNB)，未登录。                  |
+| Highlights差异                    | 各刊Highlights段                                                                                                                 | 均单独可编辑文件3–5条，每条≤85字符含空格；BIOSBE鼓励，SNB必需。分别保存不套通用规则。                                                                                                                                                        |
+| 数据/补充                         | 两当刊Research data、Data statement、Supplementary material                                                                      | 两刊各自Option B鼓励仓库共享/引用链接，但初投数据可用性声明必需；不宜共享说明原因。补充随稿交、文中引用/附说明，返修才增加替换。不把鼓励公开变强制全数据开放。                                                                               |
+| BIOSBE收费                        | [当刊OA页](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/open-access-options)实际费表/模式/许可    | Gold OA USD5440不含税，全部稿型；订阅路径无OA出版费。三许可CC BY/CC BY-NC/CC BY-NC-ND、作者保留版权，实际个别报价/机构协议另核，未购买。                                                                                                     |
+| SNB收费                           | [当刊OA页](https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/open-access-options)实际费表/模式/许可 | Gold OA USD4890不含税，全部稿型；订阅路径无OA出版费、相同三许可，出版选择不影响评审。未将无OA费解释为一切免费。                                                                                                                              |
+
+仅两刊requirements/publishing更新，删除已失效的“完整指南不可读”说明；原研究范围条保持。整刊checkedAt、索引/分区/样例与其他83刊及所有其他JSON保持；未声称全指南所有条款/模板/APC减免已核。正式85刊/85会议/10活动、273候选172/96/5、二十刊至少三篇样例不变。

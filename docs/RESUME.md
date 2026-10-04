@@ -220,3 +220,7 @@ C18 6a92ed20a3efd9cf19fccc1df10faa7c85ba4ede已验收[Pages37181983389](https://
 ## 2026-10-04：量子与AMO未来准备 C20
 
 C19 f146b13209e44c8ef0b5d0ee286c081f33ed32b2已验收[Pages37182355400](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37182355400)：build/deploy及完整CI成功，首页/版本HTTP200，1598180e6f0d645ba2c50a6499f3687e8f1461b17f843ce18789ec7659f988ba与本地一致（2026-10-04T06:20:08.621Z）。新增QIP/DAMOP/GPS 2027与三个稳定系列，[逐字段范围](CONFERENCE_EVIDENCE_2026-10-04.md)。QIP登记前提/独立海报与IAQI终年错误、APS日期时区未知和会员不同页面边界均保留。当前85/85/10、77系列/8多届、273172/96/5，维护329项。下一批回期刊指南/交叉样例及器件材料候选，其他规划未完成；实际五小时31%/周38%允许，未用重置券。
+
+## 2026-10-04：生化传感作者指南 E19
+
+C20 5c0fc68746a0ece6dbd2b0c9b30355e5f345365e已验收[Pages37183109619](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183109619)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，659556a381f6e90c3f913d752268392157ff2af3f592812c831f309b60fb1026与本地一致（2026-10-04T06:34:16.279Z）。 BIOSBE/SNB当前指南普通浏览器读取成功，补稿型篇幅、综述提案/仅邀请区别、Highlights鼓励/必需、数据可用性和源文件；APC分别USD5440/4890不含税，订阅无OA费不等于全免费，[逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md)。仅两刊requirements/publishing，整刊日期与其他目录保持。当前85/85/10、77系列/8多届、273172/96/5保持；继续交叉论文样例、其余候选与索引分区。
