@@ -1010,3 +1010,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 只两requirements/publishing，原范围/其他字段及其他83刊与所有其他JSON保持；必要数据/范围/文档/报告/构建及差异审查后推送验收同SHA，其他规划继续，未用重置券。
 
 - 发布前数据校验、两刊仅requirements/publishing/原范围保留及其他83刊/全部其他JSON保持断言通过；159个本地Markdown链接、维护329项/后续两项、12主题覆盖与当前计数通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-04：交叉六篇样例 E20
+
+- E19 631927d8e1e4fb0bf0cd43d0fc0ce344a4757bfe已验收[Pages37183364095](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37183364095)：build/deploy及完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，9f52fa463c37ad08fc9b179819a8404f79fa9eacba11a98137a5719628794601与本地一致（2026-10-04T06:38:59.741Z）。 长操作前work/E20_RESEARCH_2026-10-04.md保存允许额度39%/周39%、来源访问及待验收记录，正式编辑前补成功凭据。
+- 六出版社实际浏览器页头/摘要均读，[逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。ACS DOI实际重定向公开摘要，Science自动验证自行完成，无挑战解题/登录/付费绕过；题名/日期与期次/光学实验范围独立记录。
+- 只两scopeExamples，其他83刊及旧20刊样例和全部其他JSON保持，22刊至少三篇。必要验证/范围/文档/报告/构建/差异审查后上传验收同SHA，未用重置券，其他规划继续。
+
+- 发布前数据校验、两scopeExamples字段/全部其他学术数据保持与22刊样例计数断言通过；162个本地Markdown链接、维护329项/后续两项和12主题覆盖通过。Pages子路径构建/六入口资源exit0，差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

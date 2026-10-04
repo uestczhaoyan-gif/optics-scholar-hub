@@ -3201,7 +3201,27 @@
       "Supporting Information 须与主稿同时提交；区分 For Publication 与 For Review Only。发表用文件说明写具体内容及文件扩展名，放在致谢和参考文献前；未发表/在印参考文献副本列为仅供审稿文件。",
       "本刊明确采用 ACS Research Data Policy Level 1：鼓励公开支撑结果的数据、优先存公共仓库并提供数据可用性声明；公开数据集应正确引用，不把鼓励解释为所有数据必须公开。"
     ],
-    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。"
+    "publishing": "出版与开放获取选择、APC 及机构协议请查 ACS 当期说明；不按期刊声誉或分区推断费用。",
+    "scopeExamples": [
+      {
+        "title": "High-Electron-Mobility MXene-Enhanced Metasurface Biosensors Integrated with Microfluidics for Real-Time Multifunctional Monitoring",
+        "source": "https://doi.org/10.1021/acsnano.4c17289",
+        "publishedAt": "2025-03-24",
+        "relevance": "2026-10-04核验出版社题名、日期/卷期与摘要。MXene增强等离激元超表面并结合微流控，用于抗体检测/动力学监测；摘要有实验验证，适配纳米光子与生物传感。ACS Nano 19(12),12007–12020；期次4/1，首次上线3/24。"
+      },
+      {
+        "title": "Low-Noise Electrically Modulated Dual-Mode Photodetectors with Perovskite/Organic Dual Absorption Layers",
+        "source": "https://doi.org/10.1021/acsnano.5c15681",
+        "publishedAt": "2025-11-20",
+        "relevance": "2026-10-04核验出版社题名、日期/卷期与摘要。钙钛矿/有机双吸收层探测器以偏压切换光谱响应，摘要报告光电性能并演示双通道光通信加密；适配光电材料/探测器。ACS Nano 19(48),41298–41307；期次12/9，首次上线11/20。"
+      },
+      {
+        "title": "Tailoring a Plasmonic Topological Architecture for a Hyperspectral Resolution Pyroelectric Detector",
+        "source": "https://doi.org/10.1021/acsnano.5c22750",
+        "publishedAt": "2026-04-13",
+        "relevance": "2026-10-04核验出版社题名、日期/卷期与摘要。等离激元拓扑结构/表面晶格共振与热释电探测器结合，工程调节近红外窄带响应；适配纳米光子与光谱探测。ACS Nano 20(16),12416–12424；期次4/28，首次上线4/13。未逐项审查原始数据或完整补充文件。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
@@ -3431,7 +3451,27 @@
       "从本刊 Information for Authors 及官网提交入口核对稿件类型、正文、补充材料和数据政策。",
       "本轮官网自动读取受限，具体长度与文件限制待核实；不以 Science 或 Science Partner Journals 的要求替代本刊规则。"
     ],
-    "publishing": "开放获取；当前 APC、许可及减免以 AAAS 本刊官方政策为准。"
+    "publishing": "开放获取；当前 APC、许可及减免以 AAAS 本刊官方政策为准。",
+    "scopeExamples": [
+      {
+        "title": "Interleaved dual-species arrays of single atoms using a passive optical element and one trapping laser",
+        "source": "https://doi.org/10.1126/sciadv.adw4166",
+        "publishedAt": "2025-07-16",
+        "relevance": "2026-10-04核验出版社题名、日期/卷期与摘要。微加工被动光学元件/单激光形成亮镊子与暗瓶束，实验俘获交错Rb/Cs单原子；适配量子光学/光阱。Science Advances 11(29)；出版社文章页7/16与期次所属7月分开，不用机构期次7/18代首次日。"
+      },
+      {
+        "title": "Foveated light-field compound imager",
+        "source": "https://doi.org/10.1126/sciadv.aeb2738",
+        "publishedAt": "2026-06-05",
+        "relevance": "2026-10-04核验出版社题名、日期/卷期与摘要。多孔径凹面仿生镜片与光场重建，实现宽视场/局部高分辨体成像；摘要及引言核到细胞、组织和小生物验证，适配计算/生物医学光学。Science Advances 12(23)。"
+      },
+      {
+        "title": "Metasurface-enabled astronomical polarimetry",
+        "source": "https://doi.org/10.1126/sciadv.aee8035",
+        "publishedAt": "2026-06-10",
+        "relevance": "2026-10-04核验出版社题名、日期/卷期与摘要。超表面偏振分析光栅实现太阳快照成像偏振测量，并在天文台望远镜观测太阳磁场Zeeman特征；适配超表面及精密光学测量，非纯天体理论。Science Advances 12(24)。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
