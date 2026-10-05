@@ -200,3 +200,5 @@ The series directory links 130 editions to 98 stable conference identities. Foll
 2026-10-05：[TIP三年度卷样例E36](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e36ieee-tip)补光学采集与计算成像交叉路径；当前41刊至少三篇样例。 The TIP examples cover three annual volumes and optical acquisition with computational imaging; 41 journals have at least three examples.
 
 2026-10-05：[TCI审核F12](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f12ieee-tci)补成像形成、计算硬件与校准路径；当前102刊、42刊至少三篇样例。 TCI admission adds imaging formation, computing hardware and calibration paths; 42 of 102 journals have at least three examples.
+
+2026-10-05：[TGRS光学遥感样例E37](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e37ieee-tgrs)补互校准模型、实测光学校准与单光子LiDAR；43刊至少三篇样例。 TGRS examples distinguish calibration simulations, traceable optical measurements and field LiDAR experiments; 43 journals have at least three examples.

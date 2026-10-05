@@ -1338,3 +1338,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 唯一MJL SCIE卡、IEEE双号展开、新EI行/停收表、两JIF原图、主页明确链接指南与2026 APC、三原摘要/首发元数据实际核。年度卷无期号、理论/实验和出版页费/初稿上限分开，周期/模板细项等未知保留；必要验证/差异审查后上传并按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定032766b的101旧刊/旧41样例、272其他候选和全部其他JSON保护、单候选六审核字段白名单通过；102/211-55-7、88-12-95、100-11及42样例、三首发/年度卷无期号、两JIF与页费/投稿页限边界断言通过。384本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：TGRS光学遥感样例 E37
+
+- F12 8028d805ed64f3c3bbcf12d598b1b0f4f95da964已验收[Pages37267223228](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37267223228)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，c90fa9459b994003e2b0b852a3865ed23c8bd69f5f304c075e1cae1556e8703d匹配本地（2026-10-05T05:20:27.637Z）。正式编辑前验收，work/E37_RESEARCH_2026-10-05.md长操作前保存来源/范围；实际五小时53%/周88%允许，不用重置券。
+- E37为IEEE TGRS补三篇近两年、三个年度卷的光学样例，区分未来卫星互校准模拟、SI可溯源光学测量/RTM验证与单光子LiDAR现场实验。只有scopeExamples变化，101其他刊及其余全部JSON、原整刊/指南日期、索引分区和费用保护；102刊/130届/10活动及273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11保持，43刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e37ieee-tgrs)。
+- 三IEEE原摘要及首次日/卷/Article Sequence Number实核，模拟/人工目标实测/现场原型范围保留；只样例局部更新，必要验证/差异审查后上传并按同SHA验收，其他规划继续。
+
+- 发布前数据校验、固定8028d80的101其他刊/42旧样例、TGRS除scopeExamples所有字段和其他JSON保护通过；三首次日/年度卷与Article Sequence Number、模拟和实测边界及43样例断言通过。346本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

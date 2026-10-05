@@ -4998,7 +4998,27 @@
       "实验数据须完整，充分描述装置、方法及条件；准备通讯作者完整地址/电话/邮件，作者 ORCID。作者简介/照片在页面 Style 与清单措辞不同，本轮不将推荐清单推定成所有阶段的统一必填。",
       "正式发表超页收费起点对 2026-01-01 之后投稿设为第 11 页，不是已核实的初投硬性长度上限；摘要长度、会议扩展比例及许可细则仍待本刊依据。录用后最终文件不得未经批准修改内容或作者。"
     ],
-    "publishing": "2026-10-03 核验：混合出版；2026 年投稿可选 OA APC USD 2,800，录用才收费。IEEE 会员 5%、学会会员 20% 折扣不可叠加，学生不适用这两档，低收入国家按资格。2026-01-01 之后投稿超过 10 个正式页收 $230/页，GRS Society 会员 $200/页；之前投稿按超过 6 页，恰在 1/1 的边界未明确。官方另列前 11 页自愿 $110/页，按原文保留，不改成强制收费。超页与 APC 分开；税及许可未核实。来源：https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/"
+    "publishing": "2026-10-03 核验：混合出版；2026 年投稿可选 OA APC USD 2,800，录用才收费。IEEE 会员 5%、学会会员 20% 折扣不可叠加，学生不适用这两档，低收入国家按资格。2026-01-01 之后投稿超过 10 个正式页收 $230/页，GRS Society 会员 $200/页；之前投稿按超过 6 页，恰在 1/1 的边界未明确。官方另列前 11 页自愿 $110/页，按原文保留，不改成强制收费。超页与 APC 分开；税及许可未核实。来源：https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/",
+    "scopeExamples": [
+      {
+        "title": "Global Assessment of Directional Effects in the Intercalibration of Optical Satellite Instruments With the TRUTHS Mission",
+        "source": "https://ieeexplore.ieee.org/document/10723754",
+        "publishedAt": "2024-10-21",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2024-10-21，年度卷/Article Sequence Number 62/5536313，DOI 10.1109/TGRS.2024.3483969。无期号和页数不补造。TRUTHS对Sentinel-2A陆地区域的轨道配对、TOA辐亮度和校准不确定度端到端模拟，含角度/太阳/云等约束及极区数据缺口；展示光学卫星互校准模型，TRUTHS是未来任务，不当已在轨硬件实验。 未通读全文或SI。"
+      },
+      {
+        "title": "An SI-Traceable Protocol for the Validation of Radiative Transfer Model-Based Reflectance Simulation",
+        "source": "https://ieeexplore.ieee.org/document/10908921",
+        "publishedAt": "2025-03-03",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2025-03-03，年度卷/Article Sequence Number 63/4701922，DOI 10.1109/TGRS.2025.3547305。无期号和页数不补造。人工目标材料光学与几何SI可溯源表征、3D goniospectrophotometer测量，Eradiate RTM含不确定度传播的反射率模拟对实测验证；展示光学校准/地球观测交叉。原测试条件下偏差小于2%、超80%数据点相符，不外推全部场景。 未通读全文或SI。"
+      },
+      {
+        "title": "Multitarget Segmentation and Adaptive Tracking of Single-Photon LiDAR in Ultralow-SNR UAV Swarm Scene",
+        "source": "https://ieeexplore.ieee.org/document/11569071",
+        "publishedAt": "2026-06-17",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2026-06-17，年度卷/Article Sequence Number 64/5702915，DOI 10.1109/TGRS.2026.3704221。无期号和页数不补造。Gm-APD单光子LiDAR原型现场实验达1km，MRAT利用光子事件时空统计分离/跟踪多目标回波；展示光电测量与信号反演共同贡献。原实测条件下性能，不当任意天气/任务的保证。 未通读全文或SI。"
+      }
+    ]
   },
   {
     "id": "chinese-journal-lasers",

@@ -36,3 +36,15 @@
 | [Unified Video Reconstruction for Rolling Shutter and Global Shutter Cameras](https://ieeexplore.ieee.org/document/10770126) | 2024-11-27；33:6821–6835；10.1109/TIP.2024.3504275 | UniVR统一快门空间与无参数适配器，在三种重建架构验证与迁移实验；适配传感采集时序和图像重建算法，不当新光学硬件原型或全部相机性能保证。 |
 
 第二篇NIH Epub2025-03-04不替代IEEE首次2025-02-25；2024卷页也不当统一2025上线。无透镜文章仅本研究的隐私目标与验证，不声明普遍抗攻击；第三篇不造新的光学硬件实验。10838327光声候选实际只有空页面、未核摘要，因此未采用；2024-10-03首发的点云线索在两年窗外。未登录/上传/联系/支付。E36为IEEE TIP补三篇近两年光学采集/计算成像样例，分别为2024/2025/2026年度卷；首发与卷页分开，无期号不造。只有scopeExamples变化，100其他刊与全部其他JSON、索引排名/指南费用/整刊日期保护；101刊/130届/10活动、273候选210/56/7、98系列23多届、SCIE87/ESCI12/EI94、JCR99/CAS11保持，至少三篇样例刊数40→41。
+
+## E37：IEEE TGRS
+
+核验2026-10-05。三原IEEE公开摘要/题名、Date of Publication、Volume和Article Sequence Number及DOI实读；三年度卷62/63/64不同，首发在2024-10-05后，原页未给期号/页数不造。未通读全文/SI；公开摘要足以限定模型、实验与应用范围，不能由相似题名保证录用。
+
+| 原论文 | 首发/卷与Article Sequence Number/DOI | 适配及边界 |
+| --- | --- | --- |
+| [Global Assessment of Directional Effects in the Intercalibration of Optical Satellite Instruments With the TRUTHS Mission](https://ieeexplore.ieee.org/document/10723754) | 2024-10-21；62/5536313；10.1109/TGRS.2024.3483969 | TRUTHS对Sentinel-2A陆地区域的轨道配对、TOA辐亮度和校准不确定度端到端模拟，含角度/太阳/云等约束及极区数据缺口；展示光学卫星互校准模型，TRUTHS是未来任务，不当已在轨硬件实验。 |
+| [An SI-Traceable Protocol for the Validation of Radiative Transfer Model-Based Reflectance Simulation](https://ieeexplore.ieee.org/document/10908921) | 2025-03-03；63/4701922；10.1109/TGRS.2025.3547305 | 人工目标材料光学与几何SI可溯源表征、3D goniospectrophotometer测量，Eradiate RTM含不确定度传播的反射率模拟对实测验证；展示光学校准/地球观测交叉。原测试条件下偏差小于2%、超80%数据点相符，不外推全部场景。 |
+| [Multitarget Segmentation and Adaptive Tracking of Single-Photon LiDAR in Ultralow-SNR UAV Swarm Scene](https://ieeexplore.ieee.org/document/11569071) | 2026-06-17；64/5702915；10.1109/TGRS.2026.3704221 | Gm-APD单光子LiDAR原型现场实验达1km，MRAT利用光子事件时空统计分离/跟踪多目标回波；展示光电测量与信号反演共同贡献。原实测条件下性能，不当任意天气/任务的保证。 |
+
+2024论文TRUTHS是准备中任务，模拟结果不是在轨实测；2025只本人工目标及观测配置，不推广全部RTM/自然场景；2026实地原型性能只原测试范围。首次年份不取第三方默认January，也不造issue或把检索页刊年作精确日。未登录/上传/联系/支付，原2026指南和索引分区保持。E37为IEEE TGRS补三篇近两年、三个年度卷的光学样例，区分未来卫星互校准模拟、SI可溯源光学测量/RTM验证与单光子LiDAR现场实验。只有scopeExamples变化，101其他刊及其余全部JSON、原整刊/指南日期、索引分区和费用保护；102刊/130届/10活动及273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11保持，43刊至少三篇样例。

@@ -30,7 +30,7 @@
 | ESCI 肯定记录         | 12 / 102          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 95 / SCIE 88  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 88 / ESCI 12 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有四十二刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有四十三刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI、E37的IEEE TGRS；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 物理学报的三篇原论文及指南范围见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 
@@ -715,3 +715,7 @@ F11 09e2bf1bcbad666959064545556bea881130dd9d已验收[Pages37265762982](https://
 ## 2026-10-05：IEEE TCI F12
 
 E36 032766bd2a22ad9c7e85f38d414bc43fb02c36ba已验收[Pages37266546787](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37266546787)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，62d79ac3db698829eb320d35aca727b1fad172b5df5ccb9210f1052468b1a0b5匹配本地（2026-10-05T05:11:40.417Z）。 F12新增IEEE TCI，三篇不同年度卷光学计算样例、本刊链接指南与2026 APC独立保存；MJL SCIE/新双号EI、JCR2025电电子Q1/成像Q2实核，成像AIS Q1不作JIF。102刊/130届/10活动、273候选211 admitted/55 pending/7 deferred、SCIE88/ESCI12/EI95、JCR100/CAS11、42刊至少三篇样例；旧101刊、272其他候选与全部其他JSON保护。 [逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f12ieee-tci)。其他规划继续。
+
+## 2026-10-05：TGRS光学遥感样例 E37
+
+F12 8028d805ed64f3c3bbcf12d598b1b0f4f95da964已验收[Pages37267223228](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37267223228)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，c90fa9459b994003e2b0b852a3865ed23c8bd69f5f304c075e1cae1556e8703d匹配本地（2026-10-05T05:20:27.637Z）。 E37为IEEE TGRS补三篇近两年、三个年度卷的光学样例，区分未来卫星互校准模拟、SI可溯源光学测量/RTM验证与单光子LiDAR现场实验。只有scopeExamples变化，101其他刊及其余全部JSON、原整刊/指南日期、索引分区和费用保护；102刊/130届/10活动及273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11保持，43刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e37ieee-tgrs)。其他规划继续。
