@@ -1280,10 +1280,15 @@
     "scopeHint": "光学遥感、高光谱、摄影测量及仪器专题",
     "sourceEntry": "https://2027.ieeeigarss.org/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["igarss-2027"],
-    "decisionReason": "2027官网/CFP/日期/Topics直接确认47届GRSS会议、7/11–16雷克雅未克及会场，光学高光谱/Lidar/被动传感有明确适配范围。",
-    "nextAction": "系统11/10计划开放后核Paper Kit、完整稿模板、报告条件、注册入口/费用与最近文章Q1体系；不将摘要路径当Xplore出版。",
-    "reviewedAt": "2026-10-03"
+    "relatedExistingIds": [
+      "igarss-2027",
+      "igarss-2024",
+      "igarss-2025",
+      "igarss-2026"
+    ],
+    "decisionReason": "当年官网、Topics、Paper Kit、日期与注册直接确认2024/2025/2026三历史届，接原2027预告；光学子方向及各年投稿/展示/费用独立保留。",
+    "nextAction": "2027系统11/10计划开放后核本届Paper Kit/模板、报告条件、注册入口/费用与近期文章Q1体系；历史要求不套新年。保留2025旧年份/展示表和2026通知冲突，未知不编造。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-dbfff63d70",

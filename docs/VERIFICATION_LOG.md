@@ -1346,3 +1346,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三IEEE原摘要及首次日/卷/Article Sequence Number实核，模拟/人工目标实测/现场原型范围保留；只样例局部更新，必要验证/差异审查后上传并按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定8028d80的101其他刊/42旧样例、TGRS除scopeExamples所有字段和其他JSON保护通过；三首次日/年度卷与Article Sequence Number、模拟和实测边界及43样例断言通过。346本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：IGARSS时间深度 C33
+
+- E37 b99ec5d5311628cb16214264351f15befa88a4e7已验收[Pages37267596890](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37267596890)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，5f7300783bc8a4220409ab8dca714b5b10ee63e13f2ab38e5fd651ab7167d295匹配本地（2026-10-05T05:25:56.813Z）。正式编辑前已验收，本地工作树干净，work/C33_RESEARCH_2026-10-05.md长操作前保存逐年来源/范围与冲突；实际五小时63%/周90%允许，不用重置券。
+- C33补IGARSS2024/2025/2026历史三届，与原2027预告组成四届时间线；133届/98系列24多届。102刊/10活动、273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11及43刊样例保持。原130届（含2027）、97其他系列/272其他候选与其他JSON保护，系列只editionIds/sources及单候选四审核字段，不刷新未来公告核验日；逐年稿规、费用与海报上限不同，2025旧年份及2026日期冲突保留。 [字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)。
+- 三年实际官网/Topics/Kit/CFP或Papers/日期/注册正文核实，2025修订日截图与2026旧CFP分开；未访问内部系统或支付/签署。必要验证/差异审查后上传并按同SHA确认，其他规划继续。
+- 发布前首次校验发现新增series简称未与既有IEEE IGARSS一致，已仅修正三新届并重验。数据校验、固定b99ec5d的130旧届（含2027）/97其他系列/272其他候选与全部其他JSON、series两字段/候选四字段白名单通过；133/98/24及四届IGARSS、日级/冲突null/各年费用和展示边界断言通过。391本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、差异审查及git diff --check通过。完整31项测试/typecheck/lint由同SHA CI验收。

@@ -57,3 +57,23 @@ C29新增OFC2025/2026与CLEO2025/2026四历史届，连到现有2027同系列；
 | 暂缓IR2025 | [同一学会页](https://www.irmmw-thz.org/all-conferences/)主段8/17–22，过去表8/17–23 | 冲突未解决，未正式加历史条目，不挑终日；候选nextAction继续保留。 |
 
 原模板SHA256 1c3a3d244c26c3a4700dc13df83e326441b57f7ead52365ded6233f798c1aeee（一页）；版式SHA256 2358d6f8c406515f3113cfe8dd122b6e8884eaafc11f40013901edee85b353bf（两页说明）。2027大会页计划10/5开启，但详细Submission仍2025，本批未宣称系统开放、未刷新旧2027记录。只读公开网页/文件，未登录、上传、投稿、支付、联系或签协议。
+
+## C33：IGARSS时间深度
+
+核验2026-10-05。C33补IGARSS2024/2025/2026历史三届，与原2027预告组成四届时间线；133届/98系列24多届。102刊/10活动、273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11及43刊样例保持。原130届（含2027）、97其他系列/272其他候选与其他JSON保护，系列只editionIds/sources及单候选四审核字段，不刷新未来公告核验日；逐年稿规、费用与海报上限不同，2025旧年份及2026日期冲突保留。
+
+| 届次/字段 | 当年官方来源和实际核验范围 | 保留的边界 |
+| --- | --- | --- |
+| 2024身份/光学子方向 | [主页](https://2024.ieeeigarss.org/)第44届GRSS、7/7–12 Athens Megaron；[Topics](https://2024.ieeeigarss.org/topics.php)高光谱、LiDAR、被动光学多/高光谱 | 全会地球科学，光学仅明确子方向；历史非未来提醒。 |
+| 2024稿件/日期 | [Papers](https://2024.ieeeigarss.org/papers.php)与[Kit](https://2024.ieeeigarss.org/papers/paper_kit.php)完整稿至少800词、4页正文含图/参考另计，英语双栏10–12pt、嵌字体PDF5MB、无页码；首页1/12普通、3/15通知、Papers5/25终稿 | 不套2025新路径；PartVI展示仍稍后公布，海报/时长未知；模板内部未读。 |
+| 2024注册 | [当年注册](https://2024.ieeeigarss.org/registration.php)5/12早价、5/30作者关联；EUR含税早/常四档730/830、930/1030、300/400、400/500；教程另计 | 午夜CET(GMT+2)名称/偏移矛盾仅日级；学生1/其他2/单日非作者，论文费不退、其他早期条件扣EUR50。 |
+| 2025身份/主题 | [主页](https://2025.ieeeigarss.org/)第45届、8/3–8 Brisbane BCEC；[Topics](https://2025.ieeeigarss.org/topics.php)高光谱、LiDAR、被动光学 | 不推定所有遥感研究均光学。 |
+| 2025路径/修订日 | [CFP](https://2025.ieeeigarss.org/call_for_papers.php)三路径/[Kit](https://2025.ieeeigarss.org/papers/paper_kit.php)800词4body、400–600词1–2页单栏至多2图、近期文章after1/1/2024 ISI或SJR Q1；[日期](https://2025.ieeeigarss.org/important_dates.php)实际截图见1/10划除→1/17、3/15划除→3/20，终稿/作者5/15 | 摘要/近期文章不入论文集；Q1不强转JCR/CAS、1/1边界未知；Kit残留5/30/2024与©2024，不作2025注册/版权年。 |
+| 2025注册 | [实际注册页](https://2025.ieeeigarss.org/registration.asp)四档早/常USD850/950、950/1150、350/450、450/550，5/7早价、5/15作者 | 税处理未明；教程另计，学生1/其他2/单日非作者；覆盖paper不退、其他符合早期条件扣USD50。表单/协议只读。 |
+| 2025展示 | [Kit PartVI](https://2025.ieeeigarss.org/papers/paper_kit.php)口头12+3min/提前15min、只现场，可现场代理放预录；海报正文75min/W116H176cm | 周一8/4单列表14:30–14:45与正文矛盾不填slot；视频16:9与1080×1920冲突不自行修正像素方向。 |
+| 2026身份/主题 | [主页](https://2026.ieeeigarss.org/)/[CFP](https://2026.ieeeigarss.org/call_for_papers.php)第46届8/9–14 Washington DC Washington Hilton；[Topics](https://2026.ieeeigarss.org/topics.php)高光谱、光学建模、LiDAR、被动光学 | 仅本届核实，原2027整条不变。 |
+| 2026路径/日期冲突 | [Kit](https://2026.ieeeigarss.org/papers/paper_kit.php)完整800词4body/参考另计、PDF5MB，摘要与近期期刊after1/1/2025三路径；[日期](https://2026.ieeeigarss.org/important_dates.php)普通1/17、通知3/19、终稿/作者/早价4/30；Kit明确1/17 | CFP仍1/10/3/15：普通采用专页+Kit但保留旧1/10，通知没有明确修订证据故null并注明两值；ISI/SJR Q1和发表日期边界不扩写。 |
+| 2026注册/现场 | [官方菜单注册](https://2026.ieeeigarss.org/registration.php)实际跳[registration.asp](https://2026.ieeeigarss.org/registration.asp)，四档USD同2025、早/作者4/30；[Kit PartVI](https://2026.ieeeigarss.org/papers/paper_kit.php#PartVI)口头12+3/USB必须/无中央上传、WindowsPPTX、1920×1080MP4MOV，海报75min/H116W238cm/最小61×92cm | 税未明；最小方向未明/横竖均可；现场代理可预录不是远程。页费/退款不外推2027。 |
+| 三年出版/未核 | 各年Kit与Registration规定最终稿、版权、注册/关联及author或合格proxy现场展示；no-show无Xplore/公开论坛但可有现场电子集，例外由技术主席按不可预见情况处理 | 不承诺单篇EI/SCIE，未读模板内部/评审匿名规则/最终版权手续细项仍未知；不登录、填表、勾协议、注册、投稿、支付或联系。 |
+
+历史新增只series.editionIds/sources，nextEditionCheckedAt原null保持；2027提交系统尚属计划开放，原Q1体系/费用未知继续开放。保留同一系列关注与时间线，不重复开发或开启旧任务。

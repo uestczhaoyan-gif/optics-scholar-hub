@@ -7,7 +7,7 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：102 本期刊、130 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 正式目录：102 本期刊、133 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：273 项，211 admitted、55 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 100/102、中科院 11/102；SCIE 肯定记录 88、ESCI 12、EI 95。95 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 88 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
 - 交叉适配样例已有四十三刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI、Applied Physics Letters、IEEE TIE、IEEE Sensors Journal、IEEE TIP、IEEE TCI、IEEE TGRS。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
@@ -399,3 +399,7 @@ E36 032766bd2a22ad9c7e85f38d414bc43fb02c36ba已验收[Pages37266546787](https://
 ## 2026-10-05：TGRS光学遥感样例 E37
 
 F12 8028d805ed64f3c3bbcf12d598b1b0f4f95da964已验收[Pages37267223228](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37267223228)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，c90fa9459b994003e2b0b852a3865ed23c8bd69f5f304c075e1cae1556e8703d匹配本地（2026-10-05T05:20:27.637Z）。 E37为IEEE TGRS补三篇近两年、三个年度卷的光学样例，区分未来卫星互校准模拟、SI可溯源光学测量/RTM验证与单光子LiDAR现场实验。只有scopeExamples变化，101其他刊及其余全部JSON、原整刊/指南日期、索引分区和费用保护；102刊/130届/10活动及273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11保持，43刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e37ieee-tgrs)。其他规划继续。
+
+## 2026-10-05：IGARSS时间深度 C33
+
+E37 b99ec5d5311628cb16214264351f15befa88a4e7已验收[Pages37267596890](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37267596890)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，5f7300783bc8a4220409ab8dca714b5b10ee63e13f2ab38e5fd651ab7167d295匹配本地（2026-10-05T05:25:56.813Z）。 C33补IGARSS2024/2025/2026历史三届，与原2027预告组成四届时间线；133届/98系列24多届。102刊/10活动、273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11及43刊样例保持。原130届（含2027）、97其他系列/272其他候选与其他JSON保护，系列只editionIds/sources及单候选四审核字段，不刷新未来公告核验日；逐年稿规、费用与海报上限不同，2025旧年份及2026日期冲突保留。 [字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)。下一步继续其余会议/期刊证据，既有系列/定期更新机制不重复开发。

@@ -6722,5 +6722,189 @@
         "source": "https://www.irmmw-thz.org/all-conferences/"
       }
     ]
+  },
+  {
+    "id": "igarss-2024",
+    "series": "IEEE IGARSS",
+    "year": 2024,
+    "name": "IEEE国际地球科学与遥感研讨会 2024（历史届次）",
+    "nameEn": "IEEE International Geoscience and Remote Sensing Symposium 2024",
+    "region": "海外",
+    "location": "希腊 · 雅典",
+    "venue": "Megaron Athens International Conference Center",
+    "start": "2024-07-07",
+    "end": "2024-07-12",
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "IEEE GRSS第44届IGARSS；当年官方会期/会场及光学相关专题独立核验，保留历届准备规则并与2027预告连接同一稳定系列。",
+    "website": "https://2024.ieeeigarss.org/",
+    "notice": "https://2024.ieeeigarss.org/papers.php",
+    "registration": "https://2024.ieeeigarss.org/registration.php",
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "本届Paper Kit的完整论文为英语、至少800词、正文最多4页含图，参考文献不计；双栏10–12pt、Letter/A4、PDF上限5MB、字体嵌入/子集且不加密、无页码。初投与录用后完整稿阶段分开。模板文件内部细项/匿名要求尚未核，未把现年页上的旧附件当未来模板。来源：https://2024.ieeeigarss.org/papers/paper_kit.php",
+      "本届普通稿走完整manuscript路径；主页/稿件页记录普通1/12、通知3/15、终稿5/25、作者注册5/30（2024），初投材料不自动成为Xplore最终版本。未套入2025新增的400–600词摘要与近期文章路径。来源：https://2024.ieeeigarss.org/papers.php 与 https://2024.ieeeigarss.org/",
+      "每位presenting author最多两篇；作者注册每学生档最多一篇，其他非单日档最多两篇，单日不能满足作者注册。论文须在本届作者注册截止前关联注册者，否则从技术议程与论文集撤下。来源：https://2024.ieeeigarss.org/papers/paper_kit.php 与 https://2024.ieeeigarss.org/registration.php",
+      "2024注册早/常价（5/12前后）：IEEE/GRSS会员730/830、非会员930/1030、学生会员300/400、学生非会员400/500欧元，含税；教程另计。覆盖论文的注册费不退，其他符合早期退款条件者扣50欧元。午夜标记CET(GMT+2)名称/偏移不一致，截止只保存日期，不造精确时刻。来源：https://2024.ieeeigarss.org/registration.php",
+      "2024 Paper Kit的展示Part VI仍写稍后提供；口头时长、海报尺寸及文件提交细项未知，不套2025/2026。来源：https://2024.ieeeigarss.org/papers/paper_kit.php"
+    ],
+    "publication": "本届初投材料不自动出版；录用完整论文须后续最终稿、版权手续、作者注册并实际现场展示。摘要/近期文章路径本批未核，不移植后两年。no-show作者/合格代理不现场展示则不在Xplore/公开论坛出版，但可能随现场电子论文集分发、版权属IEEE；例外由技术主席按不可预见情形判断。未逐篇核实际索引，不承诺自动EI/SCIE。来源：https://2024.ieeeigarss.org/papers/paper_kit.php 与 https://2024.ieeeigarss.org/registration.php",
+    "notes": "光学适配限Topics所列高光谱、LiDAR、被动光学多/高光谱；会议整体覆盖广泛地球科学，不把全会等同纯光学。来源：https://2024.ieeeigarss.org/topics.php。已结束历史届次；所有已录截止只日级，未知字段不按周期推算。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2024历史普通稿截止",
+        "date": "2024-01-12",
+        "source": "https://2024.ieeeigarss.org/"
+      },
+      {
+        "type": "notification",
+        "label": "2024作者录用通知",
+        "date": "2024-03-15",
+        "source": "https://2024.ieeeigarss.org/"
+      },
+      {
+        "type": "camera-ready",
+        "label": "2024录用完整稿截止",
+        "date": "2024-05-25",
+        "source": "https://2024.ieeeigarss.org/papers.php"
+      },
+      {
+        "type": "registration",
+        "label": "2024论文作者注册截止",
+        "date": "2024-05-30",
+        "source": "https://2024.ieeeigarss.org/registration.php"
+      },
+      {
+        "type": "registration",
+        "label": "2024早价注册截止",
+        "date": "2024-05-12",
+        "source": "https://2024.ieeeigarss.org/registration.php"
+      }
+    ]
+  },
+  {
+    "id": "igarss-2025",
+    "series": "IEEE IGARSS",
+    "year": 2025,
+    "name": "IEEE国际地球科学与遥感研讨会 2025（历史届次）",
+    "nameEn": "IEEE International Geoscience and Remote Sensing Symposium 2025",
+    "region": "海外",
+    "location": "澳大利亚 · 布里斯班",
+    "venue": "Brisbane Convention & Exhibition Centre (BCEC)",
+    "start": "2025-08-03",
+    "end": "2025-08-08",
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "IEEE GRSS第45届IGARSS；当年官方会期/会场及光学相关专题独立核验，保留历届准备规则并与2027预告连接同一稳定系列。",
+    "website": "https://2025.ieeeigarss.org/",
+    "notice": "https://2025.ieeeigarss.org/call_for_papers.php",
+    "registration": "https://2025.ieeeigarss.org/registration.asp",
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "本届Paper Kit的完整论文为英语、至少800词、正文最多4页含图，参考文献不计；双栏10–12pt、Letter/A4、PDF上限5MB、字体嵌入/子集且不加密、无页码。初投与录用后完整稿阶段分开。模板文件内部细项/匿名要求尚未核，未把现年页上的旧附件当未来模板。来源：https://2025.ieeeigarss.org/papers/paper_kit.php",
+      "本届有三路径：完整论文；400–600词摘要（1–2页单栏、至多两图、只交流不入论文集）；近期已发表文章在2024-01-01之后且相关期刊按ISI或SJR为Q1，仅适配性评审、不重复出版。未将这里的Q1换成JCR或中科院，也未判1/1当天是否符合。学生竞赛限完整论文。来源：https://2025.ieeeigarss.org/call_for_papers.php 与 https://2025.ieeeigarss.org/papers/paper_kit.php",
+      "每位presenting author最多两篇；作者注册每学生档最多一篇，其他非单日档最多两篇，单日不能满足作者注册。论文须在本届作者注册截止前关联注册者，否则从技术议程与论文集撤下。来源：https://2025.ieeeigarss.org/papers/paper_kit.php 与 https://2025.ieeeigarss.org/registration.asp",
+      "2025注册早/常价：IEEE/GRSS会员850/950、非会员950/1150、学生会员350/450、学生非会员450/550美元；早价至2025-05-07，税处理未说明，教程另计。覆盖论文的注册费不退；其他申请须在早期截止最后一日前收到，扣50美元（或等值）后退款。旧届费用不沿用2027。来源：https://2025.ieeeigarss.org/registration.asp",
+      "2025口头12分钟加3分钟问答，提前15分钟到session；只现场，作者不能出席可安排现场代理展示幻灯片或预录视频。海报需现场人/代理，正文规定75分钟，可用宽116/高176cm。周一8/4表列14:30–14:45与75分钟正文冲突，具体slot不填；视频写16:9但给1080×1920，像素方向冲突不纠正成自定值。来源：https://2025.ieeeigarss.org/papers/paper_kit.php"
+    ],
+    "publication": "本届初投材料不自动出版；录用完整论文须后续最终稿、版权手续、作者注册并实际现场展示。摘要/近期文章路径只交流不入IEEE Xplore论文集。no-show作者/合格代理不现场展示则不在Xplore/公开论坛出版，但可能随现场电子论文集分发、版权属IEEE；例外由技术主席按不可预见情形判断。未逐篇核实际索引，不承诺自动EI/SCIE。来源：https://2025.ieeeigarss.org/papers/paper_kit.php 与 https://2025.ieeeigarss.org/registration.asp",
+    "notes": "光学适配限Topics所列高光谱、LiDAR、被动光学多/高光谱；会议整体覆盖广泛地球科学，不把全会等同纯光学。来源：https://2025.ieeeigarss.org/topics.php。已结束历史届次；所有已录截止只日级，未知字段不按周期推算。 日期页明确划除1/10改1/17及3/15改3/20；Paper Kit仍残留5/30/2024作者注册与©2024，按当届日期/注册页保存5/15/2025，不当本年版权版本。来源：https://2025.ieeeigarss.org/important_dates.php 与 https://2025.ieeeigarss.org/papers/paper_kit.php",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025历史普通稿截止",
+        "date": "2025-01-17",
+        "source": "https://2025.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "notification",
+        "label": "2025作者录用通知",
+        "date": "2025-03-20",
+        "source": "https://2025.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "camera-ready",
+        "label": "2025录用完整稿截止",
+        "date": "2025-05-15",
+        "source": "https://2025.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "registration",
+        "label": "2025论文作者注册截止",
+        "date": "2025-05-15",
+        "source": "https://2025.ieeeigarss.org/registration.asp"
+      },
+      {
+        "type": "registration",
+        "label": "2025早价注册截止",
+        "date": "2025-05-07",
+        "source": "https://2025.ieeeigarss.org/registration.asp"
+      }
+    ]
+  },
+  {
+    "id": "igarss-2026",
+    "series": "IEEE IGARSS",
+    "year": 2026,
+    "name": "IEEE国际地球科学与遥感研讨会 2026（历史届次）",
+    "nameEn": "IEEE International Geoscience and Remote Sensing Symposium 2026",
+    "region": "海外",
+    "location": "美国 · 华盛顿特区",
+    "venue": "Washington Hilton",
+    "start": "2026-08-09",
+    "end": "2026-08-14",
+    "topics": ["成像与计算光学", "传感与测量"],
+    "description": "IEEE GRSS第46届IGARSS；当年官方会期/会场及光学相关专题独立核验，保留历届准备规则并与2027预告连接同一稳定系列。",
+    "website": "https://2026.ieeeigarss.org/",
+    "notice": "https://2026.ieeeigarss.org/call_for_papers.php",
+    "registration": "https://2026.ieeeigarss.org/registration.asp",
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "published",
+    "requirements": [
+      "本届Paper Kit的完整论文为英语、至少800词、正文最多4页含图，参考文献不计；双栏10–12pt、Letter/A4、PDF上限5MB、字体嵌入/子集且不加密、无页码。初投与录用后完整稿阶段分开。模板文件内部细项/匿名要求尚未核，未把现年页上的旧附件当未来模板。来源：https://2026.ieeeigarss.org/papers/paper_kit.php",
+      "本届有三路径：完整论文；400–600词摘要（1–2页单栏、至多两图、只交流不入论文集）；近期已发表文章在2025-01-01之后且相关期刊按ISI或SJR为Q1，仅适配性评审、不重复出版。未将这里的Q1换成JCR或中科院，也未判1/1当天是否符合。学生竞赛限完整论文。来源：https://2026.ieeeigarss.org/call_for_papers.php 与 https://2026.ieeeigarss.org/papers/paper_kit.php",
+      "每位presenting author最多两篇；作者注册每学生档最多一篇，其他非单日档最多两篇，单日不能满足作者注册。论文须在本届作者注册截止前关联注册者，否则从技术议程与论文集撤下。来源：https://2026.ieeeigarss.org/papers/paper_kit.php 与 https://2026.ieeeigarss.org/registration.asp",
+      "2026注册早/常价：IEEE/GRSS会员850/950、非会员950/1150、学生会员350/450、学生非会员450/550美元；早价至2026-04-30，税处理未说明，教程另计。覆盖论文的注册费不退；其他申请须在早期截止最后一日前收到，扣50美元（或等值）后退款。旧届费用不沿用2027。来源：https://2026.ieeeigarss.org/registration.asp",
+      "2026口头15分钟含约12分钟报告/3分钟问答与换场，提前15分钟到session，只现场（可代理播放预录）；必须带USB，无集中上传/准备室，Windows10/11 PPTX，视频16:9 1920×1080 MP4/MOV。海报需现场人/代理75分钟，可用高116/宽238cm，最小61×92cm，横竖均可；最小尺寸方向未指定，不自行赋宽高。来源：https://2026.ieeeigarss.org/papers/paper_kit.php"
+    ],
+    "publication": "本届初投材料不自动出版；录用完整论文须后续最终稿、版权手续、作者注册并实际现场展示。摘要/近期文章路径只交流不入IEEE Xplore论文集。no-show作者/合格代理不现场展示则不在Xplore/公开论坛出版，但可能随现场电子论文集分发、版权属IEEE；例外由技术主席按不可预见情形判断。未逐篇核实际索引，不承诺自动EI/SCIE。来源：https://2026.ieeeigarss.org/papers/paper_kit.php 与 https://2026.ieeeigarss.org/registration.asp",
+    "notes": "光学适配限Topics所列高光谱、LiDAR、被动光学多/高光谱及光学建模；会议整体覆盖广泛地球科学，不把全会等同纯光学。来源：https://2026.ieeeigarss.org/topics.php。已结束历史届次；所有已录截止只日级，未知字段不按周期推算。 CFP仍写普通1/10和通知3/15；专门日期页写普通1/17和通知3/19，Kit明确1/17，普通采用后两者并保留旧值。通知无明确修订说明，最终通知日null，保留3/15与3/19矛盾。来源：https://2026.ieeeigarss.org/call_for_papers.php 与 https://2026.ieeeigarss.org/important_dates.php 与 https://2026.ieeeigarss.org/papers/paper_kit.php",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2026历史普通稿截止",
+        "date": "2026-01-17",
+        "source": "https://2026.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "notification",
+        "label": "2026作者通知（3/15与3/19冲突待核）",
+        "date": null,
+        "source": "https://2026.ieeeigarss.org/important_dates.php",
+        "note": "日期专页3/19与CFP3/15不一致；没有明确修订依据，留空。来源：https://2026.ieeeigarss.org/call_for_papers.php"
+      },
+      {
+        "type": "camera-ready",
+        "label": "2026录用完整稿截止",
+        "date": "2026-04-30",
+        "source": "https://2026.ieeeigarss.org/important_dates.php"
+      },
+      {
+        "type": "registration",
+        "label": "2026论文作者注册截止",
+        "date": "2026-04-30",
+        "source": "https://2026.ieeeigarss.org/registration.asp"
+      },
+      {
+        "type": "registration",
+        "label": "2026早价注册截止",
+        "date": "2026-04-30",
+        "source": "https://2026.ieeeigarss.org/registration.asp"
+      }
+    ]
   }
 ]
