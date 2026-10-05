@@ -1560,3 +1560,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 新增正式刊本批已完成全部实际已保存字段质量审查，G2目标251来自107+1期刊及固定133会议/10活动，不将新发现加入本版；未审165正式/19候选仍未审。验证、真实差异审查和六资产构建后提交，同SHA完整CI与部署验收待执行。
 
 - 发布前validate与新刊/唯一候选关联、旧107刊/272其他候选、全部其他data/冻结范围及旧85正式/40候选/G4/G5/final保护通过；86唯一审查摘要全部匹配。首次发现两个新增主题名称未在受控词表，改用现有生物医学光学/成像与计算光学并同步新记录摘要，未改主题表或旧记录；修复后595本地文件链接、462维护项/12主题、Node24.20 Pages子路径六资产构建exit0、完整真实差异及git diff --check通过。11明确正式文件，同SHA CI完整31测试/typecheck/lint/build再验部署。
+
+## 2026-10-06：正式质量 V1-G2L
+
+- 7baa565f2dd045363c9ebd20b01214474b6fc8cb已验收[Pages 37381967558](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37381967558)；同SHA build/deploy成功、首页/版本200，摘要5c048f2c150aa784bba8f01e022a925fa406d305b964c5378f7a16febce3bcbf匹配本地（2026-10-05T22:22:57.534Z）。正式编辑前HEAD=origin/main。实际完整审读JBO/Neurophotonics/Optical Engineering/Applied Physics B/Photoacoustics/Displays全部JSON、一对一候选与旧E10/E26/F1/F7和E41–E44原字段记录，复用当时当刊独立指南/OA及MJL/EI版本事实，不刷新整刊日期或重新请求不变官方原页。本批JBO两个现缓存JCRp41/p566目标行实际视觉核对（p41生化方法不能作为OPTICS依据）；Photoacoustics仅复查现缓存SERIALS4349行及表头第二次有效核验，ISSN列22135979/EISSN列为空，不重复全表扫描。
+- V1-G2L实审6刊正式字段质量，累计92/251、余159；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅计划明确的来源/载体注记修正，身份、分区与索引计数保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2l)。长操作前work/V1-G2L-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+
+- 发布前validate、仅JBO已实核OPTICS出处p41改p566/Photoacoustics已实核EI列注记两字段allowlist、其余全部data及冻结范围字节保持、旧86正式/41候选/G4/G5/final保护、92唯一kind:id和全部摘要断言通过；539本地文件链接、维护462及12主题覆盖、Node24.20子路径六资产build exit0、完整真实差异与git diff --check通过。七明确正式文件，同SHA CI完整31测试/typecheck/lint/build及部署继续验收。原源已有日志计入次数，不为修正载体而第三次重扫同版。

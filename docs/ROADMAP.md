@@ -843,3 +843,7 @@ cdd0f743f88a019ec64d1db38209a57180ab506b已验收[Pages 37378347488](https://git
 ## 2026-10-06：固定Nature Methods准入 V1-G3G
 
 5e71f0e54ea7cd42b96dc9c6c0d2bb0bb7f28fe1已验收[Pages 37380539643](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37380539643)；同SHA build/deploy成功，首页/版本200，摘要0dce3304728980b8619acf9377e9a0eb8fdb3d3823fb5f1e2f0ebda8ca3c0eae匹配本地（2026-10-05T22:10:09.390Z）。 V1-G3G准入固定候选Nature Methods并完成新增正式质量：108刊/133届/98系列/10活动，273候选217 admitted/49 pending/7 deferred，SCIE94/ESCI12/EI99，JCR106/CAS11，54刊至少三篇样例；固定候选41/60（4准入37限制）、余19，正式86/251（47刊29届10活动）、余165。G4/G5完成、G1/G2/G3/G6未验收，整体IN_PROGRESS。 [逐字段证据](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-4603f2941d)。只固定候选准入，新刊已同批实审；原五小时检查保持，不扩大G4与候选冻结范围。
+
+## 2026-10-06：正式质量 V1-G2L
+
+7baa565f2dd045363c9ebd20b01214474b6fc8cb已验收[Pages 37381967558](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37381967558)；同SHA build/deploy成功、首页/版本200，摘要5c048f2c150aa784bba8f01e022a925fa406d305b964c5378f7a16febce3bcbf匹配本地（2026-10-05T22:22:57.534Z）。 V1-G2L实审6刊正式字段质量，累计92/251、余159；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅计划明确的来源/载体注记修正，身份、分区与索引计数保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2l)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。

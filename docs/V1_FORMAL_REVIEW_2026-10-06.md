@@ -429,3 +429,73 @@ Nature Portfolio，1548-7091/1548-7105，新checkedAt 2026-10-06，admitted候�
 - 限制与影响：JCR2025为机构转载secondary，未登录官方JCR当前全学科/2026表；CAS及索引覆盖年份未知。EI本版未取得匹配不是未收录或停收。；三样例已核原完整公开摘要/出版史及不同正式期月，未通读全文，前两篇是订阅预览；不把仪器条件外推全部光学研究。；APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。
 - 维护触发：官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。
 - 全新字段实际审读与内容摘要de950ce09c1d906c26e2d0250ecb6f6ac9d199285297ff035127506ea8646c8c，基于5e71f0e54ea7cd42b96dc9c6c0d2bb0bb7f28fe1；不是官网指纹、不表示未知已消除。
+
+## V1-G2L
+
+实际完整审读JBO/Neurophotonics/Optical Engineering/Applied Physics B/Photoacoustics/Displays全部JSON、一对一候选与旧E10/E26/F1/F7和E41–E44原字段记录，复用当时当刊独立指南/OA及MJL/EI版本事实，不刷新整刊日期或重新请求不变官方原页。本批JBO两个现缓存JCRp41/p566目标行实际视觉核对（p41生化方法不能作为OPTICS依据）；Photoacoustics仅复查现缓存SERIALS4349行及表头第二次有效核验，ISSN列22135979/EISSN列为空，不重复全表扫描。 本次正式字段质量累计92/251，余159未审；G3 41/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## journal-biomedical-optics
+
+Journal of Biomedical Optics；SPIE；原checkedAt 2026-09-13，admitted候选journal-9d6bdf8c8c一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/author-guidelines)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e10两本生医光学指南及两本-aip-费用)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41jbo)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。E10本刊三独立页签：Letter8排版页约4000词/图占250词，Research硬限未知；五段结构摘要200词与单栏、初投合PDF/返修源文件分开。CRediT必须/ORCID鼓励，CodeData声明不是一律公开，生物伦理限定适用研究。全OA1675美元，不套APN免Review/Tutorial。本次发现原OPTICS sourcep41实际BIOCHEMICAL RESEARCH METHODS，同刊同Q2不等于同学科；现缓存视觉p566明确OPTICS/JIFQ2，只有source页修正，版年/指标/category/level/Q2/secondary全部保持，不新增分类。EI3073/MJL卡独立，不把当前整刊09/13当所有字段最新日；E41三31(10/9/8)Published独立、仿真/离体动物与临床部署分开。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=1083-3668&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1083-3668 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 3073 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：Research正式硬篇幅及税/费用适用时点和稿型例外未核；订阅平台单篇/覆盖年和当前JCR/CAS未知，secondary保留。；bioRxiv只读转送入口未后台复验，出版频次/三样例史非个稿首决时限；样例未通读全文/SI不当临床承诺。
+- 维护触发：SPIE发布本刊新指南/费率和Research页限说明、合法分区/覆盖依据出现后逐字段维护，不重复旧源。
+- 全字段内容摘要f8d8c7bdd770dfa14165492a1b774e6249eae8e20558be4dfe94e95693bbaffc，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。
+
+## neurophotonics
+
+Neurophotonics；SPIE；原checkedAt 2026-09-13，admitted候选journal-3a147dcc3d一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.spiedigitallibrary.org/journals/neurophotonics/author-guidelines)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e10两本生医光学指南及两本-aip-费用)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e42neurophotonics)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。E10独立Research/Protocol/Tutorial无硬限、通常1万词8图预期，Letter/DataPaper8页约4000词且DataPaper发表时公开仓库是独立规则。稿型栏要求结构摘要但一般Parts未给分段标题，未套JBO五段；200词/3–6词/75词简介与分阶段文件独立。全OA1675美元、Enhanced可选推广不当基础必要费；不继承APN稿型豁免。MJL2329423X/EI4170/JCR2025指标2024OPTICS Q2secondary来源独立。E42三正式13(S3/3/2)，Published与目录August/July/April、引文Sept/Sept/Mar分别保留；近红外数据集非新传感器/康复，模型小动脉不能校正及CoMind员工披露保留。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2329-423X&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2329-423X 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4170 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：结构摘要具体分段标题、Research硬页限及税/优惠时点/稿型例外未知，不用同出版社统一填充。；当前分类/CAS/覆盖年/订阅单篇及实际系统提交未知；样例未通读全文、名义目录月份冲突不擅改，通常篇幅非硬约束/平均时限。
+- 维护触发：本刊明确结构标题/费率版本与数据稿规则或官方出版史更正/数据库新依据时维护。
+- 全字段内容摘要f3287e1fbe02defa3e00f72a72870ed06db49e8efdc29d925849f98ab6cec985，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。
+
+## optical-engineering
+
+Optical Engineering；SPIE；原checkedAt 2026-10-03，admitted候选journal-9d9aae91a2一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.spiedigitallibrary.org/journals/optical-engineering/author-guidelines)；[原记录1](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md#f1传统光学与光子器件五刊)、[原记录2](https://www.spiedigitallibrary.org/journals/open-access)。F1本刊真实系统器件仪器范围，AI须显著光学工程贡献，EI路径准入不是Q1/Q2。初投单PDF/返修editable+独立图、200词/3–6关键词/75简介，12pt可读示例不硬限；指南混有AP/CLP引用未移植，CRediT/AI披露/代码数据声明与会议扩展不造新增比例。独立OA表本刊Hybrid，Gold1675/优惠1255/经济考虑425美元，每篇一种折扣，Review/Tutorial豁免，Green保SPIE版权/GoldCCBY与免强制版面分开。单匿名至少2不保证录用；MJL00913286/EI4256与JCR2025OPTICS Q4secondary并存，SCIE不等Q1。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q4/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=0091-3286&hide_exact_match_fl=true)；Clarivate MJL 公开查询：以 ISSN 0091-3286 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4256 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。
+- 未解决内容及影响：费用税/个案资格和费率适用时点未知，后台清单/全部模板未核；指南混入其他刊文字保留适用范围限制。；没有当前JCR/CAS/覆盖年/单篇依据，出版制作时间不当首决或Rapid承诺；直接专刊不新增固定G4三样例义务。
+- 维护触发：本刊新指南澄清交叉引用/独立费率及合法数据库或新特刊公告时逐字段维护。
+- 全字段内容摘要cd32c304716b643c6c366a1f2b3695917136ac848e3198eca1892dddcb0948ca，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。
+
+## applied-physics-b
+
+Applied Physics B；Springer Nature；原checkedAt 2026-10-03，admitted候选journal-c1180cda35一对一。
+
+- 全部字段与原依据：[本刊指南](https://link.springer.com/journal/340/submission-guidelines)；[原记录1](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md#f1传统光学与光子器件五刊)、[原记录2](https://link.springer.com/journal/340/updates/27838354)、[原记录3](https://link.springer.com/journal/340/how-to-publish-with-us)。F1激光光子应用直接路径且EI374仅ISSN列匹配，EISSN空不否定官方电子号14320649；MJL09462171独立SCIE，JCR2025指标2024Optics/AppliedPhysics均Q3secondary不当Q1/Q2。regular/rapid/邀请综述各稿型，每轮editableLaTeX也接受Word，200词摘要/120字符含空格短题名；Rapid无页限由编辑决定不保证快录。2026-01全OA明确通知和本刊定价录用日GBP2690/USD4090/EUR3090+税，CCBY或BYNCND/投稿时酌情减免；旧范围订阅免费版面/指南版权转让冲突未删，制作印刷速度非审稿保证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=0946-2171&hide_exact_match_fl=true)；Clarivate MJL 公开查询：以 ISSN 0946-2171 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 374 行，Journal 类型及印刷刊号匹配，电子刊号格为 -，不声称该格匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。
+- 未解决内容及影响：旧订阅/版权文字废止范围和具体日期仍待澄清，费率年度更新及机构资格未知，不据较新通知把旧冲突全部解决。；当前CAS/全学科JCR/覆盖起止及订阅单篇未知；没有可承诺Rapid首决/出版时限或登录后文件清单。
+- 维护触发：出版社澄清旧指南与2026转型、发布新费率/许可/特刊或数据库新依据时维护本刊。
+- 全字段内容摘要0ac038560927e98b0806a9bc49f3983b5c26e59867a2bbbb8a474736a8f9b503，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。
+
+## photoacoustics
+
+Photoacoustics；Elsevier；原checkedAt 2026-09-13，admitted候选journal-47ba25f14e一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/photoacoustics/publish/guide-for-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e26photoacoustics--international-journal-of-extreme-manufacturing2026-10-04)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e43photoacoustics)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。E26独立Article无硬稿长/图数限，Review通常4–6印刷页/先咨询可更长，Letter初稿8页全含/2000词/5图表与最终4印刷页分开。250词/1–7关键词，Highlights与图形摘要均鼓励，与Displays mandatory不同；editableWord/TeX非PDFsource，OptionC和availability必填不强迫敏感患者数据公开。全OA4070美元除税、地理定价按所有作者、三个许可不假定唯一CCBY。MJL唯一电子号SCIE/JCR2025生医工程Q1secondary；EI4349本次第二目标行读得到ISSN22135979/EISSN空，改原双刊号匹配注记，仍confirmed/evidence/date/身份计数不变，不修改官方电子号或新造纸号。E43三个卷52/51/50的online与VOR/未来卷月、有限气体积分/离体血清/声腔实证条件保留。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, BIOMEDICAL/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=226)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2213-5979&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2213-5979 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex公开来源表SERIALS2026-08-07第4349行，Photoacoustics/Journal/Elsevier GmbH一致；ISSN列22135979、EISSN列为“-”，与官网唯一电子刊号2213-5979同号，但不声称纸/电子两列都匹配或据表列推断纸刊身份。DISCONTINUED2026-05-01旧核无匹配；本批仅第二次读取该已知行及表头澄清载体注记，不再重复同版。数据库方来源表证据，未检索订阅单篇/覆盖年份。
+- 未解决内容及影响：费率生效年/税及投稿或录用定价时点、个案地理/机构优惠未知；伦理/临床规则未通审、入口未后台登录复验。；CAS/当前JCR全分类/索引覆盖及订阅单篇未知；EI列载体与官网唯一电子号区别明确，不把名义12月卷当首次日或样例宣称临床效果。
+- 维护触发：独立新版指南/APC时点、当前分类/新来源表或原论文出版史澄清出现后维护，不反复旧同版。
+- 全字段内容摘要9caff615dbf9b17ffba49a2d5956ab7386de509e57a3841f18dc00eca939314f，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。
+
+## displays
+
+Displays；Elsevier；原checkedAt 2026-10-05，admitted候选journal-5a3452eb50一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/displays/publish/guide-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f7显示方向与旧刊状态)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e44displays)。F7电子显示/ARVR/感知关联不扩全部CV，原始/教程稿、250词摘要/1–7词、Word单栏/TeX双栏源文件、85字符3–5Highlights必须与graphical鼓励分开，100词简介/照片；数据声明不等全公开。订阅无publicationfee/可选OA2780美元另税，未取得独立2026价表；首页2/52/120/7天为四环节不可相加，统计年度样本/均值中位未知。MJL双号唯一SCIE；EI1157ISSN01419382/EISSN空不否定官网18727387；JCR2025指标2024四学科Q2/JIF非AIS、secondary。E44卷96Part2Jan2027/95Dec2026/94Sept与先online/VOR分开；HUD计算/估计/样片与量产区别、微LED模块良率非总体工艺，液晶验证类型未知明确保留。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/COMPUTER SCIENCE, HARDWARE & ARCHITECTURE/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=126)；JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=236)；JCR/JCR 2025（指标2024）/category/INSTRUMENTS & INSTRUMENTATION/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=379)；JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0141-9382&hide_exact_match_fl=true)；2026-10-05普通浏览器刊号0141-9382唯一Exact Match、刊名/出版社及0141-9382/1872-7387匹配；结果卡Core Collection明确Science Citation Index Expanded。不是侧栏筛选证据，未登录profile或查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核Elsevier公开表SERIALS 2026-08-07版第1157行Journal、刊名/出版者与纸号0141-9382匹配，电子号为“-”，未由此否定官网电子号；DISCONTINUED 2026-05-01版无匹配。只新两刊四号，未扫描旧85刊，覆盖年及订阅单篇未核。
+- 未解决内容及影响：整篇硬限/模板协议内部、实际上传清单和当前费率生效年/优惠资格未知；四周期统计口径缺失，不当个稿承诺。；当前JCR/CAS/覆盖年和单篇检索未知；液晶样例仿真或实测未明、未来正式卷年不当发表日；未扩大固定G4范围。
+- 维护触发：独立本刊新指南/年度费用或首页统计口径、合法数据库和液晶原方法证据出现后维护。
+- 全字段内容摘要616373f11d4220092db5cfab23235bc318613366e92399cdbfa23086f3819875，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。

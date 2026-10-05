@@ -3175,6 +3175,138 @@
         "APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。"
       ],
       "maintenanceTrigger": "官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。"
+    },
+    {
+      "kind": "journal",
+      "id": "journal-biomedical-optics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f8d8c7bdd770dfa14165492a1b774e6249eae8e20558be4dfe94e95693bbaffc",
+      "formalReviewBase": "7baa565f2dd045363c9ebd20b01214474b6fc8cb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#journal-biomedical-optics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "Research正式硬篇幅及税/费用适用时点和稿型例外未核；订阅平台单篇/覆盖年和当前JCR/CAS未知，secondary保留。",
+        "bioRxiv只读转送入口未后台复验，出版频次/三样例史非个稿首决时限；样例未通读全文/SI不当临床承诺。"
+      ],
+      "maintenanceTrigger": "SPIE发布本刊新指南/费率和Research页限说明、合法分区/覆盖依据出现后逐字段维护，不重复旧源。"
+    },
+    {
+      "kind": "journal",
+      "id": "neurophotonics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f3287e1fbe02defa3e00f72a72870ed06db49e8efdc29d925849f98ab6cec985",
+      "formalReviewBase": "7baa565f2dd045363c9ebd20b01214474b6fc8cb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#neurophotonics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "结构摘要具体分段标题、Research硬页限及税/优惠时点/稿型例外未知，不用同出版社统一填充。",
+        "当前分类/CAS/覆盖年/订阅单篇及实际系统提交未知；样例未通读全文、名义目录月份冲突不擅改，通常篇幅非硬约束/平均时限。"
+      ],
+      "maintenanceTrigger": "本刊明确结构标题/费率版本与数据稿规则或官方出版史更正/数据库新依据时维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "optical-engineering",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "cd32c304716b643c6c366a1f2b3695917136ac848e3198eca1892dddcb0948ca",
+      "formalReviewBase": "7baa565f2dd045363c9ebd20b01214474b6fc8cb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#optical-engineering",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "费用税/个案资格和费率适用时点未知，后台清单/全部模板未核；指南混入其他刊文字保留适用范围限制。",
+        "没有当前JCR/CAS/覆盖年/单篇依据，出版制作时间不当首决或Rapid承诺；直接专刊不新增固定G4三样例义务。"
+      ],
+      "maintenanceTrigger": "本刊新指南澄清交叉引用/独立费率及合法数据库或新特刊公告时逐字段维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "applied-physics-b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "0ac038560927e98b0806a9bc49f3983b5c26e59867a2bbbb8a474736a8f9b503",
+      "formalReviewBase": "7baa565f2dd045363c9ebd20b01214474b6fc8cb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#applied-physics-b",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "旧订阅/版权文字废止范围和具体日期仍待澄清，费率年度更新及机构资格未知，不据较新通知把旧冲突全部解决。",
+        "当前CAS/全学科JCR/覆盖起止及订阅单篇未知；没有可承诺Rapid首决/出版时限或登录后文件清单。"
+      ],
+      "maintenanceTrigger": "出版社澄清旧指南与2026转型、发布新费率/许可/特刊或数据库新依据时维护本刊。"
+    },
+    {
+      "kind": "journal",
+      "id": "photoacoustics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9caff615dbf9b17ffba49a2d5956ab7386de509e57a3841f18dc00eca939314f",
+      "formalReviewBase": "7baa565f2dd045363c9ebd20b01214474b6fc8cb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#photoacoustics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "费率生效年/税及投稿或录用定价时点、个案地理/机构优惠未知；伦理/临床规则未通审、入口未后台登录复验。",
+        "CAS/当前JCR全分类/索引覆盖及订阅单篇未知；EI列载体与官网唯一电子号区别明确，不把名义12月卷当首次日或样例宣称临床效果。"
+      ],
+      "maintenanceTrigger": "独立新版指南/APC时点、当前分类/新来源表或原论文出版史澄清出现后维护，不反复旧同版。"
+    },
+    {
+      "kind": "journal",
+      "id": "displays",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "616373f11d4220092db5cfab23235bc318613366e92399cdbfa23086f3819875",
+      "formalReviewBase": "7baa565f2dd045363c9ebd20b01214474b6fc8cb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#displays",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "整篇硬限/模板协议内部、实际上传清单和当前费率生效年/优惠资格未知；四周期统计口径缺失，不当个稿承诺。",
+        "当前JCR/CAS/覆盖年和单篇检索未知；液晶样例仿真或实测未明、未来正式卷年不当发表日；未扩大固定G4范围。"
+      ],
+      "maintenanceTrigger": "独立本刊新指南/年度费用或首页统计口径、合法数据库和液晶原方法证据出现后维护。"
     }
   ],
   "coreSeriesReviews": [

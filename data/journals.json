@@ -5435,7 +5435,7 @@
         "category": "OPTICS",
         "level": "category",
         "quartile": 2,
-        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=41",
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
         "evidence": "secondary"
       }
     ],
@@ -5613,7 +5613,7 @@
         "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4349 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
+        "note": "Elsevier Compendex公开来源表SERIALS2026-08-07第4349行，Photoacoustics/Journal/Elsevier GmbH一致；ISSN列22135979、EISSN列为“-”，与官网唯一电子刊号2213-5979同号，但不声称纸/电子两列都匹配或据表列推断纸刊身份。DISCONTINUED2026-05-01旧核无匹配；本批仅第二次读取该已知行及表头澄清载体注记，不再重复同版。数据库方来源表证据，未检索订阅单篇/覆盖年份。"
       }
     ],
     "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。",
