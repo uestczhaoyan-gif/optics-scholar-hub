@@ -855,3 +855,7 @@ cdd0f743f88a019ec64d1db38209a57180ab506b已验收[Pages 37378347488](https://git
 ## 2026-10-06：正式质量 V1-G2N
 
 1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50已验收[Pages 37382707163](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37382707163)；同SHA build/deploy成功、首页/版本200，摘要d623841a40c374a244fa23d25938161abd9142760fc6008ffbf169eb6d542908匹配本地（2026-10-05T22:33:02.361Z）。 V1-G2N实审3刊正式字段质量，累计99/251、余152；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2n)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。
+
+## 2026-10-06：本轮额度与续接
+
+V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37383408590)，CI数据校验/31测试/typecheck/lint/build及部署成功，首页/版本200，摘要d623841a40c374a244fa23d25938161abd9142760fc6008ffbf169eb6d542908匹配本地（2026-10-05T22:36:49.309Z）。正式质量99/251（60刊/29届/10活动），余48刊及104届；固定候选41/60，余19。G4/G5完成，G1/G2/G3/G6待验收，整体IN_PROGRESS。最新实际五小时额度已用97%、周30%，普通使用仍允许，但余额不足安全完成下一完整研究/审查/上传/部署批次，保留用于本次验收与续接保存；不使用重置券、不购买额度。原automation仍ACTIVE每五小时检查，未恢复旧任务或另建任务；每日来源巡检保留。剩余ID和下一步保存在work/V1-CONTINUATION-20261006.json；先检查额度/实际仓库及同SHA回执，COMST只预读尚未正式收尾，不冒充已完成。仅G1–G6全部真实验收、标记V1.0_ACCEPTED并确认最终部署后删除automation。
