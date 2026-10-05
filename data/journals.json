@@ -5616,7 +5616,27 @@
         "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4349 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
-    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。",
+    "scopeExamples": [
+      {
+        "title": "A novel microscale multilayer PZT MEMS cantilever for resonant photoacoustic gas sensing",
+        "source": "https://www.sciencedirect.com/science/article/pii/S2213597926000959",
+        "publishedAt": "2026-10-01",
+        "relevance": "2026-10-05核原ScienceDirect完整公开摘要、Show more出版史、题名/DOI/正式卷次文章号；首次Available online 2026-10-01，Version of Record 2026-10-03，52,December2026,100889，DOI 10.1016/j.pacs.2026.100889。名义正式卷月不是首次日，文章号不是页码。PZT薄膜MEMS微悬臂与H型光声腔共振匹配的气体光声光谱实验；乙炔测量，477ppb最低检测限限定265秒积分，不写成瞬时性能或已量产产品。 未通读全文/SI。"
+      },
+      {
+        "title": "Bimodal spectroscopy integrating multi-wavelength time-resolved photoacoustic spectroscopy and near-infrared spectroscopy with deep learning for quantitative detection of serum biochemical indicators",
+        "source": "https://www.sciencedirect.com/science/article/pii/S2213597926000649",
+        "publishedAt": "2026-07-10",
+        "relevance": "2026-10-05核原ScienceDirect完整公开摘要、Show more出版史、题名/DOI/正式卷次文章号；首次Available online 2026-07-10，Version of Record 2026-07-16，51,October2026,100858，DOI 10.1016/j.pacs.2026.100858。名义正式卷月不是首次日，文章号不是页码。多波长时间分辨光声+近红外双模态光谱，35特征波长、1084离体血清与双分支深度学习检测葡萄糖/甘油三酯/总胆固醇；不是无创活体或临床诊疗效果保证。 未通读全文/SI。"
+      },
+      {
+        "title": "Ultra-sensitive wideband diffraction-grating-coupled-mode Fabry-Pérot resonators for ultrasound and photoacoustic detection",
+        "source": "https://www.sciencedirect.com/science/article/pii/S2213597926000583",
+        "publishedAt": "2026-06-26",
+        "relevance": "2026-10-05核原ScienceDirect完整公开摘要、Show more出版史、题名/DOI/正式卷次文章号；首次Available online 2026-06-26，Version of Record 2026-07-02，50,August2026,100852，DOI 10.1016/j.pacs.2026.100852。名义正式卷月不是首次日，文章号不是页码。衍射光栅±1级/全内反射边界形成Fano耦合Fabry–Pérot光腔声探测器；2.1/4.9/10.1微米腔实制实测，最大校准带宽>130MHz，约72Pa噪声等效压力在100MHz范围条件，不推为患者临床结果。 未通读全文/SI。"
+      }
+    ]
   },
   {
     "id": "extreme-manufacturing",
@@ -7121,6 +7141,26 @@
         "coverageStart": null,
         "coverageEnd": null,
         "note": "2026-10-05核Elsevier公开表SERIALS 2026-08-07版第1157行Journal、刊名/出版者与纸号0141-9382匹配，电子号为“-”，未由此否定官网电子号；DISCONTINUED 2026-05-01版无匹配。只新两刊四号，未扫描旧85刊，覆盖年及订阅单篇未核。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Metasurface-based windshield head-up display with two-dimensional exit pupil expansion",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S0141938226003392",
+        "publishedAt": "2026-08-27",
+        "relevance": "2026-10-05核原ScienceDirect完整公开摘要、Show more出版史、题名/DOI/正式卷次文章号；首次Available online 2026-08-27，Version of Record 2026-09-06，96,Part2,January2027,103676，DOI 10.1016/j.displa.2026.103676。名义正式卷月不是首次日，文章号不是页码。570纳米硅纳柱超表面挡风玻璃波导二维出瞳扩展；178×78毫米出瞳为计算、10升至1升系统体积为估计，实制超表面样片约49度衍射角有实验验证，不冒充整车样机/量产。 未通读全文/SI。"
+      },
+      {
+        "title": "High-yield active-matrix TFT driven red Micro-LED display realized based on electroless plated nickel bump arrays",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S0141938226002283",
+        "publishedAt": "2026-06-02",
+        "relevance": "2026-10-05核原ScienceDirect完整公开摘要、Show more出版史、题名/DOI/正式卷次文章号；首次Available online 2026-06-02，Version of Record 2026-06-06，95,December2026,103565，DOI 10.1016/j.displa.2026.103565。名义正式卷月不是首次日，文章号不是页码。TFT驱动基板化学镀镍凸点阵列与键合红色Micro-LED显示模块实制；凸点100%与模块99.9%良率分别保存，15×30微米芯片mesa/222微米间距，不保证批量工艺总良率或量产已达成。 未通读全文/SI。"
+      },
+      {
+        "title": "Improved grayscale performance of liquid crystal displays by electric field-induced complementary director distribution",
+        "source": "https://www.sciencedirect.com/science/article/abs/pii/S0141938226001873",
+        "publishedAt": "2026-05-09",
+        "relevance": "2026-10-05核原ScienceDirect完整公开摘要、Show more出版史、题名/DOI/正式卷次文章号；首次Available online 2026-05-09，Version of Record 2026-05-12，94,September2026,103524，DOI 10.1016/j.displa.2026.103524。名义正式卷月不是首次日，文章号不是页码。单畴电极/低扭转弹性液晶互补指向分布与同步电压比改善离轴灰度；特定电极2微米宽/6微米距、电压比0.2及60度视角指标0.2381至0.1528，原摘要/可读预览未明确仿真或实测，验证类型未知，不推断任意视角或新实测样机。 未通读全文/SI。"
       }
     ]
   },

@@ -51,6 +51,30 @@
         "原完整公开摘要/Info出版史/卷期元数据，未通读全文/SI；目录S3/3/2名义月份与论文实际出版月份不同，以Published为首次日，保留原两套标注；小动脉模型失败/25成人研究非临床常规应用明确保留。"
       ],
       "maintenanceTrigger": "原页出版更正/撤稿或更合适样例出现后维护；不重复不变来源。"
+    },
+    {
+      "journalId": "photoacoustics",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "evidence": "JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e43photoacoustics",
+      "limitations": [
+        "原完整公开摘要/出版史及卷次元数据，未通读全文/SI；52/51为原目录in progress正式分配卷，未来卷月不覆盖真实Available online。积分条件、离体样本与器件实验边界保留。"
+      ],
+      "maintenanceTrigger": "原出版更正/撤稿或更合适不同期次样例出现时维护；不重复不变来源。"
+    },
+    {
+      "journalId": "displays",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "evidence": "JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e44displays",
+      "limitations": [
+        "原完整公开摘要/出版史/卷次元数据，付费全文不登录；未来卷月与首发分开，估计/实测、凸点/模块良率分别，液晶样例公开范围未明确仿真/实测，保持验证类型未知。"
+      ],
+      "maintenanceTrigger": "原出版更正/撤稿或更合适不同期次样例出现时维护；不重复不变来源。"
     }
   ],
   "candidateReviews": [],

@@ -1412,3 +1412,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E42补Neurophotonics三篇近两年三个正式期次原摘要/出版史样例，50刊至少三篇；名义期刊月份与Published冲突逐篇保留。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。固定6新增名单4刊已审，剩Photoacoustics/Displays；旧47刊收尾及其他门槛待完成。 [逐篇核验](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e42neurophotonics)。原摘要/Info Published实核，小动脉失败、25成人/20健康受试与数据用途边界保留。只改目标scopeExamples及文档账本，保护旧49样例/103其他刊/非样例所有字段及其他JSON和冻结范围；必要验证及差异审查后推送，同SHA验收。
 
 - 发布前validate、固定2762f98的其他103刊/旧49样例与目标非scope字段、其他JSON/冻结范围字节保护通过；三个Published/三个正式期次、目录月份差异/小动脉失败/25成人和50数量、剩2断言通过。406本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0，差异审查/git diff --check通过。8正式文件，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：Photoacoustics/Displays样例 E43/E44
+
+- E42 c4930ab92265c440a7abc2aecad95eaae62d70f5已验收[Pages37326604278](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37326604278)，同SHA完整CI/build/deploy成功，首页/版本200，摘要9c96934a2b5c529aa0ef8c2fb5396e787f00457726eb198c6a288b559acf9757匹配本地（2026-10-05T14:43:11.646Z）。正式编辑前验收；实际普通额度五小时50%/周8%允许，原五小时检查保持，无重置券/购买。work/E43_RESEARCH_2026-10-05.md及E44记录在长操作前保存真实范围。
+- E43/E44补Photoacoustics/Displays各三近两年不同正式卷原摘要/出版史样例，52刊至少三篇；原Available online/Version of Record/名义卷月分别保存。固定6新增名单均已实际审查，COMST两个正式期次及IJEM证书访问限制保留，旧47刊仍待一次收尾审查；G4及项目未最终验收。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。 [Photoacoustics](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e43photoacoustics)/[Displays](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e44displays)。六原完整公开摘要/出版史实核，未来卷次独立；液晶验证类型未知不推断。一次卷目录旧AX失效后刷新可见状态才选择，无盲猜URL或付费绕过。只改两刊scopeExamples及文档/账本，保护其他102刊/旧50样例/全部非scope字段与其他JSON/冻结范围，必要验证差异审查后推送，同SHA验收。
+
+- 发布前validate、固定c4930ab的102其他刊/50旧样例、两目标全部非scope字段与其他JSON/冻结范围字节保护通过；六首次日/两组三不同卷、未来卷月份/未知验证类型/估计实测和52数量、账本六新增审查断言通过。418本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查及git diff --check通过。8正式文件，完整31项测试/typecheck/lint由同SHA CI验收。

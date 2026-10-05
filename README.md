@@ -220,3 +220,5 @@ V1.0建设以[固定范围和结项门槛](docs/PROJECT_CLOSEOUT.md)为终点；
 2026-10-05：[JBO样例E41](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41jbo)核三不同正式期次原摘要/出版史，49刊至少三篇样例；[IJEM证书访问限制](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41ijem访问限制)保留，未伪补样例。 Three JBO samples from distinct issues are verified; IJEM access limitations remain explicit.
 
 2026-10-05：[Neurophotonics样例E42](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e42neurophotonics)核三不同正式期次原摘要/出版史；50刊至少三篇样例，名义月份与真实Published分开。 Three Neurophotonics samples from distinct issues are verified, with publication dates separated from nominal issue months.
+
+2026-10-05：[Photoacoustics E43](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e43photoacoustics)/[Displays E44](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e44displays)各三不同正式卷原摘要/出版史已核，52刊至少三篇；未来卷月不覆盖真实首发，未知验证类型保留。 Three samples per journal are verified, with online dates, record dates and nominal volumes kept separate.

@@ -117,3 +117,27 @@ E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外
 | [CoMind R1: a time-resolved interferometric optical neuromonitoring system for pulsatile cerebral blood flow measurement at late times-of-flight](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-13/issue-02/025002/CoMind-R1--a-time-resolved-interferometric-optical-neuromonitoring-system/10.1117/1.NPh.13.2.025002.full) | 2026-03-30；13(2),025002；原论文Mar2026/目录April2026；10.1117/1.NPh.13.2.025002 | 时间分辨干涉脑血流光监测：1064纳米线性扫频激光、多模采集、并行探测/实时处理，均匀及动态双层仿体与25成人静息/视觉刺激实验；不是已常规临床应用的声明。 |
 
 Info出版史：三篇Received2025-12-30/2026-01-13/2025-08-20，Accepted2026-08-14/07-21/03-11，Published2026-09-16/09-03/03-30。当前/期目录分别标August/July/April2026，原论文引文则Sept/Sept/Mar2026；不擅自修正官方月份、不用目录月份覆盖首次日。首发均近两年且不晚于核验日。第二篇摘要明确静脉可校正、小动脉不能校正，第三篇披露作者为CoMind过往/当前员工，不作中立临床效果推荐或常规应用保证。范围仅适配样例，指南/费用/索引分区及整刊checkedAt不变。E42补Neurophotonics三篇近两年三个正式期次原摘要/出版史样例，50刊至少三篇；名义期刊月份与Published冲突逐篇保留。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。固定6新增名单4刊已审，剩Photoacoustics/Displays；旧47刊收尾及其他门槛待完成。
+
+## E43：Photoacoustics
+
+核验2026-10-05。[ScienceDirect本刊](https://www.sciencedirect.com/journal/photoacoustics)→[原卷期目录](https://www.sciencedirect.com/journal/photoacoustics/issues)→原论文。六篇各核完整公开摘要、Show more出版史、题名/DOI/卷次文章号，不用Reading Assistant生成总结。Displays原链接自动转abs/pii，公开摘要可读；不登录付费全文。范围未通读全文/SI、不重新核指南/索引分区/APC或整刊checkedAt。
+
+| 原论文 | Available online / Version of Record / 正式卷次文章号 / DOI | 适配与验证边界 |
+| --- | --- | --- |
+| [A novel microscale multilayer PZT MEMS cantilever for resonant photoacoustic gas sensing](https://www.sciencedirect.com/science/article/pii/S2213597926000959) | 2026-10-01 / 2026-10-03；52,December2026,100889；10.1016/j.pacs.2026.100889 | PZT薄膜MEMS微悬臂与H型光声腔共振匹配的气体光声光谱实验；乙炔测量，477ppb最低检测限限定265秒积分，不写成瞬时性能或已量产产品。 |
+| [Bimodal spectroscopy integrating multi-wavelength time-resolved photoacoustic spectroscopy and near-infrared spectroscopy with deep learning for quantitative detection of serum biochemical indicators](https://www.sciencedirect.com/science/article/pii/S2213597926000649) | 2026-07-10 / 2026-07-16；51,October2026,100858；10.1016/j.pacs.2026.100858 | 多波长时间分辨光声+近红外双模态光谱，35特征波长、1084离体血清与双分支深度学习检测葡萄糖/甘油三酯/总胆固醇；不是无创活体或临床诊疗效果保证。 |
+| [Ultra-sensitive wideband diffraction-grating-coupled-mode Fabry-Pérot resonators for ultrasound and photoacoustic detection](https://www.sciencedirect.com/science/article/pii/S2213597926000583) | 2026-06-26 / 2026-07-02；50,August2026,100852；10.1016/j.pacs.2026.100852 | 衍射光栅±1级/全内反射边界形成Fano耦合Fabry–Pérot光腔声探测器；2.1/4.9/10.1微米腔实制实测，最大校准带宽>130MHz，约72Pa噪声等效压力在100MHz范围条件，不推为患者临床结果。 |
+
+原目录52 December2026、51 October2026均in progress正式已分配卷，50 August2026；样例真实首发10-01/07-10/06-26，不把未来December当首次。三篇Received08-10/05-19/01-15，Revised09-11/07-05/06-04，Accepted09-21/07-09/06-22；发布日期不是收稿/修订/接受日。原记录实际异卷52/51/50。首发均2024-10-05后且不晚于核验日，文章号不冒充页码。
+
+## E44：Displays
+
+核验2026-10-05。[ScienceDirect本刊](https://www.sciencedirect.com/journal/displays)→[原卷期目录](https://www.sciencedirect.com/journal/displays/issues)→原论文。六篇各核完整公开摘要、Show more出版史、题名/DOI/卷次文章号，不用Reading Assistant生成总结。Displays原链接自动转abs/pii，公开摘要可读；不登录付费全文。范围未通读全文/SI、不重新核指南/索引分区/APC或整刊checkedAt。
+
+| 原论文 | Available online / Version of Record / 正式卷次文章号 / DOI | 适配与验证边界 |
+| --- | --- | --- |
+| [Metasurface-based windshield head-up display with two-dimensional exit pupil expansion](https://www.sciencedirect.com/science/article/abs/pii/S0141938226003392) | 2026-08-27 / 2026-09-06；96,Part2,January2027,103676；10.1016/j.displa.2026.103676 | 570纳米硅纳柱超表面挡风玻璃波导二维出瞳扩展；178×78毫米出瞳为计算、10升至1升系统体积为估计，实制超表面样片约49度衍射角有实验验证，不冒充整车样机/量产。 |
+| [High-yield active-matrix TFT driven red Micro-LED display realized based on electroless plated nickel bump arrays](https://www.sciencedirect.com/science/article/abs/pii/S0141938226002283) | 2026-06-02 / 2026-06-06；95,December2026,103565；10.1016/j.displa.2026.103565 | TFT驱动基板化学镀镍凸点阵列与键合红色Micro-LED显示模块实制；凸点100%与模块99.9%良率分别保存，15×30微米芯片mesa/222微米间距，不保证批量工艺总良率或量产已达成。 |
+| [Improved grayscale performance of liquid crystal displays by electric field-induced complementary director distribution](https://www.sciencedirect.com/science/article/abs/pii/S0141938226001873) | 2026-05-09 / 2026-05-12；94,September2026,103524；10.1016/j.displa.2026.103524 | 单畴电极/低扭转弹性液晶互补指向分布与同步电压比改善离轴灰度；特定电极2微米宽/6微米距、电压比0.2及60度视角指标0.2381至0.1528，原摘要/可读预览未明确仿真或实测，验证类型未知，不推断任意视角或新实测样机。 |
+
+原正式卷96Part2 January2027、95 December2026、94 September2026与首发08-27/06-02/05-09分开，未来名义2027不代表尚未在线发表。三篇Received07-01/02-14/02-03，Revised08-12/05-20/05-02，Accepted08-26/05-31/05-06。液晶公开摘要及可读预览未给simulat或明确实測，原电光参数结果可支持范围适配，但验证类型明确未知，不编造仿真/实测；额外可读原论文方法出现时维护。首发均2024-10-05后且不晚于核验日，文章号不冒充页码。
