@@ -1235,3 +1235,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - C29新增OFC2025/2026与CLEO2025/2026四历史届，连到现有2027同系列；94刊/122届/10活动，98稳定系列与19个至少两届系列，273候选203/63/7、分区/索引/36样例保持。原118届/96其他系列及所有期刊/活动JSON保持；只两系列editionIds/sources和两候选关联/审核备注变化，后续公告日未刷新。OFC2026原CFP精确EDT截止与其他日级/通知周分开；CLEO2026跨年通知、时刻语义及海报尺寸冲突保留。 [逐字段范围](CONFERENCE_EVIDENCE_2026-10-05.md)。
 - 档案原表、OFC原CFP第1–3页与p1/p3图、旧新闻正文、CLEO2026指南/现场/日程及2025程序首页面向场次实读；未登录、下付费正文、接触登录视频、上传或联系。历史页年份、周通知、海报宽度和精确时刻语义保留，未知不抄新届。必要验证与差异审查后上传同SHA验收，其他规划继续。
 - 发布前数据校验、固定aa69ccd的118旧届/96其他系列/271其他候选及全部其他JSON保持、两系列两字段/两候选四字段白名单、四日城/时区与未知通知/尺寸冲突断言通过。新届按现数据模型将未知场馆写明待核，Dataset独立路径仅保留原CFP同日说明，未增造事件类型。317本地Markdown链接、维护428项/12主题、31项测试、修正数据后的Pages子路径六资源构建exit0及差异审查/git diff --check通过；typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：传统光学三刊 F8
+
+- C29 8012b2bee7f740128f1e95dd2aa870931c13da3d已验收[Pages37247520316](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37247520316)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，5158d5ebb44075da9deaca886345418c1d83255a7d7ab348861a1a7d677abdf8与本地一致（2026-10-05T00:27:25.581Z）。正式编辑前已验收。work/F8_RESEARCH_2026-10-05.md保存原页/字段/未知与长操作前检查点。
+- F8新增Optical Materials、Optics & Laser Technology、Optics and Lasers in Engineering三本直接光学刊，MJL当前SCIE/新EI三行独立依据，五条JCR 2025 JIF为secondary。OM光学Q1/材料Q2，OLT光学Q1/应用物理Q2，OLE光学Q2；不取AIS/CAS或推2026。材料实验验证、工程光学方法与综述流程边界、逐刊APC/四环节指标保留。当前97刊/122届/10活动、273候选206 admitted/60 pending/7 deferred、SCIE83/ESCI12/EI90、JCR95/CAS11、36样例，旧94刊和其他JSON保护。其他规划继续。 [逐字段证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f8传统光学三刊)。
+- 三MJL唯一卡和三新EI行、三页原图五JIF学科记录实核；三指南/首页/Shop范围分别读，材料实验验证与工程方法创新限制保留，综述适用未知不选某段强行统一；OLT正式JOLT链接实核。未登录/支付/上传或访问内部模板；原94刊与其他JSON保护，必要验证/差异审查后上传同SHA验收，其他规划继续。
+
+- 发布前数据校验、固定8012b2b的94旧刊/36样例与270其他候选/全部其他JSON保护、三候选六审核字段白名单通过；五条JIF/六索引/97及206-60-7、83-12-90、95-11计数与范围/未知边界断言通过。326本地Markdown链接、维护433项/12主题覆盖、Pages子路径构建六资源exit0和数据/文档差异审查通过；git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。

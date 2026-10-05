@@ -1982,12 +1982,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "不凭名称推定符合 1/2 区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/optical-materials",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optical-materials"],
+    "decisionReason": "官方身份与直接光学研究范围、MJL当前SCIE和数据库EI已核；JCR 2025明确学科JIF Q1/Q2机构转载参考，按主合集准入，不宣称2026官方/CAS。",
+    "nextAction": "补2026/CAS与完整投稿模板、整篇硬限、图文摘要和费用年度；保留范围限制，不以同社他刊政策代替本刊。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-0986a2b828",
@@ -1996,12 +1996,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "不凭名称推定符合 1/2 区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/optics-and-laser-technology",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optics-laser-technology"],
+    "decisionReason": "官方身份与直接光学研究范围、MJL当前SCIE和数据库EI已核；JCR 2025明确学科JIF Q1/Q2机构转载参考，按主合集准入，不宣称2026官方/CAS。",
+    "nextAction": "补2026/CAS与完整投稿模板、整篇硬限、图文摘要和费用年度；保留范围限制，不以同社他刊政策代替本刊。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-160d4c5afa",
@@ -2010,12 +2010,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "不凭名称推定符合 1/2 区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["optics-lasers-engineering"],
+    "decisionReason": "官方身份与直接光学研究范围、MJL当前SCIE和数据库EI已核；JCR 2025明确学科JIF Q1/Q2机构转载参考，按主合集准入，不宣称2026官方/CAS。",
+    "nextAction": "补2026/CAS与完整投稿模板、整篇硬限、图文摘要和费用年度；保留范围限制，不以同社他刊政策代替本刊。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-47ba25f14e",

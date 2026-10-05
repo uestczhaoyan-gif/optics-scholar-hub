@@ -91,3 +91,27 @@ JSID近两年、三个不同期次公开原论文样例，首次发表与卷期�
 | [Analysis of Volume Holographic Gratings With Statistical Distribution](https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.2117) | 2025-12-01；34(2)39–48为2026年2月期 | 2026-10-05核原页公开摘要/元数据，Research Article，34(2)39–48为2026年2月期，首次发表2025-12-01。多周期体全息光栅有限元模型、周期/折射率调制的统计分布与衍射参数分析，并与实验数据比较；适配全息光学建模，不当新量产显示系统。 |
 
 F7新增Displays与JSID两本显示方向期刊，独立MJL SCIE/EI来源表依据；JCR 2025指标2024各四学科JIF分别Q2/Q3，JSID按EI补充而非AIS Q2准入。JSID三篇不同期次近两年光学样例保存首次日期与理论/实验边界。旧JDT因2016停刊改deferred，无自动更名。当前94刊/118届/10活动、273候选203 admitted/63 pending/7 deferred、SCIE80/ESCI12/EI87、JCR92/CAS11、36刊至少三篇样例；旧92刊/35样例和其他JSON保护，其他规划继续。
+
+## F8：传统光学三刊
+
+核验2026-10-05。三刊ScienceDirect首页/作者指南与MJL唯一Exact Match卡普通浏览器实读，Shop原范围Web实读。不把同社通用字段互相移植，OM/X为独立刊；未登录/上传/联系/支付。完整模板/协议/系统内清单未核。
+
+| 刊与身份来源 | 范围/稿规边界 | 首决/外审后/录用/上线及可选OA |
+| --- | --- | --- |
+| [Optical Materials](https://www.sciencedirect.com/journal/optical-materials)，0925-3467/1873-1252；[Shop](https://shop.elsevier.com/journals/optical-materials/0925-3467)/[本刊Guide](https://www.sciencedirect.com/journal/optical-materials/publish/guide-for-authors) | 本刊范围称原创及invited reviews，稿型段另写regular articles/reviews；非邀综述适用流程尚未确认。不能把companion Optical Materials: X的投稿入口/纯计算范围作为本刊要求。；独立核单匿名≥2、250词/1–7关键词，强制Highlights3–5×85字符及可编辑源稿/数据声明；整篇硬限与图文摘要未核。 | 3/34/81/2天分别步骤，口径/年未知；USD3530税外，订阅无publication fee，独立2026价表/资格未知。 |
+| [Optics & Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)，0030-3992/1879-2545；[Shop](https://shop.elsevier.com/journals/optics-and-laser-technology/0030-3992)/[本刊Guide](https://www.sciencedirect.com/journal/optics-and-laser-technology/publish/guide-for-authors) | 本刊发表原创与综述，部分综述委约，另有short communications/technical notes；短稿可快速处理但未承诺具体天数，未把全部综述改成邀稿。每位作者简介至多100词及单独证件式照片。；独立核单匿名≥2、250词/1–7关键词，强制Highlights3–5×85字符及可编辑源稿/数据声明；整篇硬限与图文摘要未核。 | 10/48/102/7天分别步骤，口径/年未知；USD3470税外，订阅无publication fee，独立2026价表/资格未知。 |
+| [Optics and Lasers in Engineering](https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering)，0143-8166/1873-0302；[Shop](https://shop.elsevier.com/journals/optics-and-lasers-in-engineering/0143-8166)/[本刊Guide](https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering/publish/guide-for-authors) | 须突出光学方法的新意/意义；不能因为范围含computational imaging就把纯计算问题或仅应用参数优化当可投稿。每位作者简介至多100词及单独证件式照片；具体稿型硬限未知。；独立核单匿名≥2、250词/1–7关键词，强制Highlights3–5×85字符及可编辑源稿/数据声明；整篇硬限与图文摘要未核。 | 4/39/88/7天分别步骤，口径/年未知；USD3470税外，订阅无publication fee，独立2026价表/资格未知。 |
+
+MJL各纸号结果卡SCIE、刊名/出版者/双号一致；索引JSON保留查询入口，侧栏不作结果。EI[数据库方公开表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)SERIALS2026-08-07：新三目标第4258/4263/4264行Journal，纸号与出版者匹配、电子皆“-”，不否定官网电子号；DISCONTINUED2026-05-01无六号。hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，仅三目标，不重扫旧87刊，覆盖年/单篇检索未知。
+
+[JCR机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf)2025年6月版、指标2024；hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274。三原图454/567/604页实看、按JIF非AIS；OM光学AIS Q2不是本刊JIF Q1的替代，CAS/2026仍未知。
+
+| 刊 | JCR 2025 JIF学科/原页 |
+| --- | --- |
+| Optical Materials | OPTICS Q1（p567）；MATERIALS SCIENCE, MULTIDISCIPLINARY Q2（p454） |
+| Optics & Laser Technology | OPTICS Q1（p567）；PHYSICS, APPLIED Q2（p604） |
+| Optics and Lasers in Engineering | OPTICS Q2（p567） |
+
+OLT投稿实际入口为https://submit.elsevier.com/JOLT，未按缩略链接猜OLT；OM为OM，OLE为OLEN。OM纯计算需直接实验验证，OLE纯计算/参数优化或仅应用不等于光学方法创新。旧94刊/36样例与所有其他JSON保护，不宣称完整2026政策已核。
+
+F8新增Optical Materials、Optics & Laser Technology、Optics and Lasers in Engineering三本直接光学刊，MJL当前SCIE/新EI三行独立依据，五条JCR 2025 JIF为secondary。OM光学Q1/材料Q2，OLT光学Q1/应用物理Q2，OLE光学Q2；不取AIS/CAS或推2026。材料实验验证、工程光学方法与综述流程边界、逐刊APC/四环节指标保留。当前97刊/122届/10活动、273候选206 admitted/60 pending/7 deferred、SCIE83/ESCI12/EI90、JCR95/CAS11、36样例，旧94刊和其他JSON保护。其他规划继续。

@@ -7043,5 +7043,210 @@
         "note": "2026-10-05核Elsevier公开表SERIALS 2026-08-07版第3687行Journal、刊名/出版者与纸号1071-0922匹配，电子号1938-3657亦匹配；DISCONTINUED 2026-05-01版无匹配。只新两刊四号，未扫描旧85刊，覆盖年及订阅单篇未核。"
       }
     ]
+  },
+  {
+    "id": "optical-materials",
+    "name": "Optical Materials",
+    "abbr": "Opt. Mater.",
+    "publisher": "Elsevier",
+    "issn": "0925-3467",
+    "eissn": "1873-1252",
+    "domains": ["光学", "材料", "物理"],
+    "topics": ["光学材料", "电子与器件", "集成光子", "激光与非线性"],
+    "description": "光学材料物理/化学与光子器件应用，需明确材料、工艺、性质或应用的创新。无直接实验验证的纯计算结果不在本刊范围；不与独立companion Optical Materials: X混同。JCR 2025光学JIF Q1、综合材料Q2为机构转载参考。",
+    "website": "https://www.sciencedirect.com/journal/optical-materials",
+    "guide": "https://www.sciencedirect.com/journal/optical-materials/publish/guide-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0925-3467&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号0925-3467唯一Exact Match结果卡，刊名/Elsevier及0925-3467/1873-1252匹配，Core Collection明确Science Citation Index Expanded；不是侧栏filter，未登录profile或查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核Elsevier公开SERIALS 2026-08-07版第4258行Journal/刊名/纸号0925-3467/出版者相符，电子“-”不否定官网号；DISCONTINUED 2026-05-01版无本批六新号匹配。仅新三目标不重扫旧87刊，覆盖年和单篇实际检索未核。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊当前指南：本刊范围称原创及invited reviews，稿型段另写regular articles/reviews；非邀综述适用流程尚未确认。不能把companion Optical Materials: X的投稿入口/纯计算范围作为本刊要求。",
+      "编辑初筛后至少两位单匿名专家评审，编辑最终决定。英文摘要至多250词、1–7关键词，Highlights必需，独立可编辑文件3–5条、每条至多85字符含空格。",
+      "稿件源文件可编辑Word .doc/.docx单栏或LaTeX .tex双栏，PDF不是可接受源文件；图片分文件。投稿时须说明数据可用性，不共享可给理由，不等于全部原始数据必须公开。",
+      "本批统一整篇硬字数/页限、graphical abstract要求、完整模板/许可与系统内清单未核。正式入口 https://submit.elsevier.com/OM ，未登录或上传。"
+    ],
+    "publishing": "2026-10-05核本刊首页：可选OA APC USD3530（税外），订阅路径不收publication fee；机构减免资格/其他费用未评估，网页无独立2026费率版年，不作固定年价。来源：https://www.sciencedirect.com/journal/optical-materials",
+    "schedule": "2026-10-05核本刊首页：投稿至首决3天、投稿至外审后决定34天、投稿至录用81天、录用至在线发表2天；分别列环节，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/optical-materials"
+  },
+  {
+    "id": "optics-laser-technology",
+    "name": "Optics & Laser Technology",
+    "abbr": "Opt. Laser Technol.",
+    "publisher": "Elsevier",
+    "issn": "0030-3992",
+    "eissn": "1879-2545",
+    "domains": ["光学", "物理", "电子"],
+    "topics": [
+      "激光与非线性",
+      "光学设计与制造",
+      "传感与测量",
+      "成像与计算光学",
+      "集成光子"
+    ],
+    "description": "光学与激光技术及应用，含激光/光电子器件、光学计量、加工、成像和光子学。研究需有光学技术推进，不能据宽范围扩为全部算法；JCR 2025光学JIF Q1、应用物理Q2为机构转载参考。",
+    "website": "https://www.sciencedirect.com/journal/optics-and-laser-technology",
+    "guide": "https://www.sciencedirect.com/journal/optics-and-laser-technology/publish/guide-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0030-3992&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号0030-3992唯一Exact Match结果卡，刊名/Elsevier及0030-3992/1879-2545匹配，Core Collection明确Science Citation Index Expanded；不是侧栏filter，未登录profile或查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核Elsevier公开SERIALS 2026-08-07版第4263行Journal/刊名/纸号0030-3992/出版者相符，电子“-”不否定官网号；DISCONTINUED 2026-05-01版无本批六新号匹配。仅新三目标不重扫旧87刊，覆盖年和单篇实际检索未核。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊当前指南：本刊发表原创与综述，部分综述委约，另有short communications/technical notes；短稿可快速处理但未承诺具体天数，未把全部综述改成邀稿。每位作者简介至多100词及单独证件式照片。",
+      "编辑初筛后至少两位单匿名专家评审，编辑最终决定。英文摘要至多250词、1–7关键词，Highlights必需，独立可编辑文件3–5条、每条至多85字符含空格。",
+      "稿件源文件可编辑Word .doc/.docx单栏或LaTeX .tex双栏，PDF不是可接受源文件；图片分文件。投稿时须说明数据可用性，不共享可给理由，不等于全部原始数据必须公开。",
+      "本批统一整篇硬字数/页限、graphical abstract要求、完整模板/许可与系统内清单未核。正式入口 https://submit.elsevier.com/JOLT ，未登录或上传。"
+    ],
+    "publishing": "2026-10-05核本刊首页：可选OA APC USD3470（税外），订阅路径不收publication fee；机构减免资格/其他费用未评估，网页无独立2026费率版年，不作固定年价。来源：https://www.sciencedirect.com/journal/optics-and-laser-technology",
+    "schedule": "2026-10-05核本刊首页：投稿至首决10天、投稿至外审后决定48天、投稿至录用102天、录用至在线发表7天；分别列环节，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/optics-and-laser-technology"
+  },
+  {
+    "id": "optics-lasers-engineering",
+    "name": "Optics and Lasers in Engineering",
+    "abbr": "Opt. Lasers Eng.",
+    "publisher": "Elsevier",
+    "issn": "0143-8166",
+    "eissn": "1873-0302",
+    "domains": ["光学", "电子", "物理"],
+    "topics": [
+      "光学设计与制造",
+      "传感与测量",
+      "成像与计算光学",
+      "生物医学光学",
+      "电子与器件"
+    ],
+    "description": "工程环境下的光学方法/激光技术，含计量、计算成像、制造、光子传感与光谱/红外THz。纯参数优化/计算问题或侧重应用而非光学方法的稿件不适配；JCR 2025光学JIF Q2为机构转载参考。",
+    "website": "https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering",
+    "guide": "https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering/publish/guide-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0143-8166&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号0143-8166唯一Exact Match结果卡，刊名/Elsevier及0143-8166/1873-0302匹配，Core Collection明确Science Citation Index Expanded；不是侧栏filter，未登录profile或查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核Elsevier公开SERIALS 2026-08-07版第4264行Journal/刊名/纸号0143-8166/出版者相符，电子“-”不否定官网号；DISCONTINUED 2026-05-01版无本批六新号匹配。仅新三目标不重扫旧87刊，覆盖年和单篇实际检索未核。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊当前指南：须突出光学方法的新意/意义；不能因为范围含computational imaging就把纯计算问题或仅应用参数优化当可投稿。每位作者简介至多100词及单独证件式照片；具体稿型硬限未知。",
+      "编辑初筛后至少两位单匿名专家评审，编辑最终决定。英文摘要至多250词、1–7关键词，Highlights必需，独立可编辑文件3–5条、每条至多85字符含空格。",
+      "稿件源文件可编辑Word .doc/.docx单栏或LaTeX .tex双栏，PDF不是可接受源文件；图片分文件。投稿时须说明数据可用性，不共享可给理由，不等于全部原始数据必须公开。",
+      "本批统一整篇硬字数/页限、graphical abstract要求、完整模板/许可与系统内清单未核。正式入口 https://submit.elsevier.com/OLEN ，未登录或上传。"
+    ],
+    "publishing": "2026-10-05核本刊首页：可选OA APC USD3470（税外），订阅路径不收publication fee；机构减免资格/其他费用未评估，网页无独立2026费率版年，不作固定年价。来源：https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering",
+    "schedule": "2026-10-05核本刊首页：投稿至首决4天、投稿至外审后决定39天、投稿至录用88天、录用至在线发表7天；分别列环节，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering"
   }
 ]
