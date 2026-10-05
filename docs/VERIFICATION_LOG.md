@@ -1431,3 +1431,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G5完成固定12核心系列/29届历史与未来关联、独立当届规则的一次收尾；9系列多届，三单届后续未知/受限留有触发条件，不推算或凑数。G4/G5完成，G1最终回归/G2正式质量/G3固定60候选/G6验收交接仍待完成，整个项目IN_PROGRESS。目录与冻结范围全部保持。 [原逐届来源及范围](V1_SERIES_REVIEW_2026-10-05.md)。全部29届分组实读，原页面/附件证据复用；CIOP旧安全警告不重复，未来开启计划不冒充后台。本批纯文档，全部data/冻结范围、已完成G4与其他未审门槛保持。长操作前work/V1_G5_RESEARCH_2026-10-05.md保存范围，必要验证/差异审查后推送同SHA验收。
 
 - 发布前validate、全部data/冻结范围字节保护、12唯一固定系列/29届及历史未来关联、旧53样例记录与其他未审门槛不变断言通过；374本地Markdown链接、维护453项/12主题、差异审查和git diff --check通过。纯文档复用已验收六资源本地构建/目录摘要，同SHA CI继续执行完整31测试/typecheck/lint/build及部署验收。
+
+## 2026-10-05：候选收尾 V1-G3A
+
+- V1-G5 fdf32bb9641e4780dd95fa974faad1c1faaa65db已验收[Pages37330930498](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37330930498)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:14:05.130Z）。正式编辑前验收；work/V1_G3A_RESEARCH_2026-10-05.md保存只读范围。复用已有真实尝试，不从零重复不变官方源，安全限制未绕过。
+- V1-G3A收尾固定15候选（13会议/论坛、2停收期刊）：7 deferred均有真实官方暂停/冲突依据，8 pending保留独立身份/CFP/访问缺口；原状态、数据与reviewedAt全部不变。45期刊未本次收尾，G3未完成；G4/G5已完成，整体IN_PROGRESS。 [原链接/逐项依据/后续条件](V1_CANDIDATE_REVIEW_2026-10-05.md)。只文档/账本变化，全部目录与冻结范围字节保护，未审45项/其他门槛不标完成；必要验证差异审查后推送同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保护、15唯一固定候选/7原deferred全覆盖、原状态/实核日期不变及45未审保留、旧G4/G5与其他门槛不变断言通过；384本地Markdown链接、维护453项/12主题、差异审查和git diff --check通过。纯文档复用已验收本地六资源构建/目录摘要，同SHA CI执行完整31测试/typecheck/lint/build/deploy验收。

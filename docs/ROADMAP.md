@@ -771,3 +771,7 @@ E43/E44 4ca615e9a9f67f8a564adef05ab52dfdf2c9a87e已验收[Pages37328348755](http
 ## 2026-10-05：核心系列收尾 V1-G5
 
 V1-G4 72f3b7ab3369e62a4110c45530d3af95127f349a已验收[Pages37330142798](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37330142798)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:08:47.411Z）。一次连接超时仅复查同SHA，无新提交。 V1-G5完成固定12核心系列/29届历史与未来关联、独立当届规则的一次收尾；9系列多届，三单届后续未知/受限留有触发条件，不推算或凑数。G4/G5完成，G1最终回归/G2正式质量/G3固定60候选/G6验收交接仍待完成，整个项目IN_PROGRESS。目录与冻结范围全部保持。 [逐届审查](V1_SERIES_REVIEW_2026-10-05.md)。下一步固定60候选及正式字段质量，五小时调度继续至额度限制或V1.0真正验收后停止。
+
+## 2026-10-05：候选收尾 V1-G3A
+
+V1-G5 fdf32bb9641e4780dd95fa974faad1c1faaa65db已验收[Pages37330930498](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37330930498)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:14:05.130Z）。 V1-G3A收尾固定15候选（13会议/论坛、2停收期刊）：7 deferred均有真实官方暂停/冲突依据，8 pending保留独立身份/CFP/访问缺口；原状态、数据与reviewedAt全部不变。45期刊未本次收尾，G3未完成；G4/G5已完成，整体IN_PROGRESS。 [逐项范围](V1_CANDIDATE_REVIEW_2026-10-05.md)。继续固定45期刊及G2正式质量，完成后最终功能/发布验收；不扩充范围，原五小时检查保持。

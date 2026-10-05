@@ -692,7 +692,203 @@
       "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
     }
   ],
-  "candidateReviews": [],
+  "candidateReviews": [
+    {
+      "candidateId": "conference-series-a6ba8ff987",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-a6ba8ff987",
+      "limitations": [
+        "2026日文主页/投稿页页眉写12/16–19，正文及英文主页写12/16–18；会期终日仍冲突，暂不入正式目录。",
+        "等官方澄清终日；已核实会员资格、1页予稿及10/26–11/6PDP，英文旧9/4未体现日文9/11延期，不混同OPIC/OPIE。"
+      ],
+      "maintenanceTrigger": "等官方澄清终日；已核实会员资格、1页予稿及10/26–11/6PDP，英文旧9/4未体现日文9/11延期，不混同OPIC/OPIE。"
+    },
+    {
+      "candidateId": "conference-series-ed1f00d66f",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-ed1f00d66f",
+      "limitations": [
+        "官方确认欧洲环境遥感为 Sensors + Imaging 子系列，现有详情为 2026；母会 2027 已收录一次，子系列不重复计数。",
+        "跟踪 2027 子系列独立征稿/范围；母会见 spie-sensors-imaging-2027，不把它当本候选别名或重复关联正式条目。"
+      ],
+      "maintenanceTrigger": "跟踪 2027 子系列独立征稿/范围；母会见 spie-sensors-imaging-2027，不把它当本候选别名或重复关联正式条目。"
+    },
+    {
+      "candidateId": "conference-series-52c54011b8",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-52c54011b8",
+      "limitations": [
+        "官方确认欧洲 Security + Defence 为 Sensors + Imaging 子系列；与美国 Defense + Security 区分，现有详情为 2026，保留 pending。",
+        "核实 2027 子系列独立征稿；母会见 spie-sensors-imaging-2027，不新增同日重复母会或混合美国系列。"
+      ],
+      "maintenanceTrigger": "核实 2027 子系列独立征稿；母会见 spie-sensors-imaging-2027，不新增同日重复母会或混合美国系列。"
+    },
+    {
+      "candidateId": "conference-series-c48e246e60",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-c48e246e60",
+      "limitations": [
+        "精确CHILAS身份未取得官方依据；可读2024母会包含HILAS，缩写与正式全名不同，尚不能认作同一系列。",
+        "优先查清CHILAS原始名称依据及与HILAS关系；未证实前不新增别名、不按两年周期推算。"
+      ],
+      "maintenanceTrigger": "优先查清CHILAS原始名称依据及与HILAS关系；未证实前不新增别名、不按两年周期推算。"
+    },
+    {
+      "candidateId": "conference-series-00afad0df0",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-00afad0df0",
+      "limitations": [
+        "当届首页已预告第九届 EWOFS，2027-09-07 至 09-10、葡萄牙阿威罗；投稿指南和场馆页仍显示 Developer Login，委员会未成功读取，保留候选继续核验。",
+        "2026-10-03根页公开范围只有9/7–10 2027、Aveiro及Developer Login；等待公开委员会、会场和CFP，不尝试登录、不移用旧届出版或日期。"
+      ],
+      "maintenanceTrigger": "2026-10-03根页公开范围只有9/7–10 2027、Aveiro及Developer Login；等待公开委员会、会场和CFP，不尝试登录、不移用旧届出版或日期。"
+    },
+    {
+      "candidateId": "conference-series-a2c45555cc",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-a2c45555cc",
+      "limitations": [
+        "永久官网确认系列始于 1990 年，下一届为 2027；当前未公布具体日期、城市或征稿，保留候选。已修正原误写的 QIP 提示。",
+        "2026-10-03实际读取永久主页、Call for Abstracts及News：下一届仅2027，征稿页尚待发布，具体日城未知；旧2024新闻和周期不推算2027，继续等待当届公告。"
+      ],
+      "maintenanceTrigger": "2026-10-03实际读取永久主页、Call for Abstracts及News：下一届仅2027，征稿页尚待发布，具体日城未知；旧2024新闻和周期不推算2027，继续等待当届公告。"
+    },
+    {
+      "candidateId": "conference-series-aa2bfcea3a",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-aa2bfcea3a",
+      "limitations": [
+        "发现ISDH2026自称站点，Save the Date写Monday6/22至Friday6/27，但2026年6/27为周六；活动表又同时写Thursday6/25与Friday6/25。终日冲突未解决，来源身份仍待大学公告交叉确认。",
+        "从Lake Forest College官方公告或准确日程核实主办关联、完整会期及出版/征稿形式；不自行改成6/26，也不把布展6/21作为技术会起日。"
+      ],
+      "maintenanceTrigger": "从Lake Forest College官方公告或准确日程核实主办关联、完整会期及出版/征稿形式；不自行改成6/26，也不把布展6/21作为技术会起日。"
+    },
+    {
+      "candidateId": "conference-series-f13ba49e84",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-f13ba49e84",
+      "limitations": [
+        "官方检索缓存有2027会期/地点线索，但当届页及学会公告直接访问502，浏览器证书名称不匹配，未取得可核实当前正文。",
+        "2026-10-04官方搜索有2027会期/摘要线索，但原站浏览器证书名称不匹配，未绕过或降级HTTP。待官方原页/有效证书及当届稿规可核后审核，保留pending，不据搜索片段新增正式届。"
+      ],
+      "maintenanceTrigger": "2026-10-04官方搜索有2027会期/摘要线索，但原站浏览器证书名称不匹配，未绕过或降级HTTP。待官方原页/有效证书及当届稿规可核后审核，保留pending，不据搜索片段新增正式届。"
+    },
+    {
+      "candidateId": "conference-series-d85f0e0a68",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-d85f0e0a68",
+      "limitations": [
+        "2026 当届官方页明确为 Advanced Photonics Congress 的专题，已有母会正式记录；不重复计一次同日子会议。",
+        "保留独立专题候选；跟踪未来独立届次/投稿与出版规则，2026 母会见 optica-advanced-photonics-2026。"
+      ],
+      "maintenanceTrigger": "保留独立专题候选；跟踪未来独立届次/投稿与出版规则，2026 母会见 optica-advanced-photonics-2026。"
+    },
+    {
+      "candidateId": "conference-series-b8536105ea",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "pending",
+      "existingReviewDate": "2026-10-03",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-b8536105ea",
+      "limitations": [
+        "SPIE官方AR/VR/MR目录与PW27A技术会14490已读，确认光学显示/感测专题，但尚未取得独立技术会议具体日程，保持候选。",
+        "核实技术会14490具体会期、层级和投稿规则；当前官方摘要7/22 2026、通知10/12 2026、稿件1/13 2027，仅适用该技术会。PW母会1/30–2/4、Expo2/2–4与MainStage提案9/30不作独立会议日程或技术摘要DDL。"
+      ],
+      "maintenanceTrigger": "核实技术会14490具体会期、层级和投稿规则；当前官方摘要7/22 2026、通知10/12 2026、稿件1/13 2027，仅适用该技术会。PW母会1/30–2/4、Expo2/2–4与MainStage提案9/30不作独立会议日程或技术摘要DDL。"
+    },
+    {
+      "candidateId": "event-fce8d02fb9",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-09-14",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#event-fce8d02fb9",
+      "limitations": [
+        "2026-09-14 复核：会议总表及详情标头为 9 月 9 日，详情介绍仍为 9 月 10 日；日期冲突未解。",
+        "比对当届更正、最终会议指南或会后报道；现总表 https://conference.cioe.cn/ConferenceList.html 仅提供交叉核对，不能证明介绍正文已被更正。"
+      ],
+      "maintenanceTrigger": "比对当届更正、最终会议指南或会后报道；现总表 https://conference.cioe.cn/ConferenceList.html 仅提供交叉核对，不能证明介绍正文已被更正。"
+    },
+    {
+      "candidateId": "conference-series-0f129eecc0",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-09-30",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#conference-series-0f129eecc0",
+      "limitations": [
+        "具体酒店已补官方依据，但中英文投稿段摘要长度仍冲突，继续暂缓；不选一个长度作为确定规则。",
+        "待官方统一英文摘要长度，并核对最新通知/模板是否明确替代网页冲突；第二轮投稿为 2026-09-30，后续勿当未来截止。注册 9/15 两档边界及英文全文入口仍待核实。"
+      ],
+      "maintenanceTrigger": "待官方统一英文摘要长度，并核对最新通知/模板是否明确替代网页冲突；第二轮投稿为 2026-09-30，后续勿当未来截止。注册 9/15 两档边界及英文全文入口仍待核实。"
+    },
+    {
+      "candidateId": "journal-abf7944fbb",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-10-05",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-abf7944fbb",
+      "limitations": [
+        "实读期刊社2026-01-15公告：2026-01-01至2026-12-31休刊一年，停止收稿并暂停出版。当前不作为可投稿正式刊新增；旧索引或投稿页不能覆盖休刊公告。",
+        "2026年底后跟踪期刊社/中国光学学会实际复刊及恢复收稿通知；不能假定2027-01-01自动恢复，也不推断EI/SCIE已停收。"
+      ],
+      "maintenanceTrigger": "2026年底后跟踪期刊社/中国光学学会实际复刊及恢复收稿通知；不能假定2027-01-01自动恢复，也不推断EI/SCIE已停收。"
+    },
+    {
+      "candidateId": "journal-b97e2c19d0",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-10-05",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-b97e2c19d0",
+      "limitations": [
+        "IEEE Photonics官方明确IEEE/Optica Journal of Display Technology于2016年12月停止生产，末期为2016年10–12月；历史订阅/索引和网站通用征稿菜单不证明目前收稿，暂不进入可投稿目录。",
+        "保留停刊/历史资料；仅有本刊明确官方恢复通知再评估，不推算复刊，也不将学会建议的其他期刊当本刊更名。"
+      ],
+      "maintenanceTrigger": "保留停刊/历史资料；仅有本刊明确官方恢复通知再评估，不推算复刊，也不将学会建议的其他期刊当本刊更名。"
+    },
+    {
+      "candidateId": "event-cioe-microdisplay-2026",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatusPreserved": "deferred",
+      "existingReviewDate": "2026-09-14",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#event-cioe-microdisplay-2026",
+      "limitations": [
+        "总表和标头写 9 月 10 日；正文称第二届全球微显示产业发展论坛暨 XR 生态大会为 9 月 9–10 日，需核实是一日子活动还是同一活动会期冲突。",
+        "查组织方最终日程或会后报道，区分微显示论坛与 XR 生态大会的层级及日期后再收录。"
+      ],
+      "maintenanceTrigger": "查组织方最终日程或会后报道，区分微显示论坛与 XR 生态大会的层级及日期后再收录。"
+    }
+  ],
   "formalDataReviews": [],
   "coreSeriesReviews": [
     {
