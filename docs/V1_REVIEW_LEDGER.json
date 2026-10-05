@@ -1000,7 +1000,162 @@
       "maintenanceTrigger": "有合法可读原文和明确身份/索引证据的新条件后维护三不同正式期次光学样例及准入；受限域不继续请求。"
     }
   ],
-  "formalDataReviews": [],
+  "formalDataReviews": [
+    {
+      "kind": "journal",
+      "id": "nature-photonics",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e75bf999d28280b3f20647c303a7aec7c506acda6ec5a8bbbe6f741895e1f208",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#nature-photonics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "费用模式/APC/超页及协议条件仍为明确待核实；本次没有新增访问失败断言。",
+        "分阶段周期未知，通用流程说明不是本刊当前测量统计；JCR/CAS仅secondary参考，覆盖年份未知。"
+      ],
+      "maintenanceTrigger": "新官方收费/周期资料出现后按字段维护；年度分区以订阅平台或明确新版证据补充。"
+    },
+    {
+      "kind": "journal",
+      "id": "lsa",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "69b2ae749f5dd8b4612ccb595d2f1b22f4f8b4917698db107970678f149e05d7",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#lsa",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "印刷ISSN字段未知，未因MJL或来源表列位置擅改；索引覆盖年与分阶段周期未知。",
+        "JCR2026（指标2025）与CAS2025均secondary，不能按官网入口存在称官方分区已复核；协议/减免资格依个案。"
+      ],
+      "maintenanceTrigger": "新官方身份、分区或本刊周期证据出现后补充；收费按录用日及稿型/税费重新核对。"
+    },
+    {
+      "kind": "journal",
+      "id": "optica",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "eaefbc354a23ca6f622ac25476d732d9673ebcac8d6b3172f37b309c34dce4f0",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#optica",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "CAS未知；JCR2026（指标2025）12/129推算Q1为derived，不冒充数据库官方四分位。",
+        "APC税费及价格适用投稿/录用时点未明确，分阶段周期与覆盖年份未知。"
+      ],
+      "maintenanceTrigger": "新版官方排名/收费适用条件或周期资料出现后维护；转刊与媒体时点仍按个稿通知处理。"
+    },
+    {
+      "kind": "journal",
+      "id": "oe",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "45e121126244f7c00b77ac750e597dfae5d9abf82b58935297d4a3d417c59201",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#oe",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "研究稿具体长度/摘要限制尚未核实；收费15页阈值不改作研究稿硬上限。",
+        "JCR2026（指标2025）45/129为derived Q2，CAS2025为secondary；税费价格适用时点/周期/覆盖年份未知。"
+      ],
+      "maintenanceTrigger": "本刊研究稿硬限制或新版费用/排名明确后逐字段更新；通用模板/预印本政策保留来源版本及许可范围。"
+    },
+    {
+      "kind": "journal",
+      "id": "journal-of-optics",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "aed6c3e7586881257fb38a0a18db3eb14efc4880b02bb695a2080d972fed6394",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#journal-of-optics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "印度同名刊刊号不同，不混入；CAS、分阶段周期、覆盖年份未知。",
+        "作者指南只有所列部分实读；费率版本年度及个别协议/减免条件未知。"
+      ],
+      "maintenanceTrigger": "新版指南/费用/排名或周期公告后维护；费率金额与核验日、版本日分别记录。"
+    },
+    {
+      "kind": "journal",
+      "id": "journal-of-biophotonics",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "207e94285df65f3887a685738d1e3428ef1728faa9f7c127583ecaff803057e1",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#journal-of-biophotonics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "guide为已读Overview的投稿范围条件，非完整格式指南；安全验证限制保留。",
+        "稿型格式/APC/周期/CAS/覆盖年份未知；JCR三JIF Q3不改AIS Q2为准入Q2。"
+      ],
+      "maintenanceTrigger": "合法可读完整指南与独立收费资料出现后补充；受限域不重复，EI工程准入事实与分区分别维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "quantum",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "08a782327c5dcb96aaf7f2a74db6eb7c89f238eabc6cd0a086a69e5b0ae37caf",
+      "formalReviewBase": "0bb6b9f25263ea03bf2a5b01193bd634ad97acd1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#quantum",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "EI本版按2521-327X/刊名无匹配，仅unverified，不是未收录/停收；CAS及覆盖年份未知。",
+        "默认EUR600的生效年Payment/公告冲突未澄清；作者指南时长含2022背景，不当2026统计。"
+      ],
+      "maintenanceTrigger": "新索引版本/费用日期澄清或年度周期依据出现后按字段维护；同一来源不反复重试。"
+    }
+  ],
   "coreSeriesReviews": [
     {
       "seriesId": "series-1436f76ab44c",

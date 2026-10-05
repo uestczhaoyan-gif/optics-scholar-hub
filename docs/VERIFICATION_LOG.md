@@ -1452,3 +1452,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G3C实核Quantum/NJP/QST三候选：Quantum三近年不同年度卷原摘要及Q1/SCIE准入，NJP/QST保留原入口限制；固定60已审23、剩37。107刊/133届/10活动、273候选216 admitted/50 pending/7 deferred、SCIE93/ESCI12/EI99、JCR105/CAS11、53刊至少三篇样例。G4/G5完成，G2/G3/最终回归验收仍待，整体IN_PROGRESS。 [逐字段与原三论文](V1_CANDIDATE_REVIEW_2026-10-05.md#v1-g3cquantum逐字段来源)。Quantum原完整公开摘要/Metadata/指南与支付/公告实读，MJL唯一卡/两JCR表视觉实核；EI只新目标无匹配不推断停收。NJP/QST支持范围可读，QST导航自动审批以此前反机器人域限制拒绝，未重试/绕过，已通知。只新刊及三候选/账本文档变化，旧106刊和其他JSON保护；必要验证差异审查后推送同SHA验收。
 
 - 发布前validate、固定9bf186d的旧106刊/52样例、270其他候选及所有其他JSON/冻结范围字节保护通过；Quantum三真实Published/不同年度卷8/9/10、两JIF Q1/SCIE/EI未知及费率生效年冲突，23唯一固定审核/37未审和旧G4/G5及其他门槛不变断言通过。461本地Markdown链接、维护460项/12主题覆盖、Pages子路径六资源构建exit0、差异审查/git diff --check通过。9正式文件；同SHA CI继续完整31测试/typecheck/lint/build及部署验收。
+
+## 2026-10-05：七刊质量收尾 V1-G2A
+
+- V1-G3C 0bb6b9f25263ea03bf2a5b01193bd634ad97acd1已验收[Pages37335706839](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37335706839)，同SHA完整CI/build/deploy成功，首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T15:50:04.639Z）。正式编辑前验收；work/V1_G2A_RESEARCH_2026-10-05.md长操作前保存七条实际范围。普通额度五小时87%/周14%允许，原五小时任务保持；重复心跳不另执行。
+- V1-G2A完成七刊正式字段质量收尾（四旧专刊、三个固定候选新准入）；逐项身份/关联、来源与核验范围、分区版本/等级、独立索引、指南出版阶段及明确未知已审核。全部目录保持107刊/133届/10活动、候选216/50/7及23已审37未审；G2目标当前250条，仅7已审/余243，未完成。G4/G5已完成，整体IN_PROGRESS。 [原来源/逐字段与限制](V1_FORMAL_REVIEW_2026-10-05.md)。只文档账本变化，所有data/冻结范围/已完成样例系列/23候选收尾保护，不刷新整刊或官网日期、不重查旧表。不因明确未知新增无意义网络尝试；原价格年冲突/访问限制保留。必要验证差异审查后提交推送并同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保护、七真实字段记录/内容摘要/四冻结三新身份、243未审保留及23候选/G4/G5/其他门槛不变断言通过；456本地Markdown链接、文档差异审查及git diff --check通过。纯文档复用已验收目录构建六资源、维护460项/12主题覆盖；7正式文件，同SHA CI继续完整31测试/typecheck/lint/build及部署验收。
