@@ -2959,12 +2959,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "只纳入有明确光学方法或仪器适配的期刊",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.nature.com/nmeth/submission-guidelines",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["nature-methods"],
+    "decisionReason": "已实读官方身份/范围、三近两年不同正式期月原完整公开摘要及首次/VOR日；MJL当前唯一卡SCIE、JCR2025（指标2024）生化研究方法JIF Q1机构转载视觉核对，满足交叉准入。EI无新目标匹配仍未知，不靠名称或数据库过滤器推断；仅固定候选新增。",
+    "nextAction": "官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-e058c94366",

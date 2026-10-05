@@ -1552,3 +1552,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2K实审10活动全部字段，正式质量85/250（46刊/29届/10活动），余165；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待，整体IN_PROGRESS。 实际完整读固定十活动全部JSON与十个admitted一对一候选关联，9/11三初始活动及四论坛逐页旧核验日志、9/14红外/ARVR旧官方细则与总表范围、C9独立CIOE2027母展/旧子会议冲突。复用当届原官网记录与已说明官方检索快照，不重查历史不变页面，不把总表2027标头当所有子会议已换届。七子论坛日期落在2026母展会期内，青年论坛无母展关系；不是今日原页或实际后台报名复验。 [逐项范围](V1_EVENT_FORMAL_REVIEW_2026-10-06.md#v1-g2k)。必要数据保护、真实差异审查后提交推送并同SHA验收。
 
 - 发布前validate、全data/冻结范围字节保护、旧75正式/候选/G4/G5/final账本保持、85唯一kind:id和全部digest/十admitted一对一与七子活动日期包含断言通过；441本地文件链接、完整新活动文档/其余文档与账本真实差异及git diff --check通过。纯文档复用同摘要已验收六资源构建/维护460与12主题；同SHA CI完整31测试/typecheck/lint/build再验部署。八中文刊部署查询一次api连接超时，仅复查原run37380107505成功，没有重复提交。普通额度五小时70%/周26%允许，继续固定未审范围。
+
+## 2026-10-06：固定Nature Methods准入 V1-G3G
+
+- 5e71f0e54ea7cd42b96dc9c6c0d2bb0bb7f28fe1已验收[Pages 37380539643](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37380539643)；同SHA build/deploy成功，首页/版本200，摘要0dce3304728980b8619acf9377e9a0eb8fdb3d3823fb5f1e2f0ebda8ca3c0eae匹配本地（2026-10-05T22:10:09.390Z）。正式编辑前HEAD=origin/main干净；长操作前work/V1-G3G-plan.json保存新目标原研究，work/V1-G3G-index.py只执行一次。
+- V1-G3G准入固定候选Nature Methods并完成新增正式质量：108刊/133届/98系列/10活动，273候选217 admitted/49 pending/7 deferred，SCIE94/ESCI12/EI99，JCR106/CAS11，54刊至少三篇样例；固定候选41/60（4准入37限制）、余19，正式86/251（47刊29届10活动）、余165。G4/G5完成、G1/G2/G3/G6未验收，整体IN_PROGRESS。 [身份/刊号、三原Article不同期月/首次日、独立指南与核验尝试](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-4603f2941d)。cookie/IdP工具500与普通浏览器合法可读区分，不登录或绕过。MJL唯一卡新目标一次，p42新目标视觉核JIF，EI无匹配保留未知；旧目录/账本与冻结范围保护。
+- 新增正式刊本批已完成全部实际已保存字段质量审查，G2目标251来自107+1期刊及固定133会议/10活动，不将新发现加入本版；未审165正式/19候选仍未审。验证、真实差异审查和六资产构建后提交，同SHA完整CI与部署验收待执行。
+
+- 发布前validate与新刊/唯一候选关联、旧107刊/272其他候选、全部其他data/冻结范围及旧85正式/40候选/G4/G5/final保护通过；86唯一审查摘要全部匹配。首次发现两个新增主题名称未在受控词表，改用现有生物医学光学/成像与计算光学并同步新记录摘要，未改主题表或旧记录；修复后595本地文件链接、462维护项/12主题、Node24.20 Pages子路径六资产构建exit0、完整真实差异及git diff --check通过。11明确正式文件，同SHA CI完整31测试/typecheck/lint/build再验部署。

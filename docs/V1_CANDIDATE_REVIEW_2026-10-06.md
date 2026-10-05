@@ -185,3 +185,43 @@ Small Methods；pending。
 本批首次仅查五目标Compendex缓存：SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，SERIALS2026-08-07五条期刊与官方刊号一致、DISCONTINUED2026-05-01无同名记录。学科栏为EI源表栏目，不是MJL或JCR分类，Journal条目不是所有论文覆盖证明。Wiley原平台实际安全限制承接VERIFICATION_LOG的V1-G4 AFM与V1-G3B JBIO已留证范围，不绕过、不声称今日重读论文。五刊均未满足三近年不同正式期次光学原摘要及独立准入字段，保留pending/0新增样例；不是拒绝光学方向，也不因总刊知名而升级。
 
 [Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他268候选、全部正式目录及冻结范围和旧审查保持。
+
+## V1-G3G
+
+固定Nature Methods候选完成准入及新增正式字段质量审核，未新增候选或扩大固定G4名单。固定60累计41（4准入、37已审查限制）、余19未审；正式质量86/251（47刊/29届/10活动）、余165未审。
+
+## journal-4603f2941d
+
+Nature Methods；admitted，正式ID nature-methods。
+
+已实读官方身份/范围、三近两年不同正式期月原完整公开摘要及首次/VOR日；MJL当前唯一卡SCIE、JCR2025（指标2024）生化研究方法JIF Q1机构转载视觉核对，满足交叉准入。EI无新目标匹配仍未知，不靠名称或数据库过滤器推断；仅固定候选新增。
+
+### 身份、索引及版本
+
+- [官方范围](https://www.nature.com/nmeth/aims)普通浏览器实读：月刊生命科学方法/工具，强调创新、比较验证、重要生物学应用和足以复现的技术说明；明确光学/非光学成像、显微和光谱，范围宽于光学。两刊号1548-7091/1548-7105一致。
+- [MJL唯一卡](https://mjl.clarivate.com/search-results?issn=1548-7091&hide_exact_match_fl=true)实际看到Exact Match NATURE METHODS、Nature Portfolio和两个刊号；Core Collection明确SCIE。未登录profile/单篇、覆盖起止未知，不依据侧栏勾选。
+- [JCR2025机构转载p42](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=42)（指标2024），原缓存SHA256 86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274；新目标按刊号查找后实际渲染视觉核对表头、身份与BIOCHEMICAL RESEARCH METHODS第一JIF列Q1，AIS列不代替JIF。secondary，不升级官方，不编CAS/2026当前分区。
+- [EI原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，本批首次只查Nature Methods两个刊号/完整名，SERIALS2026-08-07与DISCONTINUED2026-05-01无匹配。只保留unverified，不判未收录/停收。
+
+### 三篇不同正式期次原论文
+
+窗口2024-10-06起，三篇Article及完整公开摘要/原出版史均实读；正式期月March2025、May2025、June2026，各自与原Published/VOR分开。未从月份推算未给出的数字期号，未把三个不同DOI当三个期次。
+
+- [Imaging of cellular dynamics from a whole organism to subcellular scale with self-driving, multiscale microscopy](https://www.nature.com/articles/s41592-025-02598-2)，Published 2025-02-12。2026-10-06普通浏览器实读原公开完整摘要/Article/出版史；Nat Methods22,569–578，正式期月March2025，Published及VOR2025-02-12一致。自驱动多分辨光片与Python控制跨整体生物/亚细胞长时成像，在斑马鱼异种移植中分析免疫与癌细胞交互；仪器/软件与生物实验证据，不当纯理论或全部临床验证。全文订阅预览，未通读全文。
+- [Fast-adaptive super-resolution lattice light-sheet microscopy for rapid, long-term, near-isotropic subcellular imaging](https://www.nature.com/articles/s41592-025-02678-3)，Published 2025-04-29。2026-10-06实读原完整公开摘要/Article/出版史；Nat Methods22,1059–1069，正式期月May2025，Published及VOR2025-04-29。反射晶格光片、元学习及Virtual SIM在线自适应训练，用于细胞/胚胎亚细胞时序成像；摘要的约120nm横向/160nm轴向为该系统和模型条件，不当通用分辨率保证。订阅摘要阅读，未通读全文。
+- [A multimodal adaptive optical microscope for in vivo imaging from molecules to organisms](https://www.nature.com/articles/s41592-026-03066-1)，Published 2026-05-22。2026-10-06实读原公开完整摘要/Article/出版史；Nat Methods23,1184–1195，正式期月June2026，Published及VOR2026-05-22一致。MOSAIC以自适应光学统一可配置光片/无标记/超分辨/多光子模式，展示细胞、活体与组织跨尺度成像；平台与多模态实验适配，不把可配置所有模式当同时成像或任意样本通用承诺。OA原页可读，本次科学适配审阅范围仍为摘要，未通读全文。
+
+### 作者指南与费用的独立来源
+
+- [指南总入口](https://www.nature.com/nmeth/submission-guidelines)明确初投、审稿、AIP、最终接受与制作阶段。
+- [Content Types](https://www.nature.com/nmeth/content)：Article150词摘要、正文通常3000/编辑可至5000，排除Methods等，主图表6；Brief70词摘要、正文1200/编辑可1600，包含摘要/参考文献/图注，主图表2/编辑可3。Resource/Analysis各自常规3000；RR两阶段方法比较不是方法开发稿。Review/Perspective/Comment等不含原始未发表发现、非Gold OA；不能用综述规则替代Article。
+- [初投格式](https://www.nature.com/nmeth/submission-guidelines/initial-formatting)：无需专门排版，PDF/Word/TeX-LaTeX，后者编译PDF，接受后另按AIP格式。
+- [初投材料](https://www.nature.com/nmeth/submission-guidelines/preparing-your-submission)：稿件/投稿信，补充材料可选，Extended Data最多10项；Methods复现，protocols.io鼓励项，可选双匿名时身份置投稿信，LLM使用披露。总入口最终接受前ORCID，不写成初投强制。
+- [本刊出版选项](https://www.nature.com/nmeth/submission-guidelines/publishing-options)：原始研究订阅或可选Gold OA，录用后GBP9390/USD12850/EUR10850；费率生效年、税费/附加费条件页面未知，非原始稿不适用。周期没有当前统计，不从三篇个稿计算整体承诺。
+
+### 核验尝试、限制与触发
+
+- 原Aims、第一论文和四指南子页第一次搜索工具返回cookie/IdP500，第二次普通浏览器合法直接导航实际可读；没有验证码或登录、没有编辑cookie/headers、没有安全绕过，不将技术重定向当访问控制。第二/第三原论文搜索工具一次实际读到正文公开摘要及出版史；后续仅读取该已取得页面的不同段落。MJL新目标一次唯一卡，JCR/EI缓存新目标一次，不重复全部已审目录。
+- 限制/影响：JCR2025为机构转载secondary，未登录官方JCR当前全学科/2026表；CAS及索引覆盖年份未知。EI本版未取得匹配不是未收录或停收。；三样例已核原完整公开摘要/出版史及不同正式期月，未通读全文，前两篇是订阅预览；不把仪器条件外推全部光学研究。；APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。
+- 维护触发：官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。
+- 只新增此固定候选准入和正式刊、两个账本记录；旧107刊/85正式审核/40候选审核、其余272候选、其他data/冻结范围/G4/G5及finalAcceptance保持。

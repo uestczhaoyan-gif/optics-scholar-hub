@@ -12,7 +12,7 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **107 本期刊、133 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **108 本期刊、133 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
@@ -31,14 +31,14 @@
 
 | 项目                  | 已有记录的期刊数 | 尚需处理                                                                                                                            |
 | --------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| JCR 分区              | 105 / 107          | 其余 2 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
-| 中科院分区            | 11 / 107          | 其余 96 本；同时核对版本、大类、小类，未知不补造                                                                                    |
-| SCIE 肯定记录         | 93 / 107          | 其余 14 本没有肯定记录；不等于未被收录                                                                                              |
-| EI Compendex 肯定记录 | 99 / 107          | 其余 8 本没有肯定记录；不等于未被收录                                                                                               |
-| ESCI 肯定记录         | 12 / 107          | 独立保存，不换算为 SCIE                                                                                                             |
-| 数据库方索引证据      | EI 99 / SCIE 93  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 93 / ESCI 12 查询；两类期刊有重叠 |
+| JCR 分区              | 106 / 108          | 其余 2 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
+| 中科院分区            | 11 / 108          | 其余 97 本；同时核对版本、大类、小类，未知不补造                                                                                    |
+| SCIE 肯定记录         | 94 / 108          | 其余 14 本没有肯定记录；不等于未被收录                                                                                              |
+| EI Compendex 肯定记录 | 99 / 108          | 其余 9 本没有肯定记录；不等于未被收录                                                                                               |
+| ESCI 肯定记录         | 12 / 108          | 独立保存，不换算为 SCIE                                                                                                             |
+| 数据库方索引证据      | EI 99 / SCIE 94  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 94 / ESCI 12 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。固定53刊已完成一次光学适配收尾：48刊三不同正式卷/期、5刊已审查限制，见 [V1样例收尾](V1_SCOPE_REVIEW_2026-10-05.md)。目前五十三刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI、E37的IEEE TGRS、E38的IEEE TCYB、F13的IEEE EDL、F14的IEEE TED、E39的Proceedings of the IEEE、E40的IEEE COMST（两个正式卷/期限制保留）、E41的JBO、E42的Neurophotonics、E43/E44的Photoacoustics/Displays及V1-G3C的Quantum；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。固定53刊已完成一次光学适配收尾：48刊三不同正式卷/期、5刊已审查限制，见 [V1样例收尾](V1_SCOPE_REVIEW_2026-10-05.md)。目前五十四刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI、E37的IEEE TGRS、E38的IEEE TCYB、F13的IEEE EDL、F14的IEEE TED、E39的Proceedings of the IEEE、E40的IEEE COMST（两个正式卷/期限制保留）、E41的JBO、E42的Neurophotonics、E43/E44的Photoacoustics/Displays及V1-G3C的Quantum与V1-G3G的Nature Methods；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 物理学报的三篇原论文及指南范围见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 
@@ -72,9 +72,9 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 104 journals, 133 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 108 journals, 133 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 102 journals and CAS records for 11. SCIE has 90 and EI has 97 positive records. 97 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Ninety SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 106 journals and CAS records for 11. SCIE has 94 and EI has 99 positive records. 99 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Ninety-four SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. V1.0 has a frozen scope and six completion gates in PROJECT_CLOSEOUT.md. Finish its fixed backlog, preserve reviewed limitations, then mark V1.0_ACCEPTED and stop the five-hour construction automation. Daily source monitoring and published-version refresh remain available for maintenance; newly discovered venues belong to a later version.
 
@@ -839,3 +839,7 @@ cdd0f743f88a019ec64d1db38209a57180ab506b已验收[Pages 37378347488](https://git
 ## 2026-10-06：活动质量 V1-G2K
 
 868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6已验收[Pages 37380107505](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37380107505)，同SHA build/deploy成功、首页/版本200，摘要0dce3304728980b8619acf9377e9a0eb8fdb3d3823fb5f1e2f0ebda8ca3c0eae匹配本地（2026-10-05T22:07:34.317Z）。 V1-G2K实审10活动全部字段，正式质量85/250（46刊/29届/10活动），余165；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待，整体IN_PROGRESS。 [逐项参与/未来独立来源及未知](V1_EVENT_FORMAL_REVIEW_2026-10-06.md#v1-g2k)。原五小时检查与每日巡检保持，不扩展版本范围。
+
+## 2026-10-06：固定Nature Methods准入 V1-G3G
+
+5e71f0e54ea7cd42b96dc9c6c0d2bb0bb7f28fe1已验收[Pages 37380539643](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37380539643)；同SHA build/deploy成功，首页/版本200，摘要0dce3304728980b8619acf9377e9a0eb8fdb3d3823fb5f1e2f0ebda8ca3c0eae匹配本地（2026-10-05T22:10:09.390Z）。 V1-G3G准入固定候选Nature Methods并完成新增正式质量：108刊/133届/98系列/10活动，273候选217 admitted/49 pending/7 deferred，SCIE94/ESCI12/EI99，JCR106/CAS11，54刊至少三篇样例；固定候选41/60（4准入37限制）、余19，正式86/251（47刊29届10活动）、余165。G4/G5完成、G1/G2/G3/G6未验收，整体IN_PROGRESS。 [逐字段证据](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-4603f2941d)。只固定候选准入，新刊已同批实审；原五小时检查保持，不扩大G4与候选冻结范围。

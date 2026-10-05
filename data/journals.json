@@ -8304,5 +8304,82 @@
         "relevance": "2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 10,2135(2026)，年度卷10。Python光路路由到CAD与模块光学底板；以3D打印底板的锶离子激光系统实证冷却、态探测及超过99%单量子位门保真度。软件/光路仿真与实验实证分开，未通读全文。"
       }
     ]
+  },
+  {
+    "id": "nature-methods",
+    "name": "Nature Methods",
+    "abbr": "Nat Methods",
+    "publisher": "Nature Portfolio",
+    "topics": ["生物医学光学", "成像与计算光学", "光学设计与制造"],
+    "description": "生命科学方法与工具期刊；近年原论文覆盖多尺度光片、自适应超分辨与多模态显微仪器。适配要求方法创新、性能验证和生物学应用，不等于所有光学工程工作均适合。",
+    "website": "https://www.nature.com/nmeth/",
+    "guide": "https://www.nature.com/nmeth/submission-guidelines",
+    "requirements": [
+      "2026-10-06实读范围及本刊Content Types：Article为新方法/工具，需技术说明、性能/复现性/通用性及新生物学发现潜力；摘要≤150词、正文通常3000词（编辑可允许至5000），不含摘要/Methods/参考文献/图注；主图表≤6，通常建议参考文献≤50。",
+      "Brief Communication摘要≤70词，正文1200词（编辑可允许1600），计入摘要/参考文献/图注，无正文分节，主图表≤2（编辑可允许3）；Online Methods有小标题。Resource/Analysis各自正文通常3000词及摘要≤150词，不套Brief的计算口径。",
+      "初投无需专门排版，接受PDF/Word/TeX-LaTeX（后者上传编译PDF）；投稿含稿件、投稿信，可选补充材料和最多10项Extended Data。Methods须足以解释/复现；protocols.io存储为鼓励项。",
+      "可选双匿名，选择时作者身份信息放投稿信；LLM不具作者资格、使用情况须在Methods或合适部分披露。录用原则性接受后按AIP格式处理，最终接受前通讯作者关联ORCID。Registered Report为两阶段方法比较计划，不适合方法开发稿。"
+    ],
+    "publishing": "2026-10-06实读本刊Publishing options：原始研究可选传统订阅或Gold OA；OA录用后APC为GBP9390/USD12850/EUR10850。页面未标费率生效年与税费规则，不承诺所有附加费用为零。Review/Comment/News & Views等非原始研究不适用Gold OA。",
+    "schedule": "本次已读范围、稿型、初投材料及出版阶段，未取得当前年度投稿到首决定/录用统计；周期未知，不从三篇样例出版史推算整体平均。",
+    "checkedAt": "2026-10-06",
+    "issn": "1548-7091",
+    "eissn": "1548-7105",
+    "domains": ["光学", "生物医学", "信息与计算"],
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "BIOCHEMICAL RESEARCH METHODS",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=42",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1548-7091&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL公开唯一Exact Match NATURE METHODS，Nature Portfolio、1548-7091/1548-7105匹配；结果卡Core Collection明确Science Citation Index Expanded。未登录profile/检索单篇，覆盖年份未知；不是依据过滤器或JCR索引列推断。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "SERIALS2026-08-07/DISCONTINUED2026-05-01按两个刊号及Nature Methods完整刊名本次新目标无匹配；未取得肯定依据，不能判未收录或停收。不反复扫描同版，未检索订阅单篇。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Imaging of cellular dynamics from a whole organism to subcellular scale with self-driving, multiscale microscopy",
+        "source": "https://www.nature.com/articles/s41592-025-02598-2",
+        "publishedAt": "2025-02-12",
+        "relevance": "2026-10-06普通浏览器实读原公开完整摘要/Article/出版史；Nat Methods22,569–578，正式期月March2025，Published及VOR2025-02-12一致。自驱动多分辨光片与Python控制跨整体生物/亚细胞长时成像，在斑马鱼异种移植中分析免疫与癌细胞交互；仪器/软件与生物实验证据，不当纯理论或全部临床验证。全文订阅预览，未通读全文。"
+      },
+      {
+        "title": "Fast-adaptive super-resolution lattice light-sheet microscopy for rapid, long-term, near-isotropic subcellular imaging",
+        "source": "https://www.nature.com/articles/s41592-025-02678-3",
+        "publishedAt": "2025-04-29",
+        "relevance": "2026-10-06实读原完整公开摘要/Article/出版史；Nat Methods22,1059–1069，正式期月May2025，Published及VOR2025-04-29。反射晶格光片、元学习及Virtual SIM在线自适应训练，用于细胞/胚胎亚细胞时序成像；摘要的约120nm横向/160nm轴向为该系统和模型条件，不当通用分辨率保证。订阅摘要阅读，未通读全文。"
+      },
+      {
+        "title": "A multimodal adaptive optical microscope for in vivo imaging from molecules to organisms",
+        "source": "https://www.nature.com/articles/s41592-026-03066-1",
+        "publishedAt": "2026-05-22",
+        "relevance": "2026-10-06实读原公开完整摘要/Article/出版史；Nat Methods23,1184–1195，正式期月June2026，Published及VOR2026-05-22一致。MOSAIC以自适应光学统一可配置光片/无标记/超分辨/多光子模式，展示细胞、活体与组织跨尺度成像；平台与多模态实验适配，不把可配置所有模式当同时成像或任意样本通用承诺。OA原页可读，本次科学适配审阅范围仍为摘要，未通读全文。"
+      }
+    ]
   }
 ]

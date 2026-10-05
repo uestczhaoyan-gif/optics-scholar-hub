@@ -1236,6 +1236,21 @@
         "独立MJL集合/JCR年与类别/CAS年、完整作者Guide/APC及覆盖年未核，不以方法类题名判直接专刊。"
       ],
       "maintenanceTrigger": "合法光学方法原论文与独立分类/指南新证据可读时逐项核三不同正式期次，再判断方法的核心光学贡献。"
+    },
+    {
+      "candidateId": "journal-4603f2941d",
+      "checkedAt": "2026-10-06",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-4603f2941d",
+      "formalIds": ["nature-methods"],
+      "limitations": [
+        "JCR2025为机构转载secondary，未登录官方JCR当前全学科/2026表；CAS及索引覆盖年份未知。EI本版未取得匹配不是未收录或停收。",
+        "三样例已核原完整公开摘要/出版史及不同正式期月，未通读全文，前两篇是订阅预览；不把仪器条件外推全部光学研究。",
+        "APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。"
+      ],
+      "maintenanceTrigger": "官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。"
     }
   ],
   "formalDataReviews": [
@@ -3137,6 +3152,29 @@
         "没有论文截止，母展展示领域不能作为子学术会议当届CFP或索引保证。"
       ],
       "maintenanceTrigger": "主办方发布2027独立观众/论坛/子会议当届规则才更新相应字段；新发现进入后续版本，不扩大本版。"
+    },
+    {
+      "kind": "journal",
+      "id": "nature-methods",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "de950ce09c1d906c26e2d0250ecb6f6ac9d199285297ff035127506ea8646c8c",
+      "formalReviewBase": "5e71f0e54ea7cd42b96dc9c6c0d2bb0bb7f28fe1",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nature-methods",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "JCR2025为机构转载secondary，未登录官方JCR当前全学科/2026表；CAS及索引覆盖年份未知。EI本版未取得匹配不是未收录或停收。",
+        "三样例已核原完整公开摘要/出版史及不同正式期月，未通读全文，前两篇是订阅预览；不把仪器条件外推全部光学研究。",
+        "APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。"
+      ],
+      "maintenanceTrigger": "官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。"
     }
   ],
   "coreSeriesReviews": [
