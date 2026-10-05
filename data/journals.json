@@ -1967,9 +1967,10 @@
     "requirements": [
       "从现官网进入 mc03.manuscriptcentral.com/phos；准备 cover letter、英文正文、关键词、图表及通讯作者联系方式。",
       "研究和综述应尽量简洁，指南建议少于 50 页稿件；Letter 不超过 4 个期刊排版页，并说明快速发表理由。",
-      "使用当期模板，确认作者一致同意、引用和转载许可及利益冲突声明；文章类型以提交系统及编辑部要求为准。"
+      "使用当期模板，确认作者一致同意、引用和转载许可及利益冲突声明；文章类型以提交系统及编辑部要求为准。",
+      "2026-10-05局部核现指南§4.3：摘要120–200词，不能含脚注/参考/图表，随后4或5关键词；§6列单盲，约邀请4位评审、至少2份可用报告后决定，邀约数不等于完成报告数。来源：https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1881895629919801345&issn=1674-9251"
     ],
-    "publishing": "2026 年起由清华大学出版社出版。现官网说明开放获取，APC 由电子科技大学承担；投稿前再核实最新政策。",
+    "publishing": "2026年起由清华大学出版社出版；2026-10-05局部核现SciOpen：开放获取CC BY 4.0，电子科技大学资助APC。作者指南§7.2明确限before31stDecember2026投稿；12/31是否含全天、2027资助/APC金额及其他费用未核，不能推为永久免费。来源：https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1881895629919801345&issn=1674-9251 与 https://www.sciopen.com/journal/1674-9251",
     "schedule": "常规投稿按官网系统受理，编辑处理与同行评审无保证时限；不沿用旧出版社的审稿速度统计。",
     "checkedAt": "2026-09-11",
     "rankings": [

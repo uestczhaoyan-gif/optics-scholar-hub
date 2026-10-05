@@ -11,3 +11,9 @@
 | [现网页](https://journal.hep.com.cn/foe/EN/guidelines)指标栏 | Submission to first decision median30days | 无年度/样本，不当录用/发表时限；只局部字段核验，整刊checkedAt仍9/11。 |
 
 原文件SHA256：主指南7237c73ef5ee1fde07d7ada218f1c119eda54c46d1ca170efad5e61c87eac968；Columns450220fb3115ed7730271ae84cd7142de403a27ee56340909bb5c0c656532b7a。python-docx解析主指南359非空段/Columns61段，均无表；主文件按上述章节定向读取，Columns正文全读，仅文字/数字不涉及版式验收。没有登录投稿、创建账号、联系、上传、付费、下载内部模板或接受协议；其他98刊及全索引/分区/样例与整刊日期保护。
+
+## E33：Photonic Sensors资助年界
+
+核验2026-10-05。E33补Photonic Sensors作者指南的APC资助年界、摘要及审稿局部字段。只requirements/publishing，整刊日期、既有50稿页建议/Letter四出版页与98其他刊、全索引分区/36样例及其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7保持；其他规划继续。
+
+[现作者指南](https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1881895629919801345&issn=1674-9251)§7.2限定2026-12-31前投稿免APC；是否含12/31全天及2027费用仍未知。[现首页](https://www.sciopen.com/journal/1674-9251)给CC BY4.0/UESTC资助，不能覆盖指南年界。另读§4.3摘要120–200词/4或5关键词及§6单盲、约邀4人、至少2可用报告决策。实际只公开相关段，未登录系统、读取模板/内部协议或付费；出版资助不等于录用。网站无指南改版日，整刊checkedAt仍9/11；现稿型清单与正文列法不同，本批不作系统枚举保证。

@@ -683,3 +683,7 @@ F9 3e82c9de2be920b0c7c26538a485c110f7971d8a已验收[Pages37249523023](https://g
 ## 2026-10-05：FOE附件指南 E32
 
 C31 e48527f27d3b53f1de49ae7a9289ef2908e7f38c已验收[Pages37250421883](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250421883)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，3e01e955395ba30c97f6e380a94e2594b871a9d9d742db3b57e775276644d3a7与本地一致（2026-10-05T01:12:40.348Z）。 E32补FOE现官网挂载的2023主指南与2024 Featured Columns：摘要条件例外、可编辑源文件、单盲/数据鼓励及Comment/两种Letter/Research Highlight建议范围分别保存；文件旧Springer页头与2026高教社迁移区分，未当全新2026规则。只requirements/schedule，整刊日期/费用/索引分区/36样例、98其他刊及全部其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7等数量保持；其他规划继续。 [逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-05.md#e32foe现挂载附件)。
+
+## 2026-10-05：Photonic Sensors费用年界 E33
+
+E32 d112afdcd50c0a85552517237a19beb0b0b489b4已验收[Pages37250786008](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250786008)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，5e734c1b2d2eb2146480943442c1c4a3b1bb29651c36297be2dd65c6239cd01c与本地一致（2026-10-05T01:17:38.493Z）。 E33补Photonic Sensors作者指南的APC资助年界、摘要及审稿局部字段。只requirements/publishing，整刊日期、既有50稿页建议/Letter四出版页与98其他刊、全索引分区/36样例及其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7保持；其他规划继续。 [字段来源](JOURNAL_GUIDE_EVIDENCE_2026-10-05.md#e33photonic-sensors资助年界)。2027资助/费用待新公告，不外推。

@@ -1275,3 +1275,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 实际下载两原Word文件、按章节读主指南和全部Columns文字，原文件hash保存；不将旧Springer版权/费用套到高教社，硬/软限与稿型区分。只读没有账户/投稿/联系/支付/签署。必要验证/差异审查和构建后上传，按同SHA验收；其他规划继续。
 
 - 发布前数据校验、固定e48527f的FOE两字段白名单、98其他刊与全日期/索引分区/36样例及所有其他JSON保持断言通过；旧版/450条件/关键词/Type1鼓励/单盲与各软字数边界通过。266本地Markdown链接、维护438项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查与git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：Photonic Sensors费用年界 E33
+
+- E32 d112afdcd50c0a85552517237a19beb0b0b489b4已验收[Pages37250786008](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250786008)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，5e734c1b2d2eb2146480943442c1c4a3b1bb29651c36297be2dd65c6239cd01c与本地一致（2026-10-05T01:17:38.493Z）。正式编辑前已验收；work/E33_RESEARCH_2026-10-05.md已保存长操作前范围。实际五小时94%/周79%仍允许，不用重置券。
+- E33补Photonic Sensors作者指南的APC资助年界、摘要及审稿局部字段。只requirements/publishing，整刊日期、既有50稿页建议/Letter四出版页与98其他刊、全索引分区/36样例及其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7保持；其他规划继续。 [原来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-05.md#e33photonic-sensors资助年界)。未知2027政策保留，必要验证/差异审查与构建后上传，按同SHA验收。
+
+- 发布前数据校验、固定d112afd的PhS两字段白名单、旧三指南条/98其他刊/全日期索引分区/36样例及其他JSON保护断言通过；摘要词数/单盲报告数/资助年界和2027未知通过。269本地Markdown链接、维护438项/12主题覆盖、Pages子路径六资源构建exit0和数据/文档差异审查、git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
