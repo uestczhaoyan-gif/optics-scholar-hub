@@ -1242,6 +1242,160 @@
         "独立摘要硬上限、上传流程、阶段周期、CAS/2026 JCR及覆盖年未知；SI2020版本不能改为2026。"
       ],
       "maintenanceTrigger": "实际2027 S2O门槛公告或新版稿型/收费/分区出现后维护；不凭周期自动承诺免APC。"
+    },
+    {
+      "kind": "journal",
+      "id": "aop",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "dbd2f509acba61b2902b19043bad8148208d0cf6daf2c700bbc1d48f4cab3049",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#aop",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "CAS、索引覆盖年份、完整稿件摘要/文件清单/正文上限及阶段周期未知；现审阅不把旧checkedAt改成今天。",
+        "Review/Tutorial提案建议不能当Roadmap要求，提案资格不能代替完整稿件邀请。"
+      ],
+      "maintenanceTrigger": "实际新版提案或完整作者指南、分区和收费公告出现后逐字段维护，核对稿型与版本。"
+    },
+    {
+      "kind": "journal",
+      "id": "prj",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1dd399c55a1764c1d96a9c6e466e033a87697f6ee279ab959d44c21c6dbae87c",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#prj",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "研究稿硬篇幅/摘要、登录后提交、索引覆盖年份及阶段周期未知；CAS不是官方复核。",
+        "税与价格适用投稿或录用时点未知；收费页数不是研究稿不可超过的硬限，2024生效年不改成2026。"
+      ],
+      "maintenanceTrigger": "出现本刊独立篇幅/摘要、新费率或新版分区后逐字段维护，保留默认许可与有条件CC BY差别。"
+    },
+    {
+      "kind": "journal",
+      "id": "jlt",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3d6868ab7fc31f6923d6e247d0120b9a498cf612c7042459cc935c163e29b971",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#jlt",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "通用8页与专题7页差异不能擅自统一，特刊免费页数须编辑部确认；页面title错标但原正文/breadcrumb确认JLT。",
+        "摘要字数、完整LaTeX清单、CAS/覆盖年份、价格适用时点与阶段周期未知；税按实际账单资格，不计算含税总价。"
+      ],
+      "maintenanceTrigger": "更新本刊通用/具体专题指南或编辑部澄清阈值时逐条维护；不同学科与稿型分别保留。"
+    },
+    {
+      "kind": "journal",
+      "id": "opticaq",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "39c222ca4914917431f1492888196e72d0eb90ec89a5081ac3ed5ba988f98c5f",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#opticaq",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "SCIE/EI、CAS及覆盖年份未知，不把ESCI换成SCIE；刊号载体类型维持原范围。",
+        "具体稿型篇幅/摘要/综述提案、登录后提交、税/定价时点和阶段周期未知；收费8页不等于研究稿硬上限。"
+      ],
+      "maintenanceTrigger": "新的独立数据库子库/来源表、载体身份或作者规则公告出现后维护；分区不替代索引。"
+    },
+    {
+      "kind": "journal",
+      "id": "jocn",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e9fde63bebaaa0d447a038aea869b078beaa47dd33e2b064be9e7da89ced2bb9",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#jocn",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要字数、登录后提交、CAS/索引覆盖年、税/收费版本定价时点及阶段周期未知。",
+        "超15页先批准，支付超页费并不自动允许超长；可选OA与自愿页费不是订阅稿必缴APC。"
+      ],
+      "maintenanceTrigger": "新专用指南、页数许可或收费版本出现后核对具体阶段，保持联合出版身份与模板适用范围。"
+    },
+    {
+      "kind": "journal",
+      "id": "boe",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ff97fe72f7c12d4b6d962902d5d9051cabdef4006368238380898c8f282ee9f2",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#boe",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "研究稿硬篇幅/摘要、登录后提交、CAS/覆盖年份与阶段周期未知。",
+        "税/价格适用时点未知；伦理说明不是每种研究均人体试验，收费页数不作为研究稿硬上限。"
+      ],
+      "maintenanceTrigger": "本刊新伦理/硬性稿型格式、收费或分区公告出现后维护，不泛化动物与人体条件。"
+    },
+    {
+      "kind": "journal",
+      "id": "ome",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a11aac209d9a12b332819458404f0934d5e344be047508f9ccc936d0f71d977a",
+      "formalReviewBase": "0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ome",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "研究稿硬篇幅/摘要、登录后提交、CAS/覆盖年份及阶段周期未知。",
+        "税/价格适用时点未知；Opinion四页与收费十五页是不同范围，不互相替代。"
+      ],
+      "maintenanceTrigger": "新稿型指南、Opinion流程或年度费用/分区公告出现后逐字段维护，明确出版页与源文件页。"
     }
   ],
   "coreSeriesReviews": [

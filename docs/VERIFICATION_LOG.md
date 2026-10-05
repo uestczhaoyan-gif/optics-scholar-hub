@@ -1466,3 +1466,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2B收尾OL/AO/JOSA A/B四刊身份关联、索引分区版本、投稿与出版条件；自愿/可选OA/超页/彩图分开，JOSA B2026 S2O不外推2027。正式质量累计11刊/250条，余239；固定候选23已审37未审，G4/G5完成，G2/G3及最终验收未完成。全部目录保持，整体IN_PROGRESS。 [逐条来源与边界](V1_FORMAL_REVIEW_2026-10-05.md#v1-g2b四刊)。本批纯文档，所有data/冻结范围、旧七质量与23候选/G4/G5保护；通用约100词/15MB建议不变硬限，SI2020版本不冒充新年版。必要验证差异审查后上传同SHA部署验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧七审核不变、四新增真实字段/摘要/六组范围/限制与触发、11/250累计及239未审、23候选和G4/G5不变断言通过；五份本批Markdown的400个本地文件链接、实际差异审查和git diff --check通过。纯文档复用此前已验收的六资源目录构建及维护460项/12主题覆盖；同SHA CI仍执行完整31测试/typecheck/lint/build。2026-10-06收尾时普通五小时额度已用95%、周15%，本批验收后保存work部署回执，再由原五小时调度检查，未使用重置券或购买额度。
+
+## 2026-10-06：七刊质量 V1-G2C
+
+- 0a9ed6ec17c1d2dc09d444a7f29c249f99b376bd已验收[Pages 37338575669](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37338575669)；同SHA build/deploy成功、首页/版本200、线上摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T20:44:21.548Z）。 编辑前确认HEAD=origin/main且工作树干净；普通额度恢复为五小时0%/周15%，仍使用普通额度。
+- V1-G2C完成7刊逐字段质量收尾，累计18/250条、余232未审；固定候选23/60，G4/G5完成，G2/G3/最终功能验收仍待，整体IN_PROGRESS。全部data及冻结范围保持，不刷新原核验日期。 [各刊依据与边界](V1_FORMAL_REVIEW_2026-10-06.md)；实际读取七刊所有现有字段及E5/E6/E7/E9/E11范围。JLT通用8页/专题7页差异、OQ的ESCI与SCIE/EI未知、AOP提案建议、OME Opinion范围等原样保留。长操作前保存work/V1-G2C-plan.json。必要校验及实际差异审查后提交同SHA部署验收。
+
+- 发布前validate、全部data/冻结范围字节保护、旧11审核与候选/G4/G5账本不变、七新增记录内容摘要/六组字段范围/具体限制和触发断言通过；403本地Markdown文件链接、实际差异审查及git diff --check通过。首次辅助脚本使用status而非真实reviewStatus，在写正式文件之前断言失败，纠正后重新执行成功；未把首次失败当通过。纯文档复用已验收六入口构建、维护460项/覆盖12主题；同SHA完整CI继续31测试、typecheck/lint/build及部署验收。
