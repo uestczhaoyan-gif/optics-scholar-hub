@@ -1290,3 +1290,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三IEEE实际原公开摘要/出版字段、NIH辅助身份读，错误刊名和PMC可读日期剔除，第三篇相关/不相关结果都保留；未访问付费PDF/系统。必要验证与差异审查后上传，按同SHA验收；其他规划继续。
 
 - 发布前数据校验、固定33144f9的TMI仅scopeExamples白名单、98其他刊/旧36样例/全日期指南费用排名索引及全部其他JSON保护断言通过；三近两年首次日/不同卷期/鼠和相关性边界、37刊样例计数通过。317本地Markdown链接、维护438项/12主题覆盖、Pages子路径六资源构建exit0与数据/文档差异审查、git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：Applied Physics Letters F10
+
+- E34 887a49a22cefa242ed3089f1b071bf42daaff18a已验收[Pages37262559065](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37262559065)：同SHA完整CI/build/deploy成功，首页/版本200，7b2ce29854e784d93a1664339eb1a4e77b26f96573da50ad0ba584788830bd00与本地一致（2026-10-05T04:21:11.104Z）。正式修改前完成验收；API超时只同SHA复查。work/F10_RESEARCH_2026-10-05.md长操作前保存来源/边界，实际五小时7%/周81%允许，不用重置券。
+- F10新增Applied Physics Letters，三篇不同期次近两年原创光学样例与本刊指南、费用/2025均值独立保存；MJL SCIE/EI两证据、JCR 2026出版社披露及2025机构转载Q2分别记录。当前100刊/127届/10活动、273候选209 admitted/57 pending/7 deferred、SCIE86/ESCI12/EI93、JCR98/CAS11、38刊至少三篇样例。旧99刊/37样例、272其他候选及其他JSON保护；其他规划继续。 [逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f10applied-physics-letters)。
+- 三原论文公开页、独立MJL卡、新EI两号/一行、JCR原p601图、原指南/政策/费用/About及Clarivate年定义实际读。3000/3500边界、邀稿与普通稿/软建议分开；匿名模式、CAS、税/生效和统计细项未知。不泛化同社政策。必要验证与差异审查后上传并按同SHA验收，其他规划继续。
+
+- 发布前数据校验、固定887a49a的99旧刊/37样例、272其他候选及所有其他JSON保护与单候选六审核字段白名单通过；100/209-57-7、86-12-93、98-11、38样例与双版JIF/三首次日/篇幅边界断言通过。360本地Markdown链接、维护439项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查及git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

@@ -7425,5 +7425,99 @@
     ],
     "publishing": "2026-10-05核本刊首页：可选OA APC USD2650（税外），订阅路径不收publication fee；其他费用/机构减免与独立2026价表未知。来源：https://www.sciencedirect.com/journal/infrared-physics-and-technology",
     "schedule": "2026-10-05核本刊首页：投稿至首决10天、投稿至外审后决定51天、投稿至录用103天，录用至在线发表3天；四环节独立，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/infrared-physics-and-technology"
+  },
+  {
+    "id": "applied-physics-letters",
+    "name": "Applied Physics Letters",
+    "abbr": "APL",
+    "publisher": "AIP Publishing",
+    "issn": "0003-6951",
+    "eissn": "1077-3118",
+    "domains": ["物理", "光学", "电子", "材料"],
+    "topics": [
+      "综合光学",
+      "成像与计算光学",
+      "电子与器件",
+      "光学材料",
+      "纳米与超表面"
+    ],
+    "description": "应用物理短篇原创研究，重视新物理见解与有意义的实验/理论进展；光电器件、光子学与成像可适配，例行性能延伸需重要问题意义。与APL Photonics独立。应用物理JIF Q2：2026版为出版社官方披露，2025版为机构转载参考；CAS未知。",
+    "website": "https://pubs.aip.org/aip/apl",
+    "guide": "https://publishing.aip.org/resources/researchers/author-instructions/",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2026",
+        "year": 2026,
+        "metricYear": 2025,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://pubs.aip.org/aip/apl/pages/about",
+        "evidence": "official"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0003-6951&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05实际MJL唯一Exact Match卡：刊名/AIP Publishing及0003-6951/1077-3118匹配，CoreCollection明确Science Citation Index Expanded；非侧栏筛选或JCR索引列，未登录profile/单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05仅核本新目标两刊号：SERIALS 2026-08-07版第376行Journal，Applied Physics Letters/00036951/10773118/American Institute of Physics匹配；DISCONTINUED 2026-05-01版无这两号。未重扫旧92刊，来源表不等于单篇检索，覆盖年未知。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊指南与修订August2025的编辑政策：初投通常≤3000词含图表题注，排除标题/作者/摘要/致谢/数据声明/参考及非文字图表公式；指南例外超长须cover letter说明，编辑政策另明言最大3500，不解释为无限例外。来源：https://publishing.aip.org/resources/researchers/author-instructions/；https://pubs.aip.org/aip/apl/pages/policies",
+      "Letter禁章节标题；建议至多5图、cover letter鼓励，均非硬性5图/必交信。使用Word或LaTeX，初投合并正文PDF、补充材料独立PDF；通用摘要单段250词，无展示公式/脚注/参考/图表，并准备COI、CRediT、数据可用性声明与alt text。模板内部及系统清单、关键词限制未核。",
+      "编辑初筛后通常寻两位专家，也可更少或更多，匿名模型未明确。普通Article外有Roadmap；Fast Track/Perspective为邀稿，不当全部综述自由投稿或快速通道承诺。来源：https://pubs.aip.org/aip/apl/pages/policies",
+      "正式入口 https://apl.peerx-press.org/ ，仅核官网链接，未登录或上传；新器件方案和材料制备须符合本刊创新/物理意义准入，不把三样例作为相似稿录用保证。"
+    ],
+    "publishing": "2026-10-05核本刊Charges与About：混合出版，不要求页费/彩色费，Author Select可选OA USD3800；金额版年/生效日、税及其他减免未知。在线彩色免费、纸本黑白，彩色作者重印另有附加费。来源：https://pubs.aip.org/aip/apl/pages/charges；https://pubs.aip.org/aip/apl/pages/about",
+    "schedule": "2026-10-05核本刊About的Publication Speed (2025)：平均首决24天、录用86天、发表103天，随稿型变化；样本/更细起算和稿型细分未知，是2025均值而非当前承诺，不相加。来源：https://pubs.aip.org/aip/apl/pages/about",
+    "scopeExamples": [
+      {
+        "title": "AgNPs-modified skin-conformal PDMS substrate for high-performance flexible perovskite photodetectors",
+        "publishedAt": "2026-09-10",
+        "source": "https://doi.org/10.1063/5.0352490",
+        "relevance": "2026-10-05核原Research Article页头及公开摘要：129(10)103303，卷期2026-09-07早于文章9/10。AgNPs嵌入柔性PDMS的钙钛矿光探测器，等离激元/散射与结晶调控及玻璃基底对照，支持光电器件/材料实验适配；未通读收费全文或SI，不当已验证可穿戴临床应用。"
+      },
+      {
+        "title": "Imaging a hidden object in time-varying scattering media with a single-pixel detector",
+        "publishedAt": "2026-07-06",
+        "source": "https://doi.org/10.1063/5.0340962",
+        "relevance": "2026-10-05核原Research Article页头及公开摘要：129(1)011102，卷期及发表均2026-07-06。noiselet照明、单像素光强校正与无需数据标签的未训练网络重建，并有时变散射成像实验；适配计算光学方法，不扩为全部AI稿或任意散射条件保证。未通读收费全文或SI。"
+      },
+      {
+        "title": "Wide-angle photon collection in deep-ultraviolet photodetectors via metalens integration",
+        "publishedAt": "2025-11-26",
+        "source": "https://doi.org/10.1063/5.0299171",
+        "relevance": "2026-10-05核原Research Article页头及公开摘要：127(21)211701，卷期2025-11-24早于文章11/26。265nm深紫外探测器蓝宝石窗集成Si3N4超透镜，角响应实验与FDTD支撑，支持纳米光子/器件适配；火灾监测和通信是潜在用途。未通读收费全文或SI。"
+      }
+    ]
   }
 ]

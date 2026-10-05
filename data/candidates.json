@@ -1772,12 +1772,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "综述与研究论文、基础与工程方向适配",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://pubs.aip.org/aip/apl",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["applied-physics-letters"],
+    "decisionReason": "本刊官方身份/光电范围及三篇不同期次近两年原创光学样例、MJL SCIE/公开EI来源表独立核实；应用物理JIF Q2由2026出版社披露与2025机构转载分别保存，非AIS或CAS换算。",
+    "nextAction": "补CAS、模板/系统细项/匿名模型与费用版年/税；3000通常值与3500政策上限均保留，邀稿类型与普通Article分开。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-efb81b8e87",

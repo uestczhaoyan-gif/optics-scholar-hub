@@ -137,3 +137,26 @@ MJL两纸号唯一结果刊名/出版者/双号及CoreCollection SCIE实核，�
 | Infrared Physics & Technology | INSTRUMENTS & INSTRUMENTATION Q2（p379）；OPTICS Q2（p566）；PHYSICS, APPLIED Q2（p602） |
 
 JQSRT以光谱Q2满足主合集，光学JIF Q3不可借AIS Q2改写；IR三学科Q2。2026/CAS仍未知，97旧刊/36样例与其他JSON保护。F9新增JQSRT与Infrared Physics & Technology，MJL当前SCIE与两新EI行独立保存；五条JCR 2025 JIF为secondary。JQSRT光谱Q2/光学Q3（非AIS Q2），红外三学科Q2；理论/实验例外与软篇幅、Option C数据及逐刊价格/指标保留。99刊/125届/10活动、273候选208 admitted/58 pending/7 deferred、SCIE85/ESCI12/EI92、JCR97/CAS11、36样例；旧97刊及其他JSON保持，其他规划继续。
+
+## F10：Applied Physics Letters
+
+核验2026-10-05。新候选journal-b2ec04237a；[官网](https://pubs.aip.org/aip/apl)/[About](https://pubs.aip.org/aip/apl/pages/about)的0003-6951/e1077-3118与AIP Publishing身份、实验/理论应用物理光电范围独立核实，与APL Photonics不同。
+
+| 字段/来源 | 保存结果和边界 |
+| --- | --- |
+| [MJL](https://mjl.clarivate.com/search-results?issn=0003-6951&hide_exact_match_fl=true) | 普通浏览器唯一Exact Match卡、刊名/出版者/双号及CoreCollection SCIE；不采侧栏filter、未登录profile。 |
+| [EI来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx) | SERIALS2026-08-07第376行Journal、双号与American Institute of Physics，DISCONTINUED2026-05-01无这两号。hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，仅此新目标，未重扫旧92刊；覆盖年/单篇检索未知。 |
+| [JCR 2025机构转载p601](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601) | 原图JIF列PHYSICS, APPLIED Q2，指标2024/secondary；hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274，未用AIS。 |
+| [About新版](https://pubs.aip.org/aip/apl/pages/about)/[Clarivate发布年定义](https://clarivate.com/news/clarivate-releases-journal-citation-reports-2026/) | About原表2025 JCR(Clarivate2026)应用物理Q2。Clarivate原页实读2026发布反映2025数据，映射JCR2026/metric2025。official表示出版社官方披露，不宣称订阅JCR数据库复核；CAS未知。 |
+| [作者指南](https://publishing.aip.org/resources/researchers/author-instructions/)/[本刊政策](https://pubs.aip.org/aip/apl/pages/policies) | 初投通常3000词含图表题注，非文字图表公式及列明前后材料排除；指南超长例外需解释，政策最大3500，保留差异。Letter禁章节标题、5图/cover letter是建议。初投PDF/SI PDF，Word/LaTeX源稿，摘要单段250词、COI/CRediT/数据声明/alt text。通常两专家可更少/多，匿名模式未知；邀FastTrack/Perspective不当普通投稿。完整模板内部/系统清单/关键词限制未核。 |
+| [Charges](https://pubs.aip.org/aip/apl/pages/charges)/[About](https://pubs.aip.org/aip/apl/pages/about) | 不要求页费/彩色费，optional OA USD3800；税/生效/独立年度未知，在线彩色免费、纸本黑白、彩色重印附加费。2025均值首决24/录用86/发表103天，随稿型变，起算细节与样本未知，不相加或保证当前稿。 |
+
+三篇不同期次原Research Article公开页头/摘要/DOI实际读取，未通读收费正文或SI，首次发表不取收稿/录用或较早issue日期：
+
+| 原题与原页 | 首次日/卷期 | 光学适配与证据范围 |
+| --- | --- | --- |
+| [AgNPs-modified skin-conformal PDMS substrate for high-performance flexible perovskite photodetectors](https://pubs.aip.org/aip/apl/article-abstract/129/10/103303/3404186/AgNPs-modified-skin-conformal-PDMS-substrate-for?redirectedFrom=fulltext) | 2026-09-10；129(10)103303，issue9/7 | 柔性AgNPs/PDMS钙钛矿光探测器实验与玻璃对照，材料/器件，不当临床证明。 |
+| [Imaging a hidden object in time-varying scattering media with a single-pixel detector](https://pubs.aip.org/aip/apl/article-abstract/129/1/011102/3397618/Imaging-a-hidden-object-in-time-varying-scattering?redirectedFrom=fulltext) | 2026-07-06；129(1)011102，DOI10.1063/5.0340962 | noiselet/单像素校正/未训练网络及散射成像实验，非泛AI准入。 |
+| [Wide-angle photon collection in deep-ultraviolet photodetectors via metalens integration](https://pubs.aip.org/aip/apl/article-abstract/127/21/211701/3373534/Wide-angle-photon-collection-in-deep-ultraviolet?redirectedFrom=fulltext) | 2025-11-26；127(21)211701，issue11/24 | 265nmSi3N4超透镜窗、角响应实验与FDTD，潜在应用不当已实现产业效能。 |
+
+只核公开网页/新号表与原图，未登录/上传/支付/联系/签署。原候选scopeHint是发现文字，不自动证明综述稿型；本刊以原创短文准入，Roadmap与邀稿分别保存。F10新增Applied Physics Letters，三篇不同期次近两年原创光学样例与本刊指南、费用/2025均值独立保存；MJL SCIE/EI两证据、JCR 2026出版社披露及2025机构转载Q2分别记录。当前100刊/127届/10活动、273候选209 admitted/57 pending/7 deferred、SCIE86/ESCI12/EI93、JCR98/CAS11、38刊至少三篇样例。旧99刊/37样例、272其他候选及其他JSON保护；其他规划继续。
