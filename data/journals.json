@@ -4705,7 +4705,33 @@
       "不常规接受综述/现状总结或项目报告，编辑部特准稿除外；多部分稿须事先获主编同意。会议扩展稿用Post Conference模板并引用既有会议工作，当前模板版本按实际下载核实。",
       "录用最终文件需可编辑Word/LaTeX源、与源匹配的排版PDF及适用图件/补充，打包ZIP按系统要求交；最终文件页的旧页限/旧单价与当前公告冲突，实际终稿条件须按录用说明核对。摘要具体词数和更细版权/数据条款须另核。来源 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/initial-submission 和 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/information-for-authors 。"
     ],
-    "publishing": "2026-10-04当刊主页2026-01公告：2026年投稿的OA APC US$2800；IEEE会员5%或IEEE Society会员20%折扣，不叠加且本科/研究生不适用，资格和税/其他费用另核。2025起Regular前10页不收超页费，第11页起收费；Letters第5–6页收超页费。Final Submission页面仍以旧8/10页口径列US$250每页（IES会员US$200），本轮无法确认这两个单价仍适用当前政策，故当前超页单价保留待核验；前10页无超页费不等于免OA或全部出版费。出版模式及具体报价按投稿/录用协议核实。来源 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics 和 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/final-submission 。"
+    "publishing": "2026-10-04当刊主页2026-01公告：2026年投稿的OA APC US$2800；IEEE会员5%或IEEE Society会员20%折扣，不叠加且本科/研究生不适用，资格和税/其他费用另核。2025起Regular前10页不收超页费，第11页起收费；Letters第5–6页收超页费。Final Submission页面仍以旧8/10页口径列US$250每页（IES会员US$200），本轮无法确认这两个单价仍适用当前政策，故当前超页单价保留待核验；前10页无超页费不等于免OA或全部出版费。出版模式及具体报价按投稿/录用协议核实。来源 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics 和 https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/final-submission 。",
+    "scopeExamples": [
+      {
+        "title": "Adaptive Zoom Fractional-Order Control for Liquid Tunable Lens via High-Performance Implicit Inverse Fractional-Order Command Filtering",
+        "source": "https://ieeexplore.ieee.org/document/11369391",
+        "publishedAt": "2026-01-30",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2026-01-30与73(6), June2026, 9317–9328分开。GMA驱动液体可调透镜的迟滞/时延模型和控制算法，硬件成像与连续调焦实验；适配光学装备的电子/控制贡献，不支持纯透镜设计自由投稿。 仅公开摘要范围，未通读收费全文或SI；Early Access不补造卷期。"
+      },
+      {
+        "title": "Improving Path Accuracy of Industrial Robot Through External Measurement System and Lie Algebra-Based ASMC",
+        "source": "https://ieeexplore.ieee.org/document/11235531",
+        "publishedAt": "2025-11-07",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2025-11-07与73(3), March2026, 4365–4376分开。激光跟踪器/六维目标传感融入工业机器人实时闭环，Lie-ASMC/通信结构与机器人铣削实测；适配光学测量服务工业控制，不当纯视觉/图像处理准入。 仅公开摘要范围，未通读收费全文或SI；Early Access不补造卷期。"
+      },
+      {
+        "title": "Design and Implementation of CRM PFC Converter to Minimize Inductor Peak Current for LED TVs",
+        "source": "https://ieeexplore.ieee.org/document/10745165",
+        "publishedAt": "2024-11-05",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2024-11-05与72(5), May2025, 4751–4762分开。LED电视电源的CRM PFC峰值电流控制及300W原型验证；显示电子驱动路径，不是LED材料物理或纯光学设计的新成果。 仅公开摘要范围，未通读收费全文或SI；Early Access不补造卷期。"
+      },
+      {
+        "title": "Single Inductor Pulsating DC/DC Converter With Current Observer Tracking Control for VCSEL Laser Drivers",
+        "source": "https://ieeexplore.ieee.org/document/11622525",
+        "publishedAt": "2026-07-23",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2026-07-23与Early Access, 1–13（卷期未分配）分开。30W脉冲VCSEL驱动的单电感DC/DC与电流观测器、仿真和原型实测，目标为结构光工业3D传感；电子驱动贡献，未当已完成全套3D成像系统验证。 仅公开摘要范围，未通读收费全文或SI；Early Access不补造卷期。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

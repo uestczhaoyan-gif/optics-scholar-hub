@@ -1298,3 +1298,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三原论文公开页、独立MJL卡、新EI两号/一行、JCR原p601图、原指南/政策/费用/About及Clarivate年定义实际读。3000/3500边界、邀稿与普通稿/软建议分开；匿名模式、CAS、税/生效和统计细项未知。不泛化同社政策。必要验证与差异审查后上传并按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定887a49a的99旧刊/37样例、272其他候选及所有其他JSON保护与单候选六审核字段白名单通过；100/209-57-7、86-12-93、98-11、38样例与双版JIF/三首次日/篇幅边界断言通过。360本地Markdown链接、维护439项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查及git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：TIE光学装备样例 E35
+
+- F10 be3bf570c0a36b9abacc89071625ae7e29ad159b已验收[Pages37263696798](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37263696798)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，dd1b4dde91f06ef14a4bfb926a10e0966fcb271bb656e6412911c23815d0aca9匹配本地（2026-10-05T04:30:42.163Z）。正式编辑前验收，main本地/远端相同，最新来源巡检10/4成功；未人为重触发或恢复旧自动化。work/E35_RESEARCH_2026-10-05.md长操作前保存来源/范围；实际五小时14%/周82%允许，不用重置券。
+- E35为IEEE TIE补四篇近两年光学装备/显示电子样例：三篇已分配不同期次及一篇VCSEL Early Access；突出硬件控制/驱动贡献，保留通常不收纯光学的指南边界。只有scopeExamples变化，39刊至少三样例，100刊/127届/10活动、273候选209/57/7、98系列21多届及索引86/12/93、JCR98/CAS11保持；99其他刊、旧38样例和其他JSON保护。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e35ieee-tie)。
+- 四原公开页首发/卷期/DOI与硬件实验边界核实，第四EA单列，不用检索线索的错误日期或泛化本刊。必要验证与差异审查后上传并按同SHA验收；其他规划继续。
+
+- 发布前数据校验、固定be3bf57的99其他刊/旧38样例、TIE除scopeExamples全部字段及所有其他JSON保持断言通过；四近两年首次日/三不同正式期次加一EA、硬件及显示电子边界和39刊样例计数通过。325本地Markdown链接、维护439项/12主题覆盖、Pages子路径六资源构建exit0与数据/文档差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

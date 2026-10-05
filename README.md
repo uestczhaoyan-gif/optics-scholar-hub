@@ -190,3 +190,5 @@ The series directory links 127 editions to 98 stable conference identities. Foll
 2026-10-05：[TMI三篇光学样例](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi)区分首发、卷期与动物/相关性边界；现37刊各至少三篇。 The [three TMI optical examples](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi) preserve publication dates and experimental limits; 37 journals now have at least three examples.
 
 2026-10-05：[APL候选审核F10](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f10applied-physics-letters)补短篇研究与三篇光学样例，JCR参考98/100、38刊至少三篇样例。 The APL review adds three optical examples; 98 of 100 journals have JCR records and 38 journals have at least three examples.
+
+2026-10-05：[TIE四篇样例E35](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e35ieee-tie)区分光学装备电子控制、显示驱动与纯光学；当前39刊至少三篇样例。 The four TIE examples distinguish optical equipment control and display drivers; 39 journals have at least three examples.
