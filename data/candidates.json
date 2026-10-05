@@ -2495,12 +2495,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光电芯片、光探测、光电集成；不是全部电子主题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://eds.ieee.org/publications/electron-device-letters",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-edl"],
+    "decisionReason": "EDS现行光电器件范围/指南、MJL当前SCIE卡、双号新EI及JCR2025电电子JIF Q2原图核实；三不同正式期光学器件实证支持Q1/Q2参考准入，不补CAS。",
+    "nextAction": "补官方JCR/CAS、模板/系统内部及自愿页费字形/统计范围与2027价；持续复核2026图像独立计数规则，IEDM例外不泛化所有会议稿。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-9f6ce9345b",

@@ -209,3 +209,27 @@ JQSRT以光谱Q2满足主合集，光学JIF Q3不可借AIS Q2改写；IR三学�
 | [CalibFPA: A Focal Plane Array Imaging System Based on Online Deep-Learning Calibration](https://ieeexplore.ieee.org/document/10720339) | 2024-10-16；10:1650–1663；10.1109/TCI.2024.3477312 | 压电台移动预印固定编码孔径、物理驱动DL在线校正像差、低分辨率复用测量的高分辨率重建；模拟及实验数据验证，光学系统与反演结合，不当一般图像后处理。 |
 
 第一篇IoMT细胞分析是应用目标，不当临床诊断实证；第三篇光学装置/数值及实验边界取摘要，不移用离线校准方法。SPS2025新闻回顾的2023径向掩膜论文在两年窗外，未作新样例。
+
+## F13：IEEE EDL
+
+核验2026-10-05，候选journal-66340a35b5。F13新增IEEE EDL和三不同正式期光晶体管/微显示/UV器件实验样例，保存现行短稿限、禁止SI、2026图像独立计数与IEDM例外；MJL SCIE/新EI1840、JCR2025电电子JIF Q2实核。103刊/133届/10活动、273候选212 admitted/54 pending/7 deferred、SCIE89/ESCI12/EI96、JCR101/CAS11、45刊至少三篇样例；原102刊/272其他候选和全部其他JSON保护。自愿页费字形、周期口径/年份、CAS和内部模板未知保留。
+
+| 官方来源/字段 | 实际范围与保留边界 |
+| --- | --- |
+| [EDS本刊](https://eds.ieee.org/publications/electron-device-letters)/[现行指南](https://eds.ieee.org/publications/electron-device-letters/information-for-authors) | 明确光电/成像/显示/PV器件理论模型与设计可靠性；快速发表理由、实验及时文献benchmark及模拟主结果须明示。商业产品测量/教程可能范围拒稿，不因电子主题自动适配。 |
+| [MJL唯一卡](https://mjl.clarivate.com/search-results?issn=0741-3106&hide_exact_match_fl=true) | IEEE/0741-3106/1558-0563、CoreSCIE直接卡实核，不取过滤器，不登录profile或单篇检索，覆盖年未知。 |
+| [Compendex公开表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx) | SERIALS2026-08-07第1840行Journal/双号/IEEEInc，DISCONTINUED2026-05-01无双号；只新目标、不重扫95旧刊；hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。 |
+| [JCR2025机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237) | 原p237图实际看电电子JIF Q2；AIS即便同Q2也不是准入依据。metric2024/secondary，CAS未知；hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274。 |
+| [现行短稿/材料](https://eds.ieee.org/publications/electron-device-letters/information-for-authors) | 新body2又2/3页、修3页、出版4且第四只参考；双栏模板不得改字/行距，摘要150–250一段自含/3–4keyphrases；graphical接受鼓励，SI数据不允许/会移除；ORCID/cover/全作者责任、单盲至少2实读。模板内部未知。 |
+| [2026-08-01图像规则](https://eds.ieee.org/publications/electron-device-letters/information-for-authors) | 初投9+1benchmark总≤10、最终11+1总≤12，inset也独立；字体≥8pt图注，一栏横/竖各≤2、整页≤5单行，单图豁免随初稿说明交EIC |
+| [披露/IEDM](https://eds.ieee.org/publications/electron-device-letters/information-for-authors) | 所有AI生成ack披露、仅语法cover也说明；同组IEDM follow-up12个月内明确引原/声明/至少重要新增发现；无固定比例，不把旧政策当现年绝对禁扩展。 |
+| [费用/周期](https://eds.ieee.org/publications/electron-device-letters/information-for-authors)/[IEEE2026 APC](https://open.ieee.org/for-authors/article-processing-charges/) | 可选hybrid2800按提交日/税另计/会员折扣不叠加且非学生；Traditional无OA费，自愿页费不mandatory，网页$11O末字符O精确值待账单；在线彩免费。页费版年与2027价未知。home平均4周投稿至Xplore与guide平均5周review口径未明，不拼周期/承诺或造统计年。 |
+| [入口](https://eds.ieee.org/publications/electron-device-letters)/[指南](https://eds.ieee.org/publications/electron-device-letters/information-for-authors) | home链接atyponrex Author Portal、guide实际researchexchange链接但正文仍ScholarOne，分别记录；内部未核，未登录、提交/上传、签署、支付或联系。旧索引PDF未完整阅读，不作现行三页/价表依据。 |
+
+[EDS Editors' Picks](https://eds.ieee.org/publications/electron-device-letters/editors-picks)仅定位当年正式期次，三原IEEE题名、摘要、首次日与卷页/DOI核实；未通读全文/SI。UV部分正文公开不等于全篇已读，当前指南版本不移用过期附件：
+
+| 原论文 | 首次/卷期页/DOI | 实证适配与边界 |
+| --- | --- | --- |
+| [High-Performance Organic Phototransistors Enabled by Vertical Phase Separation-Induced Nano-Interpenetrating Heterojunctions](https://ieeexplore.ieee.org/document/11343767) | 2026-01-12；47(2),February2026,333–336；10.1109/LED.2025.3646372 | 垂直相分离纳米互穿异质结构有机光晶体管，激子解离界面与通道载流子输运平衡的器件实验；可穿戴/健康/视网膜成像是应用前景，不当人体或临床验证。DOI含2025不代替原首次2026日期。 |
+| [3-D Stacked Full-Color μLED Displays With Monolithic-Integrated Bismuth Ferrite-Based Color Filter](https://ieeexplore.ieee.org/document/11488657) | 2026-04-20；47(6),June2026,1157–1160；10.1109/LED.2026.3684510 | 16×16全彩微LED芯片示范，三维堆叠兼容异质/单片集成，BFO滤色层改善红色色纯度，原芯片110%NTSC/328PPI；属光电显示集成器件，不把工业规模前景当已经量产，不据作者first措辞独立证明优先权。 |
+| [A Low-Dark-Current 4H-SiC MOS UV Photodetector With a Charge-Trapping Gate Stack by Electric Field Modulation Operation](https://ieeexplore.ieee.org/document/11644713) | 2026-08-07；47(10),October2026,2095–2098；10.1109/LED.2026.3721489 | 4H-SiC MOS紫外探测器Al2O3/AlOx/SiO2电荷陷阱门叠层、氧化界面/电场调制及UV照明电流和强度线性实验；属光电器件工艺与测量实证，低暗电流/线性结果限原偏置和照明条件，不外推安全监测全场景。 |

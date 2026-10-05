@@ -7797,5 +7797,85 @@
         "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2024-10-16、年度卷10:1650–1663、DOI 10.1109/TCI.2024.3477312，原页无期号不补造。压电台移动预印固定编码孔径、物理驱动DL在线校正像差、低分辨率复用测量的高分辨率重建；模拟及实验数据验证，光学系统与反演结合，不当一般图像后处理。 未通读收费全文或SI。"
       }
     ]
+  },
+  {
+    "id": "ieee-edl",
+    "name": "IEEE Electron Device Letters",
+    "abbr": "IEEE EDL",
+    "publisher": "IEEE / IEEE Electron Devices Society",
+    "issn": "0741-3106",
+    "eissn": "1558-0563",
+    "domains": ["光学", "电子"],
+    "topics": ["电子与器件", "传感与测量", "集成光子"],
+    "description": "电子/离子器件的理论、模型、设计、性能和可靠性快速通信，明确含光电、成像、显示及光伏。三不同期次近两年光晶体管、微显示与UV器件实验支持光学交叉；需要器件创新及快速发表理由，不把所有电子主题或商业产品测量当适配。JCR2025电电子Q2为机构转载参考，CAS待核。",
+    "website": "https://eds.ieee.org/publications/electron-device-letters",
+    "guide": "https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0741-3106&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05实核MJL唯一Exact Match卡IEEE ELECTRON DEVICE LETTERS/IEEE、0741-3106/1558-0563、Core Collection Science Citation Index Expanded；非侧栏勾选或登录profile，未做单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05只新目标核公开SERIALS2026-08-07第1840行Journal/IEEE Electron Device Letters/07413106/15580563/IEEEInc，DISCONTINUED2026-05-01无双号。未重扫95旧刊或单篇数据库；表日期不作覆盖年。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核当日指南：Intro必须有快速发表必要性论证，主结果若模拟须在标题/摘要/引言明确并验证模型；实验改进须用及时文献的量化benchmark表/图，商业产品测量/教程类通常不适配，删除first等优先权宣称。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+      "IEEE双栏模板，不能改字号/行距；录用总长最多4页，第四页只参考文献。新稿不含参考正文最多2又2/3页，修订最多3页，不把四页当初稿正文限。参考完整作者（不et al.）、题名、起止页/月年及可得DOI；未发表引文须支持文档。模板内部文件未读。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+      "摘要150–250词一段、自包含，不含缩写/脚注/参考/陈列公式/表格，含3或4不同关键词/短语；graphical abstract可选且鼓励。Supplementary data不允许供审，提交的补充文件会移除；不能套其他IEEE刊允许SI的规则。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+      "图注须逐部分明示实验/实测或模拟/计算；2026-08-01起初投最多9独立图像，含benchmark图可另1但总数≤10，最终最多11+1且总数≤12；inset图另计，表/照片/示意/TCAD等均可算独立图像。图内字体至少等于8pt图注字；一栏水平/垂直各最多2，跨整页最多5且单行不堆叠。单图豁免需随初投说明交EIC判，不把一figure编号当一图像。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+      "全部作者ORCID/通读稿件与cover及定制问卷；cover明确投EDL、先前相关投稿/发表和处理中重叠材料披露。主页Author Portal链接atyponrex.com/journal/edl，指南实际链接researchexchange.com/journal/edl但文字仍称ScholarOne；内部登录流程未核，按公开入口，不擅改为老mc网址。来源：https://eds.ieee.org/publications/electron-device-letters 与 https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+      "当前指南允许同组IEDM follow-up在原稿12个月内，须引用并在Intro明确follow-up及至少一个重要新增发现、聚焦器件创新；未给固定新增百分比，不由旧2012政策推定现年所有会议扩展均可或均禁。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+      "单盲至少两独立评审/录用前查重；AI生成内容须在ack披露系统/部分/范围，短文可正文简述并在cover详列；仅编辑语法通常无需正文ack，但cover仍要说明。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors"
+    ],
+    "publishing": "混合可选OA，当日EDL指南USD2800与本日已读IEEE2026 hybrid价一致；2026价按提交日期、适用税另计，IEEE5%/Society或Council20%折扣限非学生且不叠加。Traditional无需OA付费，自愿页费不作为出版条件；网页金额字形写$11O/页（末字符O），精确金额待费用单，不把未标年/疑义字形补成新的强制费用。网页在线彩色免费。2027 APC及独立页费生效版年未知。来源：https://eds.ieee.org/publications/electron-device-letters/information-for-authors 与 https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "当日主页称平均投稿后约4周上IEEE Xplore，而作者指南称评审平均5周；统计版年、样本范围和定义未明确，不能拼成一套审稿/出版时长，也不作为承诺。首决、返修及录用后周期仍待核。来源：https://eds.ieee.org/publications/electron-device-letters 与 https://eds.ieee.org/publications/electron-device-letters/information-for-authors",
+    "scopeExamples": [
+      {
+        "title": "High-Performance Organic Phototransistors Enabled by Vertical Phase Separation-Induced Nano-Interpenetrating Heterojunctions",
+        "source": "https://ieeexplore.ieee.org/document/11343767",
+        "publishedAt": "2026-01-12",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；首次2026-01-12，47(2),February2026,333–336，DOI 10.1109/LED.2025.3646372。垂直相分离纳米互穿异质结构有机光晶体管，激子解离界面与通道载流子输运平衡的器件实验；可穿戴/健康/视网膜成像是应用前景，不当人体或临床验证。DOI含2025不代替原首次2026日期。 未通读全文或SI；首次日与正式卷期分开。"
+      },
+      {
+        "title": "3-D Stacked Full-Color μLED Displays With Monolithic-Integrated Bismuth Ferrite-Based Color Filter",
+        "source": "https://ieeexplore.ieee.org/document/11488657",
+        "publishedAt": "2026-04-20",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；首次2026-04-20，47(6),June2026,1157–1160，DOI 10.1109/LED.2026.3684510。16×16全彩微LED芯片示范，三维堆叠兼容异质/单片集成，BFO滤色层改善红色色纯度，原芯片110%NTSC/328PPI；属光电显示集成器件，不把工业规模前景当已经量产，不据作者first措辞独立证明优先权。 未通读全文或SI；首次日与正式卷期分开。"
+      },
+      {
+        "title": "A Low-Dark-Current 4H-SiC MOS UV Photodetector With a Charge-Trapping Gate Stack by Electric Field Modulation Operation",
+        "source": "https://ieeexplore.ieee.org/document/11644713",
+        "publishedAt": "2026-08-07",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；首次2026-08-07，47(10),October2026,2095–2098，DOI 10.1109/LED.2026.3721489。4H-SiC MOS紫外探测器Al2O3/AlOx/SiO2电荷陷阱门叠层、氧化界面/电场调制及UV照明电流和强度线性实验；属光电器件工艺与测量实证，低暗电流/线性结果限原偏置和照明条件，不外推安全监测全场景。 未通读全文或SI；首次日与正式卷期分开。"
+      }
+    ]
   }
 ]

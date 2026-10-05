@@ -1,6 +1,6 @@
 # 光学及交叉领域扩充计划与候选清单
 
-规划日期：2026-09-10；执行状态更新：2026-10-05。规划基线为 19 本期刊、9 届会议；当前正式目录为 102 本期刊、133 届会议，另列 10 项展会/论坛（含母子活动）。
+规划日期：2026-09-10；执行状态更新：2026-10-05。规划基线为 19 本期刊、9 届会议；当前正式目录为 103 本期刊、133 届会议，另列 10 项展会/论坛（含母子活动）。
 
 **本文件是持续维护的候选池，不是全部通过审核的目录。** 下方状态表记录已执行批次；其余候选仍需逐项核对存续状态、准确名称、官网、研究范围及当前资料。正式收录以 `data/journals.json` 与 `data/conferences.json` 为准，字段核验范围见 [核验日志](VERIFICATION_LOG.md)。
 
@@ -214,7 +214,7 @@ CIOE 中国国际光电博览会、慕尼黑上海光博会（LASER World of PHO
 
 ## English summary
 
-This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. As of 5 October 2026, the production catalog contains 102 journals, 133 conference editions, and 10 separate exhibition/forum records (including parent and child events). The execution table distinguishes admitted records from pending candidates; remaining names are discovery leads, not verified entries.
+This is an expansion backlog, not an approved catalog. It broadens coverage across optical engineering, physics, materials, electronics, imaging, biomedicine, sensing, displays and energy. The Q1/Q2 collection requires verified eligibility in an identified JCR or CAS edition; a separate EI engineering supplement may include relevant verified EI journals without rankings. SCI/SCIE and EI indexing will be independently verified and displayed on cards. Conference candidates require edition-specific official evidence and separation of conferences, tracks, workshops and exhibitions. Priorities reflect review order rather than venue prestige. As of 5 October 2026, the production catalog contains 103 journals, 133 conference editions, and 10 separate exhibition/forum records (including parent and child events). The execution table distinguishes admitted records from pending candidates; remaining names are discovery leads, not verified entries.
 
 ### 2026-09-13：候选管理与覆盖报告已实现
 
@@ -345,3 +345,7 @@ F12新增IEEE TCI，三篇不同年度卷光学计算样例、本刊链接指南
 ## C33：IGARSS时间深度（2026-10-05）
 
 C33补IGARSS2024/2025/2026历史三届，与原2027预告组成四届时间线；133届/98系列24多届。102刊/10活动、273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11及43刊样例保持。原130届（含2027）、97其他系列/272其他候选与其他JSON保护，系列只editionIds/sources及单候选四审核字段，不刷新未来公告核验日；逐年稿规、费用与海报上限不同，2025旧年份及2026日期冲突保留。 [证据](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)。
+
+## F13：IEEE EDL（2026-10-05）
+
+F13新增IEEE EDL和三不同正式期光晶体管/微显示/UV器件实验样例，保存现行短稿限、禁止SI、2026图像独立计数与IEDM例外；MJL SCIE/新EI1840、JCR2025电电子JIF Q2实核。103刊/133届/10活动、273候选212 admitted/54 pending/7 deferred、SCIE89/ESCI12/EI96、JCR101/CAS11、45刊至少三篇样例；原102刊/272其他候选和全部其他JSON保护。自愿页费字形、周期口径/年份、CAS和内部模板未知保留。 [证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f13ieee-edl)。

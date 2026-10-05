@@ -1360,3 +1360,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E38为IEEE TCYB补四篇近两年光学视觉/多高光谱计算样例，含三不同正式期次55(2)/56(3)/56(10)及一Early Access；首发与卷期分开。仅scopeExamples变化，101其他刊、原TCYB指南/日期/索引排名/费用及全部其他JSON保护；102刊/133届/10活动、273候选211/55/7、98系列24多届、88SCIE/12ESCI/95EI、JCR100/CAS11保持，44刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e38ieee-tcyb)。
 - 四原IEEE公开摘要/首发/卷页实核，三正式不同期与EA、道路实车初步部署/公开数据实验/理论计算分别保留。作者机构页一次浏览器超时后独立公开web仅定位，不取第三方首次日；题名dash一次未命中按新AX实际链接解决。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
 - 发布前数据校验、固定ef1cbd9的101其他刊/43旧样例集、TCYB除scopeExamples全部字段及其他JSON字节保护通过；四首次日/三个正式期次加EA、44样例及原索引排名计数断言通过。355本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、差异审查/git diff --check通过。道路agents用交通参与者明确表述后已重新构建，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：IEEE EDL F13
+
+- E38 5857d5287f1d1bcc0e0f9b5e8f35d22f49bc5ded已验收[Pages37269435556](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37269435556)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，1417e406ba398b778fbd817106100644d973dbf28a85c942e88a45d55ec01494匹配本地（2026-10-05T05:50:17.476Z）。首次push返回remote unpack错误，随后ls-remote已为同SHA，重推Everything up-to-date；没有重复提交。正式编辑前已验收，工作树干净；work/F13_RESEARCH_2026-10-05.md长操作前保存逐字段实际来源/边界。实际五小时78%/周92%允许，不用重置券。
+- F13新增IEEE EDL和三不同正式期光晶体管/微显示/UV器件实验样例，保存现行短稿限、禁止SI、2026图像独立计数与IEDM例外；MJL SCIE/新EI1840、JCR2025电电子JIF Q2实核。103刊/133届/10活动、273候选212 admitted/54 pending/7 deferred、SCIE89/ESCI12/EI96、JCR101/CAS11、45刊至少三篇样例；原102刊/272其他候选和全部其他JSON保护。自愿页费字形、周期口径/年份、CAS和内部模板未知保留。 [逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f13ieee-edl)。
+- 当日EDS指南/主页、唯一MJL卡、新EI双号行/停收表、JIF原图及三IEEE原摘要/首次卷期实读；现行稿限、独立图像、禁止SI和IEDM例外与未知金额/周期保留。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
+- 发布前数据校验、固定5857d52的102旧刊/44旧样例、272其他候选与全部其他JSON字节保护、单候选六字段白名单通过；103/212-54-7、89-12-96、101-11及45样例、三个正式期次/首次日、独立图像与SI/页费未知边界通过。403本地Markdown链接、维护451项/12主题覆盖、Pages子路径六资源构建exit0、差异审查/git diff --check通过；当前统计表已与实际89SCIE/96EI同步，完整31项测试/typecheck/lint由同SHA CI验收。
