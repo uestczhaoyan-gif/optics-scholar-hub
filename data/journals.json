@@ -4646,7 +4646,27 @@
       "2026-10-03 本刊 Regular 指南：通常20–25页，未设硬性页限，强烈建议至多35页；作者照片/简介随稿，简介最多200词。Supplementary code/data/video 随稿评审；AI 生成文字披露。",
       "Cover Letter 还需作者学术主页及超出自身工作的背景引用，缺详细说明可不送审。Author Portal 选择 Regular Paper / Proceedings of the IEEE Editorial Office: Regular Issue；正文入口与另一个 Research Exchange 按钮并存，未登录确认迁移或上传流程。"
     ],
-    "publishing": "混合出版；2026-10-03 经本刊链接核对 IEEE 2026 通用 hybrid OA APC USD2800，以投稿日定价、另加适用税；会员5%/学会20%，不叠加、不用于学生及超页/彩图费。本刊额外费用仍待独立核实。来源 https://open.ieee.org/for-authors/article-processing-charges/ 。"
+    "publishing": "混合出版；2026-10-03 经本刊链接核对 IEEE 2026 通用 hybrid OA APC USD2800，以投稿日定价、另加适用税；会员5%/学会20%，不叠加、不用于学生及超页/彩图费。本刊额外费用仍待独立核实。来源 https://open.ieee.org/for-authors/article-processing-charges/ 。",
+    "scopeExamples": [
+      {
+        "title": "The Polar Radiant Energy in the Far-Infrared Experiment (PREFIRE), Broadband Thermal Spectrometry for Small Satellite Platforms",
+        "source": "https://ieeexplore.ieee.org/document/11427316",
+        "publishedAt": "2026-03-10",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名、Date of Publication及卷期页；首次2026-03-10，114(2), February2026,345–361，DOI 10.1109/JPROC.2026.3667066。介绍PREFIRE两极轨小卫星各一台微型热红外光谱仪及系统、算法、地球物理产品；光学遥感仪器/任务综合介绍，模型改善是后续用途。首发晚于名义February月份，按原元数据分别保存。 未通读全文/SI；综述/系统介绍与单项实验论文分开。"
+      },
+      {
+        "title": "Progress in Deformation Sensing for Flexible Robots",
+        "source": "https://ieeexplore.ieee.org/document/11268283",
+        "publishedAt": "2025-11-25",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名、Date of Publication及卷期页；首次2025-11-25，113(8), August2025,752–782，DOI 10.1109/JPROC.2025.3633933。柔性机器人形变传感综合综述，涵盖压电、电容、电阻及光学应变测量，讨论分辨率/贴合性/串扰等挑战；光学只是多模态之一，不把综述当新光学器件实验。首发晚于名义August月份，不擅自修正。 未通读全文/SI；综述/系统介绍与单项实验论文分开。"
+      },
+      {
+        "title": "A Vision, Survey, and Roadmap Toward Space Communications in the 6G and Beyond Era",
+        "source": "https://ieeexplore.ieee.org/document/10820534",
+        "publishedAt": "2025-01-02",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名、Date of Publication及卷期页；首次2025-01-02，113(9), September2025,987–1023，DOI 10.1109/JPROC.2024.3512934。空间通信愿景/综述/路线图；除摘要，还实际阅读公开HTML近地与深空通信局部，确认光学链路和LCRD激光通信讨论。光学为宽领域部分，文内任务是被综述对象，不能当作者本篇新硬件实验；2030以后为展望。DOI2024不替代首次2025日期。 未通读全文/SI；综述/系统介绍与单项实验论文分开。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

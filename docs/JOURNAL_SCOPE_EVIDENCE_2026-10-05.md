@@ -61,3 +61,15 @@
 | [FK-Net: Frequency-Aware and Kernelizable Mamba–Transformer for Multispectral and Hyperspectral Image Fusion](https://ieeexplore.ieee.org/document/11692970) | 2026-09-16；Early Access,1–14（正式卷期未知）；10.1109/TCYB.2026.3723099 | 多/高光谱图像融合重建高分辨率HSI，Fourier频率引导FADM双Mamba、谱相关SCC核自注意力含线性复杂度理论与定量/定性实验；图像融合/计算方法交叉，未声称新成像硬件。Early Access单独保存，不编正式期号。 |
 
 SDSnet作者机构原页仅辅助定位，原IEEE确认首发2025-10-31与March2026正式期分开；本期GLIR官网题名为Global--Local，按原题保存，不因定位显示破折号不同误认论文。公开Intro局部不等于全文；没有登录、下载受限文稿、上传、联系或支付。本批不刷新指南旧APC/摘要字数冲突与索引分区。E38为IEEE TCYB补四篇近两年光学视觉/多高光谱计算样例，含三不同正式期次55(2)/56(3)/56(10)及一Early Access；首发与卷期分开。仅scopeExamples变化，101其他刊、原TCYB指南/日期/索引排名/费用及全部其他JSON保护；102刊/133届/10活动、273候选211/55/7、98系列24多届、88SCIE/12ESCI/95EI、JCR100/CAS11保持，44刊至少三篇样例。
+
+## E39：Proceedings of the IEEE
+
+核验2026-10-05。[本刊主页](https://proceedingsoftheieee.ieee.org/)实际链接[Xplore本刊](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5)，Search within Publication=5按Newest定位，非同名会议proceedings。三个原IEEE公开摘要、Date of Publication、卷期页及DOI实核，首次均在2024-10-05后；两篇首发晚于名义卷期月份的事实分开保留。未通读全文/SI；Space另读公开HTML近地/深空光学链路与LCRD局部，非全文核验。
+
+| 原论文 | 首次/卷期页/DOI | 适配和核验范围 |
+| --- | --- | --- |
+| [The Polar Radiant Energy in the Far-Infrared Experiment (PREFIRE), Broadband Thermal Spectrometry for Small Satellite Platforms](https://ieeexplore.ieee.org/document/11427316) | 2026-03-10；114(2), February2026,345–361；10.1109/JPROC.2026.3667066 | 介绍PREFIRE两极轨小卫星各一台微型热红外光谱仪及系统、算法、地球物理产品；光学遥感仪器/任务综合介绍，模型改善是后续用途。首发晚于名义February月份，按原元数据分别保存。 |
+| [Progress in Deformation Sensing for Flexible Robots](https://ieeexplore.ieee.org/document/11268283) | 2025-11-25；113(8), August2025,752–782；10.1109/JPROC.2025.3633933 | 柔性机器人形变传感综合综述，涵盖压电、电容、电阻及光学应变测量，讨论分辨率/贴合性/串扰等挑战；光学只是多模态之一，不把综述当新光学器件实验。首发晚于名义August月份，不擅自修正。 |
+| [A Vision, Survey, and Roadmap Toward Space Communications in the 6G and Beyond Era](https://ieeexplore.ieee.org/document/10820534) | 2025-01-02；113(9), September2025,987–1023；10.1109/JPROC.2024.3512934 | 空间通信愿景/综述/路线图；除摘要，还实际阅读公开HTML近地与深空通信局部，确认光学链路和LCRD激光通信讨论。光学为宽领域部分，文内任务是被综述对象，不能当作者本篇新硬件实验；2030以后为展望。DOI2024不替代首次2025日期。 |
+
+E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外遥感、含光学方法的形变传感与空间光通信样例；综述/系统介绍和单项实验分开，首次与名义卷期日期冲突按原元数据保留。仅scopeExamples变化，103其他刊、整刊/指南日期、索引分区费用及其他JSON保护；104刊/133届/10活动、273候选213/53/7、98系列24多届、90SCIE/12ESCI/97EI、JCR102/CAS11保持，47刊至少三篇样例。 原Regular作者指南和费用已在先前批次核查，本批不刷新这些字段。网页不同名义月份不擅自纠正首次日，综述中的任务、实例与未来用途不写成作者本篇已完成实验。

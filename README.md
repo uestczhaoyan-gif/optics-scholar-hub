@@ -210,3 +210,5 @@ The series directory links 133 editions to 98 stable conference identities. Foll
 2026-10-05：[EDL审核F13](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f13ieee-edl)补现行器件短稿要求与三不同期光电实证；103刊、45刊至少三篇样例。 EDL admission adds current device-letter rules and optical device experiments from three issues; 45 of 103 journals have at least three examples.
 
 2026-10-05：[TED审核F14](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f14ieee-ted)补器件初稿与补充材料规则、三个正式期次样例；104刊、46刊至少三篇样例。 TED admission adds device manuscript rules and examples from three formal issues; 46 of 104 journals have at least three examples.
+
+2026-10-05：[Proceedings光学综述E39](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)补三不同正式期样例，47刊至少三篇样例；首次与名义月份分别保留。 Proceedings optical survey examples cover three formal issues; 47 journals have at least three examples, with first-publication dates preserved separately from nominal issue months.
