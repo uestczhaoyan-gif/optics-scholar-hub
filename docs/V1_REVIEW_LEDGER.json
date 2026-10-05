@@ -1154,6 +1154,94 @@
         "默认EUR600的生效年Payment/公告冲突未澄清；作者指南时长含2022背景，不当2026统计。"
       ],
       "maintenanceTrigger": "新索引版本/费用日期澄清或年度周期依据出现后按字段维护；同一来源不反复重试。"
+    },
+    {
+      "kind": "journal",
+      "id": "ol",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "16ed0315e18ede00d5a9e60239968239ab6d1a1f8b6d26949ea61b97f9e6a791",
+      "formalReviewBase": "7ecf131c9e122e3f6466167ec771f920f3c73bc9",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#ol",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "完整本刊格式/摘要及阶段周期未知；出版四页依据来自实读收费表，不推造其他稿型细则。",
+        "税、收费年度/适用投稿或录用时点及覆盖年份未知；CAS分区为secondary而非官方复核。"
+      ],
+      "maintenanceTrigger": "新本刊独立指南或收费/分区更新后逐字段补；区分自愿支持、可选OA、印刷彩色和稿型。"
+    },
+    {
+      "kind": "journal",
+      "id": "applied-optics",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "28119eb43d0bea4cb0d79680f8b63cb788d1c04c4e0581a2b7e48b09b14d5852",
+      "formalReviewBase": "7ecf131c9e122e3f6466167ec771f920f3c73bc9",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#applied-optics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "CAS及2026 JCR未知；JCR2025 Q3secondary不暗改Q2，覆盖年份未知。",
+        "通用约100词摘要非独立硬上限；上传流程、税/个案优惠与审稿时长未知；SI2020版不冒充2026新版。"
+      ],
+      "maintenanceTrigger": "本刊独立硬性格式、更新年度收费/分区出现后维护；频次与个稿周期、出版页与源文件页分别处理。"
+    },
+    {
+      "kind": "journal",
+      "id": "josa-a",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4689c34a86846ad02d4a368e653f1a15a442f30e7dbc64185a7ed337491d96f7",
+      "formalReviewBase": "7ecf131c9e122e3f6466167ec771f920f3c73bc9",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#josa-a",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "CAS与2026 JCR、覆盖年份和阶段周期未知，旧JCR为secondary。",
+        "独立硬性摘要上限、登录后上传、税/个案优惠未知；模板非强制排版，SI版本和核验日分开。"
+      ],
+      "maintenanceTrigger": "本刊新指南、收费/排名及独立出版政策出现后维护；不继承JOSA B年度S2O结果。"
+    },
+    {
+      "kind": "journal",
+      "id": "josa-b",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "63ccafa8409ac1a2c84ffcd78c0fa6587b457a1935a4d67a89bad4090e0746e2",
+      "formalReviewBase": "7ecf131c9e122e3f6466167ec771f920f3c73bc9",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-05.md#josa-b",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027 S2O未知；2026免APC不等于所有收费免收，税与个案优惠仍未知。",
+        "独立摘要硬上限、上传流程、阶段周期、CAS/2026 JCR及覆盖年未知；SI2020版本不能改为2026。"
+      ],
+      "maintenanceTrigger": "实际2027 S2O门槛公告或新版稿型/收费/分区出现后维护；不凭周期自动承诺免APC。"
     }
   ],
   "coreSeriesReviews": [

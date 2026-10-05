@@ -2,11 +2,13 @@
 
 2026-10-05；仅对实际逐字段读取的正式条目记审核结果。[冻结范围](V1_SCOPE.json)/[账本](V1_REVIEW_LEDGER.json)。目录全部保持，无新索引/费用/官网核验日期刷新。这里的checkedAt为收尾证据审阅日，不冒充重新联网日期。
 
+当前累计11正式期刊已审，余239正式条目；候选23已审/37未审保持，G2/G3未完成。
+
 ## V1-G2A：七刊
 
 实际读取旧四光学专刊与三个固定候选新准入刊的完整结构化字段，并对照既有原来源/实际核验记录。身份/正式关联、指南与出版阶段、分区体系及版本/等级、独立索引证据、来源/日期和明确未知逐项检查；复用真实核验，不重查不变官网。七项均留具体限制与维护触发，不能将结构校验通过解释为全字段官方实核。
 
-当前正式质量目标为冻结247条（104刊/133届/10活动）加固定候选新准入三刊，共250条；本批仅7刊已审，其中4冻结旧刊、3新准入，尚余243条，G2未完成。未审核的OL/AO及其他正式条目不因在一次截断输出中出现而标完成。
+G2A当批正式质量目标为冻结247条（104刊/133届/10活动）加固定候选新准入三刊，共250条；本批仅7刊已审，其中4冻结旧刊、3新准入，尚余243条，G2未完成。G2A未审核的OL/AO及其他正式条目不因在一次截断输出中出现而标完成。
 
 ## nature-photonics
 
@@ -84,3 +86,51 @@ Quantum；Verein zur Förderung des Open Access Publizierens in den Quantenwisse
 - 未解决内容及影响：EI本版按2521-327X/刊名无匹配，仅unverified，不是未收录/停收；CAS及覆盖年份未知。；默认EUR600的生效年Payment/公告冲突未澄清；作者指南时长含2022背景，不当2026统计。
 - 维护触发：新索引版本/费用日期澄清或年度周期依据出现后按字段维护；同一来源不反复重试。
 - 记录审阅范围：读取本条全部现有字段、核对原证据及source/evidence/日期边界，未知保留。固定0bb6b9f条目内容摘要08a782327c5dcb96aaf7f2a74db6eb7c89f238eabc6cd0a086a69e5b0ae37caf用于保护本轮不改数据；不是官网内容指纹。
+
+## V1-G2B：四刊
+
+2026-10-05实际读取OL/AO/JOSA A/B全部现有字段并核对E7、F1、E18既有原证据；JOSA A/B共同准备细则与AO逐项内容相同，经差异断言确认，适用名单来自原官方样式页。共用细则只读一次，不称四刊今日重新联网。累计11正式期刊已收尾，余239正式条目；G2未完成。
+
+## ol
+
+Optics Letters；Optica Publishing Group，0146-9592/1539-4794，原checkedAt 2026-09-09；正式候选关联journal-f01bbddcb7保持。
+
+- 逐字段范围：[现指南](https://opg.optica.org/content/author/portal/)/[原准入或费用记录](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e7jocn-与-optics-letters)；AO/JOSA的补充规则另有[E18适用范围/版本](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e18ao--josa-a--josa-b-样式和补充材料)。0146-9592/1539-4794身份及SCIE/EI4270独立。JCR2026指标2025的47/129推算Q2为derived；CAS2025大类2/光学小类3secondary不混同。四印刷页/无超页收费、自愿页费125USD、可选OA2300/条件CC BY2550和印刷彩图650/325分开；刊页要求仅通用建议，不宣称完整作者格式已核。
+- 分区记录：JCR/JCR 2026（指标2025）/category/OPTICS 光学/Q2/derived [来源](https://opg.optica.org/content/author/portal/item/style-metrics/)；CAS/2025 年升级版/major/物理与天体物理/Q2/secondary [来源](https://www.ablesci.com/journal/detail?id=Dbljyp)；CAS/2025 年升级版/minor/光学/Q3/secondary [来源](https://www.ablesci.com/journal/detail?id=Dbljyp)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30，[来源](https://mjl.clarivate.com/search-results?issn=0146-9592&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0146-9592 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30，[来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 公开来源表 SERIALS（2026-08-07 版）第 4270 行，刊名/刊号匹配；停收表（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容/影响：完整本刊格式/摘要及阶段周期未知；出版四页依据来自实读收费表，不推造其他稿型细则。；税、收费年度/适用投稿或录用时点及覆盖年份未知；CAS分区为secondary而非官方复核。
+- 后续触发：新本刊独立指南或收费/分区更新后逐字段补；区分自愿支持、可选OA、印刷彩色和稿型。
+- 固定7ecf131完整条目内容摘要16ed0315e18ede00d5a9e60239968239ab6d1a1f8b6d26949ea61b97f9e6a791；本次质量审阅不改JSON，不将审阅日冒充新的官网核验。
+
+## applied-optics
+
+Applied Optics；Optica Publishing Group，1559-128X/2155-3165，原checkedAt 2026-10-03；正式候选关联journal-7b788b7d23保持。
+
+- 逐字段范围：[现指南](https://opg.optica.org/content/author/)/[原准入或费用记录](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md#f1传统光学与光子器件五刊)；AO/JOSA的补充规则另有[E18适用范围/版本](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e18ao--josa-a--josa-b-样式和补充材料)。1559-128X/2155-3165身份、MJL SCIE/EI370独立；JCR2025指标2024 OPTICS Q3通过EI工程路径准入。应用/综述/Application Notes不套其他刊稿型。1/10/20日频次不当审稿周期；超过10出版页300USD、自愿125、订阅与可选OA及条件CC BY分开，线上/印刷彩色分开。
+- 分区记录：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03，[来源](https://mjl.clarivate.com/search-results?issn=1559-128X&hide_exact_match_fl=true)；Clarivate MJL 公开查询：以 ISSN 1559-128X 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。；EI_COMPENDEX/confirmed/database，原核验2026-10-03，[来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 370 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。
+- 未解决内容/影响：CAS及2026 JCR未知；JCR2025 Q3secondary不暗改Q2，覆盖年份未知。；通用约100词摘要非独立硬上限；上传流程、税/个案优惠与审稿时长未知；SI2020版不冒充2026新版。
+- 后续触发：本刊独立硬性格式、更新年度收费/分区出现后维护；频次与个稿周期、出版页与源文件页分别处理。
+- 固定7ecf131完整条目内容摘要28119eb43d0bea4cb0d79680f8b63cb788d1c04c4e0581a2b7e48b09b14d5852；本次质量审阅不改JSON，不将审阅日冒充新的官网核验。
+
+## josa-a
+
+Journal of the Optical Society of America A；Optica Publishing Group，1084-7529/1520-8532，原checkedAt 2026-10-03；正式候选关联journal-cbeaaca16c保持。
+
+- 逐字段范围：[现指南](https://opg.optica.org/content/author/)/[原准入或费用记录](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md#f1传统光学与光子器件五刊)；AO/JOSA的补充规则另有[E18适用范围/版本](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e18ao--josa-a--josa-b-样式和补充材料)。1084-7529/1520-8532身份、MJL SCIE/EI3683独立；JCR2025指标2024 OPTICS Q3通过EI准入。经典光学/成像/视觉稿型与JOSA B分开；月刊/at-a-time不保证个稿速度。与AO共同指南/收费逐项核对明确适用名单，没有给JOSA A移植B的S2O。
+- 分区记录：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03，[来源](https://mjl.clarivate.com/search-results?issn=1084-7529&hide_exact_match_fl=true)；Clarivate MJL 公开查询：以 ISSN 1084-7529 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。；EI_COMPENDEX/confirmed/database，原核验2026-10-03，[来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 3683 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。
+- 未解决内容/影响：CAS与2026 JCR、覆盖年份和阶段周期未知，旧JCR为secondary。；独立硬性摘要上限、登录后上传、税/个案优惠未知；模板非强制排版，SI版本和核验日分开。
+- 后续触发：本刊新指南、收费/排名及独立出版政策出现后维护；不继承JOSA B年度S2O结果。
+- 固定7ecf131完整条目内容摘要4689c34a86846ad02d4a368e653f1a15a442f30e7dbc64185a7ed337491d96f7；本次质量审阅不改JSON，不将审阅日冒充新的官网核验。
+
+## josa-b
+
+Journal of the Optical Society of America B；Optica Publishing Group，0740-3224/1520-8540，原checkedAt 2026-10-03；正式候选关联journal-2d211e4ebe保持。
+
+- 逐字段范围：[现指南](https://opg.optica.org/content/author/)/[原准入或费用记录](JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md#f1传统光学与光子器件五刊)；AO/JOSA的补充规则另有[E18适用范围/版本](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e18ao--josa-a--josa-b-样式和补充材料)。0740-3224/1520-8540身份、MJL SCIE/EI3684独立；JCR2025指标2024 OPTICS Q3通过EI准入。光物理/非线性/量子范围独立；月刊与article-at-a-time不是周期承诺。2026卷S2O已达门槛免APC，仅有条件CC BY250USD；超页/印刷彩图另计，2027订阅门槛未确认，按出版卷年不是投稿年套用。
+- 分区记录：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03，[来源](https://mjl.clarivate.com/search-results?issn=0740-3224&hide_exact_match_fl=true)；Clarivate MJL 公开查询：以 ISSN 0740-3224 查询，唯一 Exact Match 刊名/两刊号一致，结果卡明确 Science Citation Index Expanded；未登录 profile 或查单篇，覆盖起止年未提供。；EI_COMPENDEX/confirmed/database，原核验2026-10-03，[来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 3684 行，Journal 类型及印刷/电子刊号匹配；DISCONTINUED（2026-05-01）无匹配。未做订阅平台单篇检索，表未给覆盖起止年。
+- 未解决内容/影响：2027 S2O未知；2026免APC不等于所有收费免收，税与个案优惠仍未知。；独立摘要硬上限、上传流程、阶段周期、CAS/2026 JCR及覆盖年未知；SI2020版本不能改为2026。
+- 后续触发：实际2027 S2O门槛公告或新版稿型/收费/分区出现后维护；不凭周期自动承诺免APC。
+- 固定7ecf131完整条目内容摘要63ccafa8409ac1a2c84ffcd78c0fa6587b457a1935a4d67a89bad4090e0746e2；本次质量审阅不改JSON，不将审阅日冒充新的官网核验。
