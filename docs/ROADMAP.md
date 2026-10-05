@@ -815,3 +815,7 @@ V1-G2A 7ecf131c9e122e3f6466167ec771f920f3c73bc9已验收[Pages37336704029](https
 ## 2026-10-06：正式会议质量 V1-G2F
 
 c94b3c81f08544db8582ae86ce0bb29697b0ea8b已验收[Pages 37377396666](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37377396666)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:41:45.426Z）。 V1-G2F实审13届会议全部字段，正式质量累计44/250（31刊/13届/0活动）、余206；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 [逐届规则与实际未知](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2f)。原五小时检查和每日巡检保持，不把未审或其他届规则当完成。
+
+## 2026-10-06：正式会议质量 V1-G2G
+
+a9c3711efd63a86cc48e55b63083093b837d3c13已验收[Pages 37377686327](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37377686327)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:44:46.145Z）。 V1-G2G实审8届会议全部字段，正式质量累计52/250（31刊/21届/0活动）、余198；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 [逐届规则与实际未知](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2g)。原五小时检查和每日巡检保持，不把未审或其他届规则当完成。

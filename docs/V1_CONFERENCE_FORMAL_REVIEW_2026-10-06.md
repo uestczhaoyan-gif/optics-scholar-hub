@@ -187,3 +187,119 @@ Asia Optical Fiber Communication and Optoelectronic Exposition & Conference 2008
 - 未解决内容及影响：当届原CFP/摘要模板/提交方法、注册费及截止、论文集索引均未核；会后报道不能补投稿细则。；下一届日城/CFP未知，nextEditionCheckedAt保持null，不假称今日官网成功。
 - 维护触发：原官网证书修复或主办方提供合法原CFP及下一届公告后维护，不重复安全限制或按周期造会期。
 - 完整记录内容摘要eff830a7440c16ce6fb09d3851c163efeecb923282477c4db024876a169eac6c，基于c94b3c81f08544db8582ae86ce0bb29697b0ea8b；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2G
+
+本次实际逐項完整读取Photonics West2026/2027、ECOC2025/2026/2027与IPC2024/2025/2026八届JSON所有字段、对应三G5系列段及C30/C31原范围。复用已有实际官方来源，不重复未变化查询、旧404/浏览器阻断，不冒充今日重新读取全部官网。身份/关联、各届篇词及注册条件、日级与开边界、出版计划和具体未知分别审核。 累计正式质量52/250，余198未审；固定候选35/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## photonics-west-2026
+
+SPIE Photonics West 2026；2026；SPIE Photonics West/series-9ae4f3391a51；admitted关联conference-series-b8168ba324，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://www.moscone.com/events/spie-photonics-west-1)、[原通知](https://www.moscone.com/events/spie-photonics-west-1)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-9ae4f3391a51)。
+- 全字段审阅范围：2026年1/17–22的Moscone North/South/West与San Francisco来自当届官方场馆正文，激光/生医/量子方向可核。通用SPIE外链现2027不能证旧作者指南；只计大会群不将分会重复计数。旧PW26 LA404 PDF浏览器ERR_BLOCKED_BY_CLIENT实际限制已留证，不绕过；closed未知初稿日不给未来投稿提醒。
+- 日城与范围：2026-01-17–2026-01-22；美国 · 旧金山；The Moscone Center：North、South、West；submissionState closed。
+- 逐字段截止及出处：2026历史摘要截止待核：未知 [来源](https://www.moscone.com/events/spie-photonics-west-1)
+- 本届条件出版原字段：原2026出版条件和完整论文集/单篇实际入库未核；场馆活动介绍不能保证每篇出版或索引。
+- 本届范围/冲突原备注：与现有2027同一稳定系列，但1/17–22/2026不是1/30–2/4/2027；各学术分会与BiOS Expo/Photonics West Exhibition具体日期尚未逐项核实。历史CFP和费用仍开放维护，未知日期不生成可投稿提醒。
+- 未解决内容及影响：原2026CFP/普通或PDP截止、篇词格式、分会特殊要求、费率和报告/出版条件未核。；BiOS/展览分日未核，场馆活动介绍不是每篇出版/索引证据；不复制2027共同指南。
+- 维护触发：合法2026原档/CFP/出版数据出现后补历史字段；不重试相同阻断，不按2027推旧日期。
+- 完整记录内容摘要6594cc29df7cde6b96ea56fabacee00a1d387e87146a40a24f310d4767c88aca，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## photonics-west-2027
+
+SPIE Photonics West 2027；2027；SPIE Photonics West/series-9ae4f3391a51；admitted关联conference-series-b8168ba324，原checkedAt 2026-09-13。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/photonics-west)、[原通知](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)；[原实际记录1](V1_SERIES_REVIEW_2026-10-05.md#series-9ae4f3391a51)。
+- 全字段审阅范围：2027年1/30–2/4Moscone大会群，BiOS Expo1/30–31与Exhibition2/2–4分别。200–300词审查摘要、50–150词公开简介和最多1000字符报告人介绍不同；每稿选最贴切一个分会，特殊要求另核。共同7/22摘要已过但callopen只能逐分会确认；通知10/12，海报1/6/全文1/13/幻灯片9/30复核改1/27均日级。PW27公开注册10/2实际需登录，金额与截止未知，上传前需注册；11/30计划开放上传不等现在开放。付费现场报告+材料审查后Proceedings出版，合作EI不等实际每篇索引。
+- 日城与范围：2027-01-30–2027-02-04；美国 · 旧金山；The Moscone Center, 747 Howard Street；submissionState published。
+- 逐字段截止及出处：共同摘要截止（补投另查分会）：2026-07-22 [来源](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)；录用通知及日程发布：2026-10-12 [来源](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)；海报 PDF 提交截止：2027-01-06 [来源](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)；论文全文提交截止：2027-01-13 [来源](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)；口头报告幻灯片提前上传截止：2027-01-27 [来源](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)；注册截止待公布（上传前需注册）：未知 [来源](https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines)
+- 本届条件出版原字段：按要求提交且完成现场报告的材料，经审查后在 SPIE Digital Library 的 Proceedings of SPIE 出版；官网列举 EI 等数据库合作，不代表本届每篇材料已经收录。
+- 本届范围/冲突原备注：官网仍显示 call for papers open，但共同摘要日期为 2026/7/22，是否仍可补投须查具体分会，不推定全部开放。注册指南仍列 2026 年 10 月开始；2026-10-02 已核实官方 PW27 注册入口，需登录或创建 SPIE 账号继续，费用与注册截止本轮未核实；论文/海报上传计划 11/30 开启。海报 PDF 用于日程预览及出版，口头幻灯片 1/27 后可到现场 Speaker Check-in 上传。BiOS Expo 为 1/30–31，Photonics West Exhibition 为 2/2–4，二者不是全部论文会期。 2026-09-30 浏览器复核重要日期：口头幻灯片提前上传截止改为 1/27；通知、海报及全文日期保持不变。本轮不刷新整条核验日期。
+- 未解决内容及影响：个别分会补投、特殊摘要/奖项/报告规则、费率及登录内状态未核。；共同截止无时刻，注册10月计划不能推全天或成功后台；1/27后现场幻灯片上传与线上提前截止分别。
+- 维护触发：本届明确分会补投/费率/新作者日程或合法后台结果出现后维护，保留大会/子会/展览范围。
+- 完整记录内容摘要625df2912f8f88be62aef045cefc92876f1218edb3a904a77c9f94f99aea72e0，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## ecoc-2025
+
+51st European Conference on Optical Communication；2025；ECOC/series-e0aa59321b2a；admitted关联conference-series-e0aa59321b，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://ecoc2025.org/)、[原通知](https://ecoc2025.org/paper-submission/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c30ecocipc时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-e0aa59321b2a)。
+- 全字段审阅范围：2025年9/28–10/2Copenhagen Bella Center，底部Pisa酒店残留不用。三页原Submission Instructions全文/三图已核，正文3+额外1页致谢/参考，45词摘要无图表、25词题名、PDF<5MB与最多两个presenting摘要不是每作者限两稿；student award资格须报告学生。p3原4/22只日级未证明最后延期，PDP页9/30通知非普通。注册7/21vs7/7、9/26vs9/27、EUR908vs858冲突保留，student常规495/现场536EUR和VAT0仅旧价。A0竖84.1×118.9cm/PPTX16:9/USB/提前两小时为当届；注册关联、报告后ISBN/VDE/IEEE送交为条件计划。
+- 日城与范围：2025-09-28–2025-10-02；丹麦 · 哥本哈根；Bella Center, Center Boulevard 5；submissionState closed。
+- 逐字段截止及出处：2025原指南所列普通截止（终版待核）：2025-04-22 [来源](https://ecoc2025.org/wp-content/uploads/2025/02/ECOC_2025_Submission-Instructions.pdf#page=3)；所读PDF p3列此日，未独核最终延期，无时刻。；2025历史PDP已关闭（原截止待核）：未知 [来源](https://ecoc2025.org/paper-submission/)；2025历史PDP通知：2025-09-30 [来源](https://ecoc2025.org/paper-submission/)；该页为post deadline submitters，不代普通稿通知。；2025历史早价截止冲突待核：未知 [来源](https://ecoc2025.org/registration/)；同页7/21和7/7并列，未择一版；不推时刻。
+- 本届条件出版原字段：当届作者页称录用且与注册作者正确关联/现场报告后编入带ISBN论文集，并提交VDE、IEEE Xplore及其他数据库；这是出版/送审计划，不保证每篇实际索引。来源：https://ecoc2025.org/paper-submission/
+- 本届范围/冲突原备注：2026-10-05核首页日城和venue页Bella Center；底部Pisa酒店段为异地残留，不作场馆。注册页并列7/21与7/7早价、9/26与9/27常规边界，非会员早价EUR908/858矛盾，最终版本未定。学生常规DKK3688/EUR495、现场DKK3995/EUR536与原页VAT0%一致，仅历史价格参考，其他费用未知；不沿用为2026/2027费率。原2025普通CFP/最终延期未核；后续届次另存。来源：https://ecoc2025.org/registration/
+- 未解决内容及影响：最终普通/PDP日期、匿名/内部模板协议未知，早价日及非会员金额冲突不选一。；原额外页简写致谢不扩成4页正文；现页PDP通知不代普通，后续2026/2027费用不继承。
+- 维护触发：2025官方更正注册版本/原最后CFP或实际论文集记录出现后维护历史，保留本届页型和资格边界。
+- 完整记录内容摘要c75c60a2fe1346aa0a9b1e58c862dd07a2652a995386fc1104771e31df1ce6d5，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## ecoc-2026
+
+European Conference on Optical Communication；2026；ECOC/series-e0aa59321b2a；admitted关联conference-series-e0aa59321b，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://ecoc2026.org/)、[原通知](https://ecoc2026.org/ECOC2026/paper-submission)；[原实际记录1](V1_SERIES_REVIEW_2026-10-05.md#series-e0aa59321b2a)。
+- 全字段审阅范围：2026年9/20–24 Malaga来自当届站，具体场馆仍原待；普通4/15延4/22、通知6/15/早价7/15/PDP9/7均日级，closed是投稿已关。本届3正文+1致谢参考/45词/PDF模板，MyAccount/MyCongress/许可及截止前替换/最终出版要求分开。publication现字段仅PDP Optica及数据库送交，期刊扩展需独立审稿，不能推普通论文同政策或每篇EI。
+- 日城与范围：2026-09-20–2026-09-24；西班牙 · 马拉加；具体会场及交通请查看官网参会安排；submissionState closed。
+- 逐字段截止及出处：普通论文截止（延期后）：2026-04-22 [来源](https://ecoc2026.org/ECOC2026/paper-submission)；普通论文录用通知：2026-06-15 [来源](https://ecoc2026.org/ECOC2026/paper-submission)；早鸟注册截止：2026-07-15 [来源](https://ecoc2026.org/ECOC2026/paper-submission)；PDP 截止：2026-09-07 [来源](https://ecoc2026.org/ECOC2026/paper-submission)
+- 本届条件出版原字段：录用且报告的 PDP 由 Optica 出版并送交数据库检索；受邀扩展为期刊稿仍需独立审稿。
+- 本届范围/冲突原备注：官网现已明确关闭投稿；普通论文由 4 月 15 日延期至 4 月 22 日，PDP 于 9 月 7 日截止。
+- 未解决内容及影响：具体场馆/费率、后台模板许可及截止时刻未核，保留原整届核验9/10。；PDP出版安排不泛化所有普通论文；没有实际每篇数据库结果，不承诺扩展稿录用。
+- 维护触发：本届完整场馆注册/普通出版原档或实际论文集数据出现后逐字段维护，不借2025/2027补空白。
+- 完整记录内容摘要bdea08fd01bcae3b035a3fdd2fa7197fcc29d6beec8306c9092ae827ba959919，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## ecoc-2027
+
+53rd European Conference on Optical Communication；2027；ECOC/series-e0aa59321b2a；admitted关联conference-series-e0aa59321b，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://ecoc2027.org/)、[原通知](https://ecoc2027.org/important-dates/)；[原实际记录1](V1_SERIES_REVIEW_2026-10-05.md#series-e0aa59321b2a)。
+- 全字段审阅范围：2027年10/10–14 Milan MiCo与展览10/11–13独立；topics/venue独立官方出处。ImportantDates计划2/15普通及Demo系统开放、2/22注册开放，不能据计划当今日开放；4/25普通/Demo同日仍不同通道，通知6/25/早价8/6/常规10/3只有日期。PDP/当届摘要篇词/模板及publication未知，不复制2026 45词/3+1页。
+- 日城与范围：2027-10-10–2027-10-14；意大利 · 米兰；MiCo – Milano Convention Centre；submissionState published。
+- 逐字段截止及出处：普通论文截止：2027-04-25 [来源](https://ecoc2027.org/important-dates/)；Demo稿件截止：2027-04-25 [来源](https://ecoc2027.org/important-dates/)；普通稿件录用通知：2027-06-25 [来源](https://ecoc2027.org/important-dates/)；早鸟注册截止：2027-08-06 [来源](https://ecoc2027.org/important-dates/)；常规注册截止：2027-10-03 [来源](https://ecoc2027.org/important-dates/)；PDP安排待核实：未知 [来源](https://ecoc2027.org/important-dates/)
+- 本届条件出版原字段：当届出版、报告/no-show及索引送审条件尚未核实，不将旧届出版政策视为2027保证。
+- 本届范围/冲突原备注：技术会议10/10–14，与展览10/11–13分开。会场出处：https://ecoc2027.org/venue/；研究范围：https://ecoc2027.org/topics/。各截止只有日期，无公布时刻/时区。
+- 未解决内容及影响：精确时间时区、PDP、注册费/系统入口、格式与出版/no-show条件未核。；未来计划表不是已验证开放和已送数据库，旧届政策不作2027保证。
+- 维护触发：2027原CFP/模板/PDP/注册价及出版政策实际发布后逐字段维护，计划和后台开放证据分开。
+- 完整记录内容摘要90676f10394269ab57cccdea8969cecb29ec49a6fb32d17fa36fe028c58d1d08，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## ipc-2024
+
+IEEE Photonics Conference 2024；2024；IEEE IPC/series-6ea78a0d43e3；admitted关联conference-series-6ea78a0d43，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/)、[原通知](https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c30ecocipc时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-6ea78a0d43e3)。
+- 全字段审阅范围：2024年11/10–14 Rome由学会January2025回顾正文确认，新闻发布日不是会期。光子器件/集成光子回顾主题与年度身份可核，奖项报道不能当完整程序或CFP；closed历史、unknown普通DDL保持，未复制2026两页45词。
+- 日城与范围：2024-11-10–2024-11-14；意大利 · 罗马；具体场馆待核；submissionState closed。
+- 逐字段截止及出处：2024历史初稿截止待核：未知 [来源](https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/)
+- 本届条件出版原字段：原2024出版及报告/no-show条件未核，不从学会新闻或2026政策保证旧届单篇索引。
+- 本届范围/冲突原备注：历史论文准备规则仍待原始CFP，奖项报道不代完整技术程序；2025/2026分别维护，未外推下一届日城。
+- 未解决内容及影响：原CFP/完整程序、普通PDP日期、篇词匿名/模板、场馆注册费和出版/no-show条件未知。；学会回顾不证明单篇索引，不能把2025新闻日期或2026住宿当2024信息。
+- 维护触发：合法2024原CFP/注册/程序或论文集档案出现后维护历史，不按年度外推。
+- 完整记录内容摘要6db90be518b1517cb9a038d028890930bacae1076f6e7f4801e730757327e535，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## ipc-2025
+
+IEEE Photonics Conference 2025；2025；IEEE IPC/series-6ea78a0d43e3；admitted关联conference-series-6ea78a0d43，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/)、[原通知](https://ieeephotonics.org/announcements/announcing-the-ipc-2025-special-symposia/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c30ecocipc时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-6ea78a0d43e3)。
+- 全字段审阅范围：2025年11/9–13 Singapore学会当届正文确证，插图IPC2023不采用。三专题中红外至紫外材料/量子器件网络/空芯空分是会议内容不新计大会。2025-8/7公告before9October提前价边界只日级且不含9日全天，最终延期/金额待；原2025链接现Denver2026不作旧指南。Exordo仅入口未登录视频，普通CFP未知，不移植2026页词格式。
+- 日城与范围：2025-11-09–2025-11-13；新加坡；具体场馆待核；submissionState closed。
+- 逐字段截止及出处：2025历史初稿截止待核：未知 [来源](https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/)；2025原公告提前价格边界：2025-10-09 [来源](https://ieeephotonics.org/announcements/explore-the-redesigned-ipc-2025-website-register-today/)；原公告before9October，须在9日前，不代表9日全天有效；未独核最终版本。
+- 本届条件出版原字段：本批未核2025论文集完整目录/单篇检索与出版条件；专题公告不是出版或索引保证。
+- 本届范围/冲突原备注：原2025日城与2024/2026区分保存；Exordo程序需要进一步读取，未登录/看视频或联系。后续公告核验日保持原值，历史扩展不冒充完整现届复核。
+- 未解决内容及影响：原普通/PDP截止、摘要篇词/匿名模板、场馆注册金额与出版/report/no-show未知。；没有完整论文集/单篇检索，专题说明不是出版保证；早价须9日前而非9日全天。
+- 维护触发：合法2025原站档案/最后CFP/注册说明或论文集出现后维护历史，当前重定向不代旧来源。
+- 完整记录内容摘要c592ea315871661cd43c6a47db61d37da11a9ab451a5159bebefd69888b724b1，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## ipc-2026
+
+IEEE Photonics Conference；2026；IEEE IPC/series-6ea78a0d43e3；admitted关联conference-series-6ea78a0d43，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://ieee-ipc.org/)、[原通知](https://ieee-ipc.org/paper-submission/submission-guidelines/)；[原实际记录1](V1_SERIES_REVIEW_2026-10-05.md#series-6ea78a0d43e3)。
+- 全字段审阅范围：2026年11/8–12Denver，closed指普通投稿，原截止未知。独立本届2页/45词、模板PDF/PDFExpress/eCF，认证不等提交，注册现场/no-show条件影响Xplore。10/3局部核before8October早价须8日前，会员student305/335、非会员385/420USD分别提前/随后；退款10/9收到扣50USD仅日级。DenverMarriottTechCenter房块10/16 17:00Mountain仅住宿，酒店不是会议厅，也不当注册/投稿DDL。下一届没有完整公告，不外推2027。
+- 日城与范围：2026-11-08–2026-11-12；美国 · 丹佛；会场与住宿请核对官网 Attendees 页面；submissionState closed。
+- 逐字段截止及出处：普通投稿已关闭（原日期待核实）：未知 [来源](https://ieee-ipc.org/paper-submission/submission-guidelines/)；提前注册价格边界：2026-10-08 [来源](https://ieee-ipc.org/attendees/registration/)；原文 Before 8 October；须在 10 月 8 日前完成，不表示 8 日全天有效。
+- 本届条件出版原字段：未完成作者注册或现场报告可能影响 Xplore 出版，按本届 no-show 政策执行。
+- 本届范围/冲突原备注：官网已关闭普通投稿，当前页面未保留可核实的具体截止时刻；提前注册明确写 Before 8 October，请提前完成。 2026-10-03仅复核注册及住宿范围：https://ieee-ipc.org/attendees/registration/ 保持Before 8 October边界，学生会员USD305/335、学生非会员385/420分别为提前/随后价格；取消注册申请须不晚于10/9收到，扣USD50处理费，未给时刻。https://ieee-ipc.org/attendees/hotel-travel/ 提供Denver Marriott Tech Center住宿，房块预订截至10/16 17:00 Mountain Time；这是住宿截止，不是注册/投稿截止，住宿酒店不独自证明具体会议厅。整条核验日保持。
+- 未解决内容及影响：具体会议厅/初稿/PDP最后日时、模板与后台、普通其他费率和实际论文集未知。；提前价格开边界不等10/8全天，住宿精确时刻不搬成注册或稿件时间；9/10checkedAt不伪刷新。
+- 维护触发：2026新公开注册/场馆/最终作者通知或下一届官方公告出现后维护，保留住宿/缴费/论文通道区分。
+- 完整记录内容摘要5d0b8c41d2607b622d779a5bc5e6cea70a376f58592edb19fd6612eeb4669bfe，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。

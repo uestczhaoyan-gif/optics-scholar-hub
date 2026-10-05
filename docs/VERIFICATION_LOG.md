@@ -1510,3 +1510,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2F实审13届会议全部字段，正式质量累计44/250（31刊/13届/0活动）、余206；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 本轮已逐项完整读取十三届现有JSON的身份、日城、投稿注册出版与所有截止出处，并对照G5原OFC/CLEO/欧洲CLEO/PR/ACP/CIOP六系列段落。复用此前实际当届官方页面及PDF限定页的来源记录，不重复未变化或已受限源，不宣称本次重新读官网。G5的系列时间深度与G2的正式字段审查分别记录；不移植另一届规则。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2f)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧31正式与候选/G4/G5/final账本不变、13唯一正式ID/系列和admitted关联、按kind完整摘要/六组字段/具体限制与触发断言通过；420个Markdown本地文件链接、新证据文档/账本/其他文档实际差异审查与git diff --check通过。OFC通知周、欧洲CLEO时区/星期/年份冲突、CIOP证书及ACP两届不同PDP规则均保留。纯文档复用已验收六入口构建、维护460项/12主题覆盖；同SHA CI执行完整31测试/typecheck/lint/build，随后验收部署和线上摘要。
+
+## 2026-10-06：正式会议质量 V1-G2G
+
+- a9c3711efd63a86cc48e55b63083093b837d3c13已验收[Pages 37377686327](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37377686327)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:44:46.145Z）。编辑前HEAD=origin/main；work/V1-G2G-plan.json长操作前保护真实范围。
+- V1-G2G实审8届会议全部字段，正式质量累计52/250（31刊/21届/0活动）、余198；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 本次实际逐項完整读取Photonics West2026/2027、ECOC2025/2026/2027与IPC2024/2025/2026八届JSON所有字段、对应三G5系列段及C30/C31原范围。复用已有实际官方来源，不重复未变化查询、旧404/浏览器阻断，不冒充今日重新读取全部官网。身份/关联、各届篇词及注册条件、日级与开边界、出版计划和具体未知分别审核。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2g)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data/冻结范围字节保护、旧44正式与候选/G4/G5/final账本不变、八唯一ID/系列与admitted关联、按kind完整摘要/六组范围/具体限制和触发断言通过；436个本地Markdown文件链接、实际全部文档与账本差异审查、git diff --check通过。ECOC旧日期/费用冲突及IPC开边界、住宿时间/会议厅未知分别保留。纯文档复用已验收六入口构建和维护460项/12主题覆盖，同SHA CI仍完整31测试/typecheck/lint/build，随后确认部署与线上版本。
