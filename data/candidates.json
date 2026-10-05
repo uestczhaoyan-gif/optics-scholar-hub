@@ -655,10 +655,10 @@
     "scopeHint": "激光与非线性、量子光学、集成光子、成像与计算光学",
     "sourceEntry": "https://cleoconference.org/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["cleo-2027"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["cleo-2027", "cleo-2025", "cleo-2026"],
+    "decisionReason": "已有2027正式届次，本批新增2025/2026官方历史记录及同系列关联；历史指南不证明当前收稿，未知与跨年残留明确保留。",
+    "nextAction": "维护2027当届规则，补历史原始CFP/最终版本、注册与字段冲突；后续只依官方公告新增，不外推日城。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-c48e246e60",
@@ -1049,10 +1049,10 @@
     "scopeHint": "光通信、集成光子",
     "sourceEntry": "https://www.ofcconference.org/home/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["ofc-2027"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["ofc-2027", "ofc-2025", "ofc-2026"],
+    "decisionReason": "已有2027正式届次，本批新增2025/2026官方历史记录及同系列关联；历史指南不证明当前收稿，未知与跨年残留明确保留。",
+    "nextAction": "维护2027当届规则，补历史原始CFP/最终版本、注册与字段冲突；后续只依官方公告新增，不外推日城。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-b0c4ac2df9",

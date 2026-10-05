@@ -6168,5 +6168,179 @@
         "source": "https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2008/aoe/aoefinalwebarchive.pdf"
       }
     ]
+  },
+  {
+    "id": "ofc-2025",
+    "series": "OFC",
+    "year": 2025,
+    "name": "光纤通信会议 OFC 2025（历史届次）",
+    "nameEn": "Optical Fiber Communication Conference and Exhibition 2025",
+    "region": "海外",
+    "location": "美国 · 旧金山",
+    "venue": "Moscone Center",
+    "start": "2025-03-30",
+    "end": "2025-04-03",
+    "topics": ["光通信", "集成光子"],
+    "description": "已结束的OFC技术会议，光通信、光网络和光互连；与同系列2026/2027届衔接，供历史准备参考。",
+    "website": "https://www.ofcconference.org/about/conference-archives/",
+    "notice": "https://www.ofcconference.org/news-media/news-releases/2025/ofc-2025-to-showcase-multi-vendor-interoperability-demonstrations,-alongside-ofcnet-live-testbed-for/",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核官方档案表及2025-03-11当届新闻正文：技术会议3/30–4/3，Moscone Center；展览4/1–3为独立子范围，不将展览日期代替学术会期。",
+      "2025原完整CFP、初稿篇幅/摘要、最终延期、PDP/注册规则与费用未核，本批不移植2026或2027投稿要求。"
+    ],
+    "publication": "Optica公开2025目录实际列普通OFC与Postdeadline Papers两论文集；仅目录元数据，不代表每篇实际EI/其他数据库检索。来源：https://opg.optica.org/conference.cfm?meetingid=5&yr=2025",
+    "notes": "主办方历史新闻页顶部已换2027、About尾段甚至写2026；仅日期明确的2025正文与档案表核本届，不混年。当前历史截止未知；后续2027已另存，以当届官方通知准备。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025历史初稿截止待核",
+        "date": null,
+        "source": "https://www.ofcconference.org/about/conference-archives/"
+      }
+    ]
+  },
+  {
+    "id": "ofc-2026",
+    "series": "OFC",
+    "year": 2026,
+    "name": "光纤通信会议 OFC 2026（历史届次）",
+    "nameEn": "Optical Fiber Communication Conference and Exhibition 2026",
+    "region": "海外",
+    "location": "美国 · 洛杉矶",
+    "venue": "Los Angeles Convention Center",
+    "start": "2026-03-15",
+    "end": "2026-03-19",
+    "topics": ["光通信", "集成光子", "量子光学", "电子与器件"],
+    "description": "已结束的OFC技术会议；原CFP四个轨道区分器件/光纤、子系统/系统、网络/服务及量子器件/系统/网络，供比较历史投稿安排。",
+    "website": "https://www.ofcconference.org/about/conference-archives/",
+    "notice": "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核原五页CFP第1–3页与档案：技术会议3/15–19，展览3/17–19；普通初稿2025-10-21 12:00 EDT（UTC-04）有精确时刻，其他事件仅有日期或周窗口。",
+      "Demo Zone、Dataset与普通论文分别提交；委员会进行blinded peer review，但单/双盲细分未核。可口头或海报；原PDF未给统一摘要词数/页限，不从2027指南复制。",
+      "注册费、完整模板、具体Demo/Dataset/PDP要求与最终延期未核；原CFP记录的是公布安排，不声称当年最终版本或可再次提交。"
+    ],
+    "publication": "原CFP要求录用且报告后由IEEE Xplore及Optica平台出版，并宣传EI/Scopus等索引；这是当届计划，未检索每篇实际收录。来源：https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf",
+    "notes": "仅原CFP第1–3页核身份/日期/出版条件，p1/p3渲染复核，后两页主题不宣称通读。通知为2025-12-22所在周，不压成确定单日。日期全属已结束届；2027另存，不按一年差外推。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2026原CFP普通初稿截止（历史）",
+        "at": "2025-10-21T12:00:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf#page=3",
+        "note": "原PDF列EDT/UTC-04；未核最终延期。"
+      },
+      {
+        "type": "demo",
+        "label": "2026历史Demo Zone截止",
+        "date": "2025-11-18",
+        "source": "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf#page=3",
+        "note": "Dataset同日另有独立通道；两者不是普通论文补交。"
+      },
+      {
+        "type": "notification",
+        "label": "2026历史录用通知周待具体日期",
+        "date": null,
+        "source": "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf#page=3",
+        "note": "原CFP为week of 22 December 2025，不生成确定单日。"
+      },
+      {
+        "type": "registration",
+        "label": "2026历史提前注册截止",
+        "date": "2026-02-13",
+        "source": "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf#page=3"
+      },
+      {
+        "type": "pdp",
+        "label": "2026历史PDP截止",
+        "date": "2026-03-03",
+        "source": "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf#page=3"
+      }
+    ]
+  },
+  {
+    "id": "cleo-2025",
+    "series": "CLEO",
+    "year": 2025,
+    "name": "激光与光电子会议 CLEO 2025（历史届次）",
+    "nameEn": "Conference on Lasers and Electro-Optics 2025",
+    "region": "海外",
+    "location": "美国 · 长滩",
+    "venue": "具体场馆待核（本批官方档案仅确认城市）",
+    "start": "2025-05-04",
+    "end": "2025-05-09",
+    "topics": ["激光与非线性", "集成光子", "生物医学光学"],
+    "description": "已结束的CLEO，原程序含孤子、频率梳、硅光子和生物光子；归入现有CLEO系列，供往届研究主题参考。",
+    "website": "https://cleoconference.org/conference-archives/",
+    "notice": "https://cleoconference.org/wp-content/uploads/2025/09/CLEO-2025-Program-Archive-1.pdf",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核官方档案表会期5/4–9、Long Beach；九页程序PDF首页面向5/5技术场次，不能以5/5替代含短课程的完整会期。",
+      "原程序不是完整作者指南；2025初稿/PDP截止、摘要/页限、匿名方式、场馆名称与注册费未知，不从2026指南的残留2025文字推算。"
+    ],
+    "publication": "官方档案按当届列Fundamental Science、Science and Innovations、Applications and Technology三类论文入口；本批只核档案链接，不宣称通读论文集或单篇索引。",
+    "notes": "与CLEO2026/2027同稳定系列，美国CLEO不与欧洲CLEO/EQEC或CLEO-PR合并。2025场馆未从现2027页头抄Long Beach Convention Center。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025历史初稿截止待核",
+        "date": null,
+        "source": "https://cleoconference.org/conference-archives/"
+      }
+    ]
+  },
+  {
+    "id": "cleo-2026",
+    "series": "CLEO",
+    "year": 2026,
+    "name": "激光与光电子会议 CLEO 2026（历史届次）",
+    "nameEn": "Conference on Lasers and Electro-Optics 2026",
+    "region": "海外",
+    "location": "美国 · 夏洛特",
+    "venue": "具体场馆待核（本批官方档案仅确认城市）",
+    "start": "2026-05-17",
+    "end": "2026-05-21",
+    "topics": ["激光与非线性", "集成光子", "生物医学光学", "光通信"],
+    "description": "已结束的CLEO，涵盖激光基础、光子器件及生医/通信应用。历史会期与2027届区别保存，旧稿规供准备比较。",
+    "website": "https://cleoconference.org/conference-archives/",
+    "notice": "https://cleoconference.org/paper-preparation-and-requirements-2026/",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核标题为2026的作者指南：35词摘要及2页PDF，含题名/全作者单位/版权段并嵌入字体；在线提交，截止后不改。口头或海报由委员会决定，PDP仅口头。完整模板与许可内部未读。",
+      "现场指南明确2026：携USB在整个session前15分钟到场，用现场Windows PC，PowerPoint 16:9；不用自带笔记本，视频单独文件。海报现场尺寸约244×122cm，稿规另写244×128cm，公制宽度冲突未决，不以某一数当可靠尺寸；未评估原海报模板。",
+      "旧CFP同时写proposal与all papers截止2025-12-05 11:59 EST，缺上下午；日级保存“CFP所列”而非最终精确时刻。稿规通知残留early March 2025，2026录用通知日未知；注册/费率及最终延期未核。"
+    ],
+    "publication": "2026作者指南要求参会报告后Optica平台出版并提交IEEE Xplore，宣传EI/Scopus索引；未进行本届单篇实际检索，不保证每篇收录。来源：https://cleoconference.org/paper-preparation-and-requirements-2026/",
+    "notes": "官方档案5/17–21与2026日程一致；5/17短课程、5/18起技术场次，展览5/19–20，不混母会/展览范围。页面现顶部2027不是本届日城，现场指南主持人段仍指2025系统，未按其登录/联系，系统内未核。2027另存，不能移植历史deadline。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2026历史CFP所列初稿截止（版本待确认）",
+        "date": "2025-12-05",
+        "source": "https://cleoconference.org/call-for-papers-2026/",
+        "note": "CFP写Proposal Deadline EXTENDED及all papers同日11:59 EST，缺AM/PM，不推23:59；未独立确认最终通道/延期。"
+      },
+      {
+        "type": "notification",
+        "label": "2026历史录用通知待核",
+        "date": null,
+        "source": "https://cleoconference.org/paper-preparation-and-requirements-2026/",
+        "note": "标题2026但通知段残留early March 2025，年份不一致，未知保留。"
+      }
+    ]
   }
 ]

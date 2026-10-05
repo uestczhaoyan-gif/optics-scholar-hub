@@ -26,11 +26,15 @@
     "id": "series-1436f76ab44c",
     "name": "OFC",
     "aliases": [],
-    "editionIds": ["ofc-2027"],
+    "editionIds": ["ofc-2027", "ofc-2025", "ofc-2026"],
     "website": "https://www.ofcconference.org/home/",
     "sources": [
       "https://www.ofcconference.org/home/",
-      "https://www.ofcconference.org/submit-a-paper/submission-guidelines/"
+      "https://www.ofcconference.org/submit-a-paper/submission-guidelines/",
+      "https://www.ofcconference.org/about/conference-archives/",
+      "https://ofc-web-afd-e8csdte4dubnfvfu.z02.azurefd.net/ofc/media/images/program/2026/ofc2026-callforpapers_final_web_rev.pdf",
+      "https://www.ofcconference.org/news-media/news-releases/2025/ofc-2025-to-showcase-multi-vendor-interoperability-demonstrations,-alongside-ofcnet-live-testbed-for/",
+      "https://opg.optica.org/conference.cfm?meetingid=5&yr=2025"
     ],
     "nextEditionCheckedAt": null
   },
@@ -38,11 +42,17 @@
     "id": "series-ee5c59fb09be",
     "name": "CLEO",
     "aliases": [],
-    "editionIds": ["cleo-2027"],
+    "editionIds": ["cleo-2027", "cleo-2025", "cleo-2026"],
     "website": "https://cleoconference.org/",
     "sources": [
       "https://cleoconference.org/",
-      "https://cleoconference.org/2027-call-for-papers/"
+      "https://cleoconference.org/2027-call-for-papers/",
+      "https://cleoconference.org/conference-archives/",
+      "https://cleoconference.org/wp-content/uploads/2025/09/CLEO-2025-Program-Archive-1.pdf",
+      "https://cleoconference.org/call-for-papers-2026/",
+      "https://cleoconference.org/paper-preparation-and-requirements-2026/",
+      "https://cleoconference.org/2026-schedule-at-a-glance/",
+      "https://cleoconference.org/presenter-guidelines/"
     ],
     "nextEditionCheckedAt": null
   },
