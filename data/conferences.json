@@ -6475,5 +6475,104 @@
         "note": "原公告before9October，须在9日前，不代表9日全天有效；未独核最终版本。"
       }
     ]
+  },
+  {
+    "id": "acp-2025",
+    "series": "ACP",
+    "year": 2025,
+    "name": "亚洲通信与光子学会议 ACP 2025（历史届次）",
+    "nameEn": "Asia Communications and Photonics Conference 2025",
+    "region": "中国境内",
+    "location": "中国 · 苏州",
+    "venue": "具体场馆待核",
+    "start": "2025-11-05",
+    "end": "2025-11-08",
+    "topics": ["光通信", "集成光子", "量子光学", "传感与测量", "生物医学光学"],
+    "description": "已结束的ACP，由苏州大学承办；七技术方向覆盖光纤/传输、光网络、光电子集成、微波光子、微纳/量子及光子传感和生医。与2026现届和AOE前身历史分别保存。",
+    "website": "https://acpconf.com/history/ACP2025",
+    "notice": "https://acpconf.com/news/105",
+    "registration": "https://acpconf.com/news/106",
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核当届普通稿与PDP公开指南：IEEE双栏英文2–6页PDF，包含图表/参考，按指定模板；指南建议提交前经PDF eXpress（66871X）检查，终稿须认证，另在会议系统提交摘要/全文，PDF认证不等于投稿。本批未读模板内部，摘要词限及匿名要求未知。来源：https://acpconf.com/news/105 与 https://acpconf.com/news/112",
+      "普通稿从8/1延至8/15 23:59北京时间；PDP10/8同时间。截止前可改，审稿期间不可修改，通过审稿后再按终稿步骤修订；最终作者顺序/元数据须与系统一致，IEEE eCF另完成，未查看或接受内部协议。来源：https://acpconf.com/news/105 与 https://acpconf.com/news/114",
+      "注册至多覆盖两篇，额外同报告人论文CNY700/USD100；早价须9/30 23:59北京时间前付费。IEEE/Optica/SPIE会员regular早3500/常3900、学生1800/2100元；非会员regular3800/4200、学生1900/2200元。学生费率不适用于全职工作者；仅Workshop/Industry Forum免费，不代论文会议注册，税/其他费用未知，仅2025旧价。来源：https://acpconf.com/news/106",
+      "Tutorial/Keynote/Invited/Oral分别45/45/30/15分钟含问答，提前本人报告30分钟上传检查PPT；英文。海报建议高1.2×宽0.8m，无固定模板，自备并按Control ID板现场答疑；11/7 15:30–17:30，建议至少提前1小时张贴、结束后至少1小时移除，结束后迟贴不算展示。来源：https://acpconf.com/news/113"
+    ],
+    "publication": "当届指南要求至少一作者缴费注册、实际到场并完成指定报告/展示、最终认证PDF与版权手续，no-show或到场但未展示不在IEEE Xplore出版。档案11/11公告导出投稿系统、11/26称符合条件稿件送IEEE；后者为送审处理，不保证每篇实际索引。来源：https://acpconf.com/news/105 与 https://acpconf.com/news/106 与 https://acpconf.com/history/ACP2025",
+    "notes": "历史档案实核苏州11/5–8/2025；Program公共页所链手册和旧General Information PDF本轮返回404，具体场馆未核。原Final Submission指南列10/25截止，后续11/11系统导出公告未明确延期，不能自动改写原截止；普通9/19和PDP10/22结果已发送为旧公告事后记录，不当预计通知DDL。历史规则不能代ACP2026的3页PDP/70761X或不同Tutorial时长；下一届公告另维护。来源：https://acpconf.com/news/114 与 https://acpconf.com/history/ACP2025",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025普通论文延期后截止",
+        "at": "2025-08-15T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://acpconf.com/news/105"
+      },
+      {
+        "type": "pdp",
+        "label": "2025历史PDP截止",
+        "at": "2025-10-08T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://acpconf.com/news/112"
+      },
+      {
+        "type": "registration",
+        "label": "2025早价付费截止",
+        "at": "2025-09-30T23:59:00+08:00",
+        "timezone": "Asia/Shanghai",
+        "source": "https://acpconf.com/news/106",
+        "note": "仅注册未付费不满足早价；已结束旧费率，不沿用2026。"
+      },
+      {
+        "type": "camera-ready",
+        "label": "2025原指南所列终稿截止（后续处理另见备注）",
+        "date": "2025-10-25",
+        "source": "https://acpconf.com/news/114",
+        "note": "未给时刻；11/11系统导出不能自动解释为延长截稿。"
+      }
+    ]
+  },
+  {
+    "id": "photonics-west-2026",
+    "series": "SPIE Photonics West",
+    "year": 2026,
+    "name": "SPIE 西部光电展学术会议 2026（历史届次）",
+    "nameEn": "SPIE Photonics West 2026",
+    "region": "海外",
+    "location": "美国 · 旧金山",
+    "venue": "The Moscone Center：North、South、West",
+    "start": "2026-01-17",
+    "end": "2026-01-22",
+    "topics": [
+      "综合光学",
+      "生物医学光学",
+      "激光与非线性",
+      "集成光子",
+      "量子光学"
+    ],
+    "description": "已结束的光子学会议群，场馆当届档案涵盖激光、生医光学、量子与光电子；仅计一大会群，学术场次与产业展览分别核实，不将各分会重复计数。",
+    "website": "https://www.moscone.com/events/spie-photonics-west-1",
+    "notice": "https://www.moscone.com/events/spie-photonics-west-1",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05实际核Moscone当届活动正文：January17–22,2026，San Francisco，North/South/West；网站通用SPIE外链现指2027，不作为2026作者指南。来源：https://www.moscone.com/events/spie-photonics-west-1",
+      "本批只核旧届身份、整体会期/场馆与活动方向；原2026征稿全文不可读，普通/PDP日期、篇词限、各分会特殊规则、注册费和报告/出版要求未知，不复制2027指南。"
+    ],
+    "publication": "原2026出版条件和完整论文集/单篇实际入库未核；场馆活动介绍不能保证每篇出版或索引。",
+    "notes": "与现有2027同一稳定系列，但1/17–22/2026不是1/30–2/4/2027；各学术分会与BiOS Expo/Photonics West Exhibition具体日期尚未逐项核实。历史CFP和费用仍开放维护，未知日期不生成可投稿提醒。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2026历史摘要截止待核",
+        "date": null,
+        "source": "https://www.moscone.com/events/spie-photonics-west-1"
+      }
+    ]
   }
 ]

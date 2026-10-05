@@ -1259,3 +1259,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 两MJL唯一SCIE卡、新四号EI两行及JCR五行/四原图实核；各自指南与首页读，软篇幅、纯计算例外、Option C及费用版年/周期未知保留。完整模板许可/系统清单未核，未登录/上传/联系/支付。必要验证和差异审查后上传，按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定8636bfb的97旧刊/36样例、271其他候选与全部其他JSON保持、两候选六审核字段白名单通过；99/208-58-7、85-12-92、97-11、五JIF/四索引及软限/例外/Option C断言通过。338本地Markdown链接、维护438项/12主题覆盖、Pages子路径构建六资源exit0和数据/文档差异审查、git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：ACP/PW时间深度 C31
+
+- F9 3e82c9de2be920b0c7c26538a485c110f7971d8a已验收[Pages37249523023](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37249523023)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，74e5b96c11c609117a687eb49144816cbf93d182df8f4f2c432836c64cd7f0e6与本地一致（2026-10-05T00:58:54.197Z）。正式编辑前已验收。work/C31_RESEARCH_2026-10-05.md长操作前保存原页/范围/未知，实际五小时87%/周78%允许。
+- C31新增ACP2025与Photonics West2026两个历史届，接原稳定系列。99刊/127届/10活动、98系列21多届、273候选208/58/7、SCIE85/ESCI12/EI92、JCR97/CAS11及36刊样例保持。原125届、96其他系列、271其他候选与全部其他JSON保护；只两系列editionIds/sources及两候选四审核字段变化，不刷新后续公告日。ACP原年格式/四截止/费用与现场条件独立，系统导出不当延期；PW仅核当届日城/场馆，旧CFP未知。 [逐字段范围](CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度)。
+- ACP档案/原年公开指南与PW场馆正文实际核，未将2026/2027规则相互移植；ACP手册404、PW旧CFP浏览器阻断未绕过，相关未知保留。必要验证、差异审查后上传并按同SHA验收；其他规划继续。
+
+- 发布前数据校验、固定3e82c9d的125旧届/96其他系列/271其他候选及全部其他JSON保持、两系列两字段/两候选四字段白名单通过；127/98/21、2025四截止时区/费用与场馆未知边界断言通过。341本地Markdown链接、维护438项/12主题覆盖、修正初稿建议认证和终稿必须认证区别后的Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

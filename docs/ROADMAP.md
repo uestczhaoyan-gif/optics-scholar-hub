@@ -4,13 +4,13 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **99 本期刊、125 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **99 本期刊、127 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 125 届会议；分开记录投稿、PDP、注册、终稿等   | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 127 届会议；分开记录投稿、PDP、注册、终稿等   | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
@@ -64,7 +64,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 99 journals, 125 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 99 journals, 127 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 97 journals and CAS records for 11. SCIE has 85 and EI has 92 positive records. 92 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Eighty-five SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -675,3 +675,7 @@ F8 1d6c9a1d69647ec0eb49ff426464c591c52e0aaf已验收[Pages37248491227](https://g
 ## 2026-10-05：光谱与红外两刊 F9
 
 C30 8636bfba58432235b0de20bade45da1117963b5b已验收[Pages37249002126](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37249002126)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，a2a90aaa3461b3f9f7282f34136e586f3690824c05122c238b80d65c88946a1c与本地一致（2026-10-05T00:52:36.857Z）。 F9新增JQSRT与Infrared Physics & Technology，MJL当前SCIE与两新EI行独立保存；五条JCR 2025 JIF为secondary。JQSRT光谱Q2/光学Q3（非AIS Q2），红外三学科Q2；理论/实验例外与软篇幅、Option C数据及逐刊价格/指标保留。99刊/125届/10活动、273候选208 admitted/58 pending/7 deferred、SCIE85/ESCI12/EI92、JCR97/CAS11、36样例；旧97刊及其他JSON保持，其他规划继续。 [来源](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)。
+
+## 2026-10-05：ACP/PW时间深度 C31
+
+F9 3e82c9de2be920b0c7c26538a485c110f7971d8a已验收[Pages37249523023](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37249523023)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，74e5b96c11c609117a687eb49144816cbf93d182df8f4f2c432836c64cd7f0e6与本地一致（2026-10-05T00:58:54.197Z）。 C31新增ACP2025与Photonics West2026两个历史届，接原稳定系列。99刊/127届/10活动、98系列21多届、273候选208/58/7、SCIE85/ESCI12/EI92、JCR97/CAS11及36刊样例保持。原125届、96其他系列、271其他候选与全部其他JSON保护；只两系列editionIds/sources及两候选四审核字段变化，不刷新后续公告日。ACP原年格式/四截止/费用与现场条件独立，系统导出不当延期；PW仅核当届日城/场馆，旧CFP未知。 [逐字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度)。

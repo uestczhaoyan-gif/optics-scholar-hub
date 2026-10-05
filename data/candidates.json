@@ -543,10 +543,10 @@
     "scopeHint": "光子学综合母大会；BiOS、LASE、OPTO 作为关联子系列核查",
     "sourceEntry": "https://spie.org/conferences-and-exhibitions/photonics-west",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["photonics-west-2027"],
-    "decisionReason": "浏览器直接核实 2027 官网、投稿共同日程和 Moscone Center 会场；按一个大会群条目收录，未把 100 多个分会重复计数。",
-    "nextAction": "10 月复核注册与日程发布；补具体分会的特殊要求及是否接受晚投稿，未从原截止推定所有分会关闭。",
-    "reviewedAt": "2026-09-13"
+    "relatedExistingIds": ["photonics-west-2027", "photonics-west-2026"],
+    "decisionReason": "追加官方历史届次到原稳定系列；旧届作者规则/场馆限定原年，现届记录保持。",
+    "nextAction": "维护现届与后续官方公告；补历史原CFP、未知场馆/费率/出版字段，不按周期外推日期。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-aab82d5657",
@@ -627,10 +627,10 @@
     "scopeHint": "光通信、集成光子、传感与测量",
     "sourceEntry": "https://www.acpconf.com/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["acp-2026"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["acp-2026", "acp-2025"],
+    "decisionReason": "追加官方历史届次到原稳定系列；旧届作者规则/场馆限定原年，现届记录保持。",
+    "nextAction": "维护现届与后续官方公告；补历史原CFP、未知场馆/费率/出版字段，不按周期外推日期。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-c84cbad8d5",

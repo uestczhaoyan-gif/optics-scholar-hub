@@ -6,7 +6,7 @@
       "AOE（2009年并入ACP的前身之一）",
       "Asia Optical Fiber Communication and Optoelectronic Exposition and Conference（ACP前身之一）"
     ],
-    "editionIds": ["acp-2026", "aoe-2008"],
+    "editionIds": ["acp-2026", "aoe-2008", "acp-2025"],
     "website": "https://www.acpconf.com/",
     "sources": [
       "https://www.acpconf.com/",
@@ -18,7 +18,14 @@
       "https://www.acpconf.com/news/registration",
       "https://www.acpconf.com/news/venue-hotel",
       "https://www.acpconf.com/news/program",
-      "https://www.acpconf.com/news/presentation-guidelines"
+      "https://www.acpconf.com/news/presentation-guidelines",
+      "https://acpconf.com/history/ACP2025",
+      "https://acpconf.com/news/105",
+      "https://acpconf.com/news/112",
+      "https://acpconf.com/news/106",
+      "https://acpconf.com/news/113",
+      "https://acpconf.com/news/114",
+      "https://acpconf.com/news/108"
     ],
     "nextEditionCheckedAt": "2026-10-04"
   },
@@ -282,11 +289,12 @@
     "id": "series-9ae4f3391a51",
     "name": "SPIE Photonics West",
     "aliases": [],
-    "editionIds": ["photonics-west-2027"],
+    "editionIds": ["photonics-west-2027", "photonics-west-2026"],
     "website": "https://spie.org/conferences-and-exhibitions/photonics-west",
     "sources": [
       "https://spie.org/conferences-and-exhibitions/photonics-west",
-      "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines"
+      "https://spie.org/conferences-and-exhibitions/photonics-west/presenters/abstract-submission-guidelines",
+      "https://www.moscone.com/events/spie-photonics-west-1"
     ],
     "nextEditionCheckedAt": null
   },

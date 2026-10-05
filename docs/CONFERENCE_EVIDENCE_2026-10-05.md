@@ -26,3 +26,17 @@ C29新增OFC2025/2026与CLEO2025/2026四历史届，连到现有2027同系列；
 | IPC2025 | [学会旧活动](https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/)Singapore11/9–13/2025（插图IPC2023不用）；[2025专题](https://ieeephotonics.org/announcements/announcing-the-ipc-2025-special-symposia/)材料平台、量子器件/安全网络、空芯/空分不另计大会。[8/7/2025公告](https://ieeephotonics.org/announcements/explore-the-redesigned-ipc-2025-website-register-today/)before9Oct提前费率边界 | 9日前不等于9日全天，最终延期/金额未核；普通/PDP截止、页词/场馆与出版报告规则未知；旧链接现为IPC2026 Denver，不能作为2025作者指南。 |
 
 原ECOC指南公开PDF SHA256 0a80f55a650a7faa60292954fd7b23865e827b4661908ab45e87f924c403bc22，三页全读/图核。网页/学会原文与普通浏览器IPC现页实读；未登录/创建账号、上传、联系、支付或接受协议，未进入Exordo视频/IEEE PDF eXpress账号，完整模板内部未核。nextEditionCheckedAt保持，不据年份外推未来截止。
+
+## C31：ACP/PW时间深度
+
+核验2026-10-05。C31新增ACP2025与Photonics West2026两个历史届，接原稳定系列。99刊/127届/10活动、98系列21多届、273候选208/58/7、SCIE85/ESCI12/EI92、JCR97/CAS11及36刊样例保持。原125届、96其他系列、271其他候选与全部其他JSON保护；只两系列editionIds/sources及两候选四审核字段变化，不刷新后续公告日。ACP原年格式/四截止/费用与现场条件独立，系统导出不当延期；PW仅核当届日城/场馆，旧CFP未知。
+
+| 届次/字段 | 实际当届来源与核验范围 | 边界 |
+| --- | --- | --- |
+| ACP2025身份 | [历史档案](https://acpconf.com/history/ACP2025)苏州11/5–8/2025、苏州大学承办，七技术方向 | [Program](https://acpconf.com/news/108)可读，但原手册公开链接与旧General Information PDF均404，场馆未知，未读完整技术程序。 |
+| ACP2025普通/PDP | [Paper](https://acpconf.com/news/105)8/1延至8/15 23:59北京时间；[PDP](https://acpconf.com/news/112)10/8同时间。2–6页英文IEEE双栏PDF，含图表/参考，建议初稿PDFexpress66871X检查、终稿须认证，另交摘要/全文，审稿期不可改 | 不沿用2026的3页PDP/70761X；摘要词限、匿名、内部模板/许可未知；PDF认证不等于提交。 |
+| ACP2025注册 | [原注册页](https://acpconf.com/news/106)9/30 23:59北京时间付费早价，会员regular3500/3900学生1800/2100、非会员3800/4200学生1900/2200元；至多2篇、同报告人附稿700元（USD100） | 原2025费率，税/其他费用未知。仅workshop/industry免费，不代普通论文注册；全职工作者不适用学生价。 |
+| ACP2025展示/出版 | [现场指南](https://acpconf.com/news/113)Tutorial/Keynote45、Invited30、Oral15分钟含问答，本人报告前30min；英文poster11/7 15:30–17:30、建议高1.2m宽.8m及前后1h张贴/移除。作者缴费、到场指定展示、认证终稿/版权均须满足 | no-show及仅参会未展示不在IEEE Xplore出版；[Final](https://acpconf.com/news/114)10/25仅日级，系统作者顺序/元数据与稿件匹配。11/11系统导出不自动代表延期；11/26送IEEE不代每篇实际入库。 |
+| PhotonicsWest2026 | [Moscone当届官方场馆](https://www.moscone.com/events/spie-photonics-west-1)实际正文January17–22,2026，San Francisco，North/South/West；激光、生医、量子/光电子方向 | SPIE通用外链现2027，旧PW26 LA404 PDF浏览器ERR_BLOCKED_BY_CLIENT，未绕过。仅身份/整体日城/场馆，原CFP日期/格式/费用/出版条件及子展会日期未知。 |
+
+实际核ACP档案与六公共指南/Program、PW场馆正文；没有登录LearningConf/PDFexpress/IEEE、创建账号、投稿、上传、联系、支付或签协议。原ACP手册 https://learningconf-assets.oss-cn-shanghai.aliyuncs.com/ACP%E6%89%8B%E5%86%8C1105.pdf 返回404，未称全文已读；PW不可读CFP https://spie.org/documents/cfp-flyers/PW26/LA404.pdf 不作为事实依据。两旧届closed，原现届/未来资料保持，nextEditionCheckedAt不随历史补录刷新。

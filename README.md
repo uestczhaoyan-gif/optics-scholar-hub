@@ -21,8 +21,8 @@
 已实现 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，支持索引、领域、收录范围与分区组合筛选。索引数据仍在逐刊核验，未核实记录明确标注。
 
 - **期刊目录**：99 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、ESCI、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
-- **会议日历**：125 届国内外会议，包括 OFC、CLEO、COS、ECOC、FiO + LS、Photonics West、AOPC、AOP、EOSAM、OECC & IP、ICOCN 等；分别记录投稿、PDP、注册、通知及终稿时间。历史届次保留供查阅，不据此推算下一届。
-- **系列与往届**：98 个稳定系列关联 125 届会议，可查历届要求、关注整个系列及导出未结束届次。后续官方公告审核入库后自动归入同系列。已结束系列每 30 天进入下一届公告核验队列。
+- **会议日历**：127 届国内外会议，包括 OFC、CLEO、COS、ECOC、FiO + LS、Photonics West、AOPC、AOP、EOSAM、OECC & IP、ICOCN 等；分别记录投稿、PDP、注册、通知及终稿时间。历史届次保留供查阅，不据此推算下一届。
+- **系列与往届**：98 个稳定系列关联 127 届会议，可查历届要求、关注整个系列及导出未结束届次。后续官方公告审核入库后自动归入同系列。已结束系列每 30 天进入下一届公告核验队列。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
 - **新生指南**：期刊与会议的区别、投稿流程、模板、预印本、注册、报告及出版要求。
 - **共建维护**：JSON 数据、来源链接、核验日期、数据校验、Issue / PR 模板，以及每日来源变化报告。
@@ -109,7 +109,7 @@ The [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) now support SCI/SCIE
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
-The catalog contains **99 journals and 125 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
+The catalog contains **99 journals and 127 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
 
 Exact timestamps can be displayed in Beijing time or UTC. Date-only announcements retain their uncertainty. Unknown dates remain unknown. A Chinese beginner guide explains submission, registration, presentation, preprints, publication, and fees.
 
@@ -167,11 +167,11 @@ The update button checks the deployed catalog version, then offers to load a new
 
 ### 会议系列与定期维护 / Conference series and recurring review
 
-“系列与往届”按稳定系列 ID 关联届次，现有 98 个系列与 125 届会议。可从单届卡片跳转，查询历届会期和准备要求；关注系列后，未来新增的已核实届次会出现在同一系列。系列关注独立于单届关注，保存在本浏览器，无邮件或系统通知。导出未结束届次日历仍为一次性快照。
+“系列与往届”按稳定系列 ID 关联届次，现有 98 个系列与 127 届会议。可从单届卡片跳转，查询历届会期和准备要求；关注系列后，未来新增的已核实届次会出现在同一系列。系列关注独立于单届关注，保存在本浏览器，无邮件或系统通知。导出未结束届次日历仍为一次性快照。
 
 每日来源巡检同时覆盖系列官方入口；最新已收录届次结束后，每 30 天进入后续公告核验队列。人工核验当届身份、会期及出处后追加新届次，保留旧记录并完成部署。尚无官方安排时显示“暂无已核实的后续届次”，不按年会/双年会周期推算日期。详见[维护手册](docs/MAINTENANCE.md)。
 
-The series directory links 125 editions to 98 stable conference identities. Follow a series to find newly reviewed editions alongside historical requirements; series favorites remain local and separate from edition favorites. Daily monitoring includes series sources, and ended series enter a next-announcement review queue every 30 days. New editions require official evidence and deployment; past editions remain available. Unknown future dates are never inferred from recurrence patterns.
+The series directory links 127 editions to 98 stable conference identities. Follow a series to find newly reviewed editions alongside historical requirements; series favorites remain local and separate from edition favorites. Daily monitoring includes series sources, and ended series enter a next-announcement review queue every 30 days. New editions require official evidence and deployment; past editions remain available. Unknown future dates are never inferred from recurrence patterns.
 
 2026-10-05：补充的[逐学科JCR 2025参考](docs/JCR_EVIDENCE_2026-10-05.md)使已有JCR记录达到90/92刊，版本年/指标年与JIF/AIS分开；未表示2026或中科院分区已全部核实。 The [identified JCR 2025 references](docs/JCR_EVIDENCE_2026-10-05.md) now cover 90 of 92 journals; this is partial historical evidence, with JIF distinct from AIS and CAS.
 
@@ -184,3 +184,5 @@ The series directory links 125 editions to 98 stable conference identities. Foll
 2026-10-05：[ECOC/IPC往届原始依据](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c30ecocipc时间深度)新增三历史届，各有三年记录。 The [ECOC/IPC archival review](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c30ecocipc时间深度) connects three past editions to their existing series, retaining unresolved dates and fees.
 
 2026-10-05：[光谱/红外两刊F9](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)独立记录学科分区与计算/实验条件；JCR参考97/99。 The [spectroscopy and infrared review](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊) preserves category-specific JIF and experimental exceptions, with JCR references for 97 of 99 journals.
+
+2026-10-05：[ACP/PW历史届](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度)分别保存原年规则与缺口；21系列已有多届。 The [ACP/PW archival review](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度) adds two past editions; 21 series now have multiple editions.
