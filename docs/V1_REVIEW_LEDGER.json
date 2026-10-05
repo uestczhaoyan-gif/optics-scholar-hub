@@ -694,6 +694,184 @@
   ],
   "candidateReviews": [],
   "formalDataReviews": [],
-  "coreSeriesReviews": [],
+  "coreSeriesReviews": [
+    {
+      "seriesId": "series-1436f76ab44c",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["ofc-2027", "ofc-2025", "ofc-2026"],
+      "historicalEditionIds": ["ofc-2025", "ofc-2026"],
+      "upcomingEditionIds": ["ofc-2027"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-1436f76ab44c",
+      "limitations": [
+        "OFC2025档案/当年新闻、2026原CFP与2027作者日程独立。旧页头的2027不覆盖旧正文；2026通知周不能造单日，2027普通只日级，Demo有独立精确时刻。2025篇幅/费用未知，2026未核项不从2027三页/35词抄。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-ee5c59fb09be",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["cleo-2027", "cleo-2025", "cleo-2026"],
+      "historicalEditionIds": ["cleo-2025", "cleo-2026"],
+      "upcomingEditionIds": ["cleo-2027"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-ee5c59fb09be",
+      "limitations": [
+        "美国CLEO与欧洲/PR分开。2025档案完整会期含短课程，2026场馆/通知年份残留/AMPM缺失/海报宽冲突留空或注明；2027二页/35词与精确PST独立，不平移历史截止。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-280e7bbb1981",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["cleo-europe-eqec-2027", "cleo-europe-eqec-2025"],
+      "historicalEditionIds": ["cleo-europe-eqec-2025"],
+      "upcomingEditionIds": ["cleo-europe-eqec-2027"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-280e7bbb1981",
+      "limitations": [
+        "2025一页模板标2023、旧注册星期/退款年和PDP时区冲突保留。2027专页详细指南仍2025；大会表所列2026-10-05计划开启不是后台开放实证。本系列日程不被大会/展览整体跨度覆盖，2025费用不移植2027。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-00a40d7a4af9",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["cleo-pr-2026"],
+      "historicalEditionIds": ["cleo-pr-2026"],
+      "upcomingEditionIds": [],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-00a40d7a4af9",
+      "limitations": [
+        "独立CLEO-PR2026，百格官方入口与系统PDF认证/实际提交分开。2028筹备招聘仅线索，台南工作地点不当会址，日城/CFP未知；仅保存2026，不按周期补2028。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-75ad69d7586c",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["acp-2026", "aoe-2008", "acp-2025"],
+      "historicalEditionIds": ["aoe-2008", "acp-2025"],
+      "upcomingEditionIds": ["acp-2026"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-75ad69d7586c",
+      "limitations": [
+        "AOE2008为前身之一，2009合并沿革来自学会/Optica原档，非同名AOE2026。ACP2025普通/PDP均2–6页66871X与2026普通2–6/PDP3页70761X分开；2025/2026Tutorial45/60分钟独立。2026登录未读后台，2027未见完整公告。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-7ece259636d0",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["ciop-2026"],
+      "historicalEditionIds": ["ciop-2026"],
+      "upcomingEditionIds": [],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-7ece259636d0",
+      "limitations": [
+        "2026会期依据大学团队会后记录，7/25开幕不是首日7/24；原CFP/费用和下一届未知。旧实际官网ERR_CERT_COMMON_NAME_INVALID已记录，本次不重复安全限制；nextEditionCheckedAt保持null，不假称当日原站成功。"
+      ],
+      "maintenanceTrigger": "原官网证书修复或主办方提供合法原公告后补CFP/后续；不重复不变安全限制。"
+    },
+    {
+      "seriesId": "series-9ae4f3391a51",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["photonics-west-2027", "photonics-west-2026"],
+      "historicalEditionIds": ["photonics-west-2026"],
+      "upcomingEditionIds": ["photonics-west-2027"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-9ae4f3391a51",
+      "limitations": [
+        "2026依据Moscone整体活动日期，原CFP不可读且未复制2027。2027共同摘要截止已过但官网call open，补投须具体分会；注册需登录，费用未知。BiOS/展览与完整论文会期不同，2026/2027日期独立。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-e0aa59321b2a",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["ecoc-2026", "ecoc-2027", "ecoc-2025"],
+      "historicalEditionIds": ["ecoc-2026", "ecoc-2025"],
+      "upcomingEditionIds": ["ecoc-2027"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-e0aa59321b2a",
+      "limitations": [
+        "2025三正文页加参考页与原费用/早价冲突保留；2026明确关闭，2027只当前Important Dates日级与未来计划开放，篇词限/模板/出版/费用待核，不抄2026或2025。会议和展览日期独立。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-6ea78a0d43e3",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["ipc-2026", "ipc-2024", "ipc-2025"],
+      "historicalEditionIds": ["ipc-2024", "ipc-2025"],
+      "upcomingEditionIds": ["ipc-2026"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-6ea78a0d43e3",
+      "limitations": [
+        "2024/2025学会回顾和当年公告各自证实日城，原CFP/费用/场馆未知。2025 before9October与2026 before8October的开边界分开；住宿酒店和房块时限不作会议厅/注册DDL，2027未取得完整预告。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-4c03de207508",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": [
+        "igarss-2027",
+        "igarss-2024",
+        "igarss-2025",
+        "igarss-2026"
+      ],
+      "historicalEditionIds": ["igarss-2024", "igarss-2025", "igarss-2026"],
+      "upcomingEditionIds": ["igarss-2027"],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-4c03de207508",
+      "limitations": [
+        "四届2024–2027独立当年站。2024仅完整稿，不移植后年摘要/近期文章路径；2025/2026近期文章年界、ISI或SJR Q1不是JCR/CAS；2027Q1体系未知。2025/2026费用、海报方向/视频与日期冲突按年保留，2027模板费用不继承。历史2025/2026submissionState仍published而会期已结束，交G2检查语义，不能表示当前可投。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-f99079d1fc30",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["irmmw-thz-2026", "irmmw-thz-2027", "irmmw-thz-2028"],
+      "historicalEditionIds": [],
+      "upcomingEditionIds": [
+        "irmmw-thz-2026",
+        "irmmw-thz-2027",
+        "irmmw-thz-2028"
+      ],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-f99079d1fc30",
+      "limitations": [
+        "2026原稿/注册/海报与2027Fukuoka、2028Warwick官方All Conferences预告独立；未来均unknown投稿，只有日城，不抄2026两页/61726X/费率。2026晚新闻归档资格未知，首选A1任意方向或A0竖不是统一A0。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    },
+    {
+      "seriesId": "series-fd36467103fc",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "editionIds": ["icors-2026"],
+      "historicalEditionIds": ["icors-2026"],
+      "upcomingEditionIds": [],
+      "sourceReviewDatesPreserved": true,
+      "evidence": "V1_SERIES_REVIEW_2026-10-05.md#series-fd36467103fc",
+      "limitations": [
+        "2026正式日程8/23–27优于旧预告/专刊8/23–28；摘要集与2027-02-01会后期刊专刊不同通道，不造下一届。原2026站已读无下一届完整预告范围，第三方2027Istanbul冲突非新会期；同缩写其他学科排除。"
+      ],
+      "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
+    }
+  ],
   "finalAcceptance": null
 }

@@ -1424,3 +1424,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 
 - E43/E44 4ca615e9a9f67f8a564adef05ab52dfdf2c9a87e已验收[Pages37328348755](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37328348755)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:01:42.510Z）。正式编辑前已验收，工作树干净；work/V1_G4_RESEARCH_2026-10-05.md保存逐项只读审核和AFM现页安全验证停止的范围。普通额度五小时57%/周9%允许，原五小时调度不变。
 - V1-G4完成固定53刊逐项样例收尾，48刊三个不同正式期次/年度卷证据，5刊实际已审查限制明确保留；52刊有至少三篇样例不等于52刊均三期。AFM现原页安全验证停止，未补造卷期或英文原题；NML仅两个年度卷，CPL更早Early Access未知。其他门槛仍未完成。目录全部保持104刊/133届/10活动、98系列24多届、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11。 [逐刊原来源/日期/卷期与边界](V1_SCOPE_REVIEW_2026-10-05.md)。47既有样例实际分组读完，原日志/证据复用；不假称今日重读全部旧论文。只文档账本变化，全data与冻结范围字节保护；必要验证/差异审查后提交推送并同SHA验收。
+
+## 2026-10-05：核心系列收尾 V1-G5
+
+- V1-G4 72f3b7ab3369e62a4110c45530d3af95127f349a已验收[Pages37330142798](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37330142798)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:08:47.411Z）。一次连接超时仅复查同SHA，无新提交。正式编辑前已验收；G4发布前validate、data/冻结范围字节保护、53唯一固定ID/48三期证据与5限制、旧6记录及其他门槛不变断言和452本地链接/维护453项12主题/diff检查通过；完整31项测试/typecheck/lint/build由该同SHA CI成功验收。
+- V1-G5完成固定12核心系列/29届历史与未来关联、独立当届规则的一次收尾；9系列多届，三单届后续未知/受限留有触发条件，不推算或凑数。G4/G5完成，G1最终回归/G2正式质量/G3固定60候选/G6验收交接仍待完成，整个项目IN_PROGRESS。目录与冻结范围全部保持。 [原逐届来源及范围](V1_SERIES_REVIEW_2026-10-05.md)。全部29届分组实读，原页面/附件证据复用；CIOP旧安全警告不重复，未来开启计划不冒充后台。本批纯文档，全部data/冻结范围、已完成G4与其他未审门槛保持。长操作前work/V1_G5_RESEARCH_2026-10-05.md保存范围，必要验证/差异审查后推送同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保护、12唯一固定系列/29届及历史未来关联、旧53样例记录与其他未审门槛不变断言通过；374本地Markdown链接、维护453项/12主题、差异审查和git diff --check通过。纯文档复用已验收六资源本地构建/目录摘要，同SHA CI继续执行完整31测试/typecheck/lint/build及部署验收。
