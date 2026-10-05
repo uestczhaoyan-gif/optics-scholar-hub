@@ -1381,3 +1381,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外遥感、含光学方法的形变传感与空间光通信样例；综述/系统介绍和单项实验分开，首次与名义卷期日期冲突按原元数据保留。仅scopeExamples变化，103其他刊、整刊/指南日期、索引分区费用及其他JSON保护；104刊/133届/10活动、273候选213/53/7、98系列24多届、90SCIE/12ESCI/97EI、JCR102/CAS11保持，47刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)。三原IEEE公开摘要/元数据，Space局部HTML实际核实，不声称全文/SI核验。每批验证差异审查后推送并验收同SHA部署。剩余规划未完成，额度不足下一完整批时保存并等原五小时检查。
 
 - 发布前数据校验、固定f322042的103其他刊/46旧样例、目标除scopeExamples所有字段及其他JSON字节保护通过；三首发/三个正式期次、首发晚于名义月份及综述局部边界断言通过，47样例。367本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0，数据及文档差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：V1.0有限结项范围
+
+- 用户明确要求结束标识与有限推进；新增PROJECT_CLOSEOUT.md六门槛及固定V1_SCOPE.json（基线b8065eb33e42b2de7051b1fba8e018e9db7a6a63），60候选/6刊样例/12核心系列及正式质量/最终验收。当前IN_PROGRESS，不声称已完成。原数据全部保持，新发现归后续版本；已审查限制可收尾，未审查不能冒充完成，同一不变来源最多两次有效尝试。
+- E39已验收Pages37272211084，线上摘要671fed44b5e94685eeebaa061da3089673bba642565abbe285e74047ac69f202匹配本地，2026-10-05T06:25:50.619Z。只读GitHub确认HEAD=remote同SHA，2026-10-05来源巡检37276488757成功；未重触发巡检。
+- 复用automation的原五小时间隔/同对话与静默通知偏好，仅更新有限收尾提示；V1.0_ACCEPTED并发布验收后删除建设任务，现有每日来源巡检保留，不另建/恢复旧任务。长操作前保存work/V1_CLOSEOUT_2026-10-05.md。
+
+- 本批只改7个文档/范围文件；固定所有ID与b8065eb原JSON逐项一致、唯一性/60未收尾/53样例目标含6待处理/12核心关联/IN_PROGRESS及两次限制断言通过。379本地Markdown链接与统计通过；data完全无差异、git diff --check通过，原自动化提示已读回确认，五小时间隔/同对话保留。纯文字无新增测试；同SHA GitHub CI执行完整验证及构建/部署。

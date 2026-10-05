@@ -2,6 +2,12 @@
 
 更新：2026-10-05；用户已授权持续续作，复用五小时额度检查任务并接到当前对话。操作入口见 [新对话续接说明](RESUME.md)。本文件保留完整剩余规划，逐批执行结果见文末。
 
+## V1.0 的终点与范围
+
+用户于2026-10-05要求明确结项，当前状态为 `IN_PROGRESS`。执行范围以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 及 [固定ID名单](V1_SCOPE.json) 为准：当前104刊/133届/98系列/10活动/273候选为基线；固定60未收尾候选、6刊样例、12核心系列及正式数据质量与最终验收。下方扩充方向是背景与后续版本发现池，不再自动增长本版必做任务。
+
+六项门槛全部验收后写入 **`项目状态：V1.0_ACCEPTED`** 并附发布SHA、Pages、线上摘要及限制交接，停止五小时建设自动任务。已审查的未知/冲突/受限来源单列限制，不要求无限重试或滚动维护队列为零；日常来源变化转入维护阶段。
+
 ## 当前结果与原规划对照
 
 原始基线为 19 本期刊、9 届会议；现有 **104 本期刊、133 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
@@ -36,11 +42,11 @@ JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问�
 
 ## 下一阶段执行顺序
 
-以小批次独立提交和推送，先保证已收录资料可用，再按薄弱方向持续扩充。以下是待执行任务；研究结果可能为补齐、明确待核验或暂缓，不承诺每个候选都进入正式目录。
+以小批次独立提交和推送，先保证已收录资料可用，再按固定收尾名单推进。以下分类用于安排本版已锁定事项与后续维护；研究结果可能为补齐、明确限制或暂缓，不承诺每个候选都进入正式目录。发现池不会自动扩大结项范围。
 
 | 批次 / 优先级                          | 要做什么                                                                                                                                                  | 交付与验收条件                                                                                         |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| A / P1：已有索引与分区证据             | 已有肯定索引均有数据库方证据：SCIE 85、ESCI 12、EI 92。下一步补 JCR/CAS 年度与学科、七刊 EI 缺口及中文 EI 补充刊的 SCIE 未核实身份；不重复同版清单        | 每字段保存来源、证据等级、版本或核验日期；无法核实保留缺口，不从历史 JCR 的索引列推断当前收录          |
+| A / P1：已有索引与分区证据             | 已有肯定索引均有数据库方证据：SCIE 90、ESCI 12、EI 97。下一步补 JCR/CAS 年度与学科、七刊 EI 缺口及中文 EI 补充刊的 SCIE 未核实身份；不重复同版清单        | 每字段保存来源、证据等级、版本或核验日期；无法核实保留缺口，不从历史 JCR 的索引列推断当前收录          |
 | B / P1：临近会议与冲突                 | 先处理维护报告中临近 14 天事项，再处理未知日期；NDTA 2026 酒店已有官方依据，继续核实中英文摘要长度冲突、CIOE 纳米压印论坛日期及 OPJ 终日冲突              | 每届使用当届官方通知，分别记录截止与举办时间；冲突未解继续暂缓，不选一个日期充数                       |
 | C / P1：会议与活动覆盖                 | 每批审核 5–8 个系列，CIOP 历史届次已收录，继续补原始征稿；Photonics West、AOPC、OGC、OECC、ICOCN 已有届次，继续查后续；向制造、生医、显示、红外、遥感扩展 | 区分系列、届次、母子会议、论文会议和展览；有当届依据才新增正式记录，无下一届通知则保留系列候选         |
 | D / 已完成（2026-09-12）：活动维护能力 | 已将 `events` 纳入离线维护队列与报告，显示类型和母活动关联                                                                                                | 覆盖即将举办、日期未知、核验过期与历史活动；保留母子关系、不重复统计；必要边界测试通过                 |
@@ -66,9 +72,9 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 104 journals, 133 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 100 journals and CAS records for 11. SCIE has 88 and EI has 95 positive records. 95 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Eighty-eight SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 102 journals and CAS records for 11. SCIE has 90 and EI has 97 positive records. 97 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Ninety SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
-Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. Completed batches are recorded below; remaining tasks stay explicitly open.
+Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. V1.0 has a frozen scope and six completion gates in PROJECT_CLOSEOUT.md. Finish its fixed backlog, preserve reviewed limitations, then mark V1.0_ACCEPTED and stop the five-hour construction automation. Daily source monitoring and published-version refresh remain available for maintenance; newly discovered venues belong to a later version.
 
 ## 2026-09-12 执行记录
 

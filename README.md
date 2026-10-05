@@ -212,3 +212,5 @@ The series directory links 133 editions to 98 stable conference identities. Foll
 2026-10-05：[TED审核F14](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f14ieee-ted)补器件初稿与补充材料规则、三个正式期次样例；104刊、46刊至少三篇样例。 TED admission adds device manuscript rules and examples from three formal issues; 46 of 104 journals have at least three examples.
 
 2026-10-05：[Proceedings光学综述E39](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)补三不同正式期样例，47刊至少三篇样例；首次与名义月份分别保留。 Proceedings optical survey examples cover three formal issues; 47 journals have at least three examples, with first-publication dates preserved separately from nominal issue months.
+
+V1.0建设以[固定范围和结项门槛](docs/PROJECT_CLOSEOUT.md)为终点；当前仍在收尾。验收后标记V1.0_ACCEPTED，停止建设自动任务，保留每日来源巡检和网站版本更新。 V1.0 has a frozen scope and explicit acceptance gates; construction ends on acceptance, with existing source monitoring and version refresh retained for maintenance.
