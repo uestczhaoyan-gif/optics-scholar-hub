@@ -115,3 +115,25 @@ MJL各纸号结果卡SCIE、刊名/出版者/双号一致；索引JSON保留查�
 OLT投稿实际入口为https://submit.elsevier.com/JOLT，未按缩略链接猜OLT；OM为OM，OLE为OLEN。OM纯计算需直接实验验证，OLE纯计算/参数优化或仅应用不等于光学方法创新。旧94刊/36样例与所有其他JSON保护，不宣称完整2026政策已核。
 
 F8新增Optical Materials、Optics & Laser Technology、Optics and Lasers in Engineering三本直接光学刊，MJL当前SCIE/新EI三行独立依据，五条JCR 2025 JIF为secondary。OM光学Q1/材料Q2，OLT光学Q1/应用物理Q2，OLE光学Q2；不取AIS/CAS或推2026。材料实验验证、工程光学方法与综述流程边界、逐刊APC/四环节指标保留。当前97刊/122届/10活动、273候选206 admitted/60 pending/7 deferred、SCIE83/ESCI12/EI90、JCR95/CAS11、36样例，旧94刊和其他JSON保护。其他规划继续。
+
+## F9：光谱与红外两刊
+
+核验2026-10-05，普通浏览器独立读ScienceDirect本刊首页/指南与MJL唯一卡，未访问搜索出现的仿制域，不采其旧价格/指标。
+
+| 刊/身份与指南 | 范围/规则及未知 | 独立费用/四环节 |
+| --- | --- | --- |
+| [Journal of Quantitative Spectroscopy and Radiative Transfer](https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer)，0022-4073/1879-1352；[Guide](https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/publish/guide-for-authors) | 稿型含Review Articles、Full Length Articles、Short Communications和Book Reviews；整篇硬字数/页限未核。理论与实验均在范围，不能移植红外刊的实验验证准入限制。 独立核单匿名≥2/250词1–7key、Highlights3–5×85字符、editable源稿/Option C仓储引用与不能共享理由/数据声明；图文摘要、完整模板许可/内部清单未知。 | 3/34/91/3天不同环节，年/口径未知；OA USD3240税外、订阅无publication fee，独立2026价表/其他费用未知。 |
+| [Infrared Physics & Technology](https://www.sciencedirect.com/journal/infrared-physics-and-technology)，1350-4495/1879-0275；[Guide](https://www.sciencedirect.com/journal/infrared-physics-and-technology/publish/guide-for-authors) | Research通常6–14印刷页，明言无任意长度上限但内容须支持篇幅；Review通常至30印刷页或编辑同意更长，均非无条件硬限。另有Research/Technical Notes、Letter、Meeting Reports。纯计算/解析仅充分理由例外，如大型卫星/FEL设计比较；通常实验验证。投稿建议1–5位独立潜在审稿人（与研究/本机构无关联），不是实际评审人数承诺。 独立核单匿名≥2/250词1–7key、Highlights3–5×85字符、editable源稿/Option C仓储引用与不能共享理由/数据声明；图文摘要、完整模板许可/内部清单未知。 | 10/51/103/3天不同环节，年/口径未知；OA USD2650税外、订阅无publication fee，独立2026价表/其他费用未知。 |
+
+IR主范围750nm–1mm，VNIR750–1200nm特别考虑，300–100GHz仅编辑酌情；纯计算/解析仅理由充分例外，不是全面拒理论。实际提交入口JQSRT/INFPHY分别从首页核，未登录/上传/支付/联系；首页未来卷期标题未用作论文首次日期或跨领域样例。
+
+MJL两纸号唯一结果刊名/出版者/双号及CoreCollection SCIE实核，不采侧栏。EI[来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39、SERIALS2026-08-07两新行3534/2292 Journal纸号出版者正确、电子“-”；DISCONTINUED2026-05-01无四新号，只两新目标，不重扫旧90刊。覆盖年/单篇检索未知。
+
+[JCR机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf)hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274、2025年6月版指标2024，四原图379/566/602/737页全核JIF列，非AIS。
+
+| 刊 | JIF学科/原页 |
+| --- | --- |
+| Journal of Quantitative Spectroscopy and Radiative Transfer | OPTICS Q3（p566）；SPECTROSCOPY Q2（p737） |
+| Infrared Physics & Technology | INSTRUMENTS & INSTRUMENTATION Q2（p379）；OPTICS Q2（p566）；PHYSICS, APPLIED Q2（p602） |
+
+JQSRT以光谱Q2满足主合集，光学JIF Q3不可借AIS Q2改写；IR三学科Q2。2026/CAS仍未知，97旧刊/36样例与其他JSON保护。F9新增JQSRT与Infrared Physics & Technology，MJL当前SCIE与两新EI行独立保存；五条JCR 2025 JIF为secondary。JQSRT光谱Q2/光学Q3（非AIS Q2），红外三学科Q2；理论/实验例外与软篇幅、Option C数据及逐刊价格/指标保留。99刊/125届/10活动、273候选208 admitted/58 pending/7 deferred、SCIE85/ESCI12/EI92、JCR97/CAS11、36样例；旧97刊及其他JSON保持，其他规划继续。

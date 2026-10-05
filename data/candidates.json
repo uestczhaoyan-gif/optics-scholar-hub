@@ -2626,12 +2626,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "红外与光谱机制、光谱仪器及光学分析",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/infrared-physics-and-technology",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["infrared-physics-technology"],
+    "decisionReason": "官方身份与直接光谱/红外范围、MJL当前SCIE与公开EI来源表独立核；JCR 2025明确学科JIF Q2机构转载参考准入，不宣称2026官方/CAS或全部光学Q2。",
+    "nextAction": "补2026/CAS、模板许可/图文摘要、费用年度与未核整篇硬限；保留JIF/AIS学科差异及理论/实验例外，不泛化同社政策。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-ee6a559ba5",
@@ -2766,12 +2766,14 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "红外与光谱机制、光谱仪器及光学分析",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": [
+      "journal-quantitative-spectroscopy-radiative-transfer"
+    ],
+    "decisionReason": "官方身份与直接光谱/红外范围、MJL当前SCIE与公开EI来源表独立核；JCR 2025明确学科JIF Q2机构转载参考准入，不宣称2026官方/CAS或全部光学Q2。",
+    "nextAction": "补2026/CAS、模板许可/图文摘要、费用年度与未核整篇硬限；保留JIF/AIS学科差异及理论/实验例外，不泛化同社政策。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-357da7987c",

@@ -7,9 +7,9 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：97 本期刊、125 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：273 项，206 admitted、60 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
-- JCR 有记录 95/97、中科院 11/97；SCIE 肯定记录 83、ESCI 12、EI 90。90 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 83 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
+- 正式目录：99 本期刊、125 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，208 admitted、58 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
+- JCR 有记录 97/99、中科院 11/99；SCIE 肯定记录 85、ESCI 12、EI 92。92 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 85 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
 - 交叉适配样例已有三十六刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 物理学报的三篇样例及2026指南见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
@@ -27,7 +27,7 @@
 | 优先级 | 任务与可执行入口                                                                                                                                                                  | 保留的边界                                                                                                         |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | P1     | 系列首轮后续公告已核验，余 CIOP 证书异常一项；优先 ISSCC2027 工业LBN10/7（非普通稿），并查 ACP、IPC、IRMMW-THz、OMTA、OPTIC、Photonics West；关注 FiO 进行中及 OFS-China 后续通知 | 9/30 首批已更新 OMTA 会期/最终轮/缴费和 Photonics West 幻灯片截止。旧 OFS-China 与 Laser Congress 截止不当未来提醒 |
-| P1     | 补 JCR/CAS 版本与学科；跟进七刊 EI 缺口及中文 EI 补充刊的 SCIE 未核实身份                                                                                                       | 已有 SCIE 83、ESCI 12、EI 90 均为数据库依据；同一版公开表不重复扫描，缺匹配不等于未收录                            |
+| P1     | 补 JCR/CAS 版本与学科；跟进七刊 EI 缺口及中文 EI 补充刊的 SCIE 未核实身份                                                                                                       | 已有 SCIE 85、ESCI 12、EI 92 均为数据库依据；同一版公开表不重复扫描，缺匹配不等于未收录                            |
 | P1     | 补已收录的未来会议：USQS 2027、CLEO/Europe–EQEC 2027、ICOLS 2027、ICO 2027、WSOF 2027                                                                                             | USQS 注册入口/现发布费率已补，退款年度待核实；欧洲 CLEO 征稿页仍为 2025；会期已知不代表投稿开放                    |
 | P1     | 解决 deferred：NDTA 2026、CIOE 纳米压印论坛、CIOE 微显示论坛、OPJ 2026                                                                                                            | NDTA 酒店已有官方依据，中英文摘要长度仍冲突；两个 CIOE 活动日期/母子层级及 OPJ 终日有冲突，未解决继续暂缓          |
 | P1/P2  | 继续每批审核 5–8 个系列：剩余 SPIE/Optica 专题与其他未审候选；跟进新入选 SPIE/OPIC 的字段缺口；APOS 2026 历史届次已入选                                                                    | 从 data/candidates.json 取真实当前状态；区分母会、分会、展览以及不同地区的 CLEO                                    |
@@ -88,7 +88,7 @@ GitHub 仓库原有每日来源巡检仍保留：只报告变化/访问异常，
 
 ## 可复制的新对话提示
 
-请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 97 本期刊、125 届会议、10 项活动是 2026-10-05 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
+请接续 optics-scholar-hub 项目。先阅读 docs/RESUME.md、docs/ROADMAP.md、docs/VERIFICATION_LOG.md 和当前仓库状态，检查实际账户额度并重新生成维护与覆盖报告，再按计划持续推进。已有 99 本期刊、125 届会议、10 项活动是 2026-10-05 当前基线，以实际 JSON 为准。优先补临近会议、索引分区证据及待审核候选，未知或冲突保留。每批验证后提交推送 GitHub，按提交 SHA 确认 Pages 部署及线上版本。用户已授权本对话每五小时检查额度并续作，不另建重复自动化；直到额度受限或剩余规划确实完成，不重复已完成的功能。
 
 C2 已复核六个会议系列，新增 APOS 2026 历史届次（1/31–2/2），补 OPIC 可读母会正文依据及下一步。正式目录 74 刊、41 届会议、9 项活动，候选 124 admitted / 142 pending / 3 deferred；前批 A12 已验收。APOS 历史截止版本冲突仍留空；ICOLS、ICO、欧洲 CLEO 无新事实，USQS 本轮访问失败。下一批继续分区、指南/样例和未审会议，不重复现有 67 条 EI / 62 条 SCIE / 10 条 ESCI 的同版数据库核对。
 
@@ -351,3 +351,7 @@ C29 8012b2bee7f740128f1e95dd2aa870931c13da3d已验收[Pages37247520316](https://
 ## 2026-10-05：ECOC/IPC时间深度 C30
 
 F8 1d6c9a1d69647ec0eb49ff426464c591c52e0aaf已验收[Pages37248491227](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37248491227)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，3250a53312b47e66289ecfe76700139cdc219c30c1c5b2893ef83333798f69dd与本地一致（2026-10-05T00:43:15.509Z）。 C30新增ECOC2025、IEEE IPC2024/2025三个历史届，接入原两稳定系列；ECOC与IPC均有三年记录。97刊/125届/10活动、98系列20多届、273候选206/60/7及全部索引/分区/36样例保持。原122届、96其他系列、271其他候选和其他JSON保护；只两系列editionIds/sources及两候选四审核字段变化，不刷新后续公告日。ECOC原指南所列4/22/25与最终版本分开、注册日期/金额冲突保留；IPC旧公告before9Oct边界不推全天。 [逐字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c30ecocipc时间深度)。
+
+## 2026-10-05：光谱与红外两刊 F9
+
+C30 8636bfba58432235b0de20bade45da1117963b5b已验收[Pages37249002126](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37249002126)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，a2a90aaa3461b3f9f7282f34136e586f3690824c05122c238b80d65c88946a1c与本地一致（2026-10-05T00:52:36.857Z）。 F9新增JQSRT与Infrared Physics & Technology，MJL当前SCIE与两新EI行独立保存；五条JCR 2025 JIF为secondary。JQSRT光谱Q2/光学Q3（非AIS Q2），红外三学科Q2；理论/实验例外与软篇幅、Option C数据及逐刊价格/指标保留。99刊/125届/10活动、273候选208 admitted/58 pending/7 deferred、SCIE85/ESCI12/EI92、JCR97/CAS11、36样例；旧97刊及其他JSON保持，其他规划继续。 [来源](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)。

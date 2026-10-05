@@ -7248,5 +7248,158 @@
     ],
     "publishing": "2026-10-05核本刊首页：可选OA APC USD3470（税外），订阅路径不收publication fee；机构减免资格/其他费用未评估，网页无独立2026费率版年，不作固定年价。来源：https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering",
     "schedule": "2026-10-05核本刊首页：投稿至首决4天、投稿至外审后决定39天、投稿至录用88天、录用至在线发表7天；分别列环节，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering"
+  },
+  {
+    "id": "journal-quantitative-spectroscopy-radiative-transfer",
+    "name": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+    "abbr": "JQSRT",
+    "publisher": "Elsevier",
+    "issn": "0022-4073",
+    "eissn": "1879-1352",
+    "domains": ["光学", "物理", "材料"],
+    "topics": ["传感与测量", "光学材料", "纳米与超表面", "生物医学光学"],
+    "description": "理论/实验光谱、谱线形计算、粒子/表面电磁散射、近场能量/热传递与辐射介质，含生医/遥感及超材料应用。不是全部计算或AI投稿入口。JCR 2025光谱学JIF Q2、光学Q3为机构转载参考，不能用光学AIS Q2作JIF Q2。",
+    "website": "https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer",
+    "guide": "https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/publish/guide-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "SPECTROSCOPY",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=737",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0022-4073&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器0022-4073唯一Exact Match卡，刊名/出版者及0022-4073/1879-1352匹配；结果Core Collection明确Science Citation Index Expanded，非侧栏filter，未登录profile/单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第3534行Journal、刊名/纸号0022-4073/出版者相符，电子“-”不否定官方eISSN；DISCONTINUED 2026-05-01版无本批四新号。只两新目标，不重扫旧90刊，覆盖年及单篇检索未核。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊当前指南：稿型含Review Articles、Full Length Articles、Short Communications和Book Reviews；整篇硬字数/页限未核。理论与实验均在范围，不能移植红外刊的实验验证准入限制。 来源：https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/publish/guide-for-authors",
+      "编辑初筛后至少两位单匿名专家评审、编辑最终决定；英文摘要至多250词，1–7英文关键词，Highlights必需：独立可编辑文件3–5条，每条至多85字符含空格。",
+      "源稿为可编辑Word .doc/.docx单栏或LaTeX .tex双栏，PDF不是可接受源文件；图片分文件。Option C要求数据仓储并引用/链接，不能共享时说明理由，投稿数据可用性声明必需；不等于无例外公开全部数据。",
+      "graphical abstract要求、完整模板/许可与系统内清单未核，正式入口 https://submit.elsevier.com/JQSRT ，未登录或上传。"
+    ],
+    "publishing": "2026-10-05核本刊首页：可选OA APC USD3240（税外），订阅路径不收publication fee；其他费用/机构减免与独立2026价表未知。来源：https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer",
+    "schedule": "2026-10-05核本刊首页：投稿至首决3天、投稿至外审后决定34天、投稿至录用91天，录用至在线发表3天；四环节独立，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer"
+  },
+  {
+    "id": "infrared-physics-technology",
+    "name": "Infrared Physics & Technology",
+    "abbr": "Infrared Phys. Technol.",
+    "publisher": "Elsevier",
+    "issn": "1350-4495",
+    "eissn": "1879-0275",
+    "domains": ["光学", "物理", "电子"],
+    "topics": [
+      "传感与测量",
+      "成像与计算光学",
+      "激光与非线性",
+      "电子与器件",
+      "光学设计与制造"
+    ],
+    "description": "红外/太赫兹理论、实验、器件及仪器，主范围750nm–1mm；750–1200nm特别考虑，300–100GHz仅编辑酌情。通常要求实验验证，纯计算/解析仅有充分理由时例外，不扩为全部AI。JCR 2025三个学科JIF Q2为机构转载参考。",
+    "website": "https://www.sciencedirect.com/journal/infrared-physics-and-technology",
+    "guide": "https://www.sciencedirect.com/journal/infrared-physics-and-technology/publish/guide-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "INSTRUMENTS & INSTRUMENTATION",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=379",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1350-4495&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器1350-4495唯一Exact Match卡，刊名/出版者及1350-4495/1879-0275匹配；结果Core Collection明确Science Citation Index Expanded，非侧栏filter，未登录profile/单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核公开SERIALS 2026-08-07版第2292行Journal、刊名/纸号1350-4495/出版者相符，电子“-”不否定官方eISSN；DISCONTINUED 2026-05-01版无本批四新号。只两新目标，不重扫旧90刊，覆盖年及单篇检索未核。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊当前指南：Research通常6–14印刷页，明言无任意长度上限但内容须支持篇幅；Review通常至30印刷页或编辑同意更长，均非无条件硬限。另有Research/Technical Notes、Letter、Meeting Reports。纯计算/解析仅充分理由例外，如大型卫星/FEL设计比较；通常实验验证。投稿建议1–5位独立潜在审稿人（与研究/本机构无关联），不是实际评审人数承诺。 来源：https://www.sciencedirect.com/journal/infrared-physics-and-technology/publish/guide-for-authors",
+      "编辑初筛后至少两位单匿名专家评审、编辑最终决定；英文摘要至多250词，1–7英文关键词，Highlights必需：独立可编辑文件3–5条，每条至多85字符含空格。",
+      "源稿为可编辑Word .doc/.docx单栏或LaTeX .tex双栏，PDF不是可接受源文件；图片分文件。Option C要求数据仓储并引用/链接，不能共享时说明理由，投稿数据可用性声明必需；不等于无例外公开全部数据。",
+      "graphical abstract要求、完整模板/许可与系统内清单未核，正式入口 https://submit.elsevier.com/INFPHY ，未登录或上传。"
+    ],
+    "publishing": "2026-10-05核本刊首页：可选OA APC USD2650（税外），订阅路径不收publication fee；其他费用/机构减免与独立2026价表未知。来源：https://www.sciencedirect.com/journal/infrared-physics-and-technology",
+    "schedule": "2026-10-05核本刊首页：投稿至首决10天、投稿至外审后决定51天、投稿至录用103天，录用至在线发表3天；四环节独立，统计年度/样本及均值或中位数未核，不相加或保证个稿。来源：https://www.sciencedirect.com/journal/infrared-physics-and-technology"
   }
 ]

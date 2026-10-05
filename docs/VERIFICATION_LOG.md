@@ -1251,3 +1251,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三页ECOC原指南全文与原图核、旧网站稿规/现场/价格表，IPC学会旧活动/公告/回顾实读；日城及原年规则独立保存，注册冲突/最终延期未知明确。原122届与其他JSON保护；必要验证和差异审查后上传，按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定1d6c9a1的122旧届/96其他系列/271其他候选及全部其他JSON保持、两系列两字段和两候选四字段白名单通过；125/98/20及三日城、日级/冲突边界断言通过。329本地Markdown链接、维护433项/12主题覆盖、Pages子路径构建六资源exit0、数据/文档差异审查和git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：光谱与红外两刊 F9
+
+- C30 8636bfba58432235b0de20bade45da1117963b5b已验收[Pages37249002126](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37249002126)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，a2a90aaa3461b3f9f7282f34136e586f3690824c05122c238b80d65c88946a1c与本地一致（2026-10-05T00:52:36.857Z）。正式编辑前已验收；一次API连接超时只复查同SHA，无重复提交。work/F9_RESEARCH_2026-10-05.md长操作前保存原页/字段/未知，实际五小时79%/周77%允许。
+- F9新增JQSRT与Infrared Physics & Technology，MJL当前SCIE与两新EI行独立保存；五条JCR 2025 JIF为secondary。JQSRT光谱Q2/光学Q3（非AIS Q2），红外三学科Q2；理论/实验例外与软篇幅、Option C数据及逐刊价格/指标保留。99刊/125届/10活动、273候选208 admitted/58 pending/7 deferred、SCIE85/ESCI12/EI92、JCR97/CAS11、36样例；旧97刊及其他JSON保持，其他规划继续。 [逐字段证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)。
+- 两MJL唯一SCIE卡、新四号EI两行及JCR五行/四原图实核；各自指南与首页读，软篇幅、纯计算例外、Option C及费用版年/周期未知保留。完整模板许可/系统清单未核，未登录/上传/联系/支付。必要验证和差异审查后上传，按同SHA验收，其他规划继续。
+
+- 发布前数据校验、固定8636bfb的97旧刊/36样例、271其他候选与全部其他JSON保持、两候选六审核字段白名单通过；99/208-58-7、85-12-92、97-11、五JIF/四索引及软限/例外/Option C断言通过。338本地Markdown链接、维护438项/12主题覆盖、Pages子路径构建六资源exit0和数据/文档差异审查、git diff --check通过，完整31项测试/typecheck/lint由同SHA CI验收。
