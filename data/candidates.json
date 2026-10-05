@@ -2173,12 +2173,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光电器件、光学功能材料、发光与探测",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.wiley-vch.de/en/shop/journals/406-advanced-electronic-materials-2707-en",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实际出版社范围为电子/磁材料的材料科学、物理、工程，含自旋电子、器件、MEMS/NEMS、有机电子，不能推所有内容都光学。官方eISSN2199-160X与EI SERIALS131身份匹配；没有三近年跨期光学原摘要与独立准入字段，保留pending。",
+    "nextAction": "合法公开原论文与独立分类/作者规则新证据出现后，核三不同正式期次近年光学电子器件样例及本刊准入；未变化安全入口不重复。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-88c3310490",
@@ -2187,12 +2187,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光伏、光热、光催化及光电转换，排除无光学关联内容",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.wiley-vch.de/en/shop/journals/354-advanced-energy-materials-2528-en",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读材料能源采集/转化/储存范围，光伏、光催化/太阳燃料与电池/储氢等并列，不能泛化全能源研究为光学。ISSN1614-6832/eISSN1614-6840与EI SERIALS133一致；缺三近年跨期光学原摘要和完整准入，保留pending。",
+    "nextAction": "新的合法光伏/光催化原论文和当前独立数据库/本刊指南证据出现后逐字段核实；保留能源材料与光学核心贡献边界。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-98560ccdea",
@@ -2271,12 +2271,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "优先量子光学、光子量子计算和量子通信",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.wiley-vch.de/en/shop/journals/1041-advanced-quantum-technologies-2820-en",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读QUTE交叉量子理论/实验范围，包含量子光学、纳米光子、通信/感测/计量，同时超导/拓扑/计算等非光学内容。eISSN2511-9044与EI SERIALS155一致；不可当全部量子研究都光学，缺三跨期光学原摘要及独立准入，保留pending。",
+    "nextAction": "合法原量子光学/光子信息样例与本刊独立准入/指南可读时核三不同正式期次，不能由其他量子刊继承。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-c4f53ca0e7",
@@ -3407,12 +3407,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "超表面、发光、纳米光子、二维光电、探测器",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.wiley-vch.de/en/shop/journals/344-small-2296-en",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读纳米/微尺度跨材料、化学、物理、工程、医学与生物范围及实验/理论研究，未将尺度本身当作光学关联。ISSN1613-6810/eISSN1613-6829与EI SERIALS5292一致；缺三近年跨期光学原摘要与准入，保留pending。",
+    "nextAction": "合法新原论文和独立本刊数据库/作者规则证据出现后核三不同正式期次纳米光学样例，再决定准入；Small与Small Methods独立。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-c72726d764",
@@ -3421,12 +3421,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "超表面、发光、纳米光子、二维光电、探测器",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.wiley-vch.de/en/shop/journals/824-small-methods-2770-en",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读纳米/微尺度研究方法与实验技术进展，跨材料、生物医学、化学与物理；方法改进不自动等于光学贡献。eISSN2366-9608与EI SERIALS5293一致；缺三近年不同正式期次光学原摘要及独立准入，保留pending。",
+    "nextAction": "合法光学方法原论文与独立分类/指南新证据可读时逐项核三不同正式期次，再判断方法的核心光学贡献。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-65b77772de",

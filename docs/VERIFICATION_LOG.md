@@ -1524,3 +1524,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2H实审8届会议全部字段，正式质量累计60/250（31刊/29届/0活动）、余190；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际逐項完整读取IGARSS2024–2027、IRMMW2026–2028和ICORS2026八届所有JSON字段、三G5系列原段及C32/C33当届原范围。并直接读取lib/catalog.ts的conferenceStatus/nextDeadline：会期已过优先显示已结束且排除投稿提醒，因此历史submissionState published为已公布规则，不等于可投，不为改日期而刷新来源。复用原官方记录，不重复已受限/未变化网站，不宣称今天全站重核。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2h)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧52正式与候选/G4/G5/final账本不变、八唯一ID/系列及admitted关联、按kind完整摘要/六组字段/具体限制与触发断言通过；454个Markdown本地文件链接、全部实际文档及账本差异审查和git diff --check通过。固定核心29届正式审查齐备不等全部G2完成；IGARSS年间不同路径/日期与现场冲突、未来IR未知及ICORS贡献矛盾继续保留。纯文档复用已验收六入口构建/维护460项12主题覆盖，同SHA CI继续完整31测试/typecheck/lint/build，随后确认部署及线上摘要。
+
+## 2026-10-06：固定候选 V1-G3F
+
+- cdd0f743f88a019ec64d1db38209a57180ab506b已验收[Pages 37378347488](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37378347488)，同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab与本地匹配（2026-10-05T21:52:14.651Z）。正式编辑前HEAD=origin/main；工作草案在work/V1-G3F-plan.json提前保护，等待前批发布时未重复提交。
+- V1-G3F实审5固定候选，保留pending及实际范围/限制；固定60已审40（3准入、37限制）、余20。正式质量60/250未完成，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 实际从Wiley-VCH出版社Journals目录逐个点击五刊独立商品页，实读每刊公开范围、稿型若列出及ISSN；排除搜索误出的同名2014能源图书/2023量子图书。五页不是受限Wiley Online Library原论文代理，不沿Read online重进已有安全验证的论文平台；本批五刊未各自收到新的403或验证，不造五次拒绝。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3f)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
+
+- 发布前validate、五候选四字段/其他268候选及全部正式目录/冻结范围字节保护、旧候选/正式/G4/G5及final账本不变、40唯一ID断言通过；422本地文件链接、七文件实际差异及git diff --check通过。Node24.20 Pages子路径六入口构建exit0，维护460项/12主题273候选；原2022能源JIF和EI学科栏未冒充现年分区。五小时57%/周24%允许普通使用，继续固定未审事项，同SHA CI再验31测试/typecheck/lint/build与部署，未使用重置券。

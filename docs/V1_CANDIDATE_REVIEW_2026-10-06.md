@@ -130,3 +130,58 @@ Solar Energy Materials and Solar Cells；pending。
 Compendex缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，SERIALS2026-08-07与DISCONTINUED2026-05-01。首次完整名核对六目标中Measurement没有简名精确匹配，第二次只按已读官方0263-2241确认3951长刊名，未误判未收录、未继续重扫。六SERIALS刊名/Journal/Elsevier/刊号一致、停收表无匹配；EI不替代光学适配或覆盖年/单篇证据。所有候选维持pending，缺三不同正式期次近年原光学摘要和完整准入范围，不批量升级。
 
 [Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他267候选、全部正式目录及冻结范围和旧审查保持。
+
+## V1-G3F
+
+实际从Wiley-VCH出版社Journals目录逐个点击五刊独立商品页，实读每刊公开范围、稿型若列出及ISSN；排除搜索误出的同名2014能源图书/2023量子图书。五页不是受限Wiley Online Library原论文代理，不沿Read online重进已有安全验证的论文平台；本批五刊未各自收到新的403或验证，不造五次拒绝。 固定60累计40项（3准入、37限制），余20未审；本批5全部保留pending。实际审查有范围、影响、触发，不因为数量或额度而填完成。
+
+## journal-2511938755
+
+Advanced Electronic Materials；pending。
+
+- 原来源/真实范围：[官方范围](https://www.wiley-vch.de/en/shop/journals/406-advanced-electronic-materials-2707-en)。实际出版社范围为电子/磁材料的材料科学、物理、工程，含自旋电子、器件、MEMS/NEMS、有机电子，不能推所有内容都光学。官方eISSN2199-160X与EI SERIALS131身份匹配；没有三近年跨期光学原摘要与独立准入字段，保留pending。
+- 本刊已读细则：只读本刊范围与在线刊号，页面未给纸刊号、具体稿型长度、费用或2026规则；EI学科名含Optical也不能代替原论文光学关联。没有以Advanced Materials的现行指南/分区或样例继承给本刊。
+- 未解决内容及影响：已有Wiley原平台安全验证范围留证，本刊没有独立新拒绝请求；出版社目录只范围/身份，不能验证三光学原文摘要、首次日及正式期次。；MJL SCIE/ESCI、独立JCR指标年/类别/排序、CAS版本和完整本刊Guide/APC/覆盖年未核，不以总品牌或EI栏目填入。
+- 维护触发：合法公开原论文与独立分类/作者规则新证据出现后，核三不同正式期次近年光学电子器件样例及本刊准入；未变化安全入口不重复。
+
+## journal-88c3310490
+
+Advanced Energy Materials；pending。
+
+- 原来源/真实范围：[官方范围](https://www.wiley-vch.de/en/shop/journals/354-advanced-energy-materials-2528-en)。实读材料能源采集/转化/储存范围，光伏、光催化/太阳燃料与电池/储氢等并列，不能泛化全能源研究为光学。ISSN1614-6832/eISSN1614-6840与EI SERIALS133一致；缺三近年跨期光学原摘要和完整准入，保留pending。
+- 本刊已读细则：公开稿型Reviews/Research Articles/Comments/Perspectives；仅列名称而非完整稿长/模板。页面27.8明确为2022指标、JCR2023，不能作2026 JIF、Q1或当前SCIE证据；创刊2011不是访问日期。同名2014图书ISBN与定价已排除。
+- 未解决内容及影响：出版社商品范围不提供三近年跨期原摘要/首次日/期次；既有Wiley原平台安全验证停止，不沿Read online或用缓存检索片段填样例。；MJL现行集合、当前JCR/CAS版本、完整本刊Guide/APC及索引覆盖年未知；旧2022 JIF不升格当前年度排名。
+- 维护触发：新的合法光伏/光催化原论文和当前独立数据库/本刊指南证据出现后逐字段核实；保留能源材料与光学核心贡献边界。
+
+## journal-6909679a80
+
+Advanced Quantum Technologies；pending。
+
+- 原来源/真实范围：[官方范围](https://www.wiley-vch.de/en/shop/journals/1041-advanced-quantum-technologies-2820-en)。实读QUTE交叉量子理论/实验范围，包含量子光学、纳米光子、通信/感测/计量，同时超导/拓扑/计算等非光学内容。eISSN2511-9044与EI SERIALS155一致；不可当全部量子研究都光学，缺三跨期光学原摘要及独立准入，保留pending。
+- 本刊已读细则：出版社仅范围/在线ISSN；没有从图书量子技术介绍或EI学科栏目补本刊原论文或JCR类别。范围容理论与实验不等于已审三理论/实验结果，完整稿型长度/费用未列出。
+- 未解决内容及影响：原Wiley论文平台已有安全限制，本刊未作新验证请求；商品目录不是光学原摘要及正式期次证据。；MJL集合/JCR年度类别及CAS版本、三近年跨期光学原论文和本刊作者格式/费用/覆盖年未核。
+- 维护触发：合法原量子光学/光子信息样例与本刊独立准入/指南可读时核三不同正式期次，不能由其他量子刊继承。
+
+## journal-5263293fc2
+
+Small；pending。
+
+- 原来源/真实范围：[官方范围](https://www.wiley-vch.de/en/shop/journals/344-small-2296-en)。实读纳米/微尺度跨材料、化学、物理、工程、医学与生物范围及实验/理论研究，未将尺度本身当作光学关联。ISSN1613-6810/eISSN1613-6829与EI SERIALS5292一致；缺三近年跨期光学原摘要与准入，保留pending。
+- 本刊已读细则：列Research Articles/Reviews/Perspectives/Comments，但没有长度或投稿邀请条件。页面泛称top multidisciplinary不等于SCIE/Q1；不能用Small Methods原论文或共享品牌费用证明Small字段。
+- 未解决内容及影响：只有独立商品页范围与身份实读，已有Wiley原平台安全验证停止，不补造光学原题/摘要或出版时间。；本刊MJL/JCR/CAS版本、三光学原论文正式期次、完整Guide/APC及覆盖年份仍未知。
+- 维护触发：合法新原论文和独立本刊数据库/作者规则证据出现后核三不同正式期次纳米光学样例，再决定准入；Small与Small Methods独立。
+
+## journal-c72726d764
+
+Small Methods；pending。
+
+- 原来源/真实范围：[官方范围](https://www.wiley-vch.de/en/shop/journals/824-small-methods-2770-en)。实读纳米/微尺度研究方法与实验技术进展，跨材料、生物医学、化学与物理；方法改进不自动等于光学贡献。eISSN2366-9608与EI SERIALS5293一致；缺三近年不同正式期次光学原摘要及独立准入，保留pending。
+- 本刊已读细则：范围强调研究方法与实验技术，未列完整稿型/篇幅/收费，不从Small的稿型、纸刊号或费用继承。EI源表国别与出版社所在国不是本刊分类证据，未据此更新目录。
+- 未解决内容及影响：五刊独立范围读完但未取得本刊三原光学摘要/首次日/正式期次；已有Wiley原平台安全限制不换工具检索缓存绕过。；独立MJL集合/JCR年与类别/CAS年、完整作者Guide/APC及覆盖年未核，不以方法类题名判直接专刊。
+- 维护触发：合法光学方法原论文与独立分类/指南新证据可读时逐项核三不同正式期次，再判断方法的核心光学贡献。
+
+### V1-G3F：共同证据与保护
+
+本批首次仅查五目标Compendex缓存：SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，SERIALS2026-08-07五条期刊与官方刊号一致、DISCONTINUED2026-05-01无同名记录。学科栏为EI源表栏目，不是MJL或JCR分类，Journal条目不是所有论文覆盖证明。Wiley原平台实际安全限制承接VERIFICATION_LOG的V1-G4 AFM与V1-G3B JBIO已留证范围，不绕过、不声称今日重读论文。五刊均未满足三近年不同正式期次光学原摘要及独立准入字段，保留pending/0新增样例；不是拒绝光学方向，也不因总刊知名而升级。
+
+[Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他268候选、全部正式目录及冻结范围和旧审查保持。

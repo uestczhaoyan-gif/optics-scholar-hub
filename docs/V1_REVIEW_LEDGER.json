@@ -1166,6 +1166,76 @@
         "电子身份/MJL/JCR/CAS/完整Guide/费用和覆盖年待核；不将无年份旧转投指示或其他能源刊APC套本刊。"
       ],
       "maintenanceTrigger": "新合法原论文及独立分类/作者规则证据出现后核三不同正式期次光学材料样例，再判断准入及费用。"
+    },
+    {
+      "candidateId": "journal-2511938755",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-2511938755",
+      "formalIds": [],
+      "limitations": [
+        "已有Wiley原平台安全验证范围留证，本刊没有独立新拒绝请求；出版社目录只范围/身份，不能验证三光学原文摘要、首次日及正式期次。",
+        "MJL SCIE/ESCI、独立JCR指标年/类别/排序、CAS版本和完整本刊Guide/APC/覆盖年未核，不以总品牌或EI栏目填入。"
+      ],
+      "maintenanceTrigger": "合法公开原论文与独立分类/作者规则新证据出现后，核三不同正式期次近年光学电子器件样例及本刊准入；未变化安全入口不重复。"
+    },
+    {
+      "candidateId": "journal-88c3310490",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-88c3310490",
+      "formalIds": [],
+      "limitations": [
+        "出版社商品范围不提供三近年跨期原摘要/首次日/期次；既有Wiley原平台安全验证停止，不沿Read online或用缓存检索片段填样例。",
+        "MJL现行集合、当前JCR/CAS版本、完整本刊Guide/APC及索引覆盖年未知；旧2022 JIF不升格当前年度排名。"
+      ],
+      "maintenanceTrigger": "新的合法光伏/光催化原论文和当前独立数据库/本刊指南证据出现后逐字段核实；保留能源材料与光学核心贡献边界。"
+    },
+    {
+      "candidateId": "journal-6909679a80",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-6909679a80",
+      "formalIds": [],
+      "limitations": [
+        "原Wiley论文平台已有安全限制，本刊未作新验证请求；商品目录不是光学原摘要及正式期次证据。",
+        "MJL集合/JCR年度类别及CAS版本、三近年跨期光学原论文和本刊作者格式/费用/覆盖年未核。"
+      ],
+      "maintenanceTrigger": "合法原量子光学/光子信息样例与本刊独立准入/指南可读时核三不同正式期次，不能由其他量子刊继承。"
+    },
+    {
+      "candidateId": "journal-5263293fc2",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-5263293fc2",
+      "formalIds": [],
+      "limitations": [
+        "只有独立商品页范围与身份实读，已有Wiley原平台安全验证停止，不补造光学原题/摘要或出版时间。",
+        "本刊MJL/JCR/CAS版本、三光学原论文正式期次、完整Guide/APC及覆盖年份仍未知。"
+      ],
+      "maintenanceTrigger": "合法新原论文和独立本刊数据库/作者规则证据出现后核三不同正式期次纳米光学样例，再决定准入；Small与Small Methods独立。"
+    },
+    {
+      "candidateId": "journal-c72726d764",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-c72726d764",
+      "formalIds": [],
+      "limitations": [
+        "五刊独立范围读完但未取得本刊三原光学摘要/首次日/正式期次；已有Wiley原平台安全限制不换工具检索缓存绕过。",
+        "独立MJL集合/JCR年与类别/CAS年、完整作者Guide/APC及覆盖年未核，不以方法类题名判直接专刊。"
+      ],
+      "maintenanceTrigger": "合法光学方法原论文与独立分类/指南新证据可读时逐项核三不同正式期次，再判断方法的核心光学贡献。"
     }
   ],
   "formalDataReviews": [
