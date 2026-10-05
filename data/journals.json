@@ -4819,7 +4819,27 @@
       "从本刊 IEEE Author Portal 提交。一般不鼓励 Cover Letter；会议扩展或曾经其他期刊审理须披露：扩展稿附原会议论文和说明新增内容的信，实质增加严谨性/完整性并引用原文；曾被其他刊拒稿须说明既往评审及修改。综述先提案审批后邀请。",
       "允许预印本，鼓励发表时共享复现代码/测试数据。正文延伸式文字/图补充文件不允许，代码、数据、视频等按支持文件清单；图形摘要可选但须随稿评审。"
     ],
-    "publishing": "2026-10-03 按本刊 Revision 10.2 指南：正式发表含图和参考文献超过 8 页必收超页费，第 9–10 页 $250/页，第 11 页起 $350/页；OA 稿同样适用。可选 OA 的当前 APC、税及收费适用时点未独立核实，不从其他 IEEE 刊费率推断。来源：https://ieeetmi.org/authors-instructions/"
+    "publishing": "2026-10-03 按本刊 Revision 10.2 指南：正式发表含图和参考文献超过 8 页必收超页费，第 9–10 页 $250/页，第 11 页起 $350/页；OA 稿同样适用。可选 OA 的当前 APC、税及收费适用时点未独立核实，不从其他 IEEE 刊费率推断。来源：https://ieeetmi.org/authors-instructions/",
+    "scopeExamples": [
+      {
+        "title": "机器人OCT点云体数据拼接与鼠眼流路成像",
+        "source": "https://ieeexplore.ieee.org/document/11037773",
+        "publishedAt": "2025-06-17",
+        "relevance": "机器人OCT多姿态体数据拼接，鼠眼在体房水流路实验，适配生物医学光学/计算成像；青光眼手术仅潜在应用，非临床效能保证。 TMI 44(11), November 2025, 4639–4651；原论文Date of Publication与较晚卷期区分，仅公開摘要/元数据范围，未通读全文或SI。"
+      },
+      {
+        "title": "光声应变成像评估组织微循环",
+        "source": "https://ieeexplore.ieee.org/document/10970112",
+        "publishedAt": "2025-04-18",
+        "relevance": "外力压缩/释放下结合超声与光声实时微循环评估，数值与在体实验；光声方法/后处理适配，非临床诊断效能保证。 TMI 44(8), August 2025, 3299–3310；原论文Date of Publication与较晚卷期区分，仅公開摘要/元数据范围，未通读全文或SI。"
+      },
+      {
+        "title": "OCT血管成像与IVIM-MRI定量关联肿瘤微血管",
+        "source": "https://ieeexplore.ieee.org/document/11156151",
+        "publishedAt": "2025-09-10",
+        "relevance": "9只肿瘤模型鼠OCT血管成像与7T IVIM-MRI同动物空间配准；血管体积分数与f正相关，Doppler相位与Dfast无显著相关，不当所有参数一致或人体临床验证。 TMI 45(2), February 2026, 789–798；原论文Date of Publication与较晚卷期区分，仅公開摘要/元数据范围，未通读全文或SI。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

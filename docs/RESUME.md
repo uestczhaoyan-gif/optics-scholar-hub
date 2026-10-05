@@ -10,7 +10,7 @@
 - 正式目录：99 本期刊、127 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：273 项，208 admitted、58 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 97/99、中科院 11/99；SCIE 肯定记录 85、ESCI 12、EI 92。92 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 85 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
-- 交叉适配样例已有三十六刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
+- 交叉适配样例已有三十七刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 物理学报的三篇样例及2026指南见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
@@ -367,3 +367,7 @@ C31 e48527f27d3b53f1de49ae7a9289ef2908e7f38c已验收[Pages37250421883](https://
 ## 2026-10-05：Photonic Sensors费用年界 E33
 
 E32 d112afdcd50c0a85552517237a19beb0b0b489b4已验收[Pages37250786008](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250786008)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，5e734c1b2d2eb2146480943442c1c4a3b1bb29651c36297be2dd65c6239cd01c与本地一致（2026-10-05T01:17:38.493Z）。 E33补Photonic Sensors作者指南的APC资助年界、摘要及审稿局部字段。只requirements/publishing，整刊日期、既有50稿页建议/Letter四出版页与98其他刊、全索引分区/36样例及其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7保持；其他规划继续。 [字段来源](JOURNAL_GUIDE_EVIDENCE_2026-10-05.md#e33photonic-sensors资助年界)。2027资助/费用待新公告，不外推。
+
+## 2026-10-05：TMI光学样例 E34
+
+E33 33144f9ad12bb1d06dda600903d00d5bf78b1d6b已验收[Pages37250987837](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250987837)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，9ebd40745f4524eef913c24e3b7819a3a4bb830fb45cac162092ae96892ddb95与本地一致（2026-10-05T04:10:11.514Z）。 E34为IEEE TMI补三篇近两年不同期次光学样例：机器人OCT、光声微循环、OCT/MRI同动物定量关联。首次发表与较晚卷期分开，数值/鼠在体及相关性边界保留；只有scopeExamples变化，98其他刊、旧36刊样例、全指南/费用/整刊日期/索引分区与其他JSON保护。至少三篇样例刊数36→37，99刊/127届/10活动、98系列21多届、273候选208/58/7及全部索引/分区计数保持；其他规划继续。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi)。五小时自然恢复后普通使用允许，保持原调度，不启动重复任务或使用重置券。

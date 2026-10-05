@@ -1282,3 +1282,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E33补Photonic Sensors作者指南的APC资助年界、摘要及审稿局部字段。只requirements/publishing，整刊日期、既有50稿页建议/Letter四出版页与98其他刊、全索引分区/36样例及其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7保持；其他规划继续。 [原来源与范围](JOURNAL_GUIDE_EVIDENCE_2026-10-05.md#e33photonic-sensors资助年界)。未知2027政策保留，必要验证/差异审查与构建后上传，按同SHA验收。
 
 - 发布前数据校验、固定d112afd的PhS两字段白名单、旧三指南条/98其他刊/全日期索引分区/36样例及其他JSON保护断言通过；摘要词数/单盲报告数/资助年界和2027未知通过。269本地Markdown链接、维护438项/12主题覆盖、Pages子路径六资源构建exit0和数据/文档差异审查、git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：TMI光学样例 E34
+
+- E33 33144f9ad12bb1d06dda600903d00d5bf78b1d6b已验收[Pages37250987837](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250987837)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，9ebd40745f4524eef913c24e3b7819a3a4bb830fb45cac162092ae96892ddb95与本地一致（2026-10-05T04:10:11.514Z）。正式编辑前已验收，原99刊/127届工作树干净。work/E34_RESEARCH_2026-10-05.md及三篇种子长操作前保存；上窗口98%继续有价值研究，新五小时调度到达时实际1%/周80%允许，自然恢复未用重置券，未创建重复执行任务。
+- E34为IEEE TMI补三篇近两年不同期次光学样例：机器人OCT、光声微循环、OCT/MRI同动物定量关联。首次发表与较晚卷期分开，数值/鼠在体及相关性边界保留；只有scopeExamples变化，98其他刊、旧36刊样例、全指南/费用/整刊日期/索引分区与其他JSON保护。至少三篇样例刊数36→37，99刊/127届/10活动、98系列21多届、273候选208/58/7及全部索引/分区计数保持；其他规划继续。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi)。
+- 三IEEE实际原公开摘要/出版字段、NIH辅助身份读，错误刊名和PMC可读日期剔除，第三篇相关/不相关结果都保留；未访问付费PDF/系统。必要验证与差异审查后上传，按同SHA验收；其他规划继续。
+
+- 发布前数据校验、固定33144f9的TMI仅scopeExamples白名单、98其他刊/旧36样例/全日期指南费用排名索引及全部其他JSON保护断言通过；三近两年首次日/不同卷期/鼠和相关性边界、37刊样例计数通过。317本地Markdown链接、维护438项/12主题覆盖、Pages子路径六资源构建exit0与数据/文档差异审查、git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

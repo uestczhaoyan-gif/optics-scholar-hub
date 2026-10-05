@@ -186,3 +186,5 @@ The series directory links 127 editions to 98 stable conference identities. Foll
 2026-10-05：[光谱/红外两刊F9](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)独立记录学科分区与计算/实验条件；JCR参考97/99。 The [spectroscopy and infrared review](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊) preserves category-specific JIF and experimental exceptions, with JCR references for 97 of 99 journals.
 
 2026-10-05：[ACP/PW历史届](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度)分别保存原年规则与缺口；21系列已有多届。 The [ACP/PW archival review](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c31acppw时间深度) adds two past editions; 21 series now have multiple editions.
+
+2026-10-05：[TMI三篇光学样例](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi)区分首发、卷期与动物/相关性边界；现37刊各至少三篇。 The [three TMI optical examples](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi) preserve publication dates and experimental limits; 37 journals now have at least three examples.
