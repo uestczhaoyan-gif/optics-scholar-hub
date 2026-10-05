@@ -3508,12 +3508,12 @@
     "kind": "journal",
     "priority": 3,
     "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://www.sciencedirect.com/journal/displays",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["displays"],
+    "decisionReason": "官方身份/显示光学范围与MJL SCIE、数据库EI已核，JCR 2025四学科JIF Q2机构转载参考；按主合集准入，非2026/CAS结论。",
+    "nextAction": "补2026独立分区/CAS、费用版本年和统计口径；跟进当期特刊，不从摘要或价段推页限。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-b97e2c19d0",
@@ -3522,12 +3522,12 @@
     "kind": "journal",
     "priority": 3,
     "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
+    "sourceEntry": "https://ieeephotonics.org/publications/journal-of-display-technology/",
+    "reviewStatus": "deferred",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "IEEE Photonics官方明确IEEE/Optica Journal of Display Technology于2016年12月停止生产，末期为2016年10–12月；历史订阅/索引和网站通用征稿菜单不证明目前收稿，暂不进入可投稿目录。",
+    "nextAction": "保留停刊/历史资料；仅有本刊明确官方恢复通知再评估，不推算复刊，也不将学会建议的其他期刊当本刊更名。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-37e929be92",
@@ -3578,12 +3578,12 @@
     "kind": "journal",
     "priority": 3,
     "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://sid.onlinelibrary.wiley.com/journal/19383657",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["journal-society-information-display"],
+    "decisionReason": "官方显示器件范围及三个不同期次光学样例、MJL SCIE与数据库EI已核。JCR 2025 JIF均Q3，以EI工程补充准入，不把AIS Q2作JIF Q2。",
+    "nextAction": "补当前OA金额/许可、匿名评审方式及关键词/协议阶段差异，区分历史模板与现Wiley Authors入口；跟进新年度分区。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-20a7bc3621",

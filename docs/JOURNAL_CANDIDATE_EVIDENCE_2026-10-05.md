@@ -62,3 +62,32 @@
 [COL分发站指南](https://opg.optica.org/ao/col/journal/col/author.cfm)英文摘要/稿件与5/6页冲突实读；RMB4520至4页、额外1000的价表无独立2026版。另普通公开下载[CLP许可](https://researching.cn/Post/files/2025/4/CLP%20CC%20BY%20License_Chinese%20Optics%20Letters_for%20Chinese%20Author.pdf)四页全文及第1/3页渲染确认，明确2025-04-15修订、CC BY4.0、保留作者版权，与旧指南转让声明不同；首段写Green OA，未按搜索片段错误称Gold OA。附中国作者脱密证明，当前系统适用/国际作者条件未核；hash5d8efd74608b22a9eb0cc466150de784e286ce7c18179790c7c4c3cd8cecd0e2。Web曾超时，普通公开下载成功；未签署/上传或绕过验证。
 
 F6新增COL、IEEE JQE/JSTQE/Photonics Journal/PTL五刊，独立MJL SCIE和EI来源表依据；JCR 2025指标2024的15条JIF学科分区保存为机构转载参考，不取AIS或推2026/CAS。COL/JSTQE/PTL有Q1/Q2；JQE/PJ按EI补充，JIF Q3仍保留。当前92刊/118届/10活动、273候选201 admitted/66 pending/6 deferred、SCIE78/ESCI12/EI85、JCR73/CAS11、35刊样例。旧87刊/35样例和其他JSON保护；[逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f6五本直接光学期刊)。其他规划继续。
+
+## F7：显示方向与旧刊状态
+
+核验2026-10-05，新增两刊，只三候选六个审核字段变化，旧92刊与已有35样例全部保持。普通浏览器实读两唯一MJL SCIE结果卡、Displays展开范围/作者指南/首页；Web实读JSID完整指南/2025指标与三个原页公开摘要、IEEE旧刊公告。未登录、投稿、联系或支付，模板/协议内部未核。
+
+| 对象 | 官方来源与实际范围 | 保留未知/准入边界 |
+| --- | --- | --- |
+| Displays | [首页](https://www.sciencedirect.com/journal/displays)、[指南](https://www.sciencedirect.com/journal/displays/publish/guide-for-authors)、[出版者身份](https://shop.elsevier.com/journals/displays/0141-9382)；0141-9382/1872-7387，显示材料器件/ARVR/感知；单匿名≥2，250词摘要/1–7关键词，highlights必需3–5条每85字符，graphical鼓励，数据声明必需但非全数据公开，editable源稿Word/TeX | 整篇硬页限、统计口径、独立2026价表未核；首页可选OA USD2780税外，订阅无publication fee；2/52/120/7天分环节不相加。显示相关视觉AI不等于全部CV；不把2027卷期误当首次发表日。 |
+| JSID | [本刊](https://sid.onlinelibrary.wiley.com/journal/19383657)、[指南](https://sid.onlinelibrary.wiley.com/hub/journal/19383657/forauthors.html)、[指标](https://sid.onlinelibrary.wiley.com/journal/19383657/journal-metrics)；1071-0922/1938-3657，Wiley/SID英文显示理论与实践，四稿型；普通6–10/review10–15通常，Letter2500词/50词摘要、其他200；GTOC强制60词或3句、图优选；初投PDF可、最终editable和分图，≥2专家 | 匿名未知；系统≤6关键词/正文2分语境不统一，初投CTA与生产阶段许可适用待核。USD120/页非出版先决且无版年，当前OA价/许可未知。2025中位数34/63/32各步骤，非时限；新入口Wiley Authors，旧2012模板/ScholarOne不作为现流程。 |
+| IEEE/Optica Journal of Display Technology | [IEEE学会](https://ieeephotonics.org/publications/journal-of-display-technology/)明确2016年12月停止生产，末期October–December2016，历史归档继续订阅 | deferred，不加入当前投稿目录；通用导航征稿不证明复刊，建议其他刊不等于更名，未来恢复未知。 |
+
+[EI公开原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)SERIALS2026-08-07：Displays第1157行纸01419382/电子“-”；JSID第3687行10710922/19383657，Journal/出版者一致；DISCONTINUED2026-05-01无四新号匹配。hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，仅两新目标、覆盖年/单篇未核。MJL两Exact Match标题/出版者/四号与SCIE由结果卡确认，逐刊JSON保存查询入口，不用侧栏filter当结果。
+
+[JCR机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf)2025年6月版、指标2024，785页，hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274。八页原图实看，含p126换行ARCHITECTURE，按JIF首列，不取AIS；secondary，不称2026官方平台或CAS。
+
+| 刊 | JCR 2025 JIF学科/页 |
+| --- | --- |
+| Displays | COMPUTER SCIENCE, HARDWARE & ARCHITECTURE Q2（p126）；ENGINEERING, ELECTRICAL & ELECTRONIC Q2（p236）；INSTRUMENTS & INSTRUMENTATION Q2（p379）；OPTICS Q2（p565） |
+| JSID | ENGINEERING, ELECTRICAL & ELECTRONIC Q3（p242）；MATERIALS SCIENCE, MULTIDISCIPLINARY Q3（p450）；OPTICS Q3（p566）；PHYSICS, APPLIED Q3（p603） |
+
+JSID近两年、三个不同期次公开原论文样例，首次发表与卷期日分别保存，仅实际公开摘要/元数据，未下全文/SI：
+
+| 原文 | first published / 卷期 | 光学适配与边界 |
+| --- | --- | --- |
+| [Thin Maxwellian Virtual Reality Near-Eye Display Using Holographic Optical Element and Mini-Fresnel Lens Array](https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.70065) | 2026-04-03；34(5)254–263 | 2026-10-05核原页公开摘要/元数据，Special Section Paper，34(5)254–263，首次发表2026-04-03。全息光学元件与微型菲涅耳透镜阵列的薄型Maxwell近眼系统，含透射/反射方案验证，适配显示光学；舒适性属应用讨论，未作临床护眼结论。 |
+| [Short range optical communication with GaN-on-Si microLED and microPD matrices](https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.2012) | 2024-11-05；32(12)797–814为2024年12月期 | 2026-10-05核原页公开摘要/元数据，Special Section Paper，32(12)797–814为2024年12月期，首次发表2024-11-05。GaN-on-Si microLED/microPD矩阵短距光互连的TCAD与传输实验，支持显示工艺衍生光电子器件；大规模并行低能耗互连为潜力，未称已成商业多核系统。 |
+| [Analysis of Volume Holographic Gratings With Statistical Distribution](https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.2117) | 2025-12-01；34(2)39–48为2026年2月期 | 2026-10-05核原页公开摘要/元数据，Research Article，34(2)39–48为2026年2月期，首次发表2025-12-01。多周期体全息光栅有限元模型、周期/折射率调制的统计分布与衍射参数分析，并与实验数据比较；适配全息光学建模，不当新量产显示系统。 |
+
+F7新增Displays与JSID两本显示方向期刊，独立MJL SCIE/EI来源表依据；JCR 2025指标2024各四学科JIF分别Q2/Q3，JSID按EI补充而非AIS Q2准入。JSID三篇不同期次近两年光学样例保存首次日期与理论/实验边界。旧JDT因2016停刊改deferred，无自动更名。当前94刊/118届/10活动、273候选203 admitted/63 pending/7 deferred、SCIE80/ESCI12/EI87、JCR92/CAS11、36刊至少三篇样例；旧92刊/35样例和其他JSON保护，其他规划继续。

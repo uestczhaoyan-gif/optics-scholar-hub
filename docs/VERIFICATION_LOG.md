@@ -1221,3 +1221,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - A13补17本已有期刊的27条JCR 2025 JIF学科分区（指标2024），机构转载secondary并保留逐页来源。仅rankings和七刊“分区未知”描述作定向修正，不刷新整刊日期/索引/指南/样例。ESCI身份与JCR独立，CAS11不变；光学精密工程和红外与激光工程在此版新目标刊号无匹配，当前分区仍未知，不等于未收录。当前JCR90/92、CAS11/92，92刊/118届/10活动、273候选201/66/6、SCIE78/ESCI12/EI85和35样例保持；其他规划继续。 [逐页字段与范围](JCR_EVIDENCE_2026-10-05.md)。
 - 缓存原PDF hash保持，仅19新目标刊号定位，17匹配行/16页原图和JIF/AIS表头实际核；27条学科保存secondary，不宣称2026官方平台或CAS。两未匹配继续未知、ESCI不升级SCIE，七描述修正保留准入历史，其余75刊与其他JSON保持。必要验证和差异审查后上传并按同SHA验收，其他规划继续。
 - 发布前数据校验、固定2464e11的17rankings/七description字段白名单、75其他刊/全部索引日期/35样例/CAS与所有其他JSON保护通过；27条JIF、90/92和两未匹配未知、ESCI保持断言通过。305本地Markdown链接、维护421项/12主题、Pages子路径构建六资源exit0、数据及文档差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：显示方向与旧刊状态 F7
+
+- A13 aaa18cfc9f6cd944cebcb337b90eca7c27f3f777已验收[Pages37245676684](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37245676684)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，bb0613eafa63a4f350527f11b952039195b0613aa97c0a833cc6999eb90d0824与本地一致（2026-10-05T00:01:12.595Z）。正式编辑前已验收。work/F7_RESEARCH_2026-10-05.md保存长操作检查点；实际五小时49%/周72%仍允许，不用重置券。
+- F7新增Displays与JSID两本显示方向期刊，独立MJL SCIE/EI来源表依据；JCR 2025指标2024各四学科JIF分别Q2/Q3，JSID按EI补充而非AIS Q2准入。JSID三篇不同期次近两年光学样例保存首次日期与理论/实验边界。旧JDT因2016停刊改deferred，无自动更名。当前94刊/118届/10活动、273候选203 admitted/63 pending/7 deferred、SCIE80/ESCI12/EI87、JCR92/CAS11、36刊至少三篇样例；旧92刊/35样例和其他JSON保护，其他规划继续。 [逐字段证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f7显示方向与旧刊状态)。
+- 两MJL唯一卡与两新EI行、JCR八页JIF/AIS表头和换行标题实核；两刊稿规分别保存硬/软限、图文要求、费用版年/统计口径。JSID三篇不同期首次日期与研究类型保留，旧JDT停止生产原公告实读，未当自动更名。其他JSON/旧刊全保护；必要验证与差异审查后上传，按同SHA验收。其他规划继续。
+- 发布前数据校验、固定aaa18cf的92旧刊/35样例/270其他候选及全部其他JSON保护、三候选六审核字段白名单通过；八条JIF/三首次日期、94/203-63-7和80/12/87、92/11、36样例计数与软硬限/未知边界断言通过。314本地Markdown链接、维护428项/12主题覆盖、Pages子路径构建六资源exit0及差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

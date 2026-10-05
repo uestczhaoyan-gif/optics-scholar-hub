@@ -6837,5 +6837,211 @@
         "note": "2026-10-05核公开SERIALS 2026-08-07版第1996行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。"
       }
     ]
+  },
+  {
+    "id": "displays",
+    "name": "Displays",
+    "abbr": "Displays",
+    "publisher": "Elsevier",
+    "issn": "0141-9382",
+    "eissn": "1872-7387",
+    "website": "https://www.sciencedirect.com/journal/displays",
+    "guide": "https://www.sciencedirect.com/journal/displays/publish/guide-for-authors",
+    "domains": ["光学", "电子", "材料"],
+    "topics": ["成像与计算光学", "电子与器件", "光学材料", "光学设计与制造"],
+    "description": "显示材料、器件、系统及视觉感知期刊，包含柔性显示、三维/近眼显示、AR/VR与显示质量。一般视觉AI须与显示或感知问题相连，不能扩为全部计算机视觉；JCR 2025四学科JIF Q2为机构转载参考。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=126",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=236",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "INSTRUMENTS & INSTRUMENTATION",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=379",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核当前公开Guide：原创研究及教程类论文，先编辑初筛、至少两位单匿名专家评审，编辑决定录用。硬性整篇字数/页限未取得，不用模板推算。",
+      "可编辑Word .doc/.docx采用单栏，LaTeX .tex允许双栏；PDF不是可接受的稿件源文件。英文摘要至多250词、1–7关键词，图片单独提供，补充材料随稿提交并引用。",
+      "Highlights必需：独立可编辑文件，3–5条，每条至多85字符含空格；graphical abstract鼓励提供，并非必需。须提供数据可用性声明，可说明不可用或保密理由，不等于全部原始数据必须公开。",
+      "每位作者简介至多100词，附证件式照片；官方提交入口 https://submit.elsevier.com/DISPLA 。未登录系统，模板/协议内部与实际清单未核。"
+    ],
+    "publishing": "2026-10-05核本刊首页：可选OA APC USD2780（税另计），订阅路径不收publication fee；机构减免资格及其他费用未评估。网页未给独立2026费率版本，不当整年固定价。来源：https://www.sciencedirect.com/journal/displays",
+    "schedule": "2026-10-05核本刊首页四个分别统计的环节：投稿至首次决定2天、投稿至外审后决定52天、投稿至录用120天、录用至在线发表7天。统计年度、样本及均值/中位数口径未给，不相加或保证个稿；特刊截止须另核当期CFP。来源：https://www.sciencedirect.com/journal/displays",
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0141-9382&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号0141-9382唯一Exact Match、刊名/出版社及0141-9382/1872-7387匹配；结果卡Core Collection明确Science Citation Index Expanded。不是侧栏筛选证据，未登录profile或查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核Elsevier公开表SERIALS 2026-08-07版第1157行Journal、刊名/出版者与纸号0141-9382匹配，电子号为“-”，未由此否定官网电子号；DISCONTINUED 2026-05-01版无匹配。只新两刊四号，未扫描旧85刊，覆盖年及订阅单篇未核。"
+      }
+    ]
+  },
+  {
+    "id": "journal-society-information-display",
+    "name": "Journal of the Society for Information Display",
+    "abbr": "JSID",
+    "publisher": "Wiley（代表 Society for Information Display）",
+    "issn": "1071-0922",
+    "eissn": "1938-3657",
+    "website": "https://sid.onlinelibrary.wiley.com/journal/19383657",
+    "guide": "https://sid.onlinelibrary.wiley.com/hub/journal/19383657/forauthors.html",
+    "domains": ["光学", "电子", "材料"],
+    "topics": [
+      "电子与器件",
+      "成像与计算光学",
+      "光学材料",
+      "光学设计与制造",
+      "光通信"
+    ],
+    "description": "信息显示理论与实践，含显示材料、器件、系统和测量。近眼光学、体全息与microLED/microPD论文支持具体光学适配；非全部泛算法。JCR 2025四学科JIF均Q3，按已核实EI工程补充准入，不将OPTICS的AIS Q2作JIF Q2。",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=242",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=450",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=603",
+        "evidence": "secondary"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核当前Wiley指南：英文regular/review/letter/comment四类。普通稿通常6–10印刷页、综述通常10–15页，较长可考虑，非绝对上限；Letter最多2500词且摘要50词，其他稿摘要至多200词。",
+      "投稿时必须提供图文目录GTOC，文字至多60词或3句，图像为优选而非统一必需。系统投稿关键词至多6个，正文段另写2个；不同语境保留，当前一致要求待确认。cover letter须说明稿型/专题。",
+      "初投允许含图PDF，最终稿为可编辑Word/WordPerfect/LaTeX及单独图片；指南要求图片在3英寸宽时600dpi、图注单列，录用后每位作者简介至多500词和照片。模板/许可完整内容未读，不把录用后文件当初投清单。",
+      "至少两位专家评审，匿名方式未知；数据共享为鼓励，不当强制全部开放。当前新投稿入口 https://authors.wiley.com/journal/JSID （实际转Wiley Authors dashboard），不是旧2012模板/ScholarOne流程；未登录。指南版权段同时提初投CTA附件及生产阶段许可，当前适用协议/阶段未核。"
+    ],
+    "publishing": "2026-10-05核本刊指南：页费USD120/印刷页，明确并非发表先决条件，可说明理由申请减免；价段无独立年度，资格未评估，不宣称全部免付。当前本刊OA APC金额及许可未知，不以通用Wiley或旧OnlineOpen资料填价。来源：https://sid.onlinelibrary.wiley.com/hub/journal/19383657/forauthors.html",
+    "schedule": "本刊指标页明确2025中位数：投稿至首次决定34天、投稿至录用63天、录用至发表32天；分开环节，不相加或保证个稿。指南校样要求48小时内返还，Letter快速处理未承诺日数。来源：https://sid.onlinelibrary.wiley.com/journal/19383657/journal-metrics；https://sid.onlinelibrary.wiley.com/hub/journal/19383657/forauthors.html",
+    "scopeExamples": [
+      {
+        "title": "Thin Maxwellian Virtual Reality Near-Eye Display Using Holographic Optical Element and Mini-Fresnel Lens Array",
+        "publishedAt": "2026-04-03",
+        "source": "https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.70065",
+        "relevance": "2026-10-05核原页公开摘要/元数据，Special Section Paper，34(5)254–263，首次发表2026-04-03。全息光学元件与微型菲涅耳透镜阵列的薄型Maxwell近眼系统，含透射/反射方案验证，适配显示光学；舒适性属应用讨论，未作临床护眼结论。"
+      },
+      {
+        "title": "Short range optical communication with GaN-on-Si microLED and microPD matrices",
+        "publishedAt": "2024-11-05",
+        "source": "https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.2012",
+        "relevance": "2026-10-05核原页公开摘要/元数据，Special Section Paper，32(12)797–814为2024年12月期，首次发表2024-11-05。GaN-on-Si microLED/microPD矩阵短距光互连的TCAD与传输实验，支持显示工艺衍生光电子器件；大规模并行低能耗互连为潜力，未称已成商业多核系统。"
+      },
+      {
+        "title": "Analysis of Volume Holographic Gratings With Statistical Distribution",
+        "publishedAt": "2025-12-01",
+        "source": "https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.2117",
+        "relevance": "2026-10-05核原页公开摘要/元数据，Research Article，34(2)39–48为2026年2月期，首次发表2025-12-01。多周期体全息光栅有限元模型、周期/折射率调制的统计分布与衍射参数分析，并与实验数据比较；适配全息光学建模，不当新量产显示系统。"
+      }
+    ],
+    "checkedAt": "2026-10-05",
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1071-0922&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05普通浏览器刊号1071-0922唯一Exact Match、刊名/出版社及1071-0922/1938-3657匹配；结果卡Core Collection明确Science Citation Index Expanded。不是侧栏筛选证据，未登录profile或查单篇，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05核Elsevier公开表SERIALS 2026-08-07版第3687行Journal、刊名/出版者与纸号1071-0922匹配，电子号1938-3657亦匹配；DISCONTINUED 2026-05-01版无匹配。只新两刊四号，未扫描旧85刊，覆盖年及订阅单篇未核。"
+      }
+    ]
   }
 ]
