@@ -5539,7 +5539,27 @@
         "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4170 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
-    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。",
+    "scopeExamples": [
+      {
+        "title": "fNIRS dataset of motor hand-gripping activity using the NIRSport2 system",
+        "source": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-13/issue-S3/S32604/fNIRS-dataset-of-motor-hand-gripping-activity-using-the-NIRSport2/10.1117/1.NPh.13.S3.S32604.full",
+        "publishedAt": "2026-09-16",
+        "relevance": "2026-10-05核原SPIE完整公开摘要、Info出版史Published、题名/卷期文章号/DOI；首次2026-09-16，13(S3),S32604；原论文Sept2026/目录August2026，DOI 10.1117/1.NPh.13.S3.S32604。名义目录月份与实际出版日分开，以Published为首次日。功能近红外光谱开放数据论文：20健康右利手、8×8光极20通道、10.1725Hz记录握手运动皮层血流学光信号并转血红蛋白变化，服务信号处理/BCI研究；非新增传感器硬件或康复疗效验证。 未通读全文/SI。"
+      },
+      {
+        "title": "Analytical model enabling the correction of absorption and scattering in dual-color ratiometric multiphoton microscopy of brain tissue",
+        "source": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-13/issue-03/035007/Analytical-model-enabling-the-correction-of-absorption-and-scattering-in/10.1117/1.NPh.13.3.035007.full",
+        "publishedAt": "2026-09-03",
+        "relevance": "2026-10-05核原SPIE完整公开摘要、Info出版史Published、题名/卷期文章号/DOI；首次2026-09-03，13(3),035007；原论文Sept2026/目录July2026，DOI 10.1117/1.NPh.13.3.035007。名义目录月份与实际出版日分开，以Published为首次日。双颜色比率多光子显微的波长依赖吸收/散射校正解析模型；仿真与啮齿动物活体双光子实验，脑实质/静脉可校正，摘要明确小动脉不能有效校正，不泛化为全部血管适用。 未通读全文/SI。"
+      },
+      {
+        "title": "CoMind R1: a time-resolved interferometric optical neuromonitoring system for pulsatile cerebral blood flow measurement at late times-of-flight",
+        "source": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-13/issue-02/025002/CoMind-R1--a-time-resolved-interferometric-optical-neuromonitoring-system/10.1117/1.NPh.13.2.025002.full",
+        "publishedAt": "2026-03-30",
+        "relevance": "2026-10-05核原SPIE完整公开摘要、Info出版史Published、题名/卷期文章号/DOI；首次2026-03-30，13(2),025002；原论文Mar2026/目录April2026，DOI 10.1117/1.NPh.13.2.025002。名义目录月份与实际出版日分开，以Published为首次日。时间分辨干涉脑血流光监测：1064纳米线性扫频激光、多模采集、并行探测/实时处理，均匀及动态双层仿体与25成人静息/视觉刺激实验；不是已常规临床应用的声明。 未通读全文/SI。"
+      }
+    ]
   },
   {
     "id": "photoacoustics",

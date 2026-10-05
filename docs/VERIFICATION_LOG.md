@@ -1405,3 +1405,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 仅JBO scopeExamples及相关文档/收尾账本变化；其他103刊、旧48样例、整刊/指南核验日期、索引分区/费用及其他JSON和冻结范围保护。固定范围未扩大，必要验证/差异审查后推送并验收同SHA部署。
 
 - 发布前validate、固定56a1d45的其他103刊/旧48样例与目标非scope字段、所有其他JSON/冻结范围字节保护通过；三个Published/三个不同正式期/49数量、IJEM0新增且安全限制、账本3结果/剩3断言通过。399本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据及文档差异审查/git diff --check通过。8正式文件；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：Neurophotonics样例 E42
+
+- E41 2762f986007203e116a5adee8be838d18f9527f6已验收[Pages37325613664](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37325613664)，同SHA完整CI/build/deploy成功，首页/版本200，摘要2465b0b11c23b1433846f9748cc00c5c5dee53128dd67f09afcc6d34c0a6e1eb匹配本地（2026-10-05T14:36:12.591Z）。正式编辑前验收；实际普通额度五小时36%/周6%允许，五小时任务保留，无重置券/购买。work/E42_RESEARCH_2026-10-05.md长操作前保存来源/实际范围。
+- E42补Neurophotonics三篇近两年三个正式期次原摘要/出版史样例，50刊至少三篇；名义期刊月份与Published冲突逐篇保留。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。固定6新增名单4刊已审，剩Photoacoustics/Displays；旧47刊收尾及其他门槛待完成。 [逐篇核验](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e42neurophotonics)。原摘要/Info Published实核，小动脉失败、25成人/20健康受试与数据用途边界保留。只改目标scopeExamples及文档账本，保护旧49样例/103其他刊/非样例所有字段及其他JSON和冻结范围；必要验证及差异审查后推送，同SHA验收。
+
+- 发布前validate、固定2762f98的其他103刊/旧49样例与目标非scope字段、其他JSON/冻结范围字节保护通过；三个Published/三个正式期次、目录月份差异/小动脉失败/25成人和50数量、剩2断言通过。406本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0，差异审查/git diff --check通过。8正式文件，完整31项测试/typecheck/lint由同SHA CI验收。

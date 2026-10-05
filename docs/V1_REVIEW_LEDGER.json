@@ -39,6 +39,18 @@
         "范围仅原完整公开摘要/Info出版史/卷期元数据，未通读全文/SI，不作临床推荐。"
       ],
       "maintenanceTrigger": "正式更正/撤稿或新增更合适样例出现时维护；不反复核相同原页。"
+    },
+    {
+      "journalId": "neurophotonics",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "evidence": "JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e42neurophotonics",
+      "limitations": [
+        "原完整公开摘要/Info出版史/卷期元数据，未通读全文/SI；目录S3/3/2名义月份与论文实际出版月份不同，以Published为首次日，保留原两套标注；小动脉模型失败/25成人研究非临床常规应用明确保留。"
+      ],
+      "maintenanceTrigger": "原页出版更正/撤稿或更合适样例出现后维护；不重复不变来源。"
     }
   ],
   "candidateReviews": [],
