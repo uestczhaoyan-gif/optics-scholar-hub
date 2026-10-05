@@ -5461,7 +5461,27 @@
         "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 3073 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
       }
     ],
-    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。"
+    "schedule": "常规稿与专题通知分别确认；出版频次及历史统计不作为个别稿件审稿时限。",
+    "scopeExamples": [
+      {
+        "title": "Spatio-temporally modulated fluorescence imager for intraoperative nerve identification",
+        "source": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-31/issue-10/106001/Spatio-temporally-modulated-fluorescence-imager-for-intraoperative-nerve-identification/10.1117/1.JBO.31.10.106001.full",
+        "publishedAt": "2026-10-01",
+        "relevance": "2026-10-05核原SPIE完整公开摘要与Info出版史Published（非Received/Accepted）、题名/正式卷期/文章号/DOI；首次2026-10-01，31(10),106001,Oct2026，DOI 10.1117/1.JBO.31.10.106001。线扫描时空调制、空间频率解调及时间门抑制强手术室背景光，实现神经荧光成像；摘要验证为动物活体、人神经离体与灌流截肢标本，不据此声称已常规临床部署。 未通读全文/SI。"
+      },
+      {
+        "title": "Single-fiber reflectance spectroscopy system using unmodified clinical laser fibers for tissue optical property recovery for photodynamic therapy treatment planning",
+        "source": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-31/issue-09/097001/Single-fiber-reflectance-spectroscopy-system-using-unmodified-clinical-laser-fibers/10.1117/1.JBO.31.9.097001.full",
+        "publishedAt": "2026-09-02",
+        "relevance": "2026-10-05核原SPIE完整公开摘要与Info出版史Published（非Received/Accepted）、题名/正式卷期/文章号/DOI；首次2026-09-02，31(9),097001,Sept2026，DOI 10.1117/1.JBO.31.9.097001。用未改装临床光纤和半经验光子路径模型反演吸收及约化散射谱；三根同型光纤、亚甲蓝/Intralipid仿体实验支持光动力治疗计划的概念验证，非患者治疗效果或新系统FDA批准结论。 未通读全文/SI。"
+      },
+      {
+        "title": "Freeform extended depth-of-focus intraocular lens for more robust performance against physiological variations",
+        "source": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-31/issue-08/085002/Freeform-extended-depth-of-focus-intraocular-lens-for-more-robust/10.1117/1.JBO.31.8.085002.full",
+        "publishedAt": "2026-08-25",
+        "relevance": "2026-10-05核原SPIE完整公开摘要与Info出版史Published（非Received/Accepted）、题名/正式卷期/文章号/DOI；首次2026-08-25，31(8),085002,Aug2026，DOI 10.1117/1.JBO.31.8.085002。自由曲面眼内透镜设计：合成眼数据库、多色Visual Strehl/OTF、3/5毫米瞳孔比较标准、优化及预测曲面，减少个体生物测量差异影响；摘要范围为光学仿真，非真实患者临床验证。 未通读全文/SI。"
+      }
+    ]
   },
   {
     "id": "neurophotonics",

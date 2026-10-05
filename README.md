@@ -216,3 +216,5 @@ The series directory links 133 editions to 98 stable conference identities. Foll
 V1.0建设以[固定范围和结项门槛](docs/PROJECT_CLOSEOUT.md)为终点；当前仍在收尾。验收后标记V1.0_ACCEPTED，停止建设自动任务，保留每日来源巡检和网站版本更新。 V1.0 has a frozen scope and explicit acceptance gates; construction ends on acceptance, with existing source monitoring and version refresh retained for maintenance.
 
 2026-10-05：[COMST样例E40](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst)核三篇近年综述；48刊至少三篇样例，COMST仅两个正式卷/期的限制明确保留。 Three recent COMST surveys are verified; the sample set covers only two formal volumes/issues, with that limitation retained.
+
+2026-10-05：[JBO样例E41](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41jbo)核三不同正式期次原摘要/出版史，49刊至少三篇样例；[IJEM证书访问限制](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41ijem访问限制)保留，未伪补样例。 Three JBO samples from distinct issues are verified; IJEM access limitations remain explicit.

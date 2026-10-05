@@ -1397,3 +1397,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 新增逐项V1账本仅COMST结果，其余候选/正式数据/核心系列未标完成。冻结名单保持，G4剩五新增刊、其他门槛继续；必要验证后提交推送并按同SHA验收。
 
 - 发布前validate、固定3c43b17的103其他刊/47旧样例及目标除scopeExamples字段、所有其他JSON/冻结范围字节保护通过；三真实首发/48数量/两个正式卷期及1限制审核、5剩余断言通过。386本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据及文档差异审查/git diff --check通过；本批8正式文件，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：JBO样例与IJEM访问收尾 E41
+
+- E40 56a1d453514da4f355baec0a78f75425686eb682已验收[Pages37323422250](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37323422250)，同SHA完整CI/build/deploy成功，首页/版本200，摘要433ed778a7742f04221794a7229e5227adb40f7cee119f024a37538620cc8c24匹配本地（2026-10-05T14:25:06.239Z）。正式编辑前完成验收；干净工作区，无未推提交。长操作前work/E41_RESEARCH_2026-10-05.md保存实际来源/范围，普通额度允许（五小时26%/周4%），原五小时任务保持，不重置或购买。
+- E41为JBO补三不同正式期次近两年原论文样例，49刊至少三篇；IJEM实际证书限制已审查，0新增样例，不用检索片段代替原摘要。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。固定6新增样例名单已审COMST/IJEM/JBO，剩Neurophotonics/Photoacoustics/Displays；其余门槛未完成。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41jbo)/[实际限制](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e41ijem访问限制)。JBO三个原完整公开摘要/Info出版史实核，实验与仿真分开，文章号不冒充页码。IJEM安全警告停止且不重复旧反机器人导航，不据搜索片段填样例。
+- 仅JBO scopeExamples及相关文档/收尾账本变化；其他103刊、旧48样例、整刊/指南核验日期、索引分区/费用及其他JSON和冻结范围保护。固定范围未扩大，必要验证/差异审查后推送并验收同SHA部署。
+
+- 发布前validate、固定56a1d45的其他103刊/旧48样例与目标非scope字段、所有其他JSON/冻结范围字节保护通过；三个Published/三个不同正式期/49数量、IJEM0新增且安全限制、账本3结果/剩3断言通过。399本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据及文档差异审查/git diff --check通过。8正式文件；完整31项测试/typecheck/lint由同SHA CI验收。

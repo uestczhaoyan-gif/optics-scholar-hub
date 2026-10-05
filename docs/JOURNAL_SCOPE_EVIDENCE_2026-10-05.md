@@ -87,3 +87,21 @@ E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外
 为检验第三不同期次，实际核27(1)三篇元数据：[6G Optical Fronthaul10546919](https://ieeexplore.ieee.org/document/10546919)首发2024-06-03、629–666、DOI10.1109/COMST.2024.3408090；[Deep Space10536009](https://ieeexplore.ieee.org/document/10536009)首发2024-05-21、725–747、DOI10.1109/COMST.2024.3403873；[Passive Optical Networks10522488](https://ieeexplore.ieee.org/document/10522488)首发2024-05-07、667–724、DOI10.1109/COMST.2024.3397690。三者名义February2025不覆盖真实首次日，均不纳近两年样例。两篇其他检索命中：[Underwater RL10766420](https://ieeexplore.ieee.org/document/10766420)及[VNE10845765](https://ieeexplore.ieee.org/document/10845765)公开摘要/可读预览未给明确光学内容，不能仅凭optical命中认定适配。未声称全文无光学内容。
 
 未通读全文/SI；复核原稿型指南/APC/索引分区不在本批范围，整刊checkedAt保持。E40补COMST三篇近两年光学综述样例，保存仅两个正式卷/期的样本限制；不把三篇数量当三不同期次。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11不变，48刊至少三篇样例。固定G4新增待审六刊中COMST已审查并保留限制，剩余五刊；其余门槛未完成。
+
+## E41：IJEM访问限制
+
+核验2026-10-05。已有正式来源[IJEM官网](https://www.ijemnet.com/)实际访问返回ERR_CERT_COMMON_NAME_INVALID，无法验证证书；立即停止，不忽略TLS、不改HTTP或用别的工具穿过安全警告。[出版商IOP](https://iopscience.iop.org/)域名在独立检索工具中受robots.txt限制，不绕过。[旧E26核验](VERIFICATION_LOG.md#2026-10-04photoacoustics与ijem指南-e26)已保存收费页第三方访问控制限制，本批不重试。
+
+一次针对当年激光论文的检索定位到期刊原链接如[双波段抗反射窗口](https://www.ijemnet.com/article/doi/10.1088/2631-7990/ae2074)、[CNT复合薄膜激光微纳结构](https://www.ijemnet.com/article/doi/10.1088/2631-7990/ae4e8f)、[微光学成像部件综述](https://www.ijemnet.com/article/doi/10.1088/2631-7990/ae22a8)；仅作为未来入口，不把搜索摘要、抓取时间或页头名义月份当真实首次日/完整摘要。未读取三原论文，0新增scopeExamples，未知原刊适配样例及不同期次仍明确保留；不是期刊不适配或无论文的结论。影响仅固定G4样例补充，旧身份/指南/索引分区保持；证书修复或合法原出版论文/出版史可读时再维护。
+
+## E41：JBO
+
+核验2026-10-05。[本刊官方主页](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics)、[当前31(10)](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/current)、其上一期31(9)及31(8)实际目录→原论文→Info出版史Published。仅三个原完整公开摘要、题名、DOI、卷期文章号和出版史，未通读全文/SI。三不同正式期，首次均在2024-10-05之后且不晚于核验日；文章号不是页码。
+
+| 原论文 | 首次/正式卷期文章号/DOI | 适配与验证边界 |
+| --- | --- | --- |
+| [Spatio-temporally modulated fluorescence imager for intraoperative nerve identification](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-31/issue-10/106001/Spatio-temporally-modulated-fluorescence-imager-for-intraoperative-nerve-identification/10.1117/1.JBO.31.10.106001.full) | 2026-10-01；31(10),106001,Oct2026；10.1117/1.JBO.31.10.106001 | 线扫描时空调制、空间频率解调及时间门抑制强手术室背景光，实现神经荧光成像；摘要验证为动物活体、人神经离体与灌流截肢标本，不据此声称已常规临床部署。 |
+| [Single-fiber reflectance spectroscopy system using unmodified clinical laser fibers for tissue optical property recovery for photodynamic therapy treatment planning](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-31/issue-09/097001/Single-fiber-reflectance-spectroscopy-system-using-unmodified-clinical-laser-fibers/10.1117/1.JBO.31.9.097001.full) | 2026-09-02；31(9),097001,Sept2026；10.1117/1.JBO.31.9.097001 | 用未改装临床光纤和半经验光子路径模型反演吸收及约化散射谱；三根同型光纤、亚甲蓝/Intralipid仿体实验支持光动力治疗计划的概念验证，非患者治疗效果或新系统FDA批准结论。 |
+| [Freeform extended depth-of-focus intraocular lens for more robust performance against physiological variations](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-31/issue-08/085002/Freeform-extended-depth-of-focus-intraocular-lens-for-more-robust/10.1117/1.JBO.31.8.085002.full) | 2026-08-25；31(8),085002,Aug2026；10.1117/1.JBO.31.8.085002 | 自由曲面眼内透镜设计：合成眼数据库、多色Visual Strehl/OTF、3/5毫米瞳孔比较标准、优化及预测曲面，减少个体生物测量差异影响；摘要范围为光学仿真，非真实患者临床验证。 |
+
+出版史三篇分别Received2026-05-22/05-11/01-30、Accepted08-28/08-13/07-13、Published10-01/09-02/08-25，不把收稿/接受日当首次日。不重新核指南、费用、分区索引，整刊checkedAt及其余字段保留。E41为JBO补三不同正式期次近两年原论文样例，49刊至少三篇；IJEM实际证书限制已审查，0新增样例，不用检索片段代替原摘要。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。固定6新增样例名单已审COMST/IJEM/JBO，剩Neurophotonics/Photoacoustics/Displays；其余门槛未完成。
