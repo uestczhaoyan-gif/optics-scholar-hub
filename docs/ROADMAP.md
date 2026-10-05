@@ -4,7 +4,7 @@
 
 ## V1.0 的终点与范围
 
-用户于2026-10-05要求明确结项，当前状态为 `IN_PROGRESS`。执行范围以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 及 [固定ID名单](V1_SCOPE.json) 为准：当前104刊/133届/98系列/10活动/273候选为基线；初始固定60未收尾候选、6刊样例、12核心系列及正式数据质量与最终验收。下方扩充方向是背景与后续版本发现池，不再自动增长本版必做任务。
+用户于2026-10-05要求明确结项，当前状态为 `IN_PROGRESS`。执行范围以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 及 [固定ID名单](V1_SCOPE.json) 为准：冻结104刊/133届/98系列/10活动/273候选为基线；初始固定60未收尾候选、6刊样例、12核心系列及正式数据质量与最终验收。下方扩充方向是背景与后续版本发现池，不再自动增长本版必做任务。
 
 六项门槛全部验收后写入 **`项目状态：V1.0_ACCEPTED`** 并附发布SHA、Pages、线上摘要及限制交接，停止五小时建设自动任务。已审查的未知/冲突/受限来源单列限制，不要求无限重试或滚动维护队列为零；日常来源变化转入维护阶段。
 
@@ -12,7 +12,7 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **104 本期刊、133 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **106 本期刊、133 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
@@ -31,12 +31,12 @@
 
 | 项目                  | 已有记录的期刊数 | 尚需处理                                                                                                                            |
 | --------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| JCR 分区              | 102 / 104          | 其余 2 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
-| 中科院分区            | 11 / 104          | 其余 93 本；同时核对版本、大类、小类，未知不补造                                                                                    |
-| SCIE 肯定记录         | 90 / 104          | 其余 14 本没有肯定记录；不等于未被收录                                                                                              |
-| EI Compendex 肯定记录 | 97 / 104          | 其余 7 本没有肯定记录；不等于未被收录                                                                                               |
-| ESCI 肯定记录         | 12 / 104          | 独立保存，不换算为 SCIE                                                                                                             |
-| 数据库方索引证据      | EI 97 / SCIE 90  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 90 / ESCI 12 查询；两类期刊有重叠 |
+| JCR 分区              | 104 / 106          | 其余 2 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
+| 中科院分区            | 11 / 106          | 其余 95 本；同时核对版本、大类、小类，未知不补造                                                                                    |
+| SCIE 肯定记录         | 92 / 106          | 其余 14 本没有肯定记录；不等于未被收录                                                                                              |
+| EI Compendex 肯定记录 | 99 / 106          | 其余 7 本没有肯定记录；不等于未被收录                                                                                               |
+| ESCI 肯定记录         | 12 / 106          | 独立保存，不换算为 SCIE                                                                                                             |
+| 数据库方索引证据      | EI 99 / SCIE 92  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 92 / ESCI 12 查询；两类期刊有重叠 |
 
 JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。固定53刊已完成一次光学适配收尾：48刊三不同正式卷/期、5刊已审查限制，见 [V1样例收尾](V1_SCOPE_REVIEW_2026-10-05.md)。目前五十二刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI、E37的IEEE TGRS、E38的IEEE TCYB、F13的IEEE EDL、F14的IEEE TED、E39的Proceedings of the IEEE、E40的IEEE COMST（两个正式卷/期限制保留）、E41的JBO、E42的Neurophotonics、E43/E44的Photoacoustics/Displays；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
@@ -775,3 +775,7 @@ V1-G4 72f3b7ab3369e62a4110c45530d3af95127f349a已验收[Pages37330142798](https:
 ## 2026-10-05：候选收尾 V1-G3A
 
 V1-G5 fdf32bb9641e4780dd95fa974faad1c1faaa65db已验收[Pages37330930498](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37330930498)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:14:05.130Z）。 V1-G3A收尾固定15候选（13会议/论坛、2停收期刊）：7 deferred均有真实官方暂停/冲突依据，8 pending保留独立身份/CFP/访问缺口；原状态、数据与reviewedAt全部不变。45期刊未本次收尾，G3未完成；G4/G5已完成，整体IN_PROGRESS。 [逐项范围](V1_CANDIDATE_REVIEW_2026-10-05.md)。继续固定45期刊及G2正式质量，完成后最终功能/发布验收；不扩充范围，原五小时检查保持。
+
+## 2026-10-05：候选五刊 V1-G3B
+
+V1-G3A 176cb3661d101caa84de493300856f48f40b1949已验收[Pages37331759844](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37331759844)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:20:59.885Z）。 V1-G3B核实五期刊候选：Journal of Optics与Journal of Biophotonics两直接专刊准入（后者保留JIF Q3、通过新EI证据）；三ACS交叉刊保留三原论文/访问限制。固定60已有20实核结论、剩40未审；106刊/133届/10活动、273候选215 admitted/51 pending/7 deferred、SCIE92/ESCI12/EI99、JCR104/CAS11，52刊至少三篇样例。G4/G5已完成，G3/G2等尚未完成，整体IN_PROGRESS。 [原来源/实际范围](V1_CANDIDATE_REVIEW_2026-10-05.md#v1-g3b五个期刊候选)。继续固定剩40期刊及正式质量/最终验收；原五小时检查保持，不另扩范围。

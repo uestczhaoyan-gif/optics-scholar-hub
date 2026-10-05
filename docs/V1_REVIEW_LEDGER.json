@@ -887,6 +887,75 @@
         "查组织方最终日程或会后报道，区分微显示论坛与 XR 生态大会的层级及日期后再收录。"
       ],
       "maintenanceTrigger": "查组织方最终日程或会后报道，区分微显示论坛与 XR 生态大会的层级及日期后再收录。"
+    },
+    {
+      "candidateId": "journal-8fd54e1127",
+      "checkedAt": "2026-10-05",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-8fd54e1127",
+      "formalIds": ["journal-of-optics"],
+      "limitations": [
+        "中科院分区、覆盖年份与分阶段审稿周期未知；作者指南仅所列部分实读。"
+      ],
+      "maintenanceTrigger": "复查后续分区版本与费率变更；未核指南细则及审稿周期按新官方证据补充。"
+    },
+    {
+      "candidateId": "journal-53f9130564",
+      "checkedAt": "2026-10-05",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": "2026-09-13",
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-53f9130564",
+      "formalIds": ["journal-of-biophotonics"],
+      "limitations": [
+        "完整作者指南导航触发安全验证后停止；当前公开入口仅Overview的范围条件。",
+        "费用、详细格式、周期和中科院分区未知；近期主页预览不充当三篇原论文样例。"
+      ],
+      "maintenanceTrigger": "有合法可读作者指南后补稿型格式、收费与周期；后续新分区按版本单独核实，不把Q3改成Q2。"
+    },
+    {
+      "candidateId": "journal-cc5eeb48e1",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-cc5eeb48e1",
+      "formalIds": [],
+      "limitations": [
+        "本刊原刊页实际403；未核实三篇不同正式期次原摘要。",
+        "本次未核MJL、完整分区版本或费用；不据PDF文本筛选保存正式分区。"
+      ],
+      "maintenanceTrigger": "出现合法可读原论文后逐篇核实三篇不同正式期次光学样例；分区及指南未读细则、收费再逐字段核实。"
+    },
+    {
+      "candidateId": "journal-ce281d073c",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-ce281d073c",
+      "formalIds": [],
+      "limitations": [
+        "没有对AMI原论文作独立403断言；本次尚无三篇实读原摘要。",
+        "可读作者指南不等于完整期刊原文核实，未保存未经视觉复核的分区。"
+      ],
+      "maintenanceTrigger": "在合法可读原论文条件下核实三篇不同正式期次光学样例，并补当前分区/收费及指南剩余细则。"
+    },
+    {
+      "candidateId": "journal-cfc5cdfa47",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-cfc5cdfa47",
+      "formalIds": [],
+      "limitations": [
+        "About实际403；当前实读指南为宽能源范围，光学样例仍缺。",
+        "本次未核MJL、完整分区版本或本刊APC，不凭搜索片段填入。"
+      ],
+      "maintenanceTrigger": "合法原文可读后核实光伏/光电转换等三篇不同正式期次近年样例；不将无光学关联的储能内容纳入适配，并补分区/收费细则。"
     }
   ],
   "formalDataReviews": [],

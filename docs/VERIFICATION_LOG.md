@@ -1438,3 +1438,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G3A收尾固定15候选（13会议/论坛、2停收期刊）：7 deferred均有真实官方暂停/冲突依据，8 pending保留独立身份/CFP/访问缺口；原状态、数据与reviewedAt全部不变。45期刊未本次收尾，G3未完成；G4/G5已完成，整体IN_PROGRESS。 [原链接/逐项依据/后续条件](V1_CANDIDATE_REVIEW_2026-10-05.md)。只文档/账本变化，全部目录与冻结范围字节保护，未审45项/其他门槛不标完成；必要验证差异审查后推送同SHA验收。
 
 - 发布前validate、全部data/冻结范围字节保护、15唯一固定候选/7原deferred全覆盖、原状态/实核日期不变及45未审保留、旧G4/G5与其他门槛不变断言通过；384本地Markdown链接、维护453项/12主题、差异审查和git diff --check通过。纯文档复用已验收本地六资源构建/目录摘要，同SHA CI执行完整31测试/typecheck/lint/build/deploy验收。
+
+## 2026-10-05：候选五刊 V1-G3B
+
+- V1-G3A 176cb3661d101caa84de493300856f48f40b1949已验收[Pages37331759844](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37331759844)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:20:59.885Z）。正式编辑前验收；work/V1_G3B_RESEARCH_2026-10-05.md保存实际范围，普通额度五小时74%/周12%允许；原五小时任务保持，无购买/重置。
+- V1-G3B核实五期刊候选：Journal of Optics与Journal of Biophotonics两直接专刊准入（后者保留JIF Q3、通过新EI证据）；三ACS交叉刊保留三原论文/访问限制。固定60已有20实核结论、剩40未审；106刊/133届/10活动、273候选215 admitted/51 pending/7 deferred、SCIE92/ESCI12/EI99、JCR104/CAS11，52刊至少三篇样例。G4/G5已完成，G3/G2等尚未完成，整体IN_PROGRESS。 [逐字段来源与限制](V1_CANDIDATE_REVIEW_2026-10-05.md#v1-g3b逐字段证据与核验边界)。本次新EI仅查五目标，未重复旧97；三JCR表页实读，两个MJL唯一结果卡实核，指南部分阅读边界/安全验证停止明确保留。必要验证/差异审查后推送并同SHA部署验收。
+
+- 发布前validate、固定176cb36的旧104刊/52样例、其余268候选及所有其他JSON/冻结范围字节保护通过；2直接准入/3实际限制、20唯一固定审核ID/40未审保留、JBIO三JIF Q3/指南范围限制和旧G4/G5/其他门槛不变断言通过。456本地Markdown链接（含README）、维护457项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查及git diff --check通过。9正式文件（含双语README同步），完整31测试/typecheck/lint由同SHA CI验收。

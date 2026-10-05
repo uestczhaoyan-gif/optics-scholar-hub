@@ -8086,5 +8086,137 @@
         "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2026-09-04，73(10),October2026,6187–6192，DOI 10.1109/TED.2026.3728405。254nm β-Ga2O3探测器配双通道互补事件处理电路，实测双极性spike与响应小于7.5ms/10V阈值条件；阵列级边缘检测与手势运动跟踪是基于实验参数的模拟。光电器件和事件读出共同贡献，不当已制造/实测完整相机阵列。 未通读全文或SI，首次日与正式卷期分开。"
       }
     ]
+  },
+  {
+    "id": "journal-of-optics",
+    "name": "Journal of Optics",
+    "abbr": "J Opt",
+    "publisher": "IOP Publishing",
+    "topics": ["综合光学", "量子光学", "集成光子", "生物医学光学"],
+    "description": "IOP 的光学专刊，关注光学基础、光子器件及应用中的实质进展；与印度同名期刊分开识别。",
+    "website": "https://publishingsupport.iopscience.iop.org/journals/journal-of-optics/about-journal-of-optics/",
+    "guide": "https://publishingsupport.iopscience.iop.org/journals/journal-of-optics/",
+    "requirements": [
+      "2026-10-05核验本刊范围及部分IOP指南：研究论文无固定篇幅上限；Letters最多3500词并附紧迫性说明，Topical Reviews通常邀稿。纯数值或材料/算法工作须体现实质光学进展。",
+      "可选择单匿名或双匿名；初投格式灵活，Word/LaTeX模板可选。摘要通常最多300词为IOP通用指南规则；关键词数量和其他未读细则保持待核实。"
+    ],
+    "publishing": "2026-10-05核验混合出版：订阅路径免费；可选Gold OA（CC BY）APC GBP2655/EUR3050/USD3665，另计适用VAT；无投稿费或其他出版费。页面未标费率年度，机构协议及减免资格需个别确认。来源：https://publishingsupport.iopscience.iop.org/journals/journal-of-optics/about-journal-of-optics/",
+    "schedule": "常规稿与邀稿分开；本次未取得本刊分阶段审稿周期，不作个稿时长承诺。",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      }
+    ],
+    "issn": "2040-8978",
+    "eissn": "2040-8986",
+    "domains": ["光学", "物理", "电子"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2040-8986&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询唯一 Exact Match；刊名、出版社与印刷/电子刊号一致，结果卡明确列出 Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索，覆盖起止年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Compendex 数据库方公开来源表 SERIALS（2026-08-07版）第3481行：刊名、Journal类型及已知印刷/电子刊号匹配；DISCONTINUED（2026-05-01版）无匹配。未作订阅平台单篇检索，覆盖年份未知。"
+      }
+    ]
+  },
+  {
+    "id": "journal-of-biophotonics",
+    "name": "Journal of Biophotonics",
+    "abbr": "JBIO",
+    "publisher": "Wiley-VCH",
+    "topics": ["生物医学光学", "成像与计算光学", "传感与测量"],
+    "description": "以光子技术与生医、生命及环境研究的交汇为核心，涵盖光学成像、光谱及光子治疗方法。按已核实EI工程补充路径收录。",
+    "website": "https://onlinelibrary.wiley.com/journal/18640648",
+    "guide": "https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html",
+    "requirements": [
+      "2026-10-05核验公开Overview的投稿范围：光子内容须居核心；纯技术开发须以真实生医样品验证其收益，纯理论AI工作不属于所述范围。研究与综述稿型分别处理。",
+      "当前“作者指南 / 投稿”入口为已读取的Overview范围条件，非已核完整格式指南。后续导航出现安全验证后停止；摘要/篇幅、文件模板及其他投稿细则待合法访问核实。"
+    ],
+    "publishing": "本次未核实本刊出版选项、APC及其他收费；不能将Wiley通用协议当本刊费率或推断免费。",
+    "schedule": "本次未核实分阶段审稿时长；首页未标年度的统计不作为年度记录或个稿承诺。",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "BIOCHEMICAL RESEARCH METHODS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=41",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "BIOPHYSICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=55",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "OPTICS",
+        "level": "category",
+        "quartile": 3,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566",
+        "evidence": "secondary"
+      }
+    ],
+    "issn": "1864-063X",
+    "eissn": "1864-0648",
+    "domains": ["光学", "生物医学"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1864-0648&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Clarivate MJL 公开查询唯一 Exact Match；刊名、出版社与印刷/电子刊号一致，结果卡明确列出 Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索，覆盖起止年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "Compendex 数据库方公开来源表 SERIALS（2026-08-07版）第3077行：刊名、Journal类型及已知印刷/电子刊号匹配；DISCONTINUED（2026-05-01版）无匹配。未作订阅平台单篇检索，覆盖年份未知。"
+      }
+    ]
   }
 ]

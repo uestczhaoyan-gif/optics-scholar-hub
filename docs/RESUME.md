@@ -15,9 +15,9 @@
 - 仓库：https://github.com/uestczhaoyan-gif/optics-scholar-hub ，默认分支 main。
 - 网站：https://uestczhaoyan-gif.github.io/optics-scholar-hub/ 。本地项目文件夹为 D:/ZYphd/开源项目1-光学期刊&会议汇总。
 - 9/15 交接提交为 7b3e27c；9/30 会议维护提交 1515ec6（Pages 36704905503）与 Compendex A1 提交 f77161d（Pages 36705869178）已确认 build/deploy 成功。本次后续提交与部署以 git log、Actions 和最新核验日志为准，不回退到历史提交。
-- 正式目录：104 本期刊、133 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
-- 候选：273 项，213 admitted、53 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
-- JCR 有记录 102/104、中科院 11/104；SCIE 肯定记录 90、ESCI 12、EI 97。97 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 90 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
+- 正式目录：106 本期刊、133 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
+- 候选：273 项，215 admitted、51 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
+- JCR 有记录 104/106、中科院 11/106；SCIE 肯定记录 92、ESCI 12、EI 99。99 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 92 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
 - 交叉适配样例已有五十二刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI、Applied Physics Letters、IEEE TIE、IEEE Sensors Journal、IEEE TIP、IEEE TCI、IEEE TGRS、IEEE TCYB、IEEE EDL、IEEE TED、Proceedings of the IEEE、IEEE COMST（仅两个正式卷/期，限制见E40）、JBO（三不同正式期次，E41）、Neurophotonics（E42）及Photoacoustics/Displays（E43/E44）。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 物理学报的三篇样例及2026指南见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
@@ -455,3 +455,7 @@ V1-G4 72f3b7ab3369e62a4110c45530d3af95127f349a已验收[Pages37330142798](https:
 ## 2026-10-05：候选收尾 V1-G3A
 
 V1-G5 fdf32bb9641e4780dd95fa974faad1c1faaa65db已验收[Pages37330930498](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37330930498)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:14:05.130Z）。 V1-G3A收尾固定15候选（13会议/论坛、2停收期刊）：7 deferred均有真实官方暂停/冲突依据，8 pending保留独立身份/CFP/访问缺口；原状态、数据与reviewedAt全部不变。45期刊未本次收尾，G3未完成；G4/G5已完成，整体IN_PROGRESS。 [逐项范围](V1_CANDIDATE_REVIEW_2026-10-05.md)。继续固定45期刊及G2正式质量，完成后最终功能/发布验收；不扩充范围，原五小时检查保持。
+
+## 2026-10-05：候选五刊 V1-G3B
+
+V1-G3A 176cb3661d101caa84de493300856f48f40b1949已验收[Pages37331759844](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37331759844)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:20:59.885Z）。 V1-G3B核实五期刊候选：Journal of Optics与Journal of Biophotonics两直接专刊准入（后者保留JIF Q3、通过新EI证据）；三ACS交叉刊保留三原论文/访问限制。固定60已有20实核结论、剩40未审；106刊/133届/10活动、273候选215 admitted/51 pending/7 deferred、SCIE92/ESCI12/EI99、JCR104/CAS11，52刊至少三篇样例。G4/G5已完成，G3/G2等尚未完成，整体IN_PROGRESS。 [原来源/实际范围](V1_CANDIDATE_REVIEW_2026-10-05.md#v1-g3b五个期刊候选)。继续固定剩40期刊及正式质量/最终验收；原五小时检查保持，不另扩范围。

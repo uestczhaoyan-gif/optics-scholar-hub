@@ -1894,11 +1894,11 @@
     "priority": 1,
     "scopeHint": "成像方法、仪器和临床应用的范围差异",
     "sourceEntry": "https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "光学适配明确，但本轮 JCR 2025 三学科 JIF 分区均 Q3；光学 AIS Q2 不能替代 JIF Q2。官方列表未明确 EI，未满足本批准入证据。",
-    "nextAction": "核实更新年度 JIF/CAS 分区或 EI 声明；不因本批缺乏准入证据永久排除。",
-    "reviewedAt": "2026-09-13"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["journal-of-biophotonics"],
+    "decisionReason": "新核Compendex来源表第3077行及刊号匹配，原EI缺口已补足；按直接生物光学专刊的EI工程补充路径准入。MJL当前SCIE独立确认；JCR2025三学科JIF Q3原样保留，AIS Q2不替代JIF Q2。",
+    "nextAction": "有合法可读作者指南后补稿型格式、收费与周期；后续新分区按版本单独核实，不把Q3改成Q2。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-8fd54e1127",
@@ -1907,12 +1907,12 @@
     "kind": "journal",
     "priority": 1,
     "scopeHint": "不凭名称推定符合 1/2 区",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://publishingsupport.iopscience.iop.org/journals/journal-of-optics/about-journal-of-optics/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["journal-of-optics"],
+    "decisionReason": "IOP光学专刊身份2040-8978/2040-8986已核；JCR2025（指标2024）OPTICS JIF Q2机构转载，MJL当前SCIE及Compendex来源表第3481行EI各独立保存，符合准入。印度同名刊不混同。",
+    "nextAction": "复查后续分区版本与费率变更；未核指南细则及审稿周期按新官方证据补充。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-cbeaaca16c",
@@ -2089,12 +2089,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光电器件、光学功能材料、发光与探测",
-    "sourceEntry": null,
+    "sourceEntry": "https://researcher-resources.acs.org/publish/author_guidelines?coden=aaembp",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方作者指南的应用电子材料/光电光子范围及部分稿型规则；EI来源表第76行2637-6113已匹配，准入索引线索充分。原刊页实际403，检索论文题名不代替原摘要；仍缺近两年不同期次三篇光学适配原论文，保留pending。",
+    "nextAction": "出现合法可读原论文后逐篇核实三篇不同正式期次光学样例；分区及指南未读细则、收费再逐字段核实。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-ce281d073c",
@@ -2103,12 +2103,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光电器件、光学功能材料、发光与探测",
-    "sourceEntry": null,
+    "sourceEntry": "https://researcher-resources.acs.org/publish/author_guidelines?coden=aamick",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读2026-08-27更新的官方指南范围/部分稿型规则，明确光电及材料界面适配；EI来源表第78行1944-8244/1944-8252已匹配。尚未完成近两年三不同正式期次的光学原论文核实；ACS其他两刊域内请求受限，不把指南范围当样例，保留pending。",
+    "nextAction": "在合法可读原论文条件下核实三篇不同正式期次光学样例，并补当前分区/收费及指南剩余细则。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-cfc5cdfa47",
@@ -2117,12 +2117,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光伏、光热、光催化及光电转换，排除无光学关联内容",
-    "sourceEntry": null,
+    "sourceEntry": "https://researcher-resources.acs.org/publish/author_guidelines?coden=aelccp",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方指南的能源转换/储存、紧迫性及部分Letters规则；EI来源表第85行2380-8195已匹配。原About请求实际403，检索中的光伏/发光线索不作已核原论文；尚缺三篇不同正式期次光学相关原摘要，保留pending。",
+    "nextAction": "合法原文可读后核实光伏/光电转换等三篇不同正式期次近年样例；不将无光学关联的储能内容纳入适配，并补分区/收费细则。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-0062f1323b",
