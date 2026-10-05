@@ -1531,3 +1531,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G3F实审5固定候选，保留pending及实际范围/限制；固定60已审40（3准入、37限制）、余20。正式质量60/250未完成，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 实际从Wiley-VCH出版社Journals目录逐个点击五刊独立商品页，实读每刊公开范围、稿型若列出及ISSN；排除搜索误出的同名2014能源图书/2023量子图书。五页不是受限Wiley Online Library原论文代理，不沿Read online重进已有安全验证的论文平台；本批五刊未各自收到新的403或验证，不造五次拒绝。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3f)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
 
 - 发布前validate、五候选四字段/其他268候选及全部正式目录/冻结范围字节保护、旧候选/正式/G4/G5及final账本不变、40唯一ID断言通过；422本地文件链接、七文件实际差异及git diff --check通过。Node24.20 Pages子路径六入口构建exit0，维护460项/12主题273候选；原2022能源JIF和EI学科栏未冒充现年分区。五小时57%/周24%允许普通使用，继续固定未审事项，同SHA CI再验31测试/typecheck/lint/build与部署，未使用重置券。
+
+## 2026-10-06：正式质量 V1-G2I
+
+- 2cf6c96d2aabf8970da7f30a58819bf960bbf8fe已验收[Pages 37379061180](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37379061180)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:56:43.690Z）。正式编辑前HEAD=origin/main。实际逐项读七APS刊全部JSON字段，六刊JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md完整早晚历史及正式准入段、PRXQ E3独立指南/费用与E4样例原记录、G4 PRXQ期次收尾。复用已实读官方来源、MJL公开卡及原缓存行/目视JIF表，不重新网络查询不变资料；APS主题页旧安全验证停止范围及PRB两摘要缓存/Research主题与Crossref元数据边界明确保留。不是今日全原论文或登录流程复验。 因PRXQ旧EI注记载体范围歧义，定点实读同一哈希Compendex缓存第4999行：印刷列“-”/电子26913399，旧10/02已读为第一次，本次为第二次；仅修正该note，未刷新整刊/索引日期或重扫源表。
+- V1-G2I实审7刊正式字段质量，累计67/250、余183；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅PRXQ的EI载体注记修正，身份、分区与索引计数保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2i)。长操作前work/V1-G2I-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+
+- 发布前validate、PRXQ单个EI note的精确差异/其余106刊与全部其他data及冻结范围、旧60正式审查/候选/G4/G5/final账本不变、67唯一kind:id及完整digest断言通过；483本地文件链接、全部真实文档/数据/账本差异及git diff --check通过。Node24.20子路径六入口构建exit0；已有维护460项/12主题计数保持。同SHA CI完整31测试/typecheck/lint/build并核线上新摘要；五小时63%/周25%普通允许，继续固定剩余。

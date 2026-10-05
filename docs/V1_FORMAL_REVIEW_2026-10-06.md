@@ -237,3 +237,88 @@ Chinese Optics Letters；Chinese Laser Press（Optica Publishing Group 海外发
 - 未解决内容及影响：正文5/收费6页及旧版权转让/新非独占许可冲突保留；当前系统适用协议、许可地域条件、模板内部与电子号/CAS/覆盖年未知。；费率版本/税/价格基准日及阶段统计样本未知；不把Green表述变Gold或支付超页费当硬限放宽。
 - 维护触发：CLP/分发站明确页限和当前系统许可、独立年度价表/版年分区后维护；不同字段来源保留而不擅选。
 - 全字段内容摘要c1450380005b7a97088623c40c3eccfbc7b459a11418c3af03bdb9538deb061c，基于77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2I
+
+实际逐项读七APS刊全部JSON字段，六刊JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md完整早晚历史及正式准入段、PRXQ E3独立指南/费用与E4样例原记录、G4 PRXQ期次收尾。复用已实读官方来源、MJL公开卡及原缓存行/目视JIF表，不重新网络查询不变资料；APS主题页旧安全验证停止范围及PRB两摘要缓存/Research主题与Crossref元数据边界明确保留。不是今日全原论文或登录流程复验。 因PRXQ旧EI注记载体范围歧义，定点实读同一哈希Compendex缓存第4999行：印刷列“-”/电子26913399，旧10/02已读为第一次，本次为第二次；仅修正该note，未刷新整刊/索引日期或重扫源表。 本次正式字段质量累计67/250，余183未审；G3 40/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## physical-review-a
+
+Physical Review A；American Physical Society；原checkedAt 2026-10-03，admitted候选journal-e8b3796f20一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/pra/authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#physical-review-a)。2469-9926/9934双身份；Regular无统一上限、Letters4500需说明优先处理、Perspective仅邀稿、Comment3500；DAS/AI/返修材料已读，Letter专门结构摘要内容未核。可选OA2910按提交至实际发表刊时点，印刷彩色1090/595无版年、在线免费，两类费用独立。三期111(6)/112(2)/113(1)分别量子光源理论、THG摘要及EIT实验，不把预测作实器件。JCR2025指标2024 OPTICS Q2 secondary；MJL/源表4381身份与原范围独立。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=568)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=2469-9926&hide_exact_match_fl=true)；Clarivate MJL 公开浏览器查询：刊号 2469-9926 返回唯一 Exact Match，刊名/刊号一致，结果卡明确 Science Citation Index Expanded。未登录完整 profile 或做单篇检索，覆盖起止未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官方 Compendex SERIALS（2026-08-07 版）第 4381 行，Journal 刊名/刊号匹配；DISCONTINUED（2026-05-01 版）无同名匹配。印刷/电子两刊号均匹配。未做订阅平台逐篇检索，覆盖起止未知。
+- 未解决内容及影响：普通摘要上限、Letter结构摘要全部细则/模板源码及登录上传未读，不能把PDF评审可用当生产稿全要求。；税/减免资格/其他收费与审稿时长、索引覆盖起止和单篇入库未核；无版年印刷彩图价格不冒充2026定价，CAS未知。
+- 维护触发：APS新年度费用/本刊指南、MJL集合变化或样例更正及滑出窗口时逐字段更新，保留稿型与费用边界。
+- 全字段内容摘要971596ef79cc61f2608f74524d7b26581f3d1cc69090eba6b7927f89c1c7251d，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+## physical-review-applied
+
+Physical Review Applied；American Physical Society；原checkedAt 2026-10-03，admitted候选journal-e6e4373a42一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/prapplied/authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#physical-review-applied)。仅在线2331-7019，CD-ROM2331-7043不当纸刊；Review30000/Letter4500/Comment3500，Perspective邀稿可一页提案、Research/Letter初投100词说明，不继承PRA仅邀限制。可选OA2910提交时点定价。22(6)模型/23(1)Kerker微波实验/26(2)波导QED理论三期光学范围，非都可见光器件实验。JIF应用物理Q2，AIS Q1不替代；EI4382只在线匹配。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=2331-7019&hide_exact_match_fl=true)；Clarivate MJL 公开浏览器查询：刊号 2331-7019 返回唯一 Exact Match，刊名/刊号一致，结果卡明确 Science Citation Index Expanded。未登录完整 profile 或做单篇检索，覆盖起止未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官方 Compendex SERIALS（2026-08-07 版）第 4382 行，Journal 刊名/刊号匹配；DISCONTINUED（2026-05-01 版）无同名匹配。只匹配在线 2331-7019；表中印刷为“-”，CD-ROM 2331-7043 不作印刷刊号。未做订阅平台逐篇检索，覆盖起止未知。
+- 未解决内容及影响：摘要硬限/模板源码、登录生产材料与印刷或非OA其他费用未核，不把可选APC当总必付或其余全免。；MJL只公开卡、源表非逐篇入库/覆盖年，CAS/税/具体减免与处理周期未知；理论尺度律不称普遍量子极限突破。
+- 维护触发：本刊独立Guide/APC或正式分类新版以及原样例更正/过窗时核对应字段，CD-ROM载体和JIF/AIS继续分开。
+- 全字段内容摘要4b9807f173201ef953ebeda64edfe2ccfab494b33c4ec4d0e96f51d7426c6e56，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+## physical-review-b
+
+Physical Review B；American Physical Society；原checkedAt 2026-10-03，admitted候选journal-c594bd317c一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/prb/authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#physical-review-b)。2469-9950/9969匹配EI4383；三独立JCR类别材料/应用物理/凝聚态Q2均2025指标2024 secondary。Letter4500、Comment3500、三类Perspective不套PRA仅邀稿，AdditionalMaterials未另列不复制PRL重要性或PRX通俗摘要。可选OA2910，彩图1090/595无版年，在线免费。111(4)/111(7)/112(8)光子回波实验、极化激元模型与vdW BIC模拟；后两旧原直开内部错误但原摘要缓存及Crossref登记范围已记录，不改称今天新原页实读。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MATERIALS SCIENCE, MULTIDISCIPLINARY/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604)；JCR/JCR 2025（指标2024）/category/PHYSICS, CONDENSED MATTER/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=607)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=2469-9950&hide_exact_match_fl=true)；2026-10-03 正常浏览器 MJL 刊号 2469-9950 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Science Citation Index Expanded。未登录 profile 或做单篇检索，覆盖起止未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4383 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。印刷/电子刊号分别匹配。未做订阅平台单篇检索，覆盖起止未知。
+- 未解决内容及影响：后两原摘要旧缓存与原题/登记元数据分别，既有主题页安全验证不绕过；不声称付费全文或模型实验复现。；普通摘要上限/完整模板登录、CAS/税/其他收费/覆盖起止及单篇入库未知，印刷彩图表无版年，Letter优先不保证周期。
+- 维护触发：本刊正式指南/年度费用或MJL/分类及原文更正出现时核变化字段，合法原文可读再补实际读取范围，不复查安全入口。
+- 全字段内容摘要518e2e47ec43e0b9cbe2f59088abb9b01898d83ad54420c879abd04e1a2dbc62，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+## physical-review-letters
+
+Physical Review Letters；American Physical Society；原checkedAt 2026-10-03，admitted候选journal-1f130b1b67一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/prl/authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#physical-review-letters)。0031-9007/1079-7114、MJL SCIE与EI4386，JCR2025综合物理JIF Q1 secondary。Letter3750核心+最多两页EndMatter不计核心，Comment/Reply750，委托Essay3750，初投100词意义说明；不复制其他APS4500或3500。可选OA4140，SCOAP3高能资格不套普通光学。三期134(12)/134(24)/136(6)光学伪自旋类比/量子点Purcell/频分检测光学传感；量子极限限无损，类比非磁材料实测。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=0031-9007&hide_exact_match_fl=true)；2026-10-03 正常浏览器 MJL 刊号 0031-9007 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Science Citation Index Expanded。未登录 profile 或做单篇检索，覆盖起止未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4386 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。印刷/电子刊号分别匹配。未做订阅平台单篇检索，覆盖起止未知。
+- 未解决内容及影响：摘要硬限、模板源码与登录生产步骤未核；EndMatter例外不是任意超长豁免，后者需编辑批准。；印刷及其他费用/税/减免、CAS/覆盖年/逐篇索引与个稿周期未知，100词初投说明不是PRX Popular Summary。
+- 维护触发：Letter/EndMatter/费用或索引分类新规则、原样例更正及过窗时按本刊独立字段更新。
+- 全字段内容摘要5f4045fe3a539e11c4d1696b0a7d533c85b089ed318b00cf41971be37d92c21c，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+## physical-review-research
+
+Physical Review Research；American Physical Society；原checkedAt 2026-10-03，admitted候选journal-4f36df3adf一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/prresearch/authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#physical-review-research)。在线2643-1564，源表4388号码在印刷列但出版社在线身份为准，不声称两列一致。MJL ESCI confirmed、SCIE unverified，综合物理Q1不升SCIE。完全OA2910，Letter4500、Comment3500、Perspective邀稿可提案且须未来挑战不接受仅综述白皮书。三期7(1)/7(3)/8(3)干涉理论/1550nm低光子通信实验/198Hg光钟；14.5按received与检测效率分开，光钟原主题摘要+登记元数据不是新直开原页或已星际网络。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612)
+- 独立索引：SCIE/unverified/无肯定依据，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=2643-1564&hide_exact_match_fl=true)；当前 MJL 公开卡只明确 ESCI，未得 SCIE 依据，SCIE 保留待核验；Q1 分区与 EI 不能替代 SCIE。；ESCI/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=2643-1564&hide_exact_match_fl=true)；2026-10-03 正常浏览器 MJL 刊号 2643-1564 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Emerging Sources Citation Index。未登录 profile 或做单篇检索，覆盖起止未知。ESCI 不转换为 SCIE，JCR 分区亦不能证明 SCIE。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4388 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。号码 26431564 位于源表印刷列、电子列“-”；出版社仅在线身份为准，明确载体列差异，不声称两列均匹配。未做订阅平台单篇检索，覆盖起止未知。
+- 未解决内容及影响：光钟旧独立页工具错误及APS主题安全验证范围保留；不上调原摘要/元数据证据层级，不造全英文公式题名。；摘要硬限/登录生产步骤/税其他费用/CAS及覆盖年/逐篇索引未知，ESCI/Q1/EI三事实不合并SCIE。
+- 维护触发：MJL真实集合变更、Guide/APC新版或样例更正/过窗时补独立证据；不因Q1自动刷新SCIE。
+- 全字段内容摘要eb16f9ac32f117788e991e5e7ea0d7601d3166ee0865455f215f5efd2a3b8cb6，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+## physical-review-x
+
+Physical Review X；American Physical Society；原checkedAt 2026-10-03，admitted候选journal-ffb2a8ae1b一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/prx/authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#physical-review-x)。仅在线2160-3308、EI4389不从重复JCR号码造纸刊；综合物理JIF Q1与SCIE来源独立。Research无统一上限、Perspective邀稿7500、Comment3500，无移植Letter。发表前Popular Summary最多150词面向非本领域，另有内部Author Summary，非初投100词。完全OA4685提交时点定价。16(1)/(2)/(3)频率拓扑/光子晶体散射/自由空间猫态三期原范围，损耗有残余、频率类比非电子输运、容错计算机未建成。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-03 [来源](https://mjl.clarivate.com/search-results?issn=2160-3308&hide_exact_match_fl=true)；2026-10-03 正常浏览器 MJL 刊号 2160-3308 查询，唯一 Exact Match 的标题/刊号匹配，公开卡明确 Science Citation Index Expanded。未登录 profile 或做单篇检索，覆盖起止未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-03 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 官方来源表 SERIALS（2026-08-07 版）第 4389 行，Journal 标题/号码匹配；DISCONTINUED（2026-05-01）无同名匹配。只匹配电子刊号，印刷列“-”；不从 JCR 转录的重复号码生成印刷身份。未做订阅平台单篇检索，覆盖起止未知。
+- 未解决内容及影响：普通摘要硬限/完整模板登录、印刷及其他收费/税/减免/CAS与覆盖年/单篇索引未核，高选择性不是周期承诺。；通俗摘要与内部推广字段不同、三原摘要不等全文实验审计或未来架构已部署；不复制PRXQ Tutorial。
+- 维护触发：本刊稿型/摘要阶段/APC或独立数据库/原论文更正及过窗出现变化再更新。
+- 全字段内容摘要9005d8665383205e53539105cad8c99e023eb3214203456d39e2c1594225c757，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+## prx-quantum
+
+PRX Quantum；American Physical Society；原checkedAt 2026-09-11，admitted候选journal-1ca49b48ed一对一。
+
+- 全部字段与原依据：[本刊指南](https://journals.aps.org/prxquantum/authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e3六刊指南或收费补充)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e4五刊十五篇)、[原记录3](V1_SCOPE_REVIEW_2026-10-05.md#prx-quantum)。在线2691-3399、MJL SCIE及EI4999原身份核验2026-10-02，整刊checkedAt9/11不刷今日。JCR2025应用物理Q1 secondary不是所有量子题都光学。Research无统一上限、Perspective7500/Tutorial37500通常邀稿可咨询提案、Comment3500独立本刊。发表前要求通俗摘要建议约150词，不将PRX最多150硬限套入；完全OA3590按实际刊提交时点，免APC稿型与资格分别。6(1)/6(2)/7(1)三原论文中文概述可回原英题，光子图态/融合计算/量子成像均理论计算，不当成实制网络或行星观测。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2691-3399&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2691-3399 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官方 Compendex 来源表 SERIALS（2026-08-07 版）第 4999 行，PRX Quantum/Journal/APS 与电子 2691-3399 匹配；印刷列为“-”，不能称印刷/电子双刊号匹配或生成印刷身份。DISCONTINUED（2026-05-01 版）原核无同名匹配。2026-10-06 因旧载体注记歧义定点实读同一已校验缓存的第4999行，未重扫或下载新版；原索引核验日保持2026-10-02。未进行订阅平台单篇检索，覆盖起止年未知。
+- 未解决内容及影响：正式普通摘要限制/全文模板登录、税其他费用/具体减免/CAS/覆盖年与逐篇入库未知；三样例为中文等价概述非逐字原英文题。；跨量子系统研究仍需核心光学关联，通俗摘要建议不是其他刊硬限；原整刊与字段核验日各自保留。
+- 维护触发：本刊独立Guide/APC或MJL/JCR新版、原论文更正及过窗时维护；若需要英文题按合法原记录补，不改造旧概述为未读新题。
+- 全字段内容摘要c4c588a967572d58535d6a8909e202f69a9233d8cabba4d2a74a6c29637ac28c，基于2cf6c96d2aabf8970da7f30a58819bf960bbf8fe；不是官网内容指纹，不表示未知已补齐。
+
+### V1-G2I：PRXQ载体注记修正
+
+实读既有哈希5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39的同版Compendex第4999行：PRX Quantum/Journal/APS、印刷列空标记、电子26913399。旧“印刷/电子匹配”容易误读双载体，修为只匹配电子；原出版社issn:null/eissn:2691-3399不变。仅一索引note及本次新审查digest变化，原checkedAt/分区/索引状态和其他106刊不变，不重复下载或当新版。

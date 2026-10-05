@@ -2587,6 +2587,160 @@
         "当届旧终日差异保留；2027JRS会后截稿不是下一届会议，下一届日城CFP未知，不绕过Wiley受限域。"
       ],
       "maintenanceTrigger": "主办方更正贡献/旧终日或独立下一届正式公告后维护；专刊规则与会议路线各自审查。"
+    },
+    {
+      "kind": "journal",
+      "id": "physical-review-a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "971596ef79cc61f2608f74524d7b26581f3d1cc69090eba6b7927f89c1c7251d",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#physical-review-a",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通摘要上限、Letter结构摘要全部细则/模板源码及登录上传未读，不能把PDF评审可用当生产稿全要求。",
+        "税/减免资格/其他收费与审稿时长、索引覆盖起止和单篇入库未核；无版年印刷彩图价格不冒充2026定价，CAS未知。"
+      ],
+      "maintenanceTrigger": "APS新年度费用/本刊指南、MJL集合变化或样例更正及滑出窗口时逐字段更新，保留稿型与费用边界。"
+    },
+    {
+      "kind": "journal",
+      "id": "physical-review-applied",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4b9807f173201ef953ebeda64edfe2ccfab494b33c4ec4d0e96f51d7426c6e56",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#physical-review-applied",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要硬限/模板源码、登录生产材料与印刷或非OA其他费用未核，不把可选APC当总必付或其余全免。",
+        "MJL只公开卡、源表非逐篇入库/覆盖年，CAS/税/具体减免与处理周期未知；理论尺度律不称普遍量子极限突破。"
+      ],
+      "maintenanceTrigger": "本刊独立Guide/APC或正式分类新版以及原样例更正/过窗时核对应字段，CD-ROM载体和JIF/AIS继续分开。"
+    },
+    {
+      "kind": "journal",
+      "id": "physical-review-b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "518e2e47ec43e0b9cbe2f59088abb9b01898d83ad54420c879abd04e1a2dbc62",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#physical-review-b",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "后两原摘要旧缓存与原题/登记元数据分别，既有主题页安全验证不绕过；不声称付费全文或模型实验复现。",
+        "普通摘要上限/完整模板登录、CAS/税/其他收费/覆盖起止及单篇入库未知，印刷彩图表无版年，Letter优先不保证周期。"
+      ],
+      "maintenanceTrigger": "本刊正式指南/年度费用或MJL/分类及原文更正出现时核变化字段，合法原文可读再补实际读取范围，不复查安全入口。"
+    },
+    {
+      "kind": "journal",
+      "id": "physical-review-letters",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "5f4045fe3a539e11c4d1696b0a7d533c85b089ed318b00cf41971be37d92c21c",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#physical-review-letters",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要硬限、模板源码与登录生产步骤未核；EndMatter例外不是任意超长豁免，后者需编辑批准。",
+        "印刷及其他费用/税/减免、CAS/覆盖年/逐篇索引与个稿周期未知，100词初投说明不是PRX Popular Summary。"
+      ],
+      "maintenanceTrigger": "Letter/EndMatter/费用或索引分类新规则、原样例更正及过窗时按本刊独立字段更新。"
+    },
+    {
+      "kind": "journal",
+      "id": "physical-review-research",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "eb16f9ac32f117788e991e5e7ea0d7601d3166ee0865455f215f5efd2a3b8cb6",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#physical-review-research",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "光钟旧独立页工具错误及APS主题安全验证范围保留；不上调原摘要/元数据证据层级，不造全英文公式题名。",
+        "摘要硬限/登录生产步骤/税其他费用/CAS及覆盖年/逐篇索引未知，ESCI/Q1/EI三事实不合并SCIE。"
+      ],
+      "maintenanceTrigger": "MJL真实集合变更、Guide/APC新版或样例更正/过窗时补独立证据；不因Q1自动刷新SCIE。"
+    },
+    {
+      "kind": "journal",
+      "id": "physical-review-x",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9005d8665383205e53539105cad8c99e023eb3214203456d39e2c1594225c757",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#physical-review-x",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通摘要硬限/完整模板登录、印刷及其他收费/税/减免/CAS与覆盖年/单篇索引未核，高选择性不是周期承诺。",
+        "通俗摘要与内部推广字段不同、三原摘要不等全文实验审计或未来架构已部署；不复制PRXQ Tutorial。"
+      ],
+      "maintenanceTrigger": "本刊稿型/摘要阶段/APC或独立数据库/原论文更正及过窗出现变化再更新。"
+    },
+    {
+      "kind": "journal",
+      "id": "prx-quantum",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c4c588a967572d58535d6a8909e202f69a9233d8cabba4d2a74a6c29637ac28c",
+      "formalReviewBase": "2cf6c96d2aabf8970da7f30a58819bf960bbf8fe",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#prx-quantum",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "正式普通摘要限制/全文模板登录、税其他费用/具体减免/CAS/覆盖年与逐篇入库未知；三样例为中文等价概述非逐字原英文题。",
+        "跨量子系统研究仍需核心光学关联，通俗摘要建议不是其他刊硬限；原整刊与字段核验日各自保留。"
+      ],
+      "maintenanceTrigger": "本刊独立Guide/APC或MJL/JCR新版、原论文更正及过窗时维护；若需要英文题按合法原记录补，不改造旧概述为未读新题。"
     }
   ],
   "coreSeriesReviews": [
