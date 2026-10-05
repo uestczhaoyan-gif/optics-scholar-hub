@@ -2518,12 +2518,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "计算成像、光学反演、医学成像方法",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-tci"],
+    "decisionReason": "官方成像形成范围、MJL SCIE/双号EI、两学科JCR2025 JIF原图及近两年三个年度卷光学样例核实；Q1/Q2参考准入，不用成像AIS Q1或CAS猜值。",
+    "nextAction": "补官方JCR/CAS、模板/系统细项及本刊周期统计；跟进2027 APC，保留页费出版页与初稿/修订上限区别。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-9203e76297",

@@ -7663,5 +7663,93 @@
         "relevance": "2026-10-05核原IEEE公开摘要/元数据：25(15)28390–28396，卷期2025-08-01。Ag膜MMF–SMF–MMF级联SPR，PVA–GO与PDMS通道分别响应湿度/温度，实验支撑多参量光纤传感；农业储存/工业/气象为适用方向，非实际部署证明。未通读收费全文或SI。"
       }
     ]
+  },
+  {
+    "id": "ieee-tci",
+    "name": "IEEE Transactions on Computational Imaging",
+    "abbr": "IEEE TCI",
+    "publisher": "IEEE / IEEE Signal Processing Society",
+    "issn": "2573-0436",
+    "eissn": "2333-9403",
+    "domains": ["光学", "信息与计算", "电子"],
+    "topics": ["成像与计算光学", "电子与器件"],
+    "description": "计算参与图像形成的理论、反演、非常规采集、计算硬件/软件及成像系统；三不同年度卷近两年光学样例支持交叉适配，不能只因后处理AI或成像应用名称就判适合。官网含基础理论，指南又提示实验数据不足可直接拒稿，需按具体贡献判断。JCR2025电电子Q1/成像Q2为机构转载参考，CAS待核。",
+    "website": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging",
+    "guide": "https://signalprocessingsociety.org/publications-resources/information-authors/",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=365",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2333-9403&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05实核MJL唯一Exact Match卡：IEEE TRANSACTIONS ON COMPUTATIONAL IMAGING/IEEE、2573-0436/2333-9403，CoreCollection SCIE；非左侧filters，未登录profile或单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05仅新目标核SERIALS2026-08-07第2063行Journal/IEEE Transactions on Computational Imaging/25730436/23339403/IEEEInc；DISCONTINUED2026-05-01无两号，不重扫94旧刊。来源表非单篇检索，覆盖年未知。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊主页所链接SPS指南：常规初稿13双栏页上限，PDF/10pt/单倍行距/四边至少1英寸，含图表附录证明参考；修订16双栏页，附录/证明计补充。SI建议不超6双栏页，超出须EIC批准；不是把常规稿限为10出版页。来源：https://signalprocessingsociety.org/publications-resources/information-authors/",
+      "摘要150–250词，自足、无缩写/脚注/陈列公式/引用；所有作者ORCID与EDICS分类。初始graphical abstract（可选）/SI若拟随文出版须一并供审；LaTeX/Word模板链接已给，模板内部未核。当前指南称Author Portal Manuscripts但链接仍mc.manuscriptcentral.com/sps-ieee，未声称已迁新入口。来源：https://signalprocessingsociety.org/publications-resources/information-authors/",
+      "Comment Correspondence不超2双栏页/9pt；Overview先联系EIC并经white paper批准，篇幅各阶段为常规两倍。会议稿至多6双栏页可作为扩展基础，须引用原稿并说明清晰新增收益，没有固定新增百分比；相关预印本/既往拒稿史须按指南披露。来源：https://signalprocessingsociety.org/publications-resources/information-authors/",
+      "单盲、每篇至少2独立评审、录用前查重；官网鼓励公开复现代码/数据，并非所有数据必须公开的无例外规定。仅常规公开指南范围，系统文件清单和版权细项未核。来源：https://signalprocessingsociety.org/publications-resources/information-authors/ 与 https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging"
+    ],
+    "publishing": "2026-10-05核本刊链接的SPS指南及IEEE2026 APC：hybrid可选OA USD2800，按提交日期、税适用时另加；IEEE会员5%/Society或Council20%，非学生且不叠加、不用于超页费。常规首10出版页USD110/页自愿，超10部分USD220/页强制，OA仍收超页费；Overview无强制超页，在线彩免费。页费独立生效年未知，2027 APC未知。来源：https://signalprocessingsociety.org/publications-resources/information-authors/ 与 https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "2026-10-05本刊主页/链接指南未取得本刊首决、审稿至录用或发表时长统计；保持未知，不移用其他SPS期刊指标。来源：https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging 与 https://signalprocessingsociety.org/publications-resources/information-authors/",
+    "scopeExamples": [
+      {
+        "title": "High-Performance Accelerated Architecture for Diffraction Image Reconstruction Used in Lensless Imaging System",
+        "source": "https://ieeexplore.ieee.org/document/11693022",
+        "publishedAt": "2026-09-16",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2026-09-16、年度卷12:1580–1592、DOI 10.1109/TCI.2026.3734444，原页无期号不补造。无透镜衍射重建的可配置硬件加速，双寄存器/反馈路径降低访存，原摘要报告与CPU/FPGA的速度/能效和重建精度比较；光学计算硬件路径，不造临床细胞诊断效能。 未通读收费全文或SI。"
+      },
+      {
+        "title": "Towards Robust and Generalizable Lensless Imaging With Modular Learned Reconstruction",
+        "source": "https://ieeexplore.ieee.org/document/10908470",
+        "publishedAt": "2025-02-28",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2025-02-28、年度卷11:213–227、DOI 10.1109/TCI.2025.3539448，原页无期号不补造。掩膜无透镜成像的预处理必要性理论、幅度/相位掩膜跨数据集实验与迁移；开放四数据集，展示成像模型/学习重建共同贡献，不当所有未知设备域的保证。 未通读收费全文或SI。"
+      },
+      {
+        "title": "CalibFPA: A Focal Plane Array Imaging System Based on Online Deep-Learning Calibration",
+        "source": "https://ieeexplore.ieee.org/document/10720339",
+        "publishedAt": "2024-10-16",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；first 2024-10-16、年度卷10:1650–1663、DOI 10.1109/TCI.2024.3477312，原页无期号不补造。压电台移动预印固定编码孔径、物理驱动DL在线校正像差、低分辨率复用测量的高分辨率重建；模拟及实验数据验证，光学系统与反演结合，不当一般图像后处理。 未通读收费全文或SI。"
+      }
+    ]
   }
 ]

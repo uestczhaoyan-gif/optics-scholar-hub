@@ -20,7 +20,7 @@
 
 已实现 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，支持索引、领域、收录范围与分区组合筛选。索引数据仍在逐刊核验，未核实记录明确标注。
 
-- **期刊目录**：101 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、ESCI、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
+- **期刊目录**：102 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、ESCI、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
 - **会议日历**：130 届国内外会议，包括 OFC、CLEO、COS、ECOC、FiO + LS、Photonics West、AOPC、AOP、EOSAM、OECC & IP、ICOCN 等；分别记录投稿、PDP、注册、通知及终稿时间。历史届次保留供查阅，不据此推算下一届。
 - **系列与往届**：98 个稳定系列关联 130 届会议，可查历届要求、关注整个系列及导出未结束届次。后续官方公告审核入库后自动归入同系列。已结束系列每 30 天进入下一届公告核验队列。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
@@ -36,7 +36,7 @@
 3. 学校采用当年或前一年版本时，分别选择对应年份。首版保存已找到的 **2025 中科院升级版公开参考**；尚未核实的 2026 中科院记录不以“新锐分区”等其他版本代替。
 4. 来源分为官方披露、依据官方排名推算、第三方公开参考。第三方参考必须通过学校图书馆的 [中科院分区入口](https://www.fenqubiao.com/) 复核。
 5. 默认显示全部已收录期刊；选择分区体系后仅匹配当前所选维度的 1 / 2 区。EI 补充可以没有分区，需用“不限分区”查看。展开区保留其他学科记录，例如大类 2 区不代表光学小类也是 2 区。
-6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 94 本 Compendex 来源表核验及 87 本当前 SCIE、12 本 ESCI 的 MJL 查询；见[来源表与 MJL 记录](docs/INDEX_EVIDENCE_2026-10-02.md)及[新增五刊依据](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)、[APS六刊依据](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)；来源表不等于单篇检索，页面未列某索引不代表未收录。新增光子学报/物理学报、COL/IEEE五刊及光谱刊休刊的边界见[F4–F10记录](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。仅更新字段时不刷新整刊核验日期。
+6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 95 本 Compendex 来源表核验及 88 本当前 SCIE、12 本 ESCI 的 MJL 查询；见[来源表与 MJL 记录](docs/INDEX_EVIDENCE_2026-10-02.md)及[新增五刊依据](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)、[APS六刊依据](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)；来源表不等于单篇检索，页面未列某索引不代表未收录。新增光子学报/物理学报、COL/IEEE五刊及光谱刊休刊的边界见[F4–F10记录](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。仅更新字段时不刷新整刊核验日期。
 
 JCR 首批主要依据 [Optica 官方 2026 JCR 指标表](https://opg.optica.org/content/author/portal/item/style-metrics/)；所有具体记录的来源在 `data/journals.json`。排名推算使用 `ceil(rank / total × 4)`，并非数据库官方核验结果；并列排名或官方规则差异以 JCR 为准。
 
@@ -105,11 +105,11 @@ The [expansion backlog](docs/EXPANSION_PLAN.md) lists optics and interdisciplina
 
 The [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) now support SCI/SCIE, EI Compendex, dual-index filters, ranking years/categories, subject fields and an EI engineering supplement. Index evidence is reviewed incrementally; publisher declarations are distinguished from database verification and unknowns remain explicit.
 
-94 journals now have EI evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026), with ISSN matches and row references in the [evidence record](docs/INDEX_EVIDENCE_2026-10-02.md). This is database-provider evidence, not an article-level subscription-platform search. Eighty-seven SCIE records and twelve ESCI records also have current public Clarivate Master Journal List evidence; see the [latest matches](docs/INDEX_EVIDENCE_2026-10-02.md). The [five newly admitted journals](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md) retain their additional matches; the [six APS journals](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md) provide the subsequent evidence. The [Chinese optical journal review](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md) adds Acta Photonica Sinica and Acta Physica Sinica through the EI supplement and keeps a journal on a 2026 publishing hiatus deferred. The same evidence page adds COL and four IEEE photonics titles, with JIF and AIS kept separate and COL guide conflicts retained. Coverage years remain unknown.
+95 journals now have EI evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026), with ISSN matches and row references in the [evidence record](docs/INDEX_EVIDENCE_2026-10-02.md). This is database-provider evidence, not an article-level subscription-platform search. Eighty-eight SCIE records and twelve ESCI records also have current public Clarivate Master Journal List evidence; see the [latest matches](docs/INDEX_EVIDENCE_2026-10-02.md). The [five newly admitted journals](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md) retain their additional matches; the [six APS journals](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md) provide the subsequent evidence. The [Chinese optical journal review](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md) adds Acta Photonica Sinica and Acta Physica Sinica through the EI supplement and keeps a journal on a 2026 publishing hiatus deferred. The same evidence page adds COL and four IEEE photonics titles, with JIF and AIS kept separate and COL guide conflicts retained. Coverage years remain unknown.
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
-The catalog contains **101 journals and 130 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
+The catalog contains **102 journals and 130 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
 
 Exact timestamps can be displayed in Beijing time or UTC. Date-only announcements retain their uncertainty. Unknown dates remain unknown. A Chinese beginner guide explains submission, registration, presentation, preprints, publication, and fees.
 
@@ -198,3 +198,5 @@ The series directory links 130 editions to 98 stable conference identities. Foll
 2026-10-05：[Sensors Journal审核F11](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f11ieee-sensors-journal)补三篇光纤传感实证；当前101刊、40刊至少三篇样例。 The Sensors Journal review adds three optical sensing examples; 40 of 101 journals have at least three examples.
 
 2026-10-05：[TIP三年度卷样例E36](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e36ieee-tip)补光学采集与计算成像交叉路径；当前41刊至少三篇样例。 The TIP examples cover three annual volumes and optical acquisition with computational imaging; 41 journals have at least three examples.
+
+2026-10-05：[TCI审核F12](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f12ieee-tci)补成像形成、计算硬件与校准路径；当前102刊、42刊至少三篇样例。 TCI admission adds imaging formation, computing hardware and calibration paths; 42 of 102 journals have at least three examples.

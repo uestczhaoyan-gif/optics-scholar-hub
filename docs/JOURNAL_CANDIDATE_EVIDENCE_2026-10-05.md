@@ -185,3 +185,27 @@ JQSRT以光谱Q2满足主合集，光学JIF Q3不可借AIS Q2改写；IR三学�
 | [Dual-Parameter Surface Plasmon Resonance Sensor for Simultaneous Detection of Humidity and Temperature Based on Cascaded PVA-GO Composite Film and PDMS Film](https://ieeexplore.ieee.org/abstract/document/11045753) | 2025-06-20；25(15)28390–28396，issue8/1/25；10.1109/JSEN.2025.3579796 | Ag/MMF-SMF-MMF及两敏感膜双通道SPR温湿度实验，适用场景不当产业部署已验证。 |
 
 三样例支持导航适配，不保证相似稿录用；新刊当前数据库索引与分区版本分别保存，旧条目全部保持。
+
+## F12：IEEE TCI
+
+核验2026-10-05，候选journal-f7b4a080f3。[SPS本刊主页](https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging)实际读明确计算是图像形成过程的组成部分，理论/逆问题及非常规采集、计算硬件/系统均含；可复现代码/数据鼓励，不当一般图像AI全部适配。F12新增IEEE TCI，三篇不同年度卷光学计算样例、本刊链接指南与2026 APC独立保存；MJL SCIE/新双号EI、JCR2025电电子Q1/成像Q2实核，成像AIS Q1不作JIF。102刊/130届/10活动、273候选211 admitted/55 pending/7 deferred、SCIE88/ESCI12/EI95、JCR100/CAS11、42刊至少三篇样例；旧101刊、272其他候选与全部其他JSON保护。
+
+| 原来源/字段 | 核验范围与边界 |
+| --- | --- |
+| [MJL](https://mjl.clarivate.com/search-results?issn=2333-9403&hide_exact_match_fl=true)与[IEEE双号展开](https://ieeexplore.ieee.org/document/10720339) | 实际唯一卡IEEE/2573-0436/2333-9403、CoreCollection SCIE；非左侧filter，未登录profile、覆盖年未知。 |
+| [Compendex公开表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx) | SERIALS2026-08-07第2063行Journal/双号/IEEEInc、DISCONTINUED2026-05-01无双号；hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。只新目标，未重扫94旧刊或单篇检索。 |
+| [JCR2025机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf) | p238电电子JIF Q1、p365成像JIF Q2原图实看；成像AIS Q1不取。指标2024/secondary、非订阅JCR，CAS未知；hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274。 |
+| [本刊链接SPS作者指南](https://signalprocessingsociety.org/publications-resources/information-authors/) | 实读初稿13双栏10ptPDF/修订16、补充建议6超需批准、Comment2页9pt/Overview白皮书与双倍上限；摘要150–250/ORCID/EDICS，graphical可选但如用须初始供审。当前名称Author Portal但仍ScholarOne URL不声称迁移。 |
+| [SPS页费](https://signalprocessingsociety.org/publications-resources/information-authors/)与[IEEE2026 APC](https://open.ieee.org/for-authors/article-processing-charges/) | 自愿USD110/页首10，强制USD220/页超10，OA仍超页、Overview无强制超页/在线彩免费；2026可选hybrid OA2800按提交日期税另计/会员折扣不叠加且非学生。页费生效年、2027价格与本刊周期未知。 |
+
+基础理论范围与指南实验数据充分性提示同时保留，不推全刊硬件要求；会议稿至多6页扩展需新增并引原，没有固定比例。单盲至少2独立评审/查重实读；主指南权限/拒稿史/预印本仅明确字段，未读模板内部或登录系统、上传、签署、支付/联系。
+
+三篇IEEE原公开摘要和首发/卷页/DOI实核，三个年度卷10/11/12，无期号不造，未通读收费全文/SI：
+
+| 原论文 | 首发/卷页/DOI | 适配与实证边界 |
+| --- | --- | --- |
+| [High-Performance Accelerated Architecture for Diffraction Image Reconstruction Used in Lensless Imaging System](https://ieeexplore.ieee.org/document/11693022) | 2026-09-16；12:1580–1592；10.1109/TCI.2026.3734444 | 无透镜衍射重建的可配置硬件加速，双寄存器/反馈路径降低访存，原摘要报告与CPU/FPGA的速度/能效和重建精度比较；光学计算硬件路径，不造临床细胞诊断效能。 |
+| [Towards Robust and Generalizable Lensless Imaging With Modular Learned Reconstruction](https://ieeexplore.ieee.org/document/10908470) | 2025-02-28；11:213–227；10.1109/TCI.2025.3539448 | 掩膜无透镜成像的预处理必要性理论、幅度/相位掩膜跨数据集实验与迁移；开放四数据集，展示成像模型/学习重建共同贡献，不当所有未知设备域的保证。 |
+| [CalibFPA: A Focal Plane Array Imaging System Based on Online Deep-Learning Calibration](https://ieeexplore.ieee.org/document/10720339) | 2024-10-16；10:1650–1663；10.1109/TCI.2024.3477312 | 压电台移动预印固定编码孔径、物理驱动DL在线校正像差、低分辨率复用测量的高分辨率重建；模拟及实验数据验证，光学系统与反演结合，不当一般图像后处理。 |
+
+第一篇IoMT细胞分析是应用目标，不当临床诊断实证；第三篇光学装置/数值及实验边界取摘要，不移用离线校准方法。SPS2025新闻回顾的2023径向掩膜论文在两年窗外，未作新样例。

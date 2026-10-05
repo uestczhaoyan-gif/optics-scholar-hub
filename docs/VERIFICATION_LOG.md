@@ -1330,3 +1330,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 三原公开摘要及IEEE首发/卷页/DOI实核，年度卷无期号、NIH不同Epub与理论/实验边界保留。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
 
 - 发布前数据校验、固定09e2bf1的100其他刊/旧40样例集、TIP除scopeExamples全部字段和其他JSON保护断言通过；三首次日/三个年度卷无期号、41样例及索引排名计数通过。338本地Markdown链接、维护448项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：IEEE TCI F12
+
+- E36 032766bd2a22ad9c7e85f38d414bc43fb02c36ba已验收[Pages37266546787](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37266546787)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，62d79ac3db698829eb320d35aca727b1fad172b5df5ccb9210f1052468b1a0b5匹配本地（2026-10-05T05:11:40.417Z）。正式编辑前验收，work/F12_RESEARCH_2026-10-05.md长操作前保存原来源/范围；实际五小时48%/周88%允许，不用重置券。
+- F12新增IEEE TCI，三篇不同年度卷光学计算样例、本刊链接指南与2026 APC独立保存；MJL SCIE/新双号EI、JCR2025电电子Q1/成像Q2实核，成像AIS Q1不作JIF。102刊/130届/10活动、273候选211 admitted/55 pending/7 deferred、SCIE88/ESCI12/EI95、JCR100/CAS11、42刊至少三篇样例；旧101刊、272其他候选与全部其他JSON保护。 [逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f12ieee-tci)。
+- 唯一MJL SCIE卡、IEEE双号展开、新EI行/停收表、两JIF原图、主页明确链接指南与2026 APC、三原摘要/首发元数据实际核。年度卷无期号、理论/实验和出版页费/初稿上限分开，周期/模板细项等未知保留；必要验证/差异审查后上传并按同SHA验收，其他规划继续。
+
+- 发布前数据校验、固定032766b的101旧刊/旧41样例、272其他候选和全部其他JSON保护、单候选六审核字段白名单通过；102/211-55-7、88-12-95、100-11及42样例、三首发/年度卷无期号、两JIF与页费/投稿页限边界断言通过。384本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
