@@ -1850,6 +1850,305 @@
         "费率版本/税/价格基准日及阶段统计样本未知；不把Green表述变Gold或支付超页费当硬限放宽。"
       ],
       "maintenanceTrigger": "CLP/分发站明确页限和当前系统许可、独立年度价表/版年分区后维护；不同字段来源保留而不擅选。"
+    },
+    {
+      "kind": "conference",
+      "id": "ofc-2025",
+      "seriesId": "series-1436f76ab44c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "990a80d7955608c45a58d1220d3f806616aaa9229d69ff4030cdd218017e8426",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ofc-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2025原CFP、篇幅/摘要/模板、费用及截止未核；不从OFC2026/2027套入。",
+        "目录出版链接不保证每篇实际入库；页面新版导航不当本届新日期。"
+      ],
+      "maintenanceTrigger": "获得合法2025原CFP/注册表或逐篇论文集记录后维护历史缺口，不重查新版首页凑旧规则。"
+    },
+    {
+      "kind": "conference",
+      "id": "ofc-2026",
+      "seriesId": "series-1436f76ab44c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ae4b5f1e07cd2f1c91b49e66634e98809979179fae64808fb9f78a54f5261ee2",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ofc-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "最终延期、具体注册费和系统/模板内部未读；blind不细分单盲或双盲。",
+        "通知是week窗口，Demo不能作普通补交；主办方检索安排不证明所有论文实际入库。"
+      ],
+      "maintenanceTrigger": "本届原更正/最后CFP或合法论文集与注册资料出现时按2026字段维护，不复制下一届细则。"
+    },
+    {
+      "kind": "conference",
+      "id": "ofc-2027",
+      "seriesId": "series-1436f76ab44c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6d36054badd6c159ec9bd991cd42f57d7a1d992f16de667327aac73d9469224f",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ofc-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通截止时区与注册费用/后台可用未知，不用Demo的EST推普通时刻。",
+        "PDP详细格式/后台、模板内容与最终实际逐篇出版索引未核；主办方计划不是数据库单篇结果。"
+      ],
+      "maintenanceTrigger": "2027官方明确普通时区、费率/后台及最终稿/出版公告后逐字段维护；不同提交通道继续分开。"
+    },
+    {
+      "kind": "conference",
+      "id": "cleo-2025",
+      "seriesId": "series-ee5c59fb09be",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "af55d9740efee33c4fd36a288f2c46b1fff1525d6c9e06247f62880f8426a4a4",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cleo-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当年普通/PDP截止、页数摘要模板、注册/费率与具体场馆未核。",
+        "论文集入口不等逐篇读文/入库，2026两页或2027规则不移植。"
+      ],
+      "maintenanceTrigger": "新可读2025原手册/CFP/注册存档出现后维护所缺历史字段，保留原首页阅读边界。"
+    },
+    {
+      "kind": "conference",
+      "id": "cleo-2026",
+      "seriesId": "series-ee5c59fb09be",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f6c077f8ffd19f0fa8c8937ab73de9cec2eae859a2620d1c3eea8aa90e544fab",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cleo-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "精确普通时刻AM/PM、最终延期、录用通知年份、海报尺寸矛盾和具体场馆待核。",
+        "内部模板/费用/最终论文集未核；旧2025chair配置链接不登录，也不推广到2027。"
+      ],
+      "maintenanceTrigger": "当届更正原时间/通知年/海报参数或完整2026存档出现后维护；避免用别年填冲突。"
+    },
+    {
+      "kind": "conference",
+      "id": "cleo-2027",
+      "seriesId": "series-ee5c59fb09be",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3d2cbc2dec6f6efa7dfb9813dee6a6f597ef1900a734b5f71060f0ce5f3ab036",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cleo-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "注册截止/费率、PDP详细规则、模板与系统内部未知。",
+        "录用通知仅earlyMarch窗口；实际论文集/逐篇索引未发生，不作保证。"
+      ],
+      "maintenanceTrigger": "2027新注册/PDP/通知及出版条件出现时逐字段维护，不沿用2026报告和海报参数。"
+    },
+    {
+      "kind": "conference",
+      "id": "cleo-europe-eqec-2025",
+      "seriesId": "series-280e7bbb1981",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "235d2b2bc56adb101533a9d596c29549a76b1625f82713645390075ffd1fd30a",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cleo-europe-eqec-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "PDP时区、最终线上注册日星期、退款年度及海报括注冲突保留，未擅选。",
+        "IEEE/Optica出版为条件计划非实际单篇入库；2023模板版本不冒充2025新版，不继承2027。"
+      ],
+      "maintenanceTrigger": "主办方更正2025原冲突/存档或实际论文集证据后维护历史，2027另按本届CFP。"
+    },
+    {
+      "kind": "conference",
+      "id": "cleo-europe-eqec-2027",
+      "seriesId": "series-280e7bbb1981",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4aa894d9335dd213fef6155a2a74c2dc7df79273c0ab562f2af18d1b9592dcd3",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cleo-europe-eqec-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届场馆、普通摘要/页数模板、注册/PDP/费用与具体出版规则仍未知。",
+        "计划开始日不等已验证提交开放；共同技术准备不是子会独立时长/海报参数。"
+      ],
+      "maintenanceTrigger": "2027子会原CFP/费率/合法公开提交状态与出版说明出现后维护，历史2025规则保留各自年份。"
+    },
+    {
+      "kind": "conference",
+      "id": "cleo-pr-2026",
+      "seriesId": "series-00a40d7a4af9",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "24b34bbcfac3ac3a50d7a2ca379052cb557fb54c5d063e42e0cb6f5fd816914b",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cleo-pr-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "注册费/最终稿精确时刻、后台与所有稿型完整流程未核；COS EI为计划非单篇实际检索。",
+        "2028招聘或台南工作地点只是线索，不填后续日城/CFP；同期展览不新增论文届次。"
+      ],
+      "maintenanceTrigger": "本届注册/出版档案或下一届明确官方日城CFP出现后按届维护，不依据招聘线索推会址。"
+    },
+    {
+      "kind": "conference",
+      "id": "acp-2025",
+      "seriesId": "series-75ad69d7586c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "57571ae3b1d76b65643f289cb12f9b9c65afcb1123a0d5e76314581a7f3d0fb7",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#acp-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "具体场馆/旧PDF仍404，摘要字数/blind/最终时刻未知，不重试未变化入口。",
+        "后续导出日期不当延期；2026普通/PDP页数和Tutorial60分钟不套2025，注册两稿政策也不互移。"
+      ],
+      "maintenanceTrigger": "可读2025档案/更正终稿或实际论文集证据出现后逐字段维护，保留支付/报告/资格范围。"
+    },
+    {
+      "kind": "conference",
+      "id": "acp-2026",
+      "seriesId": "series-75ad69d7586c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "779298614abe81d5dff779eb55bcba199359b7734ed5d2900d84678988044ba3",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#acp-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "内部提交/模板/最终议程未读；终稿时刻、退款固定截止/比例和实际逐篇索引未知。",
+        "没有2027明确日城CFP，不按年会推下一届；住宿付款与会议费分别，旧2025规则不复用。"
+      ],
+      "maintenanceTrigger": "当届PDP/最终议程/出版更正或下一届正式公告出现后维护，合法登录结果才更新后台状态。"
+    },
+    {
+      "kind": "conference",
+      "id": "aoe-2008",
+      "seriesId": "series-75ad69d7586c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3635fb482c16d2c8ee88044ed17efd9681554cde4d6271a1a1389a3c0fe703ec",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#aoe-2008",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "初稿截止、摘要/篇幅/模板/盲审/费用与实际索引未知，仅三页阅读边界。",
+        "场馆历史名称不替换当前建筑名称；合并沿革不能推AOE新独立届次。"
+      ],
+      "maintenanceTrigger": "合法原2008CFP/注册全文/实际论文集证据出现后维护历史字段，前身关联按原学会记录保持。"
+    },
+    {
+      "kind": "conference",
+      "id": "ciop-2026",
+      "seriesId": "series-7ece259636d0",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "eff830a7440c16ce6fb09d3851c163efeecb923282477c4db024876a169eac6c",
+      "formalReviewBase": "c94b3c81f08544db8582ae86ce0bb29697b0ea8b",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ciop-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当届原CFP/摘要模板/提交方法、注册费及截止、论文集索引均未核；会后报道不能补投稿细则。",
+        "下一届日城/CFP未知，nextEditionCheckedAt保持null，不假称今日官网成功。"
+      ],
+      "maintenanceTrigger": "原官网证书修复或主办方提供合法原CFP及下一届公告后维护，不重复安全限制或按周期造会期。"
     }
   ],
   "coreSeriesReviews": [

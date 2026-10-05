@@ -1503,3 +1503,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2E实审7刊正式字段质量，累计31/250、余219；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2e)。长操作前work/V1-G2E-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧24正式与候选/G4/G5/final账本不变、七新增内容摘要/六组范围/具体限制与触发通过；448个Markdown本地文件链接、实际文档及账本差异审查、git diff --check通过。Photonic Sensors资助按投稿日期且限2026年界，COL页数/版权冲突与FOE旧附件版本保留。纯文档复用已验收六入口构建、维护460项/12主题覆盖；本批同SHA CI继续完整31测试/typecheck/lint/build与部署验收。
+
+## 2026-10-06：正式会议质量 V1-G2F
+
+- c94b3c81f08544db8582ae86ce0bb29697b0ea8b已验收[Pages 37377396666](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37377396666)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:41:45.426Z）。编辑前HEAD=origin/main；work/V1-G2F-plan.json长操作前保护真实范围。
+- V1-G2F实审13届会议全部字段，正式质量累计44/250（31刊/13届/0活动）、余206；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 本轮已逐项完整读取十三届现有JSON的身份、日城、投稿注册出版与所有截止出处，并对照G5原OFC/CLEO/欧洲CLEO/PR/ACP/CIOP六系列段落。复用此前实际当届官方页面及PDF限定页的来源记录，不重复未变化或已受限源，不宣称本次重新读官网。G5的系列时间深度与G2的正式字段审查分别记录；不移植另一届规则。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2f)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data/冻结范围字节保护、旧31正式与候选/G4/G5/final账本不变、13唯一正式ID/系列和admitted关联、按kind完整摘要/六组字段/具体限制与触发断言通过；420个Markdown本地文件链接、新证据文档/账本/其他文档实际差异审查与git diff --check通过。OFC通知周、欧洲CLEO时区/星期/年份冲突、CIOP证书及ACP两届不同PDP规则均保留。纯文档复用已验收六入口构建、维护460项/12主题覆盖；同SHA CI执行完整31测试/typecheck/lint/build，随后验收部署和线上摘要。
