@@ -4922,7 +4922,27 @@
       "复现代码/数据及图形摘要等补充材料随初投评审；一般补充文字建议不超过六个双栏页，再增须主编批准。会议短稿扩展须引用原文并清楚说明新增贡献，不编造统一扩展比例。",
       "允许合规预印本，投稿列出已发布同稿的完整 URL；曾遭拒稿须披露既往评审及如何回应。按官方 Author Portal Manuscripts 链接进入，未登录验证；当前指南链接目标仍为 Manuscript Central，系统名称不作为迁移完成证据。"
     ],
-    "publishing": "2026-10-03 核验本刊官网链接的 SPS 指南：混合出版，常规稿前 10 个正式发表页自愿 $110/页，第 11 页起强制 $220/页；OA 稿另付超页费，Overview 不收强制超页费，在线彩色免费。OA APC 当前金额、税及费率适用日期未独立核实。来源：https://signalprocessingsociety.org/publications-resources/information-authors"
+    "publishing": "2026-10-03 核验本刊官网链接的 SPS 指南：混合出版，常规稿前 10 个正式发表页自愿 $110/页，第 11 页起强制 $220/页；OA 稿另付超页费，Overview 不收强制超页费，在线彩色免费。OA APC 当前金额、税及费率适用日期未独立核实。来源：https://signalprocessingsociety.org/publications-resources/information-authors",
+    "scopeExamples": [
+      {
+        "title": "An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification",
+        "source": "https://ieeexplore.ieee.org/document/11433527",
+        "publishedAt": "2026-03-12",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2026-03-12，年度卷35:2669–2683，DOI 10.1109/TIP.2026.3671651。原页未给期号，不补造。无透镜平面光学编码传感，端到端直接验证人脸；模拟及真实环境实验验证。展示光学采集与计算方法的共同贡献，不当普遍隐私/抗攻击保证。 仅公开摘要范围，未通读收费全文或SI。"
+      },
+      {
+        "title": "Optimization Design of Projection Grating Wavelength for Robust 3D Imaging",
+        "source": "https://ieeexplore.ieee.org/document/10902057",
+        "publishedAt": "2025-02-25",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2025-02-25，年度卷34:1398–1411，DOI 10.1109/TIP.2025.3541543。原页未给期号，不补造。条纹投影的频率分配、相位误差与三频展开可靠性建模及实验验证；适配结构光计算测量。光栅周期语境不解作不同照明光谱比较。 仅公开摘要范围，未通读收费全文或SI。"
+      },
+      {
+        "title": "Unified Video Reconstruction for Rolling Shutter and Global Shutter Cameras",
+        "source": "https://ieeexplore.ieee.org/document/10770126",
+        "publishedAt": "2024-11-27",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/出版元数据；首次Date of Publication 2024-11-27，年度卷33:6821–6835，DOI 10.1109/TIP.2024.3504275。原页未给期号，不补造。UniVR统一快门空间与无参数适配器，在三种重建架构验证与迁移实验；适配传感采集时序和图像重建算法，不当新光学硬件原型或全部相机性能保证。 仅公开摘要范围，未通读收费全文或SI。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

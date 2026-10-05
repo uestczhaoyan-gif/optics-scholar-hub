@@ -1322,3 +1322,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 实际MJL卡、新双号EI行、三JIF原图、指南/主页和June2021附件全页、三原IEEE摘要/首发元数据核实。必需/建议/自愿和稿型/旧入口分别保留，未造统计年或病例效能。必要验证/差异审查及构建后上传并按同SHA验收；其余规划继续。
 
 - 发布前数据校验、固定2cf92ef的100旧刊/旧39样例、272其他候选与全部其他JSON保护、单候选六字段白名单断言通过；101/210-56-7、87-12-94、99-11及40样例、三首次日/原JIF三学科/费用稿型/未知统计年边界通过。375本地Markdown链接、维护448项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查与git diff --check通过；续接示例旧数字已同步101/130。完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：TIP计算成像样例 E36
+
+- F11 09e2bf1bcbad666959064545556bea881130dd9d已验收[Pages37265762982](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37265762982)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，0863690b48c76627a69b19cc3e1a68bfa75f637603f78b327390f3d9c06f78d8匹配本地（2026-10-05T05:00:33.487Z）。正式编辑前验收，本地/远端main相同且工作树干净。work/E36_RESEARCH_2026-10-05.md长操作前保存来源/范围；实际五小时43%/周87%允许，不用重置券。
+- E36为IEEE TIP补三篇近两年光学采集/计算成像样例，分别为2024/2025/2026年度卷；首发与卷页分开，无期号不造。只有scopeExamples变化，100其他刊与全部其他JSON、索引排名/指南费用/整刊日期保护；101刊/130届/10活动、273候选210/56/7、98系列23多届、SCIE87/ESCI12/EI94、JCR99/CAS11保持，至少三篇样例刊数40→41。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e36ieee-tip)。
+- 三原公开摘要及IEEE首发/卷页/DOI实核，年度卷无期号、NIH不同Epub与理论/实验边界保留。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
+
+- 发布前数据校验、固定09e2bf1的100其他刊/旧40样例集、TIP除scopeExamples全部字段和其他JSON保护断言通过；三首次日/三个年度卷无期号、41样例及索引排名计数通过。338本地Markdown链接、维护448项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

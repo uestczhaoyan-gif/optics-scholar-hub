@@ -196,3 +196,5 @@ The series directory links 130 editions to 98 stable conference identities. Foll
 2026-10-05：[欧洲CLEO历史与IRMMW未来预告](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)增加三届，23系列含多届。 The [edition-specific review](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度) adds three editions; 23 series have multiple editions.
 
 2026-10-05：[Sensors Journal审核F11](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f11ieee-sensors-journal)补三篇光纤传感实证；当前101刊、40刊至少三篇样例。 The Sensors Journal review adds three optical sensing examples; 40 of 101 journals have at least three examples.
+
+2026-10-05：[TIP三年度卷样例E36](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e36ieee-tip)补光学采集与计算成像交叉路径；当前41刊至少三篇样例。 The TIP examples cover three annual volumes and optical acquisition with computational imaging; 41 journals have at least three examples.

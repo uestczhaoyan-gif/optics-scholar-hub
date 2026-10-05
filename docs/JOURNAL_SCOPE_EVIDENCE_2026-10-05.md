@@ -24,3 +24,15 @@
 | [Single Inductor Pulsating DC/DC Converter With Current Observer Tracking Control for VCSEL Laser Drivers](https://ieeexplore.ieee.org/document/11622525) | 2026-07-23；Early Access, 1–13（卷期未分配） | 30W脉冲VCSEL驱动的单电感DC/DC与电流观测器、仿真和原型实测，目标为结构光工业3D传感；电子驱动贡献，未当已完成全套3D成像系统验证。 |
 
 三已分卷期73(6)/73(3)/72(5)不同；第四EA不造issue。DOI依次10.1109/TIE.2026.3654763、10.1109/TIE.2025.3618833、10.1109/TIE.2024.3476972、10.1109/TIE.2026.3711441。第四只是驱动硬件验证，不当完整结构光成像实验；第三只是显示电源电子贡献，不当光学材料研究。仅摘要范围，未通读收费全文/SI，未登录/上传/支付/联系。首发均2024-10-05后；普通电感传感仅引言提望远镜、其他期刊/会议检索命中未采用。E35为IEEE TIE补四篇近两年光学装备/显示电子样例：三篇已分配不同期次及一篇VCSEL Early Access；突出硬件控制/驱动贡献，保留通常不收纯光学的指南边界。只有scopeExamples变化，39刊至少三样例，100刊/127届/10活动、273候选209/57/7、98系列21多届及索引86/12/93、JCR98/CAS11保持；99其他刊、旧38样例和其他JSON保护。
+
+## E36：IEEE TIP
+
+核验2026-10-05，三IEEE生产原页公开摘要/题名、Date of Publication、卷页和DOI实读；只摘要与元数据范围，未通读收费全文/SI。三篇首发均在2024-10-05至2026-10-05内；按三个不同年度卷33/34/35保存，无期号不造。本刊适配仍需图像处理方法贡献，不由光学应用题名推所有器件论文均可投稿。
+
+| 原论文 | 首发/年度卷页与DOI | 贡献及边界 |
+| --- | --- | --- |
+| [An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification](https://ieeexplore.ieee.org/document/11433527) | 2026-03-12；35:2669–2683；10.1109/TIP.2026.3671651 | 无透镜平面光学编码传感，端到端直接验证人脸；模拟及真实环境实验验证。展示光学采集与计算方法的共同贡献，不当普遍隐私/抗攻击保证。 |
+| [Optimization Design of Projection Grating Wavelength for Robust 3D Imaging](https://ieeexplore.ieee.org/document/10902057) | 2025-02-25；34:1398–1411；10.1109/TIP.2025.3541543 | 条纹投影的频率分配、相位误差与三频展开可靠性建模及实验验证；适配结构光计算测量。光栅周期语境不解作不同照明光谱比较。 |
+| [Unified Video Reconstruction for Rolling Shutter and Global Shutter Cameras](https://ieeexplore.ieee.org/document/10770126) | 2024-11-27；33:6821–6835；10.1109/TIP.2024.3504275 | UniVR统一快门空间与无参数适配器，在三种重建架构验证与迁移实验；适配传感采集时序和图像重建算法，不当新光学硬件原型或全部相机性能保证。 |
+
+第二篇NIH Epub2025-03-04不替代IEEE首次2025-02-25；2024卷页也不当统一2025上线。无透镜文章仅本研究的隐私目标与验证，不声明普遍抗攻击；第三篇不造新的光学硬件实验。10838327光声候选实际只有空页面、未核摘要，因此未采用；2024-10-03首发的点云线索在两年窗外。未登录/上传/联系/支付。E36为IEEE TIP补三篇近两年光学采集/计算成像样例，分别为2024/2025/2026年度卷；首发与卷页分开，无期号不造。只有scopeExamples变化，100其他刊与全部其他JSON、索引排名/指南费用/整刊日期保护；101刊/130届/10活动、273候选210/56/7、98系列23多届、SCIE87/ESCI12/EI94、JCR99/CAS11保持，至少三篇样例刊数40→41。
