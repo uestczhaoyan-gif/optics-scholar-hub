@@ -2397,12 +2397,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光学加工、超精密制造、光学测量",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.cirp.net/about-cirp/62-internal-regulations/574-ir-app6.html",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读CIRP学会Appendix6及STC E公开范围：激光与混合制造属于其活动，Annals原研究与Keynote有会员/合作及不同审查路线。EI SERIALS810行0007-8506/1726-0604身份一致；没有三不同正式期次近年光学原摘要和完整准入证据，保留pending。",
+    "nextAction": "合法原论文/明确分类及当年投稿公告出现后核实三不同正式期次光学样例与会员/提名适用流程，保留稿型阶段差异。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-f115ca0e6a",
@@ -2677,12 +2677,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光学加工、超精密制造、光学测量",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/international-journal-of-machine-tools-and-manufacture/0890-6955",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读出版社Scope明确超精密光学、纳米/原子制造及Raman表征；核心要求制造过程/机器机理的技术科学进展，不能把任意光谱论文都归为适配。EI SERIALS2701行0890-6955身份一致；原刊链接网页工具403，缺三近年跨期光学原摘要，保留pending。",
+    "nextAction": "新的合法原论文/分类身份及指南证据出现后核三跨期制造光学样例与准入，按技术进展而不是关键词判断。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-cb07c0f4ab",
@@ -2833,12 +2833,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光纤、光谱、光学传感与检测",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/measurement/0263-2241",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读出版社Scope：IMEKO Measurement测量与仪器科学，只有图像处理或故障诊断而缺测量科学不适配，军事应用在当前范围外。EI SERIALS3951以0263-2241确认长刊名Measurement: Journal of the International Measurement Confederation，不能与同名社会科学刊混同；缺三近年跨期光学原摘要，保留pending。",
+    "nextAction": "合法原光学测量论文与明确独立准入字段出现后核三不同正式期次样例，区分Measurement与同名刊/companion/Acta IMEKO。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-3a8b7e6f54",
@@ -3239,12 +3239,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光学加工、超精密制造、光学测量",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/precision-engineering/0141-6359",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读出版社Description，范围明确含先进光刻、光学/射电望远镜及多尺度精密测量制造，非全部制造均光学。EI SERIALS4458行0141-6359/Journal/Elsevier身份一致；官方原刊链接网页工具403，未换工具取原摘要，缺三不同正式期次近年光学样例，保留pending。",
+    "nextAction": "合法可读原摘要与新数据库/版年证据出现后逐篇核实，再补本刊完整稿型/收费；不复查未变化403入口。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-d78ea18b44",
@@ -3379,12 +3379,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光纤、光谱、光学传感与检测",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/sensors-and-actuators-a-physical/0924-4247",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方检索展开Scope：物理换能器含光纤、光电传感/光探测与microoptomechanics，同时包含非光学机械/热/磁传感。EI SERIALS5230行0924-4247身份匹配；三不同正式期次近年光学原摘要/独立准入仍缺，保留pending。",
+    "nextAction": "合法原摘要和新分类身份/费用证据出现后核三不同正式期次光学传感样例，A/B两刊规则分开。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-65a0dc80d1",
@@ -3435,12 +3435,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光伏、光热、光催化及光电转换，排除无光学关联内容",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/solar-energy-materials-and-solar-cells/0927-0248",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方检索展开Scope：光伏/光热/光电化学材料含光捕获、纹理化、成像/非成像集光、光控及智能窗，不能泛化所有能源为光学。EI SERIALS5332行0927-0248身份匹配；缺三近年跨期光学原摘要/完整准入字段，保留pending。",
+    "nextAction": "新合法原论文及独立分类/作者规则证据出现后核三不同正式期次光学材料样例，再判断准入及费用。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-767c428997",

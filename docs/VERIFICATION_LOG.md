@@ -1489,3 +1489,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2D实审6刊正式字段质量，累计24/250、余226；固定候选29/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2d)。长操作前work/V1-G2D-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧18正式与候选/G4/G5/final账本不变、六新增记录内容摘要/六组字段范围/具体限制与触发通过；427个本地Markdown文件链接、实际文档及账本差异审查、git diff --check通过。Clarivate2026版与2025指标年对应已核，原分区全部保持。纯文档复用前批已验收六入口构建和维护460项/12主题覆盖，同SHA CI仍执行完整31测试/typecheck/lint/build，尚未把本批声明已部署。
+
+## 2026-10-06：固定候选 V1-G3E
+
+- 1c89ae8a3f7048fb672f6a89b45df36ecb7065b5已验收[Pages 37376755207](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37376755207)，同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab与本地匹配（2026-10-05T21:35:59.349Z）。正式编辑前HEAD=origin/main；工作草案在work/V1-G3E-plan.json提前保护，等待前批发布时未重复提交。
+- V1-G3E实审6固定候选，保留pending及实际范围/限制；固定60已审35（3准入、32限制）、余25。正式质量24/250未完成，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 本次实际读CIRP Appendix6全公开正文/STC E范围；Precision Engineering、IJMT、Measurement的Elsevier Shop Description；SA-A/Solar Materials官方搜索展开完整Scope。Precision/IJMT原刊官方链接各一次403，停止并保留实际范围，其他四没有独立403断言。没有使用搜索误出的非官方相似域sciencedirectelsevier.com。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3e)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
+
+- 发布前六候选仅sourceEntry/decisionReason/nextAction/reviewedAt允许字段变化，其余267候选及全部正式目录/冻结范围/旧账本/G4/G5/final不变断言通过；validate107刊/133届、402个本地Markdown文件链接、实际数据/账本/文档差异审查和git diff --check通过。Node24.20子路径构建成功，六入口资源通过，仅既有体积提示；维护460任务/覆盖12主题273候选保持。完整31测试/typecheck/lint仍由本批同SHA CI执行，随后核对部署与线上摘要。

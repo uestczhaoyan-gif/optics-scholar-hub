@@ -1082,6 +1082,90 @@
         "没有对Analytical Chemistry原刊作独立403请求；缺三光学样例。指南清单要求至少四推荐审稿人而后节说可选，适用细节保留冲突，不选择其一。"
       ],
       "maintenanceTrigger": "合法原文与新准入证据出现后补三不同正式期次光学样例，并核本刊指南版本及推荐审稿人差异，不重试受限原域。"
+    },
+    {
+      "candidateId": "journal-a0d4b62119",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-a0d4b62119",
+      "formalIds": [],
+      "limitations": [
+        "[CIRP STC E](https://www.cirp.net/scientific-groups/stc-scientific-technical-commitees/stc-e-electro-physical-and-chemical-processes.html)实读只活动范围，不是三原摘要；没有从会名或期刊题名推直接光学专刊。",
+        "MJL/JCR/CAS、当前投稿邀请/提名窗口、完整模板/费用与索引覆盖年待核；通用年度节点不冒充当前届次通知，会员内部未读。"
+      ],
+      "maintenanceTrigger": "合法原论文/明确分类及当年投稿公告出现后核实三不同正式期次光学样例与会员/提名适用流程，保留稿型阶段差异。"
+    },
+    {
+      "candidateId": "journal-afaccd053b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-afaccd053b",
+      "formalIds": [],
+      "limitations": [
+        "原刊实际访问 https://www.sciencedirect.com/science/journal/01416359 返回403，保留一次真实拒绝，不绕过或取镜像。",
+        "三近年跨期光学原摘要、电子身份/MJL/JCR/CAS、作者指南/费用及覆盖年仍缺；范围页/学会关系不能代替这些准入依据。"
+      ],
+      "maintenanceTrigger": "合法可读原摘要与新数据库/版年证据出现后逐篇核实，再补本刊完整稿型/收费；不复查未变化403入口。"
+    },
+    {
+      "candidateId": "journal-6783bf6a5c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-6783bf6a5c",
+      "formalIds": [],
+      "limitations": [
+        "原刊实际 https://www.sciencedirect.com/science/journal/08906955 返回403，不重试/换工具绕过；出版社Scope不是三原摘要。",
+        "三不同正式期次光学样例、MJL/JCR/CAS/电子刊号/完整作者格式及费用/覆盖年未核，不能泛化Raman表征就是所有内容光学。"
+      ],
+      "maintenanceTrigger": "新的合法原论文/分类身份及指南证据出现后核三跨期制造光学样例与准入，按技术进展而不是关键词判断。"
+    },
+    {
+      "candidateId": "journal-385165e2ff",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-385165e2ff",
+      "formalIds": [],
+      "limitations": [
+        "没有对Measurement作独立403请求；仅Precision/IJMT同原平台403的实际限制，未获取三原摘要，不把第三方相似域资料保存。",
+        "MJL/JCR/CAS、电子载体身份、本刊完整Guide/费用、覆盖年份及阶段周期未知；纯图像算法或无测量验证不自动适配。"
+      ],
+      "maintenanceTrigger": "合法原光学测量论文与明确独立准入字段出现后核三不同正式期次样例，区分Measurement与同名刊/companion/Acta IMEKO。"
+    },
+    {
+      "candidateId": "journal-17f70ae1f6",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-17f70ae1f6",
+      "formalIds": [],
+      "limitations": [
+        "本刊没有独立403断言，依据是共享原平台既有两真实拒绝；实际Scope不替代三光学原论文或引申所有磁热研究适配。",
+        "MJL/JCR/CAS、电子刊号载体、完整Guide/费用与覆盖年待核；来源表Journal身份不是每篇EI入库证据。"
+      ],
+      "maintenanceTrigger": "合法原摘要和新分类身份/费用证据出现后核三不同正式期次光学传感样例，A/B两刊规则分开。"
+    },
+    {
+      "candidateId": "journal-65b77772de",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-65b77772de",
+      "formalIds": [],
+      "limitations": [
+        "未对本刊作独立403请求，保留共享原平台两实际拒绝；没有三原光学摘要、首次日/正式卷期，官网范围不能充数。",
+        "电子身份/MJL/JCR/CAS/完整Guide/费用和覆盖年待核；不将无年份旧转投指示或其他能源刊APC套本刊。"
+      ],
+      "maintenanceTrigger": "新合法原论文及独立分类/作者规则证据出现后核三不同正式期次光学材料样例，再判断准入及费用。"
     }
   ],
   "formalDataReviews": [

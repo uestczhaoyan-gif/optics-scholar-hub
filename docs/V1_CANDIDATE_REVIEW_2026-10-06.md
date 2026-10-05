@@ -66,3 +66,67 @@ Analytical Chemistry；状态pending。
 - RSC原平台MH/JMCC网页工具Internal Error后，普通浏览器MH首页出现安全验证即停止；不将Internal Error说成HTTP403。JMCC/EES未作独立浏览器验证。IOP原域与ACS原域沿用[10/5实际访问记录](V1_CANDIDATE_REVIEW_2026-10-05.md)，六刊各自的拒绝次数不伪增。独立出版支持/新官网只核实际范围，不用作受限原论文替代品。
 - ROP当前原始研究稿型与综述分开，修改原候选仅有综述倾向的scopeHint。AC指南版日2026-08-27；推荐审稿人≥4与后节可选的差异原样保留，未选择或联系。所有价格均仅是本次可读页的局部条件，年度/税不明确时不推出当前正式费率。
 - 六候选仅更新sourceEntry/decisionReason/nextAction/reviewedAt，ROP另改scopeHint；reviewStatus与关联不变。其他267候选、全部107正式刊/133届/98系列/10活动、已有53样例审查、12系列及18正式审查与冻结范围保持。
+
+## V1-G3E
+
+本次实际读CIRP Appendix6全公开正文/STC E范围；Precision Engineering、IJMT、Measurement的Elsevier Shop Description；SA-A/Solar Materials官方搜索展开完整Scope。Precision/IJMT原刊官方链接各一次403，停止并保留实际范围，其他四没有独立403断言。没有使用搜索误出的非官方相似域sciencedirectelsevier.com。 固定60累计35项（3准入、32限制），余25未审；本批6全部保留pending。实际审查有范围、影响、触发，不因为数量或额度而填完成。
+
+## journal-a0d4b62119
+
+CIRP Annals；pending。
+
+- 原来源/真实范围：[官方范围](https://www.cirp.net/about-cirp/62-internal-regulations/574-ir-app6.html)。实读CIRP学会Appendix6及STC E公开范围：激光与混合制造属于其活动，Annals原研究与Keynote有会员/合作及不同审查路线。EI SERIALS810行0007-8506/1726-0604身份一致；没有三不同正式期次近年光学原摘要和完整准入证据，保留pending。
+- 本刊已读细则：原研究通常4出版页含按时序refs，例外6页由作者请求；会员或合作者研究、STC及至少两EC成员审查。Keynote须Fellow/Associate带领、24印刷页与投稿27页分阶段，不是普通自由综述；CreDiT两稿型分别。4/1与5/1是无具体年份的年度一般最终稿节点，不造2027投稿截止。STC E公开原页高能激光材料去除/增材/混合制造，会员会议记录需登录，未登录。
+- 未解决内容及影响：[CIRP STC E](https://www.cirp.net/scientific-groups/stc-scientific-technical-commitees/stc-e-electro-physical-and-chemical-processes.html)实读只活动范围，不是三原摘要；没有从会名或期刊题名推直接光学专刊。；MJL/JCR/CAS、当前投稿邀请/提名窗口、完整模板/费用与索引覆盖年待核；通用年度节点不冒充当前届次通知，会员内部未读。
+- 维护触发：合法原论文/明确分类及当年投稿公告出现后核实三不同正式期次光学样例与会员/提名适用流程，保留稿型阶段差异。
+
+## journal-afaccd053b
+
+Precision Engineering；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/precision-engineering/0141-6359)。实读出版社Description，范围明确含先进光刻、光学/射电望远镜及多尺度精密测量制造，非全部制造均光学。EI SERIALS4458行0141-6359/Journal/Elsevier身份一致；官方原刊链接网页工具403，未换工具取原摘要，缺三不同正式期次近年光学样例，保留pending。
+- 本刊已读细则：正式副标题为国际精密工程与纳米技术学会期刊，ASPE/EUSPEN/JSPE各协会关系可读；创刊/副标题历史不当当前刊号变更。0141-6359是公开ISSN，电子载体未独立核；商店卷数展示不当正式论文卷期。范围可读但完整指南/费用未读，订阅销售选项不证明作者免费。
+- 未解决内容及影响：原刊实际访问 https://www.sciencedirect.com/science/journal/01416359 返回403，保留一次真实拒绝，不绕过或取镜像。；三近年跨期光学原摘要、电子身份/MJL/JCR/CAS、作者指南/费用及覆盖年仍缺；范围页/学会关系不能代替这些准入依据。
+- 维护触发：合法可读原摘要与新数据库/版年证据出现后逐篇核实，再补本刊完整稿型/收费；不复查未变化403入口。
+
+## journal-6783bf6a5c
+
+International Journal of Machine Tools and Manufacture；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/international-journal-of-machine-tools-and-manufacture/0890-6955)。实读出版社Scope明确超精密光学、纳米/原子制造及Raman表征；核心要求制造过程/机器机理的技术科学进展，不能把任意光谱论文都归为适配。EI SERIALS2701行0890-6955身份一致；原刊链接网页工具403，缺三近年跨期光学原摘要，保留pending。
+- 本刊已读细则：原范围强调机理与技术发展，纯理论/模型若无已证科学进展通常不接受、方法主导而技术进展不足可能拒、通常不接受多部分论文；这些是限定语而非一律禁止理论。现页只给0890-6955，不从第三方1879-2170改造本批独立电子身份。完整Guide/APC/MJL分类未核。
+- 未解决内容及影响：原刊实际 https://www.sciencedirect.com/science/journal/08906955 返回403，不重试/换工具绕过；出版社Scope不是三原摘要。；三不同正式期次光学样例、MJL/JCR/CAS/电子刊号/完整作者格式及费用/覆盖年未核，不能泛化Raman表征就是所有内容光学。
+- 维护触发：新的合法原论文/分类身份及指南证据出现后核三跨期制造光学样例与准入，按技术进展而不是关键词判断。
+
+## journal-385165e2ff
+
+Measurement；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/measurement/0263-2241)。实读出版社Scope：IMEKO Measurement测量与仪器科学，只有图像处理或故障诊断而缺测量科学不适配，军事应用在当前范围外。EI SERIALS3951以0263-2241确认长刊名Measurement: Journal of the International Measurement Confederation，不能与同名社会科学刊混同；缺三近年跨期光学原摘要，保留pending。
+- 本刊已读细则：AI需明确测量进展、正确测量语境、可原则复现的数据工具结果和专用指标；仅套现成模型会desk reject。商店实际跳学会IMEKO主页不误称Measurement原刊拒绝，也不拿Acta IMEKO论文作Measurement样例；出版社简名与来源表长刊名通过相同刊号/协会关系核对。收费/完整Guide及电子身份未核。
+- 未解决内容及影响：没有对Measurement作独立403请求；仅Precision/IJMT同原平台403的实际限制，未获取三原摘要，不把第三方相似域资料保存。；MJL/JCR/CAS、电子载体身份、本刊完整Guide/费用、覆盖年份及阶段周期未知；纯图像算法或无测量验证不自动适配。
+- 维护触发：合法原光学测量论文与明确独立准入字段出现后核三不同正式期次样例，区分Measurement与同名刊/companion/Acta IMEKO。
+
+## journal-17f70ae1f6
+
+Sensors and Actuators A: Physical；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/sensors-and-actuators-a-physical/0924-4247)。实读官方检索展开Scope：物理换能器含光纤、光电传感/光探测与microoptomechanics，同时包含非光学机械/热/磁传感。EI SERIALS5230行0924-4247身份匹配；三不同正式期次近年光学原摘要/独立准入仍缺，保留pending。
+- 本刊已读细则：原研究/Letters与不定期邀稿综述区分，模型须带新建模技术并有实验支持；这是当前Fundamentals范围要求，不迁移Sensors and Actuators B的政策。当前只Scope/ISSN而非完整Guide/fee，原平台两刊403后未为本刊另做拒绝请求。
+- 未解决内容及影响：本刊没有独立403断言，依据是共享原平台既有两真实拒绝；实际Scope不替代三光学原论文或引申所有磁热研究适配。；MJL/JCR/CAS、电子刊号载体、完整Guide/费用与覆盖年待核；来源表Journal身份不是每篇EI入库证据。
+- 维护触发：合法原摘要和新分类身份/费用证据出现后核三不同正式期次光学传感样例，A/B两刊规则分开。
+
+## journal-65b77772de
+
+Solar Energy Materials and Solar Cells；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/solar-energy-materials-and-solar-cells/0927-0248)。实读官方检索展开Scope：光伏/光热/光电化学材料含光捕获、纹理化、成像/非成像集光、光控及智能窗，不能泛化所有能源为光学。EI SERIALS5332行0927-0248身份匹配；缺三近年跨期光学原摘要/完整准入字段，保留pending。
+- 本刊已读细则：材料光学性质与薄膜/涂层/加工关系明确，纯太阳能系统技术若不涉及材料适用另一刊的原范围提示，不继承另一刊现行Guide。官方页旧Refocus转投叙述无生效日，不采用为当前操作承诺；年度15卷展示不造实际样例卷期。只读Scope/ISSN而非完整费用/稿型规范。
+- 未解决内容及影响：未对本刊作独立403请求，保留共享原平台两实际拒绝；没有三原光学摘要、首次日/正式卷期，官网范围不能充数。；电子身份/MJL/JCR/CAS/完整Guide/费用和覆盖年待核；不将无年份旧转投指示或其他能源刊APC套本刊。
+- 维护触发：新合法原论文及独立分类/作者规则证据出现后核三不同正式期次光学材料样例，再判断准入及费用。
+
+### V1-G3E：共同证据与保护
+
+Compendex缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，SERIALS2026-08-07与DISCONTINUED2026-05-01。首次完整名核对六目标中Measurement没有简名精确匹配，第二次只按已读官方0263-2241确认3951长刊名，未误判未收录、未继续重扫。六SERIALS刊名/Journal/Elsevier/刊号一致、停收表无匹配；EI不替代光学适配或覆盖年/单篇证据。所有候选维持pending，缺三不同正式期次近年原光学摘要和完整准入范围，不批量升级。
+
+[Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他267候选、全部正式目录及冻结范围和旧审查保持。
