@@ -728,10 +728,10 @@
     "scopeHint": "光通信、集成光子",
     "sourceEntry": "https://ecoc2027.org/important-dates/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["ecoc-2026", "ecoc-2027"],
-    "decisionReason": "官方后续届次身份及会期已核实，追加2027记录并保留2026历史；征稿缺口分别保存。",
-    "nextAction": "核对2027模板/篇幅、PDP、注册和出版，关注2/15系统开放。",
-    "reviewedAt": "2026-10-03"
+    "relatedExistingIds": ["ecoc-2026", "ecoc-2027", "ecoc-2025"],
+    "decisionReason": "追加官方历史日城和原年资料到既有系列；已收录未来/现届保持，旧规则不当当前投稿开放。",
+    "nextAction": "维护现届/后续官方公告，补历史原CFP最终版、注册冲突及出版规则；不外推未来截止。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-f623de7866",
@@ -798,10 +798,10 @@
     "scopeHint": "集成光子、光通信、激光与非线性",
     "sourceEntry": "https://ieee-ipc.org/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["ipc-2026"],
-    "decisionReason": "已有正式条目；收录不代表所有索引、分区或后续届次已核实。",
-    "nextAction": "维护来源与缺失字段；会议继续发现后续届次。",
-    "reviewedAt": null
+    "relatedExistingIds": ["ipc-2026", "ipc-2024", "ipc-2025"],
+    "decisionReason": "追加官方历史日城和原年资料到既有系列；已收录未来/现届保持，旧规则不当当前投稿开放。",
+    "nextAction": "维护现届/后续官方公告，补历史原CFP最终版、注册冲突及出版规则；不外推未来截止。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-1279bfb709",

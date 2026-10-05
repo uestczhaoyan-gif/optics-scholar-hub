@@ -73,7 +73,7 @@
     "id": "series-e0aa59321b2a",
     "name": "ECOC",
     "aliases": [],
-    "editionIds": ["ecoc-2026", "ecoc-2027"],
+    "editionIds": ["ecoc-2026", "ecoc-2027", "ecoc-2025"],
     "website": "https://ecoc2027.org/",
     "sources": [
       "https://ecoc2026.org/",
@@ -81,7 +81,13 @@
       "https://ecoc2027.org/",
       "https://ecoc2027.org/important-dates/",
       "https://ecoc2027.org/venue/",
-      "https://ecoc2027.org/topics/"
+      "https://ecoc2027.org/topics/",
+      "https://ecoc2025.org/",
+      "https://ecoc2025.org/paper-submission/",
+      "https://ecoc2025.org/venue/",
+      "https://ecoc2025.org/registration/",
+      "https://ecoc2025.org/presenter-instructions/",
+      "https://ecoc2025.org/wp-content/uploads/2025/02/ECOC_2025_Submission-Instructions.pdf"
     ],
     "nextEditionCheckedAt": "2026-10-03"
   },
@@ -101,13 +107,17 @@
     "id": "series-6ea78a0d43e3",
     "name": "IEEE IPC",
     "aliases": [],
-    "editionIds": ["ipc-2026"],
+    "editionIds": ["ipc-2026", "ipc-2024", "ipc-2025"],
     "website": "https://ieee-ipc.org/",
     "sources": [
       "https://ieee-ipc.org/",
       "https://ieee-ipc.org/paper-submission/submission-guidelines/",
       "https://ieee-ipc.org/attendees/registration/",
-      "https://ieee-ipc.org/attendees/hotel-travel/"
+      "https://ieee-ipc.org/attendees/hotel-travel/",
+      "https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/",
+      "https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/",
+      "https://ieeephotonics.org/announcements/explore-the-redesigned-ipc-2025-website-register-today/",
+      "https://ieeephotonics.org/announcements/announcing-the-ipc-2025-special-symposia/"
     ],
     "nextEditionCheckedAt": null
   },

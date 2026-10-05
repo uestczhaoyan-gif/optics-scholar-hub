@@ -6342,5 +6342,138 @@
         "note": "标题2026但通知段残留early March 2025，年份不一致，未知保留。"
       }
     ]
+  },
+  {
+    "id": "ecoc-2025",
+    "series": "ECOC",
+    "year": 2025,
+    "name": "欧洲光通信会议 ECOC 2025（历史届次）",
+    "nameEn": "51st European Conference on Optical Communication",
+    "region": "海外",
+    "location": "丹麦 · 哥本哈根",
+    "venue": "Bella Center, Center Boulevard 5",
+    "start": "2025-09-28",
+    "end": "2025-10-02",
+    "topics": ["光通信", "集成光子", "量子光学", "传感与测量"],
+    "description": "已结束的ECOC，11个技术分委会覆盖光纤/光子器件、传输/网络、光无线与量子通信；接入现有2026/2027时间线供往届准备比较。",
+    "website": "https://ecoc2025.org/",
+    "notice": "https://ecoc2025.org/paper-submission/",
+    "registration": "https://ecoc2025.org/registration/",
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核当届公开投稿页：强制ECOC2025 Word或LaTeX模板，PDF正文最多3页，另1页仅致谢/参考文献；摘要至多45词，全作者及单位、通讯邮件和版权段。可选口头/海报，最终形式由委员会分配。来源：https://ecoc2025.org/paper-submission/",
+      "三页原Submission Instructions全文/原图：系统题名至多25词，摘要45词不含图表，PDF小于5MB；每报告人最多列为两个摘要的presenting author，并非所有作者最多投两篇。学生奖申请者须为报告学生并提供有效证明。p2仅简写额外页致谢，p1及网页同时含参考，不能扩成四页正文。来源：https://ecoc2025.org/wp-content/uploads/2025/02/ECOC_2025_Submission-Instructions.pdf",
+      "截止前允许修改，送审稿须满足最终版规范，报告作者须注册并现场报告。IEEE PDF eXpress兼容性检查不等于提交。本批未登录系统，完整模板/协议及匿名方式未核。来源：https://ecoc2025.org/paper-submission/",
+      "海报A0竖版至多宽84.1×高118.9cm、英文；口头PPTX16:9、嵌字体/视频另附、USB带入且不用个人电脑，至少报告前两小时到Speaker Preview Room。来源：https://ecoc2025.org/presenter-instructions/"
+    ],
+    "publication": "当届作者页称录用且与注册作者正确关联/现场报告后编入带ISBN论文集，并提交VDE、IEEE Xplore及其他数据库；这是出版/送审计划，不保证每篇实际索引。来源：https://ecoc2025.org/paper-submission/",
+    "notes": "2026-10-05核首页日城和venue页Bella Center；底部Pisa酒店段为异地残留，不作场馆。注册页并列7/21与7/7早价、9/26与9/27常规边界，非会员早价EUR908/858矛盾，最终版本未定。学生常规DKK3688/EUR495、现场DKK3995/EUR536与原页VAT0%一致，仅历史价格参考，其他费用未知；不沿用为2026/2027费率。原2025普通CFP/最终延期未核；后续届次另存。来源：https://ecoc2025.org/registration/",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025原指南所列普通截止（终版待核）",
+        "date": "2025-04-22",
+        "source": "https://ecoc2025.org/wp-content/uploads/2025/02/ECOC_2025_Submission-Instructions.pdf#page=3",
+        "note": "所读PDF p3列此日，未独核最终延期，无时刻。"
+      },
+      {
+        "type": "pdp",
+        "label": "2025历史PDP已关闭（原截止待核）",
+        "date": null,
+        "source": "https://ecoc2025.org/paper-submission/"
+      },
+      {
+        "type": "notification",
+        "label": "2025历史PDP通知",
+        "date": "2025-09-30",
+        "source": "https://ecoc2025.org/paper-submission/",
+        "note": "该页为post deadline submitters，不代普通稿通知。"
+      },
+      {
+        "type": "registration",
+        "label": "2025历史早价截止冲突待核",
+        "date": null,
+        "source": "https://ecoc2025.org/registration/",
+        "note": "同页7/21和7/7并列，未择一版；不推时刻。"
+      }
+    ]
+  },
+  {
+    "id": "ipc-2024",
+    "series": "IEEE IPC",
+    "year": 2024,
+    "name": "IEEE 光子学会议 IPC 2024（历史届次）",
+    "nameEn": "IEEE Photonics Conference 2024",
+    "region": "海外",
+    "location": "意大利 · 罗马",
+    "venue": "具体场馆待核",
+    "start": "2024-11-10",
+    "end": "2024-11-14",
+    "topics": ["综合光学", "集成光子", "电子与器件"],
+    "description": "已结束的IEEE Photonics Society年度会议；学会当届回顾记录光子技术交流与器件/集成光子成果，接入2025/2026同系列。",
+    "website": "https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/",
+    "notice": "https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核学会January2025回顾正文，明确IPC2024于11/10–14在Rome举行；不将新闻发布日期当会议日期。",
+      "本批只核历史身份/日城与回顾主题；原2024CFP、页/词限、普通/PDP最终截止、注册及金额、场馆与出版/匿名细则未知，不复制现2026指南。"
+    ],
+    "publication": "原2024出版及报告/no-show条件未核，不从学会新闻或2026政策保证旧届单篇索引。",
+    "notes": "历史论文准备规则仍待原始CFP，奖项报道不代完整技术程序；2025/2026分别维护，未外推下一届日城。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2024历史初稿截止待核",
+        "date": null,
+        "source": "https://ieeephotonics.org/news/honoring-excellence-in-photonics-ipc-2024-highlights-happy-new-year/"
+      }
+    ]
+  },
+  {
+    "id": "ipc-2025",
+    "series": "IEEE IPC",
+    "year": 2025,
+    "name": "IEEE 光子学会议 IPC 2025（历史届次）",
+    "nameEn": "IEEE Photonics Conference 2025",
+    "region": "海外",
+    "location": "新加坡",
+    "venue": "具体场馆待核",
+    "start": "2025-11-09",
+    "end": "2025-11-13",
+    "topics": ["综合光学", "光学材料", "量子光学", "光通信", "集成光子"],
+    "description": "已结束的IPC；学会原公告包含中红外至紫外材料平台、量子光源/探测器及安全网络、空芯光纤与空分复用三个专题，专题不独立计为新大会。",
+    "website": "https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/",
+    "notice": "https://ieeephotonics.org/announcements/announcing-the-ipc-2025-special-symposia/",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2026-10-05核学会旧活动页会期11/9–13、Singapore及2025专题公告；网页插图标IPC2023不代活动正文年份。来源：https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/",
+      "2025-08-07学会公告列before9October2025早价边界，未核最终延期/金额；旧链接现打开IPC2026 Denver，不能作为2025投稿/住宿指南。来源：https://ieeephotonics.org/announcements/explore-the-redesigned-ipc-2025-website-register-today/",
+      "2025原CFP、篇幅/摘要、普通/PDP截止、场馆、报告/no-show和出版细则未知，不沿用2026两页/45词或住宿信息。"
+    ],
+    "publication": "本批未核2025论文集完整目录/单篇检索与出版条件；专题公告不是出版或索引保证。",
+    "notes": "原2025日城与2024/2026区分保存；Exordo程序需要进一步读取，未登录/看视频或联系。后续公告核验日保持原值，历史扩展不冒充完整现届复核。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025历史初稿截止待核",
+        "date": null,
+        "source": "https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/"
+      },
+      {
+        "type": "registration",
+        "label": "2025原公告提前价格边界",
+        "date": "2025-10-09",
+        "source": "https://ieeephotonics.org/announcements/explore-the-redesigned-ipc-2025-website-register-today/",
+        "note": "原公告before9October，须在9日前，不代表9日全天有效；未独核最终版本。"
+      }
+    ]
   }
 ]
