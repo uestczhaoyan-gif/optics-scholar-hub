@@ -200,3 +200,43 @@ ACS Energy Letters；收尾状态pending。
 - JCR2025、指标2024机构转载：[OPTICS p566](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566) J Opt Q2/JBIO Q3，[BIOCHEMICAL RESEARCH METHODS p41](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=41)和[BIOPHYSICS p55](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=55) JBIO Q3。三个表页已渲染视觉核对JIF列，AIS不替代。来源等级secondary，CAS未知；印度同名刊不混入。ACS PDF文本筛选不作为本批正式分区核验。
 - ACS三入口实读仅范围/部分稿型：电子材料Letters2500词、AMI原稿摘要300词、Energy Letters2500词分别来源于各指南；未宣称读完全部细则。AAEM刊页与Energy About实际拒绝；AMI没有独立原文拒绝尝试，不伪称每篇均403。三刊EI row76/78/85支持索引线索，缺三原论文的适配证据仍待维护。
 - 本批更新2正式新刊和5候选的实际决策/日期；旧104刊/52刊样例、其余268候选、全部会议/系列/活动与冻结名单不变。新增两刊须纳入G2正式质量收尾，G3剩40未审不标完成。
+
+## V1-G3C：量子与物理三候选
+
+2026-10-05新增三实际审阅结论：Quantum准入，NJP/QST保留真实原论文访问与证据限制；固定60已审23、剩37未审。两IOP支持站About实读，未因部分可读声称全刊核实。
+
+## journal-4c18690354
+
+Quantum；admitted，正式ID quantum。
+
+- 原来源：[指南/范围](https://quantum-journal.org/instructions/authors/)。2521-327X/非营利Quantum身份、MJL当前SCIE及JCR2025（指标2024）两学科JIF Q1机构转载实核；三原公开摘要分别为年度卷8/9/10的近两年光学理论、架构模拟及光路实验，满足交叉准入。EI仍未知，不将空匹配判未收录。
+- 实际未知/影响：CAS与索引覆盖年份未知；EI本版无肯定匹配。；默认费用EUR600一致，Payment与更新公告生效年冲突；指南周期含2022背景，不当当前承诺。
+- 后续触发：出现新版索引/分区或费用日期澄清后逐字段维护；不同年度规则与原论文理论/实验边界保留。
+
+## journal-a43f76601d
+
+New Journal of Physics；pending。
+
+- 原来源：[指南/范围](https://publishingsupport.iopscience.iop.org/journals/new-journal-of-physics/about-new-journal-physics/)。实读官方About，覆盖全物理且明确Optics/Photonics；Letters5000词与紧迫性说明、通常不超18000词及完全OA费用范围可读。原期刊入口搜索工具robots拒绝，本次未核三不同期次光学原摘要；出版社SCIE/EI列举不升级为数据库证据，保留pending。
+- 实际未知/影响：公开投稿范围可读，原论文入口robots拒绝，尚无三篇实读光学样例；未对本刊独立浏览器安全拒绝作断言。；MJL/完整分区、EI数据库身份未核；本次范围/部分费用阅读不代表所有字段完成。
+- 后续触发：合法可读原论文及数据库身份依据出现后核实三不同正式期次近年光学样例、准入版本和剩余指南字段；不重试已受限验证域。
+
+## journal-9b448e19c0
+
+Quantum Science and Technology；pending。
+
+- 原来源：[指南/范围](https://publishingsupport.iopscience.iop.org/journals/quantum-science-technology/about-quantum-science-technology/)。实读官方About的量子科技范围、Letters紧迫性说明/邀稿及混合出版条件；原入口搜索工具robots拒绝，浏览器导航跳validate.perfdrive.com被自动审批拒绝（历史安全限制），已停止且不绕过。尚无三不同期次光学原摘要与完整数据库准入证据，保留pending。
+- 实际未知/影响：自动审批拒绝原刊导航：跳转此前受限反机器人域，不再重试或换工具绕过。；可读范围含宽量子技术，不等于三篇光学样例；publisher SCIE/EI不是数据库直查，未保存正式分区。
+- 后续触发：有合法可读原文和明确身份/索引证据的新条件后维护三不同正式期次光学样例及准入；受限域不继续请求。
+
+### V1-G3C：Quantum逐字段来源
+
+- 身份/刊号来自三原页BibTeX，出版社非营利组织全名匹配；[MJL查询](https://mjl.clarivate.com/search-results?issn=2521-327X&hide_exact_match_fl=true)实际浏览器唯一Exact Match QUANTUM、2521-327X及SCIE卡实核，未登录profile/单篇，覆盖年份未知。EI当前[来源表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)按刊号/完整刊名无匹配，保留unverified，不作停收结论。两个JCR2025（指标2024）JIF Q1：[综合物理p612](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612)、[量子科技p686](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=686)，两表实际渲染视觉核对；来源secondary，不编CAS。
+- 三篇均实读完整公开摘要/Published/BibTeX而未通读全文；窗口2024-10-05起。不同正式年度卷8/9/10，不把三不同文章号叫三月期：
+  - [Heralded Optical Entanglement Generation via the Graph Picture of Linear Quantum Networks](https://quantum-journal.org/papers/q-2024-12-18-1572/)，Published 2024-12-18。2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 8,1572(2024)，年度卷8。将玻色子减算符图转成线性光学元件与预示GHZ/W纠缠电路；理论设计方案，不当新实验测量。1572是文章标识，不当页码，未通读全文。
+  - [End-to-end switchless architecture for fault-tolerant photonic quantum computing](https://quantum-journal.org/papers/q-2025-07-14-1796/)，Published 2025-07-14。2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 9,1796(2025)，年度卷9。无光开关的连续变量光子容错架构，包含被动片上元件及光子探测；12–13dB阈值来自架构/编码模拟，不当已制造完整容错计算机。未通读全文。
+  - [Qubit operations using a modular optical system engineered with PyOpticL: a code-to-CAD optical layout tool](https://quantum-journal.org/papers/q-2026-06-15-2135/)，Published 2026-06-15。2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 10,2135(2026)，年度卷10。Python光路路由到CAD与模块光学底板；以3D打印底板的锶离子激光系统实证冷却、态探测及超过99%单量子位门保真度。软件/光路仿真与实验实证分开，未通读全文。
+- [作者指南](https://quantum-journal.org/instructions/authors/)实际读取投稿、格式、贡献及出版/许可条件；明确quant-ph arXiv入口与录用后版本。不把含2022年1月背景的阶段时长写成2026统计。全文细则不全文复制，仅简述已保存字段。
+- [Payment](https://quantum-journal.org/payment/)明确默认EUR600、可选100及按需豁免；[2024-12-16更新公告](https://quantum-journal.org/updated-publication-charges/)写2025年1月生效，Payment写2024年1月；金额一致，生效年待官方澄清。不保存支付账号/联系方式，不执行投稿或支付。
+- 两IOP支持页只保留部分实际已读条件：NJP完全OA GBP1920/EUR2190/USD2875，QST订阅免费/可选Gold GBP3075/EUR3500/USD4295，均另计VAT、页面费率年度未标，不成为本批正式费率条目。QST反机器人域自动审批拒绝来自旧限制（原IJEM记录见[日志](VERIFICATION_LOG.md)），不绕过。NJP仅搜索工具robots拒绝，不伪称独立浏览器访问。
+- 固定旧106刊及52旧样例/270其他候选、会议系列活动和冻结范围不变。新增Quantum须G2质量收尾；固定G4名单仍53，不扩大其未完成项。

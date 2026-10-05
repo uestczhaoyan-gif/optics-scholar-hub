@@ -8218,5 +8218,91 @@
         "note": "Compendex 数据库方公开来源表 SERIALS（2026-08-07版）第3077行：刊名、Journal类型及已知印刷/电子刊号匹配；DISCONTINUED（2026-05-01版）无匹配。未作订阅平台单篇检索，覆盖年份未知。"
       }
     ]
+  },
+  {
+    "id": "quantum",
+    "name": "Quantum",
+    "abbr": "Quantum",
+    "publisher": "Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften",
+    "topics": ["量子光学", "集成光子", "光学设计与制造"],
+    "description": "社区非营利开放获取量子科学期刊；已核光学样例包括线性光学纠缠、光子计算架构及离子量子位的光路系统。",
+    "website": "https://quantum-journal.org/",
+    "guide": "https://quantum-journal.org/instructions/authors/",
+    "requirements": [
+      "2026-10-05实读指南：提交arXiv预印本标识，须发布于或交叉列入quant-ph；无初投费用及强制格式/篇幅约束，开头明确主要结果与假设，投稿信非必需。",
+      "作者贡献声明必填，使用AI的范围须披露；综述题名含review并说明目标读者。Quantum LaTeX类建议使用但不强制。录用最终arXiv版本使用CC BY4.0，引用有DOI作品须链接完整DOI。"
+    ],
+    "publishing": "2026-10-05核验：开放获取CC BY4.0；Payment默认EUR600、可选EUR100减价或按需全免，不需解释豁免需求。2024-12-16公告写2025年1月生效，而Payment写2024年1月，生效年冲突保留，未自行择一。来源：https://quantum-journal.org/payment/ 与 https://quantum-journal.org/updated-publication-charges/",
+    "schedule": "作者指南的分阶段时长说明含2022年1月背景，未取得当前年度统计，不将该旧估计当2026承诺；个稿周期待核实。",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=612",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "QUANTUM SCIENCE & TECHNOLOGY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=686",
+        "evidence": "secondary"
+      }
+    ],
+    "issn": null,
+    "eissn": "2521-327X",
+    "domains": ["光学", "物理", "信息与计算"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2521-327X&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL公开唯一Exact Match QUANTUM，2521-327X及非营利出版社匹配；Core Collection明确SCIE。未登录profile或检索单篇，覆盖年份未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-08-07 SERIALS/2026-05-01 DISCONTINUED按2521-327X及完整刊名Quantum均无匹配；只说明本轮公开表未取得肯定依据，不是未收录或停收结论，不反复查同版。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Heralded Optical Entanglement Generation via the Graph Picture of Linear Quantum Networks",
+        "source": "https://quantum-journal.org/papers/q-2024-12-18-1572/",
+        "publishedAt": "2024-12-18",
+        "relevance": "2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 8,1572(2024)，年度卷8。将玻色子减算符图转成线性光学元件与预示GHZ/W纠缠电路；理论设计方案，不当新实验测量。1572是文章标识，不当页码，未通读全文。"
+      },
+      {
+        "title": "End-to-end switchless architecture for fault-tolerant photonic quantum computing",
+        "source": "https://quantum-journal.org/papers/q-2025-07-14-1796/",
+        "publishedAt": "2025-07-14",
+        "relevance": "2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 9,1796(2025)，年度卷9。无光开关的连续变量光子容错架构，包含被动片上元件及光子探测；12–13dB阈值来自架构/编码模拟，不当已制造完整容错计算机。未通读全文。"
+      },
+      {
+        "title": "Qubit operations using a modular optical system engineered with PyOpticL: a code-to-CAD optical layout tool",
+        "source": "https://quantum-journal.org/papers/q-2026-06-15-2135/",
+        "publishedAt": "2026-06-15",
+        "relevance": "2026-10-05实读原完整公开摘要/Published/BibTeX；Quantum 10,2135(2026)，年度卷10。Python光路路由到CAD与模块光学底板；以3D打印底板的锶离子激光系统实证冷却、态探测及超过99%单量子位门保真度。软件/光路仿真与实验实证分开，未通读全文。"
+      }
+    ]
   }
 ]

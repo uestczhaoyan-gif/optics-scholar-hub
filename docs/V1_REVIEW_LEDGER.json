@@ -956,6 +956,48 @@
         "本次未核MJL、完整分区版本或本刊APC，不凭搜索片段填入。"
       ],
       "maintenanceTrigger": "合法原文可读后核实光伏/光电转换等三篇不同正式期次近年样例；不将无光学关联的储能内容纳入适配，并补分区/收费细则。"
+    },
+    {
+      "candidateId": "journal-4c18690354",
+      "checkedAt": "2026-10-05",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-4c18690354",
+      "formalIds": ["quantum"],
+      "limitations": [
+        "CAS与索引覆盖年份未知；EI本版无肯定匹配。",
+        "默认费用EUR600一致，Payment与更新公告生效年冲突；指南周期含2022背景，不当当前承诺。"
+      ],
+      "maintenanceTrigger": "出现新版索引/分区或费用日期澄清后逐字段维护；不同年度规则与原论文理论/实验边界保留。"
+    },
+    {
+      "candidateId": "journal-a43f76601d",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-a43f76601d",
+      "formalIds": [],
+      "limitations": [
+        "公开投稿范围可读，原论文入口robots拒绝，尚无三篇实读光学样例；未对本刊独立浏览器安全拒绝作断言。",
+        "MJL/完整分区、EI数据库身份未核；本次范围/部分费用阅读不代表所有字段完成。"
+      ],
+      "maintenanceTrigger": "合法可读原论文及数据库身份依据出现后核实三不同正式期次近年光学样例、准入版本和剩余指南字段；不重试已受限验证域。"
+    },
+    {
+      "candidateId": "journal-9b448e19c0",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-05.md#journal-9b448e19c0",
+      "formalIds": [],
+      "limitations": [
+        "自动审批拒绝原刊导航：跳转此前受限反机器人域，不再重试或换工具绕过。",
+        "可读范围含宽量子技术，不等于三篇光学样例；publisher SCIE/EI不是数据库直查，未保存正式分区。"
+      ],
+      "maintenanceTrigger": "有合法可读原文和明确身份/索引证据的新条件后维护三不同正式期次光学样例及准入；受限域不继续请求。"
     }
   ],
   "formalDataReviews": [],

@@ -3015,12 +3015,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
+    "sourceEntry": "https://publishingsupport.iopscience.iop.org/journals/new-journal-of-physics/about-new-journal-physics/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方About，覆盖全物理且明确Optics/Photonics；Letters5000词与紧迫性说明、通常不超18000词及完全OA费用范围可读。原期刊入口搜索工具robots拒绝，本次未核三不同期次光学原摘要；出版社SCIE/EI列举不升级为数据库证据，保留pending。",
+    "nextAction": "合法可读原论文及数据库身份依据出现后核实三不同正式期次近年光学样例、准入版本和剩余指南字段；不重试已受限验证域。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-014b6d0c60",
@@ -3295,12 +3295,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "优先量子光学、光子量子计算和量子通信",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://quantum-journal.org/instructions/authors/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["quantum"],
+    "decisionReason": "2521-327X/非营利Quantum身份、MJL当前SCIE及JCR2025（指标2024）两学科JIF Q1机构转载实核；三原公开摘要分别为年度卷8/9/10的近两年光学理论、架构模拟及光路实验，满足交叉准入。EI仍未知，不将空匹配判未收录。",
+    "nextAction": "出现新版索引/分区或费用日期澄清后逐字段维护；不同年度规则与原论文理论/实验边界保留。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-9b448e19c0",
@@ -3309,12 +3309,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "优先量子光学、光子量子计算和量子通信",
-    "sourceEntry": null,
+    "sourceEntry": "https://publishingsupport.iopscience.iop.org/journals/quantum-science-technology/about-quantum-science-technology/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方About的量子科技范围、Letters紧迫性说明/邀稿及混合出版条件；原入口搜索工具robots拒绝，浏览器导航跳validate.perfdrive.com被自动审批拒绝（历史安全限制），已停止且不绕过。尚无三不同期次光学原摘要与完整数据库准入证据，保留pending。",
+    "nextAction": "有合法可读原文和明确身份/索引证据的新条件后维护三不同正式期次光学样例及准入；受限域不继续请求。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-ed1f00d66f",
