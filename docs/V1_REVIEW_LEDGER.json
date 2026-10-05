@@ -2917,6 +2917,226 @@
         "收费生效日/税及实际通知/审稿周期未知，半月刊非首决；旧MJL刊号/刊名两查已计入，未变化时不重查。"
       ],
       "maintenanceTrigger": "出版社澄清入口与二三审、实际新模板/年度价表或合法分类/数据库明确结果才维护。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "0cb1d15b00ddc821421c165b313b52cf063ae5ae6e6dbfd9214a7b22650181ac",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "原观众/同期听会链接不说明现在仍开放；具体资格/收费/时刻未知，日期级不造时区。",
+        "不继承2027母展或COS/OGC论文会议规则，展览/论坛数量不凑独立会议。"
+      ],
+      "maintenanceTrigger": "母展原更正或新届独立公告后核自己的日期/参与入口；旧子活动保存历史。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-micro-nano-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e5906b5980f218ea809f254321429f88a5cc9e2f700a9f354e46f578d155f20f",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-micro-nano-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "旧免费入口不证明当前可参会或含母展全部权限；时刻/票务资格未知。",
+        "没有公开CFP证据，不能造论文集/EI或拿纳米压印冲突日期补此论坛。"
+      ],
+      "maintenanceTrigger": "本论坛独立下一届或原议程更正时核当届参与条款，不套其他制造活动。"
+    },
+    {
+      "kind": "event",
+      "id": "light-precision-forum-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f7a0e463711129763a8e8a31249729b23d4bff618edcace626d77083295c04bc",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#light-precision-forum-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "会后报道不是CFP，公开报名/投稿窗口与后续系列未知；原未读完整正文，不造页内细则。",
+        "同名光学精密论坛可指别的系列，当前无parent或论文出版/索引依据。"
+      ],
+      "maintenanceTrigger": "主办方合法可读完整原报道或独立下一届准确公告出现再维护；同名活动逐个身份核实。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-ai-imaging-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "8ef1da64756f3260bee904f2e6c43a38ba3f7ebce15062c550f7e05debcdcd3c",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-ai-imaging-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "无公开CFP/稿型/出版/索引承诺，当前报名开放与具体时刻资格未知。",
+        "本届议题不表示所有AI方向都光学，2027母展不能推本论坛同日换届。"
+      ],
+      "maintenanceTrigger": "本专题独立当届公告/原更正后核日城和参与细则，保留旧届记录。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-semiconductor-metrology-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "cb7c0e248614dca729cc8a7ff4406748bffd12cf40d9a07fa66291379a7d5300",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-semiconductor-metrology-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "免费听会旧入口不证今开放或论文投稿，时刻资格/CFP/论文集索引未知。",
+        "下一届日期未独立公告，不按2027母展时段迁移。"
+      ],
+      "maintenanceTrigger": "本论坛新届正式通知或主办更正出现后核独立身份、日城和报名。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-endoscopic-imaging-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4b38c455a266c1b7496d11b9363293a8ceb266dec284a3f1c5bfa4e653330742",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-endoscopic-imaging-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "没有CFP/论文出版/索引证据；免费旧听会入口、现在报名/资格与开始时刻未知。",
+        "活动范围不代表医疗建议或已核临床疗效；2027没有本论坛独立日城。"
+      ],
+      "maintenanceTrigger": "本论坛独立新公告或原日程更正后核参与规则，历史光学方向来源保留。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-optical-coatings-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "bdc778b22ec2dcfc6ed43bd4504046e6a7c09ea091d4fba4f1a0a182e1ed2ed0",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-optical-coatings-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "旧免费入口未核当下开放或所有场馆票务，开始时刻/资格未知。",
+        "没有开放论文征稿或索引保证，不能凭大会名称变成独立论文会议或套2027母展。"
+      ],
+      "maintenanceTrigger": "主办独立本论坛新届或原通知更正时更新，参与与论文渠道分开。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-infrared-detection-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9385f0e6e33e18c90b5c2c056b6af0896de370cc7e5defd1df37442f4f98e469",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-infrared-detection-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "公开详情与总表是旧当届内容，未核今报名/时刻资格；没有论文CFP和论文集索引承诺。",
+        "不把同领域IRMMW学术规则或下一届母展日期套入此产业活动。"
+      ],
+      "maintenanceTrigger": "本专题独立新届日城和公开参与细则或原更正后维护。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-ar-vr-optics-2026",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "adfb336cbe14414a6450f52014e832b0cb6ac0b8e61e027640e5dad4ca6f0f3d",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-ar-vr-optics-2026",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "未发现论文CFP/出版索引资格，旧免费入口不保证当前开放或全部参与权益。",
+        "未来日期/时刻/报名资格未知，不与微显示候选合并或按2027母展继承。"
+      ],
+      "maintenanceTrigger": "ARVR本论坛独立新公告或原日程更正时核自己的字段，其他显示活动另处理。"
+    },
+    {
+      "kind": "event",
+      "id": "cioe-2027",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "df6aca2f01f7da5ab96677af9195da37b5ce89ca815303fc97fa76fa5e51ed5d",
+      "formalReviewBase": "868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6",
+      "evidence": "V1_EVENT_FORMAL_REVIEW_2026-10-06.md#cioe-2027",
+      "fieldsReviewed": [
+        "identity-and-parent-relations",
+        "sources-and-actual-review-scope",
+        "dates-location-and-date-precision",
+        "participation-not-paper-submission",
+        "history-and-independent-future-announcement",
+        "access-conflicts-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "观众登记是否开放/费用/听会/时刻与各子论坛未来日期未知，只公告母展日城。",
+        "没有论文截止，母展展示领域不能作为子学术会议当届CFP或索引保证。"
+      ],
+      "maintenanceTrigger": "主办方发布2027独立观众/论坛/子会议当届规则才更新相应字段；新发现进入后续版本，不扩大本版。"
     }
   ],
   "coreSeriesReviews": [

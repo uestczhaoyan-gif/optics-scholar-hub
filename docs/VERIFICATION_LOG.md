@@ -1545,3 +1545,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2J实审8刊正式字段质量，累计75/250、余175；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2j)。长操作前work/V1-G2J-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧67正式审查及候选/G4/G5/final账本保持、75唯一kind:id与全部digest/本批一对一admitted关联通过；512本地文件链接、六文件全部实际文档/账本差异审查及git diff --check通过。没有将共同主模板扩为不同长摘要政策、无年份费表升级或JIF/AIS混同；空分区明确未知。纯文档复用已验收六入口构建及维护460/12主题摘要，同SHA CI完整31测试/typecheck/lint/build后核部署。
+
+## 2026-10-06：活动质量 V1-G2K
+
+- 868652bf27be7e5cfc5a8684a64e5fdcc6a6eea6已验收[Pages 37380107505](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37380107505)，同SHA build/deploy成功、首页/版本200，摘要0dce3304728980b8619acf9377e9a0eb8fdb3d3823fb5f1e2f0ebda8ca3c0eae匹配本地（2026-10-05T22:07:34.317Z）。编辑前HEAD=origin/main，work/V1-G2K-plan.json保护实际范围。
+- V1-G2K实审10活动全部字段，正式质量85/250（46刊/29届/10活动），余165；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待，整体IN_PROGRESS。 实际完整读固定十活动全部JSON与十个admitted一对一候选关联，9/11三初始活动及四论坛逐页旧核验日志、9/14红外/ARVR旧官方细则与总表范围、C9独立CIOE2027母展/旧子会议冲突。复用当届原官网记录与已说明官方检索快照，不重查历史不变页面，不把总表2027标头当所有子会议已换届。七子论坛日期落在2026母展会期内，青年论坛无母展关系；不是今日原页或实际后台报名复验。 [逐项范围](V1_EVENT_FORMAL_REVIEW_2026-10-06.md#v1-g2k)。必要数据保护、真实差异审查后提交推送并同SHA验收。
+
+- 发布前validate、全data/冻结范围字节保护、旧75正式/候选/G4/G5/final账本保持、85唯一kind:id和全部digest/十admitted一对一与七子活动日期包含断言通过；441本地文件链接、完整新活动文档/其余文档与账本真实差异及git diff --check通过。纯文档复用同摘要已验收六资源构建/维护460与12主题；同SHA CI完整31测试/typecheck/lint/build再验部署。八中文刊部署查询一次api连接超时，仅复查原run37380107505成功，没有重复提交。普通额度五小时70%/周26%允许，继续固定未审范围。
