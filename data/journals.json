@@ -1779,10 +1779,13 @@
     "guide": "https://journal.hep.com.cn/foe/EN/guidelines",
     "requirements": [
       "通过现官网 Submit manuscript 进入投稿系统，文章类型包括研究论文、综述、Letters 和 Comments；专题文章另外核对征稿说明。",
-      "作者指南页提供 Submission guidelines-FOE2023.docx 与 Featured Columns 指南下载；按所选文章类型核对当前模板，本轮未逐项解析附件篇幅要求。"
+      "2026-10-05读取现高教社官网仍链接的Submission guidelines-FOE2023.docx相关段：摘要通常150–250词，特定系统综述/原创研究在报告规范需要时可至450词，非所有稿自动450；4–6关键词。每次投稿/修订均交完整可编辑源文件，Word可用，数学稿亦可LaTeX，单独PDF不能代替源文件。附件版本2023且页头仍指旧Springer，不称2026独立新规。来源：https://hep-frontiers-journals-public-prod.oss-cn-beijing.aliyuncs.com/attached/file/20230518/20230518134804_600.docx",
+      "FOE2023附件列题名页作者/单位、通讯邮件、ORCID若有，Statements and Declarations含相关利益披露；数据政策Type1鼓励适用时存公共仓库，不写成强制所有数据公开。Editorial procedure列单盲、预评估后至少2专家；通用双盲数据遮名提醒不是本刊双盲证据。2026迁移后的独立审稿/模板流程尚待新原文件。来源：https://hep-frontiers-journals-public-prod.oss-cn-beijing.aliyuncs.com/attached/file/20230518/20230518134804_600.docx",
+      "现官网Featured Columns附件（2024-12-26）：Comment建议800–1000词、至多1图/表/图形及5参考；Letter to the Editors与Letter各建议1500–2000词、至多3图/表/图形和10参考。前者建议Dear Editors开头/作者单位结尾，后者建议约50词Highlight；Letter的Highlight不自动套到普通Research/Review。来源：https://hep-frontiers-journals-public-prod.oss-cn-beijing.aliyuncs.com/attached/20241226/20241226145752_55.docx",
+      "同一Featured Columns附件Research Highlight建议150–200词、至多1图/表/图形、1–2参考，属于研究简介，不能当原创全文投稿。以上字数为should better的建议范围；普通Research/Review全文硬页词限、图文摘要/普通Highlights及2026新模板未知，专题需另核当届征稿。来源：https://hep-frontiers-journals-public-prod.oss-cn-beijing.aliyuncs.com/attached/20241226/20241226145752_55.docx"
     ],
     "publishing": "2026-09-11 核对高教社 Article processing charge 页：Diamond Open Access，不向作者收取 APC。投稿前仍需确认当前政策。",
-    "schedule": "常规投稿与专题截止分别核对；官网首次决定中位数不是录用周期承诺。",
+    "schedule": "2026-10-05核现官方指南页：Submission to first decision中位数30天，指标年度/样本未给，不当录用或发表周期，也不保证个稿。Featured Columns称Letters通常快审，但无具体时限；常规与专题截止分别核对。来源：https://journal.hep.com.cn/foe/EN/guidelines",
     "checkedAt": "2026-09-11",
     "rankings": [
       {

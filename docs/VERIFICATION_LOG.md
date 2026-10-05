@@ -1267,3 +1267,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - ACP档案/原年公开指南与PW场馆正文实际核，未将2026/2027规则相互移植；ACP手册404、PW旧CFP浏览器阻断未绕过，相关未知保留。必要验证、差异审查后上传并按同SHA验收；其他规划继续。
 
 - 发布前数据校验、固定3e82c9d的125旧届/96其他系列/271其他候选及全部其他JSON保持、两系列两字段/两候选四字段白名单通过；127/98/21、2025四截止时区/费用与场馆未知边界断言通过。341本地Markdown链接、维护438项/12主题覆盖、修正初稿建议认证和终稿必须认证区别后的Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：FOE附件指南 E32
+
+- C31 e48527f27d3b53f1de49ae7a9289ef2908e7f38c已验收[Pages37250421883](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37250421883)：build/deploy及同SHA完整31项测试/typecheck/lint等CI成功，首页/版本HTTP200，3e01e955395ba30c97f6e380a94e2594b871a9d9d742db3b57e775276644d3a7与本地一致（2026-10-05T01:12:40.348Z）。正式编辑前已验收。work/E32_RESEARCH_2026-10-05.md长操作前保存来源/范围，实际五小时93%/周79%允许；不用重置券。
+- E32补FOE现官网挂载的2023主指南与2024 Featured Columns：摘要条件例外、可编辑源文件、单盲/数据鼓励及Comment/两种Letter/Research Highlight建议范围分别保存；文件旧Springer页头与2026高教社迁移区分，未当全新2026规则。只requirements/schedule，整刊日期/费用/索引分区/36样例、98其他刊及全部其他JSON保护。99刊/127届/10活动、98系列21多届与273候选208/58/7等数量保持；其他规划继续。 [逐字段范围](JOURNAL_GUIDE_EVIDENCE_2026-10-05.md#e32foe现挂载附件)。
+- 实际下载两原Word文件、按章节读主指南和全部Columns文字，原文件hash保存；不将旧Springer版权/费用套到高教社，硬/软限与稿型区分。只读没有账户/投稿/联系/支付/签署。必要验证/差异审查和构建后上传，按同SHA验收；其他规划继续。
+
+- 发布前数据校验、固定e48527f的FOE两字段白名单、98其他刊与全日期/索引分区/36样例及所有其他JSON保持断言通过；旧版/450条件/关键词/Type1鼓励/单盲与各软字数边界通过。266本地Markdown链接、维护438项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查与git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
