@@ -547,3 +547,40 @@ IEEE Photonics Technology Letters；IEEE；原checkedAt 2026-10-05，admitted候
 - 未解决内容及影响：模板内部/摘要词数/实际系统清单未知，旧入口可读失败不绕过或伪称投稿成功；四页硬限依独立指南。；独立超页费率/税优惠、77天统计口径及CAS/当前全学科JCR/索引覆盖单篇未知，未核个稿承诺。
 - 维护触发：本刊明确投稿系统/模板与独立费用、统计或合法新数据库信息可读后维护，不因原失败无限重试。
 - 全字段内容摘要ce41d001e0d4cdcb1ea482f31cca5aaed0c81b1c6ecaa330efd53619824ab42c，基于325e690ccf231a9dd8e64bc9f1111c85e9e96ce4；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2N
+
+实际全文读取三刊当前JSON、9/14两刊指南原核验日志及E10/E31费用、E29 APR原论文稿型/期次和F10 APL身份/指南/两版分区/三原论文记录；复用原日期已实读出处，不今天重新请求不变源、扫描相同数据库或假称已访问后台。逐刊核对刊号/一对一admitted关联、分区报告版年与指标年、独立索引与覆盖未知、稿型/篇幅计数、费用路线及历史周期；未改变data或冻结范围。 本次正式字段质量累计99/251，余152未审；G3 41/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## apl-photonics
+
+APL Photonics；AIP Publishing；原checkedAt 2026-09-11，admitted候选journal-6bc108eeb1一对一。
+
+- 全部字段与原依据：[本刊指南](https://publishing.aip.org/resources/researchers/author-instructions/)；[原记录1](VERIFICATION_LOG.md#2026-09-14aip-两刊作者指南补充)、[原记录2](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e10两本生医光学指南及两本-aip-费用)、[原记录3](https://pubs.aip.org/aip/app/pages/about)、[原记录4](https://publishing.aip.org/resources/researchers/open-science/open-access/)。电子刊2378-0967、印刷号null，APP缩写与Applied Physics Letters身份分开；以光子学为核心，边缘数学/渐进工程材料不自动适配。初投合并PDF、SI独立PDF/可编辑Word或LaTeX、声明/DAS/alt text；Letter≤3500词、Comment/Response≤1000词及列明排除项仅该稿型，其他无统一限不等于编辑不能精简；除Letters/Comments使用章节。2026发布版对应2025指标，About官方披露光学/应用物理两Q1，official不升级订阅数据库。MJL唯一电子号SCIE和EI SERIALS330独立来源，无覆盖年或单篇。E10 Gold OA列表适用2750美元、三CC许可/作者雇主版权，通讯作者GroupA自动豁免/GroupB该刊1500与机构资格分开，不套APR可选OA；专题按独立通知。
+- 分区版本/学科/等级：JCR/JCR 2026（指标2025）/category/OPTICS 光学/Q1/official [来源](https://pubs.aip.org/aip/app/pages/about)；JCR/JCR 2026（指标2025）/category/PHYSICS, APPLIED 物理：应用/Q1/official [来源](https://pubs.aip.org/aip/app/pages/about)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=2378-0967&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2378-0967 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 330 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：独立Publication Charges原请求失败且费率适用时点/税及个体协议资格未明确；通用政策明确列表和金额，但不是独立刊价重新访问，未变化源不重试。；统一摘要限制/完整模板和系统清单、当前处理均值及专题DDL、CAS/全部当前分类数据库与覆盖起止/单篇未知；直接光子专刊没有额外G4样例补造任务。
+- 维护触发：独立刊价页恢复并提供明确版年/税或新稿型模板/专题、合法数据库新字段时逐项更新，不为缺失字段无限重查。
+- 全字段内容摘要1a83966cfd237f952ccf137cecb2600a3c624bef204017ed5292e72d9c341ceb，基于1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50；不是官网内容指纹，不表示未知已补齐。
+
+## applied-physics-reviews
+
+Applied Physics Reviews；AIP Publishing；原checkedAt 2026-09-11，admitted候选journal-efb81b8e87一对一。
+
+- 全部字段与原依据：[本刊指南](https://publishing.aip.org/resources/researchers/author-instructions/)；[原记录1](VERIFICATION_LOG.md#2026-09-14aip-两刊作者指南补充)、[原记录2](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e10两本生医光学指南及两本-aip-费用)、[原记录3](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e31apr独立刊价与2025周期2026-10-04)、[原记录4](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e29cpl--apr不同期次与稿型2026-10-04)。AIP电子号1931-9401无印刷号，应用物理原创与综述两路线，不按通用APR段夹有CPR/chemical physics错误改范围。原创cover letter列缺口/新颖性/意义/相关作者工作；非邀综述需及时性/专长与editorial summary供评估，不当无条件直接投全文。初投PDF/SI/源文件及alt/贡献/DAS。About JCR2026指标2025应用物理Q1为出版社official，MJL SCIE唯一卡/EI377另证，非分区代索引。E31已独立Charges实读无页费、optional Author Select3800美元出版前支付，替代E10仅通用金额的旧限制；混合订阅/OA/三CC许可与机构资格分开，不套Gold自动减免。2025首决41/录用170/发表195天三个均值不相加不保证。E29三不同期次原公开摘要：011420原创深紫外偏振成像；041318量子超表面、031330薄膜BTO均Review，不称三原创实验，日期与较晚刊月分开。
+- 分区版本/学科/等级：JCR/JCR 2026（指标2025）/category/PHYSICS, APPLIED 物理：应用/Q1/official [来源](https://pubs.aip.org/aip/apr/pages/about)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=1931-9401&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1931-9401 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 377 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：通用指南存在CPR混文，保留本刊About范围和明确声明要求；摘要/硬篇幅、模板内部及后台清单未核，非邀综述仍须提案评估。；独立费率税/生效年和个体资格、周期样本/细起算、CAS及覆盖年/单篇未知；三原摘要含两篇综述，未审计收费全文/SI，不外推相似稿录用。
+- 维护触发：独立新版指南消除混文或明确费用适用年/统计口径、合法分类覆盖材料时维护；新论文仅后续版本扩展，不为本版凑三原创。
+- 全字段内容摘要89c592da742fac0612bfbc8635d5c82ff52994e5b626a68efa9b2468c5c7118f，基于1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50；不是官网内容指纹，不表示未知已补齐。
+
+## applied-physics-letters
+
+Applied Physics Letters；AIP Publishing；原checkedAt 2026-10-05，admitted候选journal-b2ec04237a一对一。
+
+- 全部字段与原依据：[本刊指南](https://publishing.aip.org/resources/researchers/author-instructions/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f10applied-physics-letters)、[原记录2](https://pubs.aip.org/aip/apl/pages/policies)、[原记录3](https://pubs.aip.org/aip/apl/pages/charges)、[原记录4](https://clarivate.com/news/clarivate-releases-journal-citation-reports-2026/)。0003-6951/e1077-3118、AIP原创短文与APL Photonics独立；官方JCR2026指标2025应用物理Q2、2025指标2024机构转载p601 JIFQ2分别保持等级，不用AIS或侧栏代索引；MJL唯一SCIE卡/EI376双号与DISCONT无匹配另证。初投通常3000词含图表题注、列明其他前后材料/非文字排除；August2025政策最大3500，与指南超长解释并列不当无限例外。Letter禁章节、至多5图/cover letter为建议，单段摘要250词、初投正文PDF/SI独立/源稿/声明与alt。通常两专家可更多更少、匿名未知，FastTrack/Perspective邀请非全稿快速通道。混合出版不要求页/彩费但optional3800美元与彩色重印附加费分开。2025平均24/86/103天不相加不承诺。三Research Article原摘要不同129(10)/129(1)/127(21)，两个issue日期早于首发表另列；柔性探测/单像素散射成像/深紫外metalens实验，不当临床或已产业应用。
+- 分区版本/学科/等级：JCR/JCR 2026（指标2025）/category/PHYSICS, APPLIED/Q2/official [来源](https://pubs.aip.org/aip/apl/pages/about)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0003-6951&hide_exact_match_fl=true)；2026-10-05实际MJL唯一Exact Match卡：刊名/AIP Publishing及0003-6951/1077-3118匹配，CoreCollection明确Science Citation Index Expanded；非侧栏筛选或JCR索引列，未登录profile/单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05仅核本新目标两刊号：SERIALS 2026-08-07版第376行Journal，Applied Physics Letters/00036951/10773118/American Institute of Physics匹配；DISCONTINUED 2026-05-01版无这两号。未重扫旧92刊，来源表不等于单篇检索，覆盖年未知。
+- 未解决内容及影响：模板内部/关键词限制、匿名模式/后台实际清单未核；3000通常限制与3500政策上限差异保留，不把建议图数或可选cover letter改成硬性。；费用版年税/减免、均值样本起算和稿型细分、CAS及索引覆盖起止/单篇未知；仅原摘要/元数据未通读收费正文/SI，三例不保证相似稿录用。
+- 维护触发：本刊新明确指南/政策协调篇幅，独立价表/周期统计或合法数据库新材料出现后逐字段维护，原入口仅官方链接不伪称系统实测。
+- 全字段内容摘要68082aed43a2542e6eff47e0199bfa07c21d4a000543b7db3e5dfd32aefba5fd，基于1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50；不是官网内容指纹，不表示未知已补齐。

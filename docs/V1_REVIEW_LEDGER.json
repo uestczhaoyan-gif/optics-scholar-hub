@@ -3395,6 +3395,72 @@
         "独立超页费率/税优惠、77天统计口径及CAS/当前全学科JCR/索引覆盖单篇未知，未核个稿承诺。"
       ],
       "maintenanceTrigger": "本刊明确投稿系统/模板与独立费用、统计或合法新数据库信息可读后维护，不因原失败无限重试。"
+    },
+    {
+      "kind": "journal",
+      "id": "apl-photonics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1a83966cfd237f952ccf137cecb2600a3c624bef204017ed5292e72d9c341ceb",
+      "formalReviewBase": "1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#apl-photonics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "独立Publication Charges原请求失败且费率适用时点/税及个体协议资格未明确；通用政策明确列表和金额，但不是独立刊价重新访问，未变化源不重试。",
+        "统一摘要限制/完整模板和系统清单、当前处理均值及专题DDL、CAS/全部当前分类数据库与覆盖起止/单篇未知；直接光子专刊没有额外G4样例补造任务。"
+      ],
+      "maintenanceTrigger": "独立刊价页恢复并提供明确版年/税或新稿型模板/专题、合法数据库新字段时逐项更新，不为缺失字段无限重查。"
+    },
+    {
+      "kind": "journal",
+      "id": "applied-physics-reviews",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "89c592da742fac0612bfbc8635d5c82ff52994e5b626a68efa9b2468c5c7118f",
+      "formalReviewBase": "1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#applied-physics-reviews",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "通用指南存在CPR混文，保留本刊About范围和明确声明要求；摘要/硬篇幅、模板内部及后台清单未核，非邀综述仍须提案评估。",
+        "独立费率税/生效年和个体资格、周期样本/细起算、CAS及覆盖年/单篇未知；三原摘要含两篇综述，未审计收费全文/SI，不外推相似稿录用。"
+      ],
+      "maintenanceTrigger": "独立新版指南消除混文或明确费用适用年/统计口径、合法分类覆盖材料时维护；新论文仅后续版本扩展，不为本版凑三原创。"
+    },
+    {
+      "kind": "journal",
+      "id": "applied-physics-letters",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "68082aed43a2542e6eff47e0199bfa07c21d4a000543b7db3e5dfd32aefba5fd",
+      "formalReviewBase": "1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#applied-physics-letters",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部/关键词限制、匿名模式/后台实际清单未核；3000通常限制与3500政策上限差异保留，不把建议图数或可选cover letter改成硬性。",
+        "费用版年税/减免、均值样本起算和稿型细分、CAS及索引覆盖起止/单篇未知；仅原摘要/元数据未通读收费正文/SI，三例不保证相似稿录用。"
+      ],
+      "maintenanceTrigger": "本刊新明确指南/政策协调篇幅，独立价表/周期统计或合法数据库新材料出现后逐字段维护，原入口仅官方链接不伪称系统实测。"
     }
   ],
   "coreSeriesReviews": [
