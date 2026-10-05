@@ -1480,6 +1480,138 @@
         "税/价格适用时点未知；Opinion四页与收费十五页是不同范围，不互相替代。"
       ],
       "maintenanceTrigger": "新稿型指南、Opinion流程或年度费用/分区公告出现后逐字段维护，明确出版页与源文件页。"
+    },
+    {
+      "kind": "journal",
+      "id": "ap",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9a3f0d1f387daa7438baf964ebd182189fcf20796f76a130ee9766f5510ef757",
+      "formalReviewBase": "7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ap",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "主办方Q1为official公告证据而非登录JCR单刊结果；没有独立分类全表/覆盖年份，不能把此公告升级为数据库直查。报告年份已有Clarivate原发布说明支持，原字段保持。",
+        "CAS、索引覆盖年、Original Paper硬长度、实际登录/税/价格适用日及分阶段周期未核；本次未重读指南网站，不刷新原整刊日期。"
+      ],
+      "maintenanceTrigger": "出现官方数据库分类表、明确报告版年/指标口径或新AP收费与稿型文件后维护；保持AP与APN独立规则。"
+    },
+    {
+      "kind": "journal",
+      "id": "apn",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "fb79767af09d1a9a093f0d2b15b47ba49756f7a31c25a82693922d23dbfed6d4",
+      "formalReviewBase": "7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#apn",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "主办方Q1原年度表述已有Clarivate2026/2025数据对应支持，保留原版本；未登录JCR单刊/完整分类表，不能由Q1推成SCIE。",
+        "SCIE/EI/CAS/覆盖年、研究稿硬长度、税/价格适用日和阶段周期未知；实际登录未验证，免费资格不推广所有稿型。"
+      ],
+      "maintenanceTrigger": "新MJL子库卡/新版EI、正式分类及明确版年或APN新收费稿型公告出现后再核；不重查同版空清单。"
+    },
+    {
+      "kind": "journal",
+      "id": "hpl",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "61ba5de27141b61731e297a66973a55caa455cd4508f49fc41b43ecb7cb05b98",
+      "formalReviewBase": "7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#hpl",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "官方Q1公告与Clarivate2026版反映2025数据相互解释，保留版年字段；未登录JCR分类全表，CAS/索引覆盖年仍未知。",
+        "Research摘要长度/Letter篇幅、投稿系统内部与价格适用日/阶段周期未知；既有403不重试，原则录用素材规则不当初投要求。"
+      ],
+      "maintenanceTrigger": "正式分类/报告年份澄清或新本刊指南、合法可读投稿入口与价格公告出现后逐字段维护；不绕过旧拒绝。"
+    },
+    {
+      "kind": "journal",
+      "id": "nanophotonics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "32cd725ab63d566056a226bcf6af137de036dbfdbdc892c3821560f08fb4da8d",
+      "formalReviewBase": "7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nanophotonics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "JCR/CAS均secondary；索引覆盖年、完整流程登录与阶段周期未知。",
+        "2026独立费率/美元英镑金额未核，不把指南下载日改费率年；数据限制和按需提供是可用声明方式，非所有数据一律公开。"
+      ],
+      "maintenanceTrigger": "独立新指南、年度价表或数据库分区/覆盖证据出现后维护，保留稿型约数及版本。"
+    },
+    {
+      "kind": "journal",
+      "id": "aom",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e3382fe5d7d7de8b4c9555eca19a7fad73ff02ad2d42accfb0b21f64493037eb",
+      "formalReviewBase": "7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#aom",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "已有同Wiley原域安全限制后未重试本刊，保存9/14实际本刊来源范围；完整收费/当前费率、CAS官方复核和覆盖/阶段时长未知。",
+        "典型范围不作为所有稿型硬上限，未宣称模板/各材料清单内部参数已读；本次质量审阅不伪刷新指南与整刊日期。"
+      ],
+      "maintenanceTrigger": "独立合法新指南/价表、原域可用新条件或新分区证据出现后逐字段维护；不为未知费用重复访问受限域。"
+    },
+    {
+      "kind": "journal",
+      "id": "acs-photonics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "2b77201d5c2223bea8948c9afe1e6e2fe754ccc1536a8e62e19fa21bc34acdc3",
+      "formalReviewBase": "7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#acs-photonics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "分区secondary、CAS官方/覆盖年、费用模式与阶段周期未核，不由其他ACS刊APC或数据等级继承。",
+        "现有pubs.acs.org拒绝不重试本刊，独立指南原版本及已读节有效；未声称全部专项要求和登录操作完成。"
+      ],
+      "maintenanceTrigger": "本刊新coden指南、收费与数据库分区/覆盖依据出现后维护；SI用途、稿型范围和预印本披露继续分别处理。"
     }
   ],
   "coreSeriesReviews": [

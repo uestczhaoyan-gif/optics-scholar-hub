@@ -481,3 +481,7 @@ V1-G2A 7ecf131c9e122e3f6466167ec771f920f3c73bc9已验收[Pages37336704029](https
 ## 2026-10-06：六固定候选 V1-G3D
 
 857d6c9fb697d9fd371de7ecbbf95f8c4b92fe91已验收[Pages 37372105871](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37372105871)，同SHA build/deploy成功，首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab与本地一致（2026-10-05T21:14:29.266Z）。 V1-G3D实审IP/ROP/MH/JMCC/EES/Analytical Chemistry六交叉刊，均保留pending及缺三原光学摘要/准入字段的限制；固定60已审29（3准入、26限制）、剩31。正式质量18/250、余232，G4/G5完成，G1/G2/G3/G6仍待，整体IN_PROGRESS。目录107刊/133届/10活动、273候选216 admitted/50 pending/7 deferred保持。 [逐项来源范围](V1_CANDIDATE_REVIEW_2026-10-06.md)。原五小时额度检查与每日来源巡检保持，不重试受限域；继续有限剩余范围。
+
+## 2026-10-06：正式质量 V1-G2D
+
+7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5已验收[Pages 37374848723](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37374848723)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:33:27.056Z）。 V1-G2D实审6刊正式字段质量，累计24/250、余226；固定候选29/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2d)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。

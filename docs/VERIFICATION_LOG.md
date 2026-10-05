@@ -1482,3 +1482,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 上批Pages37372105871 attempt1 build与31项CI通过，deploy零步骤排队15分钟后cancelled；GitHub检查注释确认托管runner多次未能领取。仅同run/同SHA rerun-failed-jobs（HTTP201）成功恢复，未制造新提交，21:14:29Z完成线上验收。Node20 action运行时弃用/ubuntu后续迁移为非阻断平台提示，不误作应用构建失败。
 
 - 发布前固定六候选允许字段/其他267候选深度保护、所有正式数据及冻结范围字节保护、旧账本/18正式/G4/G5/final未验收保护通过；validate107刊/133届、395个Markdown本地文件链接、实际数据及文档差异审查、git diff --check通过。Node24.20子路径构建与六入口静态资源通过，仅既有体积提示；维护460任务/覆盖12主题273候选保持，滚动队列不作为结項要求。31测试/typecheck/lint由本批同SHA CI再执行，尚未将新提交声明已部署。
+
+## 2026-10-06：正式质量 V1-G2D
+
+- 7ffb3e25605d9b94c3f8e2cea9c2fee8657a6ec5已验收[Pages 37374848723](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37374848723)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:33:27.056Z）。正式编辑前HEAD=origin/main。独立逐项完整读取AP/APN/HPL/Nanophotonics/AOM/ACS Photonics现有JSON全部字段、E8与E14及9/14两刊原日志、A1/A3/A4/A6/A7/A11的本刊索引范围；上海光机所2026-06-24原公告本次直接读正文。其余不变来源不重复请求。 同时实际读既有A14版年说明及Clarivate2026-06-17原发布正文，明确2026版反映2025数据，解释主办方年度措辞；没有仅凭新闻日期推指标年。
+- V1-G2D实审6刊正式字段质量，累计24/250、余226；固定候选29/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2d)。长操作前work/V1-G2D-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保护、旧18正式与候选/G4/G5/final账本不变、六新增记录内容摘要/六组字段范围/具体限制与触发通过；427个本地Markdown文件链接、实际文档及账本差异审查、git diff --check通过。Clarivate2026版与2025指标年对应已核，原分区全部保持。纯文档复用前批已验收六入口构建和维护460项/12主题覆盖，同SHA CI仍执行完整31测试/typecheck/lint/build，尚未把本批声明已部署。
