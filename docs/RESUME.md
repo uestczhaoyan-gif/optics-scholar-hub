@@ -443,3 +443,7 @@ E41 2762f986007203e116a5adee8be838d18f9527f6已验收[Pages37325613664](https://
 ## 2026-10-05：Photoacoustics/Displays样例 E43/E44
 
 E42 c4930ab92265c440a7abc2aecad95eaae62d70f5已验收[Pages37326604278](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37326604278)，同SHA完整CI/build/deploy成功，首页/版本200，摘要9c96934a2b5c529aa0ef8c2fb5396e787f00457726eb198c6a288b559acf9757匹配本地（2026-10-05T14:43:11.646Z）。 E43/E44补Photoacoustics/Displays各三近两年不同正式卷原摘要/出版史样例，52刊至少三篇；原Available online/Version of Record/名义卷月分别保存。固定6新增名单均已实际审查，COMST两个正式期次及IJEM证书访问限制保留，旧47刊仍待一次收尾审查；G4及项目未最终验收。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。 [Photoacoustics](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e43photoacoustics)/[Displays](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e44displays)，[逐项账本](V1_REVIEW_LEDGER.json)。冻结名单不变；下一步旧47样例一次收尾和G2/G3/G5，最后功能/发布验收。
+
+## 2026-10-05：固定样例收尾 V1-G4
+
+E43/E44 4ca615e9a9f67f8a564adef05ab52dfdf2c9a87e已验收[Pages37328348755](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37328348755)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:01:42.510Z）。 V1-G4完成固定53刊逐项样例收尾，48刊三个不同正式期次/年度卷证据，5刊实际已审查限制明确保留；52刊有至少三篇样例不等于52刊均三期。AFM现原页安全验证停止，未补造卷期或英文原题；NML仅两个年度卷，CPL更早Early Access未知。其他门槛仍未完成。目录全部保持104刊/133届/10活动、98系列24多届、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11。 [逐刊范围](V1_SCOPE_REVIEW_2026-10-05.md)。下一步固定60候选、12核心系列与正式数据一次收尾及最终功能/发布验收，原五小时任务保持，不新增工作范围。

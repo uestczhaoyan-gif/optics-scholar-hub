@@ -1419,3 +1419,8 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - E43/E44补Photoacoustics/Displays各三近两年不同正式卷原摘要/出版史样例，52刊至少三篇；原Available online/Version of Record/名义卷月分别保存。固定6新增名单均已实际审查，COMST两个正式期次及IJEM证书访问限制保留，旧47刊仍待一次收尾审查；G4及项目未最终验收。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI、JCR102/CAS11及98系列24多届保持。 [Photoacoustics](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e43photoacoustics)/[Displays](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e44displays)。六原完整公开摘要/出版史实核，未来卷次独立；液晶验证类型未知不推断。一次卷目录旧AX失效后刷新可见状态才选择，无盲猜URL或付费绕过。只改两刊scopeExamples及文档/账本，保护其他102刊/旧50样例/全部非scope字段与其他JSON/冻结范围，必要验证差异审查后推送，同SHA验收。
 
 - 发布前validate、固定c4930ab的102其他刊/50旧样例、两目标全部非scope字段与其他JSON/冻结范围字节保护通过；六首次日/两组三不同卷、未来卷月份/未知验证类型/估计实测和52数量、账本六新增审查断言通过。418本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查及git diff --check通过。8正式文件，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：固定样例收尾 V1-G4
+
+- E43/E44 4ca615e9a9f67f8a564adef05ab52dfdf2c9a87e已验收[Pages37328348755](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37328348755)，同SHA完整CI/build/deploy成功，首页/版本200，摘要bf869e6c1378eb9d2de2e859243aa8b837ea48ce07dc364348fdfce337c0619b匹配本地（2026-10-05T15:01:42.510Z）。正式编辑前已验收，工作树干净；work/V1_G4_RESEARCH_2026-10-05.md保存逐项只读审核和AFM现页安全验证停止的范围。普通额度五小时57%/周9%允许，原五小时调度不变。
+- V1-G4完成固定53刊逐项样例收尾，48刊三个不同正式期次/年度卷证据，5刊实际已审查限制明确保留；52刊有至少三篇样例不等于52刊均三期。AFM现原页安全验证停止，未补造卷期或英文原题；NML仅两个年度卷，CPL更早Early Access未知。其他门槛仍未完成。目录全部保持104刊/133届/10活动、98系列24多届、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11。 [逐刊原来源/日期/卷期与边界](V1_SCOPE_REVIEW_2026-10-05.md)。47既有样例实际分组读完，原日志/证据复用；不假称今日重读全部旧论文。只文档账本变化，全data与冻结范围字节保护；必要验证/差异审查后提交推送并同SHA验收。

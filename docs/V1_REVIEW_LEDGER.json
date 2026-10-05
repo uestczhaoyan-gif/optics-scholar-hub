@@ -75,6 +75,621 @@
         "原完整公开摘要/出版史/卷次元数据，付费全文不登录；未来卷月与首发分开，估计/实测、凸点/模块良率分别，液晶样例公开范围未明确仿真/实测，保持验证类型未知。"
       ],
       "maintenanceTrigger": "原出版更正/撤稿或更合适不同期次样例出现时维护；不重复不变来源。"
+    },
+    {
+      "journalId": "advanced-materials",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["37(43)", "38(1)", "38(14)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#advanced-materials",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "advanced-functional-materials",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "sampleCount": 3,
+      "distinctFormalPeriods": null,
+      "formalPeriods": [],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#advanced-functional-materials",
+      "limitations": [
+        "旧2026-09-11日志明确三篇Wiley原页与首次上线已读取；未保存英文原题/正式卷期，现中文题名为概述。本次第二有效尝试原adfm.202529188页实际显示Cloudflare“正在进行安全验证”，即停止，不点验证、不用另一路工具访问同域绕过。其余两篇未在本次重访；三不同期次不能确认，正式卷期数量保持null。"
+      ],
+      "maintenanceTrigger": "原站安全限制消失或有合法可读原出版元数据时补英文原题/正式卷期；不反复访问不变验证页。"
+    },
+    {
+      "journalId": "nano-micro-letters",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 2,
+      "formalPeriods": ["17", "18"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#nano-micro-letters",
+      "limitations": [
+        "三原论文已有题名/首次日/卷文章号和摘要范围，但只覆盖年度卷17与18；同卷文章号63/220不算两个不同期次，不能声称三不同正式期次，也不声称穷尽全刊光学论文。"
+      ],
+      "maintenanceTrigger": "出现另一不同正式卷/期且首发在维护窗口内的可核光学论文时补充；文章号不冒充不同期。"
+    },
+    {
+      "journalId": "prx-quantum",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["6(1)", "6(2)", "7(1)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#prx-quantum",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "applied-physics-reviews",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["12(1)", "12(4)", "13(3)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#applied-physics-reviews",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "nature-electronics",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["8(4)", "8(7)", "8(11)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#nature-electronics",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "nature-materials",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["24(5)", "24(6)", "24(11)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#nature-materials",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "nature-nanotechnology",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": [
+        "20 / February2025",
+        "20 / March2025",
+        "20 / November2025"
+      ],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#nature-nanotechnology",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "nature-communications",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["15", "16", "17"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#nature-communications",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "npj-quantum-materials",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["9", "10", "11"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#npj-quantum-materials",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "npj-quantum-information",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["10", "11", "12"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#npj-quantum-information",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "communications-physics",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["7", "8", "9"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#communications-physics",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "chemical-reviews",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["125(12)", "126(1)", "126(2)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#chemical-reviews",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "acs-nano",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["19(12)", "19(48)", "20(16)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#acs-nano",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "nano-letters",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["25(18)", "26(6)", "26(10)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#nano-letters",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "inorganic-chemistry",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["65(34)", "65(26)", "63(51)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#inorganic-chemistry",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "acs-sensors",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["10(7)", "10(12)", "11(2)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#acs-sensors",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "science-advances",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["11(29)", "12(23)", "12(24)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#science-advances",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "advanced-science",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["12(40)", "12(37)", "13(27)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#advanced-science",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "infomat",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["7(7)", "7(11)", "8(1)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#infomat",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "angewandte-chemie",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["65(5)", "65(9)", "64(1)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#angewandte-chemie",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "science-china-materials",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["67(12)", "68(12)", "69(8)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#science-china-materials",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "chinese-physics-letters",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["42(7)", "43(1)", "43(8)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#chinese-physics-letters",
+      "limitations": [
+        "三不同正式期次已核；数据日期为原More Information展开的Published Date，更早Early Access未独立核实，不能声称这些日期一定是最早在线日。"
+      ],
+      "maintenanceTrigger": "原站明确提供可核Early Access出版史或更正时补日期；不从卷月倒推。"
+    },
+    {
+      "journalId": "jcis",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["702 Part1", "710", "718"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#jcis",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "dyes-pigments",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["247", "253", "254"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#dyes-pigments",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "biosensors-bioelectronics",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["278", "301", "308"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#biosensors-bioelectronics",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "sensors-actuators-b",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["436", "454", "458"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#sensors-actuators-b",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "science-bulletin",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 4,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["70(6)", "70(10)", "70(22)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#science-bulletin",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "proceedings-ieee",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["114(2)", "113(8)", "113(9)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#proceedings-ieee",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-tie",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 4,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["73(6)", "73(3)", "72(5)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-tie",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-tcyb",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 4,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["55(2)", "56(3)", "56(10)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-tcyb",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-tmi",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["44(11)", "44(8)", "45(2)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-tmi",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-tip",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["35", "34", "33"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-tip",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-tgrs",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["62", "63", "64"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-tgrs",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "physical-review-a",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["111(6)", "112(2)", "113(1)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#physical-review-a",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "physical-review-applied",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["22(6)", "23(1)", "26(2)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#physical-review-applied",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "physical-review-b",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["111(4)", "111(7)", "112(8)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#physical-review-b",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "physical-review-letters",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["134(12)", "134(24)", "136(6)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#physical-review-letters",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "physical-review-research",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["7(1)", "7(3)", "8(3)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#physical-review-research",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "physical-review-x",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["16(1)", "16(2)", "16(3)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#physical-review-x",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "acta-physica-sinica",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["75(16)", "75(13)", "75(18)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#acta-physica-sinica",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "journal-society-information-display",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["34(5)", "32(12)", "34(2)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#journal-society-information-display",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "applied-physics-letters",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["129(10)", "129(1)", "127(21)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#applied-physics-letters",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-sensors-journal",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["26(4)", "26(12)", "25(15)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-sensors-journal",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-tci",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["12", "11", "10"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-tci",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-edl",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["47(2)", "47(6)", "47(10)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-edl",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
+    },
+    {
+      "journalId": "ieee-ted",
+      "checkedAt": "2026-10-05",
+      "result": "verified",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 3,
+      "formalPeriods": ["71(12)", "72(7)", "73(10)"],
+      "evidence": "V1_SCOPE_REVIEW_2026-10-05.md#ieee-ted",
+      "limitations": [
+        "复核已有原题/概述、原链接、日期和元数据/公开摘要证据；本次未重新联网读取全部旧原文，不声称通读全文/SI或复现实验。研究、综述、理论/数值和实测边界沿用逐篇relevance。"
+      ],
+      "maintenanceTrigger": "原论文更正/撤稿或样例滑出近两年窗口时维护；不重复核不变来源。"
     }
   ],
   "candidateReviews": [],
