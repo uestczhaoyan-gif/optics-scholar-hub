@@ -1367,3 +1367,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - F13新增IEEE EDL和三不同正式期光晶体管/微显示/UV器件实验样例，保存现行短稿限、禁止SI、2026图像独立计数与IEDM例外；MJL SCIE/新EI1840、JCR2025电电子JIF Q2实核。103刊/133届/10活动、273候选212 admitted/54 pending/7 deferred、SCIE89/ESCI12/EI96、JCR101/CAS11、45刊至少三篇样例；原102刊/272其他候选和全部其他JSON保护。自愿页费字形、周期口径/年份、CAS和内部模板未知保留。 [逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f13ieee-edl)。
 - 当日EDS指南/主页、唯一MJL卡、新EI双号行/停收表、JIF原图及三IEEE原摘要/首次卷期实读；现行稿限、独立图像、禁止SI和IEDM例外与未知金额/周期保留。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
 - 发布前数据校验、固定5857d52的102旧刊/44旧样例、272其他候选与全部其他JSON字节保护、单候选六字段白名单通过；103/212-54-7、89-12-96、101-11及45样例、三个正式期次/首次日、独立图像与SI/页费未知边界通过。403本地Markdown链接、维护451项/12主题覆盖、Pages子路径六资源构建exit0、差异审查/git diff --check通过；当前统计表已与实际89SCIE/96EI同步，完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：IEEE TED F14
+
+- F13 06db7c9f07d7b327d5d10a07deaf8c5b57900d7d已验收[Pages37270266496](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37270266496)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，eb9893bb84d0d94e2e6632781c5ce4d5d8539562506bcfb986a6ce154ebf35a1匹配本地（2026-10-05T06:04:32.725Z）。API一次连接超时只复查同SHA，未重复提交。正式编辑前已验收，工作树干净；work/F14_RESEARCH_2026-10-05.md长操作前保存逐字段/逐篇实际范围。实际五小时85%/周93%允许，不用重置券。
+- F14新增IEEE TED和三不同正式期近红外/量子点/日盲UV光电样例，区分器件实测与阵列模拟；保存普通7/必要8/综述12初稿、DataPort初投供审和费用版年未知。MJL当前SCIE/新EI2076、JCR2025两学科JIF Q2实核。104刊/133届/10活动、273候选213 admitted/53 pending/7 deferred、SCIE90/ESCI12/EI97、JCR102/CAS11、46刊至少三篇样例；旧103刊/272其他候选与全部其他JSON保护。 [逐字段范围](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f14ieee-ted)。
+- 当日EDS指南/主页、MJL唯一卡、新EI双号行/停收表、两JIF原图及三IEEE摘要/首次卷期实核；三不同正式期次、物理验证和模拟、稿型页限与费用版年分开。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
+- 发布前数据校验、固定06db7c9的103旧刊/45旧样例、272其他候选与全部其他JSON字节保护、单候选六字段白名单通过；104/213-53-7、90-12-97、102-11及46样例，三个首次日/不同正式期次、物理实测与阵列模拟/秒级/SI和费用未知边界断言通过。408本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

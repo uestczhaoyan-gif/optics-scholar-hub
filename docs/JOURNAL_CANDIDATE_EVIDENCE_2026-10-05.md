@@ -233,3 +233,28 @@ JQSRT以光谱Q2满足主合集，光学JIF Q3不可借AIS Q2改写；IR三学�
 | [High-Performance Organic Phototransistors Enabled by Vertical Phase Separation-Induced Nano-Interpenetrating Heterojunctions](https://ieeexplore.ieee.org/document/11343767) | 2026-01-12；47(2),February2026,333–336；10.1109/LED.2025.3646372 | 垂直相分离纳米互穿异质结构有机光晶体管，激子解离界面与通道载流子输运平衡的器件实验；可穿戴/健康/视网膜成像是应用前景，不当人体或临床验证。DOI含2025不代替原首次2026日期。 |
 | [3-D Stacked Full-Color μLED Displays With Monolithic-Integrated Bismuth Ferrite-Based Color Filter](https://ieeexplore.ieee.org/document/11488657) | 2026-04-20；47(6),June2026,1157–1160；10.1109/LED.2026.3684510 | 16×16全彩微LED芯片示范，三维堆叠兼容异质/单片集成，BFO滤色层改善红色色纯度，原芯片110%NTSC/328PPI；属光电显示集成器件，不把工业规模前景当已经量产，不据作者first措辞独立证明优先权。 |
 | [A Low-Dark-Current 4H-SiC MOS UV Photodetector With a Charge-Trapping Gate Stack by Electric Field Modulation Operation](https://ieeexplore.ieee.org/document/11644713) | 2026-08-07；47(10),October2026,2095–2098；10.1109/LED.2026.3721489 | 4H-SiC MOS紫外探测器Al2O3/AlOx/SiO2电荷陷阱门叠层、氧化界面/电场调制及UV照明电流和强度线性实验；属光电器件工艺与测量实证，低暗电流/线性结果限原偏置和照明条件，不外推安全监测全场景。 |
+
+## F14：IEEE TED
+
+核验2026-10-05，候选journal-6df0287c33。F14新增IEEE TED和三不同正式期近红外/量子点/日盲UV光电样例，区分器件实测与阵列模拟；保存普通7/必要8/综述12初稿、DataPort初投供审和费用版年未知。MJL当前SCIE/新EI2076、JCR2025两学科JIF Q2实核。104刊/133届/10活动、273候选213 admitted/53 pending/7 deferred、SCIE90/ESCI12/EI97、JCR102/CAS11、46刊至少三篇样例；旧103刊/272其他候选与全部其他JSON保护。
+
+| 实际官方来源/字段 | 核验及边界 |
+| --- | --- |
+| [EDS主页](https://eds.ieee.org/publications/transactions-on-electron-devices)/[当日指南](https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors) | 光电、成像、显示/PV器件与综述/教程范围；通常至少部分直接物理验证，不把建模范围删掉或当所有模拟都已实验。 |
+| [MJL](https://mjl.clarivate.com/search-results?issn=0018-9383&hide_exact_match_fl=true) | 唯一Exact卡IEEE/0018-9383/1557-9646、CoreSCIE实核；非侧栏、不登录profile/单篇检索，覆盖年未知。 |
+| [Compendex表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx) | SERIALS2026-08-07第2076行Journal/双号/IEEEInc，DISCONTINUED2026-05-01无双号；仅新目标不重扫96旧刊，hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。 |
+| [JCR2025机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf) | 原图p239电电子/p602应用物理JIF均Q2，非AIS；metric2024/secondary，CAS未知；hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274。 |
+| [稿限/材料](https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors) | 普通初7含refs必要8+强制费、综述初12超需先批准；Brief4出版页非统一初稿页数。双栏模板不可改字/行距，摘要150–250自含一段/3–4keyphrases、全作者ORCID/fullrefs。模板内部未知。 |
+| [SI/披露](https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors) | DataPort补充须初投供审、review后不得加改，可含图形摘要/电影数据模拟，不套EDL禁SI。个人/雇主/非盈利预印本可；重叠稿披露引原/供副本，无固定会议扩展百分比或IEDM12个月移植。 |
+| [评审/入口](https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors)/[主页](https://eds.ieee.org/publications/transactions-on-electron-devices) | 单盲2独立/查重，可能编辑先筛；home/guide实链均atyponrex AuthorPortal，正文仍ScholarOne。review平均12周统计年/定义未明，不推首次决定/录用后时长；内部未读。 |
+| [出版费用](https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors)/[IEEE2026 APC](https://open.ieee.org/for-authors/article-processing-charges/) | hybrid2800可选、按提交日/适用税另计、非学生会员折扣不叠加；Traditional无OA，110/printed page请求，普通超7每页200明确强制，印刷彩275/figure、在线彩免费。页费/彩费独立版年及2027未知。 |
+
+原IEEE刊内photodetector检索仅发现入口，不以搜索年份替代Date of Publication；三原页摘要/题名/首次日及卷期页/DOI实核，三首次均在2024-10-05后、不同正式期次。部分公开Intro不等于全篇，未通读全文/SI：
+
+| 原论文 | 首次/卷期页/DOI | 实证范围与光学适配 |
+| --- | --- | --- |
+| [High-Sensitivity Single-Walled Carbon Nanotube/Graphene/Al₂O₃/Ge Near-Infrared Photodetector](https://ieeexplore.ieee.org/document/10729656) | 2024-10-22；71(12),December2024,7882–7888；10.1109/TED.2024.3477408 | SWCNT/graphene/Al2O3/n-Ge近红外器件构建与光响应实验，1064nm最大响应515.4mA/W及上升13.5/下降36.5μs限原测量条件；纳米材料/界面设计与光电器件交叉，不扩写全波段性能。 |
+| [Solution-Processed CH3NH3SnI3 Lead-Free Hybrid-Perovskite Quantum Dots-Based MSM Photodetector](https://ieeexplore.ieee.org/document/11015099) | 2025-05-26；72(7),July2025,3661–3666；10.1109/TED.2025.3569512 | 无铅MASI钙钛矿量子点溶液旋涂Al/PQD膜/ITO MSM器件，TEM粒径/UV-Vis表征与385/600nm下-1V光响应实验；量子点工艺与检测器适配。上升/下降为秒级，EQE>100%不是能量转换效率，不能混作毫秒或效率保证。 |
+| [β-Ga2O3-Based Solar-Blind Ultraviolet Event-Based Sensor](https://ieeexplore.ieee.org/document/11678127) | 2026-09-04；73(10),October2026,6187–6192；10.1109/TED.2026.3728405 | 254nm β-Ga2O3探测器配双通道互补事件处理电路，实测双极性spike与响应小于7.5ms/10V阈值条件；阵列级边缘检测与手势运动跟踪是基于实验参数的模拟。光电器件和事件读出共同贡献，不当已制造/实测完整相机阵列。 |
+
+2026器件/互补电路实测与阵列手势模拟严格区分，2025秒级rise/fall及高EQE不误换单位/能量效率。只读公开页/表/图，未登录、订阅搜索提醒、上传/投稿、签署、联系或支付。

@@ -7877,5 +7877,94 @@
         "relevance": "2026-10-05核原IEEE公开摘要/题名/元数据；首次2026-08-07，47(10),October2026,2095–2098，DOI 10.1109/LED.2026.3721489。4H-SiC MOS紫外探测器Al2O3/AlOx/SiO2电荷陷阱门叠层、氧化界面/电场调制及UV照明电流和强度线性实验；属光电器件工艺与测量实证，低暗电流/线性结果限原偏置和照明条件，不外推安全监测全场景。 未通读全文或SI；首次日与正式卷期分开。"
       }
     ]
+  },
+  {
+    "id": "ieee-ted",
+    "name": "IEEE Transactions on Electron Devices",
+    "abbr": "IEEE TED",
+    "publisher": "IEEE / IEEE Electron Devices Society",
+    "issn": "0018-9383",
+    "eissn": "1557-9646",
+    "domains": ["光学", "电子"],
+    "topics": ["电子与器件", "传感与测量", "集成光子"],
+    "description": "电子/离子器件理论、建模、设计、性能和可靠性，明确含光电、成像、显示、光伏及器件综述/教程。通常应至少部分直接物理验证；三个不同年度期次的近红外、量子点与日盲UV器件实证支持光学交叉，不把一般电子主题全部当适配。JCR2025电电子/应用物理Q2为机构转载参考，CAS待核。",
+    "website": "https://eds.ieee.org/publications/transactions-on-electron-devices",
+    "guide": "https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=239",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=0018-9383&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05实核MJL唯一Exact Match卡IEEE TRANSACTIONS ON ELECTRON DEVICES/IEEE、0018-9383/1557-9646、CoreCollection SCIE；非侧栏勾选，不登录profile或单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05仅新目标核公开SERIALS2026-08-07第2076行Journal/IEEE Transactions on Electron Devices/00189383/15579646/IEEEInc，DISCONTINUED2026-05-01无两号。未重扫96旧刊或单篇数据库检索；表年不作覆盖年。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核当日指南：器件研究须充分验证，通常至少部分直接物理验证；不把理论/建模范围删除，也不将纯数值图当已有器件测量。普通初稿通常7页含参考，必要时可8页且超7须超页费；综述初稿12页上限，超过须编辑预先批准。Brief为标准4出版页，初稿具体上限未核，不套普通稿或EDL正文限。来源：https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors",
+      "IEEE双栏模板，字体/行距不得自行改；摘要150–250词一段、自含，不含缩写/脚注/引用/陈列公式/表格，含3或4关键词/短语。参考完整作者（no et al.）、题名、页/月年及可得DOI，未发表引用须支持材料。模板内部未读。来源：https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors",
+      "可用IEEE DataPort提交补充材料，须初投时供审，review后不可增改；可含graphical abstract、电影、数据、模拟文件等，不把图形摘要列成必需，也不套EDL禁止SI。内部文件格式/大小尚未核。来源：https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors",
+      "全部作者ORCID，cover明确投TED、重叠材料引用/披露并供他处在审稿副本。允许作者/雇主网站及非盈利arXiv/TechRxiv预印本，不当已有归档发表；没有固定会议扩展百分比，不继承EDL的IEDM12个月例外。来源：https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors",
+      "单盲至少两独立评审、录用前查重，可能先编辑筛查；主页和指南真实Author Portal均atyponrex.com/journal/ted，指南正文仍名ScholarOne，登录后实际流程未读。来源：https://eds.ieee.org/publications/transactions-on-electron-devices 与 https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors"
+    ],
+    "publishing": "当日指南hybrid可选OA USD2800，与本日已读IEEE2026价一致；2026按提交日期/适用税另计，IEEE5%或Society/Council20%折扣限非学生且不叠加。Traditional无需OA费。指南另请求USD110/printed page，普通稿超7页每额外页USD200明确强制，OA仍另收超页/印刷彩色USD275/figure；线上彩图免费。页费/印刷彩图独立生效版年及2027 APC未知，不把请求页费和明确超页强制混同。来源：https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors 与 https://open.ieee.org/for-authors/article-processing-charges/",
+    "schedule": "当日作者指南仅给评审平均12周，统计版年/样本与首决或最终决定范围未明，不能当承诺或录用后出版周期；首次决定、返修与最终出版时长仍待核。来源：https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors",
+    "scopeExamples": [
+      {
+        "title": "High-Sensitivity Single-Walled Carbon Nanotube/Graphene/Al₂O₃/Ge Near-Infrared Photodetector",
+        "source": "https://ieeexplore.ieee.org/document/10729656",
+        "publishedAt": "2024-10-22",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2024-10-22，71(12),December2024,7882–7888，DOI 10.1109/TED.2024.3477408。SWCNT/graphene/Al2O3/n-Ge近红外器件构建与光响应实验，1064nm最大响应515.4mA/W及上升13.5/下降36.5μs限原测量条件；纳米材料/界面设计与光电器件交叉，不扩写全波段性能。 未通读全文或SI，首次日与正式卷期分开。"
+      },
+      {
+        "title": "Solution-Processed CH3NH3SnI3 Lead-Free Hybrid-Perovskite Quantum Dots-Based MSM Photodetector",
+        "source": "https://ieeexplore.ieee.org/document/11015099",
+        "publishedAt": "2025-05-26",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2025-05-26，72(7),July2025,3661–3666，DOI 10.1109/TED.2025.3569512。无铅MASI钙钛矿量子点溶液旋涂Al/PQD膜/ITO MSM器件，TEM粒径/UV-Vis表征与385/600nm下-1V光响应实验；量子点工艺与检测器适配。上升/下降为秒级，EQE>100%不是能量转换效率，不能混作毫秒或效率保证。 未通读全文或SI，首次日与正式卷期分开。"
+      },
+      {
+        "title": "β-Ga2O3-Based Solar-Blind Ultraviolet Event-Based Sensor",
+        "source": "https://ieeexplore.ieee.org/document/11678127",
+        "publishedAt": "2026-09-04",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2026-09-04，73(10),October2026,6187–6192，DOI 10.1109/TED.2026.3728405。254nm β-Ga2O3探测器配双通道互补事件处理电路，实测双极性spike与响应小于7.5ms/10V阈值条件；阵列级边缘检测与手势运动跟踪是基于实验参数的模拟。光电器件和事件读出共同贡献，不当已制造/实测完整相机阵列。 未通读全文或SI，首次日与正式卷期分开。"
+      }
+    ]
   }
 ]
