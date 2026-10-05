@@ -3307,6 +3307,94 @@
         "当前JCR/CAS/覆盖年和单篇检索未知；液晶样例仿真或实测未明、未来正式卷年不当发表日；未扩大固定G4范围。"
       ],
       "maintenanceTrigger": "独立本刊新指南/年度费用或首页统计口径、合法数据库和液晶原方法证据出现后维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-jqe",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d45ebc0ec319a375cec6a1184e31cc4ec19dae4859313ca2a3f9509b974bcd1b",
+      "formalReviewBase": "325e690ccf231a9dd8e64bc9f1111c85e9e96ce4",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-jqe",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "统一摘要硬词数/模板和登录后文件清单未核；入口公开只有Loading，不称已实测后台，旧目标尝试不重置。",
+        "超页价适用年/税优惠、40天统计口径、当前JCR/CAS及覆盖起止/单篇未知；不同阶段不是个稿时限。"
+      ],
+      "maintenanceTrigger": "本刊新模板/系统可读材料、明确超页版年/当前统计和合法数据库新依据出现后逐字段维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-jstqe",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6d024fb0d4b9ed98cac85362e71ef3220c7138ef1fbb84cf1d2dc18769cd1aa9",
+      "formalReviewBase": "325e690ccf231a9dd8e64bc9f1111c85e9e96ce4",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-jstqe",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "具体专题CFP截止未逐项审，初投统一摘要词数/模板内部/后台清单未知；不编当前开放与专题DDL。",
+        "超页价年/税优惠、统计口径及CAS/2026分类、覆盖年/单篇未核；邀请稿身份不保证邀约或录用。"
+      ],
+      "maintenanceTrigger": "该刊专题真实新CFP、明确新指南/费用年与合法数据库当前分类或覆盖材料出现时维护，不扩本版新发现范围。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-photonics-journal",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "bf8752d3434651d804e738753df96e2932fd19eab3909ea9f0d28ea3610fdd1c",
+      "formalReviewBase": "325e690ccf231a9dd8e64bc9f1111c85e9e96ce4",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-photonics-journal",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "额外0647介质、硬页限/统一摘要词数和模板/登录后清单未核，不编纸刊身份或套PTL硬限。",
+        "77天统计年度样本/个案税和优惠、CAS/当前JCR及覆盖起止单篇未知，完全OA非免收费。"
+      ],
+      "maintenanceTrigger": "官网/MJL明确额外刊号介质或新稿型/价表/统计、数据库新材料出现后维护现记录。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-ptl",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ce41d001e0d4cdcb1ea482f31cca5aaed0c81b1c6ecaa330efd53619824ab42c",
+      "formalReviewBase": "325e690ccf231a9dd8e64bc9f1111c85e9e96ce4",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-ptl",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部/摘要词数/实际系统清单未知，旧入口可读失败不绕过或伪称投稿成功；四页硬限依独立指南。",
+        "独立超页费率/税优惠、77天统计口径及CAS/当前全学科JCR/索引覆盖单篇未知，未核个稿承诺。"
+      ],
+      "maintenanceTrigger": "本刊明确投稿系统/模板与独立费用、统计或合法新数据库信息可读后维护，不因原失败无限重试。"
     }
   ],
   "coreSeriesReviews": [

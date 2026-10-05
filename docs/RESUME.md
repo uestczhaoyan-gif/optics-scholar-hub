@@ -529,3 +529,7 @@ cdd0f743f88a019ec64d1db38209a57180ab506b已验收[Pages 37378347488](https://git
 ## 2026-10-06：正式质量 V1-G2L
 
 7baa565f2dd045363c9ebd20b01214474b6fc8cb已验收[Pages 37381967558](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37381967558)；同SHA build/deploy成功、首页/版本200，摘要5c048f2c150aa784bba8f01e022a925fa406d305b964c5378f7a16febce3bcbf匹配本地（2026-10-05T22:22:57.534Z）。 V1-G2L实审6刊正式字段质量，累计92/251、余159；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅计划明确的来源/载体注记修正，身份、分区与索引计数保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2l)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。
+
+## 2026-10-06：正式质量 V1-G2M
+
+325e690ccf231a9dd8e64bc9f1111c85e9e96ce4已验收[Pages 37382521419](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37382521419)；同SHA build/deploy成功、首页/版本200，摘要d623841a40c374a244fa23d25938161abd9142760fc6008ffbf169eb6d542908匹配本地（2026-10-05T22:27:51.464Z）。 V1-G2M实审4刊正式字段质量，累计96/251、余155；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2m)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。

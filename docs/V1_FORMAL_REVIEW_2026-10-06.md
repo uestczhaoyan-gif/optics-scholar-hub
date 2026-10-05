@@ -499,3 +499,51 @@ Displays；Elsevier；原checkedAt 2026-10-05，admitted候选journal-5a3452eb50
 - 未解决内容及影响：整篇硬限/模板协议内部、实际上传清单和当前费率生效年/优惠资格未知；四周期统计口径缺失，不当个稿承诺。；当前JCR/CAS/覆盖年和单篇检索未知；液晶样例仿真或实测未明、未来正式卷年不当发表日；未扩大固定G4范围。
 - 维护触发：独立本刊新指南/年度费用或首页统计口径、合法数据库和液晶原方法证据出现后维护。
 - 全字段内容摘要616373f11d4220092db5cfab23235bc318613366e92399cdbfa23086f3819875，基于7baa565f2dd045363c9ebd20b01214474b6fc8cb；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2M
+
+实际全文读取四刊当前JSON与F6各刊当时独立学会范围/作者指南、MJL唯一卡/EI八刊号与JCR各学科视觉/2026APC费用版年记录；复用2026-10-05已实核字段依据，不今天重新请求不变源、重扫数据库表或后台入口，不刷新任何data日期。每刊刊号/适配/篇幅单位、Impact与摘要区别、分区路径/费用年份及独立出版阶段审核，四admitted关联一对一。 本次正式字段质量累计96/251，余155未审；G3 41/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## ieee-jqe
+
+IEEE Journal of Quantum Electronics；IEEE；原checkedAt 2026-10-05，admitted候选journal-b02fdc8599一对一。
+
+- 全部字段与原依据：[本刊指南](https://ieeephotonics.org/publications/journal-of-quantum-electronics/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f6五本直接光学期刊)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。F6独立2025-03范围更新：波长小于1mm光子/相互作用，量子计算须光子控制不等于所有量子算法。双栏审稿PDF/Word、LaTeX后处理、所有作者ORCID、Impact少于250词非摘要；8/12页是超页分档非绝对硬上限，至少两单盲及通常两返修非保证。JCR2025指标2024四学科JIF均Q3，不能用AISQ2替换，按EI1939工程补充；MJLSCIE独立。2026按投稿日hybrid2800美元与本刊2025旧2645分开，超页220未版年，传统免OA非全免费。平均40天缺样本/版年，录用后2–3天EA与最终文件后一周为两个步骤。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237)；JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601)；JCR/JCR 2025（指标2024）/category/QUANTUM SCIENCE & TECHNOLOGY/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=686)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0018-9197&hide_exact_match_fl=true)；2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核公开SERIALS 2026-08-07版第1939行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。
+- 未解决内容及影响：统一摘要硬词数/模板和登录后文件清单未核；入口公开只有Loading，不称已实测后台，旧目标尝试不重置。；超页价适用年/税优惠、40天统计口径、当前JCR/CAS及覆盖起止/单篇未知；不同阶段不是个稿时限。
+- 维护触发：本刊新模板/系统可读材料、明确超页版年/当前统计和合法数据库新依据出现后逐字段维护。
+- 全字段内容摘要d45ebc0ec319a375cec6a1184e31cc4ec19dae4859313ca2a3f9509b974bcd1b，基于325e690ccf231a9dd8e64bc9f1111c85e9e96ce4；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-jstqe
+
+IEEE Journal of Selected Topics in Quantum Electronics；IEEE；原checkedAt 2026-10-05，admitted候选journal-a6581a61e0一对一。
+
+- 全部字段与原依据：[本刊指南](https://ieeephotonics.org/publications/journal-of-selected-topics-in-quantum-electronics/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f6五本直接光学期刊)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。F6一年六期专主题、实际投稿须专题CFP，Review/Tutorial邀请不当所有稿常年开放。Perspective2–3页/1–2图/20参考，Impact少于500字符含空格非500词，ORCID全部作者；8/12页是普通/邀稿超页分档非硬限。GuestEditor初筛后至少两单盲、通常两返修；JCR2025电气/光学/应用物理Q1、量子科技Q2secondary与SCIE/EI1943独立。2026投稿日hybrid2800与2025本刊2645旧价及220超页未年份分开；平均40天、EA/最终文件阶段不互代。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237)；JCR/JCR 2025（指标2024）/category/OPTICS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=601)；JCR/JCR 2025（指标2024）/category/QUANTUM SCIENCE & TECHNOLOGY/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=686)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1077-260X&hide_exact_match_fl=true)；2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核公开SERIALS 2026-08-07版第1943行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。
+- 未解决内容及影响：具体专题CFP截止未逐项审，初投统一摘要词数/模板内部/后台清单未知；不编当前开放与专题DDL。；超页价年/税优惠、统计口径及CAS/2026分类、覆盖年/单篇未核；邀请稿身份不保证邀约或录用。
+- 维护触发：该刊专题真实新CFP、明确新指南/费用年与合法数据库当前分类或覆盖材料出现时维护，不扩本版新发现范围。
+- 全字段内容摘要6d024fb0d4b9ed98cac85362e71ef3220c7138ef1fbb84cf1d2dc18769cd1aa9，基于325e690ccf231a9dd8e64bc9f1111c85e9e96ce4；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-photonics-journal
+
+IEEE Photonics Journal；IEEE；原checkedAt 2026-10-05，admitted候选journal-5ec1e9575c一对一。
+
+- 全部字段与原依据：[本刊指南](https://ieeephotonics.org/publications/photonics-journal/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f6五本直接光学期刊)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。F6online-only19430655、EI1995电子列与MJL独立SCIE；MJL另19430647未明介质、官网印刷号null，不照搬二手JCR纸电子栏。JIF2025三学科Q3按EI补充非AIS或SCIE换Q1。2021起两栏、审稿PDF/Word/后处理LaTeX，封面graphicabstract、所有ORCID与Impact少于500字符含空格非摘要；通常一次返修/至少两单盲。全OA本刊2160美元与2026IEEE表独立同额，按投稿日/CCBY作者版权、机构资格税独立；平均77天缺统计口径，EA2–3天与最终文件一周不当审稿保证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238)；JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1943-0655&hide_exact_match_fl=true)；2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。MJL另列1943-0647但介质归属未核；官网仅在线且EI表电子1943-0655，印刷号null，不照搬转载JCR纸/电子栏。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核公开SERIALS 2026-08-07版第1995行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。
+- 未解决内容及影响：额外0647介质、硬页限/统一摘要词数和模板/登录后清单未核，不编纸刊身份或套PTL硬限。；77天统计年度样本/个案税和优惠、CAS/当前JCR及覆盖起止单篇未知，完全OA非免收费。
+- 维护触发：官网/MJL明确额外刊号介质或新稿型/价表/统计、数据库新材料出现后维护现记录。
+- 全字段内容摘要bf8752d3434651d804e738753df96e2932fd19eab3909ea9f0d28ea3610fdd1c，基于325e690ccf231a9dd8e64bc9f1111c85e9e96ce4；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-ptl
+
+IEEE Photonics Technology Letters；IEEE；原checkedAt 2026-10-05，admitted候选journal-fdfd788643一对一。
+
+- 全部字段与原依据：[本刊指南](https://ieeephotonics.org/publications/photonics-technology-letters/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f6五本直接光学期刊)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。F6真正Letter4印刷页硬限与Impact≤100词/所有ORCID，不能将JQE/JSTQE8/12分档套本刊；至少两单盲通常三返修。JCR2025光学/电气Q2、应用物理Q3secondary独立学科不传播最佳；MJL10411135/19410174与EI1996独立。Hybrid2026按投稿日2800美元和2025旧2645分开，PTL独立超页价未知不套220；平均77天/EA/最终文件统计阶段分开，半月频次非首决周期。旧入口跳ResearchExchange工具失败无后台复验。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238)；JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1041-1135&hide_exact_match_fl=true)；2026-10-05普通浏览器唯一Exact Match刊名、出版社与刊号匹配，结果卡Core Collection明确Science Citation Index Expanded；未登录profile/查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核公开SERIALS 2026-08-07版第1996行Journal，刊名及对应刊号/出版社匹配；DISCONTINUED 2026-05-01版无本批八刊号匹配。缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；只新5刊，不重复旧80刊，未做订阅单篇检索，覆盖年未知。
+- 未解决内容及影响：模板内部/摘要词数/实际系统清单未知，旧入口可读失败不绕过或伪称投稿成功；四页硬限依独立指南。；独立超页费率/税优惠、77天统计口径及CAS/当前全学科JCR/索引覆盖单篇未知，未核个稿承诺。
+- 维护触发：本刊明确投稿系统/模板与独立费用、统计或合法新数据库信息可读后维护，不因原失败无限重试。
+- 全字段内容摘要ce41d001e0d4cdcb1ea482f31cca5aaed0c81b1c6ecaa330efd53619824ab42c，基于325e690ccf231a9dd8e64bc9f1111c85e9e96ce4；不是官网内容指纹，不表示未知已补齐。

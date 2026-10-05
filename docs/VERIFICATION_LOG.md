@@ -1567,3 +1567,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2L实审6刊正式字段质量，累计92/251、余159；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅计划明确的来源/载体注记修正，身份、分区与索引计数保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2l)。长操作前work/V1-G2L-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
 
 - 发布前validate、仅JBO已实核OPTICS出处p41改p566/Photoacoustics已实核EI列注记两字段allowlist、其余全部data及冻结范围字节保持、旧86正式/41候选/G4/G5/final保护、92唯一kind:id和全部摘要断言通过；539本地文件链接、维护462及12主题覆盖、Node24.20子路径六资产build exit0、完整真实差异与git diff --check通过。七明确正式文件，同SHA CI完整31测试/typecheck/lint/build及部署继续验收。原源已有日志计入次数，不为修正载体而第三次重扫同版。
+
+## 2026-10-06：正式质量 V1-G2M
+
+- 325e690ccf231a9dd8e64bc9f1111c85e9e96ce4已验收[Pages 37382521419](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37382521419)；同SHA build/deploy成功、首页/版本200，摘要d623841a40c374a244fa23d25938161abd9142760fc6008ffbf169eb6d542908匹配本地（2026-10-05T22:27:51.464Z）。正式编辑前HEAD=origin/main。实际全文读取四刊当前JSON与F6各刊当时独立学会范围/作者指南、MJL唯一卡/EI八刊号与JCR各学科视觉/2026APC费用版年记录；复用2026-10-05已实核字段依据，不今天重新请求不变源、重扫数据库表或后台入口，不刷新任何data日期。每刊刊号/适配/篇幅单位、Impact与摘要区别、分区路径/费用年份及独立出版阶段审核，四admitted关联一对一。
+- V1-G2M实审4刊正式字段质量，累计96/251、余155；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2m)。长操作前work/V1-G2M-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保持、旧92正式和候选/G4/G5/final保护、96唯一kind:id及全部记录摘要/四admitted一对一断言通过；547本地文件链接、完整真实文档与账本差异/git diff --check通过。纯文档复用同摘要已验收六资产与462维护/12主题报告；六明确文档，同SHA CI完整31测试/typecheck/lint/build后验收部署。
