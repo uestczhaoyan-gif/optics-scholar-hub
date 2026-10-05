@@ -1496,3 +1496,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G3E实审6固定候选，保留pending及实际范围/限制；固定60已审35（3准入、32限制）、余25。正式质量24/250未完成，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 本次实际读CIRP Appendix6全公开正文/STC E范围；Precision Engineering、IJMT、Measurement的Elsevier Shop Description；SA-A/Solar Materials官方搜索展开完整Scope。Precision/IJMT原刊官方链接各一次403，停止并保留实际范围，其他四没有独立403断言。没有使用搜索误出的非官方相似域sciencedirectelsevier.com。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3e)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
 
 - 发布前六候选仅sourceEntry/decisionReason/nextAction/reviewedAt允许字段变化，其余267候选及全部正式目录/冻结范围/旧账本/G4/G5/final不变断言通过；validate107刊/133届、402个本地Markdown文件链接、实际数据/账本/文档差异审查和git diff --check通过。Node24.20子路径构建成功，六入口资源通过，仅既有体积提示；维护460任务/覆盖12主题273候选保持。完整31测试/typecheck/lint仍由本批同SHA CI执行，随后核对部署与线上摘要。
+
+## 2026-10-06：正式质量 V1-G2E
+
+- 77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa已验收[Pages 37377055407](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37377055407)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:39:05.287Z）。正式编辑前HEAD=origin/main。实际逐项完整读取PhotoniX/Photonic Sensors/eLight/FOE/OEA/OES/COL现有JSON所有字段，对照E17/E12/E13/E32/E33/F6/A14及9/15两本刊原指南日志。复用已核独立MJL与来源表身份/版本/行号，不重复未变化的官网或缓存检索；官方报告版年说明已在G2D实读。
+- V1-G2E实审7刊正式字段质量，累计31/250、余219；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2e)。长操作前work/V1-G2E-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保护、旧24正式与候选/G4/G5/final账本不变、七新增内容摘要/六组范围/具体限制与触发通过；448个Markdown本地文件链接、实际文档及账本差异审查、git diff --check通过。Photonic Sensors资助按投稿日期且限2026年界，COL页数/版权冲突与FOE旧附件版本保留。纯文档复用已验收六入口构建、维护460项/12主题覆盖；本批同SHA CI继续完整31测试/typecheck/lint/build与部署验收。

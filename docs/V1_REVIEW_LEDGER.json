@@ -1696,6 +1696,160 @@
         "现有pubs.acs.org拒绝不重试本刊，独立指南原版本及已读节有效；未声称全部专项要求和登录操作完成。"
       ],
       "maintenanceTrigger": "本刊新coden指南、收费与数据库分区/覆盖依据出现后维护；SI用途、稿型范围和预印本披露继续分别处理。"
+    },
+    {
+      "kind": "journal",
+      "id": "photonix",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c91b33422f12bcc33b3f716d9ac973aa772541cd851abff14e63582a6408be77",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#photonix",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "Research摘要具体字数/其他稿型完整细则、2026分区/CAS及覆盖年未核；索引来源表不等每篇入库。",
+        "原费用核验9/15不变成今天独立价表；未验证登录/减免资质，阶段时长未知，额外数据归档不推人人全部原始数据公开。"
+      ],
+      "maintenanceTrigger": "本刊新版稿型/价表、带分类版年的分区或合法覆盖记录出现后维护；不要把滚动维护缺口自动扩V1必做。"
+    },
+    {
+      "kind": "journal",
+      "id": "photonic-sensors",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "379ecc294b2b00de0960a7aedae57814a73624b0683198352c7188c3f1690989",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#photonic-sensors",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "CAS具体基础/升级版、覆盖年和系统内模板/许可未核；official主办方不是登录数据库单刊记录。",
+        "12/31是否含全天与2027APC/资助/其他费未知；网页未给改版日/个稿保证周期，不延长现有资助。"
+      ],
+      "maintenanceTrigger": "2027资助/收费或截止解释、新模板/分区版本公告出现后逐字段维护；只报告事实，不自动续免APC。"
+    },
+    {
+      "kind": "journal",
+      "id": "elight",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "fc80ca8e4190f1595665c29ab86e50ffcb8c95b7a0d449213f8759d36df3a5cf",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#elight",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2026/CAS/覆盖年、非Letter完整稿型限额和登录内清单未核；网页当前收费不能保证后续录用日仍同价。",
+        "透明评审公开范围只明确报告，不推回复/作者双盲；无阶段时限保证，数据限制说明与公共归档要求各自。"
+      ],
+      "maintenanceTrigger": "本刊新的稿型/费率/公开评审说明及独立分类证据出现后维护，保留已读Letter与Commentary边界。"
+    },
+    {
+      "kind": "journal",
+      "id": "frontiers-optoelectronics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "7742eb080da579bc3223f6883dd5dd836e9c0183219ce8cc8d667f742c569173",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#frontiers-optoelectronics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "SCIE/CAS/覆盖年/2026迁移后独立新格式与收费细则未知，旧附件页头Springer不变成新出版社政策。",
+        "普通Research/Review硬篇幅/新模板未核；主指南只实读指定章节、没有全部伦理许可，30天中位数不保证个稿。"
+      ],
+      "maintenanceTrigger": "高教社发布迁移后新原指南/费用、明确指标样本年度或独立数据库子库分类变化后维护；旧版本内容继续留版本。"
+    },
+    {
+      "kind": "journal",
+      "id": "opto-electronic-advances",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ace6f95eaaf40f39f0f01fa4b8fa95c186264033183e7ba2bab3c4718e6c9875",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#opto-electronic-advances",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027过渡费用、税/价格按哪天、policy版本日/具体ScholarOneURL和模板源码/独立代码要求未核；APC表不是2027价承诺。",
+        "分区secondary、CAS/覆盖年未知；豁免/存储时间与稿型分别，所有原始数据并非无条件初投公开。"
+      ],
+      "maintenanceTrigger": "2027具体收费/豁免、新本刊指南或ScienceDB/代码规则与分类公告出现后维护；本版不推未来免价。"
+    },
+    {
+      "kind": "journal",
+      "id": "opto-electronic-science",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "571aa79b925204daef5a3c459df072e6e2cc6c2b7ab3fade86836f6a378503db",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#opto-electronic-science",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "SCIE/EI/CAS/覆盖年、独立代码/模板源码/具体投稿URL未知；Q1不当SCI证据。",
+        "政策修订日、税/定价适用日和2027豁免/实际费率未核；上传30MB不等总材料容量，数据许可推荐与文章许可不同。"
+      ],
+      "maintenanceTrigger": "新数据库子库/新版EI或明确2027费用/稿型/数据政策出现后维护；各本刊规则适用名单仍按真实入口确认。"
+    },
+    {
+      "kind": "journal",
+      "id": "chinese-optics-letters",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c1450380005b7a97088623c40c3eccfbc7b459a11418c3af03bdb9538deb061c",
+      "formalReviewBase": "77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#chinese-optics-letters",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "正文5/收费6页及旧版权转让/新非独占许可冲突保留；当前系统适用协议、许可地域条件、模板内部与电子号/CAS/覆盖年未知。",
+        "费率版本/税/价格基准日及阶段统计样本未知；不把Green表述变Gold或支付超页费当硬限放宽。"
+      ],
+      "maintenanceTrigger": "CLP/分发站明确页限和当前系统许可、独立年度价表/版年分区后维护；不同字段来源保留而不擅选。"
     }
   ],
   "coreSeriesReviews": [

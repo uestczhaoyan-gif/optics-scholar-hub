@@ -489,3 +489,7 @@ V1-G2A 7ecf131c9e122e3f6466167ec771f920f3c73bc9已验收[Pages37336704029](https
 ## 2026-10-06：固定候选 V1-G3E
 
 1c89ae8a3f7048fb672f6a89b45df36ecb7065b5已验收[Pages 37376755207](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37376755207)，同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab与本地匹配（2026-10-05T21:35:59.349Z）。 V1-G3E实审6固定候选，保留pending及实际范围/限制；固定60已审35（3准入、32限制）、余25。正式质量24/250未完成，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 [逐项实读证据](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3e)。原五小时额度检查保持；继续固定剩余事项，不重试未变化受限源、不扩大范围。
+
+## 2026-10-06：正式质量 V1-G2E
+
+77adb3b8a9b4f9343be5aaca0bfcf3ead72d88aa已验收[Pages 37377055407](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37377055407)；同SHA build/deploy成功、首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab匹配本地（2026-10-05T21:39:05.287Z）。 V1-G2E实审7刊正式字段质量，累计31/250、余219；固定候选35/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2e)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。
