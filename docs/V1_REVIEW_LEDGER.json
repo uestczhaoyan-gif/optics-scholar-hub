@@ -2741,6 +2741,182 @@
         "跨量子系统研究仍需核心光学关联，通俗摘要建议不是其他刊硬限；原整刊与字段核验日各自保留。"
       ],
       "maintenanceTrigger": "本刊独立Guide/APC或MJL/JCR新版、原论文更正及过窗时维护；若需要英文题按合法原记录补，不改造旧概述为未读新题。"
+    },
+    {
+      "kind": "journal",
+      "id": "chinese-journal-lasers",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "21a47be58ccf79a22bcdd665a1b48925e1baa91e9eec5a12982c822fde63ea9d",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#chinese-journal-lasers",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "其他稿型全文上限/英文长摘要和预印本/后台材料未核，eISSN未知；旧动态简介证书失败不绕过，CAS版年学科不造。",
+        "费率实际类型/税/生效日/当前账单、外审周期与覆盖年/单篇索引未核，半月刊不作审稿时限。"
+      ],
+      "maintenanceTrigger": "本刊独立附件修订、正式价表/分类/MJL变化后核对应字段，不因三主模板同字节复制全部稿型规则。"
+    },
+    {
+      "kind": "journal",
+      "id": "acta-optica-sinica",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "bd056197a6ebeb7073e6ab285cd2ff56daf5da884a46e4aaac4ab4f3faac7029",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#acta-optica-sinica",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通主稿页限/预印本/系统协议内部等未核，eISSN/CAS版本学科与覆盖年未知，不把绿色通道必要说明当保证。",
+        "当前价表生效日/税/账单及审稿周期未知，刊频半月不等首决；旧主办方证书受限不重访。"
+      ],
+      "maintenanceTrigger": "本刊下载中心新版本/价表或真实数据库集合分类改变时逐字段维护，网络版身份和长摘要稿型继续分开。"
+    },
+    {
+      "kind": "journal",
+      "id": "laser-optoelectronics-progress",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "28d988d395da2356c85ddf3f23bdf067f2ef78a2bbedcd697fc315b33b314319",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#laser-optoelectronics-progress",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "其他主稿页限/预印本/后台清单与eISSN未知；收费PDF无生效修订版本，实际税和账单/个稿周期未知。",
+        "CAS当前版年学科、索引覆盖年及单篇查询未知；旧动态简介无年度/证书失败不作新分区。"
+      ],
+      "maintenanceTrigger": "本刊独立长摘要/主模板或年度价表/MJL分类变化时核对应字段，不由共用主稿推费用相同。"
+    },
+    {
+      "kind": "journal",
+      "id": "chinese-optics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "cb2e73e571bb21eb5516cc56eb8bbbc998eda1eafed6c3248f305ad9ba0229a0",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#chinese-optics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要/统一篇幅/预印本政策、模板协议内部与后台未核，eISSN/CAS和覆盖年未知；不能从中英文刊名推全部英文稿适用同模板。",
+        "2024费率现账单/税与审稿时长未知，双月刊不是外审周期；未读当前2026JCR，不以旧网页Q3宣传覆盖2025明确Q4。"
+      ],
+      "maintenanceTrigger": "主办方新系统分流/当前模板价表、明确年度分类或MJL变化后维护，仍区分旧在途与新稿入口。"
+    },
+    {
+      "kind": "journal",
+      "id": "infrared-laser-engineering",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "cc921a868598d2bc3e8811634605aec23e692cfc69bbc8724bec56eb93a0d471",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#infrared-laser-engineering",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当前篇幅/摘要/模板/预印本/提交渠道/审稿和版面费未知，不能拿代投站或另一光学刊条件填缺。",
+        "两错误尝试及MJL两查询已留证，不继续不变重试；eISSN/新分区/CAS/覆盖年未知，月刊频次不作审稿承诺。"
+      ],
+      "maintenanceTrigger": "官网实际恢复或主办方明确可读新指南、数据库匹配/新版分类出现才核变化；维护队列不重复未变化错误。"
+    },
+    {
+      "kind": "journal",
+      "id": "acta-photonica-sinica",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "567e2729869489352cf1cc94b0aa067a3483a6512fd0d3561fba5218115e7774",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#acta-photonica-sinica",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "主页目录题名不解除数字图像指南限制，模板/协议内部/统一摘要页限与后台未知；eISSN/CAS版本/税/覆盖年未核。",
+        "5页计费分档不是最长稿，周期非个稿保证；无版年新版收费不造2026价表，APC/OA不从没有审稿费推断。"
+      ],
+      "maintenanceTrigger": "编辑明确图像/基金/英文边界、独立新版简则/附件/费用或分类后更新；不以当前目录题名代替政策。"
+    },
+    {
+      "kind": "journal",
+      "id": "acta-physica-sinica",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "0ba83a79626c4cb0e0709c3626dd7163f1fcdb04ca21a582546882ab6db1f2b7",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#acta-physica-sinica",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通稿摘要硬限/页限、模板/完整协议与系统材料、eISSN/CAS和覆盖年未知，物理含义不足的一般算法不默认适配。",
+        "版面费具体金额/税与平均统计样本未知，不推GoldOA/APC全免或时限保证；三原摘要不是全文实验复现。"
+      ],
+      "maintenanceTrigger": "本刊明确价表/更新指南与审稿统计口径、数据库/分类变更或原论文更正及过窗时维护，保留各出版日期。"
+    },
+    {
+      "kind": "journal",
+      "id": "optics-precision-engineering",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6da9dce441f0687d522b392920e9ffc281c3458609287b4a85c2c7e854c389f3",
+      "formalReviewBase": "42363f718f9272cbf2627014ad1787d868232c83",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#optics-precision-engineering",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部页限/摘要、真实可用投稿入口和审查层次冲突未解决，不复制其他中文刊规则；未核SCIE/当前JCR/CAS/覆盖年。",
+        "收费生效日/税及实际通知/审稿周期未知，半月刊非首决；旧MJL刊号/刊名两查已计入，未变化时不重查。"
+      ],
+      "maintenanceTrigger": "出版社澄清入口与二三审、实际新模板/年度价表或合法分类/数据库明确结果才维护。"
     }
   ],
   "coreSeriesReviews": [

@@ -322,3 +322,95 @@ PRX Quantum；American Physical Society；原checkedAt 2026-09-11，admitted候�
 ### V1-G2I：PRXQ载体注记修正
 
 实读既有哈希5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39的同版Compendex第4999行：PRX Quantum/Journal/APS、印刷列空标记、电子26913399。旧“印刷/电子匹配”容易误读双载体，修为只匹配电子；原出版社issn:null/eissn:2691-3399不变。仅一索引note及本次新审查digest变化，原checkedAt/分区/索引状态和其他106刊不变，不重复下载或当新版。
+
+## V1-G2J
+
+实际分两组完整读取八中文刊全部JSON字段，E15三刊不同长摘要附件/收费哈希及OPE/IRLA访问范围、F4/F5准入及论文日期、A8/A9/A10独立数据库边界、A14中文分区旧限制和JCR2025转载新补字段。中国光学旧9/14实读指南/迁移/费率日志也已定位读取。复用各自已核官方来源，不重复IRLA两工具错误、MJL OPE/IRLA刊号与刊名无结果、主办方证书限制，未将旧快照尚待覆盖后来JCR参考。无需改数据或刷新checkedAt。 本次正式字段质量累计75/250，余175未审；G3 40/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## chinese-journal-lasers
+
+中国激光；中国激光杂志社 · 中国科学院上海光学精密机械研究所；原checkedAt 2026-09-13，admitted候选journal-80c920c572一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.opticsjournal.net/J/zgjg/News/PT1901230001332y5A8.html)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e15六本中文刊中文主办刊的作者入口与版本)、[原记录2](INDEX_EVIDENCE_2026-10-02.md)、[原记录3](JCR_EVIDENCE_2026-10-05.md)。0258-7025、三刊各自指南原2019/现模板分开；三主稿附件同哈希不是所有独立长摘要规则共用。中文摘要约300建议/4–6关键词/AIGC/创新点；本刊研究长摘要800–1200词须标正文图表、不放refs/替换短摘要末页，未推广综述快报。现挂2020收费PDF200审稿/常规600每页、特色快报1000/简讯4000，文件无生效版年。MJL ESCI+EI5842/中文86独立，JIF OPTICS Q3不是邻列AIS Q4/SCIE。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)
+- 独立索引：SCIE/unverified/无肯定依据，原核验未知；主办单位声明为 ESCI，不将其当作 SCIE；SCIE 保持待核验。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 公开来源表 SERIALS（2026-08-07 版）第 5842 行，刊名/刊号匹配；中文表（2026-07-10 版）第 86 行明确 2026 状态 Renewed（保持收录）；停收表（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。；ESCI/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0258-7025&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0258-7025 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Emerging Sources Citation Index。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。
+- 未解决内容及影响：其他稿型全文上限/英文长摘要和预印本/后台材料未核，eISSN未知；旧动态简介证书失败不绕过，CAS版年学科不造。；费率实际类型/税/生效日/当前账单、外审周期与覆盖年/单篇索引未核，半月刊不作审稿时限。
+- 维护触发：本刊独立附件修订、正式价表/分类/MJL变化后核对应字段，不因三主模板同字节复制全部稿型规则。
+- 全字段内容摘要21a47be58ccf79a22bcdd665a1b48925e1baa91e9eec5a12982c822fde63ea9d，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## acta-optica-sinica
+
+光学学报；中国激光杂志社 · 中国科学院上海光学精密机械研究所；原checkedAt 2026-09-13，admitted候选journal-7719627ffd一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.opticsjournal.net/J/gxxb/News/PT1606120003261w4z7.html)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e15六本中文刊中文主办刊的作者入口与版本)、[原记录2](INDEX_EVIDENCE_2026-10-02.md)、[原记录3](JCR_EVIDENCE_2026-10-05.md)。0253-2239与网络版刊名分开；指南旧2021模板/当前下载目录独立。本刊长摘要研究/综述800–1200、快报400–600，禁止refs/图表公式章节序号，不套中国激光图表引用。当前共用主稿约300建议/签字盖章/AIGC，其文件路径年份非内部生效日。200审稿/600每页及快报简讯共同费表无版年；MJL ESCI、EI1707/中文18，JCR2025 OPTICS JIF Q3 secondary，非AIS Q4。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)
+- 独立索引：SCIE/unverified/无肯定依据，原核验未知；主办单位声明为 ESCI，不将其当作 SCIE；SCIE 保持待核验。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 公开来源表 SERIALS（2026-08-07 版）第 1707 行，刊名/刊号匹配；中文表（2026-07-10 版）第 18 行明确 2026 状态 Renewed（保持收录）；停收表（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。；ESCI/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0253-2239&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0253-2239 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Emerging Sources Citation Index。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。
+- 未解决内容及影响：普通主稿页限/预印本/系统协议内部等未核，eISSN/CAS版本学科与覆盖年未知，不把绿色通道必要说明当保证。；当前价表生效日/税/账单及审稿周期未知，刊频半月不等首决；旧主办方证书受限不重访。
+- 维护触发：本刊下载中心新版本/价表或真实数据库集合分类改变时逐字段维护，网络版身份和长摘要稿型继续分开。
+- 全字段内容摘要bd056197a6ebeb7073e6ab285cd2ff56daf5da884a46e4aaac4ab4f3faac7029，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## laser-optoelectronics-progress
+
+激光与光电子学进展；中国激光杂志社 · 中国科学院上海光学精密机械研究所；原checkedAt 2026-09-13，admitted候选journal-66834bd585一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.opticsjournal.net/J/lop/News/PT190121000081qXtZw.html)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e15六本中文刊中文主办刊的作者入口与版本)、[原记录2](INDEX_EVIDENCE_2026-10-02.md)、[原记录3](JCR_EVIDENCE_2026-10-05.md)。1006-4125，当前2025/04下载中心及2026/04本刊长摘要文件独立实读，不能以URL年称生效规则。研究/综述800–1200、快报400–600且无refs/图表公式章节，与中国激光不同。200审稿/常规550每页不是另外两刊600；特色快报1000/简讯4000需实际类型。MJL ESCI、EI3770/中文292，JCR2025电气电子/OPTICS均JIF Q4，非SCIE。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q4/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=242)；JCR/JCR 2025（指标2024）/category/OPTICS/Q4/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567)
+- 独立索引：SCIE/unverified/无肯定依据，原核验未知；主办单位声明为 ESCI，不将其当作 SCIE；SCIE 保持待核验。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 公开来源表 SERIALS（2026-08-07 版）第 3770 行，刊名/刊号匹配；中文表（2026-07-10 版）第 292 行明确 2026 状态 Renewed（保持收录）；停收表（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。；ESCI/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=1006-4125&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1006-4125 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Emerging Sources Citation Index。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。
+- 未解决内容及影响：其他主稿页限/预印本/后台清单与eISSN未知；收费PDF无生效修订版本，实际税和账单/个稿周期未知。；CAS当前版年学科、索引覆盖年及单篇查询未知；旧动态简介无年度/证书失败不作新分区。
+- 维护触发：本刊独立长摘要/主模板或年度价表/MJL分类变化时核对应字段，不由共用主稿推费用相同。
+- 全字段内容摘要28d988d395da2356c85ddf3f23bdf067f2ef78a2bbedcd697fc315b33b314319，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## chinese-optics
+
+中国光学（中英文）；中国科学院长春光学精密机械与物理研究所 · 中国光学学会；原checkedAt 2026-09-13，admitted候选journal-976cb1ab19一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.chineseoptics.net.cn/news/tougaoxuzhi.htm)；[原记录1](VERIFICATION_LOG.md)、[原记录2](INDEX_EVIDENCE_2026-10-02.md)、[原记录3](RANKING_EVIDENCE_2026-10-03.md)、[原记录4](JCR_EVIDENCE_2026-10-05.md)。2022更名现中国光学（中英文）2097-1842、主办长春光机所/中国光学学会，不用历史刊号。9/14实读Word/签名版权保密、三审；6/26起新稿SciCloudCO、旧稿原ScholarOne分流，公告6/25不是所有在途稿迁移。500元页原2024/02/26公告自3/1生效非2026新表。A14图片仅国内核心止2018不作JCR；后来JCR2025光学Q4 secondary及MJL ESCI/EI797中文98独立。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q4/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)
+- 独立索引：SCIE/unverified/无肯定依据，原核验未知；本轮无 SCIE 直查依据；不以 EI 或 ESCI 代替 SCIE。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 公开来源表 SERIALS（2026-08-07 版）第 797 行，刊名/刊号匹配；中文表（2026-07-10 版）第 98 行明确 2026 状态 Renewed（保持收录）；停收表（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。；ESCI/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2097-1842&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2097-1842 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Emerging Sources Citation Index。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。
+- 未解决内容及影响：摘要/统一篇幅/预印本政策、模板协议内部与后台未核，eISSN/CAS和覆盖年未知；不能从中英文刊名推全部英文稿适用同模板。；2024费率现账单/税与审稿时长未知，双月刊不是外审周期；未读当前2026JCR，不以旧网页Q3宣传覆盖2025明确Q4。
+- 维护触发：主办方新系统分流/当前模板价表、明确年度分类或MJL变化后维护，仍区分旧在途与新稿入口。
+- 全字段内容摘要cb2e73e571bb21eb5516cc56eb8bbbc998eda1eafed6c3248f305ad9ba0229a0，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## infrared-laser-engineering
+
+红外与激光工程；天津津航技术物理研究所 · 中国光学工程学会；原checkedAt 2026-09-13，admitted候选journal-ddf592766a一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.irla.cn/)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e15六本中文刊中文主办刊的作者入口与版本)、[原记录2](INDEX_EVIDENCE_2026-10-02.md)、[原记录3](RANKING_EVIDENCE_2026-10-03.md)、[原记录4](JCR_EVIDENCE_2026-10-05.md)。1007-2276、天津津航/中国光学工程学会范围为红外激光及光电工程，EI2291/中文170明确数据库源表Renewed。E15网页502/普通浏览器ERR_CONNECTION_CLOSED两真实访问失败后未取现指南，主页guide占位是入口不是已核全文。MJL刊号/刊名无本刊结果不能判停收，JCR2025转载无匹配不能判2026无分区；继续SCIE unverified/rankings空。
+- 分区版本/学科/等级：未取得可录入的版年/学科证据，保留未知。
+- 独立索引：SCIE/unverified/无肯定依据，原核验未知；本轮无 SCIE 直查依据；不以 EI 或 ESCI 代替 SCIE。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier Compendex 公开来源表 SERIALS（2026-08-07 版）第 2291 行，刊名/刊号匹配；中文表（2026-07-10 版）第 170 行明确 2026 状态 Renewed（保持收录）；停收表（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：当前篇幅/摘要/模板/预印本/提交渠道/审稿和版面费未知，不能拿代投站或另一光学刊条件填缺。；两错误尝试及MJL两查询已留证，不继续不变重试；eISSN/新分区/CAS/覆盖年未知，月刊频次不作审稿承诺。
+- 维护触发：官网实际恢复或主办方明确可读新指南、数据库匹配/新版分类出现才核变化；维护队列不重复未变化错误。
+- 全字段内容摘要cc921a868598d2bc3e8811634605aec23e692cfc69bbc8724bec56eb93a0d471，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## acta-photonica-sinica
+
+光子学报；科学出版社；中国科学院西安光学精密机械研究所、中国光学学会主办；原checkedAt 2026-10-05，admitted候选journal-bad13aed65一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.photon.ac.cn/info/2453?lang=zh)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f4一个准入一个暂缓)、[原记录2](JCR_EVIDENCE_2026-10-05.md)。1004-4213、SciencePress/西安光机所/COS，缩写APS非美国物理学会。原2025/06/01简则中文暂不英文、综述邀稿、基金省部级及以上/不收数字图像处理，与2026当期图像题名冲突保留。创新100–300字/600dpi版权全作者签。无审稿费、≤5页2500/超400每页计费不是页限；条件外审一月、三审缴费版权后优先5工作日/正式投稿约5月各阶段。JCR2025 OPTICS Q4 secondary补于后批，不采用无年CAS3/4宣传，MJL ESCI/EI1708中文22独立。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q4/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=565)
+- 独立索引：SCIE/unverified/无肯定依据，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1004-4213&hide_exact_match_fl=true)；当日MJL刊号查询唯一Exact Match只列ESCI；没有取得SCIE肯定依据，未知不等于停收，不用ESCI或JCR宣传替代SCIE。；ESCI/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1004-4213&hide_exact_match_fl=true)；2026-10-05普通浏览器刊号1004-4213查询：唯一Exact Match ACTA PHOTONICA SINICA、Science Press与刊号一致，结果卡明确Web of Science Core Collection: Emerging Sources Citation Index。只公开卡，无登录profile/单篇检索；覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05读取已校验Elsevier公开表，SERIALS 2026-08-07版第1708行Journal Guangzi Xuebao/Acta Photonica Sinica及10044213匹配，电子列“-”；CHINESE 2026-07-10版第22行光子学报为Renewed（保持收录），DISCONTINUED 2026-05-01版无匹配。清单更新日不作覆盖起点，未做订阅单篇检索。
+- 未解决内容及影响：主页目录题名不解除数字图像指南限制，模板/协议内部/统一摘要页限与后台未知；eISSN/CAS版本/税/覆盖年未核。；5页计费分档不是最长稿，周期非个稿保证；无版年新版收费不造2026价表，APC/OA不从没有审稿费推断。
+- 维护触发：编辑明确图像/基金/英文边界、独立新版简则/附件/费用或分类后更新；不以当前目录题名代替政策。
+- 全字段内容摘要567e2729869489352cf1cc94b0aa067a3483a6512fd0d3561fba5218115e7774，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## acta-physica-sinica
+
+物理学报；中国物理学会、中国科学院物理研究所；原checkedAt 2026-10-05，admitted候选journal-b65a90b17d一对一。
+
+- 全部字段与原依据：[本刊指南](https://editorial.iphy.ac.cn/journalx_aps/basicinfo/viewHtmlFile.action?id=8)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)、[原记录2](JCR_EVIDENCE_2026-10-05.md)、[原记录3](V1_SCOPE_REVIEW_2026-10-05.md#acta-physica-sinica)。1000-3290物理机制优先，2026/06须知观点≤4版/约7000字/<30refs/≤3fig不是普通稿限；英文摘要约一版面及关键词≤5为建议。数据论文可下载数据要求和其他稿共享倡议、AI实质披露与纯格式辅助例外分开。单盲至少二外审/矛盾交叉、一般一次申诉；15–21天为专家受邀后。无审稿费/录用版面费金额未知，60/70/130天均平均且主页30/56/69口径不同。三期75(16)/(13)/(18)近红外发光/THz/冷原子上网日与刊出日分开；JCR2025 JIF Q3不是AIS Q4，MJL SCIE/EI5801中文23，历史1999SCI非覆盖起点。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, MULTIDISCIPLINARY/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=610)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1000-3290&hide_exact_match_fl=true)；2026-10-05普通浏览器刊号1000-3290唯一Exact Match ACTA PHYSICA SINICA、CHINESE PHYSICAL SOC，结果卡明确Core Collection: Science Citation Index Expanded。未登录profile或查单篇，覆盖年未知；简介历史1999年SCI声明不当数据库覆盖起点。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核Elsevier公开表SERIALS 2026-08-07版第5801行Journal Wuli Xuebao/Acta Physica Sinica、10003290及主办者匹配，电子“-”；CHINESE 2026-07-10版第23行物理学报Renewed（保持收录）；DISCONTINUED 2026-05-01版无匹配。仅新刊号匹配，不重复旧79刊；覆盖年未知，未做订阅单篇检索。
+- 未解决内容及影响：普通稿摘要硬限/页限、模板/完整协议与系统材料、eISSN/CAS和覆盖年未知，物理含义不足的一般算法不默认适配。；版面费具体金额/税与平均统计样本未知，不推GoldOA/APC全免或时限保证；三原摘要不是全文实验复现。
+- 维护触发：本刊明确价表/更新指南与审稿统计口径、数据库/分类变更或原论文更正及过窗时维护，保留各出版日期。
+- 全字段内容摘要0ba83a79626c4cb0e0709c3626dd7163f1fcdb04ca21a582546882ab6db1f2b7，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。
+
+## optics-precision-engineering
+
+光学 精密工程；中国科学院长春光机所 / 中国仪器仪表学会；原checkedAt 2026-09-10，admitted候选journal-03711fa860一对一。
+
+- 全部字段与原依据：[本刊指南](https://ope.lightpublishing.cn/zh/info/1454/)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e15六本中文刊中文主办刊的作者入口与版本)、[原记录2](INDEX_EVIDENCE_2026-10-02.md)、[原记录3](JCR_EVIDENCE_2026-10-05.md)。1004-924X/2097-3209、长春光机所/中国仪器仪表学会，EI1706/中文313独立数据库身份。公益性OA声明/500元每版现挂指南无生效版年，账单另确认。下载目录中文2024/03/15、英文/EI摘要2023/02/24只是目录日期，内部页限未读；伦理保密版权全签原已核。同页二审/三审冲突和显示ScholarOne实际href eope.net均保留，不称系统可用。MJL两查询无匹配与JCR2025表无匹配不判未收录/无分区。
+- 分区版本/学科/等级：未取得可录入的版年/学科证据，保留未知。
+- 独立索引：SCIE/unverified/无肯定依据，原核验未知；本轮未核实 SCIE 状态。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 1706 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配；中文表（2026-07-10 版）第 313 行为 2026 Renewed（保持收录）。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：模板内部页限/摘要、真实可用投稿入口和审查层次冲突未解决，不复制其他中文刊规则；未核SCIE/当前JCR/CAS/覆盖年。；收费生效日/税及实际通知/审稿周期未知，半月刊非首决；旧MJL刊号/刊名两查已计入，未变化时不重查。
+- 维护触发：出版社澄清入口与二三审、实际新模板/年度价表或合法分类/数据库明确结果才维护。
+- 全字段内容摘要6da9dce441f0687d522b392920e9ffc281c3458609287b4a85c2c7e854c389f3，基于42363f718f9272cbf2627014ad1787d868232c83；不是官网内容指纹，不表示未知已补齐。

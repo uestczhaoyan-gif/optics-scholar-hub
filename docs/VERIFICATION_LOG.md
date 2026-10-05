@@ -1538,3 +1538,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2I实审7刊正式字段质量，累计67/250、余183；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅PRXQ的EI载体注记修正，身份、分区与索引计数保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2i)。长操作前work/V1-G2I-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
 
 - 发布前validate、PRXQ单个EI note的精确差异/其余106刊与全部其他data及冻结范围、旧60正式审查/候选/G4/G5/final账本不变、67唯一kind:id及完整digest断言通过；483本地文件链接、全部真实文档/数据/账本差异及git diff --check通过。Node24.20子路径六入口构建exit0；已有维护460项/12主题计数保持。同SHA CI完整31测试/typecheck/lint/build并核线上新摘要；五小时63%/周25%普通允许，继续固定剩余。
+
+## 2026-10-06：正式质量 V1-G2J
+
+- 42363f718f9272cbf2627014ad1787d868232c83已验收[Pages 37379663409](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37379663409)；同SHA build/deploy成功、首页/版本200，摘要0dce3304728980b8619acf9377e9a0eb8fdb3d3823fb5f1e2f0ebda8ca3c0eae匹配本地（2026-10-05T22:01:52.721Z）。正式编辑前HEAD=origin/main。实际分两组完整读取八中文刊全部JSON字段，E15三刊不同长摘要附件/收费哈希及OPE/IRLA访问范围、F4/F5准入及论文日期、A8/A9/A10独立数据库边界、A14中文分区旧限制和JCR2025转载新补字段。中国光学旧9/14实读指南/迁移/费率日志也已定位读取。复用各自已核官方来源，不重复IRLA两工具错误、MJL OPE/IRLA刊号与刊名无结果、主办方证书限制，未将旧快照尚待覆盖后来JCR参考。无需改数据或刷新checkedAt。
+- V1-G2J实审8刊正式字段质量，累计75/250、余175；固定候选40/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2j)。长操作前work/V1-G2J-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+
+- 发布前validate、全部data/冻结范围字节保护、旧67正式审查及候选/G4/G5/final账本保持、75唯一kind:id与全部digest/本批一对一admitted关联通过；512本地文件链接、六文件全部实际文档/账本差异审查及git diff --check通过。没有将共同主模板扩为不同长摘要政策、无年份费表升级或JIF/AIS混同；空分区明确未知。纯文档复用已验收六入口构建及维护460/12主题摘要，同SHA CI完整31测试/typecheck/lint/build后核部署。
