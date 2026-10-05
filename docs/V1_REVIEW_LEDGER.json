@@ -998,6 +998,90 @@
         "可读范围含宽量子技术，不等于三篇光学样例；publisher SCIE/EI不是数据库直查，未保存正式分区。"
       ],
       "maintenanceTrigger": "有合法可读原文和明确身份/索引证据的新条件后维护三不同正式期次光学样例及准入；受限域不继续请求。"
+    },
+    {
+      "candidateId": "journal-cb07c0f4ab",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-cb07c0f4ab",
+      "formalIds": [],
+      "limitations": [
+        "实读About而非三篇原论文；IOP原刊域10/5既有验证域限制，本刊未作独立安全请求，不称每篇拒绝。",
+        "MJL/JCR/CAS、本刊完整格式与阶段周期未核；出版社索引列表不当数据库直查，EI表未给覆盖年份。"
+      ],
+      "maintenanceTrigger": "出现合法可读原摘要/正式卷期和独立分区身份的新依据后核实三篇光学样例及完整指南；不重试受限验证域。"
+    },
+    {
+      "candidateId": "journal-4b8d6cb293",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-4b8d6cb293",
+      "formalIds": [],
+      "limitations": [
+        "未重试已有安全限制的IOP原刊域；本刊没有独立安全请求，不把About范围或旧综述题名代替三样例。",
+        "Compendex本版无同名匹配仅未获肯定，不判断未收录/停收；MJL/JCR/CAS、刊号载体身份和完整指南仍待。"
+      ],
+      "maintenanceTrigger": "有合法原论文/正式卷期及独立刊号、索引分区依据后，按研究/综述分别核实适配与准入；原域限制不绕过。"
+    },
+    {
+      "candidateId": "journal-8c3e6b5577",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-8c3e6b5577",
+      "formalIds": [],
+      "limitations": [
+        "pubs.rsc.org安全验证实际出现在MH首页，不点击或更换工具继续取原论文；官方范围不代替光学样例。",
+        "RSC官网SCIE列举为出版社证据；未核MJL、JCR/CAS或阶段统计口径，不将JIF数值换分区。完整作者指南未读。"
+      ],
+      "maintenanceTrigger": "可合法访问原摘要与卷期的新条件或新独立数据库/分区依据出现后补三样例及准入；不重复受限平台访问。"
+    },
+    {
+      "candidateId": "journal-b12f0cf8a5",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-b12f0cf8a5",
+      "formalIds": [],
+      "limitations": [
+        "只读指南范围/稿型列表，不宣称911行全文细则完成；本刊没有独立浏览器安全请求或403断言。",
+        "同域安全限制后不请求原论文；缺三原摘要与完整分区/MJL、费用及周期，EI来源表不代替光学适配。"
+      ],
+      "maintenanceTrigger": "合法原论文入口及新独立准入依据出现后逐篇核实光学样例，再读本刊剩余稿型/收费细则；磁性和一般电子内容分别判断。"
+    },
+    {
+      "candidateId": "journal-9404b4e64f",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-9404b4e64f",
+      "formalIds": [],
+      "limitations": [
+        "只核当前官网展开范围/身份与部分出版信息，不称完整作者指南或原论文已核；非光学能源内容不作适配。",
+        "出版社SCIE列表不升级数据库，MJL/JCR/CAS及覆盖年/阶段周期未知；新官网JIF与旧原刊数值不推造分区或统一年份。"
+      ],
+      "maintenanceTrigger": "合法原文与正式卷期/准入证据出现后核实三篇光学相关能源原论文，收费及指南按本刊单独读；受限域不重试。"
+    },
+    {
+      "candidateId": "journal-1d6c404257",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-1d6c404257",
+      "formalIds": [],
+      "limitations": [
+        "只保存实际Scope/稿型及所见局部条款，完整指南/费用/数据库MJL分区仍待；EI表没有覆盖年份。",
+        "没有对Analytical Chemistry原刊作独立403请求；缺三光学样例。指南清单要求至少四推荐审稿人而后节说可选，适用细节保留冲突，不选择其一。"
+      ],
+      "maintenanceTrigger": "合法原文与新准入证据出现后补三不同正式期次光学样例，并核本刊指南版本及推荐审稿人差异，不重试受限原域。"
     }
   ],
   "formalDataReviews": [

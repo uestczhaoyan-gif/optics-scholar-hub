@@ -1473,3 +1473,12 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - V1-G2C完成7刊逐字段质量收尾，累计18/250条、余232未审；固定候选23/60，G4/G5完成，G2/G3/最终功能验收仍待，整体IN_PROGRESS。全部data及冻结范围保持，不刷新原核验日期。 [各刊依据与边界](V1_FORMAL_REVIEW_2026-10-06.md)；实际读取七刊所有现有字段及E5/E6/E7/E9/E11范围。JLT通用8页/专题7页差异、OQ的ESCI与SCIE/EI未知、AOP提案建议、OME Opinion范围等原样保留。长操作前保存work/V1-G2C-plan.json。必要校验及实际差异审查后提交同SHA部署验收。
 
 - 发布前validate、全部data/冻结范围字节保护、旧11审核与候选/G4/G5账本不变、七新增记录内容摘要/六组字段范围/具体限制和触发断言通过；403本地Markdown文件链接、实际差异审查及git diff --check通过。首次辅助脚本使用status而非真实reviewStatus，在写正式文件之前断言失败，纠正后重新执行成功；未把首次失败当通过。纯文档复用已验收六入口构建、维护460项/覆盖12主题；同SHA完整CI继续31测试、typecheck/lint/build及部署验收。
+
+## 2026-10-06：六固定候选 V1-G3D
+
+- 857d6c9fb697d9fd371de7ecbbf95f8c4b92fe91已验收[Pages 37372105871](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37372105871)，同SHA build/deploy成功，首页/版本200，摘要96b55c4dedb0db9d1088ce3ec6a01db85e384b91349150ef72c92cb3e09971ab与本地一致（2026-10-05T21:14:29.266Z）。正式编辑前验收，研究在上一批发布排队时保存work/V1-G3D-plan.json与研究检查点；未重复提交同SHA。
+- V1-G3D实审IP/ROP/MH/JMCC/EES/Analytical Chemistry六交叉刊，均保留pending及缺三原光学摘要/准入字段的限制；固定60已审29（3准入、26限制）、剩31。正式质量18/250、余232，G4/G5完成，G1/G2/G3/G6仍待，整体IN_PROGRESS。目录107刊/133届/10活动、273候选216 admitted/50 pending/7 deferred保持。 [逐字段实读范围与限制](V1_CANDIDATE_REVIEW_2026-10-06.md)。IOP两About、RSC独立新站实际Scope/部分稿型、ACS独立版日/Scope/Types实读，JMCC未读完整911行。EI只检索新6目标，身份与版本分开；未访问受限原域换取摘要。必要保护断言/数据/构建与实际差异审查后上传同SHA验收。
+
+- 上批Pages37372105871 attempt1 build与31项CI通过，deploy零步骤排队15分钟后cancelled；GitHub检查注释确认托管runner多次未能领取。仅同run/同SHA rerun-failed-jobs（HTTP201）成功恢复，未制造新提交，21:14:29Z完成线上验收。Node20 action运行时弃用/ubuntu后续迁移为非阻断平台提示，不误作应用构建失败。
+
+- 发布前固定六候选允许字段/其他267候选深度保护、所有正式数据及冻结范围字节保护、旧账本/18正式/G4/G5/final未验收保护通过；validate107刊/133届、395个Markdown本地文件链接、实际数据及文档差异审查、git diff --check通过。Node24.20子路径构建与六入口静态资源通过，仅既有体积提示；维护460任务/覆盖12主题273候选保持，滚动队列不作为结項要求。31测试/typecheck/lint由本批同SHA CI再执行，尚未将新提交声明已部署。

@@ -2313,12 +2313,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "红外与光谱机制、光谱仪器及光学分析",
-    "sourceEntry": null,
+    "sourceEntry": "https://researcher-resources.acs.org/publish/author_guidelines?coden=ancham",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读ACS官方2026-08-27指南的Scope/Manuscript Types，测量科学含imaging/instrumentation/spectroscopy而非所有分析化学均光学。Compendex SERIALS第273行0003-2700/1520-6882匹配。原pubs.acs.org已有两刊403记录，不新增本刊独立拒绝断言；尚无三不同期次近年光学原摘要，保留pending。",
+    "nextAction": "合法原文与新准入证据出现后补三不同正式期次光学样例，并核本刊指南版本及推荐审稿人差异，不重试受限原域。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-06c09a75aa",
@@ -2439,12 +2439,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光伏、光热、光催化及光电转换，排除无光学关联内容",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.rsc.org/publishing/journals/energy-and-environmental-science",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读RSC当前官方检索展开范围：宽能源转型研究中明确太阳能、光伏、光化学和光催化，电子1754-5706；Compendex SERIALS第1277行1754-5692/1754-5706匹配。pubs.rsc.org已出现MH安全验证，不再请求原论文，也未对EES作独立403断言；缺三不同正式期次光学原摘要，保留pending。",
+    "nextAction": "合法原文与正式卷期/准入证据出现后核实三篇光学相关能源原论文，收费及指南按本刊单独读；受限域不重试。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-dc7c99b931",
@@ -2691,12 +2691,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "计算成像、光学反演、医学成像方法",
-    "sourceEntry": null,
+    "sourceEntry": "https://publishingsupport.iopscience.iop.org/journals/inverse-problems/about-inverse-problems/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方About的数学/实验反演范围，包含光学与成像；Compendex SERIALS第2926行身份0266-5611/1361-6420独立匹配。通常16–25页且无硬上下限，超过30页须评议是否必要；属于交叉刊而非直接光学专刊。缺近两年三不同正式期次光学原摘要，IOP原刊域此前安全限制不重试，保留pending。",
+    "nextAction": "出现合法可读原摘要/正式卷期和独立分区身份的新依据后核实三篇光学样例及完整指南；不重试受限验证域。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-bd7edfa860",
@@ -2747,12 +2747,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光电器件、光学功能材料、发光与探测",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.rsc.org/publishing/publish-with-us/publish-a-journal-article/journal-of-materials-chemistry-c",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读RSC官方作者指南开头：面向光学、磁性和电子器件材料，Full Papers/Communications/Reviews/Highlights/Perspectives/Comments列入稿型；不是全部内容均光学。Compendex SERIALS第3397行2050-7526/2050-7534匹配。原平台请求Internal Error，随后该域MH安全验证限制保留；三篇跨期原光学论文仍未核实，保留pending。",
+    "nextAction": "合法原论文入口及新独立准入依据出现后逐篇核实光学样例，再读本刊剩余稿型/收费细则；磁性和一般电子内容分别判断。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-53eaffdabf",
@@ -2819,12 +2819,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光电器件、光学功能材料、发光与探测",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.rsc.org/publishing/journals/materials-horizons",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读RSC当前Scope：广材料科学强调新概念及跨领域意义，电子刊号2051-6355。Compendex SERIALS第3889行与2051-6347/2051-6355匹配。原刊平台网页工具Internal Error后普通浏览器出现安全验证即停止；尚无三不同正式期次近年光学原摘要，保留pending。",
+    "nextAction": "可合法访问原摘要与卷期的新条件或新独立数据库/分区依据出现后补三样例及准入；不重复受限平台访问。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-385165e2ff",
@@ -3350,13 +3350,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 2,
-    "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
+    "scopeHint": "光学/量子与宽物理交叉；综述和当前原始研究稿分开核实",
+    "sourceEntry": "https://publishingsupport.iopscience.iop.org/journals/reports-on-progress-in-physics/about-reports-progress-physics/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读官方About：光学/光子/成像与更宽物理范围，现在接收Letters与Research Papers及邀稿综述，不能只按综述刊处理。通常8页/约4500词、研究约12000词为指导值，Justification少于150词；尚缺三不同正式期次近年光学原论文实读及独立准入证据，保留pending。",
+    "nextAction": "有合法原论文/正式卷期及独立刊号、索引分区依据后，按研究/综述分别核实适配与准入；原域限制不绕过。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-366bb352ac",
