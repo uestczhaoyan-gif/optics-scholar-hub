@@ -2333,6 +2333,190 @@
         "提前价格开边界不等10/8全天，住宿精确时刻不搬成注册或稿件时间；9/10checkedAt不伪刷新。"
       ],
       "maintenanceTrigger": "2026新公开注册/场馆/最终作者通知或下一届官方公告出现后维护，保留住宿/缴费/论文通道区分。"
+    },
+    {
+      "kind": "conference",
+      "id": "igarss-2024",
+      "seriesId": "series-4c03de207508",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ac8a488d5a327b17d6bea851fbd2c646d5824453d415c4878bb946fbd8ba2174",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#igarss-2024",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部/匿名/最终版权细项、2024口头/海报/文件展示细则未核。",
+        "CET名称偏移冲突保留，索引不保证单篇；原2024闭会，不从后年三路径填缺。"
+      ],
+      "maintenanceTrigger": "2024原展示/版权/模板更正或合法实际论文集证据出现后维护历史，只更新有新出处字段。"
+    },
+    {
+      "kind": "conference",
+      "id": "igarss-2025",
+      "seriesId": "series-4c03de207508",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a44f872d3ace50485585146d40840bcd2a49e30fdc68fc9dc6899bae5849e331",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#igarss-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "after1/1当天资格、模板内部/匿名和税处理未知；旧2024版权版本不冒充本年。",
+        "周一poster slot与视频像素方向冲突未解；摘要/近期文章不入Xplore论文集，no-show例外非自动保证。"
+      ],
+      "maintenanceTrigger": "2025官方更正现场参数/边界或合法最终出版记录后维护历史，保留各路线及已过会期语义。"
+    },
+    {
+      "kind": "conference",
+      "id": "igarss-2026",
+      "seriesId": "series-4c03de207508",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "522d7c9104e55711b212f6e65ba19b9a50f8e26034117d2518ca88d1904c6b2e",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#igarss-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "通知两值冲突、after1/1当天资格/税/匿名/内部模板及版权未知。",
+        "poster最小方向未知；学生等注册覆盖与presenting上限不同，实际逐篇索引不保证。"
+      ],
+      "maintenanceTrigger": "2026官方通知更正/原模板版权或实际出版记录出现后维护历史，不用2025/2027抹平冲突。"
+    },
+    {
+      "kind": "conference",
+      "id": "igarss-2027",
+      "seriesId": "series-4c03de207508",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "7715a480b8e2424a6ab5011d8134cce5b9505a0181abbc679e2c826f9ada71a5",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#igarss-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "Q1体系/日期边界、具体篇词模板参考页、注册费用与后台状态、报告条件未知。",
+        "未来开放计划不作现在可用实证，日期无时区时刻、索引不承诺自动EI/SCI。"
+      ],
+      "maintenanceTrigger": "2027实际PaperKit/模板/注册价和报告规则发布后按本届核验，不能复制2026版式与费率。"
+    },
+    {
+      "kind": "conference",
+      "id": "irmmw-thz-2026",
+      "seriesId": "series-f99079d1fc30",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "b7035f68d3d1869750153fa7464b8c21d1051274064c48fce29226b11650da8f",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#irmmw-thz-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "晚新闻归档资格、内部模板/Whova、布展精确时刻和税/额外费未核。",
+        "8/15不作所有人最终注册截止，日期均日级；Xplore与EI/SCI并非同一证明。"
+      ],
+      "maintenanceTrigger": "本届晚新闻资格/布展及正式出版更正出现后维护，保留注册分段/稿件通道。"
+    },
+    {
+      "kind": "conference",
+      "id": "irmmw-thz-2027",
+      "seriesId": "series-f99079d1fc30",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9109fe06faa47734633caec747156db6d759e417ed1a1eff52de360bf9e6a516",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#irmmw-thz-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届具体场馆/CFP/稿型篇词/模板、普通晚新闻日期、注册价/入口及出版版权检索均未知。",
+        "正式会期已知不是提交开放/所有题目确认，不能拿2026条填后续。"
+      ],
+      "maintenanceTrigger": "2027独立当届官网/CFP/场馆注册及出版公告出现后逐字段维护；不反复请求未变化预告。"
+    },
+    {
+      "kind": "conference",
+      "id": "irmmw-thz-2028",
+      "seriesId": "series-f99079d1fc30",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e15e090a5d93eb0eb1ce23ca5b86b9e0f472a78e0b2da1e5835fbed50fd2ba0f",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#irmmw-thz-2028",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届具体会议厅、完整CFP/篇词模板、系统普通晚新闻/注册日期、费用与版权出版检索未知。",
+        "不能仅因官方会期明确而展示可投或编造未来截止，不拿现年举办流程充数。"
+      ],
+      "maintenanceTrigger": "2028独立官方原通知/场馆投稿及收费出版条件出现后维护，保存预告与规则各自版本。"
+    },
+    {
+      "kind": "conference",
+      "id": "icors-2026",
+      "seriesId": "series-fd36467103fc",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "40b016653ae5091e6d36f77907ff1f6bdb1e8b8930179a306a6adfb4e0b8eef3",
+      "formalReviewBase": "46735afbc1b2b37f4d781e4c3b70d154c603cd17",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icors-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "注册贡献数量冲突、海报独立截止、系统内部/完整费率/摘要集实际索引未知。",
+        "当届旧终日差异保留；2027JRS会后截稿不是下一届会议，下一届日城CFP未知，不绕过Wiley受限域。"
+      ],
+      "maintenanceTrigger": "主办方更正贡献/旧终日或独立下一届正式公告后维护；专刊规则与会议路线各自审查。"
     }
   ],
   "coreSeriesReviews": [

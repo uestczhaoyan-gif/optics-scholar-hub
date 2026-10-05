@@ -303,3 +303,119 @@ IEEE Photonics Conference；2026；IEEE IPC/series-6ea78a0d43e3；admitted关联
 - 未解决内容及影响：具体会议厅/初稿/PDP最后日时、模板与后台、普通其他费率和实际论文集未知。；提前价格开边界不等10/8全天，住宿精确时刻不搬成注册或稿件时间；9/10checkedAt不伪刷新。
 - 维护触发：2026新公开注册/场馆/最终作者通知或下一届官方公告出现后维护，保留住宿/缴费/论文通道区分。
 - 完整记录内容摘要5d0b8c41d2607b622d779a5bc5e6cea70a376f58592edb19fd6612eeb4669bfe，基于a9c3711efd63a86cc48e55b63083093b837d3c13；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2H
+
+实际逐項完整读取IGARSS2024–2027、IRMMW2026–2028和ICORS2026八届所有JSON字段、三G5系列原段及C32/C33当届原范围。并直接读取lib/catalog.ts的conferenceStatus/nextDeadline：会期已过优先显示已结束且排除投稿提醒，因此历史submissionState published为已公布规则，不等于可投，不为改日期而刷新来源。复用原官方记录，不重复已受限/未变化网站，不宣称今天全站重核。 累计正式质量60/250，余190未审；固定候选35/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## igarss-2024
+
+IEEE International Geoscience and Remote Sensing Symposium 2024；2024；IEEE IGARSS/series-4c03de207508；admitted关联conference-series-4c03de2075，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://2024.ieeeigarss.org/)、[原通知](https://2024.ieeeigarss.org/papers.php)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-4c03de207508)。
+- 全字段审阅范围：2024年7/7–12 Athens Megaron第44届独立官方年站，光学限高光谱/LiDAR/被动光学，不称全会纯光学。完整稿英语≥800词、最多4正文含图refs另计、10–12pt双栏/LetterA4/PDF5MB嵌字体不加密无页码；没有已核后年摘要/近期文章路径，不移植。普通1/12/通知3/15/终稿5/25/作者5/30/早价5/12日级，CET(GMT+2)冲突不造午夜。presenting至多2、student注册1/其他非单日2/单日不满足作者；EUR含税四档与教程/退款条件分别，覆盖paper费不退。完整终稿版权注册/本人或合格代理现场、no-show与现场电子集分发区别，PartVI尚待现场参数未知。
+- 日城与范围：2024-07-07–2024-07-12；希腊 · 雅典；Megaron Athens International Conference Center；submissionState closed。
+- 逐字段截止及出处：2024历史普通稿截止：2024-01-12 [来源](https://2024.ieeeigarss.org/)；2024作者录用通知：2024-03-15 [来源](https://2024.ieeeigarss.org/)；2024录用完整稿截止：2024-05-25 [来源](https://2024.ieeeigarss.org/papers.php)；2024论文作者注册截止：2024-05-30 [来源](https://2024.ieeeigarss.org/registration.php)；2024早价注册截止：2024-05-12 [来源](https://2024.ieeeigarss.org/registration.php)
+- 本届条件出版原字段：本届初投材料不自动出版；录用完整论文须后续最终稿、版权手续、作者注册并实际现场展示。摘要/近期文章路径本批未核，不移植后两年。no-show作者/合格代理不现场展示则不在Xplore/公开论坛出版，但可能随现场电子论文集分发、版权属IEEE；例外由技术主席按不可预见情形判断。未逐篇核实际索引，不承诺自动EI/SCIE。来源：https://2024.ieeeigarss.org/papers/paper_kit.php 与 https://2024.ieeeigarss.org/registration.php
+- 本届范围/冲突原备注：光学适配限Topics所列高光谱、LiDAR、被动光学多/高光谱；会议整体覆盖广泛地球科学，不把全会等同纯光学。来源：https://2024.ieeeigarss.org/topics.php。已结束历史届次；所有已录截止只日级，未知字段不按周期推算。
+- 未解决内容及影响：模板内部/匿名/最终版权细项、2024口头/海报/文件展示细则未核。；CET名称偏移冲突保留，索引不保证单篇；原2024闭会，不从后年三路径填缺。
+- 维护触发：2024原展示/版权/模板更正或合法实际论文集证据出现后维护历史，只更新有新出处字段。
+- 完整记录内容摘要ac8a488d5a327b17d6bea851fbd2c646d5824453d415c4878bb946fbd8ba2174，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## igarss-2025
+
+IEEE International Geoscience and Remote Sensing Symposium 2025；2025；IEEE IGARSS/series-4c03de207508；admitted关联conference-series-4c03de2075，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://2025.ieeeigarss.org/)、[原通知](https://2025.ieeeigarss.org/call_for_papers.php)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-4c03de207508)。
+- 全字段审阅范围：2025年8/3–8 Brisbane BCEC第45届，三独立路径：完整800词/4body refs另计/PDF5MB，摘要400–600词/1–2页单栏/最多两图只交流，近期after1/1/2024 ISI或SJR Q1文章仅适配不再出版；不改成JCR/CAS。日期页明确划除原1/10→1/17、3/15→3/20，终稿作者5/15/早价5/7；Kit残留2024作者5/30与版权不采用。student1/非单日其他2/presenting至多2、USD四档/税未知/教程另计/论文费不退。现场12+3/提前15分钟/代理现场放预录，不等远程；海报正文75分钟与周一15分钟表冲突、视频16:9与1080×1920方向冲突保留，W116H176cm为本届。published规则但前端会期已过显示已结束，无投稿提醒；不伪改记录。
+- 日城与范围：2025-08-03–2025-08-08；澳大利亚 · 布里斯班；Brisbane Convention & Exhibition Centre (BCEC)；submissionState published。
+- 逐字段截止及出处：2025历史普通稿截止：2025-01-17 [来源](https://2025.ieeeigarss.org/important_dates.php)；2025作者录用通知：2025-03-20 [来源](https://2025.ieeeigarss.org/important_dates.php)；2025录用完整稿截止：2025-05-15 [来源](https://2025.ieeeigarss.org/important_dates.php)；2025论文作者注册截止：2025-05-15 [来源](https://2025.ieeeigarss.org/registration.asp)；2025早价注册截止：2025-05-07 [来源](https://2025.ieeeigarss.org/registration.asp)
+- 本届条件出版原字段：本届初投材料不自动出版；录用完整论文须后续最终稿、版权手续、作者注册并实际现场展示。摘要/近期文章路径只交流不入IEEE Xplore论文集。no-show作者/合格代理不现场展示则不在Xplore/公开论坛出版，但可能随现场电子论文集分发、版权属IEEE；例外由技术主席按不可预见情形判断。未逐篇核实际索引，不承诺自动EI/SCIE。来源：https://2025.ieeeigarss.org/papers/paper_kit.php 与 https://2025.ieeeigarss.org/registration.asp
+- 本届范围/冲突原备注：光学适配限Topics所列高光谱、LiDAR、被动光学多/高光谱；会议整体覆盖广泛地球科学，不把全会等同纯光学。来源：https://2025.ieeeigarss.org/topics.php。已结束历史届次；所有已录截止只日级，未知字段不按周期推算。 日期页明确划除1/10改1/17及3/15改3/20；Paper Kit仍残留5/30/2024作者注册与©2024，按当届日期/注册页保存5/15/2025，不当本年版权版本。来源：https://2025.ieeeigarss.org/important_dates.php 与 https://2025.ieeeigarss.org/papers/paper_kit.php
+- 未解决内容及影响：after1/1当天资格、模板内部/匿名和税处理未知；旧2024版权版本不冒充本年。；周一poster slot与视频像素方向冲突未解；摘要/近期文章不入Xplore论文集，no-show例外非自动保证。
+- 维护触发：2025官方更正现场参数/边界或合法最终出版记录后维护历史，保留各路线及已过会期语义。
+- 完整记录内容摘要a44f872d3ace50485585146d40840bcd2a49e30fdc68fc9dc6899bae5849e331，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## igarss-2026
+
+IEEE International Geoscience and Remote Sensing Symposium 2026；2026；IEEE IGARSS/series-4c03de207508；admitted关联conference-series-4c03de2075，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://2026.ieeeigarss.org/)、[原通知](https://2026.ieeeigarss.org/call_for_papers.php)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-4c03de207508)。
+- 全字段审阅范围：2026年8/9–14 Washington Hilton第46届，三路径独立本年：800词/4body refs另计/PDF5MB、摘要400–600/1–2单栏至多两图、after1/1/2025 ISI或SJR Q1近期文不重复出版。CFP1/10与Kit/日期1/17普通按后两源且保留旧值；通知3/15vs3/19无更正证据故null，终稿/作者/早价4/30。USD四档与税未知/退款paper不退/student1其他2分别。现场12+3/代理可预录但到场/USB必须/无中央上传/WindowsPPTX/视频1920×1080MP4MOV；海报75min H116W238cm最小61×92方向未指定不赋。published不等开放，前端会期已过优先已结束/排除投稿提醒，目录保持。
+- 日城与范围：2026-08-09–2026-08-14；美国 · 华盛顿特区；Washington Hilton；submissionState published。
+- 逐字段截止及出处：2026历史普通稿截止：2026-01-17 [来源](https://2026.ieeeigarss.org/important_dates.php)；2026作者通知（3/15与3/19冲突待核）：未知 [来源](https://2026.ieeeigarss.org/important_dates.php)；日期专页3/19与CFP3/15不一致；没有明确修订依据，留空。来源：https://2026.ieeeigarss.org/call_for_papers.php；2026录用完整稿截止：2026-04-30 [来源](https://2026.ieeeigarss.org/important_dates.php)；2026论文作者注册截止：2026-04-30 [来源](https://2026.ieeeigarss.org/registration.asp)；2026早价注册截止：2026-04-30 [来源](https://2026.ieeeigarss.org/registration.asp)
+- 本届条件出版原字段：本届初投材料不自动出版；录用完整论文须后续最终稿、版权手续、作者注册并实际现场展示。摘要/近期文章路径只交流不入IEEE Xplore论文集。no-show作者/合格代理不现场展示则不在Xplore/公开论坛出版，但可能随现场电子论文集分发、版权属IEEE；例外由技术主席按不可预见情形判断。未逐篇核实际索引，不承诺自动EI/SCIE。来源：https://2026.ieeeigarss.org/papers/paper_kit.php 与 https://2026.ieeeigarss.org/registration.asp
+- 本届范围/冲突原备注：光学适配限Topics所列高光谱、LiDAR、被动光学多/高光谱及光学建模；会议整体覆盖广泛地球科学，不把全会等同纯光学。来源：https://2026.ieeeigarss.org/topics.php。已结束历史届次；所有已录截止只日级，未知字段不按周期推算。 CFP仍写普通1/10和通知3/15；专门日期页写普通1/17和通知3/19，Kit明确1/17，普通采用后两者并保留旧值。通知无明确修订说明，最终通知日null，保留3/15与3/19矛盾。来源：https://2026.ieeeigarss.org/call_for_papers.php 与 https://2026.ieeeigarss.org/important_dates.php 与 https://2026.ieeeigarss.org/papers/paper_kit.php
+- 未解决内容及影响：通知两值冲突、after1/1当天资格/税/匿名/内部模板及版权未知。；poster最小方向未知；学生等注册覆盖与presenting上限不同，实际逐篇索引不保证。
+- 维护触发：2026官方通知更正/原模板版权或实际出版记录出现后维护历史，不用2025/2027抹平冲突。
+- 完整记录内容摘要522d7c9104e55711b212f6e65ba19b9a50f8e26034117d2518ca88d1904c6b2e，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## igarss-2027
+
+47th IEEE International Geoscience and Remote Sensing Symposium；2027；IEEE IGARSS/series-4c03de207508；admitted关联conference-series-4c03de2075，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://2027.ieeeigarss.org/)、[原通知](https://2027.ieeeigarss.org/call_for_papers.php)；[原实际记录1](V1_SERIES_REVIEW_2026-10-05.md#series-4c03de207508)。
+- 全字段审阅范围：2027年7/11–16 Reykjavik Harpa第47届原公开年站，光学子方向限高光谱/Lidar/被动光学/光学建模。CFP三路径完整4页、400–600词摘要、after1/1/2026 Q1近期文；本届Q1体系未明确，不移植前两年ISI/SJR或JCR/CAS。计划11/10/2026投稿、3/29/2027注册开放，普通1/11/通知3/12/终稿作者早价4/30均日级，CCT10/15/Tutorial11/3是提案非普通DDL。仅完整稿Xplore，摘要和已有论文不重复出版；PaperKit模板/refs页限与费率/no-show待本届。
+- 日城与范围：2027-07-11–2027-07-16；冰岛 · 雷克雅未克；Harpa Concert Hall & Conference Centre；submissionState published。
+- 逐字段截止及出处：完整论文/摘要投稿截止：2027-01-11 [来源](https://2027.ieeeigarss.org/important_dates.php)；作者录用通知：2027-03-12 [来源](https://2027.ieeeigarss.org/important_dates.php)；录用完整论文提交截止：2027-04-30 [来源](https://2027.ieeeigarss.org/important_dates.php)；录用论文作者注册截止：2027-04-30 [来源](https://2027.ieeeigarss.org/important_dates.php)；早鸟注册结束：2027-04-30 [来源](https://2027.ieeeigarss.org/important_dates.php)
+- 本届条件出版原字段：当届CFP说明录用完整论文纳入会议论文集和IEEE Xplore，摘要及近期已发表文章路径不纳入该论文集。具体报告条件及数据库实际检索仍须后续核实，不承诺自动EI/SCIE。
+- 本届范围/冲突原备注：依据Topics限定光学适配：高光谱处理、光学建模、Lidar和被动光学多/高光谱传感。所有已读截止仅日期，没有时刻/时区；CCT与Tutorial提案分别10/15和11/3 2026，属于专题/教程提案，不混作普通稿DDL。注册3/29 2027计划开放，未填写或登录任何系统。
+- 未解决内容及影响：Q1体系/日期边界、具体篇词模板参考页、注册费用与后台状态、报告条件未知。；未来开放计划不作现在可用实证，日期无时区时刻、索引不承诺自动EI/SCI。
+- 维护触发：2027实际PaperKit/模板/注册价和报告规则发布后按本届核验，不能复制2026版式与费率。
+- 完整记录内容摘要7715a480b8e2424a6ab5011d8134cce5b9505a0181abbc679e2c826f9ada71a5，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## irmmw-thz-2026
+
+51st International Conference on Infrared, Millimeter, and Terahertz Waves；2026；IRMMW-THz/series-f99079d1fc30；admitted关联conference-series-7cd884e8cb，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://www.irmmw-thz.org/conference/)、[原通知](https://www.irmmw-thz.org/abstract-submission/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-f99079d1fc30)。
+- 全字段审阅范围：2026年10/11–16Salt Lake City Utah Cleone PetersonEccles AlumniHouse155地址第51届独立。摘要模板/PDFExpress61726X兼容后Whova提交、终稿保留paperID，不把认证当上传；studentaward两页/扩展至多两页，终稿资格限定5/1前且TPC接受，晚新闻归档待确认。普通5/1/通知7/6/LateNews终稿早价8/15与latefee9/30分别；KeyDates8/15注册终日不能覆盖注册页后续975/675与10/1后1050/750USD，早900/600独立。每篇至少一作者、一次注册最多本人署名3篇、本人或指定代理现场、非混合；10/5局部posterA1任方向或A0竖、自带打印/现场不打印，session答疑，不造布展时刻。
+- 日城与范围：2026-10-11–2026-10-16；美国 · 盐湖城；University of Utah, Cleone Peterson Eccles Alumni House, 155 S Central Campus Dr, Salt Lake City, UT 84112；submissionState published。
+- 逐字段截止及出处：普通摘要投稿：2026-05-01 [来源](https://www.irmmw-thz.org/key-dates/)；普通投稿录用通知：2026-07-06 [来源](https://www.irmmw-thz.org/key-dates/)；Late News 摘要：2026-08-15 [来源](https://www.irmmw-thz.org/key-dates/)；最终扩展摘要及修订：2026-08-15 [来源](https://www.irmmw-thz.org/abstract-submission/)；早鸟注册缴费：2026-08-15 [来源](https://www.irmmw-thz.org/register/)；Late fee 费率结束（之后为现场费率）：2026-09-30 [来源](https://www.irmmw-thz.org/register/)
+- 本届条件出版原字段：官网规定录用论文或海报须由作者或指定代表现场报告，方可归档到会议 digest 和 IEEE Xplore；不将进入 IEEE Xplore 等同于 EI 或 SCI 收录保证。
+- 本届范围/冲突原备注：官网 Key dates 将 8/15 写作注册及终稿截止，但注册页另列后续费率：普通/学生早鸟 900/600 美元，8/16–9/30 为 975/675 美元，10/1 起为 1050/750 美元。8/15 不作为所有参会者的最终注册截止；作者归档资格需遵循投稿和注册条件。日期未公布时刻，不补造午夜。
+- 未解决内容及影响：晚新闻归档资格、内部模板/Whova、布展精确时刻和税/额外费未核。；8/15不作所有人最终注册截止，日期均日级；Xplore与EI/SCI并非同一证明。
+- 维护触发：本届晚新闻资格/布展及正式出版更正出现后维护，保留注册分段/稿件通道。
+- 完整记录内容摘要b7035f68d3d1869750153fa7464b8c21d1051274064c48fce29226b11650da8f，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## irmmw-thz-2027
+
+International Conference on Infrared, Millimeter, and Terahertz Waves 2027；2027；IRMMW-THz/series-f99079d1fc30；admitted关联conference-series-7cd884e8cb，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://www.irmmw-thz.org/all-conferences/)、[原通知](https://www.irmmw-thz.org/all-conferences/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-f99079d1fc30)。
+- 全字段审阅范围：学会AllConferences明确2027年9/5–10Fukuoka，作为已知日城的未来预告，具体场馆未公告。unknown投稿/null两个截止及registration保持；方向标签只系列范围，Detailed CFP尚无。没有沿2026两页、61726X、Whova、费率、Xplore与no-show规则，不依据周期估日期。
+- 日城与范围：2027-09-05–2027-09-10；日本 · 福冈；具体会场待公布；submissionState unknown。
+- 逐字段截止及出处：2027摘要截止待公布：未知 [来源](https://www.irmmw-thz.org/all-conferences/)；2027注册截止待公布：未知 [来源](https://www.irmmw-thz.org/all-conferences/)
+- 本届条件出版原字段：本届出版、版权与检索安排待核；不由2026的IEEE Xplore条件推定。
+- 本届范围/冲突原备注：具体会场与注册入口待核，不按周期推算截止；本条已知会期不代表已开放投稿。
+- 未解决内容及影响：本届具体场馆/CFP/稿型篇词/模板、普通晚新闻日期、注册价/入口及出版版权检索均未知。；正式会期已知不是提交开放/所有题目确认，不能拿2026条填后续。
+- 维护触发：2027独立当届官网/CFP/场馆注册及出版公告出现后逐字段维护；不反复请求未变化预告。
+- 完整记录内容摘要9109fe06faa47734633caec747156db6d759e417ed1a1eff52de360bf9e6a516，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## irmmw-thz-2028
+
+International Conference on Infrared, Millimeter, and Terahertz Waves 2028；2028；IRMMW-THz/series-f99079d1fc30；admitted关联conference-series-7cd884e8cb，原checkedAt 2026-10-05。
+
+- 身份/当届来源：[原入口](https://www.irmmw-thz.org/all-conferences/)、[原通知](https://www.irmmw-thz.org/all-conferences/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)、[原实际记录2](V1_SERIES_REVIEW_2026-10-05.md#series-f99079d1fc30)。
+- 全字段审阅范围：学会AllConferences明确2028年9/3–8UniversityofWarwick，不将大学名变具体会议厅或擅改城市。unknown/null两个DDL/注册入口待核，only官方预告日城，详细主题只是系列标签；独立于2027福冈与2026盐湖城，不继承两页/PDFExpress/费率/出版条件。
+- 日城与范围：2028-09-03–2028-09-08；英国 · 华威大学；University of Warwick（具体会场待核）；submissionState unknown。
+- 逐字段截止及出处：2028摘要截止待公布：未知 [来源](https://www.irmmw-thz.org/all-conferences/)；2028注册截止待公布：未知 [来源](https://www.irmmw-thz.org/all-conferences/)
+- 本届条件出版原字段：本届出版、版权与检索安排待核；不由2026的IEEE Xplore条件推定。
+- 本届范围/冲突原备注：具体会场与注册入口待核，不按周期推算截止；本条已知会期不代表已开放投稿。
+- 未解决内容及影响：本届具体会议厅、完整CFP/篇词模板、系统普通晚新闻/注册日期、费用与版权出版检索未知。；不能仅因官方会期明确而展示可投或编造未来截止，不拿现年举办流程充数。
+- 维护触发：2028独立官方原通知/场馆投稿及收费出版条件出现后维护，保存预告与规则各自版本。
+- 完整记录内容摘要e15e090a5d93eb0eb1ce23ca5b86b9e0f472a78e0b2da1e5835fbed50fd2ba0f，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## icors-2026
+
+29th International Conference on Raman Spectroscopy；2026；ICORS/series-fd36467103fc；admitted关联conference-series-17086a3ce9，原checkedAt 2026-09-15。
+
+- 身份/当届来源：[原入口](https://icors2026.org/)、[原通知](https://icors2026.org/abstract-submission/)；[原实际记录1](V1_SERIES_REVIEW_2026-10-05.md#series-fd36467103fc)。
+- 全字段审阅范围：2026第29届IstanbulTechnicalUniversitySDKM/Ayazaga8/23–27，正式ScientificProgramme开闭幕与首页一致，旧8/23–28预告/专刊不覆盖。AbstractAgent不收邮件/英文350词不含题作者单位图表、无独立refs、title300字符/3–5key；摘要页每注册人口头+海报与注册套餐最多1项贡献冲突，不能擅选；海报180H90W厘米竖版自印。摘要3/9延4/19、最终滚动通知4/20、早价5/15日级；会后提交按钮不代表再开放。摘要集与JRS专刊独立同行评审2/1/2027截止不入会议DDL，Practica只可考虑刊物不承诺接收，后续同缩写他学科排除。
+- 日城与范围：2026-08-23–2026-08-27；土耳其 · 伊斯坦布尔；Istanbul Technical University Süleyman Demirel Kültür Merkezi（SDKM），Ayazağa 校区，34469 Maslak；submissionState closed。
+- 逐字段截止及出处：普通摘要截止（延期后）：2026-04-19 [来源](https://icors2026.org/)；摘要最终通知日期（滚动审理）：2026-04-20 [来源](https://icors2026.org/)；早鸟注册截止：2026-05-15 [来源](https://icors2026.org/registration/)
+- 本届条件出版原字段：会议摘要集与期刊专刊分开。Journal of Raman Spectroscopy 的 ICORS2026 专刊独立同行评审，出版社征稿截止为 2027-02-01，投稿时选择对应 special issue；参会不等于期刊录用。Applied Spectroscopy Practica 仅被列为另一个可考虑的投稿刊物。
+- 本届范围/冲突原备注：正式 Scientific Programme 列出 8/23 开幕及 8/27 闭幕，与现行首页一致，采用 8/23–27；旧 General Information、学校活动预告及 JRS 专刊简介仍写 8/23–28，保留版本差异，不以旧预告覆盖正式日程。JRS 专刊截止属于会后期刊投稿，未并入会议摘要 DDL。专刊通知：https://analyticalsciencejournals.onlinelibrary.wiley.com/hub/journal/10974555/call-for-papers/si-2026-000428 。普通摘要由 3/9 延至 4/19；海报按钮没有独立截止，未自行推算。
+- 未解决内容及影响：注册贡献数量冲突、海报独立截止、系统内部/完整费率/摘要集实际索引未知。；当届旧终日差异保留；2027JRS会后截稿不是下一届会议，下一届日城CFP未知，不绕过Wiley受限域。
+- 维护触发：主办方更正贡献/旧终日或独立下一届正式公告后维护；专刊规则与会议路线各自审查。
+- 完整记录内容摘要40b016653ae5091e6d36f77907ff1f6bdb1e8b8930179a306a6adfb4e0b8eef3，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
