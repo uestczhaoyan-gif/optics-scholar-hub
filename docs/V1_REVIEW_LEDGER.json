@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "milestone": "V1.0",
+  "scopeFile": "V1_SCOPE.json",
+  "scopeBaselineCommit": "b8065eb33e42b2de7051b1fba8e018e9db7a6a63",
+  "scopeReviews": [
+    {
+      "journalId": "ieee-comst",
+      "checkedAt": "2026-10-05",
+      "result": "reviewed-with-limitations",
+      "sampleCount": 3,
+      "distinctFormalPeriods": 2,
+      "evidence": "JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst",
+      "limitations": [
+        "三篇首次均在近两年，但只覆盖27(4)及Volume28两个正式卷/期；Volume28原页无期号/月份，不造三个不同期次。检索本刊optical两页并核27(1)三篇首发均早于2024-10-05；不声称穷尽全刊。第三不同正式卷/期样本限制保留，出现可核的另一正式卷/期光学论文时再维护。"
+      ],
+      "maintenanceTrigger": "有另一不同正式卷/期且首次在窗口内的光学原论文可核时补样例；不反复查不变来源。"
+    }
+  ],
+  "candidateReviews": [],
+  "formalDataReviews": [],
+  "coreSeriesReviews": [],
+  "finalAcceptance": null
+}

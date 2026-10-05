@@ -4,9 +4,11 @@
 
 ## V1.0 的终点与范围
 
-用户于2026-10-05要求明确结项，当前状态为 `IN_PROGRESS`。执行范围以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 及 [固定ID名单](V1_SCOPE.json) 为准：当前104刊/133届/98系列/10活动/273候选为基线；固定60未收尾候选、6刊样例、12核心系列及正式数据质量与最终验收。下方扩充方向是背景与后续版本发现池，不再自动增长本版必做任务。
+用户于2026-10-05要求明确结项，当前状态为 `IN_PROGRESS`。执行范围以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 及 [固定ID名单](V1_SCOPE.json) 为准：当前104刊/133届/98系列/10活动/273候选为基线；初始固定60未收尾候选、6刊样例、12核心系列及正式数据质量与最终验收。下方扩充方向是背景与后续版本发现池，不再自动增长本版必做任务。
 
 六项门槛全部验收后写入 **`项目状态：V1.0_ACCEPTED`** 并附发布SHA、Pages、线上摘要及限制交接，停止五小时建设自动任务。已审查的未知/冲突/受限来源单列限制，不要求无限重试或滚动维护队列为零；日常来源变化转入维护阶段。
+
+当前逐项完成记录见 [V1收尾账本](V1_REVIEW_LEDGER.json)；初始冻结名单不随完成项回写或扩大。
 
 ## 当前结果与原规划对照
 
@@ -36,7 +38,7 @@
 | ESCI 肯定记录         | 12 / 104          | 独立保存，不换算为 SCIE                                                                                                             |
 | 数据库方索引证据      | EI 97 / SCIE 90  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 90 / ESCI 12 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有四十七刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI、E37的IEEE TGRS、E38的IEEE TCYB、F13的IEEE EDL、F14的IEEE TED、E39的Proceedings of the IEEE；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有四十八刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal、E36的IEEE TIP、F12的IEEE TCI、E37的IEEE TGRS、E38的IEEE TCYB、F13的IEEE EDL、F14的IEEE TED、E39的Proceedings of the IEEE、E40的IEEE COMST（两个正式卷/期限制保留）；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 物理学报的三篇原论文及指南范围见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 
@@ -745,3 +747,7 @@ F13 06db7c9f07d7b327d5d10a07deaf8c5b57900d7d已验收[Pages37270266496](https://
 ## 2026-10-05：Proceedings光学综述样例 E39
 
 F14 f3220424342c19800a6cf2945e09892d52eee21b已验收[Pages37271152109](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37271152109)：同SHA完整31项测试/typecheck/lint及build/deploy成功；首页/版本200，4d7f0481c60244024f598b02f0a6d920ac9e852a2a676d48f9a68f8bd5289f21匹配本地（2026-10-05T06:17:43.684Z）。 E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外遥感、含光学方法的形变传感与空间光通信样例；综述/系统介绍和单项实验分开，首次与名义卷期日期冲突按原元数据保留。仅scopeExamples变化，103其他刊、整刊/指南日期、索引分区费用及其他JSON保护；104刊/133届/10活动、273候选213/53/7、98系列24多届、90SCIE/12ESCI/97EI、JCR102/CAS11保持，47刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)。下一轮先查实际额度与本批部署，继续IEEE COMST/IJEM或制造候选及历史/未来会议，五小时任务不另建或恢复旧任务。
+
+## 2026-10-05：COMST样例与有限收尾 E40
+
+有限结项定义3c43b17d4044e16b318d3ee126376fb441e52d9e已验收[Pages37320203658](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37320203658)，同SHA完整CI/build/deploy成功、首页/版本200、671fed44b5e94685eeebaa061da3089673bba642565abbe285e74047ac69f202与本地一致（2026-10-05T13:54:31.963Z）。 E40补COMST三篇近两年光学综述样例，保存仅两个正式卷/期的样本限制；不把三篇数量当三不同期次。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11不变，48刊至少三篇样例。固定G4新增待审六刊中COMST已审查并保留限制，剩余五刊；其余门槛未完成。 [原论文及排除范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst)，[逐项收尾账本](V1_REVIEW_LEDGER.json)。V1_SCOPE为初始冻结名单，当前完成项按账本及PROJECT_CLOSEOUT跟踪，不回写/扩大冻结ID。

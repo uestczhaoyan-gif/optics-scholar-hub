@@ -4589,7 +4589,27 @@
       "当前指南规定新稿不超过 30 页双栏，修订稿少于 40 页；通过 IEEE Author Portal 提交 PDF 或 Word。投稿前再次核对篇幅与费用政策。",
       "2026-10-03 本刊指南补充：仅决定信明确允许的拒稿重投须逐点回复并标记修改，仍作新稿且可换审稿人。所有作者须 ORCID；AI 生成文字按指南披露。初投 PDF/Word，经 https://ieee.atyponrex.com/journal/comst-ieee 官方入口；录用后最终材料另交，不能以收费示例放宽初投/返修页限。"
     ],
-    "publishing": "2026-10-03 本刊明列混合出版、2026 年投稿 OA APC USD 2800；IEEE 会员 5% / 学会会员 20%，不能叠加，不适用于本科/研究生。2020-01-01 之后投稿的录用稿，第31–38出版页 USD220/页，最多8页收费；较长稿的计费例子不构成超过现页限的许可。税按IEEE 2026通用表另加，实际减免资格待核对。"
+    "publishing": "2026-10-03 本刊明列混合出版、2026 年投稿 OA APC USD 2800；IEEE 会员 5% / 学会会员 20%，不能叠加，不适用于本科/研究生。2020-01-01 之后投稿的录用稿，第31–38出版页 USD220/页，最多8页收费；较长稿的计费例子不构成超过现页限的许可。税按IEEE 2026通用表另加，实际减免资格待核对。",
+    "scopeExamples": [
+      {
+        "title": "RIS-Assisted Physical Layer Security in Emerging RF and Optical Wireless Communications Systems: A Comprehensive Survey",
+        "source": "https://ieeexplore.ieee.org/document/10736549",
+        "publishedAt": "2024-10-28",
+        "relevance": "2026-10-05核原IEEE完整公开摘要、题名、Date of Publication及正式卷页/DOI；首次2024-10-28，27(4), August2025,2156–2203，DOI 10.1109/COMST.2024.3487112。综述RIS辅助RF/光无线通信的信息论物理层安全，明确光/RF在材料、信号和功能配置不同，讨论优化与机器学习复杂度；不是本篇新光学硬件实验或普适密码替代安全保证。 未通读全文/SI。样例集只覆盖两个正式卷/期，期次限制见E40证据。"
+      },
+      {
+        "title": "Device-Free Visible Light Sensing: A Survey",
+        "source": "https://ieeexplore.ieee.org/document/10904171",
+        "publishedAt": "2025-02-25",
+        "relevance": "2026-10-05核原IEEE完整公开摘要、题名、Date of Publication及正式卷页/DOI；首次2025-02-25，Volume28,3791–3829（原页无期号/月份），DOI 10.1109/COMST.2025.3546166。无设备可见光传感综述：复用室内LED照明，目标无需装备光接收器；分类、IoT应用、挑战与路线图，非本篇新增传感硬件实验。 未通读全文/SI。样例集只覆盖两个正式卷/期，期次限制见E40证据。"
+      },
+      {
+        "title": "Optical Wireless Communication in Atmosphere and Underwater: Statistical Models, Improvement Techniques, and Recent Applications",
+        "source": "https://ieeexplore.ieee.org/document/11318578",
+        "publishedAt": "2025-12-30",
+        "relevance": "2026-10-05核原IEEE完整公开摘要、题名、Date of Publication及正式卷页/DOI；首次2025-12-30，Volume28,4248–4284（原页无期号/月份），DOI 10.1109/COMST.2025.3649735。大气/水下及空间光无线的统计模型、理论收益/限制与功率、部分相干、波束形成、孔径平均、空间分集和反射表面等改进方法综述；不是6G已部署或本篇新光学硬件验证。 未通读全文/SI。样例集只覆盖两个正式卷/期，期次限制见E40证据。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",

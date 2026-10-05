@@ -73,3 +73,17 @@ SDSnet作者机构原页仅辅助定位，原IEEE确认首发2025-10-31与March2
 | [A Vision, Survey, and Roadmap Toward Space Communications in the 6G and Beyond Era](https://ieeexplore.ieee.org/document/10820534) | 2025-01-02；113(9), September2025,987–1023；10.1109/JPROC.2024.3512934 | 空间通信愿景/综述/路线图；除摘要，还实际阅读公开HTML近地与深空通信局部，确认光学链路和LCRD激光通信讨论。光学为宽领域部分，文内任务是被综述对象，不能当作者本篇新硬件实验；2030以后为展望。DOI2024不替代首次2025日期。 |
 
 E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外遥感、含光学方法的形变传感与空间光通信样例；综述/系统介绍和单项实验分开，首次与名义卷期日期冲突按原元数据保留。仅scopeExamples变化，103其他刊、整刊/指南日期、索引分区费用及其他JSON保护；104刊/133届/10活动、273候选213/53/7、98系列24多届、90SCIE/12ESCI/97EI、JCR102/CAS11保持，47刊至少三篇样例。 原Regular作者指南和费用已在先前批次核查，本批不刷新这些字段。网页不同名义月份不擅自纠正首次日，综述中的任务、实例与未来用途不写成作者本篇已完成实验。
+
+## E40：IEEE COMST
+
+核验2026-10-05。[本刊主页](https://www.comsoc.org/publications/journals/ieee-communications-surveys-tutorials)原Current Volume链接[9739目录](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9739)，Search within Publication=9739检索optical、Newest两页。三原IEEE完整公开摘要和元数据实核，不登录受限全文。三篇首次均在近两年，但只覆盖27(4)及Volume28两个正式卷/期；Volume28原页无期号/月份，不造三个不同期次。检索本刊optical两页并核27(1)三篇首发均早于2024-10-05；不声称穷尽全刊。第三不同正式卷/期样本限制保留，出现可核的另一正式卷/期光学论文时再维护。
+
+| 原论文 | 首次/正式卷页/DOI | 范围 |
+| --- | --- | --- |
+| [RIS-Assisted Physical Layer Security in Emerging RF and Optical Wireless Communications Systems: A Comprehensive Survey](https://ieeexplore.ieee.org/document/10736549) | 2024-10-28；27(4), August2025,2156–2203；10.1109/COMST.2024.3487112 | 综述RIS辅助RF/光无线通信的信息论物理层安全，明确光/RF在材料、信号和功能配置不同，讨论优化与机器学习复杂度；不是本篇新光学硬件实验或普适密码替代安全保证。 |
+| [Device-Free Visible Light Sensing: A Survey](https://ieeexplore.ieee.org/document/10904171) | 2025-02-25；Volume28,3791–3829（原页无期号/月份）；10.1109/COMST.2025.3546166 | 无设备可见光传感综述：复用室内LED照明，目标无需装备光接收器；分类、IoT应用、挑战与路线图，非本篇新增传感硬件实验。 |
+| [Optical Wireless Communication in Atmosphere and Underwater: Statistical Models, Improvement Techniques, and Recent Applications](https://ieeexplore.ieee.org/document/11318578) | 2025-12-30；Volume28,4248–4284（原页无期号/月份）；10.1109/COMST.2025.3649735 | 大气/水下及空间光无线的统计模型、理论收益/限制与功率、部分相干、波束形成、孔径平均、空间分集和反射表面等改进方法综述；不是6G已部署或本篇新光学硬件验证。 |
+
+为检验第三不同期次，实际核27(1)三篇元数据：[6G Optical Fronthaul10546919](https://ieeexplore.ieee.org/document/10546919)首发2024-06-03、629–666、DOI10.1109/COMST.2024.3408090；[Deep Space10536009](https://ieeexplore.ieee.org/document/10536009)首发2024-05-21、725–747、DOI10.1109/COMST.2024.3403873；[Passive Optical Networks10522488](https://ieeexplore.ieee.org/document/10522488)首发2024-05-07、667–724、DOI10.1109/COMST.2024.3397690。三者名义February2025不覆盖真实首次日，均不纳近两年样例。两篇其他检索命中：[Underwater RL10766420](https://ieeexplore.ieee.org/document/10766420)及[VNE10845765](https://ieeexplore.ieee.org/document/10845765)公开摘要/可读预览未给明确光学内容，不能仅凭optical命中认定适配。未声称全文无光学内容。
+
+未通读全文/SI；复核原稿型指南/APC/索引分区不在本批范围，整刊checkedAt保持。E40补COMST三篇近两年光学综述样例，保存仅两个正式卷/期的样本限制；不把三篇数量当三不同期次。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11不变，48刊至少三篇样例。固定G4新增待审六刊中COMST已审查并保留限制，剩余五刊；其余门槛未完成。

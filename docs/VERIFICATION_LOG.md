@@ -1389,3 +1389,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 复用automation的原五小时间隔/同对话与静默通知偏好，仅更新有限收尾提示；V1.0_ACCEPTED并发布验收后删除建设任务，现有每日来源巡检保留，不另建/恢复旧任务。长操作前保存work/V1_CLOSEOUT_2026-10-05.md。
 
 - 本批只改7个文档/范围文件；固定所有ID与b8065eb原JSON逐项一致、唯一性/60未收尾/53样例目标含6待处理/12核心关联/IN_PROGRESS及两次限制断言通过。379本地Markdown链接与统计通过；data完全无差异、git diff --check通过，原自动化提示已读回确认，五小时间隔/同对话保留。纯文字无新增测试；同SHA GitHub CI执行完整验证及构建/部署。
+
+## 2026-10-05：COMST样例 E40
+
+- 有限结项定义3c43b17d4044e16b318d3ee126376fb441e52d9e已验收[Pages37320203658](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37320203658)，同SHA完整CI/build/deploy成功、首页/版本200、671fed44b5e94685eeebaa061da3089673bba642565abbe285e74047ac69f202与本地一致（2026-10-05T13:54:31.963Z）。新批正式编辑前已验收。GitHub与本地同SHA，source37276488757成功且未重触发。用户要求持续至额度限制，原五小时检查保持；长操作前保存work/E40_RESEARCH_2026-10-05.md，实际五小时20%/周3%允许，无重置券。
+- E40补COMST三篇近两年光学综述样例，保存仅两个正式卷/期的样本限制；不把三篇数量当三不同期次。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11不变，48刊至少三篇样例。固定G4新增待审六刊中COMST已审查并保留限制，剩余五刊；其余门槛未完成。 [逐篇核验](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst)。8篇候选的公开摘要/元数据或排除范围实核，三直接光学27(1)首次超窗口，两个泛网络命中不能据检索填光学理由；三入例原摘要实核，仅两个正式卷/期限制保留。
+- 新增逐项V1账本仅COMST结果，其余候选/正式数据/核心系列未标完成。冻结名单保持，G4剩五新增刊、其他门槛继续；必要验证后提交推送并按同SHA验收。
+
+- 发布前validate、固定3c43b17的103其他刊/47旧样例及目标除scopeExamples字段、所有其他JSON/冻结范围字节保护通过；三真实首发/48数量/两个正式卷期及1限制审核、5剩余断言通过。386本地Markdown链接、维护453项/12主题覆盖、Pages子路径六资源构建exit0、数据及文档差异审查/git diff --check通过；本批8正式文件，完整31项测试/typecheck/lint由同SHA CI验收。

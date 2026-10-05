@@ -4,9 +4,11 @@
 
 ## 必须遵守的项目终点
 
-用户于2026-10-05明确要求有项目结束标识。当前为 `IN_PROGRESS`；后续仅推进 [V1.0结项清单](PROJECT_CLOSEOUT.md) 和 [固定范围](V1_SCOPE.json)，不继续无限扩充。固定剩余60候选、6刊光学样例、12核心系列以及正式数据质量/最终验收；新发现条目进入后续版本。
+用户于2026-10-05明确要求有项目结束标识。当前为 `IN_PROGRESS`；后续仅推进 [V1.0结项清单](PROJECT_CLOSEOUT.md) 和 [固定范围](V1_SCOPE.json)，不继续无限扩充。初始固定60候选、6刊光学样例、12核心系列以及正式数据质量/最终验收；新发现条目进入后续版本。
 
 按六项门槛完成后写入 `项目状态：V1.0_ACCEPTED`、保存发布SHA/Pages/线上摘要/限制与维护交接，确认部署并通知用户，停止本项目五小时建设任务。已审查的访问限制或未公告事项可以保留未知；未审查工作不能冒充完成。滚动维护队列不必清零，现有每日来源巡检和网站更新功能继续保留。不另建任务、不恢复旧定时任务。
+
+当前逐项完成记录见 [V1收尾账本](V1_REVIEW_LEDGER.json)；初始冻结名单不随完成项回写或扩大。
 
 ## 项目与当前基线
 
@@ -16,7 +18,7 @@
 - 正式目录：104 本期刊、133 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：273 项，213 admitted、53 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 102/104、中科院 11/104；SCIE 肯定记录 90、ESCI 12、EI 97。97 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 90 本 SCIE 与 12 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
-- 交叉适配样例已有四十七刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI、Applied Physics Letters、IEEE TIE、IEEE Sensors Journal、IEEE TIP、IEEE TCI、IEEE TGRS、IEEE TCYB、IEEE EDL、IEEE TED、Proceedings of the IEEE。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
+- 交叉适配样例已有四十八刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI、Applied Physics Letters、IEEE TIE、IEEE Sensors Journal、IEEE TIP、IEEE TCI、IEEE TGRS、IEEE TCYB、IEEE EDL、IEEE TED、Proceedings of the IEEE及IEEE COMST（仅两个正式卷/期，限制见E40）。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 物理学报的三篇样例及2026指南见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 - 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
@@ -425,3 +427,7 @@ F13 06db7c9f07d7b327d5d10a07deaf8c5b57900d7d已验收[Pages37270266496](https://
 ## 2026-10-05：Proceedings光学综述样例 E39
 
 F14 f3220424342c19800a6cf2945e09892d52eee21b已验收[Pages37271152109](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37271152109)：同SHA完整31项测试/typecheck/lint及build/deploy成功；首页/版本200，4d7f0481c60244024f598b02f0a6d920ac9e852a2a676d48f9a68f8bd5289f21匹配本地（2026-10-05T06:17:43.684Z）。 E39为已有Proceedings of the IEEE补三不同正式期次的近两年热红外遥感、含光学方法的形变传感与空间光通信样例；综述/系统介绍和单项实验分开，首次与名义卷期日期冲突按原元数据保留。仅scopeExamples变化，103其他刊、整刊/指南日期、索引分区费用及其他JSON保护；104刊/133届/10活动、273候选213/53/7、98系列24多届、90SCIE/12ESCI/97EI、JCR102/CAS11保持，47刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)。下一轮先查实际额度与本批部署，继续IEEE COMST/IJEM或制造候选及历史/未来会议，五小时任务不另建或恢复旧任务。
+
+## 2026-10-05：COMST样例与有限收尾 E40
+
+有限结项定义3c43b17d4044e16b318d3ee126376fb441e52d9e已验收[Pages37320203658](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37320203658)，同SHA完整CI/build/deploy成功、首页/版本200、671fed44b5e94685eeebaa061da3089673bba642565abbe285e74047ac69f202与本地一致（2026-10-05T13:54:31.963Z）。 E40补COMST三篇近两年光学综述样例，保存仅两个正式卷/期的样本限制；不把三篇数量当三不同期次。104刊/133届/10活动、273候选213/53/7、90SCIE/12ESCI/97EI及JCR102/CAS11不变，48刊至少三篇样例。固定G4新增待审六刊中COMST已审查并保留限制，剩余五刊；其余门槛未完成。 [原论文及排除范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst)，[逐项收尾账本](V1_REVIEW_LEDGER.json)。V1_SCOPE为初始冻结名单，当前完成项按账本及PROJECT_CLOSEOUT跟踪，不回写/扩大冻结ID。
