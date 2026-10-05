@@ -1353,3 +1353,10 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - C33补IGARSS2024/2025/2026历史三届，与原2027预告组成四届时间线；133届/98系列24多届。102刊/10活动、273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11及43刊样例保持。原130届（含2027）、97其他系列/272其他候选与其他JSON保护，系列只editionIds/sources及单候选四审核字段，不刷新未来公告核验日；逐年稿规、费用与海报上限不同，2025旧年份及2026日期冲突保留。 [字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)。
 - 三年实际官网/Topics/Kit/CFP或Papers/日期/注册正文核实，2025修订日截图与2026旧CFP分开；未访问内部系统或支付/签署。必要验证/差异审查后上传并按同SHA确认，其他规划继续。
 - 发布前首次校验发现新增series简称未与既有IEEE IGARSS一致，已仅修正三新届并重验。数据校验、固定b99ec5d的130旧届（含2027）/97其他系列/272其他候选与全部其他JSON、series两字段/候选四字段白名单通过；133/98/24及四届IGARSS、日级/冲突null/各年费用和展示边界断言通过。391本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、差异审查及git diff --check通过。完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：TCYB光学计算样例 E38
+
+- C33 ef1cbd9d26fa72dffe4b91e582f0d0b50ba0d631已验收[Pages37268896712](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37268896712)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，c2c7cc7b3a152e00ad06edfd0e341ed4eb22c190b6c1da30c737db772b833540匹配本地（2026-10-05T05:43:17.767Z）。正式编辑前验收，工作树干净；work/E38_RESEARCH_2026-10-05.md长操作前保存实际来源/首发/范围，实际五小时69%/周91%允许，不用重置券。
+- E38为IEEE TCYB补四篇近两年光学视觉/多高光谱计算样例，含三不同正式期次55(2)/56(3)/56(10)及一Early Access；首发与卷期分开。仅scopeExamples变化，101其他刊、原TCYB指南/日期/索引排名/费用及全部其他JSON保护；102刊/133届/10活动、273候选211/55/7、98系列24多届、88SCIE/12ESCI/95EI、JCR100/CAS11保持，44刊至少三篇样例。 [逐篇范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e38ieee-tcyb)。
+- 四原IEEE公开摘要/首发/卷页实核，三正式不同期与EA、道路实车初步部署/公开数据实验/理论计算分别保留。作者机构页一次浏览器超时后独立公开web仅定位，不取第三方首次日；题名dash一次未命中按新AX实际链接解决。必要验证/差异审查后上传并按同SHA验收，其他规划继续。
+- 发布前数据校验、固定ef1cbd9的101其他刊/43旧样例集、TCYB除scopeExamples全部字段及其他JSON字节保护通过；四首次日/三个正式期次加EA、44样例及原索引排名计数断言通过。355本地Markdown链接、维护450项/12主题覆盖、Pages子路径六资源构建exit0、差异审查/git diff --check通过。道路agents用交通参与者明确表述后已重新构建，完整31项测试/typecheck/lint由同SHA CI验收。

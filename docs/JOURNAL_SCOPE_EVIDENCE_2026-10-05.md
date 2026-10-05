@@ -48,3 +48,16 @@
 | [Multitarget Segmentation and Adaptive Tracking of Single-Photon LiDAR in Ultralow-SNR UAV Swarm Scene](https://ieeexplore.ieee.org/document/11569071) | 2026-06-17；64/5702915；10.1109/TGRS.2026.3704221 | Gm-APD单光子LiDAR原型现场实验达1km，MRAT利用光子事件时空统计分离/跟踪多目标回波；展示光电测量与信号反演共同贡献。原实测条件下性能，不当任意天气/任务的保证。 |
 
 2024论文TRUTHS是准备中任务，模拟结果不是在轨实测；2025只本人工目标及观测配置，不推广全部RTM/自然场景；2026实地原型性能只原测试范围。首次年份不取第三方默认January，也不造issue或把检索页刊年作精确日。未登录/上传/联系/支付，原2026指南和索引分区保持。E37为IEEE TGRS补三篇近两年、三个年度卷的光学样例，区分未来卫星互校准模拟、SI可溯源光学测量/RTM验证与单光子LiDAR现场实验。只有scopeExamples变化，101其他刊及其余全部JSON、原整刊/指南日期、索引分区和费用保护；102刊/130届/10活动及273候选211/55/7、88SCIE/12ESCI/95EI、JCR100/CAS11保持，43刊至少三篇样例。
+
+## E38：IEEE TCYB
+
+核验2026-10-05。原IEEE公开摘要/题名、Date of Publication、Volume/Issue或Early Access与页码/DOI实读；首次均在2024-10-05后。三不同正式期次55(2)/56(3)/56(10)，第四只有Early Access不造正式期次。首次年份不由DOI后缀或正式卷年推定，未通读全文/SI。
+
+| 原论文 | 首次/卷期页/DOI | 适配及范围 |
+| --- | --- | --- |
+| [RALACs: Action Recognition in Autonomous Vehicles Using Interaction Encoding and Optical Flow](https://ieeexplore.ieee.org/document/10813578) | 2024-12-24；55(2), February2025,512–525；10.1109/TCYB.2024.3515104 | RGB道路场景视觉与光流、attention交通参与者关系编码及track-ROI动作分类；ICCV2021 Road Challenge数据实验和真实车平台初步部署。属于视觉感知/学习贡献，不当光学硬件创新或自动驾驶普适安全结论。 |
+| [Single-Source Domain Defect-Aware Adaptation and Style-Modulated Generalization Network for Multispectral Image Segmentation](https://ieeexplore.ieee.org/document/11223031) | 2025-10-31；56(3), March2026,1440–1451；10.1109/TCYB.2025.3624748 | SDSnet面向多光谱遥感跨场景分割，熵缺陷检测prompt与codebook风格调制、知识蒸馏使推理只用基础网络；三个目标域实验支持原比较范围。不是新光谱传感器硬件，也不把RGB基础模型可直接适用当结论。 |
+| [Global--Local Interaction and Recalibration Network for Salient Object Detection in Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/11543482) | 2026-06-02；56(10), October2026,5643–5655；10.1109/TCYB.2026.3696712 | GLIR-Net用Transformer全局/CNN局部双支、MFI交互和FRM融合重校准获取光学遥感显著图；两个公开数据集定量/定性实验。属于光学图像理解与方法贡献，非新现场光学采集装置，性能限原比较条件。 |
+| [FK-Net: Frequency-Aware and Kernelizable Mamba–Transformer for Multispectral and Hyperspectral Image Fusion](https://ieeexplore.ieee.org/document/11692970) | 2026-09-16；Early Access,1–14（正式卷期未知）；10.1109/TCYB.2026.3723099 | 多/高光谱图像融合重建高分辨率HSI，Fourier频率引导FADM双Mamba、谱相关SCC核自注意力含线性复杂度理论与定量/定性实验；图像融合/计算方法交叉，未声称新成像硬件。Early Access单独保存，不编正式期号。 |
+
+SDSnet作者机构原页仅辅助定位，原IEEE确认首发2025-10-31与March2026正式期分开；本期GLIR官网题名为Global--Local，按原题保存，不因定位显示破折号不同误认论文。公开Intro局部不等于全文；没有登录、下载受限文稿、上传、联系或支付。本批不刷新指南旧APC/摘要字数冲突与索引分区。E38为IEEE TCYB补四篇近两年光学视觉/多高光谱计算样例，含三不同正式期次55(2)/56(3)/56(10)及一Early Access；首发与卷期分开。仅scopeExamples变化，101其他刊、原TCYB指南/日期/索引排名/费用及全部其他JSON保护；102刊/133届/10活动、273候选211/55/7、98系列24多届、88SCIE/12ESCI/95EI、JCR100/CAS11保持，44刊至少三篇样例。

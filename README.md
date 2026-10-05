@@ -204,3 +204,5 @@ The series directory links 133 editions to 98 stable conference identities. Foll
 2026-10-05：[TGRS光学遥感样例E37](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e37ieee-tgrs)补互校准模型、实测光学校准与单光子LiDAR；43刊至少三篇样例。 TGRS examples distinguish calibration simulations, traceable optical measurements and field LiDAR experiments; 43 journals have at least three examples.
 
 2026-10-05：[IGARSS时间深度](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度)接入2024–2027四届，24系列含多届；旧规则不代替下一届公告。 [IGARSS edition history](docs/CONFERENCE_EVIDENCE_2026-10-05.md#c33igarss时间深度) now spans 2024–2027; 24 series have multiple editions, each retaining its own requirements.
+
+2026-10-05：[TCYB光学计算样例E38](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e38ieee-tcyb)补三个正式期次与一Early Access；44刊至少三篇样例。 TCYB optical-computing examples distinguish three formal issues from one Early Access article; 44 journals have at least three examples.

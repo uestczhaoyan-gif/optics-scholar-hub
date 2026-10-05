@@ -4788,7 +4788,33 @@
       "2026-10-03 本刊页要求双栏 PDF，可在8.5×11英寸纸张正确打印，并准备纯文字摘要。Technical Correspondence 是扩展既有 TCYB/TSMC Part B 的贡献，通常不超过5页，不把它当通用短论文。",
       "普通摘要前段100–250词、后段150–250词相互冲突，未选定下限；TC另列最多100词。预印本与此前发表/提交稿须披露，补充代码/数据/视频在正文引用；本轮不采用旧页面审稿时长作承诺。"
     ],
-    "publishing": "混合出版。2026-10-03 本刊无明确版年的页仍写 OA USD2345，与 IEEE 2026通用hybrid USD2800（投稿日定价、另税）不一致，实际适用价格待确认。该页另列自愿USD110/出版页、强制超页USD175/页（普通稿超10页、TC超5页），不将未标版本金额冒充独立2026价表；OA、超页和印刷彩图分开。来源本刊指南及 https://open.ieee.org/for-authors/article-processing-charges/ 。"
+    "publishing": "混合出版。2026-10-03 本刊无明确版年的页仍写 OA USD2345，与 IEEE 2026通用hybrid USD2800（投稿日定价、另税）不一致，实际适用价格待确认。该页另列自愿USD110/出版页、强制超页USD175/页（普通稿超10页、TC超5页），不将未标版本金额冒充独立2026价表；OA、超页和印刷彩图分开。来源本刊指南及 https://open.ieee.org/for-authors/article-processing-charges/ 。",
+    "scopeExamples": [
+      {
+        "title": "RALACs: Action Recognition in Autonomous Vehicles Using Interaction Encoding and Optical Flow",
+        "source": "https://ieeexplore.ieee.org/document/10813578",
+        "publishedAt": "2024-12-24",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2024-12-24，55(2), February2025,512–525，DOI 10.1109/TCYB.2024.3515104。RGB道路场景视觉与光流、attention交通参与者关系编码及track-ROI动作分类；ICCV2021 Road Challenge数据实验和真实车平台初步部署。属于视觉感知/学习贡献，不当光学硬件创新或自动驾驶普适安全结论。 未通读全文/SI；不同期次与Early Access分开，不从卷期年份替代首次日。"
+      },
+      {
+        "title": "Single-Source Domain Defect-Aware Adaptation and Style-Modulated Generalization Network for Multispectral Image Segmentation",
+        "source": "https://ieeexplore.ieee.org/document/11223031",
+        "publishedAt": "2025-10-31",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2025-10-31，56(3), March2026,1440–1451，DOI 10.1109/TCYB.2025.3624748。SDSnet面向多光谱遥感跨场景分割，熵缺陷检测prompt与codebook风格调制、知识蒸馏使推理只用基础网络；三个目标域实验支持原比较范围。不是新光谱传感器硬件，也不把RGB基础模型可直接适用当结论。 未通读全文/SI；不同期次与Early Access分开，不从卷期年份替代首次日。"
+      },
+      {
+        "title": "Global--Local Interaction and Recalibration Network for Salient Object Detection in Optical Remote Sensing Images",
+        "source": "https://ieeexplore.ieee.org/document/11543482",
+        "publishedAt": "2026-06-02",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2026-06-02，56(10), October2026,5643–5655，DOI 10.1109/TCYB.2026.3696712。GLIR-Net用Transformer全局/CNN局部双支、MFI交互和FRM融合重校准获取光学遥感显著图；两个公开数据集定量/定性实验。属于光学图像理解与方法贡献，非新现场光学采集装置，性能限原比较条件。 未通读全文/SI；不同期次与Early Access分开，不从卷期年份替代首次日。"
+      },
+      {
+        "title": "FK-Net: Frequency-Aware and Kernelizable Mamba–Transformer for Multispectral and Hyperspectral Image Fusion",
+        "source": "https://ieeexplore.ieee.org/document/11692970",
+        "publishedAt": "2026-09-16",
+        "relevance": "2026-10-05核原IEEE公开摘要/题名/Date of Publication与卷期页；首次2026-09-16，Early Access,1–14（正式卷期未知），DOI 10.1109/TCYB.2026.3723099。多/高光谱图像融合重建高分辨率HSI，Fourier频率引导FADM双Mamba、谱相关SCC核自注意力含线性复杂度理论与定量/定性实验；图像融合/计算方法交叉，未声称新成像硬件。Early Access单独保存，不编正式期号。 未通读全文/SI；不同期次与Early Access分开，不从卷期年份替代首次日。"
+      }
+    ]
   },
   {
     "checkedAt": "2026-09-11",
