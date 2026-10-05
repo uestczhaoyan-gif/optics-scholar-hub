@@ -160,3 +160,28 @@ JQSRT以光谱Q2满足主合集，光学JIF Q3不可借AIS Q2改写；IR三学�
 | [Wide-angle photon collection in deep-ultraviolet photodetectors via metalens integration](https://pubs.aip.org/aip/apl/article-abstract/127/21/211701/3373534/Wide-angle-photon-collection-in-deep-ultraviolet?redirectedFrom=fulltext) | 2025-11-26；127(21)211701，issue11/24 | 265nmSi3N4超透镜窗、角响应实验与FDTD，潜在应用不当已实现产业效能。 |
 
 只核公开网页/新号表与原图，未登录/上传/支付/联系/签署。原候选scopeHint是发现文字，不自动证明综述稿型；本刊以原创短文准入，Roadmap与邀稿分别保存。F10新增Applied Physics Letters，三篇不同期次近两年原创光学样例与本刊指南、费用/2025均值独立保存；MJL SCIE/EI两证据、JCR 2026出版社披露及2025机构转载Q2分别记录。当前100刊/127届/10活动、273候选209 admitted/57 pending/7 deferred、SCIE86/ESCI12/EI93、JCR98/CAS11、38刊至少三篇样例。旧99刊/37样例、272其他候选及其他JSON保护；其他规划继续。
+
+## F11：IEEE Sensors Journal
+
+核验2026-10-05，新候选journal-9f6ce9345b。[官网](https://ieee-sensors.org/ieee-sensors-journal/)明确Optical Sensors和电子/物理传感范围，与Sensors Letters/Reviews/MDPI Sensors独立，1530-437X/e1558-1748及IEEE身份核实。F11新增IEEE Sensors Journal及三篇不同期次光纤传感实证，保存普通/综述费用阈值、现指南与2021会议扩展附件版本、单盲和统计未知年。101刊/130届/10活动、273候选210 admitted/56 pending/7 deferred、SCIE87/ESCI12/EI94、JCR99/CAS11、40刊至少三篇样例；旧100刊/272其他候选及全部其他JSON保护，其他规划继续。
+
+| 字段/原来源 | 保存结论与边界 |
+| --- | --- |
+| [MJL](https://mjl.clarivate.com/search-results?issn=1530-437X&hide_exact_match_fl=true) | 浏览器唯一Exact Match卡的刊名/IEEE/双号及CoreCollection SCIE，不采左侧filter，未登录profile，覆盖年未知。 |
+| [Compendex公开表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx) | SERIALS2026-08-07第2015行Journal、双号/IEEEInc；DISCONTINUED2026-05-01无两号。hash5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，只新目标，不重扫93旧刊；非单篇检索。 |
+| [JCR2025机构转载](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf) | 原p238/p379/p602逐图看JIF：电电子Q2/仪器Q1/应用物理Q2，指标2024、secondary；hash86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274；不是AIS、非订阅JCR直查，CAS未知。 |
+| [作者指南](https://ieee-sensors.org/ieee-sensors-journal/for-authors/)/[官网审稿](https://ieee-sensors.org/ieee-sensors-journal/) | 普通通常8双栏页、graphical必需、一个关键词类别；单盲至少两独立评审、查重。USD2800可选OA，会员5%/society20%不叠加且学生不适用；USD110/页自愿，USD175/页强制仅普通超8/综述超12出版页。 |
+| [会议扩展附件](https://ieee-sensors.org/wp-content/uploads/2021/07/Guidelines-for-Expanding-Conference-Papers-June-2021.pdf) | 一页June2021原PDF全字/图核：首页脚注原文链接、正文新增解释、复用图许可、cover letter披露、原稿PDF，常规审稿；未给固定新增比例。SHA2561868f630219a371ac9351ec7e1367ea707e263794ac5ddb1f49cdfed7fb95c18。 |
+| [官网时长](https://ieee-sensors.org/ieee-sensors-journal/) | Submission-to-ePublication中位数8.8周，统计年份/样本未知；下载量asofOctober2025不外推为时长年。首决/录用时间未知。 |
+
+普通/综述出版页阈值不是硬投稿上限；费用独立版年/税/生效未知。模板chooser内部未读，摘要词限/文件细项待核；June2021附件旧ScholarOne入口不代现指南IEEE Author Portal，未登录/上传/支付/签协议。
+
+三近两年不同期次原公开摘要与元数据实际读取，首次日期与晚一期不同，未通读收费全文/SI：
+
+| 原题与IEEE来源 | 首次发表/卷期 | 光学适配范围 |
+| --- | --- | --- |
+| [Optical Fiber Sensor for Jugular Venous Pulse Waveforms Measurement](https://ieeexplore.ieee.org/abstract/document/11346895) | 2026-01-12；26(4)5572–5579，issue2/15/26；10.1109/JSEN.2026.3651648 | 光纤/膜低精细度FPC相位测颈静脉脉搏，5健康人与同步ECG验证，非病患临床有效性证明。 |
+| [Rapid and Selective Microplastics Detection in Water Using a Cost-Effective CS–TA-Functionalized E-SMS Optical Fiber Sensor](https://ieeexplore.ieee.org/abstract/document/11505737) | 2026-05-04；26(12)18306–18313，issue6/15/26；10.1109/JSEN.2026.3688614 | CS–TA功能化刻蚀SMS光纤、水中PE微塑料实验选择性，不泛化所有聚合物/真实环境部署。 |
+| [Dual-Parameter Surface Plasmon Resonance Sensor for Simultaneous Detection of Humidity and Temperature Based on Cascaded PVA-GO Composite Film and PDMS Film](https://ieeexplore.ieee.org/abstract/document/11045753) | 2025-06-20；25(15)28390–28396，issue8/1/25；10.1109/JSEN.2025.3579796 | Ag/MMF-SMF-MMF及两敏感膜双通道SPR温湿度实验，适用场景不当产业部署已验证。 |
+
+三样例支持导航适配，不保证相似稿录用；新刊当前数据库索引与分区版本分别保存，旧条目全部保持。

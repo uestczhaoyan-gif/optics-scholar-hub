@@ -4,7 +4,7 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **100 本期刊、130 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **101 本期刊、130 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
@@ -23,14 +23,14 @@
 
 | 项目                  | 已有记录的期刊数 | 尚需处理                                                                                                                            |
 | --------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| JCR 分区              | 98 / 100          | 其余 2 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
-| 中科院分区            | 11 / 100          | 其余 89 本；同时核对版本、大类、小类，未知不补造                                                                                    |
-| SCIE 肯定记录         | 86 / 100          | 其余 14 本没有肯定记录；不等于未被收录                                                                                              |
-| EI Compendex 肯定记录 | 93 / 100          | 其余 7 本没有肯定记录；不等于未被收录                                                                                               |
-| ESCI 肯定记录         | 12 / 100          | 独立保存，不换算为 SCIE                                                                                                             |
-| 数据库方索引证据      | EI 93 / SCIE 86  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 86 / ESCI 12 查询；两类期刊有重叠 |
+| JCR 分区              | 99 / 101          | 其余 2 本及已有条目的缺失年份/学科；多数新增记录为 JCR 2025 机构转载参考，需官方复核                                               |
+| 中科院分区            | 11 / 101          | 其余 90 本；同时核对版本、大类、小类，未知不补造                                                                                    |
+| SCIE 肯定记录         | 87 / 101          | 其余 14 本没有肯定记录；不等于未被收录                                                                                              |
+| EI Compendex 肯定记录 | 94 / 101          | 其余 7 本没有肯定记录；不等于未被收录                                                                                               |
+| ESCI 肯定记录         | 12 / 101          | 独立保存，不换算为 SCIE                                                                                                             |
+| 数据库方索引证据      | EI 94 / SCIE 87  | Compendex SERIALS 2026-08-07 版及中文表 2026-07-10 版；未进行订阅平台单篇检索，另有 MJL 当前 SCIE 87 / ESCI 12 查询；两类期刊有重叠 |
 
-JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有三十九刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
+JCR 和中科院记录可重叠，索引记录也可重叠。资料存在访问限制时保留来源和待核验状态；EI 工程补充无需强行补分区。交叉期刊大多已有范围说明，但原定“近两年、不同期次至少 3 篇光学论文样例”的系统核验尚未完成，目前已有四十刊至少三篇：原九刊及 E4 的 NML、SCM、PRX Quantum、InfoMat、Advanced Science，另有 F2/F3 的 PRA、PRApplied、PRB、PRL、PRResearch、PRX，E20 的 ACS Nano、Science Advances，E21 的 ACS Sensors，E22 的 BIOSBE、SNB，E25 的 JCIS、Dyes and Pigments，E27 的 Nano Letters、Inorganic Chemistry，E28 的 Advanced Materials、Angewandte，E29 的 Chinese Physics Letters、Applied Physics Reviews，E30 的 Chemical Reviews及 F5 的物理学报和 F7 的JSID、E34的IEEE TMI、F10的Applied Physics Letters、E35的IEEE TIE、F11的IEEE Sensors Journal；首次上线日期、卷期及在线校正稿状态见 [早期样例依据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 依据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。作者指南受限条目也未全部核验格式与收费。
 
 物理学报的三篇原论文及指南范围见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
 
@@ -64,9 +64,9 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 100 journals, 130 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 101 journals, 130 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
-The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 98 journals and CAS records for 11. SCIE has 86 and EI has 93 positive records. 93 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Eighty-six SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
+The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 99 journals and CAS records for 11. SCIE has 87 and EI has 94 positive records. 94 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Eighty-seven SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
 Execute the batches above as separate reviewed commits and pushes. Daily source monitoring reports changes; weekly human review is a proposed maintenance practice, not a guaranteed service. The website refresh checks published catalog versions rather than fetching venue websites. Completed batches are recorded below; remaining tasks stay explicitly open.
 
@@ -703,3 +703,7 @@ F10 be3bf570c0a36b9abacc89071625ae7e29ad159b已验收[Pages37263696798](https://
 ## 2026-10-05：Europe/IRMMW时间深度 C32
 
 E35 37076b4dfc1268e917ddf11fa6613725fccc2cf7已验收[Pages37264177279](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37264177279)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，5dd71ed5c56d51d2a6f8e4517221ed954628c6159fa6fde70e50b35247377f69匹配本地（2026-10-05T04:36:42.786Z）。 C32新增CLEO/Europe2025历史、IRMMW2027/2028官方预告三届，补IR2026海报局部要求；130届/98系列23多届，100刊/10活动、273候选209/57/7、SCIE86/ESCI12/EI93、JCR98/CAS11与39刊样例保持。旧127届仅IR26的requirements追加，96其他系列/271其他候选及其他JSON保护；IR未来公告核验日实核更新，欧洲历史不刷新后续公告日。PDP时区、注册星期/退款年份与IR2025终日冲突保留。 [字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)。下一步继续剩余会议/期刊证据，不重复已有功能或同版索引扫描。
+
+## 2026-10-05：IEEE Sensors Journal F11
+
+C32 2cf92efa64e8bd4c6a8ddf3221abdd1c0f1ee389已验收[Pages37265119159](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37265119159)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，e424a35f3b93d381a8ad2c0a3f7ecbe63d132e78658a7137b7f1117a11be733c匹配本地（2026-10-05T04:50:46.874Z）。 F11新增IEEE Sensors Journal及三篇不同期次光纤传感实证，保存普通/综述费用阈值、现指南与2021会议扩展附件版本、单盲和统计未知年。101刊/130届/10活动、273候选210 admitted/56 pending/7 deferred、SCIE87/ESCI12/EI94、JCR99/CAS11、40刊至少三篇样例；旧100刊/272其他候选及全部其他JSON保护，其他规划继续。 [字段来源](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f11ieee-sensors-journal)。

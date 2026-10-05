@@ -1314,3 +1314,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 两原PDF文字/三页图、原日程双列截图及原年正文实际核。必要验证/差异审查和构建后上传并按同SHA验收；剩余规划继续，既有定期更新/系列机制不重复开发。
 
 - 发布前数据校验、固定37076b4的127旧届（仅IR26 requirements追加）、96其他系列/271其他候选及全部其他JSON保护、两系列/两候选白名单断言通过；130/98/23、历史精确CET/含疑义PDP日级与最终注册null、两个未来预告unknown边界通过。367本地Markdown链接、维护445项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：IEEE Sensors Journal F11
+
+- C32 2cf92efa64e8bd4c6a8ddf3221abdd1c0f1ee389已验收[Pages37265119159](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37265119159)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，e424a35f3b93d381a8ad2c0a3f7ecbe63d132e78658a7137b7f1117a11be733c匹配本地（2026-10-05T04:50:46.874Z）。正式编辑前验收，work/F11_RESEARCH_2026-10-05.md长操作前保存来源/范围；实际五小时31%/周85%允许，不用重置券。
+- F11新增IEEE Sensors Journal及三篇不同期次光纤传感实证，保存普通/综述费用阈值、现指南与2021会议扩展附件版本、单盲和统计未知年。101刊/130届/10活动、273候选210 admitted/56 pending/7 deferred、SCIE87/ESCI12/EI94、JCR99/CAS11、40刊至少三篇样例；旧100刊/272其他候选及全部其他JSON保护，其他规划继续。 [字段来源](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f11ieee-sensors-journal)。
+- 实际MJL卡、新双号EI行、三JIF原图、指南/主页和June2021附件全页、三原IEEE摘要/首发元数据核实。必需/建议/自愿和稿型/旧入口分别保留，未造统计年或病例效能。必要验证/差异审查及构建后上传并按同SHA验收；其余规划继续。
+
+- 发布前数据校验、固定2cf92ef的100旧刊/旧39样例、272其他候选与全部其他JSON保护、单候选六字段白名单断言通过；101/210-56-7、87-12-94、99-11及40样例、三首次日/原JIF三学科/费用稿型/未知统计年边界通过。375本地Markdown链接、维护448项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查与git diff --check通过；续接示例旧数字已同步101/130。完整31项测试/typecheck/lint由同SHA CI验收。

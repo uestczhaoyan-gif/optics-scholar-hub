@@ -2504,12 +2504,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光纤、光谱、光学传感与检测",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "sourceEntry": "https://ieee-sensors.org/ieee-sensors-journal/",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ieee-sensors-journal"],
+    "decisionReason": "独立MJL SCIE/EI双号及JCR2025三学科JIF原图、官网光学传感范围与三近两年不同期次实证核实；Q1/Q2参考准入，不用AIS/CAS替代。",
+    "nextAction": "补官方JCR/CAS及模板内部/摘要词限/系统细项、费用版年税与统计年份；区别普通8/综述12出版页收费阈值和硬投稿限制。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "journal-f7b4a080f3",

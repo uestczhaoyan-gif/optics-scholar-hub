@@ -7545,5 +7545,103 @@
         "relevance": "2026-10-05核原Research Article页头及公开摘要：127(21)211701，卷期2025-11-24早于文章11/26。265nm深紫外探测器蓝宝石窗集成Si3N4超透镜，角响应实验与FDTD支撑，支持纳米光子/器件适配；火灾监测和通信是潜在用途。未通读收费全文或SI。"
       }
     ]
+  },
+  {
+    "id": "ieee-sensors-journal",
+    "name": "IEEE Sensors Journal",
+    "abbr": "IEEE Sens. J.",
+    "publisher": "IEEE Sensors Council / IEEE",
+    "issn": "1530-437X",
+    "eissn": "1558-1748",
+    "domains": ["光学", "电子", "物理", "生物医学"],
+    "topics": ["传感与测量", "生物医学光学", "电子与器件"],
+    "description": "传感器及传感现象的理论、设计、制造与应用，强调电子/物理；官网明确光学传感栏目，三篇近两年不同期次光纤实证支持光学交叉适配。JCR2025机构转载仪器Q1、电电子/应用物理Q2供参考，CAS待核；与Sensors Letters、Sensors Reviews及MDPI Sensors独立。",
+    "website": "https://ieee-sensors.org/ieee-sensors-journal/",
+    "guide": "https://ieee-sensors.org/ieee-sensors-journal/for-authors/",
+    "checkedAt": "2026-10-05",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "INSTRUMENTS & INSTRUMENTATION",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=379",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238",
+        "evidence": "secondary"
+      },
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, APPLIED",
+        "level": "category",
+        "quartile": 2,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1530-437X&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05实际MJL唯一Exact Match卡：IEEE SENSORS JOURNAL/IEEE及1530-437X/1558-1748，CoreCollection Science Citation Index Expanded。非侧栏filter、未登录profile或单篇检索，覆盖年未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-05",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "2026-10-05仅核新刊双号：SERIALS2026-08-07版第2015行Journal/IEEE Sensors Journal/1530437X/15581748/IEEEInc匹配，DISCONTINUED2026-05-01版无两号。未重扫93旧刊、来源表不等于单篇检索，覆盖年未知。"
+      }
+    ],
+    "requirements": [
+      "2026-10-05核本刊作者指南：IEEE双栏，普通初稿通常不超过8页，超长接受后须付超页费，非硬性8页上限；graphical abstract必需，每稿选一个本刊关键词类别。模板内部、摘要词限与关键词数、稿件文件清单/匿名材料未核。来源：https://ieee-sensors.org/ieee-sensors-journal/for-authors/",
+      "本刊明确单盲、每篇至少两独立审稿人、录用前查重；推荐审稿人须不同机构且无合作/技术或家庭关系。扩展会议稿须实质新增并按独立常规审稿，不将会议录用作为期刊保证。来源：https://ieee-sensors.org/ieee-sensors-journal/ 与 https://ieee-sensors.org/ieee-sensors-journal/for-authors/",
+      "现指南所挂June2021会议扩展附件实际核：首页脚注给原IEEE URL/其他DOI，正文解释新增，复用图标明出处/非IEEE版权另获许可，cover letter披露并附原会议稿PDF；没有固定百分比门槛。旧附件ScholarOne入口不当当前入口，当前循官网IEEE Author Portal；未登录或签许可。来源：https://ieee-sensors.org/wp-content/uploads/2021/07/Guidelines-for-Expanding-Conference-Papers-June-2021.pdf"
+    ],
+    "publishing": "2026-10-05核本刊指南：可选OA USD2800，IEEE会员5%/Society会员20%折扣不叠加且学生不适用；自愿USD110/出版页。必须超页费USD175/页，普通超过8出版页、综述超过12出版页部分收费；不是所有稿免费，也不是综述12页投稿硬上限。费用版年/生效、税和其他减免未知。来源：https://ieee-sensors.org/ieee-sensors-journal/for-authors/",
+    "schedule": "2026-10-05核官网Growth of the Journal：投稿至电子发表中位数8.8周；统计年/样本及稿型细分未给。附近as of October2025限定下载量，不擅自赋给该时长。首决/录用时长未知，不用它承诺当前稿周期。来源：https://ieee-sensors.org/ieee-sensors-journal/",
+    "scopeExamples": [
+      {
+        "title": "Optical Fiber Sensor for Jugular Venous Pulse Waveforms Measurement",
+        "publishedAt": "2026-01-12",
+        "source": "https://doi.org/10.1109/JSEN.2026.3651648",
+        "relevance": "2026-10-05核原IEEE公开摘要/元数据：26(4)5572–5579，卷期2026-02-15晚于首次1/12。光纤端面/柔性膜低精细度Fabry–Perot腔、相位解调测颈静脉脉搏，五名健康受试者与同步ECG验证；支持生医光纤传感，不当已验证病患临床诊断。未通读收费全文或SI。"
+      },
+      {
+        "title": "Rapid and Selective Microplastics Detection in Water Using a Cost-Effective CS–TA-Functionalized E-SMS Optical Fiber Sensor",
+        "publishedAt": "2026-05-04",
+        "source": "https://doi.org/10.1109/JSEN.2026.3688614",
+        "relevance": "2026-10-05核原IEEE公开摘要/元数据：26(12)18306–18313，卷期2026-06-15。CS–TA表面功能化的刻蚀SMS光纤，实验测水中聚乙烯微塑料的浓度响应与选择性，光纤/环境传感交叉；不泛化所有聚合物或真实环境现场应用已验证。未通读收费全文或SI。"
+      },
+      {
+        "title": "Dual-Parameter Surface Plasmon Resonance Sensor for Simultaneous Detection of Humidity and Temperature Based on Cascaded PVA-GO Composite Film and PDMS Film",
+        "publishedAt": "2025-06-20",
+        "source": "https://doi.org/10.1109/JSEN.2025.3579796",
+        "relevance": "2026-10-05核原IEEE公开摘要/元数据：25(15)28390–28396，卷期2025-08-01。Ag膜MMF–SMF–MMF级联SPR，PVA–GO与PDMS通道分别响应湿度/温度，实验支撑多参量光纤传感；农业储存/工业/气象为适用方向，非实际部署证明。未通读收费全文或SI。"
+      }
+    ]
   }
 ]
