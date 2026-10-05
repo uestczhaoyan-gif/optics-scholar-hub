@@ -40,3 +40,20 @@ C29新增OFC2025/2026与CLEO2025/2026四历史届，连到现有2027同系列；
 | PhotonicsWest2026 | [Moscone当届官方场馆](https://www.moscone.com/events/spie-photonics-west-1)实际正文January17–22,2026，San Francisco，North/South/West；激光、生医、量子/光电子方向 | SPIE通用外链现2027，旧PW26 LA404 PDF浏览器ERR_BLOCKED_BY_CLIENT，未绕过。仅身份/整体日城/场馆，原CFP日期/格式/费用/出版条件及子展会日期未知。 |
 
 实际核ACP档案与六公共指南/Program、PW场馆正文；没有登录LearningConf/PDFexpress/IEEE、创建账号、投稿、上传、联系、支付或签协议。原ACP手册 https://learningconf-assets.oss-cn-shanghai.aliyuncs.com/ACP%E6%89%8B%E5%86%8C1105.pdf 返回404，未称全文已读；PW不可读CFP https://spie.org/documents/cfp-flyers/PW26/LA404.pdf 不作为事实依据。两旧届closed，原现届/未来资料保持，nextEditionCheckedAt不随历史补录刷新。
+
+## C32：Europe/IRMMW时间深度
+
+核验2026-10-05。C32新增CLEO/Europe2025历史、IRMMW2027/2028官方预告三届，补IR2026海报局部要求；130届/98系列23多届，100刊/10活动、273候选209/57/7、SCIE86/ESCI12/EI93、JCR98/CAS11与39刊样例保持。旧127届仅IR26的requirements追加，96其他系列/271其他候选及其他JSON保护；IR未来公告核验日实核更新，欧洲历史不刷新后续公告日。PDP时区、注册星期/退款年份与IR2025终日冲突保留。
+
+| 届次/字段 | 当届来源与实际范围 | 边界 |
+| --- | --- | --- |
+| CLEO/Europe2025身份/会场 | [档案](https://www.cleoeurope.org/archives/)6/23–27/2025 Munich；[Venue](https://www.cleoeurope.org/venue/)ICM Messe München | 与2027预告/美国CLEO独立。 |
+| 普通稿/模板 | [Submission](https://www.cleoeurope.org/submission/)35词、一页PDF、原创、单一会议、网上确认；[模板](https://www.cleoeurope.org/wp-content/uploads/2022/10/Style-guide-CLEO-Europe-EQEC-2023-paper-template.pdf)明确2023标题，[版式](https://www.cleoeurope.org/wp-content/uploads/2024/11/One-Page-Summary-Layout.pdf)两页说明 | 两原PDF全部解析并看三页图，A4/25mm/正文10pt；不称两页稿或2027模板，其他未读内部系统未知。 |
+| 日期 | [日程](https://www.cleoeurope.org/deadlines/)双列截图配对：1/27/2025 23:59 CET Paris普通、3/31通知、4/14 PDP、5/16 PDP通知、6/2早价；[PDP](https://www.cleoeurope.org/postdeadlines/)五月中旬通知 | PDP23:59 Paris CST疑义，只日级。线上注册Sunday6/16星期错，最终截止null。 |
+| 注册 | [原2025注册](https://www.cleoeurope.org/registration/)全周会员685/795、非会员850/955、学生会员245/310、学生非会员310/340欧元，免VAT、6/2早价、收款确认 | 退款写2024，年界未知，不沿用2027；晚宴等另计。 |
+| 展示/出版 | [Speaker](https://www.cleoeurope.org/speakers/)普通12+3、PDP7+3min，预上传/session前10min；海报原尺寸宽100–105高150cm、指定session到场；[Submission](https://www.cleoeurope.org/submission/)出版同意/eCF | 海报括注A0与给定上限均保留，不改毫米值；无现场展示无出版，未逐篇核入库。原Presentation Services附件未读，不复制2027细则。 |
+| IR2027/2028 | [学会明确预告](https://www.irmmw-thz.org/all-conferences/)福冈9/5–10/2027、英国华威大学9/3–8/2028 | 具体会场/CFP/费率/出版及精确截止未知，unknown，不外推或沿用2026。只IR nextEditionCheckedAt实核更新。 |
+| IR2026现场 | [Presenter Instructions](https://www.irmmw-thz.org/technical-program/)首选A1竖/横或A0竖，自带打印/现场不打印、提供夹子/胶带、session现场答疑 | 只requirements追加，整届核验日与原截止/费率等保持；布展时刻待公告。 |
+| 暂缓IR2025 | [同一学会页](https://www.irmmw-thz.org/all-conferences/)主段8/17–22，过去表8/17–23 | 冲突未解决，未正式加历史条目，不挑终日；候选nextAction继续保留。 |
+
+原模板SHA256 1c3a3d244c26c3a4700dc13df83e326441b57f7ead52365ded6233f798c1aeee（一页）；版式SHA256 2358d6f8c406515f3113cfe8dd122b6e8884eaafc11f40013901edee85b353bf（两页说明）。2027大会页计划10/5开启，但详细Submission仍2025，本批未宣称系统开放、未刷新旧2027记录。只读公开网页/文件，未登录、上传、投稿、支付、联系或签协议。

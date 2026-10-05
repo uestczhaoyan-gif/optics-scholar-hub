@@ -4,13 +4,13 @@
 
 ## 当前结果与原规划对照
 
-原始基线为 19 本期刊、9 届会议；现有 **100 本期刊、127 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
+原始基线为 19 本期刊、9 届会议；现有 **100 本期刊、130 届会议、10 项展会/论坛**。用户指定的 [54 本期刊](REQUESTED_JOURNALS.md) 已全部收录。展会/论坛含母子活动，不计入论文会议数量。
 
 | 原规划                             | 当前状态                                      | 后续工作                                                 |
 | ---------------------------------- | --------------------------------------------- | -------------------------------------------------------- |
 | 中文网站、双语 README、GitHub 发布 | 已实现并上线                                  | 每批同步数量、记录和部署结果                             |
 | 期刊扩充、SCI/EI 与分区标签        | 54 本指定清单完成；标签、领域及组合筛选已实现 | 补证据、年度与学科覆盖，继续审核中文及薄弱方向候选       |
-| 国内外会议、核心通知及多类 DDL     | 127 届会议；分开记录投稿、PDP、注册、终稿等   | 逐届扩充，核实未知日期、征稿规则与出版形式               |
+| 国内外会议、核心通知及多类 DDL     | 130 届会议；分开记录投稿、PDP、注册、终稿等   | 逐届扩充，核实未知日期、征稿规则与出版形式               |
 | CIOE、精密工程论坛及中国光学大会   | 已有相关正式记录，展会/论坛独立呈现           | 核实后续届次、同名活动身份和官方冲突信息                 |
 | JCR/中科院官方查询入口             | 首页已提供两套官方平台链接                    | 入口可用不代表逐刊数据已官方复核                         |
 | 刷新与更新机制                     | 已实现已发布目录版本检查；每日来源巡检        | 报告仍需人工判断；展会/论坛维护队列已补齐                |
@@ -64,7 +64,7 @@ A、B 优先推进；C、E、F 交替补覆盖。D 已完成并通过测试；G 
 
 ## English
 
-Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 100 journals, 127 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
+Updated 5 October 2026. The user authorized continuous work and five-hour usage checks; the existing automation was reactivated and attached to the current conversation. See [the resumption handoff](RESUME.md) before continuing. The catalog contains 100 journals, 130 conference editions and 10 separate exhibition/forum records. All 54 requested journals are included. Filtering, index/ranking labels, calendar export, shareable filters, local favorites, official ranking links and published-version refresh are implemented.
 
 The remaining priorities are evidence quality and broader coverage: verify current indexing and ranking editions, resolve conflicting conference information, add edition-specific official records, maintain the newly implemented exhibition/forum offline queue, complete submission guidance and cross-disciplinary article examples, review Chinese/EI journals, and normalize the candidate backlog. There are JCR records for 98 journals and CAS records for 11. SCIE has 86 and EI has 93 positive records. 93 EI records now have database-provider evidence from Elsevier's public Compendex source list (SERIALS version 7 August 2026); no subscription-platform article search was performed. Eighty-six SCIE records have current Clarivate MJL search-result evidence; twelve ESCI records also have database evidence. Missing evidence does not mean a journal is not indexed.
 
@@ -699,3 +699,7 @@ E34 887a49a22cefa242ed3089f1b071bf42daaff18a已验收[Pages37262559065](https://
 ## 2026-10-05：TIE光学装备样例 E35
 
 F10 be3bf570c0a36b9abacc89071625ae7e29ad159b已验收[Pages37263696798](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37263696798)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，dd1b4dde91f06ef14a4bfb926a10e0966fcb271bb656e6412911c23815d0aca9匹配本地（2026-10-05T04:30:42.163Z）。 E35为IEEE TIE补四篇近两年光学装备/显示电子样例：三篇已分配不同期次及一篇VCSEL Early Access；突出硬件控制/驱动贡献，保留通常不收纯光学的指南边界。只有scopeExamples变化，39刊至少三样例，100刊/127届/10活动、273候选209/57/7、98系列21多届及索引86/12/93、JCR98/CAS11保持；99其他刊、旧38样例和其他JSON保护。 [原论文与范围](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e35ieee-tie)。
+
+## 2026-10-05：Europe/IRMMW时间深度 C32
+
+E35 37076b4dfc1268e917ddf11fa6613725fccc2cf7已验收[Pages37264177279](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37264177279)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，5dd71ed5c56d51d2a6f8e4517221ed954628c6159fa6fde70e50b35247377f69匹配本地（2026-10-05T04:36:42.786Z）。 C32新增CLEO/Europe2025历史、IRMMW2027/2028官方预告三届，补IR2026海报局部要求；130届/98系列23多届，100刊/10活动、273候选209/57/7、SCIE86/ESCI12/EI93、JCR98/CAS11与39刊样例保持。旧127届仅IR26的requirements追加，96其他系列/271其他候选及其他JSON保护；IR未来公告核验日实核更新，欧洲历史不刷新后续公告日。PDP时区、注册星期/退款年份与IR2025终日冲突保留。 [字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)。下一步继续剩余会议/期刊证据，不重复已有功能或同版索引扫描。

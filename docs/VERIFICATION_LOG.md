@@ -1306,3 +1306,11 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 - 四原公开页首发/卷期/DOI与硬件实验边界核实，第四EA单列，不用检索线索的错误日期或泛化本刊。必要验证与差异审查后上传并按同SHA验收；其他规划继续。
 
 - 发布前数据校验、固定be3bf57的99其他刊/旧38样例、TIE除scopeExamples全部字段及所有其他JSON保持断言通过；四近两年首次日/三不同正式期次加一EA、硬件及显示电子边界和39刊样例计数通过。325本地Markdown链接、维护439项/12主题覆盖、Pages子路径六资源构建exit0与数据/文档差异审查/git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。
+
+## 2026-10-05：Europe/IRMMW时间深度 C32
+
+- E35 37076b4dfc1268e917ddf11fa6613725fccc2cf7已验收[Pages37264177279](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37264177279)：同SHA完整31项测试/typecheck/lint等CI/build/deploy成功，首页/版本200，5dd71ed5c56d51d2a6f8e4517221ed954628c6159fa6fde70e50b35247377f69匹配本地（2026-10-05T04:36:42.786Z）。正式编辑前已验收。work/C32_RESEARCH_2026-10-05.md长操作前保存来源/范围与冲突；实际五小时24%/周84%允许，不用重置券。
+- C32新增CLEO/Europe2025历史、IRMMW2027/2028官方预告三届，补IR2026海报局部要求；130届/98系列23多届，100刊/10活动、273候选209/57/7、SCIE86/ESCI12/EI93、JCR98/CAS11与39刊样例保持。旧127届仅IR26的requirements追加，96其他系列/271其他候选及其他JSON保护；IR未来公告核验日实核更新，欧洲历史不刷新后续公告日。PDP时区、注册星期/退款年份与IR2025终日冲突保留。 [字段来源](CONFERENCE_EVIDENCE_2026-10-05.md#c32europeirmmw时间深度)。
+- 两原PDF文字/三页图、原日程双列截图及原年正文实际核。必要验证/差异审查和构建后上传并按同SHA验收；剩余规划继续，既有定期更新/系列机制不重复开发。
+
+- 发布前数据校验、固定37076b4的127旧届（仅IR26 requirements追加）、96其他系列/271其他候选及全部其他JSON保护、两系列/两候选白名单断言通过；130/98/23、历史精确CET/含疑义PDP日级与最终注册null、两个未来预告unknown边界通过。367本地Markdown链接、维护445项/12主题覆盖、Pages子路径六资源构建exit0、数据/文档差异审查和git diff --check通过；完整31项测试/typecheck/lint由同SHA CI验收。

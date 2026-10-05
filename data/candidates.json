@@ -168,10 +168,10 @@
     "scopeHint": "区分各地区系列，不作为 CLEO 同一届次",
     "sourceEntry": "https://www.cleoeurope.org/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["cleo-europe-eqec-2027"],
-    "decisionReason": "官网明确预告 2027-06-21 至 06-25 在慕尼黑举办，作为当届预告收录；旧年度征稿不复用。",
-    "nextAction": "跟踪 2027 征稿、具体会场、注册与出版；主页讲者和 IEEE/Optica 论文集说明仍属 2025。",
-    "reviewedAt": "2026-09-15"
+    "relatedExistingIds": ["cleo-europe-eqec-2027", "cleo-europe-eqec-2025"],
+    "decisionReason": "追加2025历史届次与原年规则到原系列；2027预告独立，不沿用旧稿规/费率。",
+    "nextAction": "跟踪2027实际投稿系统/本届指南、会场、注册与出版；2025最终注册/退款年份冲突待核。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-e6ae36e513",
@@ -829,10 +829,14 @@
     "scopeHint": "主题包括毫米波，网站按方向筛选",
     "sourceEntry": "https://www.irmmw-thz.org/conference/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["irmmw-thz-2026"],
-    "decisionReason": "学会当届官网明确 2026 会期、地点、投稿及注册规则，纳入红外与太赫兹交叉方向。",
-    "nextAction": "跟踪当届通知；澄清晚新闻稿出版资格，并核实 2027 届征稿。",
-    "reviewedAt": "2026-09-14"
+    "relatedExistingIds": [
+      "irmmw-thz-2026",
+      "irmmw-thz-2027",
+      "irmmw-thz-2028"
+    ],
+    "decisionReason": "学会明确预告2027福冈与2028华威大学，独立未来届次接原系列，未推算投稿规则。",
+    "nextAction": "跟踪2027/2028当届征稿与具体场馆；2026晚新闻出版资格待核。2025学会同页终日8/22与8/23矛盾，未解决暂不正式补录。",
+    "reviewedAt": "2026-10-05"
   },
   {
     "candidateId": "conference-series-00138dcea7",

@@ -1348,7 +1348,8 @@
     "requirements": [
       "使用官方摘要模板，经 IEEE PDF eXpress（会议 ID 61726X）转换为兼容 PDF，再从官网入口上传 Whova。终稿修订保留原 paper ID。",
       "学生论文奖要求两页摘要；终稿扩展摘要最多两页。终稿资格段限定 5 月 1 日前投稿并获 TPC 接受的作者；晚新闻稿的出版资格需另向组织方确认。",
-      "每篇至少一位作者注册，一次注册最多覆盖本人署名的三篇论文。会议要求现场报告，不提供混合参会方式。"
+      "每篇至少一位作者注册，一次注册最多覆盖本人署名的三篇论文。会议要求现场报告，不提供混合参会方式。",
+      "2026-10-05局部核现场海报：首选A1（594×841mm）竖/横或A0竖，自带印刷件，现场不提供打印；板/夹子或胶带提供，须在指定poster session现场答疑。布展具体时刻仍待临近通知，不补精确日时。来源：https://www.irmmw-thz.org/technical-program/"
     ],
     "publication": "官网规定录用论文或海报须由作者或指定代表现场报告，方可归档到会议 digest 和 IEEE Xplore；不将进入 IEEE Xplore 等同于 EI 或 SCI 收录保证。",
     "notes": "官网 Key dates 将 8/15 写作注册及终稿截止，但注册页另列后续费率：普通/学生早鸟 900/600 美元，8/16–9/30 为 975/675 美元，10/1 起为 1050/750 美元。8/15 不作为所有参会者的最终注册截止；作者归档资格需遵循投稿和注册条件。日期未公布时刻，不补造午夜。",
@@ -6572,6 +6573,153 @@
         "label": "2026历史摘要截止待核",
         "date": null,
         "source": "https://www.moscone.com/events/spie-photonics-west-1"
+      }
+    ]
+  },
+  {
+    "id": "cleo-europe-eqec-2025",
+    "series": "CLEO/Europe–EQEC",
+    "year": 2025,
+    "name": "欧洲激光与光电会议暨欧洲量子电子学会议 2025（历史届次）",
+    "nameEn": "CLEO/Europe–EQEC 2025",
+    "region": "海外",
+    "location": "德国 · 慕尼黑",
+    "venue": "ICM – International Congress Center Messe München",
+    "start": "2025-06-23",
+    "end": "2025-06-27",
+    "topics": ["综合光学", "激光与非线性", "量子光学"],
+    "description": "欧洲CLEO/EQEC已结束届次，与2027预告连接同一系列；保留原年投稿及参会准备，区别美国CLEO。",
+    "website": "https://www.cleoeurope.org/archives/",
+    "notice": "https://www.cleoeurope.org/submission/",
+    "registration": "https://www.cleoeurope.org/registration/",
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "closed",
+    "requirements": [
+      "2025普通稿独立35词摘要加一页PDF summary，原创结果，仅投CLEO或EQEC之一；可选口头/海报或仅海报，完成网上步骤并获确认。匿名要求、关键词与系统文件大小未核。来源：https://www.cleoeurope.org/submission/",
+      "原2025指南链接的模板仍标2023：一页包括图/公式/参考，A4、四边25mm、正文10pt Times，标题14pt；另挂两页版式说明，不是允许两页稿。未将旧版当2027模板。来源：https://www.cleoeurope.org/wp-content/uploads/2022/10/Style-guide-CLEO-Europe-EQEC-2023-paper-template.pdf 与 https://www.cleoeurope.org/wp-content/uploads/2024/11/One-Page-Summary-Layout.pdf",
+      "普通口头15分钟（12+3）、PDP10分钟（7+3）；须预上传并在session前10分钟向主席报到。海报原文上限宽100–105cm、高150cm，括注A0竖；按分配日早上张贴、session本人现场答疑，最晚16:00移除。此为原页尺寸范围，不改成统一A0毫米值。来源：https://www.cleoeurope.org/speakers/",
+      "原2025全周注册早/常价：会员685/795、非会员850/955、学生会员245/310、学生非会员310/340欧元，免VAT，早价至6/2；收款确认才完成。学生身份需证明，附加晚宴另计，旧价不套2027。来源：https://www.cleoeurope.org/registration/"
+    ],
+    "publication": "原年指南规定实际现场口头/海报展示且作者同意出版，才具备Optica/IEEE论文集资格；IEEE eCF另完成。本批未逐篇核对实际入库，不保证每篇索引。来源：https://www.cleoeurope.org/submission/ 与 https://www.cleoeurope.org/speakers/",
+    "notes": "PDP原文4/14/2025 23:59 Paris CST时区标记有疑义，仅保存日级，不擅自转UTC。日程写Sunday June16/2025的线上注册终日与星期不符，精确最终注册截止留空；退款条款写2024，与2025页年不符，退款年界待核。早价6/2由注册页独立核实；海报括注与尺寸范围原样注明。2027详细指南仍待核，历史一页/费用不移植。来源：https://www.cleoeurope.org/postdeadlines/ 与 https://www.cleoeurope.org/deadlines/ 与 https://www.cleoeurope.org/registration/",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2025历史普通稿截止",
+        "at": "2025-01-27T23:59:00+01:00",
+        "timezone": "Europe/Paris",
+        "source": "https://www.cleoeurope.org/deadlines/"
+      },
+      {
+        "type": "notification",
+        "label": "2025普通稿通知",
+        "date": "2025-03-31",
+        "source": "https://www.cleoeurope.org/submission/"
+      },
+      {
+        "type": "pdp",
+        "label": "2025历史PDP截止（时区标记待核）",
+        "date": "2025-04-14",
+        "source": "https://www.cleoeurope.org/postdeadlines/",
+        "note": "原页23:59 Paris CST有疑义；不保存精确时刻。"
+      },
+      {
+        "type": "notification",
+        "label": "2025日程所列PDP通知",
+        "date": "2025-05-16",
+        "source": "https://www.cleoeurope.org/deadlines/",
+        "note": "PDP页给五月中旬；日程给5/16，仅日期。"
+      },
+      {
+        "type": "registration",
+        "label": "2025早鸟注册截止",
+        "date": "2025-06-02",
+        "source": "https://www.cleoeurope.org/registration/"
+      },
+      {
+        "type": "registration",
+        "label": "2025最终线上注册截止（日期/星期矛盾待核）",
+        "date": null,
+        "source": "https://www.cleoeurope.org/deadlines/"
+      }
+    ]
+  },
+  {
+    "id": "irmmw-thz-2027",
+    "series": "IRMMW-THz",
+    "year": 2027,
+    "name": "国际红外、毫米波与太赫兹波会议 2027（官方预告）",
+    "nameEn": "International Conference on Infrared, Millimeter, and Terahertz Waves 2027",
+    "region": "海外",
+    "location": "日本 · 福冈",
+    "venue": "具体会场待公布",
+    "start": "2027-09-05",
+    "end": "2027-09-10",
+    "topics": ["传感与测量", "电子与器件", "成像与计算光学", "综合光学"],
+    "description": "学会明确公布的后续届次；方向标签按红外、毫米波与太赫兹系列整理，本届详细征稿主题待公布。",
+    "website": "https://www.irmmw-thz.org/all-conferences/",
+    "notice": "https://www.irmmw-thz.org/all-conferences/",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026-10-05核学会All Conferences明确标注2027的会期和地点；仅未来预告，投稿系统/模板、篇词限、普通与晚新闻截止、报告及费用待当届公告，不沿用2026。来源：https://www.irmmw-thz.org/all-conferences/"
+    ],
+    "publication": "本届出版、版权与检索安排待核；不由2026的IEEE Xplore条件推定。",
+    "notes": "具体会场与注册入口待核，不按周期推算截止；本条已知会期不代表已开放投稿。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027摘要截止待公布",
+        "date": null,
+        "source": "https://www.irmmw-thz.org/all-conferences/"
+      },
+      {
+        "type": "registration",
+        "label": "2027注册截止待公布",
+        "date": null,
+        "source": "https://www.irmmw-thz.org/all-conferences/"
+      }
+    ]
+  },
+  {
+    "id": "irmmw-thz-2028",
+    "series": "IRMMW-THz",
+    "year": 2028,
+    "name": "国际红外、毫米波与太赫兹波会议 2028（官方预告）",
+    "nameEn": "International Conference on Infrared, Millimeter, and Terahertz Waves 2028",
+    "region": "海外",
+    "location": "英国 · 华威大学",
+    "venue": "University of Warwick（具体会场待核）",
+    "start": "2028-09-03",
+    "end": "2028-09-08",
+    "topics": ["传感与测量", "电子与器件", "成像与计算光学", "综合光学"],
+    "description": "学会明确公布的后续届次；方向标签按红外、毫米波与太赫兹系列整理，本届详细征稿主题待公布。",
+    "website": "https://www.irmmw-thz.org/all-conferences/",
+    "notice": "https://www.irmmw-thz.org/all-conferences/",
+    "registration": null,
+    "checkedAt": "2026-10-05",
+    "evidence": "official",
+    "submissionState": "unknown",
+    "requirements": [
+      "2026-10-05核学会All Conferences明确标注2028的会期和地点；仅未来预告，投稿系统/模板、篇词限、普通与晚新闻截止、报告及费用待当届公告，不沿用2026。来源：https://www.irmmw-thz.org/all-conferences/"
+    ],
+    "publication": "本届出版、版权与检索安排待核；不由2026的IEEE Xplore条件推定。",
+    "notes": "具体会场与注册入口待核，不按周期推算截止；本条已知会期不代表已开放投稿。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2028摘要截止待公布",
+        "date": null,
+        "source": "https://www.irmmw-thz.org/all-conferences/"
+      },
+      {
+        "type": "registration",
+        "label": "2028注册截止待公布",
+        "date": null,
+        "source": "https://www.irmmw-thz.org/all-conferences/"
       }
     ]
   }

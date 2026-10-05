@@ -340,13 +340,15 @@
     "id": "series-f99079d1fc30",
     "name": "IRMMW-THz",
     "aliases": [],
-    "editionIds": ["irmmw-thz-2026"],
+    "editionIds": ["irmmw-thz-2026", "irmmw-thz-2027", "irmmw-thz-2028"],
     "website": "https://www.irmmw-thz.org/conference/",
     "sources": [
       "https://www.irmmw-thz.org/conference/",
-      "https://www.irmmw-thz.org/abstract-submission/"
+      "https://www.irmmw-thz.org/abstract-submission/",
+      "https://www.irmmw-thz.org/all-conferences/",
+      "https://www.irmmw-thz.org/technical-program/"
     ],
-    "nextEditionCheckedAt": null
+    "nextEditionCheckedAt": "2026-10-05"
   },
   {
     "id": "series-02a841634310",
@@ -441,11 +443,20 @@
     "id": "series-280e7bbb1981",
     "name": "CLEO/Europe–EQEC",
     "aliases": [],
-    "editionIds": ["cleo-europe-eqec-2027"],
+    "editionIds": ["cleo-europe-eqec-2027", "cleo-europe-eqec-2025"],
     "website": "https://www.cleoeurope.org/",
     "sources": [
       "https://www.cleoeurope.org/",
-      "https://world-of-photonics.com/en/congress/for-speaker/"
+      "https://world-of-photonics.com/en/congress/for-speaker/",
+      "https://www.cleoeurope.org/archives/",
+      "https://www.cleoeurope.org/submission/",
+      "https://www.cleoeurope.org/deadlines/",
+      "https://www.cleoeurope.org/postdeadlines/",
+      "https://www.cleoeurope.org/registration/",
+      "https://www.cleoeurope.org/speakers/",
+      "https://www.cleoeurope.org/venue/",
+      "https://www.cleoeurope.org/wp-content/uploads/2024/11/One-Page-Summary-Layout.pdf",
+      "https://www.cleoeurope.org/wp-content/uploads/2022/10/Style-guide-CLEO-Europe-EQEC-2023-paper-template.pdf"
     ],
     "nextEditionCheckedAt": null
   },
