@@ -1106,3 +1106,62 @@ Journal of the Society for Information Display；Wiley（代表 Society for Info
 - 未解决内容及影响：匿名/关键词当前统一口径/CTA许可阶段与模板内部、OA价许可及个案页费减免未知，不套通用Wiley。；CAS/2026完整分类/覆盖单篇未知，2025统计非个稿保证；三原公开摘要非全文SI审计。
 - 维护触发：本刊统一新版模板许可/关键词及收费统计、新官方分类覆盖或原论文更正后维护；不改AIS为JIF。
 - 全字段内容摘要345ddc4f12fa0ec4b08ebc192147b1db573af620bda76ebdc89f0dfebdd3ef64，基于7125c8dab8eb582e4f1131e993b4e5eb55e98ef0；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2W
+
+实际全文读取五刊当前JSON和F8/F9各本刊独立首页/稿规/元数据身份、五MJL唯一卡和EI载体/覆盖范围、对应JCR2025首JIF原图核验记录。复用2026-10-05实际证据，不再读取不变源、扫描数据库、登录后台或刷新字段日期；逐刊判断真实范围与理论例外、稿型/软篇幅、初稿源文件/数据/图像、四环节统计及税/报价版年未知，五admitted一对一关系分别核实。最后五期刊收尾不代表尚余104会议/18候选/功能最终验收完成。 本次正式字段质量累计148/252，余104未审；G3 42/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## optical-materials
+
+Optical Materials；Elsevier；原checkedAt 2026-10-05，admitted候选journal-8c18c1391b一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/optical-materials/publish/guide-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f8传统光学三刊)。0925-3467/e1873-1252非OpticalMaterialsX，纯计算需直接实验验证、材料机制/器件创新。JIF2025指标2024光学Q1材料Q2secondary非光学AISQ2，MJL SCIE双号与EI4258纸号电子“-”独立不否认官网。范围invitedreviews而稿型regular/reviews措辞，非邀路径未确认。250摘要1–7key/必需Highlights3–5每85字符、Word单栏/tex双栏可编辑而PDF非源、分图/必需DAS但不共享原因可说明。OM提交只链接，首页OA3530USD税外订阅无publicationfee非确定所有免费；3/34/81/2各环节统计未给年度样本均中，不相加/保证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567)；JCR/JCR 2025（指标2024）/category/MATERIALS SCIENCE, MULTIDISCIPLINARY/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0925-3467&hide_exact_match_fl=true)；2026-10-05普通浏览器刊号0925-3467唯一Exact Match结果卡，刊名/Elsevier及0925-3467/1873-1252匹配，Core Collection明确Science Citation Index Expanded；不是侧栏filter，未登录profile或查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核Elsevier公开SERIALS 2026-08-07版第4258行Journal/刊名/纸号0925-3467/出版者相符，电子“-”不否定官网号；DISCONTINUED 2026-05-01版无本批六新号匹配。仅新三目标不重扫旧87刊，覆盖年和单篇实际检索未核。
+- 未解决内容及影响：非邀综述现行路径、统一硬词页限、graphical要求/完整模板许可或系统内清单未核；机构税费资格/独立2026价表及统计口径未知。；CAS/2026全分类及索引覆盖单篇未知；本直接专刊不新增固定外样例要求，X不得混同。
+- 维护触发：本刊明确综述/材料新规则费率统计、新分类覆盖后维护，理论准入不套X。
+- 全字段内容摘要d8e930346fdd8a32ed9d36c768a9f501271cdfec50252f817b503d42405171c0，基于15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a；不是官网内容指纹，不表示未知已补齐。
+
+## optics-laser-technology
+
+Optics & Laser Technology；Elsevier；原checkedAt 2026-10-05，admitted候选journal-0986a2b828一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/optics-and-laser-technology/publish/guide-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f8传统光学三刊)。0030-3992/e1879-2545含激光技术推进，不指全部算法；JIF2025指标2024光学Q1应用物理Q2secondary、MJL SCIE/EI4263紙号电子空独立。原创综述、部分委约非全邀，short/technicalnotes快处理无天承诺，作者简介100词单照片。摘要250/1–7关键词与Highlights必需3–5每85字符/可编辑源非PDF分图/数据声明不共享说明与单匿名≥2均本刊实读。实际系统JOLT非缩略猜OLT；OA3470USD税外订阅无publicationfee、10/48/102/7分别环节非期限。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0030-3992&hide_exact_match_fl=true)；2026-10-05普通浏览器刊号0030-3992唯一Exact Match结果卡，刊名/Elsevier及0030-3992/1879-2545匹配，Core Collection明确Science Citation Index Expanded；不是侧栏filter，未登录profile或查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核Elsevier公开SERIALS 2026-08-07版第4263行Journal/刊名/纸号0030-3992/出版者相符，电子“-”不否定官网号；DISCONTINUED 2026-05-01版无本批六新号匹配。仅新三目标不重扫旧87刊，覆盖年和单篇实际检索未核。
+- 未解决内容及影响：统一硬词页限、graphical要求及全部稿型模板/许可/登录内清单未核，费用年度机构减免/其他费与统计年样本口径未知。；CAS/2026全分类/覆盖单篇未知；无新增固定外样例任务，不凭宽范围收所有AI。
+- 维护触发：本刊新明确稿型/模板/价格统计及新版分类覆盖后维护，分别保留技术范围。
+- 全字段内容摘要07ff8036cdf3c061f7f2d3f8d1da9ae050537a5a3029932f11f8a598a8906547，基于15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a；不是官网内容指纹，不表示未知已补齐。
+
+## optics-lasers-engineering
+
+Optics and Lasers in Engineering；Elsevier；原checkedAt 2026-10-05，admitted候选journal-160d4c5afa一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering/publish/guide-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f8传统光学三刊)。0143-8166/e1873-0302光学方法工程意义；纯参数优化/计算或仅应用非方法创新，不与OLT宽范围混同。JIF2025指标2024光学Q2secondary/MJL SCIE双号/EI4264纸号电子空独立。简介100/照片、摘要250/1–7关键词、必需Highlights3–5每85字符、源doc/tex单双栏非PDF/分图/初投DAS不共享理由和单匿名≥2本刊分别实读。OLEN入口仅链接不内审；OA3470USD税外订阅无publicationfee，4/39/88/7分四环节，非录用时限或保证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=567)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0143-8166&hide_exact_match_fl=true)；2026-10-05普通浏览器刊号0143-8166唯一Exact Match结果卡，刊名/Elsevier及0143-8166/1873-0302匹配，Core Collection明确Science Citation Index Expanded；不是侧栏filter，未登录profile或查单篇，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核Elsevier公开SERIALS 2026-08-07版第4264行Journal/刊名/纸号0143-8166/出版者相符，电子“-”不否定官网号；DISCONTINUED 2026-05-01版无本批六新号匹配。仅新三目标不重扫旧87刊，覆盖年和单篇实际检索未核。
+- 未解决内容及影响：确切各稿型硬词页限、图摘/全模板许可和系统材料未知；统计年样本均中、价表版本/个案费税协议未知。；CAS/2026全部分类及覆盖单篇未知，光学方法推进须实际论证，不新增固定外样例义务。
+- 维护触发：本刊明确稿型材料费用统计/新分类覆盖公告后维护，不把计算成像名词当投稿保证。
+- 全字段内容摘要89b3938a3903ea83fcdacfd569938222d1056d596aa979cb2a29ca37bd943af5，基于15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a；不是官网内容指纹，不表示未知已补齐。
+
+## journal-quantitative-spectroscopy-radiative-transfer
+
+Journal of Quantitative Spectroscopy and Radiative Transfer；Elsevier；原checkedAt 2026-10-05，admitted候选journal-138ad85d9f一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/journal-of-quantitative-spectroscopy-and-radiative-transfer/publish/guide-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)。0022-4073/e1879-1352光谱散射近场辐射理论/实验均可，不移植红外实验限制。JIF2025指标2024光学Q3/光谱Q2secondary主合集据光谱，不借AIS光学Q2；MJL SCIE双号/EI3534纸号电子空不否定官网。Review/Full/Short/BookReview、统一长度未知；摘要250/1–7key必需Highlights3–5每85字符/单匿名≥2、doc/tex单双栏源非PDF分图、OptionC仓储引用DAS必需而不能共享说明非无例外全公开。JQSRT入口只链接，OA3240USD税外订阅无publicationfee，3/34/91/3独立环节非时限。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/OPTICS/Q3/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)；JCR/JCR 2025（指标2024）/category/SPECTROSCOPY/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=737)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0022-4073&hide_exact_match_fl=true)；2026-10-05普通浏览器0022-4073唯一Exact Match卡，刊名/出版者及0022-4073/1879-1352匹配；结果Core Collection明确Science Citation Index Expanded，非侧栏filter，未登录profile/单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核公开SERIALS 2026-08-07版第3534行Journal、刊名/纸号0022-4073/出版者相符，电子“-”不否定官方eISSN；DISCONTINUED 2026-05-01版无本批四新号。只两新目标，不重扫旧90刊，覆盖年及单篇检索未核。
+- 未解决内容及影响：统一稿型词页限、图摘和完整模板许可/系统清单未核；费用年资格/其他费、统计年样本均中未知。；CAS/2026全分类与覆盖单篇未知，不访问仿制域/取旧报价，不新增固定外样例。
+- 维护触发：本刊新稿型材料价表统计/官方分类覆盖后维护，理论实验范围与JIF/AIS分开。
+- 全字段内容摘要1b4fd76a666d965aa1ef012310fdb7eef5d1e75e3b2495aa017b1657ea1f5ce2，基于15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a；不是官网内容指纹，不表示未知已补齐。
+
+## infrared-physics-technology
+
+Infrared Physics & Technology；Elsevier；原checkedAt 2026-10-05，admitted候选journal-d24606bb61一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/infrared-physics-and-technology/publish/guide-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f9光谱与红外两刊)。1350-4495/e1879-0275红外THz主750nm–1mm、750–1200特别考虑与300–100GHz编辑酌情；通常实验纯计算/解析理由充分例外（卫星/FEL设计）非全面禁理论。JIF2025指标2024仪器/光学/应用物理三Q2secondary/MJL SCIE双号/EI2292紙号电子空独立。Research通常6–14页明言无任意上限需内容支撑、Review通常30或编辑更长、Notes/Letters/Meetingreports分型；1–5建议独立评审非实际人数。摘要250/1–7key/必需85字符3–5Highlights、源doc/tex非PDF单双栏/分图、单匿名≥2、OptionC仓储引用DAS不共享理由。INFPHY入口仅链接，OA2650USD税外订阅无publicationfee，10/51/103/3分环节不相加。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/INSTRUMENTS & INSTRUMENTATION/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=379)；JCR/JCR 2025（指标2024）/category/OPTICS/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=566)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1350-4495&hide_exact_match_fl=true)；2026-10-05普通浏览器1350-4495唯一Exact Match卡，刊名/出版者及1350-4495/1879-0275匹配；结果Core Collection明确Science Citation Index Expanded，非侧栏filter，未登录profile/单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05核公开SERIALS 2026-08-07版第2292行Journal、刊名/纸号1350-4495/出版者相符，电子“-”不否定官方eISSN；DISCONTINUED 2026-05-01版无本批四新号。只两新目标，不重扫旧90刊，覆盖年及单篇检索未核。
+- 未解决内容及影响：具体特殊稿型/图摘与完整模板许可或系统材料未核；统计年样本均中及独立2026价格/个体资格税其他费未知。；CAS/2026全分类/覆盖单篇未知，波段酌情范围不等全部AI/可保证录用，不新增固定外样例。
+- 维护触发：本刊新波段/实验例外及稿规价表统计或新分类覆盖后维护，保留合理理论例外。
+- 全字段内容摘要643f4ea0ad91846870317885c5e1084303985002ef83309d8032500d5a842b71，基于15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a；不是官网内容指纹，不表示未知已补齐。

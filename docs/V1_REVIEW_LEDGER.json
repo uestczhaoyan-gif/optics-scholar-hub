@@ -4445,6 +4445,116 @@
         "CAS/2026完整分类/覆盖单篇未知，2025统计非个稿保证；三原公开摘要非全文SI审计。"
       ],
       "maintenanceTrigger": "本刊统一新版模板许可/关键词及收费统计、新官方分类覆盖或原论文更正后维护；不改AIS为JIF。"
+    },
+    {
+      "kind": "journal",
+      "id": "optical-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d8e930346fdd8a32ed9d36c768a9f501271cdfec50252f817b503d42405171c0",
+      "formalReviewBase": "15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#optical-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "非邀综述现行路径、统一硬词页限、graphical要求/完整模板许可或系统内清单未核；机构税费资格/独立2026价表及统计口径未知。",
+        "CAS/2026全分类及索引覆盖单篇未知；本直接专刊不新增固定外样例要求，X不得混同。"
+      ],
+      "maintenanceTrigger": "本刊明确综述/材料新规则费率统计、新分类覆盖后维护，理论准入不套X。"
+    },
+    {
+      "kind": "journal",
+      "id": "optics-laser-technology",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "07ff8036cdf3c061f7f2d3f8d1da9ae050537a5a3029932f11f8a598a8906547",
+      "formalReviewBase": "15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#optics-laser-technology",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "统一硬词页限、graphical要求及全部稿型模板/许可/登录内清单未核，费用年度机构减免/其他费与统计年样本口径未知。",
+        "CAS/2026全分类/覆盖单篇未知；无新增固定外样例任务，不凭宽范围收所有AI。"
+      ],
+      "maintenanceTrigger": "本刊新明确稿型/模板/价格统计及新版分类覆盖后维护，分别保留技术范围。"
+    },
+    {
+      "kind": "journal",
+      "id": "optics-lasers-engineering",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "89b3938a3903ea83fcdacfd569938222d1056d596aa979cb2a29ca37bd943af5",
+      "formalReviewBase": "15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#optics-lasers-engineering",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "确切各稿型硬词页限、图摘/全模板许可和系统材料未知；统计年样本均中、价表版本/个案费税协议未知。",
+        "CAS/2026全部分类及覆盖单篇未知，光学方法推进须实际论证，不新增固定外样例义务。"
+      ],
+      "maintenanceTrigger": "本刊明确稿型材料费用统计/新分类覆盖公告后维护，不把计算成像名词当投稿保证。"
+    },
+    {
+      "kind": "journal",
+      "id": "journal-quantitative-spectroscopy-radiative-transfer",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1b4fd76a666d965aa1ef012310fdb7eef5d1e75e3b2495aa017b1657ea1f5ce2",
+      "formalReviewBase": "15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#journal-quantitative-spectroscopy-radiative-transfer",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "统一稿型词页限、图摘和完整模板许可/系统清单未核；费用年资格/其他费、统计年样本均中未知。",
+        "CAS/2026全分类与覆盖单篇未知，不访问仿制域/取旧报价，不新增固定外样例。"
+      ],
+      "maintenanceTrigger": "本刊新稿型材料价表统计/官方分类覆盖后维护，理论实验范围与JIF/AIS分开。"
+    },
+    {
+      "kind": "journal",
+      "id": "infrared-physics-technology",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "643f4ea0ad91846870317885c5e1084303985002ef83309d8032500d5a842b71",
+      "formalReviewBase": "15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#infrared-physics-technology",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "具体特殊稿型/图摘与完整模板许可或系统材料未核；统计年样本均中及独立2026价格/个体资格税其他费未知。",
+        "CAS/2026全分类/覆盖单篇未知，波段酌情范围不等全部AI/可保证录用，不新增固定外样例。"
+      ],
+      "maintenanceTrigger": "本刊新波段/实验例外及稿规价表统计或新分类覆盖后维护，保留合理理论例外。"
     }
   ],
   "coreSeriesReviews": [
