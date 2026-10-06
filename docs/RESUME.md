@@ -677,3 +677,7 @@ a65caccd5c02c8777b7e6f55d4c14925f565904b已验收[Pages 37462718166](https://git
 ## 2026-10-06：固定候选准入 V1-G3N
 
 07de5d3e88f1e71a0c14f793fa010d90b74b01b8已验收[Pages 37463834938](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37463834938)；同SHA build/deploy成功，首页/版本200，摘要74a5dd63ffdfcbf49dcbf0463523a648ffbf70b3c4b669274941511b16fecfeb匹配本地（2026-10-06T12:33:31.766Z）。 V1-G3N准入固定候选Proceedings of the National Academy of Sciences并同批完成新增正式质量；112刊/133届/98系列/10活动，273候选221 admitted/45 pending/7 deferred；SCIE96/ESCI14/EI102，JCR108/CAS11，58刊至少三篇样例。固定候选55/60（8准入、47实际限制）、余5；正式255/255（112刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [逐字段依据与限制](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-de8b7d21e8)。保留既有五小时额度检查及每日巡检，不扩大本版。
+
+## 2026-10-06：固定候选 V1-G3O
+
+39fb62e96079f856854c0d7542549443c8af9b52已验收[Pages 37465387770](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37465387770)，同SHA build/deploy成功、首页/版本200，摘要661eb3d51f38bc085a66144e45be03f9d6b884ff802f88261821832f1880781f与本地匹配（2026-10-06T12:45:26.438Z）。 V1-G3O实审5固定候选，保留pending及实际范围/限制；固定60已审60（8准入、52限制）、余0。正式质量255/255，当前正式目录已审清，G4/G5完成，G3固定候选已全部实审，G1/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 [逐项实读证据](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3o)。原五小时额度检查保持；继续固定剩余事项，不重试未变化受限源、不扩大范围。

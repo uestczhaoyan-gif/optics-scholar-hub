@@ -1451,6 +1451,76 @@
         "三原文章只审核完整公开摘要、类别/日期/正式期次和文章许可，未审全文实验/SI；首次线上与期日不同，CC BY和CC BY-NC-ND按文章分开，适配限实际显微方法子集。"
       ],
       "maintenanceTrigger": "新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。"
+    },
+    {
+      "candidateId": "journal-c71ce8ccf3",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-c71ce8ccf3",
+      "formalIds": [],
+      "limitations": [
+        "仅一个已读近年光学原Article与正式期日；另两个拟原文各两次技术失败，不能用题名/检索卷页补三原论文准入",
+        "JCR2025机构转载Q1明确版年/学科，非当前官方订阅复核；完整本刊稿型/费用/统计定义及MJL/CAS未知，已读编辑准则不能当所有指南均读"
+      ],
+      "maintenanceTrigger": "本刊合法新的光学原Article和完整出版史/不同正式期次、现行稿型价表或分类材料可读后再补三例判断；不第三次查未变化两次失败原页，不扩全部综合科学。"
+    },
+    {
+      "candidateId": "journal-20a7bc3621",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-20a7bc3621",
+      "formalIds": [],
+      "limitations": [
+        "两个实际光学原摘要/不同正式期次；第三拟原页两次失败，检索题名与日期不能充第三原例",
+        "本刊完整Manuscript Instructions两次技术失败/超响应上限，完整字数附件/费用和统计定义未读；当前MJL/CAS、EI覆盖年未知，JCR为2025/指标2024参考"
+      ],
+      "maintenanceTrigger": "合法新可读光学原研究和完整不同正式期次/出版史及本刊精简公开指南、费用或分类版本发布后补足三例再判；不请求PDF/镜像规避两次失败或响应上限。"
+    },
+    {
+      "candidateId": "journal-979d6300fd",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-979d6300fd",
+      "formalIds": [],
+      "limitations": [
+        "两个拟原光学Article遇403立即停止，未实读完整摘要/首次日/三正式期次，不以EI或Q1补适配样例",
+        "About原正文两次失败仅缓存，完整本刊稿规费用/周期、当前MJL/CAS及EI覆盖年未核；Research与Science/Research Future身份须分开"
+      ],
+      "maintenanceTrigger": "合法新公开本刊原光学Article、完整出版史和可读作者价表/分类材料出现后补三不同正式期次再判；不重访未变化403页，不借Science/其他SPJ稿规或预印本准入。"
+    },
+    {
+      "candidateId": "journal-9d948c73e0",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-9d948c73e0",
+      "formalIds": [],
+      "limitations": [
+        "本刊及作者页403已留证，近两年三不同正式期次光学原摘要/出版史未取得；访问失败不是无光学论文或停刊依据",
+        "身份/综合范围有AAAS正文、Q1有2025/指标2024二手版本，当前MJL/CAS/EI及本刊完整规则/价格/周期未知，不继承Science Advances或SPJ"
+      ],
+      "maintenanceTrigger": "合法新的本刊光学原研究/完整出版史及公开作者指南与分类版本可读后按三不同正式期次规则再核准入；不重访未变化403、不以其他刊或超窗口参考文献替代。"
+    },
+    {
+      "candidateId": "journal-c0da8e4b3c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-c0da8e4b3c",
+      "formalIds": [],
+      "limitations": [
+        "一个实际主刊THz原REPORT摘要但首发/正式期次未取得，另一拟REPORT安全验证立即停止；不足近两年三不同正式期次原研究",
+        "稿规只实读上述范围、外链附件与APC全价/生效税年未核；许可段落与页脚不同及前三年旧减免条件留证，不称当前免费；当前MJL/独立EI/CAS未核，该版ESCI Q1不转SCIE"
+      ],
+      "maintenanceTrigger": "主刊合法新公开原光学Article/Report及完整首发/正式期次、现行价格和许可一致说明/分类材料发布后核三原例再判；不重复安全验证源、不卡验证码或借姐妹刊扩大固定名单。"
     }
   ],
   "formalDataReviews": [

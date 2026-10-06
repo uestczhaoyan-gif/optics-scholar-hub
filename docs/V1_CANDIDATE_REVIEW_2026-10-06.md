@@ -467,3 +467,58 @@ Proceedings of the National Academy of Sciences；admitted；正式ID pnas。
 - 三原文章只审核完整公开摘要、类别/日期/正式期次和文章许可，未审全文实验/SI；首次线上与期日不同，CC BY和CC BY-NC-ND按文章分开，适配限实际显微方法子集。
 - 维护触发：新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。
 - 只新增本固定候选的正式记录与本次质量审查；旧111刊、其余272候选、其他data、旧账本/固定G4/G5/finalAcceptance及冻结范围保持。
+
+## V1-G3O
+
+完成固定名单最后五个综合刊的身份、实际范围、可读指南、分区版本与拟光学原研究审查。Nature一篇原摘要和本刊编辑政策成功，另两拟原文各两次技术失败；NSR政策与两个不同正式期次原摘要成功，第三篇两次技术失败；Research About两次失败、两拟原文403停止；Science本刊入口/作者页403停止、AAAS身份范围正文可读；Innovation主刊动态正文及本刊作者指南正常渲染成功、一篇THz原REPORT摘要成功，另一原REPORT安全验证立即停止。五刊仍不足三不同正式期次的可核原样例，保留pending，不以指标或访问失败替代准入证据。G3全部60项为实际审查收尾，G1/G6仍须验收。 固定60累计60项（8准入、52限制），余0未审；本批5全部保留pending。实际审查有范围、影响、触发，不因为数量或额度而填完成。
+
+## journal-c71ce8ccf3
+
+Nature；pending。
+
+- 原来源/真实范围：[官方范围](https://www.nature.com/nature/for-authors)。实读本刊For authors及Editorial criteria and processes：原创、科学重要性与跨领域兴趣为编辑判断，技术进展须带来广泛影响；0028-0836印刷/1476-4687在线实际页脚匹配。独立JCR2025/指标2024机构转载Q1已有版本依据，但只一个近年光学原Article成功，另两拟跨正式期次原文各两次技术失败，三例不足仍pending。
+- 本刊已读细则：[作者入口](https://www.nature.com/nature/for-authors)实读稿型与流程入口，Article/Review/Perspective/Matters Arising分开，presubmission enquiry为可选，稿件系统mts-nature仅链接、未登录。相关SI随评审，不称通读全部稿型模板。[编辑标准与流程](https://www.nature.com/nature/for-authors/editorial-criteria-and-processes)原正文成功：先编辑筛选后通常2–3评审、投稿信可选且不向评审公开；针对原Article的透明评审有日期/条件，不用网页无统计版年接受率或目标周数当个稿保证。About一次IdP500跳canonical journal-information，未实读简介正文不填完成。[Degree-of-polarization modulation for high-dimensional optical computing](https://www.nature.com/articles/s41586-026-10891-z)原Article完整摘要/出版史成功：657:377–384、正式期2026-09-10，Published/VOR2026-08-12、收2025-09-20/接2026-07-07；用相位SLM控制偏振统计形成高维光计算/分类与加密展示，不当通用产业计算机。另[Optical metasurfaces for general vision processing on the edge](https://www.nature.com/articles/s41586-026-10635-z)一次IdP500再InternalError、[Lu+ optical frequency references with accuracy verified at the 19th digit](https://www.nature.com/articles/s41586-026-11072-8)两次InternalError，检索日/卷期不充原史实核。最新MJL/CAS、完整Article字数/文件/匿名及APC税和全刊周期未核，不从Nature Physics等继承。
+- 未解决内容及影响：仅一个已读近年光学原Article与正式期日；另两个拟原文各两次技术失败，不能用题名/检索卷页补三原论文准入；JCR2025机构转载Q1明确版年/学科，非当前官方订阅复核；完整本刊稿型/费用/统计定义及MJL/CAS未知，已读编辑准则不能当所有指南均读
+- 维护触发：本刊合法新的光学原Article和完整出版史/不同正式期次、现行稿型价表或分类材料可读后再补三例判断；不第三次查未变化两次失败原页，不扩全部综合科学。
+
+## journal-20a7bc3621
+
+National Science Review；pending。
+
+- 原来源/真实范围：[官方范围](https://academic.oup.com/NSR/pages/Policies)。本刊Policies原正文成功：自然科学与交叉范围、单匿名评审、编辑初筛和CC BY，身份2095-5138/2053-714X与独立EI4126及JCR2025机构转载Q1匹配。两个不同正式期次光学原摘要/出版史实际成功，第三拟红外原文两次技术失败，三例尚不足；作者指南也两次失败，不以已有EI/Q1直接准入，保留pending。
+- 本刊已读细则：[Policies](https://academic.oup.com/NSR/pages/Policies)实读各自然科学方向、single-anonymised、科学/执行编辑筛选后通常推荐2–3评审、至少2报告及Associate Editor判断，iThenticate为可用筛查不声称每稿固定；CC BY与版权阶段已读，APC全价未读。旧Regular section偏综述/约稿描述与当前原Research Article并存，不能说本刊不接原研究。[Manuscript Instructions](https://academic.oup.com/nsr/pages/Manuscript_Instructions)首次InternalError、第二400正文超过4194305字节，停止；检索Research5000词/6图表/50refs只线索，不写已读完整现行硬规。[Configurable topological photonic polycrystal based on a synthetic hybrid dimension](https://academic.oup.com/nsr/article/12/6/nwaf107/8092649)原完整摘要/出版史一次成功、正常自动官方CDN：12(6)June2025:nwaf107，Published2025-03-24、Corrected/typeset2025-06-11、收2024-07-07/修2025-01-08/接2025-03-12；合成维度/全介电拓扑光子多晶与边/角模式，应用含光学/微波潜力，不把抽象原型一律称可见光片上已部署系统。[Imaginary Poynting momentum: polarization topology and versatile optical manipulation](https://doi.org/10.1093/nsr/nwag171)原完整摘要/出版史一次成功、正常自动官方CDN：13(11)June2026:nwag171，Published2026-03-17、Corrected/typeset2026-05-30、收2025-11-04/修2026-02-13/接2026-02-26；偏振拓扑/虚Poynting动量对应粒子旋转/多阱操控，量子/生物应用仅潜力。第三[Versatile tunable optical injection of chiral polarized Weyl fermions in a magnetic Weyl semimetal Co3Sn2S2](https://academic.oup.com/nsr/article/12/12/nwaf402/8266828)两次技术失败（第二官网自动CDN不可访问）；检索显示12(12)但未实读完整原摘要，不凑三例。nwag171原页为Journal Article且有自身模型/结果，非ResearchHighlight；未审任何全文实验/SI或登录订阅。
+- 未解决内容及影响：两个实际光学原摘要/不同正式期次；第三拟原页两次失败，检索题名与日期不能充第三原例；本刊完整Manuscript Instructions两次技术失败/超响应上限，完整字数附件/费用和统计定义未读；当前MJL/CAS、EI覆盖年未知，JCR为2025/指标2024参考
+- 维护触发：合法新可读光学原研究和完整不同正式期次/出版史及本刊精简公开指南、费用或分类版本发布后补足三例再判；不请求PDF/镜像规避两次失败或响应上限。
+
+## journal-979d6300fd
+
+Research；pending。
+
+- 原来源/真实范围：[官方范围](https://spj.science.org/page/research/about/)。官方About检索展开2018首个SPJ、AAAS合作CAST旗下Science and Technology Review Publishing House、本刊生命/物理科学和工程原研究范围；与Science编辑独立，2639-5274及独立EI5078/JCR2025机构转载Q1身份匹配。About两次技术失败，两个拟光学原Article均第二403停止，完整原摘要/三正式期次与现行完整稿规不足，保留pending。
+- 本刊已读细则：[官方About](https://spj.science.org/page/research/about/)两次InternalError，仅官方检索缓存实际展开scope、原Article/Review/Perspective/Editorial、OA/CC BY连续发表线索，不写原About正文已读。Research Future/eISSN3143-4665、Ultrafast Science和Photonics Research不是本刊，不继承综述专刊或其费用规则。独立EI表Research/20965168/26395274/AAAS精确匹配；JCR2025第522页JIF Q1/AIS Q1只该版参考。拟[Vision Gaze-Driven Micro-Electro-Mechanical Systems Light Detection and Ranging Optimization](https://spj.science.org/doi/abs/10.34133/research.0756)首次InternalError、第二403；拟[Multimodal, Multiband, and Multiple Anticounterfeiting Devices with Angle-Dependent Structural Color Highly Sensitive to Temperature](https://spj.science.org/doi/abs/10.34133/research.0919)首次InternalError、第二403，立即停止整个平台原文补取。官方检索给vol8/2025日仅发现线索，未读取完整原摘要/出版史、不当三原例，作者字数/匿名/附件/现行APC税豁免和统计周期明确未知，未登录或切镜像。
+- 未解决内容及影响：两个拟原光学Article遇403立即停止，未实读完整摘要/首次日/三正式期次，不以EI或Q1补适配样例；About原正文两次失败仅缓存，完整本刊稿规费用/周期、当前MJL/CAS及EI覆盖年未核；Research与Science/Research Future身份须分开
+- 维护触发：合法新公开本刊原光学Article、完整出版史和可读作者价表/分类材料出现后补三不同正式期次再判；不重访未变化403页，不借Science/其他SPJ稿规或预印本准入。
+
+## journal-9d948c73e0
+
+Science；pending。
+
+- 原来源/真实范围：[官方范围](https://www.science.org/journal/science)。AAAS官方backissues正文实际确认Science/AAAS与综合科学身份，0036-8075/1095-9203在JCR2025机构转载第522页实际文本/视觉匹配、该版JIF Q1。Science本刊入口首次403、作者页技术失败后403立即停止；官方域名光学检索未取得可读近年三原样例，保留pending，不能只因著名综合刊/Q1而准入。
+- 本刊已读细则：[AAAS官方身份范围](https://backissues.science.org/)正文一次成功：Science由AAAS出版、1880创刊及跨学科重要发现例子；仅身份/广范围，未点击购物/会员或登录。[本刊主页](https://www.science.org/journal/science)首次403停止；[Science information for authors](https://www.science.org/content/page/science-information-authors)先InternalError再403，不尝试浏览器绕过。[2025出版社media kit](https://advertising.science.org/wp-content/uploads/2025/01/2025_Science_MediaKit_final_links.pdf)官方检索weekly/peer-review across sciences只背景缓存，不充本刊原指南或3例。针对science.org光学DOI检索未取得可读原研究，泛检索的Nature/SPJ论文排除；NSR参考文献中的2021 Science光学论文超两年窗口，不用作当前样例。本刊完整稿型字数/匿名/初投附件、出版费与统计版年未知；没有操作验证码/投稿/购买。
+- 未解决内容及影响：本刊及作者页403已留证，近两年三不同正式期次光学原摘要/出版史未取得；访问失败不是无光学论文或停刊依据；身份/综合范围有AAAS正文、Q1有2025/指标2024二手版本，当前MJL/CAS/EI及本刊完整规则/价格/周期未知，不继承Science Advances或SPJ
+- 维护触发：合法新的本刊光学原研究/完整出版史及公开作者指南与分类版本可读后按三不同正式期次规则再核准入；不重访未变化403、不以其他刊或超窗口参考文献替代。
+
+## journal-c0da8e4b3c
+
+The Innovation；pending。
+
+- 原来源/真实范围：[官方范围](https://www.the-innovation.org/the-innovation/authors)。主刊ISSN2666-6758、Cell Press partner和跨学科范围实际动态页面/本刊作者指南正常渲染成功，独立JCR2025机构转载为ESCI/JIF Q1，不换SCIE。一个主刊THz原REPORT完整摘要可读，首次日与正式期次尚缺；另一拟REPORT首遇安全验证已停止平台进一步访问，三原例不足保留pending。
+- 本刊已读细则：[出版社刊群](https://www.the-innovation.org/innovation-press/journals/)原正文与[主刊](https://www.the-innovation.org/the-innovation)正常浏览器渲染成功，先文本提取只有模板，第二正常渲染实际显示主刊2666-6758、2020-05创刊、当前主刊/各姐妹刊独立。官网EI/ESCI等声明只是出版社层；CAS Journal Ranking(T1)不是中科院分区。本刊作者导航实际跳[the-innovation/authors](https://www.the-innovation.org/the-innovation/authors)，一次成功实读：单匿名，初筛后至少两评审；Article约6000词/8图表/约100refs，Report约4000/6/约80，单段无引文摘要≤250词，投稿信随稿，EM分文件编译PDF、审稿人不见投稿信，返修逐点回应与Track Changes。普通3周/fast-track1周是努力目标与编辑酌情，首页2.18周/4.7天/0.88周无统计版年，不能当保证。全Gold OA有APC但未读价表；早期前三年应申请免OA费不是2026普遍免费，图形润色按工作量另计、豁免条件需咨询，许可章节可选CC BY或CC BY-NC-ND与页脚单CC BY口径差异保留。本次未通读外链表单/图示PDF、全部伦理或实际投稿。[Flexible ultrafast spintronic terahertz emitter with exceptional working temperature range](https://www.the-innovation.org/article/id/6a4375dac757f1df94c357ad)主刊原REPORT完整摘要/公共摘要一次成功：柔性NiFe/SrRuO3/SrTiO3/mica近红外激发0–4THz、自旋Hall、曲率应变与80–500K范围，极端环境应用是潜力非已月球部署；原提取无首发/卷期不造日期。[Photoluminescent-assisted hierarchical metafabric sunshade for high-efficient passive cooling](https://www.the-innovation.org/article/id/6a6c67fce6c74062b788d1a6)首次跳captcha/page安全验证（访问频率提示），即停所有进一步平台原文访问、未点击验证成功文案/解验证码/换浏览器或PDF。News photon-counting CT、Gradient-Doped SnO2 Commentary及Geoscience论文不充主刊原例。
+- 未解决内容及影响：一个实际主刊THz原REPORT摘要但首发/正式期次未取得，另一拟REPORT安全验证立即停止；不足近两年三不同正式期次原研究；稿规只实读上述范围、外链附件与APC全价/生效税年未核；许可段落与页脚不同及前三年旧减免条件留证，不称当前免费；当前MJL/独立EI/CAS未核，该版ESCI Q1不转SCIE
+- 维护触发：主刊合法新公开原光学Article/Report及完整首发/正式期次、现行价格和许可一致说明/分类材料发布后核三原例再判；不重复安全验证源、不卡验证码或借姐妹刊扩大固定名单。
+
+### V1-G3O：共同证据与保护
+
+复用并只查这五个新目标的官方Compendex原缓存，SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；SERIALS2026-08-07 NSR第4126行/20955138/2053714X/OUP及Research第5078行/20965168/26395274/AAAS匹配，DISCONTINUED2026-05-01无这两个目标，覆盖起止/单篇入库未知。其余精确名/号未取得匹配，不据此断言历年无EI；Innovation主刊官网EI只出版社声明，不充独立数据库结果。JCR2025机构转载缓存SHA25686f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274，文本与整页视觉核对第521/522页：NSR/Nature/Research/Science为该版SCIE JIF Q1/AIS Q1，Innovation为该版ESCI JIF Q1/AIS Q1，均MULTIDISCIPLINARY SCIENCES；只作为2025发布/指标2024二手版本参考，不冒充当前MJL/订阅JCR、2026最新或CAS。成功全文段落、检索缓存与失败逐项区分；缓存读取不新增源请求，正常官网自动CDN重定向未手动改cookie/镜像/PDF。403/安全验证立即停，技术失败累计两次停。缺三近年原样例或未读稿规不等于没有光学研究、停刊或永不准入。
+
+[Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他268候选、全部正式目录及冻结范围和旧审查保持。

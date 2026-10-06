@@ -3602,13 +3602,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
+    "scopeHint": "综合自然科学中的光子拓扑、偏振光力和红外光物质相互作用子集；Review/Highlight不充原研究",
+    "sourceEntry": "https://academic.oup.com/NSR/pages/Policies",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "本刊Policies原正文成功：自然科学与交叉范围、单匿名评审、编辑初筛和CC BY，身份2095-5138/2053-714X与独立EI4126及JCR2025机构转载Q1匹配。两个不同正式期次光学原摘要/出版史实际成功，第三拟红外原文两次技术失败，三例尚不足；作者指南也两次失败，不以已有EI/Q1直接准入，保留pending。",
+    "nextAction": "合法新可读光学原研究和完整不同正式期次/出版史及本刊精简公开指南、费用或分类版本发布后补足三例再判；不请求PDF/镜像规避两次失败或响应上限。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-c71ce8ccf3",
@@ -3616,13 +3616,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
+    "scopeHint": "综合科学中的光学计算、超表面、精密光频方法子集；需重大原创发现与跨领域意义，不扩全刊内容",
+    "sourceEntry": "https://www.nature.com/nature/for-authors",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读本刊For authors及Editorial criteria and processes：原创、科学重要性与跨领域兴趣为编辑判断，技术进展须带来广泛影响；0028-0836印刷/1476-4687在线实际页脚匹配。独立JCR2025/指标2024机构转载Q1已有版本依据，但只一个近年光学原Article成功，另两拟跨正式期次原文各两次技术失败，三例不足仍pending。",
+    "nextAction": "本刊合法新的光学原Article和完整出版史/不同正式期次、现行稿型价表或分类材料可读后再补三例判断；不第三次查未变化两次失败原页，不扩全部综合科学。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-91444c745c",
@@ -3672,13 +3672,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
+    "scopeHint": "Research独立SPJ综合原研究中的激光雷达、光学结构色/器件子集；不等同Science或Research Future",
+    "sourceEntry": "https://spj.science.org/page/research/about/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方About检索展开2018首个SPJ、AAAS合作CAST旗下Science and Technology Review Publishing House、本刊生命/物理科学和工程原研究范围；与Science编辑独立，2639-5274及独立EI5078/JCR2025机构转载Q1身份匹配。About两次技术失败，两个拟光学原Article均第二403停止，完整原摘要/三正式期次与现行完整稿规不足，保留pending。",
+    "nextAction": "合法新公开本刊原光学Article、完整出版史和可读作者价表/分类材料出现后补三不同正式期次再判；不重访未变化403页，不借Science/其他SPJ稿规或预印本准入。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-9d948c73e0",
@@ -3686,13 +3686,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
+    "scopeHint": "AAAS Science综合科学中的重大光学原发现子集；Science Advances、SPJ及旧光学论文不能代替本刊近年三例",
+    "sourceEntry": "https://www.science.org/journal/science",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "AAAS官方backissues正文实际确认Science/AAAS与综合科学身份，0036-8075/1095-9203在JCR2025机构转载第522页实际文本/视觉匹配、该版JIF Q1。Science本刊入口首次403、作者页技术失败后403立即停止；官方域名光学检索未取得可读近年三原样例，保留pending，不能只因著名综合刊/Q1而准入。",
+    "nextAction": "合法新的本刊光学原研究/完整出版史及公开作者指南与分类版本可读后按三不同正式期次规则再核准入；不重访未变化403、不以其他刊或超窗口参考文献替代。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-26240bd42e",
@@ -3728,13 +3728,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
+    "scopeHint": "The Innovation主刊的光学/THz/光子材料原Article或Report子集；不混姐妹Photonics/Materials/Geoscience或News/Commentary",
+    "sourceEntry": "https://www.the-innovation.org/the-innovation/authors",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "主刊ISSN2666-6758、Cell Press partner和跨学科范围实际动态页面/本刊作者指南正常渲染成功，独立JCR2025机构转载为ESCI/JIF Q1，不换SCIE。一个主刊THz原REPORT完整摘要可读，首次日与正式期次尚缺；另一拟REPORT首遇安全验证已停止平台进一步访问，三原例不足保留pending。",
+    "nextAction": "主刊合法新公开原光学Article/Report及完整首发/正式期次、现行价格和许可一致说明/分类材料发布后核三原例再判；不重复安全验证源、不卡验证码或借姐妹刊扩大固定名单。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "conference-series-aop-spof",
