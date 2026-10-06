@@ -3895,6 +3895,116 @@
         "原摘要/元数据复用非全文/SI，第一紫外为理论非实测，后光随机网络与光通信为原概念/实验条件；年度卷非数字期。"
       ],
       "maintenanceTrigger": "本刊PolicyGuide/价格统计、合法分类覆盖或原样例更正出现后维护，不继承别刊段落顺序与周期。"
+    },
+    {
+      "kind": "journal",
+      "id": "chemical-reviews",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c617b082a1053e8c9fa464b62e8604cda52dd5a89787c87f713e8ea10ce6d575",
+      "formalReviewBase": "4261a2d659792bf7e9d36b34febe01bdeb83ddfb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#chemical-reviews",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通综述全部摘要/图/模板细项、当前APC/税与机构协议、明确本刊统计未知；不把编辑常见处理时间当承诺，proposal获批也不替代同行评审。",
+        "JCR单分类2025secondary非当前2026全分类/CAS，索引覆盖年和单篇未知；三原摘要出版史非全文/SI审核，综述适配不代表原创稿可投。"
+      ],
+      "maintenanceTrigger": "本刊提案/稿型/收费统计或合法分类覆盖更新、原综述修订后维护；不以三样例替代邀稿条件。"
+    },
+    {
+      "kind": "journal",
+      "id": "acs-nano",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ea6f6bf552c8dc77eaa0adcd992df904b2597014168e6727781b330acc151a6b",
+      "formalReviewBase": "4261a2d659792bf7e9d36b34febe01bdeb83ddfb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#acs-nano",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "全部晶体/生物构建体专项清单、提案原未完句、部分稿型详细篇幅/当前APC税协议与周期未知；Level1不能替代专项存档，未登录PublishingCenter。",
+        "JCR2026全分类/CAS及覆盖年单篇未知，三原摘要非全文/SI/原始数据，不能推量产或临床获批。"
+      ],
+      "maintenanceTrigger": "本刊coden新指南/专项清单及清楚提案句、收费统计或合法分区覆盖和原论文更正时维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "nano-letters",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6045569838a1780e54786f59553b6e87d6b68e925ec6c35255a341d9e8eb6013",
+      "formalReviewBase": "4261a2d659792bf7e9d36b34febe01bdeb83ddfb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nano-letters",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "全部专项表征/模板内部/返修清单细项、APC税与机构协议和本刊统计未知；稿型建议不变硬限，邀稿提案阶段不混。",
+        "CAS/2026所有分类/覆盖单篇年未知，旧中文概述非全部英文原题回填/全文SI，体内成像非临床/同波长非合作发射已实现。"
+      ],
+      "maintenanceTrigger": "本刊新稿型/专项材料/费用统计、合法分类覆盖或原论文更正出现后维护，不复查未变化源。"
+    },
+    {
+      "kind": "journal",
+      "id": "inorganic-chemistry",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4d72c3e06dd7f87954c2130b2e98d8dbc6125362fd5e25919b77984c00a9b81d",
+      "formalReviewBase": "4261a2d659792bf7e9d36b34febe01bdeb83ddfb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#inorganic-chemistry",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "研究对象完整DataRequirements/结构纯度文件或模板、当前APC税协议与本刊周期未知；具体表征按研究对象，不把普通摘要规则当所有稿型同样。",
+        "JCR2026全分类/CAS、索引覆盖年单篇未知；原摘要/出版史非完整数据/实验SI审计，中文概述非新英文原题。"
+      ],
+      "maintenanceTrigger": "本刊研究对象DataRequirements或新版稿型/费用统计、合法分类覆盖和原论文更正后维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "acs-sensors",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "59233b5cb76ec68c639635c9fff9fcdf83ff2edc3cf5f72a1a4207300612270f",
+      "formalReviewBase": "4261a2d659792bf7e9d36b34febe01bdeb83ddfb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#acs-sensors",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "临界页限冲突、具体摘要词数与完整专项清单/模板、当前APC税协议/本刊周期未知；不以指南明确收录索引/费用。",
+        "JCR2026全分类/CAS/覆盖年单篇未知；旧三原摘要及第三器件引言非全文SI审计，不外推工业部署/临床批准/安全认证。"
+      ],
+      "maintenanceTrigger": "本刊统一页数冲突与新版摘要/专项指南、费用统计/合法分类覆盖或原论文更正时维护。"
     }
   ],
   "coreSeriesReviews": [

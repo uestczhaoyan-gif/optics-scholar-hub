@@ -810,3 +810,62 @@ Communications Physics；Nature Portfolio · Springer Nature；原checkedAt 2026
 - 未解决内容及影响：完整PolicyGuide声明/附信与数据代码清单未核、系统内部未知；CAS/2026全分类、覆盖年单篇与当前周期无依据，个体APC减免不保证。；原摘要/元数据复用非全文/SI，第一紫外为理论非实测，后光随机网络与光通信为原概念/实验条件；年度卷非数字期。
 - 维护触发：本刊PolicyGuide/价格统计、合法分类覆盖或原样例更正出现后维护，不继承别刊段落顺序与周期。
 - 全字段内容摘要c935e96f5bd2d78a593275f5d07f191530db08f6e659ecf0bb08bb346b864b39，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2R
+
+实际全文读取五刊当前JSON、原9/14和9/15各coden作者指南记录、E14独立2026-08-27版Fast Format/SI/数据等级，以及E20/E21/E27/E30完整原摘要/出版史范围与G4五刊正式期次结论。只复用已有实际官方证据做字段质量及关联审核，不重新联网读不变指南/原文、重复扫索引或刷新data日期；综述/研究、硬限与建议、初投/返修/发表阶段、共享等级/专项存档和明确未知逐项审查。 本次正式字段质量累计123/252，余129未审；G3 42/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## chemical-reviews
+
+Chemical Reviews；American Chemical Society；原checkedAt 2026-09-11，admitted候选journal-819860e9dd一对一。
+
+- 全部字段与原依据：[本刊指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=chreay)；[原记录1](VERIFICATION_LOG.md#2026-09-15两刊综述提案与材料)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e30chemical-reviews三条综述路径2026-10-04)、[原记录3](V1_SCOPE_REVIEW_2026-10-05.md#chemical-reviews)。0009-2665/e1520-6890，系统批判性化学综述，与ACS普通Article独立；JIF2025指标2024化学多学科Q1secondary/MJL精确SCIE/EI753独立。无邀请或获批proposal不受理全文，官方模板/总≤5页含2–3提纲、五本人相关论文/已有综述章节/预计refs与双距页数/计划日；提交提案及邀稿全文各≥5建议审稿人，提案批准不保证全文录用。FocusReview≤20出版页约60双距投稿页含图表refs不能套普通综述。125(12)/126(1)/126(2)原三Review为动态结构色、光胶体组装、BioTOP光学成像治疗综述，非本文新器件或新临床结果；OpticalColloidal首次2025-12-09非2026卷年。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=92)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=0009-2665&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0009-2665 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 753 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：普通综述全部摘要/图/模板细项、当前APC/税与机构协议、明确本刊统计未知；不把编辑常见处理时间当承诺，proposal获批也不替代同行评审。；JCR单分类2025secondary非当前2026全分类/CAS，索引覆盖年和单篇未知；三原摘要出版史非全文/SI审核，综述适配不代表原创稿可投。
+- 维护触发：本刊提案/稿型/收费统计或合法分类覆盖更新、原综述修订后维护；不以三样例替代邀稿条件。
+- 全字段内容摘要c617b082a1053e8c9fa464b62e8604cda52dd5a89787c87f713e8ea10ce6d575，基于4261a2d659792bf7e9d36b34febe01bdeb83ddfb；不是官网内容指纹，不表示未知已补齐。
+
+## acs-nano
+
+ACS Nano；American Chemical Society；原checkedAt 2026-09-11，admitted候选journal-0062f1323b一对一。
+
+- 全部字段与原依据：[本刊指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=ancac3)；[原记录1](VERIFICATION_LOG.md#2026-09-15两刊综述提案与材料)、[原记录2](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e14afm-制作要求三刊-acs-数据政策与-nml-收费冲突)、[原记录3](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e20acs-nano--science-advances)。1936-0851/e1936-086X，纳米交叉；JIF2025指标2024化学Q1secondary/MJL SCIE/EI88独立。Article摘要250不宣称新颖/引言≤1000无Intro标题/5–7关键词、R或D/Conclusions/Methods与独立SI及返修checklist。非邀稿Review/Perspective须1–2页提案批准，相关五本人论文/已有综述/约400词概要，原未完句不补；Review摘要250关键词8–10术语5–7、Perspective摘要120不混Article。2026-08-27FastFormat完整refs含题名/图嵌正文/无批注，SI同时供发表与审稿分开/具体内容扩展名说明置致谢refs前。Level1鼓励数据DAS/公共仓库和数据引用，不写所有数据强制公开，专项存档另查。19(12)/19(48)/20(16)原摘要超表面微流控/双模探测/热释电窄带为原实测条件。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=91)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=1936-0851&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1936-0851 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 88 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：全部晶体/生物构建体专项清单、提案原未完句、部分稿型详细篇幅/当前APC税协议与周期未知；Level1不能替代专项存档，未登录PublishingCenter。；JCR2026全分类/CAS及覆盖年单篇未知，三原摘要非全文/SI/原始数据，不能推量产或临床获批。
+- 维护触发：本刊coden新指南/专项清单及清楚提案句、收费统计或合法分区覆盖和原论文更正时维护。
+- 全字段内容摘要ea6f6bf552c8dc77eaa0adcd992df904b2597014168e6727781b330acc151a6b，基于4261a2d659792bf7e9d36b34febe01bdeb83ddfb；不是官网内容指纹，不表示未知已补齐。
+
+## nano-letters
+
+Nano Letters；American Chemical Society；原checkedAt 2026-09-11，admitted候选journal-6c22a27b7e一对一。
+
+- 全部字段与原依据：[本刊指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=nalefd)；[原记录1](VERIFICATION_LOG.md#2026-09-14acs-三刊现行作者指南)、[原记录2](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e14afm-制作要求三刊-acs-数据政策与-nml-收费冲突)、[原记录3](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e27nano-letters--inorganic-chemistry)。1530-6984/e1530-6992，至少两学科交汇；JIF2025指标2024化学Q1secondary/MJL SCIE/EI4099独立。Letters1500–4000词与3–6图示为建议，摘要150硬限/连续正文无独立标题，复现但非主线内容单独SI/cover意义影响及时性。MiniReview3000–6000通常仅邀稿，Viewpoint/Perspective/Tutorial邀稿，不由可建议主题推自由全文。2026-08-27FastFormat refs含题名/图正文无批注，不取消Letter规则；SI同时/用途两种及内容扩展名说明，Level1鼓励DAS非强制全部公开。25(18)/26(6)/26(10)原灰度SHG/NIR-II Pdots/电调量子点光学摘要，最后原明确尚未演示cooperative emission；首2026-01-20与3/18期日分开。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=95)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=1530-6984&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1530-6984 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 4099 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：全部专项表征/模板内部/返修清单细项、APC税与机构协议和本刊统计未知；稿型建议不变硬限，邀稿提案阶段不混。；CAS/2026所有分类/覆盖单篇年未知，旧中文概述非全部英文原题回填/全文SI，体内成像非临床/同波长非合作发射已实现。
+- 维护触发：本刊新稿型/专项材料/费用统计、合法分类覆盖或原论文更正出现后维护，不复查未变化源。
+- 全字段内容摘要6045569838a1780e54786f59553b6e87d6b68e925ec6c35255a341d9e8eb6013，基于4261a2d659792bf7e9d36b34febe01bdeb83ddfb；不是官网内容指纹，不表示未知已补齐。
+
+## inorganic-chemistry
+
+Inorganic Chemistry；American Chemical Society；原checkedAt 2026-09-11，admitted候选journal-ee6a559ba5一对一。
+
+- 全部字段与原依据：[本刊指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=inocaj)；[原记录1](VERIFICATION_LOG.md#2026-09-15inorganic-chemistry-作者指南)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e27nano-letters--inorganic-chemistry)、[原记录3](V1_SCOPE_REVIEW_2026-10-05.md#inorganic-chemistry)。0020-1669/e1520-510X，无机化学核心新认识非只器件性能；JIF2025指标2024无机核化学Q1secondary/MJL SCIE/EI2301独立。2026-08-27本刊Article无统一长度/Communication≤2200含摘要正文图注TOC不含refs、cover紧迫重要、摘要200/每篇TOC、通信无分节实验完整SI/晶体文件适用。Review邀稿或建议提案≤10000，Viewpoints通常邀稿也提案5–10出版页，不写自由投综述；预印本投稿前可并披露引用，审理期间不鼓励更新非禁止。65(34)/65(26)/63(51)稀土缺陷/Pt蓝OLED/POM光谱与TDDFT/超瑞利测量范围，Pt首6/22不采发现6/21，非已集成器件结论。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, INORGANIC & NUCLEAR/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=88)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=0020-1669&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0020-1669 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 2301 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：研究对象完整DataRequirements/结构纯度文件或模板、当前APC税协议与本刊周期未知；具体表征按研究对象，不把普通摘要规则当所有稿型同样。；JCR2026全分类/CAS、索引覆盖年单篇未知；原摘要/出版史非完整数据/实验SI审计，中文概述非新英文原题。
+- 维护触发：本刊研究对象DataRequirements或新版稿型/费用统计、合法分类覆盖和原论文更正后维护。
+- 全字段内容摘要4d72c3e06dd7f87954c2130b2e98d8dbc6125362fd5e25919b77984c00a9b81d，基于4261a2d659792bf7e9d36b34febe01bdeb83ddfb；不是官网内容指纹，不表示未知已补齐。
+
+## acs-sensors
+
+ACS Sensors；American Chemical Society；原checkedAt 2026-09-11，admitted候选journal-f49cf8d803一对一。
+
+- 全部字段与原依据：[本刊指南](https://researcher-resources.acs.org/publish/author_guidelines?coden=ascefj)；[原记录1](VERIFICATION_LOG.md#2026-09-14acs-三刊现行作者指南)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e21acs-sensors三独立期次)、[原记录3](V1_SCOPE_REVIEW_2026-10-05.md#acs-sensors)。e2379-3694/null印刷，选择性物种过程分析/复杂样本验证；JIF2025指标2024分析化学Q1secondary/MJL SCIE/EI90独立，原EI注記ISSN匹配仅身份不称印刷列。需不确定度/标准方法对比/复杂样本性能。页首<8/<4与稿型8/4建议差异保留，不称Word页/硬定边界；页含refs图表不含TOC、超长cover理由；摘要目标方法结果组织/TOC，cover目标适配通讯SI/4建议审稿人。Perspective通常邀稿≤10可咨询，Review≤20非邀稿编辑酌情/8–10关键词5–7术语不套Letter。10(7)/10(12)/11(2)原荧光稀土/超临界角生物传感/LED手机便携尿胆素水样，4/23与7/25首期隔数月保留，非全部病原或饮水认证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, ANALYTICAL/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=84)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=2379-3694&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2379-3694 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-09-30 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 来源表：SERIALS 版本 2026-08-07，第 90 行，刊名与 ISSN 匹配；同时核对 DISCONTINUED（2026-05-01 版）无匹配。证据为数据库方公开来源表，未进行订阅平台单篇检索；清单不提供覆盖起止年，不以清单更新日推断覆盖起点。
+- 未解决内容及影响：临界页限冲突、具体摘要词数与完整专项清单/模板、当前APC税协议/本刊周期未知；不以指南明确收录索引/费用。；JCR2026全分类/CAS/覆盖年单篇未知；旧三原摘要及第三器件引言非全文SI审计，不外推工业部署/临床批准/安全认证。
+- 维护触发：本刊统一页数冲突与新版摘要/专项指南、费用统计/合法分类覆盖或原论文更正时维护。
+- 全字段内容摘要59233b5cb76ec68c639635c9fff9fcdf83ff2edc3cf5f72a1a4207300612270f，基于4261a2d659792bf7e9d36b34febe01bdeb83ddfb；不是官网内容指纹，不表示未知已补齐。
