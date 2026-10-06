@@ -419,3 +419,91 @@ International Conference on Infrared, Millimeter, and Terahertz Waves 2028；202
 - 未解决内容及影响：注册贡献数量冲突、海报独立截止、系统内部/完整费率/摘要集实际索引未知。；当届旧终日差异保留；2027JRS会后截稿不是下一届会议，下一届日城CFP未知，不绕过Wiley受限域。
 - 维护触发：主办方更正贡献/旧终日或独立下一届正式公告后维护；专刊规则与会议路线各自审查。
 - 完整记录内容摘要40b016653ae5091e6d36f77907ff1f6bdb1e8b8930179a306a6adfb4e0b8eef3，基于46735afbc1b2b37f4d781e4c3b70d154c603cd17；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2X
+
+实际完整读取六届当前JSON、各稳定系列和admitted关联，复核原9/9–10当届字段与9/10、9/14、9/30日志、C8/C9已成功读取的官方范围；只ODF2027/Biophotonics2027本届征稿正文第二次有效核验成功（9/10原记录计首次），其余旧届/已多次不变来源不再请求。当前两页仅实际正文/投稿和报告方式，不下载模板或登录系统；原checkedAt、全部data、冻结范围不刷新，真实未知保留。 累计正式质量154/252，余98未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## cos-2026
+
+Chinese Optical Society Academic Conference；2026；COS 年会/series-884b2e9cc2a9；admitted关联conference-series-884b2e9cc2，原checkedAt 2026-09-09。
+
+- 身份/当届来源：[原入口](https://meeting.cncos.org.cn/cosconf2026/index.htm)、[原通知](https://meeting.cncos.org.cn/cosconf2026/index.htm)；[原实际记录1](VERIFICATION_LOG.md#下一批核验队列)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c9国内与亚太后续公告六系列与一个母展)。
+- 全字段审阅范围：中国光学学会深圳2026年学术大会身份与COS稳定系列、既有admitted对应，和同场CIOE母展、COS长春学术活动分别保存，不把9/10–12移成母展或2027日城。原官方摘要7/15、最迟录用7/22和统一印制海报8/20都是日期级，不补时刻/时区；海报统一上传不是摘要初稿/注册付款截止。原摘要模板、注册后在线提交、分会决定口头/张贴、录用后PDF海报和自行张贴的范围逐项检查，未打开后台或模板内部。报告录用与推荐期刊独立审稿分别表示，不能推成SCI出版或检索。C9实际仅大会主页、学会国内会议首页及CIOE表，未取得本系列2027具体公告，未查八页历史目录。closed是原投稿状态，不等于今天注册关闭或2027已征稿。
+- 日城与范围：2026-09-10–2026-09-12；中国 · 深圳；深圳国际会展中心；submissionState closed。
+- 逐字段截止及出处：摘要截止：2026-07-15 [来源](https://meeting.cncos.org.cn/cosconf2026/index.htm)；摘要录用通知最迟日期：2026-07-22 [来源](https://meeting.cncos.org.cn/cosconf2026/index.htm)；统一印制海报上传截止：2026-08-20 [来源](https://meeting.cncos.org.cn/cosconf2026/index.htm)；注册截止：未知 [来源](https://meeting.cncos.org.cn/cosconf2026/index.htm)
+- 本届条件出版原字段：大会系统的“录用”仅表示报告入选，推荐期刊有独立审稿流程；不能把会议报告当作已发表 SCI 论文。
+- 本届范围/冲突原备注：官网显示摘要投稿已截止，参会注册已开放。注册截止时刻未公布在已核实内容中。
+- 未解决内容及影响：当届最终注册截止时刻/日期、费用与最终会场分会细节仍未核实，未知不可用于付款或行程保证；推荐期刊名单和逐篇独立录用/出版未知，会议录用不能替代；下一届日城及CFP未知，CIOE2027或长春大会不能补入COS深圳年会
+- 维护触发：本系列独立新届公告、当届正式作者/注册通知或推荐期刊实际决定出现时按对应字段维护；不重复查询不变2026主页。
+- 完整记录内容摘要e37c1b8c2b93616d6a68915b0f93535a7f17ef651485cda14f191fedd2c45692，基于83608e65e976afa2db5777c2eec8f415c1935684；非官网内容指纹，未知不冒充已补齐。
+
+## fio-2026
+
+Frontiers in Optics + Laser Science；2026；FiO + LS/series-9ca5e7bc1abb；admitted关联conference-series-9ca5e7bc1a，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://www.frontiersinoptics.com/)、[原通知](https://www.frontiersinoptics.com/submissions/author-timeline)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14临近截止与-fio-历史通知补齐)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c8后续届次与系列复查六系列)。
+- 全字段审阅范围：FiO+LS2026罗切斯特技术会9/27–10/1、会场Floreano，产业展示9/29–30单独，不混C8已核实2027西雅图技术9/26–30和产业9/28–29。ordinary6/2中午EDT、早鸟8/14 23:59 EDT、PDP9/9中午EDT都有America/New_York/UTC−04实际来源，9/18 PDP通知和7/3普通/海报通知仅日期。9/14日志仅补普通通知不刷新全条目；9/30时间线仍2026，过去截止不恢复未来提醒。普通35词摘要/2页summary使用当届版权年，PDP独立新成果和通知通道不能把未投普通论文作为补交。原publication仅本届注册/报告/版权条件，不声明每篇已出版/检索。C8首页已切2027、投稿/注册仍2026，动态URL未来变更不能覆写2026历史字段或把旧两页/费率继承2027。
+- 日城与范围：2026-09-27–2026-10-01；美国 · 罗切斯特；Joseph A. Floreano Rochester Riverside Convention Center；submissionState published。
+- 逐字段截止及出处：普通论文截止：2026-06-02T12:00:00-04:00 / America/New_York [来源](https://www.frontiersinoptics.com/submissions/author-timeline)；早鸟注册截止：2026-08-14T23:59:00-04:00 / America/New_York [来源](https://www.frontiersinoptics.com/registration)；PDP 截止：2026-09-09T12:00:00-04:00 / America/New_York [来源](https://www.frontiersinoptics.com/submissions/author-timeline)；PDP 录用通知：2026-09-18 [来源](https://www.frontiersinoptics.com/submissions/author-timeline)；普通论文及海报录用通知：2026-07-03 [来源](https://www.frontiersinoptics.com/submissions/author-timeline)
+- 本届条件出版原字段：摘要录用、参会报告和论文出版手续分别核实；按当届作者指南完成注册、报告及版权。
+- 本届范围/冲突原备注：PDP 已于美国东部时间 9 月 9 日中午截止；产业展示为 9 月 29–30 日，与技术会议日期不同。
+- 未解决内容及影响：本轮未重新核实2026最终作者付款/版权/实际出版和no-show细则，原条件不能当作单篇检索证明；2027只有独立会期/会场公告，CFP和注册完整规则仍未知，动态通用入口存在年份错配；普通与PDP报告/出版及口头海报具体安排未全量内审，未登录
+- 维护触发：FiO按年份的新征稿/注册/正式文集公告出现后逐届更新；保留2026时间线来源版本，不从会后页面消失推断旧截止撤销。
+- 完整记录内容摘要9110957e6b5b720137e291651fdb21f2116a252f32ce3932c4c7397d8f541c06，基于83608e65e976afa2db5777c2eec8f415c1935684；非官网内容指纹，未知不冒充已补齐。
+
+## odf-2027
+
+Optica Optical Design and Fabrication Congress；2027；Optica ODF/series-8bb528917eaf；admitted关联conference-series-8bb528917e，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/congress/optical_design_and_fabrication_congress/)、[原通知](https://www.optica.org/events/congress/optical_design_and_fabrication_congress/submit_papers/)；[原实际记录1](https://www.optica.org/events/congress/optical_design_and_fabrication_congress/submit_papers/)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)。
+- 全字段审阅范围：本届征稿正文第二次有效核验明确Antwerp/Hilton、2027/4/11–15，12/1/2026 12:00 Eastern UTC−05，对应EST而非夏令EDT。35词独立摘要须与2页PDF内摘要相同，正文列题目/全体作者单位/2027作者版权/他人图像许可与嵌入字体；在线系统电子版权协议，不接收邮件传真，截止后不能修改。委员会可决定报告形式，只选oral或poster存在因安排不能匹配而拒绝风险。主办方表述录用且报告后平台出版和索引支持，是出版条件及组织声明，不是逐篇即时检索证据。仅读征稿正文与模板链接，未下载PDF/Word/Overleaf或提交。C5 IODC2027 Norfolk6/6–10独立SPIE管理，不按往届联合或共同名称并入Antwerp4月大会。
+- 日城与范围：2027-04-11–2027-04-15；比利时 · 安特卫普；Hilton Antwerp Old Town；submissionState published。
+- 逐字段截止及出处：论文与摘要截止：2026-12-01T12:00:00-05:00 / America/New_York [来源](https://www.optica.org/events/congress/optical_design_and_fabrication_congress/submit_papers/)；注册截止：未知 [来源](https://www.optica.org/events/congress/optical_design_and_fabrication_congress/)
+- 本届条件出版原字段：按本届作者指南完成报告及出版手续；具体注册和报告安排以录用通知为准。
+- 本届范围/冲突原备注：截止采用美国东部时间；12 月 1 日为 EST（UTC−05:00）。注册截止尚未核实。
+- 未解决内容及影响：注册截止、费率/作者付款覆盖、录用/终稿安排仍未知，不以初稿12/1替代；模板文件内部/版权例外适用/最终报告与实际索引未核实，当前网页没有明确政策修订日；下一届及ODF和IODC新的联合关系未知，不继承历史关系
+- 维护触发：2027独立注册/作者通知或平台实际文集发布后维护相应字段；同未变征稿源已达两次，暂停重复访问。
+- 完整记录内容摘要3c385199609c9bb79dd2bdfb8188bc9ac3075f8b933fc1e5b0d007a3c4ca6ac6，基于83608e65e976afa2db5777c2eec8f415c1935684；非官网内容指纹，未知不冒充已补齐。
+
+## icip-2026
+
+IEEE International Conference on Image Processing；2026；IEEE ICIP/series-0d93e81109e8；admitted关联conference-series-0d93e81109，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://2026.ieeeicip.org/)、[原通知](https://2026.ieeeicip.org/call-for-papers-and-abstracts/)；[原实际记录1](VERIFICATION_LOG.md#下一批核验队列)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c8后续届次与系列复查六系列)。
+- 全字段审阅范围：IEEE ICIP2026芬兰坦佩雷9/13–17与2027新加坡11/29–12/3各自稳定ID；原会场只给Conference Venue入口不臆造建筑。ordinary/特别分会5页正文+1页纯参考文献，Ex Ordo；WIP一页摘要不是同等Xplore会议论文，OJSP期刊审稿的页数/截止/出版另行，不沿普通2/4延期截止、4/29通知和5/13终稿。5/20 WIP截止与注册null分别；日期级不补AoE、23:59或北京时间。普通publication进入Xplore要结合原终稿/注册/报告/no-show条件，不能把录用或WIP材料推成单篇已检索。published/closed是原投稿状态、非今天全生命周期。C8 2027只学会公告普通3/31，SPS Summit注册跳转适用范围尚未核实，2026页限/Ex Ordo/WIP/OJSP规则不转移。
+- 日城与范围：2026-09-13–2026-09-17；芬兰 · 坦佩雷；会场详情见本届官网 Conference Venue；submissionState closed。
+- 逐字段截止及出处：普通论文截止（延期后）：2026-02-04 [来源](https://2026.ieeeicip.org/call-for-papers-and-abstracts/)；普通论文录用通知：2026-04-29 [来源](https://2026.ieeeicip.org/call-for-papers-and-abstracts/)；普通论文终稿截止：2026-05-13 [来源](https://2026.ieeeicip.org/call-for-papers-and-abstracts/)；Work-in-Progress 摘要截止：2026-05-20 [来源](https://2026.ieeeicip.org/call-for-papers-and-abstracts/)；注册截止：未知 [来源](https://2026.ieeeicip.org/)
+- 本届条件出版原字段：普通论文进入 IEEE Xplore 的会议论文集；一页摘要在面向参会者的会议材料中提供，不应视为同等 Xplore 论文。
+- 本届范围/冲突原备注：OJSP 期刊审稿通道有独立页数、截止日及出版规则，本卡普通论文日期不适用于该通道。
+- 未解决内容及影响：2026最终具体会场、作者付款截止/费用、注册覆盖数量和no-show细则未取得完整确认，出行与出版条件仍需独立通知；OJSP独立期刊通道与WIP完整材料/报告规则未全量核验，普通日期不能代替；单篇Xplore实际出版/索引和2027完整CFP未知
+- 维护触发：当届正式作者通知、Xplore文集或2027完整CFP公开后分通道维护；不为已过2026初稿反复查同来源。
+- 完整记录内容摘要9610dddfadeaa81afa71c08eb8b184b9fc1c584b5e1d43e2ecbde2d8d6627bc5，基于83608e65e976afa2db5777c2eec8f415c1935684；非官网内容指纹，未知不冒充已补齐。
+
+## biophotonics-2027
+
+Optica Biophotonics Congress；2027；Optica Biophotonics/series-f73fbdc0215b；admitted关联conference-series-d9593b54db，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/congress/biophotonics_congress/)、[原通知](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)；[原实际记录1](VERIFICATION_LOG.md#2026-09-10生物光子学与激光会议)、[原实际记录2](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)。
+- 全字段审阅范围：本届征稿第二次有效核验Denver/Embassy Suites、2027/4/18–21，摘要和summary12/8/2026 12:00 Eastern UTC−05，不用夏令时。35词摘要、2页PDF、2027作者版权、题目单位图像许可和字体嵌入分别核对；电子版权、线上提交、截止后不改稿、委员会决定oral/poster。录用且报告后平台出版与EI等主办方支持声明不等于逐篇检索。网页说明现场为主、少数贡献报告允许预录，不是所有作者可远程直播；录制内容给技术注册者回看，最多会后60天，不代替注册权益。模板链接未下载、系统未登录，Student Prize仅opt-in/评委决定，不保证获奖或免本次注册。
+- 日城与范围：2027-04-18–2027-04-21；美国 · 丹佛；Embassy Suites by Hilton Denver Downtown；submissionState published。
+- 逐字段截止及出处：摘要与 2 页 summary 截止：2026-12-08T12:00:00-05:00 / America/New_York [来源](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)；注册截止待核实：未知 [来源](https://www.optica.org/events/congress/biophotonics_congress/)
+- 本届条件出版原字段：主办方说明录用且完成报告的论文在 Optica 平台出版，并声明 Ei Compendex 等索引支持；不保证单篇即时检索，报告录用与出版须分别确认。
+- 本届范围/冲突原备注：官网宣布征稿开放；本轮已核对时区与格式。注册、录用通知及终稿安排待公布或进一步核实。
+- 未解决内容及影响：注册/通知/终稿日期和作者费率、预录获准条件与具体报告安排仍未核实；版权/模板内部、原始平台单篇出版/检索未核实，政策生效/修订日期未知；当前允许少数预录不能作为普遍远程参会承诺，免费未来注册是获奖后权益
+- 维护触发：2027作者与注册通知、获准预录安排或实际文集出现后补对应字段；同未变征稿源两次完成，不继续重复。
+- 完整记录内容摘要5a3ef6c4cec3ab816642de4479ed5097113e53aecbc6e47ac4cf70b7e8eaa8cb，基于83608e65e976afa2db5777c2eec8f415c1935684；非官网内容指纹，未知不冒充已补齐。
+
+## laser-congress-2026
+
+Optica Laser Congress and Exhibition；2026；Optica Laser Congress/series-9306e954f354；admitted关联conference-series-150febea7b，原checkedAt 2026-09-10。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/congress/laser_congress/)、[原通知](https://www.optica.org/events/congress/laser_congress/submit_papers/)；[原实际记录1](VERIFICATION_LOG.md#2026-09-10生物光子学与激光会议)、[原实际记录2](VERIFICATION_LOG.md#2026-09-14临近截止与-fio-历史通知补齐)、[原实际记录3](VERIFICATION_LOG.md#2026-09-30恢复检查与临近会议批次-b)。
+- 全字段审阅范围：2026维尔纽斯Radisson Blu10/11–15当届与独立LaserCongress稳定系列一对一，ASSL/HILAS/LAC属于同大会专题不重复建系列。原PDP9/22中午Eastern/NewYork UTC−04，只突出时效新成果且口头；35词/2页本届PDF并嵌字、截止不再修改，不是普通投稿延迟通道。早鸟8/28 23:59 Vilnius UTC+03来自注册源，不移成NewYork时区或最终注册截止。9/14仍明确9/22 PDP；9/30抽取不再保留日期并不足以否定旧明确截止，过去日不恢复为未来。普通历史截止和PDP通知/终稿未核实保持空缺，技术会议付费注册与免费展览证权益不同。主办方录用且报告/手续后出版和索引支持，非单篇EI即时/无条件保证，不把现场展览参加等同论文出版。
+- 日城与范围：2026-10-11–2026-10-15；立陶宛 · 维尔纽斯；Radisson Blu Hotel Lietuva；submissionState published。
+- 逐字段截止及出处：PDP 最新成果截止：2026-09-22T12:00:00-04:00 / America/New_York [来源](https://www.optica.org/events/congress/laser_congress/submit_papers/)；早鸟注册截止：2026-08-28T23:59:00+03:00 / Europe/Vilnius [来源](https://www.optica.org/events/congress/laser_congress/registration/)
+- 本届条件出版原字段：主办方说明录用且完成报告的论文在 Optica 平台出版，并声明 Ei Compendex 等索引支持；不保证单篇即时检索，报告录用与出版须分别确认。
+- 本届范围/冲突原备注：当前征稿页显示 PDP 截止；普通投稿历史截止本轮未核实。早鸟注册已结束，技术会议注册与免费展览通行证权益不同。
+- 未解决内容及影响：普通投稿历史截止、PDP通知/终稿、最终注册付款日与完整费用/作者覆盖未核实，早鸟日期不能代替；实际论文报告/平台出版/单篇索引和模板内部未登录验证，索引只主办方声明；后续届次日期/征稿未取得独立公告，不按旧年或其他Optica大会推算
+- 维护触发：本届正式作者/注册及平台文集通知或独立下一届公告出现后维护；既有不变PDP多次核验计入上限，不重复请求。
+- 完整记录内容摘要0e27133f249c65bbc83229ca2757dc5e532605ab6c3333f4fb464e9d23534ce2，基于83608e65e976afa2db5777c2eec8f415c1935684；非官网内容指纹，未知不冒充已补齐。
