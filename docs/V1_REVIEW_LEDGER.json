@@ -1379,6 +1379,21 @@
         "已读3500/175/8属本刊Article，不继承其他Nature刊；完整稿型费用/系统材料/MJL/JCR/CAS及EI覆盖年未知"
       ],
       "maintenanceTrigger": "合法新原光学Article及完整出版史/现行价格和分类资料可读后核三不同正式期次原样例与准入；已读本刊Article规则保留，未变化失败源不第三次请求。"
+    },
+    {
+      "candidateId": "journal-3b99fda9e6",
+      "checkedAt": "2026-10-06",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-3b99fda9e6",
+      "formalIds": ["communications-materials"],
+      "limitations": [
+        "JCR/CAS版年学科与SCIE无独立肯定记录，EI/ESCI覆盖年及逐篇未核；EI工程补充不强造Q1/Q2。",
+        "Aims/JournalInformation/ContentTypes/Formatting/Metrics各两次技术失败停止，完整稿型字数/匿名/模板及统计周期未知；不能继承其他Nature刊。",
+        "APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。"
+      ],
+      "maintenanceTrigger": "本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。"
     }
   ],
   "formalDataReviews": [
@@ -7187,6 +7202,29 @@
         "RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。"
       ],
       "maintenanceTrigger": "本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。"
+    },
+    {
+      "kind": "journal",
+      "id": "communications-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a62d6f7ef05fd84ad1c2b384d520c5ec18ad52189fc5c87feccbf1a3f33549fe",
+      "formalReviewBase": "99690c24df2f3a9ecb3177c04b9dd34e07642c01",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#communications-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "JCR/CAS版年学科与SCIE无独立肯定记录，EI/ESCI覆盖年及逐篇未核；EI工程补充不强造Q1/Q2。",
+        "Aims/JournalInformation/ContentTypes/Formatting/Metrics各两次技术失败停止，完整稿型字数/匿名/模板及统计周期未知；不能继承其他Nature刊。",
+        "APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。"
+      ],
+      "maintenanceTrigger": "本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。"
     }
   ],
   "coreSeriesReviews": [

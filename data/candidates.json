@@ -3490,13 +3490,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "scopeHint": "材料交叉中的光学非线性、光子材料与光学量子发射子集；EI工程补充，不扩全部材料",
+    "sourceEntry": "https://www.nature.com/commsmat/submit/guide-to-authors",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["communications-materials"],
+    "decisionReason": "已实读本刊作者范围/Guide与费用正文、三个窗口内正式5/6/7卷光学原Article完整摘要及出版史；MJL唯一卡独立ESCI、Compendex869独立EI身份符合2662-4443。按EI工程补充准入，缺JCR/CAS分区、SCIE和全部稿型/模板明确未知；新正式记录同步全字段质量审查。",
+    "nextAction": "本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-b4a19d5b1c",

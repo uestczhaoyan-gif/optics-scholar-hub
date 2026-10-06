@@ -378,3 +378,29 @@ Nature Biomedical Engineering；pending。
 复用本轮实际已读官方Compendex原缓存，不重扫未变化表：SERIALS2026-08-07 Remote Sensing5069/20724292/MDPI，Nature Energy4138/20587546、Nature Biomedical Engineering4133/2157846X/Nature Research，均Journal；DISCONTINUED2026-05-01无目标匹配。SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。独立EI身份不替代光学样例，也不由出版社/搜索指标推当前SCIE或分区。搜索缓存明确与成功原正文分开，未登录IdP/数据库/投稿或更改cookie/镜像/验证码。每未变化来源最多两次，已有尝试计入，失败不证没有文章或停刊。
 
 [Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他270候选、全部正式目录及冻结范围和旧审查保持。
+
+## V1-G3L
+
+V1-G3L准入固定候选Communications Materials并同批完成新增正式质量；111刊/133届/98系列/10活动，273候选220 admitted/46 pending/7 deferred；SCIE95/ESCI14/EI102，JCR107/CAS11，57刊至少三篇样例。固定候选51/60（7准入、44实际限制）、余9；正式254/254（111刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。
+
+## journal-3b99fda9e6
+
+Communications Materials；admitted；正式ID communications-materials。
+
+已实读本刊作者范围/Guide与费用正文、三个窗口内正式5/6/7卷光学原Article完整摘要及出版史；MJL唯一卡独立ESCI、Compendex869独立EI身份符合2662-4443。按EI工程补充准入，缺JCR/CAS分区、SCIE和全部稿型/模板明确未知；新正式记录同步全字段质量审查。
+
+[For authors](https://www.nature.com/commsmat/submit)与[Guide](https://www.nature.com/commsmat/submit/guide-to-authors)原正文实际可读，online2662-4443及材料专业显著进展范围直接核；[OA/APC](https://www.nature.com/commsmat/open-access)本刊正文可读，接受日价/税/豁免与两许可区别逐字段保存。Aims、JournalInformation各两次技术失败停止，官方检索展开JournalInformation中的ESCI/EI声明不当独立证据；其中CAS是ChemicalAbstractsService，不是中科院分区。Referee检索有chemical sciences与材料简介口径差异，仅取实际作者范围不合并。ContentTypes、Formatting和Metrics各两次IdP500停止，不换cookie/PDF/镜像；先尝试的submission-guidelines地址一次失败，canonical submit/Guide独立一次成功留证。三原页一次成功，缓存段落读取不新增源请求；2024 ResearchHighlight Machine vision...明确排除、不搬ACS Nano原稿。MJL一次新目标唯一卡、EI缓存只新目标一次，未登录或操作投稿。G3K接口超时后只复查99690c2同SHA，成功验收而未重提交。
+
+### 三原论文与正式期次
+
+- [Probing the limits for coherent optical control of a mechanically decoupled defect center in hexagonal boron nitride](https://www.nature.com/articles/s43246-024-00686-y)；首次线上 2024-11-03。实读Article原完整摘要与出版史，正式卷5,240(2024)，Published/VOR均2024-11-03，Received2024-02-07和Accepted10-23不作首次日。机械隔离hBN量子发射体在共振驱动下分离温度相关退相干与谱扩散，直接量子光学，结论限该体系/条件；不是ResearchHighlight，未审全文/SI。
+- [Tantalo-gallate glass as robust nonlinear medium for mid-infrared photonics](https://www.nature.com/articles/s43246-025-00930-z)；首次线上 2025-08-30。实读Article原完整摘要/出版史，正式卷6,199(2025)，Published/VOR均2025-08-30；Received4-24/Accepted8-26不是首次日。Ta氧化物改性镓酸盐玻璃、可拉光纤/锥形并波导超连续至4.5µm，直接非线性中红外材料方法，不外推所有玻璃；未审全文实验/SI。
+- [Narrow magneto-optical transitions of erbium implanted into silicon carbide-on-insulator](https://www.nature.com/articles/s43246-026-01154-5)；首次线上 2026-04-13。实读Article原完整摘要/出版史，正式卷7,154(2026)，Published2026-04-13与Version of record2026-06-11不同，Received2025-11-25/Accepted2026-03-26不作首次日。低温共振谱与谱烧孔测SiC绝缘体薄膜Er磁光亚MHz线宽及寿命，光子网络器件子集，不能称已部署产业量子网；三正式卷5/6/7独立，未伪造数字期号。
+
+### 限制、影响与触发
+
+- JCR/CAS版年学科与SCIE无独立肯定记录，EI/ESCI覆盖年及逐篇未核；EI工程补充不强造Q1/Q2。
+- Aims/JournalInformation/ContentTypes/Formatting/Metrics各两次技术失败停止，完整稿型字数/匿名/模板及统计周期未知；不能继承其他Nature刊。
+- APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。
+- 维护触发：本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。
+- 只新增本固定候选的正式记录与本次质量审查；旧110刊、其余272候选、其他data、旧账本/固定G4/G5/finalAcceptance及冻结范围保持。

@@ -1787,3 +1787,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G3K实审3固定候选，保留pending及实际范围/限制；固定60已审50（6准入、44限制）、余10。正式质量253/253，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 本批实审Remote Sensing、Nature Energy与Nature Biomedical Engineering：官方检索展开范围及准确刊号可读，但原页技术/限流影响逐源留证。Biomedical Engineering本刊canonical Content Types实际正文可读，三拟原论文各两次IdP500；Energy两拟原论文各两次IdP500、范围累计两次；MDPI范围/指南/2025Highlights公告分别429。不是只看指标或将未审工作批量归完成，准入样例/完整版本缺口保留pending。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3k)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
 
 - V1-G3K发布前验证：validate、三候选五字段/受控scopeHint白名单及其余270、全部正式目录/冻结字节/旧253正式47候选G4G5final保护通过；577本地文件链接、七文件完整实际差异与git diff --check通过。Pages子路径本地构建及六资产exit0，目录摘要73bd568保持；三原研究缺口与真实429/两次技术失败明确，不虚改admitted。已保存续接记录，按同SHA CI及部署核线上版本。
+
+## 2026-10-06：固定候选准入 V1-G3L
+
+- 99690c24df2f3a9ecb3177c04b9dd34e07642c01已验收[Pages 37462076408](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37462076408)；同SHA build/deploy成功，首页/版本200，摘要73bd56804f30b96696d2d95bfc250f2f3cd2e2feae4a7cedc5853e0306d52eb5匹配本地（2026-10-06T12:18:04.065Z）。编辑前HEAD=origin/main；work/V1-G3L-plan.json保存长操作范围，旧字段保护。
+- V1-G3L准入固定候选Communications Materials并同批完成新增正式质量；111刊/133届/98系列/10活动，273候选220 admitted/46 pending/7 deferred；SCIE95/ESCI14/EI102，JCR107/CAS11，57刊至少三篇样例。固定候选51/60（7准入、44实际限制）、余9；正式254/254（111刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [身份/原摘要/不同期次/独立索引/指南与真实尝试](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-3b99fda9e6)。新正式记录同批实审；仍余9固定候选和最终G1/G6，未冒充结项。必要数据/文档/完整差异与子路径构建后推送同SHA验收。
+
+- V1-G3L发布前验证：validate及精确新增EI/ESCI条目、三正式卷与首次日/VOR分别、其余272候选/全部旧data/冻结字节/旧253正式50候选G4G5final保护通过；889本地文件链接、11文件完整实际差异与git diff --check通过。Pages子路径本地构建与六资产exit0，已保存续接记录。原BME/Energy失败已按两次停止、Communications Materials原页/指南成功独立，按本刊EI路径准入不强造分区/匿名/限额。GitHub接口超时只复核前SHA成功，不重提交；本批按同SHA CI及线上版本验收。

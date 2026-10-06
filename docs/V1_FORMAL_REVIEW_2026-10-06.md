@@ -1183,3 +1183,21 @@ Journal of Semiconductors；中国电子学会 / 中国科学院半导体研究�
 - 限制/影响：JCR/CAS版年学科分区未知，ESCI不能当SCIE；EI覆盖年/逐篇入库未核。；独立Scope与CurrentIssue两次技术失败停止；模板内部、完整稿型匿名/篇幅与当前OA/APC及其他费未知，公开稿规没有生效版年。；RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。
 - 维护触发：本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。
 - 全字段内容摘要7fa9c5a3f6f21223e74010589fed4c42f9d64c4cd83f58736953aac09496d8cf，基于fb0229ea11b98ee909cdbdd8fd97f32232d5ec0d；不是官网指纹，不表示未知消除。
+
+## V1-G3L
+
+V1-G3L准入固定候选Communications Materials并同批完成新增正式质量；111刊/133届/98系列/10活动，273候选220 admitted/46 pending/7 deferred；SCIE95/ESCI14/EI102，JCR107/CAS11，57刊至少三篇样例。固定候选51/60（7准入、44实际限制）、余9；正式254/254（111刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。
+
+## communications-materials
+
+Communications Materials；Nature Portfolio / Springer Nature；印刷刊号未核，eISSN2662-4443；新checkedAt 2026-10-06，候选journal-3b99fda9e6一对一。
+
+- 身份/范围、三个原摘要及首次日/正式期次、独立数据库与实际访问范围见[原依据](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-3b99fda9e6)。
+- 分区：JCR/CAS没有已核版年学科记录，明确未知；按独立已核EI工程补充准入。
+- 索引：SCIE/unverified，无肯定来源；当前MJL唯一卡只确证ESCI，没有独立SCIE肯定记录；不将ESCI、筛选器勾选或搜索IF换算SCIE，也不据当前卡断言历年无覆盖。；ESCI/confirmed/database [来源](https://mjl.clarivate.com/search-results?issn=2662-4443&hide_exact_match_fl=true)；MJL一次公开查2662-4443唯一Exact Match COMMUNICATIONS MATERIALS、SPRINGERNATURE及该刊号匹配，Core Collection明确Emerging Sources Citation Index；不依据侧栏SCIE等默认勾选。未登录profile/订阅单篇，覆盖起止未知。；EI_COMPENDEX/confirmed/database [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；已验原缓存SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；仅查本新目标，SERIALS2026-08-07第869行Communications Materials/Journal/26624443/Springer Nature一致；DISCONTINUED2026-05-01无本目标，覆盖年/每篇入库未核。
+- 已读作者规则：2026-10-06实读本刊For authors与Guide to Authors：基础/应用材料研究须带来本专业显著进展；本刊不接受presubmission enquiries。通过官网Online Submission System https://submission.springernature.com/ 投稿，未登录/注册或提交。；所有初稿先做manuscript screening，符合本刊Policy Guide及Nature Portfolio Editorial Policy；本次只读相关链接入口，未通读政策/全部稿型。ContentTypes与FormattingGuidelines各两次IdP技术失败，字数/摘要/图表限额、全部匿名与文件格式未知，不套用其他Nature刊。；返修须clean和marked-up稿、逐点回应、附加要求投稿信及每次完成Online Editorial Requests Table；编辑按研究类型可能要求Lasing/Solar cells reporting summary或Machine learning checklist，内部文件未读，不能称每稿通用硬条件。；接受前本刊要求所有通讯作者将ORCID关联稿件系统；不是初投所有作者硬限。一般作者入口与指南未标规则生效年；原论文只核摘要和元数据，未做全文实验/SI审计。 [本刊指南](https://www.nature.com/commsmat/submit/guide-to-authors)。
+- 出版/费用：2026-10-06实读本刊Open Access Fees and Funding：接受日决定APC，当前GBP2790/USD3790/EUR3190，适用VAT/地方税另计；价格未标独立生效年，机构覆盖/豁免依资格，酌情豁免应初投申请，审稿/接受后不受理。作者通常保留版权，CC BY或CC BY-NC-ND依稿件与资助要求，后者商业/改编使用需权限；政府雇员等特殊版权需提交前咨询。未核所有其他费及个人资格，不用2024原论文许可推全刊只有单许可。
+- 周期：本刊Guide只给投稿筛查、编辑/同行评议、返修、正式接受后制作的阶段顺序，没有已读统计版年/中位首决定或接受周期。Journal Metrics两次IdP500停止，不能用IF或三样例个别Received/Accepted计算全刊周期；2026样例Published与VOR不同，首次日单独保存。
+- 限制/影响：JCR/CAS版年学科与SCIE无独立肯定记录，EI/ESCI覆盖年及逐篇未核；EI工程补充不强造Q1/Q2。；Aims/JournalInformation/ContentTypes/Formatting/Metrics各两次技术失败停止，完整稿型字数/匿名/模板及统计周期未知；不能继承其他Nature刊。；APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。
+- 维护触发：本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。
+- 全字段内容摘要a62d6f7ef05fd84ad1c2b384d520c5ec18ad52189fc5c87feccbf1a3f33549fe，基于99690c24df2f3a9ecb3177c04b9dd34e07642c01；不是官网指纹，不表示未知消除。

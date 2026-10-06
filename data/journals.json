@@ -8534,5 +8534,80 @@
         "relevance": "实读原摘要/出版史并9期ARTICLES目录：制造表征不同电荷层厚度/掺杂Ge-on-Si APD在1550nm的噪声，直接LiDAR光探测原研究。首次接收稿线上2026-06-26、校样8-10；正式47(9):092401，Published2026-09-12。DOI10.1088/1674-4926/26040044，三原研究1/4/9不同正式期次，未借ResearchHighlight或旧综述充数。"
       }
     ]
+  },
+  {
+    "id": "communications-materials",
+    "name": "Communications Materials",
+    "abbr": "Commun. Mater.",
+    "publisher": "Nature Portfolio / Springer Nature",
+    "topics": ["光学材料", "量子光学", "激光与非线性"],
+    "domains": ["光学", "材料", "物理"],
+    "description": "材料科学的选择性开放获取刊，涵盖基础与应用原研究及评论；近两年正式5、6、7卷原Article分别验证hBN发射体相干控制、中红外非线性玻璃/光纤及SiC中Er磁光跃迁的光学适配。只取光子材料与方法子集，全部材料/化学不自动归光学；按独立EI工程补充收录，分区未知。",
+    "website": "https://www.nature.com/commsmat/",
+    "guide": "https://www.nature.com/commsmat/submit/guide-to-authors",
+    "requirements": [
+      "2026-10-06实读本刊For authors与Guide to Authors：基础/应用材料研究须带来本专业显著进展；本刊不接受presubmission enquiries。通过官网Online Submission System https://submission.springernature.com/ 投稿，未登录/注册或提交。",
+      "所有初稿先做manuscript screening，符合本刊Policy Guide及Nature Portfolio Editorial Policy；本次只读相关链接入口，未通读政策/全部稿型。ContentTypes与FormattingGuidelines各两次IdP技术失败，字数/摘要/图表限额、全部匿名与文件格式未知，不套用其他Nature刊。",
+      "返修须clean和marked-up稿、逐点回应、附加要求投稿信及每次完成Online Editorial Requests Table；编辑按研究类型可能要求Lasing/Solar cells reporting summary或Machine learning checklist，内部文件未读，不能称每稿通用硬条件。",
+      "接受前本刊要求所有通讯作者将ORCID关联稿件系统；不是初投所有作者硬限。一般作者入口与指南未标规则生效年；原论文只核摘要和元数据，未做全文实验/SI审计。"
+    ],
+    "publishing": "2026-10-06实读本刊Open Access Fees and Funding：接受日决定APC，当前GBP2790/USD3790/EUR3190，适用VAT/地方税另计；价格未标独立生效年，机构覆盖/豁免依资格，酌情豁免应初投申请，审稿/接受后不受理。作者通常保留版权，CC BY或CC BY-NC-ND依稿件与资助要求，后者商业/改编使用需权限；政府雇员等特殊版权需提交前咨询。未核所有其他费及个人资格，不用2024原论文许可推全刊只有单许可。",
+    "schedule": "本刊Guide只给投稿筛查、编辑/同行评议、返修、正式接受后制作的阶段顺序，没有已读统计版年/中位首决定或接受周期。Journal Metrics两次IdP500停止，不能用IF或三样例个别Received/Accepted计算全刊周期；2026样例Published与VOR不同，首次日单独保存。",
+    "checkedAt": "2026-10-06",
+    "issn": null,
+    "eissn": "2662-4443",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前MJL唯一卡只确证ESCI，没有独立SCIE肯定记录；不将ESCI、筛选器勾选或搜索IF换算SCIE，也不据当前卡断言历年无覆盖。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=2662-4443&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL一次公开查2662-4443唯一Exact Match COMMUNICATIONS MATERIALS、SPRINGERNATURE及该刊号匹配，Core Collection明确Emerging Sources Citation Index；不依据侧栏SCIE等默认勾选。未登录profile/订阅单篇，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "已验原缓存SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；仅查本新目标，SERIALS2026-08-07第869行Communications Materials/Journal/26624443/Springer Nature一致；DISCONTINUED2026-05-01无本目标，覆盖年/每篇入库未核。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Probing the limits for coherent optical control of a mechanically decoupled defect center in hexagonal boron nitride",
+        "source": "https://www.nature.com/articles/s43246-024-00686-y",
+        "publishedAt": "2024-11-03",
+        "relevance": "实读Article原完整摘要与出版史，正式卷5,240(2024)，Published/VOR均2024-11-03，Received2024-02-07和Accepted10-23不作首次日。机械隔离hBN量子发射体在共振驱动下分离温度相关退相干与谱扩散，直接量子光学，结论限该体系/条件；不是ResearchHighlight，未审全文/SI。"
+      },
+      {
+        "title": "Tantalo-gallate glass as robust nonlinear medium for mid-infrared photonics",
+        "source": "https://www.nature.com/articles/s43246-025-00930-z",
+        "publishedAt": "2025-08-30",
+        "relevance": "实读Article原完整摘要/出版史，正式卷6,199(2025)，Published/VOR均2025-08-30；Received4-24/Accepted8-26不是首次日。Ta氧化物改性镓酸盐玻璃、可拉光纤/锥形并波导超连续至4.5µm，直接非线性中红外材料方法，不外推所有玻璃；未审全文实验/SI。"
+      },
+      {
+        "title": "Narrow magneto-optical transitions of erbium implanted into silicon carbide-on-insulator",
+        "source": "https://www.nature.com/articles/s43246-026-01154-5",
+        "publishedAt": "2026-04-13",
+        "relevance": "实读Article原完整摘要/出版史，正式卷7,154(2026)，Published2026-04-13与Version of record2026-06-11不同，Received2025-11-25/Accepted2026-03-26不作首次日。低温共振谱与谱烧孔测SiC绝缘体薄膜Er磁光亚MHz线宽及寿命，光子网络器件子集，不能称已部署产业量子网；三正式卷5/6/7独立，未伪造数字期号。"
+      }
+    ]
   }
 ]
