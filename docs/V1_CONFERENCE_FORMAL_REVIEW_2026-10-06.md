@@ -771,3 +771,91 @@ European Optical Society Annual Meeting (EOSAM 2026)；2026；EOSAM/series-86cdd
 - 未解决内容及影响：历史三个paper截止版本最终适用、稿规模板/平台及校内会场仍未知，不能选择最晚作为事实；注册入口/最终付款/费用与专刊完整适用范围未知，12/5仅历史早鸟；当届文集/索引、下一届独立公告未知，不按18个月周期凑下一届
 - 维护触发：官方当届最终CFP/稿规或独立下届公告、相应专刊正式政策出现后维护；原PDF与完整浏览器范围复用不重读不变源。
 - 完整记录内容摘要11de754f4b3c50fd3ca44f79c99e1761e5d115d973b283b0bdbec9d5b066a6f9，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AB
+
+实际完整读取六届当前JSON/稳定系列/admitted关系、C1身份/每会独立材料和日程、C2 OPIC由快照到正文的范围、C3更名/日程/会场、B4当届讲者表与共用AV。SPIE Defense2027普通指南和presenters本次第二有效尝试（10/2计首次）各仅iframe无正文，未取得新日期/规则，停止同未变源不转成更新或断言没有信息；其余不重复已核不变源，不继承其他SPIE母会页限/模板，全部data/冻结范围和原checkedAt保持。 累计正式质量178/252，余74未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## spie-lithography-2027
+
+SPIE Advanced Lithography + Patterning 2027；2027；SPIE Advanced Lithography + Patterning/series-40c6903e6239；admitted关联conference-series-7c90065305，原checkedAt 2026-09-30。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning)、[原通知](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)；[原实际记录1](CONFERENCE_EVIDENCE_2026-09-30.md#身份与会期)、[原实际记录2](CONFERENCE_EVIDENCE_2026-09-30.md#已核实的投稿与材料)。
+- 全字段审阅范围：AdvancedLithographyPatterning2027 SanJose2/21–25学术母会独立admitted，子专题/配套展览不重复会次，具体场馆未知。C1本届浏览器正文技术摘要200–300词/节目50–150，额外扩展PDF≤2页含作者图表，bio1000字符含空格，按一个适配专题原创研究/开发，一摘要一投，不借MedicalImaging2–4页。普通9/9/2026已过，11/16通知节目、1/27/2027海报PDF、2/3全文、2/19幻灯片提前传各通道仅日期；12/21材料上传开启、11月注册开放非截止。contactauthor或presenter先注册再材料上传、实际报告及规则/主席审批会后Proceedings平台，generalindex支持不保每篇EI。部分专题可能晚投稿是需要专题确认非统一PDP，不从旧call文案或published状态推所有当前可投；demo原枚举只承载幻灯片标签非现场演示稿。
+- 日城与范围：2027-02-21–2027-02-25；美国 · 加利福尼亚州圣何塞；具体场馆待当届官方页面核实；submissionState published。
+- 逐字段截止及出处：普通摘要截止（已过）：2026-09-09 [来源](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)；作者通知及节目上线：2026-11-16 [来源](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)；海报 PDF 预览及出版提交：2027-01-27 [来源](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)；出版全文提交：2027-02-03 [来源](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)；口头报告幻灯片提前上传：2027-02-19 [来源](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)；注册截止待公布；计划 2026 年 11 月开放：未知 [来源](https://spie.org/conferences-and-exhibitions/advanced-lithography-and-patterning/presenters/abstract-submission-guidelines)
+- 本届条件出版原字段：符合出版规则并实际报告的全文、报告或海报可在会后收入 Proceedings of SPIE / SPIE Digital Library，仍须委员会批准。官网列 Ei Compendex 等检索合作，不保证单篇实际入库。
+- 本届范围/冲突原备注：普通摘要截止 2026-09-09 已过；官网仍列征稿入口并称部分专题可能接受晚投稿，需向具体专题确认，不视为统一 PDP。注册仅公布 2026 年 11 月开放，截止未知；全文/海报上传计划 2026-12-21 开启。日期表未给时刻或时区，不补造。
+- 未解决内容及影响：具体场馆、完整注册费用/最终作者付款及专题晚投稿可用性未核实，普通旧截止不恢复；模板内部/专题额外要求、截止时刻时区和材料系统内验证未知；实际文集及单篇索引、后续新届日城未知，不能由一般合作索引保证
+- 维护触发：当届具体场馆/注册、专题明确晚稿与作者通知或实际文集出现后维护；不重复旧不变母会通用规则。
+- 完整记录内容摘要b7f1e1fc737b21946c03ed0c2c555106e15b3c2896fa2ce53d30776e89539019，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
+
+## spie-medical-imaging-2027
+
+SPIE Medical Imaging 2027；2027；SPIE Medical Imaging/series-c28e551f0223；admitted关联conference-series-addc8b8966，原checkedAt 2026-09-30。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/medical-imaging)、[原通知](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)；[原实际记录1](CONFERENCE_EVIDENCE_2026-09-30.md#身份与会期)、[原实际记录2](CONFERENCE_EVIDENCE_2026-09-30.md#已核实的投稿与材料)。
+- 全字段审阅范围：MedicalImaging2027 Vancouver2/14–18母会，光学研究选择成像/计算病理等适配专题，其他医学影像不自动光学；admitted稳定id一届/场馆未知。C1实际指南技术摘要200–300/节目50–150词，mandatory评审suppPDF2–4页不计致谢REFS、含目的方法结果结论图表，需披露先前/同期提交，非直接出版；录用后pubfull≥4页，不能以评审附件自动当终稿或套光刻≤2。普通8/5/2026已过、10/26通知、1/20/2027海报、1/27全文、2/12幻灯片分别，仅日期；12/14材料开启与10月注册开放不当DDL，评奖不混初稿。SPIE账号选择专题一摘要一投、contact或presenter注册才上传出版材料，实际报告/出版规则和审批是条件而非每篇检索。
+- 日城与范围：2027-02-14–2027-02-18；加拿大 · 不列颠哥伦比亚省温哥华；具体场馆待当届官方页面核实；submissionState published。
+- 逐字段截止及出处：普通摘要截止（已过）：2026-08-05 [来源](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)；作者通知及节目上线：2026-10-26 [来源](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)；海报 PDF 预览及出版提交：2027-01-20 [来源](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)；出版全文提交：2027-01-27 [来源](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)；口头报告幻灯片提前上传：2027-02-12 [来源](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)；注册截止待公布；计划 2026 年 10 月开放：未知 [来源](https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines)
+- 本届条件出版原字段：实际报告并符合规则、获批准的稿件等在会后发表于 Proceedings of SPIE / SPIE Digital Library。官网检索合作说明不作为单篇 EI 或其他数据库收录保证。
+- 本届范围/冲突原备注：普通摘要截止 2026-08-05 已过；首页征稿文案不能证明所有专题仍接受投稿。注册仅给 2026 年 10 月开放，截止未知；全文/海报上传计划 2026-12-14 开启。按表中日期分别保存，不把上传开启日或评奖截止作为投稿 DDL。
+- 未解决内容及影响：具体温哥华场馆、当前注册启用/费用/最终付款和专题追加稿仍未核实；补充材料/出版模板内部及具体光学专题附加要求、日期时刻/时区未知；逐篇出版与EI/其他索引、后续届次未知，补充PDF不替正式出版审查
+- 维护触发：当届会场/注册页和作者独立出版材料通知或实际文集出现后补字段，不由过去摘要/评奖日期推新通道。
+- 完整记录内容摘要bb3c8dd1c8ba1a6001aa860fb81865eafebef624a2da557d08b5e408efe0efc5，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
+
+## spie-optical-metrology-2027
+
+SPIE Optical Metrology 2027；2027；SPIE Optical Metrology/series-eb1414467e76；admitted关联conference-series-e6fc0bf647，原checkedAt 2026-09-30。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/optical-metrology)、[原通知](https://world-of-photonics.com/en/congress/for-speaker/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-09-30.md#身份与会期)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-04.md#b4欧洲2027提交日程与共用报告准备2026-10-04)。
+- 全字段审阅范围：OpticalMetrology2027 Munich6/21–24来自SPIE页首/SaveDates，属于WorldPhotonicsCongress子会但不借母会6/20–25或展6/22–25；稳定admitted、场馆未确。C1和B4 SPIE页仍EOM25/2025节目主席不写成2027规则；独立2027母会讲者表10月中旬计划开、2/17/2027关闭，midOctober非10/15，公布安排非真实系统开放。共用AV建议16:9PPT/PDF/mp4h264，个人电脑/会场直接上传不可、无Internet/插件ProRes不支持，ICM一层checkin在session前1h前检查编辑；凭据预计六月初不是完整材料硬截止。讲者checkin ICM位置不独自证明本子会具体厅/会场，与每场报告时长/海报未知分别；出版/索引不由2025SPIE文集继承。
+- 日城与范围：2027-06-21–2027-06-24；德国 · 慕尼黑；具体场馆待当届官方通知；submissionState published。
+- 逐字段截止及出处：2027摘要投稿关闭（大会当届表；细则待核）：2027-02-17 [来源](https://world-of-photonics.com/en/congress/for-speaker/)；计划2026年10月中旬开放，具体日/时区未知；不得按10/15或旧2025稿规处理。；注册安排及截止待当届通知：未知 [来源](https://spie.org/conferences-and-exhibitions/optical-metrology)
+- 本届条件出版原字段：2027 当届出版形式和实际索引待核实，不由旧届 SPIE 论文集推定。
+- 本届范围/冲突原备注：本条为官方未来预告：页首和 Save the dates 明确 2027-06-21–24。页面混有 EOM25 日程、2025-06-17 版节目与 2025 主席，均未写入当届投稿安排；暂无可确认的 2027 注册截止。 2026-10-04仅用大会2027讲者表补截止/预计开放范围与共用AV准备；正常浏览器重读SPIE当前页，保留2025稿规边界和原checkedAt，未当完整当届核验。
+- 未解决内容及影响：2027本子会实际平台、摘要格式/篇幅/终稿和注册费用/截止未知，旧2025不适用；共用AV不是子会全部报告/海报细则，确切上传时间与本子会会场未知；2027出版渠道/实际单篇索引及后续届次未知，公告日城不能代替材料规则
+- 维护触发：SPIE2027专属CFP/注册或六月上传凭据与子会报告细则公开后维护；明确年份再接受新字段。
+- 完整记录内容摘要2f06a43271a4a015cd2d805b3f7bf23049de1837d92b71bcb049d4b87f085d1b，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
+
+## spie-astro-2028
+
+SPIE Astronomical Telescopes + Instrumentation 2028；2028；SPIE Astronomical Telescopes + Instrumentation/series-70b6053ab2a4；admitted关联conference-series-9c09dc77e0，原checkedAt 2026-09-30。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation)、[原通知](https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation)；[原实际记录1](CONFERENCE_EVIDENCE_2026-09-30.md#身份与会期)。
+- 全字段审阅范围：SPIE天文望远镜仪器2028 Montreal7/9–14是C1浏览器页首/SaveDates直接预告、稳定独立admitted，非按双年周期推算。地基航空空间望远镜、自适应/干涉/探测器是系列导航范围不等2028所有专题已公布。页面旧2026Copenhagen感谢语、课程和专题数/图像不作2028场馆或CFP；2028 registrationnull/submissionunknown、摘要和注册DDLnull以及出版形式/索引待核字段一致。具体场馆未知，不凭Montreal城市猜会议中心；未来日城准入和可投稿是两层，未取当届完整材料不声称本轮官网全审。
+- 日城与范围：2028-07-09–2028-07-14；加拿大 · 魁北克省蒙特利尔；具体场馆待当届官方通知；submissionState unknown。
+- 逐字段截止及出处：投稿安排及截止待当届通知：未知 [来源](https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation)；注册安排及截止待当届通知：未知 [来源](https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation)
+- 本届条件出版原字段：2028 当届论文集、出版材料和实际索引待核实，不能从已结束 2026 届推定。
+- 本届范围/冲突原备注：2028-07-09–14 蒙特利尔直接依据 SPIE 页首及 Save the dates，未按双年周期推算。旧图像、哥本哈根感谢语和课程说明属于 2026；不计作 2028 场馆或已公布专题。
+- 未解决内容及影响：2028独立征稿稿型/页限模板系统和投稿时刻/截止尚未核实，旧2026不得沿用；具体场馆注册费率最终付款和出版形式/实际索引未知，只已公告日城可用；2028完整专题和更远下届未知，系列通用主题不当已定节目
+- 维护触发：2028本届明确CFP/会场注册或出版公告出现后逐字段维护，不能以固定周期或旧2026页面填空。
+- 完整记录内容摘要12d693151108875668f8952b8516f3d064a45e905bbb072e343633ffa2e0f682，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
+
+## opic-2027
+
+Optics & Photonics International Congress 2027；2027；OPIC/series-7d65f247f5f2；admitted关联conference-series-bb1bd9e19f，原checkedAt 2026-09-30。
+
+- 身份/当届来源：[原入口](https://opicon.jp/)、[原通知](https://opicon.jp/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-09-30.md#已核实的投稿与材料)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-02.md#c2aposopic-与既有未来预告六个系列)。
+- 全字段审阅范围：OPIC2027 Yokohama PACIFICO4/19–23十五专题母会独立稳定admitted，ICNNQ大学官网支持母子关系，不建十五条重复或合并OPIE/OPJ。C1原官网检索快照和ICNNQ正文补核与主站超时分别；C2后来成功直接主页/Submission/Registration/Venue正文明确日城日程，不能今天仍称仅快照。10/20/2026投稿开、1/20/2027注册开仅计划非截止或实际启用；12/11投稿、2/1通知、4/3早鸟仅日期，稿型未知不把paper枚举推完整出版稿。C2投稿/注册正文ToBeAnnounced、真实平台模板费率和母会出版索引未知，ICNNQ专题或旧年出版不能泛化全大会。published原状态仅安排公布，原checkedAt9/30而局部10/2来源版本单独记录。
+- 日城与范围：2027-04-19–2027-04-23；日本 · 横滨；PACIFICO Yokohama；submissionState published。
+- 逐字段截止及出处：投稿截止（稿型与格式待复核）：2026-12-11 [来源](https://opicon.jp/submission/)；作者通知：2027-02-01 [来源](https://opicon.jp/)；早鸟注册结束：2027-04-03 [来源](https://opicon.jp/registration/)
+- 本届条件出版原字段：当届出版方式、论文集与索引尚未获得可核实规则；不把下属专题或往届出版路径泛化为母会全部稿件。
+- 本届范围/冲突原备注：2026-10-02 已直接读取母会主页、Submission、Registration 与 Venue 正文，确认会期、PACIFICO Yokohama 及主要日程，与既有记录一致。投稿与注册页面正文均为 To Be Announced，10/20 投稿开放及 1/20 注册开放仅是计划日期；当前未核实实际提交/注册入口、费用与截止时刻或时区。仅补本轮字段证据，不刷新整条核验日，不重复创建十五条子会议。
+- 未解决内容及影响：母会真实平台/稿型/字数页限模板和各专题额外要求未知，计划开放不能当已启用；费用/最终作者付款/截止时刻时区及当届出版索引未知，早鸟非硬注册；后续日城及OPIC各子会出版差异未知，母会十五专题不统一继承其一
+- 维护触发：10/20后当届实际Submission/Registration与专题CFP、作者出版通知公开后维护，不重复已两次读取不变ToBeAnnounced页面。
+- 完整记录内容摘要9a53d4ee585009064f970206a0650670156b65283435c4e65e8201867996e843，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
+
+## spie-defense-security-2027
+
+SPIE Defense + Security 2027；2027；SPIE Defense + Security/series-e2828f0dad68；admitted关联conference-series-e6ae36e513，原checkedAt 2026-10-02。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/defense-and-security)、[原通知](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters/abstract-submission-guidelines)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-02.md#c3七个系列五届新增)、[原实际记录2](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters/abstract-submission-guidelines)、[原实际记录3](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters)。
+- 全字段审阅范围：原DefenseCommercialSensing真实旧路径转DefenseSecurity更名同候选稳定系列，不与欧洲SecurityDefence系列混；会期2027/4/18–22、展4/20–22，Orlando地区和GaylordPalms/Kissimmee6000WOsceola具体地址分别，无矛盾。C3本届指南技术纯文本200–300词/节目50–150、简介1000字符含空格，从Browse匹配专题再Submit账户一摘要一次，专题附加要求非统一光刻/MedicalPDF规则。原10/7/2026摘要、1/6/2027通知、3/24海报、3/31文集稿、4/16提前幻灯片仅日期，之后现场SpeakerCheckin上传，材料2/15开启非截止；注册12月仅月份。现场报告并规范按期材料/主席编辑可要求改或拒绝出版，不保证EI。当前第二请求指南/presenters只iframe未新正文，保留10/2明确来源而非今天再次确认10/7无变，不能认为官网无信息或自动开放/延期。
+- 日城与范围：2027-04-18–2027-04-22；美国 · 佛罗里达州奥兰多地区；Gaylord Palms Resort & Convention Center（Kissimmee）；submissionState published。
+- 逐字段截止及出处：技术评审摘要截止：2026-10-07 [来源](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters/abstract-submission-guidelines)；作者通知及节目上线：2027-01-06 [来源](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters)；海报 PDF 预览及出版材料截止：2027-03-24 [来源](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters)；论文集稿件截止：2027-03-31 [来源](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters)；口头报告幻灯片提前上传截止：2027-04-16 [来源](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters)；之后须在现场 Speaker Check-in 上传。；注册截止待核实（计划 2026 年 12 月开放）：未知 [来源](https://spie.org/conferences-and-exhibitions/defense-and-security/presenters)
+- 本届条件出版原字段：按当届指南，现场报告并依规范和截止提交的论文、报告/海报材料，经主席或编辑批准后发表于 SPIE Digital Library 的 Proceedings of SPIE；可被要求修改或拒绝出版。官网一般索引渠道声明不等于本届或每篇的数据库检索证明。
+- 本届范围/冲突原备注：原 Defense + Commercial Sensing 官方路径跳转至 Defense + Security，按现名更新同一候选，避免把更名当新系列。参会页确认会场地址为 6000 West Osceola Parkway, Kissimmee；主页将地区标作 Orlando。会议为 4/18–22，展览仅 4/20–22，不混用。12 月注册开放仅有月份，实际付费入口、费用与各截止时刻/时区待核实。
+- 未解决内容及影响：当前两源抽取未正文，截止/本届规则最新变化未取得新证据，同未变源两次已停止；具体专题附加模板/实际付费入口/费用与各截止时刻时区未知，十二月开非最终注册；真实单篇Proceedings出版/索引及未来更名/欧洲系列关系未知
+- 维护触发：主办方新明确CFP延期/作者注册公告、当前来源实质内容变化或实际文集出现后维护；不为接近10/7反复请求同未变源。
+- 完整记录内容摘要76ce0cef2dfa74710ead6d3609241493f441e17def3fca1c537021fb735dee38，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
