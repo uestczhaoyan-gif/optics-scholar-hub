@@ -441,3 +441,29 @@ Journal of Applied Physics；pending。
 只检本批三个新目标的官方Compendex缓存，核SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39：SERIALS2026-08-07 TPAMI2121/01628828/19393539/IEEE Computer Society，IJCV2560/09205691/15731405/Springer，JAP3041/00218979/10897550/American Institute of Physics，三者Journal；DISCONTINUED2026-05-01无这三个精确目标。不是每篇入库或覆盖年份证明。403不绕过；技术失败累计两次停止；自动正常官方CDN重定向只读公开内容，没有手动切镜像、账号或改cookie。本批实际研究不足三不同正式期次，不声称没有光学原文、停刊或永久排除。
 
 [Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他270候选、全部正式目录及冻结范围和旧审查保持。
+
+## V1-G3N
+
+V1-G3N准入固定候选Proceedings of the National Academy of Sciences并同批完成新增正式质量；112刊/133届/98系列/10活动，273候选221 admitted/45 pending/7 deferred；SCIE96/ESCI14/EI102，JCR108/CAS11，58刊至少三篇样例。固定候选55/60（8准入、47实际限制）、余5；正式255/255（112刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。
+
+## journal-de8b7d21e8
+
+Proceedings of the National Academy of Sciences；admitted；正式ID pnas。
+
+三个官方Research Article完整摘要/出版史成功、近两年首次日与122(8)/(21)/(32)三个不同正式期明确；当前MJL独立SCIE唯一卡、JCR2025机构转载第522页JIF Q1版年/学科/两刊号实际文本及视觉核对。按明确版本Q1与真实光学适配准入，不要求伪造EI；作者/费用/About正文各两次cookieAbsent限制、CAS及周期未知保留。新增正式记录同步全字段质量审查。
+
+三个原DOI各一次正常官方请求成功，完整原摘要及Published online/in issue、类别和许可实际读取，缓存段落读取不另算源请求，正常自动cookieSet重定向未手动改cookie。[About](https://www.pnas.org/about)、[作者中心](https://www.pnas.org/author-center)、[收费](https://www.pnas.org/author-center/publication-charges)各两次均跳至action/cookieAbsent，仅公共导航，不冒充原指南/收费正文成功，不第三次请求或换镜像/PDF。导航生物/物理等栏目不当全刊原范围核读。MJL独立唯一Exact Match/SCIE卡已读，不以侧栏默认勾选为据。JCR2025二手机构转载PDF原缓存SHA25686f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274，第522页实际文本与整页视觉检查：全刊名/0027-8424/1091-6490/MULTIDISCIPLINARY SCIENCES/SCIE/JIF Q1/AIS Q1；只保存JIF Q1、版2025指标2024，不充2026最新/官方订阅JCR。Compendex缓存SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，只查本新目标精确名/号未取得肯定匹配，EI保留未核，缺匹配不等于未收录。PNAS Nexus独立期刊排除，未登录任何投稿/订阅系统。
+
+### 三原论文与正式期次
+
+- [Near-zero photon bioimaging by fusing deep learning and ultralow-light microscopy](https://www.pnas.org/doi/10.1073/pnas.2412261122)；首次线上 2025-05-19。实读官方Research Article完整摘要/出版史：正式期122(21):e2412261122，Published online2025-05-19、Published in issue2025-05-27分开；Received2024-06-20/Accepted2025-03-23不是首次日。低背景落射荧光显微与学习重建支持极低光量/高速活细胞成像，约0.01ph/pixel等性能限原研究条件，不外推所有生物或临床对象。对应文章CC BY-NC-ND 4.0，未审全文实验/SI。
+- [Volumetric imaging of the 3D orientation of cellular structures with a polarized fluorescence light-sheet microscope](https://www.pnas.org/doi/10.1073/pnas.2406679122)；首次线上 2025-02-21。实读官方Research Article完整摘要/出版史：正式期122(8):e2406679122，Published online2025-02-21、Published in issue2025-02-25分开；Received2024-04-02/Accepted2025-01-06不是首次日。偏振双视光片与物理成像模型估计荧光集合的三维位置/方向分布，光片倾转是测量条件；不是单分子方向普适测量。对应文章CC BY 4.0；2025-03-31相关Commentary不充第四原研究，未审全文实验/SI。
+- [Cryosectioning-enhanced super-resolution microscopy for single-protein imaging across cells and tissues](https://www.pnas.org/doi/10.1073/pnas.2504578122)；首次线上 2025-08-07。实读官方Research Article完整摘要/出版史：正式期122(32):e2504578122，Published online2025-08-07、Published in issue2025-08-12分开；Received2025-02-27/Accepted2025-07-02不是首次日。tkPAINT结合Tokuyasu冷冻切片与TIRF单蛋白成像/计数，3nm定位精度限所测细胞组织/标记条件，不能当所有样品的空间分辨率。对应文章CC BY-NC-ND 4.0；三正式期8/21/32不同且首发均在两年窗口，未审全文实验/SI。
+
+### 限制、影响与触发
+
+- JCR为机构转载参考、2025发布/指标2024/JIF Q1，非2026最新版官方订阅核验；CAS未知。当前SCIE独立确认，EI无肯定依据及所有索引覆盖年/单篇未核。
+- About/author-center/publication-charges各两次cookieAbsent只有公共导航，完整稿规、匿名/材料、现行费用/税/减免和统计周期未知；不可从入口或个别论文外推。
+- 三原文章只审核完整公开摘要、类别/日期/正式期次和文章许可，未审全文实验/SI；首次线上与期日不同，CC BY和CC BY-NC-ND按文章分开，适配限实际显微方法子集。
+- 维护触发：新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。
+- 只新增本固定候选的正式记录与本次质量审查；旧111刊、其余272候选、其他data、旧账本/固定G4/G5/finalAcceptance及冻结范围保持。

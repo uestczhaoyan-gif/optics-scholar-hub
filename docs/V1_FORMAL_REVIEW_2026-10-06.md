@@ -1201,3 +1201,21 @@ Communications Materials；Nature Portfolio / Springer Nature；印刷刊号未�
 - 限制/影响：JCR/CAS版年学科与SCIE无独立肯定记录，EI/ESCI覆盖年及逐篇未核；EI工程补充不强造Q1/Q2。；Aims/JournalInformation/ContentTypes/Formatting/Metrics各两次技术失败停止，完整稿型字数/匿名/模板及统计周期未知；不能继承其他Nature刊。；APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。
 - 维护触发：本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。
 - 全字段内容摘要a62d6f7ef05fd84ad1c2b384d520c5ec18ad52189fc5c87feccbf1a3f33549fe，基于99690c24df2f3a9ecb3177c04b9dd34e07642c01；不是官网指纹，不表示未知消除。
+
+## V1-G3N
+
+V1-G3N准入固定候选Proceedings of the National Academy of Sciences并同批完成新增正式质量；112刊/133届/98系列/10活动，273候选221 admitted/45 pending/7 deferred；SCIE96/ESCI14/EI102，JCR108/CAS11，58刊至少三篇样例。固定候选55/60（8准入、47实际限制）、余5；正式255/255（112刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。
+
+## pnas
+
+Proceedings of the National Academy of Sciences；National Academy of Sciences；0027-8424/1091-6490；新checkedAt 2026-10-06，候选journal-de8b7d21e8一对一。
+
+- 身份/范围、三个原摘要及首次日/正式期次、独立数据库与实际访问范围见[原依据](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-de8b7d21e8)。
+- 分区：JCR/JCR 2025/指标2024/MULTIDISCIPLINARY SCIENCES/Q1/secondary。
+- 索引：SCIE/confirmed/database [来源](https://mjl.clarivate.com/search-results?issn=1091-6490&hide_exact_match_fl=true)；MJL一次公开查1091-6490，唯一Exact Match为PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA，NATL ACAD SCIENCES与0027-8424/1091-6490一致，Core Collection明确Science Citation Index Expanded；侧栏默认勾选不当证据。未登录profile或订阅单篇，覆盖起止未知。；EI_COMPENDEX/unverified/null 无肯定来源；本次已验官方Compendex缓存版本及SHA，按本刊精确刊名/刊号未取得匹配肯定依据；不能据无精确匹配断言所有年份或每篇未收录。没有以JCR或SCIE替代EI证据；覆盖范围未知。
+- 已读作者规则：2026-10-06三个官方Research Article完整摘要及出版史实际可读，类别与正式122(8)、122(21)、122(32)独立确认；适配限显微光学方法，不以Commentary或PNAS Nexus论文替代本刊原研究。；本刊author-center与About各两次正常请求均跳至cookieAbsent，仅有公共导航无所请求正文。指南入口可用不代表稿规已实读；初投稿型字数/摘要/图表、模板、匿名、必需材料和完整评审条件明确待核验，不继承其他期刊规则。；导航给出PNAS Central投稿入口，但未登录、注册或实际提交；未改cookie、切换镜像或请求PDF规避限制。原论文科学审核限公开完整摘要和元数据，未做全文实验或补充材料审计。 [本刊指南](https://www.pnas.org/author-center)。
+- 出版/费用：本刊publication-charges页两次请求均仅返回cookieAbsent公共导航，当前APC、版面/彩图费、税、豁免资格和全刊出版模式尚未实读。三个成功原Article许可分别为CC BY-NC-ND 4.0、CC BY 4.0、CC BY-NC-ND 4.0，仅适用于对应文章，不能推定全刊只有一种许可或所有作者免费。
+- 周期：作者/费用/About正文缺，未取得可核的统计版年、首决定或接受周期。三个原Research Article均分别记录Published online和Published in issue；不能把Received/Accepted或期刊期日当首次线上日，也不从三个个例计算全刊周期。
+- 限制/影响：JCR为机构转载参考、2025发布/指标2024/JIF Q1，非2026最新版官方订阅核验；CAS未知。当前SCIE独立确认，EI无肯定依据及所有索引覆盖年/单篇未核。；About/author-center/publication-charges各两次cookieAbsent只有公共导航，完整稿规、匿名/材料、现行费用/税/减免和统计周期未知；不可从入口或个别论文外推。；三原文章只审核完整公开摘要、类别/日期/正式期次和文章许可，未审全文实验/SI；首次线上与期日不同，CC BY和CC BY-NC-ND按文章分开，适配限实际显微方法子集。
+- 维护触发：新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。
+- 全字段内容摘要80d105072e8acee5357198ef304b78e1a50ee24bed04319745690ff7dba7f8bc，基于07de5d3e88f1e71a0c14f793fa010d90b74b01b8；不是官网指纹，不表示未知消除。

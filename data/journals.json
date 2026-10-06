@@ -8609,5 +8609,81 @@
         "relevance": "实读Article原完整摘要/出版史，正式卷7,154(2026)，Published2026-04-13与Version of record2026-06-11不同，Received2025-11-25/Accepted2026-03-26不作首次日。低温共振谱与谱烧孔测SiC绝缘体薄膜Er磁光亚MHz线宽及寿命，光子网络器件子集，不能称已部署产业量子网；三正式卷5/6/7独立，未伪造数字期号。"
       }
     ]
+  },
+  {
+    "id": "pnas",
+    "name": "Proceedings of the National Academy of Sciences",
+    "abbr": "Proc. Natl. Acad. Sci. USA",
+    "publisher": "National Academy of Sciences",
+    "topics": ["成像与计算光学", "生物医学光学"],
+    "domains": ["光学", "生物医学", "物理"],
+    "description": "综合科学刊中的光学方法与生物成像子集：近两年三个不同正式期次的原Research Article分别涉及极低光显微、偏振荧光光片三维方向成像和冷冻切片结合单蛋白超分辨。按明确版本的JCR2025/指标2024 Q1与实际光学适配准入，不把全部生物研究自动归入光学；当前独立SCIE确认，EI及完整作者规则未知。",
+    "website": "https://www.pnas.org/",
+    "guide": "https://www.pnas.org/author-center",
+    "requirements": [
+      "2026-10-06三个官方Research Article完整摘要及出版史实际可读，类别与正式122(8)、122(21)、122(32)独立确认；适配限显微光学方法，不以Commentary或PNAS Nexus论文替代本刊原研究。",
+      "本刊author-center与About各两次正常请求均跳至cookieAbsent，仅有公共导航无所请求正文。指南入口可用不代表稿规已实读；初投稿型字数/摘要/图表、模板、匿名、必需材料和完整评审条件明确待核验，不继承其他期刊规则。",
+      "导航给出PNAS Central投稿入口，但未登录、注册或实际提交；未改cookie、切换镜像或请求PDF规避限制。原论文科学审核限公开完整摘要和元数据，未做全文实验或补充材料审计。"
+    ],
+    "publishing": "本刊publication-charges页两次请求均仅返回cookieAbsent公共导航，当前APC、版面/彩图费、税、豁免资格和全刊出版模式尚未实读。三个成功原Article许可分别为CC BY-NC-ND 4.0、CC BY 4.0、CC BY-NC-ND 4.0，仅适用于对应文章，不能推定全刊只有一种许可或所有作者免费。",
+    "schedule": "作者/费用/About正文缺，未取得可核的统计版年、首决定或接受周期。三个原Research Article均分别记录Published online和Published in issue；不能把Received/Accepted或期刊期日当首次线上日，也不从三个个例计算全刊周期。",
+    "checkedAt": "2026-10-06",
+    "issn": "0027-8424",
+    "eissn": "1091-6490",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MULTIDISCIPLINARY SCIENCES",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=522",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1091-6490&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL一次公开查1091-6490，唯一Exact Match为PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA，NATL ACAD SCIENCES与0027-8424/1091-6490一致，Core Collection明确Science Citation Index Expanded；侧栏默认勾选不当证据。未登录profile或订阅单篇，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "本次已验官方Compendex缓存版本及SHA，按本刊精确刊名/刊号未取得匹配肯定依据；不能据无精确匹配断言所有年份或每篇未收录。没有以JCR或SCIE替代EI证据；覆盖范围未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Near-zero photon bioimaging by fusing deep learning and ultralow-light microscopy",
+        "source": "https://www.pnas.org/doi/10.1073/pnas.2412261122",
+        "publishedAt": "2025-05-19",
+        "relevance": "实读官方Research Article完整摘要/出版史：正式期122(21):e2412261122，Published online2025-05-19、Published in issue2025-05-27分开；Received2024-06-20/Accepted2025-03-23不是首次日。低背景落射荧光显微与学习重建支持极低光量/高速活细胞成像，约0.01ph/pixel等性能限原研究条件，不外推所有生物或临床对象。对应文章CC BY-NC-ND 4.0，未审全文实验/SI。"
+      },
+      {
+        "title": "Volumetric imaging of the 3D orientation of cellular structures with a polarized fluorescence light-sheet microscope",
+        "source": "https://www.pnas.org/doi/10.1073/pnas.2406679122",
+        "publishedAt": "2025-02-21",
+        "relevance": "实读官方Research Article完整摘要/出版史：正式期122(8):e2406679122，Published online2025-02-21、Published in issue2025-02-25分开；Received2024-04-02/Accepted2025-01-06不是首次日。偏振双视光片与物理成像模型估计荧光集合的三维位置/方向分布，光片倾转是测量条件；不是单分子方向普适测量。对应文章CC BY 4.0；2025-03-31相关Commentary不充第四原研究，未审全文实验/SI。"
+      },
+      {
+        "title": "Cryosectioning-enhanced super-resolution microscopy for single-protein imaging across cells and tissues",
+        "source": "https://www.pnas.org/doi/10.1073/pnas.2504578122",
+        "publishedAt": "2025-08-07",
+        "relevance": "实读官方Research Article完整摘要/出版史：正式期122(32):e2504578122，Published online2025-08-07、Published in issue2025-08-12分开；Received2025-02-27/Accepted2025-07-02不是首次日。tkPAINT结合Tokuyasu冷冻切片与TIRF单蛋白成像/计数，3nm定位精度限所测细胞组织/标记条件，不能当所有样品的空间分辨率。对应文章CC BY-NC-ND 4.0；三正式期8/21/32不同且首发均在两年窗口，未审全文实验/SI。"
+      }
+    ]
   }
 ]

@@ -1436,6 +1436,21 @@
         "官网JCR2026发布/指标2025的Q3只出版社层，不混AIS或推2025版；独立MJL/JCR/CAS、完整稿型/匿名与价格生效年未核"
       ],
       "maintenanceTrigger": "合法新光学原研究公开正文和不同正式期次/出版史及现行稿规分类材料出现后补三例，按EI工程补充判；不重复两次失败原文或继承旧S2O/其他AIP刊字数。"
+    },
+    {
+      "candidateId": "journal-de8b7d21e8",
+      "checkedAt": "2026-10-06",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-de8b7d21e8",
+      "formalIds": ["pnas"],
+      "limitations": [
+        "JCR为机构转载参考、2025发布/指标2024/JIF Q1，非2026最新版官方订阅核验；CAS未知。当前SCIE独立确认，EI无肯定依据及所有索引覆盖年/单篇未核。",
+        "About/author-center/publication-charges各两次cookieAbsent只有公共导航，完整稿规、匿名/材料、现行费用/税/减免和统计周期未知；不可从入口或个别论文外推。",
+        "三原文章只审核完整公开摘要、类别/日期/正式期次和文章许可，未审全文实验/SI；首次线上与期日不同，CC BY和CC BY-NC-ND按文章分开，适配限实际显微方法子集。"
+      ],
+      "maintenanceTrigger": "新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。"
     }
   ],
   "formalDataReviews": [
@@ -7267,6 +7282,29 @@
         "APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。"
       ],
       "maintenanceTrigger": "本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。"
+    },
+    {
+      "kind": "journal",
+      "id": "pnas",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "80d105072e8acee5357198ef304b78e1a50ee24bed04319745690ff7dba7f8bc",
+      "formalReviewBase": "07de5d3e88f1e71a0c14f793fa010d90b74b01b8",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#pnas",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "JCR为机构转载参考、2025发布/指标2024/JIF Q1，非2026最新版官方订阅核验；CAS未知。当前SCIE独立确认，EI无肯定依据及所有索引覆盖年/单篇未核。",
+        "About/author-center/publication-charges各两次cookieAbsent只有公共导航，完整稿规、匿名/材料、现行费用/税/减免和统计周期未知；不可从入口或个别论文外推。",
+        "三原文章只审核完整公开摘要、类别/日期/正式期次和文章许可，未审全文实验/SI；首次线上与期日不同，CC BY和CC BY-NC-ND按文章分开，适配限实际显微方法子集。"
+      ],
+      "maintenanceTrigger": "新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。"
     }
   ],
   "coreSeriesReviews": [

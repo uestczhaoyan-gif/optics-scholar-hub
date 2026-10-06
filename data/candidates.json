@@ -3658,13 +3658,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 3,
-    "scopeHint": "综合或条件交叉，需核实光学适配、存续状态和准入。",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "scopeHint": "综合科学中的光学显微、偏振成像及单蛋白超分辨子集；JCR2025/指标2024 Q1，不扩全部生命科学",
+    "sourceEntry": "https://www.pnas.org/author-center",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["pnas"],
+    "decisionReason": "三个官方Research Article完整摘要/出版史成功、近两年首次日与122(8)/(21)/(32)三个不同正式期明确；当前MJL独立SCIE唯一卡、JCR2025机构转载第522页JIF Q1版年/学科/两刊号实际文本及视觉核对。按明确版本Q1与真实光学适配准入，不要求伪造EI；作者/费用/About正文各两次cookieAbsent限制、CAS及周期未知保留。新增正式记录同步全字段质量审查。",
+    "nextAction": "新的合法公开作者稿规/收费与统计定义、官方JCR/CAS及索引覆盖材料发布后逐字段维护；不重复未变化两次cookieAbsent页，不扩全部生命科学或固定名单。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-979d6300fd",
