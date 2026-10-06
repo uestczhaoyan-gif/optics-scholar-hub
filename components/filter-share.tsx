@@ -14,14 +14,15 @@ export function FilterShare({
   );
   async function share() {
     const url = writeFilterLink(window.location.href, tab, filters);
-    let copied = false;
+    setResult({ url, copied: false });
     try {
       await navigator.clipboard.writeText(url);
-      copied = true;
+      setResult((current) =>
+        current?.url === url ? { url, copied: true } : current,
+      );
     } catch {
       /* Manual copy remains available. */
     }
-    setResult({ url, copied });
   }
   return (
     <div className="filter-share">

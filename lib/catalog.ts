@@ -271,6 +271,7 @@ export function matchesText(
     item.name,
     item.nameEn,
     item.series,
+    item.year,
     item.abbr,
     item.description,
     item.location,
