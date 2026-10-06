@@ -1679,3 +1679,63 @@ IEEE SENSORS 2026；2026；IEEE SENSORS/series-61e9589bca77；admitted关联conf
 - 未解决内容及影响：68页仅1/13页实际核范围，后续延期/lateposter及完整摘要字符规则未知；$币种与最终注册/作者报告材料未核，优惠/退款非硬报名截止；统一出版fee真实索引及后续Fall未知，不搬Spring
 - 维护触发：当届正式晚稿/完整作者指南、币种/报告出版或后续Fall公告公开后维护，不重复初轮CFP或用春季替代。
 - 完整记录内容摘要7c4c277128b7a3a8a18c45b17fdf27b46e347ba1dfced7957016ce984f74fd89，基于8c037d8363abbb759a0d6ae5845858f32953e729；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AL
+
+实际完整读取E-MRS春秋2026/2027四届JSON、两稳定series及admitted关联，并比对已实读C22各独立PracticalInformation、专题/日期与提案范围。只复用原真实官方证据、不重访未变历史页/未来占位、不读账号模板；两历史安装/时间歧义及未来ordinary未知独立，不复制MRS或旧届。全部data/checkedAt及固定范围保持，本批审查日期不冒称今天官网全文新核。 累计正式质量238/252，余14未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## emrs-spring-2026
+
+2026 E-MRS Spring Meeting & Exhibit；2026；E-MRS Spring Meeting/series-632b4a2c043a；admitted关联conference-series-632b4a2c04，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.european-mrs.com/meetings/2026-spring-meeting-exhibit)、[原通知](https://www.european-mrs.com/meetings/2026-spring/practical-information)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：当届主页2026/5/25–29 StrasbourgConventionExhibitionCentre，5/24接待不作start；D光子器件多物理混合集成磁电光非线性/N激光加工/O极化激元opticalsubset，专题不重复母会、E-MRS不是MRS。Practical实读英文plaintext≤3000含空格无图公式、多稿无摘要fee、Key4Events须SUBMIT草稿不评审，1/28延期23:59Paris冬UTC+01精确可存，最晚3/6notice非以会期推。含QA一般15min具体symposium，A0portrait胶带不图钉、到场取下/未报告不finalprogram。4/16前EUR640/student380后790/480现场850/530，studentproof各参加者pay不凭accept注册；4/16当日包容未核不造时刻。5/18 17CET夏Paris歧义只date，在线closed与onsitefee并存不保现场可报名。期刊按各symposium另投稿、费含如适用一卷Proceedings不证明统一pub或实际索引，2027独立。
+- 日城与范围：2026-05-25–2026-05-29；法国 · 斯特拉斯堡；Strasbourg Convention & Exhibition Centre（Palais de la Musique et des Congrès）；submissionState published。
+- 逐字段截止及出处：2026普通摘要延期截止（历史）：2026-01-28T23:59:00+01:00 / Europe/Paris [来源](https://www.european-mrs.com/meetings/2026-spring/practical-information)；最晚录用/报告形式通知（历史）：2026-03-06 [来源](https://www.european-mrs.com/meetings/2026-spring/practical-information)；2026在线注册界限（原文17:00 CET有夏令时歧义）：2026-05-18 [来源](https://www.european-mrs.com/meetings/2026-spring/practical-information)
+- 本届条件出版原字段：本届主页邀请将科学论文另投适配专题所选期刊；费表提及如适用的一卷proceedings，不证明统一会议录/特定期刊录用或实际数据库索引。具体期刊及出版费待独立核实。
+- 本届范围/冲突原备注：已结束，保存历史准备参考；5/24仅接待/注册非会期。在线注册原文May18 5pm CET，夏季Paris时区歧义保留日期级；4/16费率边界未明确含当天，不能自动当23:59。2027有独立页/会期，旧3000字符与费用/海报安装规则不迁入。
+- 未解决内容及影响：5/18 CET夏令歧义及4/16价格当日边界未释，不造UTC；具体专题报告/最终作者付款与Key4Events内部模板未核；适配期刊/出版fee和真实索引未知，conditional卷非全会保证
+- 维护触发：历史官方时区/价格边界及专题出版资料或2027独立作者公告公开后维护，不沿用历史规则。
+- 完整记录内容摘要5d5f8d148bbd7ec24c1dfa15e0e2bdc4665e39c7c8b8ed5980b1456c4636f00d，基于0680f4c5c74b8cd3292c97d57c8a6bf0981c5071；非官网内容指纹，未知不冒充已补齐。
+
+## emrs-fall-2026
+
+2026 E-MRS Fall Meeting & Exhibit；2026；E-MRS Fall Meeting/series-d02307a86371；admitted关联conference-series-d02307a863，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit)、[原通知](https://www.european-mrs.com/meetings/2026-fall/practical-information)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：2026/9/14–17 WarsawTech中央校园PlPolitechniki1，9/13现场接待非会期；F应用光学无序计算成像radiativecooling传感非线性发光实际专题/生物光子seriesopticalsubset。英文3000char无图公式可多稿无abstractfee需finalsubmit，6/9 23:59没有timezone只date不凭Warsaw造，noticeby7/15日期级。一般口头含QA15min按专题、A0portrait841×1189无须胶带/图钉且无现场打印不同Spring，authoronsiteandremove。8/17前EUR570/student350后680/410现场730/460，各参会者独立付款/学生证明；beforeafter及deadline8/17当日含义不猜。online9/7 17CET夏歧义，现场9/13另层级。主会邀请另投适配期刊/如适用卷Proceedings非自动发表和实际index；2027CFPfee3000不可移。
+- 日城与范围：2026-09-14–2026-09-17；波兰 · 华沙；Warsaw University of Technology中央校园（Pl. Politechniki 1）；submissionState published。
+- 逐字段截止及出处：2026摘要新截止（原文23:59无时区；历史）：2026-06-09 [来源](https://www.european-mrs.com/meetings/2026-fall/practical-information)；最晚录用及报告形式通知（历史）：2026-07-15 [来源](https://www.european-mrs.com/meetings/2026-fall/practical-information)；会前费率界限（历史；当天边界待核）：2026-08-17 [来源](https://www.european-mrs.com/meetings/deadlines)；在线注册界限（原文17:00 CET歧义；历史）：2026-09-07 [来源](https://www.european-mrs.com/meetings/2026-fall/practical-information)
+- 本届条件出版原字段：主会邀请作者另投各专题适配期刊；注册包括如适用的一卷proceedings，未确认全会统一论文集、具体期刊录用或实际索引。
+- 本届范围/冲突原备注：历史已结束，6/9仅日期保存而不补Warsaw时区。在线9/7原文CET在夏季有歧义；早鸟写before/after8/17与deadlines页8/17并存，保留日级，不造时刻或当天包容性。2027只专题提案与会期，不沿用2026稿长费率。
+- 未解决内容及影响：6/9时区缺、9/7CET夏歧义与8/17当日fee边界不明确；内部投稿模板及各专题具体报告/最终authorreg未核；统一出版/期刊fee与实际索引未知，不能复制2027
+- 维护触发：官方历史时区/价格解释与专题出版资料或2027独立作者公告公开后维护，春秋安装各自保存。
+- 完整记录内容摘要dead451f38e21a547931d4913d88935d900a5caeeb94fd782b45df711753ac85，基于0680f4c5c74b8cd3292c97d57c8a6bf0981c5071；非官网内容指纹，未知不冒充已补齐。
+
+## emrs-spring-2027
+
+2027 E-MRS Spring Meeting & Exhibit；2027；E-MRS Spring Meeting/series-632b4a2c043a；admitted关联conference-series-632b4a2c04，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit)、[原通知](https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：2027专属页/日期列表/organizerproposal直接5/17–21 StrasbourgConventionCentre，不被always五月最后周模板文字覆盖也不从2026排程推。当前symposia数量占位/名单unknown，optical标签系列线索非当届所有materials光学。4/1/2026为组织者提案已过非ordinary摘要；作者CFPcharformat评审系统/notifyreport、注册fee及deadline两null，unknown真实。不把2026 3000char/A0胶带规则或EUR费表移。主页向symposium选择期刊投稿只是条件invite，当届具体publisherjournalpubfee/真实索引未知。
+- 日城与范围：2027-05-17–2027-05-21；法国 · 斯特拉斯堡；Strasbourg Convention & Exhibition Centre；submissionState unknown。
+- 逐字段截止及出处：2027普通作者摘要截止待公布（非专题提案）：未知 [来源](https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit)；2027注册/费用和截止待公布：未知 [来源](https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit)
+- 本届条件出版原字段：主页提到向专题所选期刊投稿，具体2027期刊/费用及实际数据库索引未知；会前专题提案不等于普通作者录用。
+- 本届范围/冲突原备注：官方具体页与日程均5/17–21；通用“always last week of May”不用于推算或覆盖本届日期。专题提案4/1/2026已过，不当普通摘要截止。
+- 未解决内容及影响：2027光学专题/普通CFP格式评审系统未完整公告或未核；ordinary投稿通知/注册fee日及报告条件未知，提案不是作者DDL；本届具体期刊/出版fee及实际索引未知，2026规则不转移
+- 维护触发：E-MRS Spring2027普通作者CFP、专题名单与注册出版公告发布后维护，具体5/17–21优先通用模板。
+- 完整记录内容摘要d9ad63219dbf18ae9acd650eaf271c6faaec3c69d11526a945f77381ed31f176，基于0680f4c5c74b8cd3292c97d57c8a6bf0981c5071；非官网内容指纹，未知不冒充已补齐。
+
+## emrs-fall-2027
+
+2027 E-MRS Fall Meeting & Exhibit；2027；E-MRS Fall Meeting/series-d02307a86371；admitted关联conference-series-d02307a863，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit)、[原通知](https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：2027专属页与日期表直接9/20–23 WarsawTech，不靠annual平移2026。当前10/15/2026只是organizer symposium proposals且December末决定窗口，无具体日不填notification，普通author摘要unknown不误报10/15可论文投。系列光学材料/集成标记仅范围线索，当届名单/charformat评审system/报告费模板与注册均待CFP/未知，两nullregistrationnull。不搬2026plaintext3000/无胶带安装/EUR费表、主会期刊邀请不证本届具体期刊录用/出版费/actualindex。春秋各一stable两editions，不把组织提案子专题重复学术会。
+- 日城与范围：2027-09-20–2027-09-23；波兰 · 华沙；Warsaw University of Technology；submissionState unknown。
+- 逐字段截止及出处：2027普通作者摘要截止待公布（非专题提案）：未知 [来源](https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit)；2027注册/费用和截止待公布：未知 [来源](https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit)
+- 本届条件出版原字段：主页提到向专题所选期刊投稿，具体2027期刊/费用及实际数据库索引未知；会前专题提案不等于普通作者录用。
+- 本届范围/冲突原备注：当前10/15/2026是专题组织提案，拟12月底决定，非普通作者摘要；不将其放入论文DDL。普通征稿/专题名单待发布。
+- 未解决内容及影响：10/15是组织提案、December末是窗口，普通稿截止未核；本届光学专题/模板评审报告及注册fee未知，不复制历史；具体期刊/出版fee真实索引未知，未来日城不证明可投稿
+- 维护触发：Fall2027普通CFP与专题/注册作者出版政策发布后维护，不把organizerproposal放学生论文DDL。
+- 完整记录内容摘要c3ebc4613bad9837b09455b38c2ae3843548a469238222d46f3782873c50a9cf，基于0680f4c5c74b8cd3292c97d57c8a6bf0981c5071；非官网内容指纹，未知不冒充已补齐。

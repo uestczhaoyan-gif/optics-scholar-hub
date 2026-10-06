@@ -6619,6 +6619,102 @@
         "统一出版fee真实索引及后续Fall未知，不搬Spring"
       ],
       "maintenanceTrigger": "当届正式晚稿/完整作者指南、币种/报告出版或后续Fall公告公开后维护，不重复初轮CFP或用春季替代。"
+    },
+    {
+      "kind": "conference",
+      "id": "emrs-spring-2026",
+      "seriesId": "series-632b4a2c043a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "5d5f8d148bbd7ec24c1dfa15e0e2bdc4665e39c7c8b8ed5980b1456c4636f00d",
+      "formalReviewBase": "0680f4c5c74b8cd3292c97d57c8a6bf0981c5071",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#emrs-spring-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "5/18 CET夏令歧义及4/16价格当日边界未释，不造UTC",
+        "具体专题报告/最终作者付款与Key4Events内部模板未核",
+        "适配期刊/出版fee和真实索引未知，conditional卷非全会保证"
+      ],
+      "maintenanceTrigger": "历史官方时区/价格边界及专题出版资料或2027独立作者公告公开后维护，不沿用历史规则。"
+    },
+    {
+      "kind": "conference",
+      "id": "emrs-fall-2026",
+      "seriesId": "series-d02307a86371",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "dead451f38e21a547931d4913d88935d900a5caeeb94fd782b45df711753ac85",
+      "formalReviewBase": "0680f4c5c74b8cd3292c97d57c8a6bf0981c5071",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#emrs-fall-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "6/9时区缺、9/7CET夏歧义与8/17当日fee边界不明确",
+        "内部投稿模板及各专题具体报告/最终authorreg未核",
+        "统一出版/期刊fee与实际索引未知，不能复制2027"
+      ],
+      "maintenanceTrigger": "官方历史时区/价格解释与专题出版资料或2027独立作者公告公开后维护，春秋安装各自保存。"
+    },
+    {
+      "kind": "conference",
+      "id": "emrs-spring-2027",
+      "seriesId": "series-632b4a2c043a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d9ad63219dbf18ae9acd650eaf271c6faaec3c69d11526a945f77381ed31f176",
+      "formalReviewBase": "0680f4c5c74b8cd3292c97d57c8a6bf0981c5071",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#emrs-spring-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027光学专题/普通CFP格式评审系统未完整公告或未核",
+        "ordinary投稿通知/注册fee日及报告条件未知，提案不是作者DDL",
+        "本届具体期刊/出版fee及实际索引未知，2026规则不转移"
+      ],
+      "maintenanceTrigger": "E-MRS Spring2027普通作者CFP、专题名单与注册出版公告发布后维护，具体5/17–21优先通用模板。"
+    },
+    {
+      "kind": "conference",
+      "id": "emrs-fall-2027",
+      "seriesId": "series-d02307a86371",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c3ebc4613bad9837b09455b38c2ae3843548a469238222d46f3782873c50a9cf",
+      "formalReviewBase": "0680f4c5c74b8cd3292c97d57c8a6bf0981c5071",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#emrs-fall-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "10/15是组织提案、December末是窗口，普通稿截止未核",
+        "本届光学专题/模板评审报告及注册fee未知，不复制历史",
+        "具体期刊/出版fee真实索引未知，未来日城不证明可投稿"
+      ],
+      "maintenanceTrigger": "Fall2027普通CFP与专题/注册作者出版政策发布后维护，不把organizerproposal放学生论文DDL。"
     }
   ],
   "coreSeriesReviews": [
