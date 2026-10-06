@@ -1731,3 +1731,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AJ实审7届会议全部字段，正式质量累计229/252（109刊/110届/10活动）、余23；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，仅指定当届字段修订，其他目录保持。 实际完整读取七届JSON与稳定series/admitted、C19/C20原出处及C21未来日程和SENSORS各路径（MEMS无关段不重复）。QIP Call和SENSORS展示指南第二有效请求（10/4首次）成功缓存今天：只补QIP现场及既有TQC/重复稿边界、SENSORS截止后幻灯片USB与海报例外更新区别至各requirements，其余data/原checkedAt不变。QIP10/5AoE在本次UTC10/6上午尚未到点，仅已预登记稿能完成；不误报全体重开。旧FOOP证书异常不重访/绕过、不下载未变PDF/模板或登录，未来IEDM不复制2026。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2aj)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、仅QIP/SENSORS requirements两项明确allowlist及其余data/冻结字节、旧222正式42候选G4G5final保护、229唯一摘要与七series关系断言通过；702本地文件链接、七文件完整实际差异/git diff --check通过。新数据子路径构建六入口资产完成，同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages及线上新摘要。QIP既有口头预登记截止不重开、poster与口头更新不同；SENSORS展示上传与新OpenPoster/正式论文分开。
+
+## 2026-10-06：正式会议质量 V1-G2AK
+
+- 8c037d8363abbb759a0d6ae5845858f32953e729已验收[Pages 37436451888](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37436451888)；同SHA build/deploy成功、首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e匹配本地（2026-10-06T08:31:01.069Z）。编辑前HEAD=origin/main；work/V1-G2AK-plan.json长操作前保护真实范围。
+- V1-G2AK实审5届会议全部字段，正式质量累计234/252（109刊/115届/10活动）、余18；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取MRS五届JSON、稳定Spring四届及独立Fall/各admitted关系、C22原普通浏览器和两页指南/68页CFP实际核图范围。只复用原成功官方证据，不重试已工具失败后浏览器成功的不变来源、不下载原PDF/登录；各届规则不转移，全部data/原checkedAt/固定范围保持。未来五年官方新闻是明示日期不是周期推算；本批正式质量日期不冒充今天官网完整新核。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ak)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data及冻结字节/旧229正式42候选G4G5final保护、234唯一摘要与五届admitted系列关系断言通过；711本地文件链接、六文档完整实际差异/git diff --check通过。纯文档复用已验收7b4426新摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收部署和线上版本。MRS未来城市不证明同场馆，春季/秋季各届投稿和费用分开，未来未知保留。

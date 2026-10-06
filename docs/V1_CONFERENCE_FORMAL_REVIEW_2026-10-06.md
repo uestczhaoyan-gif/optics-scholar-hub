@@ -1605,3 +1605,77 @@ IEEE SENSORS 2026；2026；IEEE SENSORS/series-61e9589bca77；admitted关联conf
 - 未解决内容及影响：通知8/23–24冲突/精确时刻及后续届次未核；private上传、template内容和实际注册系统未核，不保证截止后poster更新；Xplore有scope质量付款报告条件，B期刊独立/OpenPoster不出版，实际EI未核
 - 维护触发：官方更正通知或公布新作者/后续CFP资料后维护；已两次展示指南停止，幻灯片USB与poster例外更新分开。
 - 完整记录内容摘要0ae1ef05f32a2458c5efb15c56846fe9b6ecd5307e4eeeba51b5d04e39289f6d，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AK
+
+实际完整读取MRS五届JSON、稳定Spring四届及独立Fall/各admitted关系、C22原普通浏览器和两页指南/68页CFP实际核图范围。只复用原成功官方证据，不重试已工具失败后浏览器成功的不变来源、不下载原PDF/登录；各届规则不转移，全部data/原checkedAt/固定范围保持。未来五年官方新闻是明示日期不是周期推算；本批正式质量日期不冒充今天官网完整新核。 累计正式质量234/252，余18未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## mrs-spring-2027
+
+2027 MRS Spring Meeting & Exhibit；2027；MRS Spring Meeting/series-ef5f36cccccf；admitted关联conference-series-ef5f36cccc，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit)、[原通知](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：当届主页/CFP普通浏览器原URL正文成功，工具520未当证据；2027/4/5–9 SeattleSummitConventionCentre/HyattRegency与EL06光子界面07等离激元超表面08光计算SB05生物光子，母会只opticalsubset、附展不另论文会议。两页摘要指南全文/两页真实图sha bc27cacd267b2b7f54d1c10c49f0f2dbd4b0d7c6583ee21e228fa5e7c6fa4998，10/14/2026 23:59ET当−04纽约；题名/正文连列≤4000含空格字符，分项/合计AbstractCentral登录内未核，不造确定分配；无图/图形表、≤3关键词非会员可投、有明确invite才能选。author单位email专题oralposter偏好组织者最终决定/可转专题，同摘要一次duplicate删除，需SUBMIT草稿不评审。midDecember通知仅monthwindow不造日，regfees/报告文件流程及真实出版索引unknown；未来28–30不沿用本届4000chars。
+- 日城与范围：2027-04-05–2027-04-09；美国 · 华盛顿州西雅图；Summit at Seattle Convention Center及Hyatt Regency Seattle；submissionState published。
+- 逐字段截止及出处：2027普通摘要提交截止：2026-10-14T23:59:00-04:00 / America/New_York [来源](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts)；拟2026年12月中旬通知，具体日待公布：未知 [来源](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts)；2027注册入口/费率和截止待公布：未知 [来源](https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit)
+- 本届条件出版原字段：本轮核实摘要评选和口头/海报路径，未确认2027统一会议论文集、出版费或实际数据库索引；会议报告和MRS期刊独立录用分开。
+- 本届范围/冲突原备注：2026-10-14 23:59 ET为当届明示截止（America/New_York当日UTC−4）。主页/CFP与PDF指南正常浏览器/只读下载核实；未登录Abstract Central。2028–2030官方未来日程另记预告，2027稿规不迁入。
+- 未解决内容及影响：4000字符题名/正文分项或合计计数未入系统核，不能造解释；通知仅12月中旬、注册fee/报告材料及实际系统接收未知；统一论文集/出版fee实际索引未知，MRS期刊独立，未来不沿用
+- 维护触发：2027正式表单说明/作者注册及出版报告通知公开后维护；不重复不变两页指南或同URL受限请求。
+- 完整记录内容摘要25526d019e12546af4b844278e9b0346861dfbf5e19302c772ce4e6fca6122e2，基于8c037d8363abbb759a0d6ae5845858f32953e729；非官网内容指纹，未知不冒充已补齐。
+
+## mrs-spring-2028
+
+2028 MRS Spring Meeting & Exhibit；2028；MRS Spring Meeting/series-ef5f36cccccf；admitted关联conference-series-ef5f36cccc，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)、[原通知](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：2026/2/16学会五年新闻实际浏览正文直接2028/3/27–31 Vancouver，不依城市轮换生成。与2027/29/30四个独立Spring届同stable关系，非Fall/E-MRS。具体会场未知不能从2027SeattleSummit搬，标签系列材料光子线索非当届symposia。只datecity，abstractCFP专题系统篇幅/4000chars模板/评审通知deadline报告/注册fee与本届论文集journal出版/实际索引未核，unknown和两null对齐；2027稿规fee不复制。新闻还2026有日期但本版没适配审查，不扩大固定133范围。
+- 日城与范围：2028-03-27–2028-03-31；加拿大 · 不列颠哥伦比亚省温哥华；具体会场尚未公布；submissionState unknown。
+- 逐字段截止及出处：本届征稿/摘要截止待公布：未知 [来源](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)；本届注册/费用和截止待公布：未知 [来源](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)
+- 本届条件出版原字段：未来会期新闻未确认本届论文集/期刊轨道、出版费或实际数据库索引。
+- 本届范围/冲突原备注：会期来自2026-02-16学会正式新闻，不按轮换周期推算；2030跨4/5月分别保留，未来公告变化仍需逐届复核。
+- 未解决内容及影响：2028只学会日城预告，具体场馆光学专题/完整稿规未知；摘要通知/注册费日及报告系统条件未知；本届出版轨道fee实际索引未知，不复制2027
+- 维护触发：MRS Spring2028专属场馆CFP/注册作者及出版通知公开后维护，既有新闻日城不反复核。
+- 完整记录内容摘要ff8e1331df028479628bba70dc71774d8c0efa32e00e85b2527051e2a2b3b18e，基于8c037d8363abbb759a0d6ae5845858f32953e729；非官网内容指纹，未知不冒充已补齐。
+
+## mrs-spring-2029
+
+2029 MRS Spring Meeting & Exhibit；2029；MRS Spring Meeting/series-ef5f36cccccf；admitted关联conference-series-ef5f36cccc，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)、[原通知](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：同学会五年公告直接2029/4/9–13 Seattle，不能因同城2027把Summit/Hyatt当本届已确定venue。保留具体会场unknown。系列opticalmaterial/photonics标签只是提前规划线索，当届光学专题名单/摘要systemformatreview、各deadline报告注册fee、出版索引全unknown，两null不同旧2027deadline；Spring独立Fall/E-MRS，一stable四future不是重复母子会议，未来版本若变仍当届复核不按annual推。
+- 日城与范围：2029-04-09–2029-04-13；美国 · 华盛顿州西雅图；具体会场尚未公布；submissionState unknown。
+- 逐字段截止及出处：本届征稿/摘要截止待公布：未知 [来源](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)；本届注册/费用和截止待公布：未知 [来源](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)
+- 本届条件出版原字段：未来会期新闻未确认本届论文集/期刊轨道、出版费或实际数据库索引。
+- 本届范围/冲突原备注：会期来自2026-02-16学会正式新闻，不按轮换周期推算；2030跨4/5月分别保留，未来公告变化仍需逐届复核。
+- 未解决内容及影响：同Seattle不证明2027场馆/主题适用，2029具体场馆稿规未核；摘要注册fee/截止与报告系统条件未知；论文集/期刊路径出版fee实际索引未知，不能沿用2027
+- 维护触发：Spring2029独立CFP/场馆注册及出版作者通知后维护，明确年度来源不推年会周期。
+- 完整记录内容摘要3657fcbbd244d7b8f3b2eaa33a382b7c0de5c388cbf93f3a5c20b7eb22ffee2d，基于8c037d8363abbb759a0d6ae5845858f32953e729；非官网内容指纹，未知不冒充已补齐。
+
+## mrs-spring-2030
+
+2030 MRS Spring Meeting & Exhibit；2030；MRS Spring Meeting/series-ef5f36cccccf；admitted关联conference-series-ef5f36cccc，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)、[原通知](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：2026/2/16明列2030 Honolulu4/28–5/3跨月完整跨度，非按2029周日程复制或截成4月。未来一个Spring届同四editions明确关联，当前venue未公布、不因Honolulu猜酒店展馆，labels只系列光子材料而非当届confirmedtopics。CFP系统字符模板/评审报告notification、注册费用/任何deadline均未核两null；出版/期刊费实际数据库未知，不把四年前4000chars或任何MRS出版史当本届事实。附Exhibit不另一论文会议。
+- 日城与范围：2030-04-28–2030-05-03；美国 · 夏威夷州檀香山；具体会场尚未公布；submissionState unknown。
+- 逐字段截止及出处：本届征稿/摘要截止待公布：未知 [来源](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)；本届注册/费用和截止待公布：未知 [来源](https://www.mrs.org/publications-digital-content/news/press-room/press-release/2026/02/16/mrs-announces-spring-meeting-locations-through-2030)
+- 本届条件出版原字段：未来会期新闻未确认本届论文集/期刊轨道、出版费或实际数据库索引。
+- 本届范围/冲突原备注：会期来自2026-02-16学会正式新闻，不按轮换周期推算；2030跨4/5月分别保留，未来公告变化仍需逐届复核。
+- 未解决内容及影响：2030只明示日城、跨月跨度，venue主题及稿规系统未知；作者报告注册fee/通知截止未知，2027不可迁移；具体出版轨道fee或实际索引未知，不凭系列历史保证
+- 维护触发：2030当届场馆征稿注册/作者出版正式公告出现后维护，保留跨月日期并逐届版本。
+- 完整记录内容摘要8ffeacac8d192770fac430a54ab257830cb04b7846204d424e477280eb22dcef，基于8c037d8363abbb759a0d6ae5845858f32953e729；非官网内容指纹，未知不冒充已补齐。
+
+## mrs-fall-2026
+
+2026 MRS Fall Meeting & Exhibit；2026；MRS Fall Meeting/series-9028ec0d2a88；admitted关联conference-series-9028ec0d2a，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting)、[原通知](https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2026/f26-mrs-call-for-abstracts-3-20-26.pdf?sfvrsn=ee77ae88_4)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c22mrse-mrs材料光学与未来日程2026-10-04)。
+- 全字段审阅范围：2026Fall主页/注册原浏览器成功11/29–12/4 BostonHynes/Sheraton，Fall与Spring/E-MRS独立candidate系列；母展日程不同不改academicspan。68pCFP只第1日期/6/17 23:59ET图及第13EL07文字图nanophotonicsmetasurfaceplasmonics传感生物光子，不声称全68p/全部材料光学。初轮deadline已过、当前主页无普通新投入口，但后续延期/lateposter或字符指南未核不误用2027Spring4000chars。Accountreg开放，10/29 23:59ET−04优惠非closing，一般$1240/member1085/student380/studentmember335，10/30后1360/1185/405/360；$币种未明确不补USD。含membership至2027/11/30，书面取消10/29前−50、10/30–11/28−250开会不退是参会/refund非pubfee。报告格式最终authorregdeadline/论文集publisherindex/未来Fall日城unknown。
+- 日城与范围：2026-11-29–2026-12-04；美国 · 马萨诸塞州波士顿；Hynes Convention Center及Sheraton Boston Hotel；submissionState published。
+- 逐字段截止及出处：初轮普通摘要截止（已过；后续延期未核）：2026-06-17T23:59:00-04:00 / America/New_York [来源](https://www.mrs.org/docs/default-source/meetings-events/fall-meetings/2026/f26-mrs-call-for-abstracts-3-20-26.pdf?sfvrsn=ee77ae88_4)；2026预注册优惠费截止（非关闭）：2026-10-29T23:59:00-04:00 / America/New_York [来源](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration)；最终报名关闭日未核：未知 [来源](https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/registration)
+- 本届条件出版原字段：本轮核CFP摘要报告与注册安排，未核2026统一论文集、独立出版费或实际EI/SCIE单篇收录；相关期刊投稿不是参会自动录用。
+- 本届范围/冲突原备注：68页CFP本轮仅第一页图像会期/初轮截止及第13页EL07范围抽取和渲染，未声称通读全专题或全部稿规；当前主页/注册正常浏览器可读。11/29–12/4为学术会议总跨度，展览单独安排不改变会期；后续Fall届次待核，不从周期造日期。
+- 未解决内容及影响：68页仅1/13页实际核范围，后续延期/lateposter及完整摘要字符规则未知；$币种与最终注册/作者报告材料未核，优惠/退款非硬报名截止；统一出版fee真实索引及后续Fall未知，不搬Spring
+- 维护触发：当届正式晚稿/完整作者指南、币种/报告出版或后续Fall公告公开后维护，不重复初轮CFP或用春季替代。
+- 完整记录内容摘要7c4c277128b7a3a8a18c45b17fdf27b46e347ba1dfced7957016ce984f74fd89，基于8c037d8363abbb759a0d6ae5845858f32953e729；非官网内容指纹，未知不冒充已补齐。

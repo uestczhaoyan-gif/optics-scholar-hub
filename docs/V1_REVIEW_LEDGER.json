@@ -6499,6 +6499,126 @@
         "Xplore有scope质量付款报告条件，B期刊独立/OpenPoster不出版，实际EI未核"
       ],
       "maintenanceTrigger": "官方更正通知或公布新作者/后续CFP资料后维护；已两次展示指南停止，幻灯片USB与poster例外更新分开。"
+    },
+    {
+      "kind": "conference",
+      "id": "mrs-spring-2027",
+      "seriesId": "series-ef5f36cccccf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "25526d019e12546af4b844278e9b0346861dfbf5e19302c772ce4e6fca6122e2",
+      "formalReviewBase": "8c037d8363abbb759a0d6ae5845858f32953e729",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#mrs-spring-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "4000字符题名/正文分项或合计计数未入系统核，不能造解释",
+        "通知仅12月中旬、注册fee/报告材料及实际系统接收未知",
+        "统一论文集/出版fee实际索引未知，MRS期刊独立，未来不沿用"
+      ],
+      "maintenanceTrigger": "2027正式表单说明/作者注册及出版报告通知公开后维护；不重复不变两页指南或同URL受限请求。"
+    },
+    {
+      "kind": "conference",
+      "id": "mrs-spring-2028",
+      "seriesId": "series-ef5f36cccccf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ff8e1331df028479628bba70dc71774d8c0efa32e00e85b2527051e2a2b3b18e",
+      "formalReviewBase": "8c037d8363abbb759a0d6ae5845858f32953e729",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#mrs-spring-2028",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2028只学会日城预告，具体场馆光学专题/完整稿规未知",
+        "摘要通知/注册费日及报告系统条件未知",
+        "本届出版轨道fee实际索引未知，不复制2027"
+      ],
+      "maintenanceTrigger": "MRS Spring2028专属场馆CFP/注册作者及出版通知公开后维护，既有新闻日城不反复核。"
+    },
+    {
+      "kind": "conference",
+      "id": "mrs-spring-2029",
+      "seriesId": "series-ef5f36cccccf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3657fcbbd244d7b8f3b2eaa33a382b7c0de5c388cbf93f3a5c20b7eb22ffee2d",
+      "formalReviewBase": "8c037d8363abbb759a0d6ae5845858f32953e729",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#mrs-spring-2029",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "同Seattle不证明2027场馆/主题适用，2029具体场馆稿规未核",
+        "摘要注册fee/截止与报告系统条件未知",
+        "论文集/期刊路径出版fee实际索引未知，不能沿用2027"
+      ],
+      "maintenanceTrigger": "Spring2029独立CFP/场馆注册及出版作者通知后维护，明确年度来源不推年会周期。"
+    },
+    {
+      "kind": "conference",
+      "id": "mrs-spring-2030",
+      "seriesId": "series-ef5f36cccccf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "8ffeacac8d192770fac430a54ab257830cb04b7846204d424e477280eb22dcef",
+      "formalReviewBase": "8c037d8363abbb759a0d6ae5845858f32953e729",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#mrs-spring-2030",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2030只明示日城、跨月跨度，venue主题及稿规系统未知",
+        "作者报告注册fee/通知截止未知，2027不可迁移",
+        "具体出版轨道fee或实际索引未知，不凭系列历史保证"
+      ],
+      "maintenanceTrigger": "2030当届场馆征稿注册/作者出版正式公告出现后维护，保留跨月日期并逐届版本。"
+    },
+    {
+      "kind": "conference",
+      "id": "mrs-fall-2026",
+      "seriesId": "series-9028ec0d2a88",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "7c4c277128b7a3a8a18c45b17fdf27b46e347ba1dfced7957016ce984f74fd89",
+      "formalReviewBase": "8c037d8363abbb759a0d6ae5845858f32953e729",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#mrs-fall-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "68页仅1/13页实际核范围，后续延期/lateposter及完整摘要字符规则未知",
+        "$币种与最终注册/作者报告材料未核，优惠/退款非硬报名截止",
+        "统一出版fee真实索引及后续Fall未知，不搬Spring"
+      ],
+      "maintenanceTrigger": "当届正式晚稿/完整作者指南、币种/报告出版或后续Fall公告公开后维护，不重复初轮CFP或用春季替代。"
     }
   ],
   "coreSeriesReviews": [
