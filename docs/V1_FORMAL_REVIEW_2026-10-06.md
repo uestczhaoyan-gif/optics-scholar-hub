@@ -665,3 +665,51 @@ IEEE Transactions on Geoscience and Remote Sensing；IEEE Geoscience and Remote 
 - 未解决内容及影响：摘要/许可及会议扩展比例未核，2026-01-01恰当日费率边界未知、照片简介阶段冲突及税资格保留；最终文件不得未经准许改作者内容。；仅原摘要/元数据，年度卷/ASN不补期页；CAS/2026全分类、索引覆盖年单篇/当前周期未知。
 - 维护触发：本刊更新收费边界和照片摘要许可、模板系统材料或合法分类覆盖资料后维护，不从日期或别刊规则推算。
 - 全字段内容摘要cd251ed6972a0f41bc34750a5a8614f86d1af277876ddd3f3a05201d3bd2352e，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2P
+
+全文实际读取四刊当前JSON与F11–F14各本刊当时独立官网/指南、附件版本、MJL唯一卡/新EI具体行和JCR各学科JIF原图记录。复用2026-10-05已有实际证据，不今天重新访问不变官网或扫描数据库/后台，不刷新data核验日期；四admitted关联一对一，稿型/初投返修出版页、图像单位/补充材料、费用版年和统计定义逐项审查，保留未知及不同期次/年度卷范围。 本次正式字段质量累计110/251，余141未审；G3 41/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## ieee-sensors-journal
+
+IEEE Sensors Journal；IEEE Sensors Council / IEEE；原checkedAt 2026-10-05，admitted候选journal-9f6ce9345b一对一。
+
+- 全部字段与原依据：[本刊指南](https://ieee-sensors.org/ieee-sensors-journal/for-authors/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f11ieee-sensors-journal)、[原记录2](https://ieee-sensors.org/wp-content/uploads/2021/07/Guidelines-for-Expanding-Conference-Papers-June-2021.pdf)。1530-437X/e1558-1748、SensorsCouncil，与SensorsLetters/Reviews/MDPI独立；JIF2025指标2024仪器Q1/电气与应用物理Q2逐学科secondary、MJL SCIE/EI2015另证。普通通常8双栏页非硬限、graphical必需、一个关键词类别；单盲至少2/查重/推荐人无关联。June2021扩展附件全页实际读：原文脚注URL/新增解释/复用图许可/cover和原稿PDF，无固定新增比例，旧ScholarOne不代当前Portal。可选2800会员5%/20%不叠加学生不适用，110自愿、175强制仅普通超8/综述超12出版页，不套投稿硬限。中位8.8周投稿至电子发表年样本未知，下载量October2025不用于时长版年。三不同期光纤原摘要：五健康人颈静脉/水中PE微塑料/SPR温湿度实验限原条件。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/INSTRUMENTS & INSTRUMENTATION/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=379)；JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=1530-437X&hide_exact_match_fl=true)；2026-10-05实际MJL唯一Exact Match卡：IEEE SENSORS JOURNAL/IEEE及1530-437X/1558-1748，CoreCollection Science Citation Index Expanded。非侧栏filter、未登录profile或单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05仅核新刊双号：SERIALS2026-08-07版第2015行Journal/IEEE Sensors Journal/1530437X/15581748/IEEEInc匹配，DISCONTINUED2026-05-01版无两号。未重扫93旧刊、来源表不等于单篇检索，覆盖年未知。
+- 未解决内容及影响：摘要词数/关键词数量、完整模板与后台匿名清单未核；独立费用版年生效税/个体协议、8.8周统计年样本及首决录用未知。；三原摘要非全文/SI，健康受试者非病患临床、实验非环境或产业部署；CAS/2026全分类与索引覆盖起止/单篇未知。
+- 维护触发：本刊新版指南/独立收费版年和可定义统计、合法数据库分类覆盖或明确系统材料出现后维护，不以别刊规则补未知。
+- 全字段内容摘要6a98e80fb1f3133c1cab4c4e0d1d03571d77ea53606b9b6989cebbbf78c90218，基于d3b3909658dbda6da4134b2c3c229c187e055136；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-tci
+
+IEEE Transactions on Computational Imaging；IEEE / IEEE Signal Processing Society；原checkedAt 2026-10-05，admitted候选journal-f7b4a080f3一对一。
+
+- 全部字段与原依据：[本刊指南](https://signalprocessingsociety.org/publications-resources/information-authors/)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f12ieee-tci)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。2573-0436/e2333-9403、SPS；计算参与图像形成/理论逆问题/采集硬件软件，不由AI后处理题名推适配，基础理论范围与指南数据充分提示并列。JIF2025电气Q1/成像Q2secondary，成像AISQ1不能替代；MJL SCIE/EI2063独立。官网链接SPSRegular初稿13/返修16双栏10pt、初投附录计/返修补充，SI建议6超审批；摘要150–250/全作者ORCID/EDICS，graphical可选初始供审，Comment2页9pt/Overviewwhitepaper各阶段双倍。会议基础≤6页并明确新增无固定比例；至少2单盲/拒稿和预印本披露。2026hybrid2800按投稿日税另、非学生会员资格，前10自愿110/超10强制220/Overview例外与OA分开。三年度卷10/11/12原摘要为校准光学系统、掩膜跨域重建及硬件加速，不造issue或临床效能。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=238)；JCR/JCR 2025（指标2024）/category/IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=365)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=2333-9403&hide_exact_match_fl=true)；2026-10-05实核MJL唯一Exact Match卡：IEEE TRANSACTIONS ON COMPUTATIONAL IMAGING/IEEE、2573-0436/2333-9403，CoreCollection SCIE；非左侧filters，未登录profile或单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05仅新目标核SERIALS2026-08-07第2063行Journal/IEEE Transactions on Computational Imaging/25730436/23339403/IEEEInc；DISCONTINUED2026-05-01无两号，不重扫94旧刊。来源表非单篇检索，覆盖年未知。
+- 未解决内容及影响：名称Portal但实际ScholarOneURL不确认迁移，模板内部/版权与系统清单未知；页费独立生效年和2027APC未知，本刊周期无统计不套SPS其他刊。；仅原摘要/元数据非全文/SI，三年度卷不称三期，域泛化限原比较；CAS/2026全分类、索引覆盖年单篇未知。
+- 维护触发：SPS本刊新系统/稿型指南、费用版年和本刊统计或合法分类覆盖材料出现后维护，不泛化别刊指标。
+- 全字段内容摘要8296df1cfaf4215f4caf740916e92118bd51eddf59553d0031982756f1d9b630，基于d3b3909658dbda6da4134b2c3c229c187e055136；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-edl
+
+IEEE Electron Device Letters；IEEE / IEEE Electron Devices Society；原checkedAt 2026-10-05，admitted候选journal-66340a35b5一对一。
+
+- 全部字段与原依据：[本刊指南](https://eds.ieee.org/publications/electron-device-letters/information-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f13ieee-edl)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。0741-3106/e1558-0563、EDS光电器件快速通信，与TED分开，JIF2025指标2024电气Q2secondary/MJL SCIE/EI1840独立。Intro快速理由/实验量化benchmark/模拟须明示验证；新body2又2/3页、修3页、出版4且第四只refs，禁改字体行距。摘要150–250/3–4短语、完整refs/ORCID/cover问卷，graphical可选但SI数据禁止供审，不套TEDDataPort。2026-08-01图像9+1初投≤10、11+1最终≤12且inset/表照片等独立计，不把figure编号作图像数，布局/8pt字及豁免需说明。AI/语法cover与ack规则分开，同组IEDMfollowup12个月+重要新增不外推其他会议比例。2026hybrid2800/税会员资格，传统无OA、自愿$11O疑字不造金额；4周Xplore与5周review不同未明统计不拼。三不同47期原摘要光晶体管/16×16显示/UV器件为原实验不外推临床量产。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=237)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0741-3106&hide_exact_match_fl=true)；2026-10-05实核MJL唯一Exact Match卡IEEE ELECTRON DEVICE LETTERS/IEEE、0741-3106/1558-0563、Core Collection Science Citation Index Expanded；非侧栏勾选或登录profile，未做单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05只新目标核公开SERIALS2026-08-07第1840行Journal/IEEE Electron Device Letters/07413106/15580563/IEEEInc，DISCONTINUED2026-05-01无双号。未重扫95旧刊或单篇数据库；表日期不作覆盖年。
+- 未解决内容及影响：入口主页atyponrex/指南researchexchange实链与ScholarOne文字并存，内部未登录；模板文件/精确自愿页费疑字、生效年税与统计定义样本未知。；指南禁SI不意味着三历史论文全文已审，原摘要/元数据范围；CAS/2026完整分类与覆盖年单篇、2027APC未知。
+- 维护触发：EDS更新统一系统入口、确认页费字形和统计定义或新稿型图像规则/合法分类覆盖材料时逐项维护。
+- 全字段内容摘要e8de13ae8b88bd9f6b5e5a61339eb679667dea015a8eb63092bb064f88848723，基于d3b3909658dbda6da4134b2c3c229c187e055136；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-ted
+
+IEEE Transactions on Electron Devices；IEEE / IEEE Electron Devices Society；原checkedAt 2026-10-05，admitted候选journal-6df0287c33一对一。
+
+- 全部字段与原依据：[本刊指南](https://eds.ieee.org/publications/transactions-on-electron-devices/information-for-authors)；[原记录1](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f14ieee-ted)、[原记录2](https://open.ieee.org/for-authors/article-processing-charges/)。0018-9383/e1557-9646、EDS，JIF2025指标2024电气/应用物理两Q2secondary/MJL SCIE/EI2076另证。通常至少部分直接物理验证，但不删除理论建模范围；初普通7含refs必要8/综述12超先审批，Brief4出版页非初投统一限，不套EDLbody。摘要150–250/3–4短语/完整refs/全作者ORCID/重叠稿cover；DataPort补充初始供审review后禁加改、graphical可选，不套EDL禁SI；IEDM12个月例外非本刊条款。主页/guideatyponrex实际一致但旧ScholarOne文字保留、≥2单盲查重。2026optional2800税会员资格，110每印刷页请求与普通超7强制200、印刷彩275每figure/在线免费分开；review平均12周统计定义未明。三不同71(12)/72(7)/73(10)原摘要近红外器件、量子点秒级响应EQE非能效、UV器件电路实测而完整阵列模拟分开。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=239)；JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=602)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-05 [来源](https://mjl.clarivate.com/search-results?issn=0018-9383&hide_exact_match_fl=true)；2026-10-05实核MJL唯一Exact Match卡IEEE TRANSACTIONS ON ELECTRON DEVICES/IEEE、0018-9383/1557-9646、CoreCollection SCIE；非侧栏勾选，不登录profile或单篇检索，覆盖年未知。；EI_COMPENDEX/confirmed/database，原核验2026-10-05 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；2026-10-05仅新目标核公开SERIALS2026-08-07第2076行Journal/IEEE Transactions on Electron Devices/00189383/15579646/IEEEInc，DISCONTINUED2026-05-01无两号。未重扫96旧刊或单篇数据库检索；表年不作覆盖年。
+- 未解决内容及影响：Brief初稿限/模板内部和SI格式大小、登录后流程未知；页费彩费独立生效年、统计版年样本/首决或最终口径与2027APC未知。；原摘要元数据非全文/SI，秒级不误毫秒/高EQE非能量效率，阵列模拟非实测相机；CAS/2026分类与覆盖起止单篇未知。
+- 维护触发：本刊新版明确Brief/SI/费用日期、评审统计或系统材料及合法分类覆盖证据出现后维护，不继承EDL独立规则。
+- 全字段内容摘要08953e979f1a1d10b4547cef78320598d40c7c1ee131dfbee80f2a81b78acaac，基于d3b3909658dbda6da4134b2c3c229c187e055136；不是官网内容指纹，不表示未知已补齐。

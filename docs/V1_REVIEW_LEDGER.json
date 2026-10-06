@@ -3615,6 +3615,94 @@
         "仅原摘要/元数据，年度卷/ASN不补期页；CAS/2026全分类、索引覆盖年单篇/当前周期未知。"
       ],
       "maintenanceTrigger": "本刊更新收费边界和照片摘要许可、模板系统材料或合法分类覆盖资料后维护，不从日期或别刊规则推算。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-sensors-journal",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6a98e80fb1f3133c1cab4c4e0d1d03571d77ea53606b9b6989cebbbf78c90218",
+      "formalReviewBase": "d3b3909658dbda6da4134b2c3c229c187e055136",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-sensors-journal",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要词数/关键词数量、完整模板与后台匿名清单未核；独立费用版年生效税/个体协议、8.8周统计年样本及首决录用未知。",
+        "三原摘要非全文/SI，健康受试者非病患临床、实验非环境或产业部署；CAS/2026全分类与索引覆盖起止/单篇未知。"
+      ],
+      "maintenanceTrigger": "本刊新版指南/独立收费版年和可定义统计、合法数据库分类覆盖或明确系统材料出现后维护，不以别刊规则补未知。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-tci",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "8296df1cfaf4215f4caf740916e92118bd51eddf59553d0031982756f1d9b630",
+      "formalReviewBase": "d3b3909658dbda6da4134b2c3c229c187e055136",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-tci",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "名称Portal但实际ScholarOneURL不确认迁移，模板内部/版权与系统清单未知；页费独立生效年和2027APC未知，本刊周期无统计不套SPS其他刊。",
+        "仅原摘要/元数据非全文/SI，三年度卷不称三期，域泛化限原比较；CAS/2026全分类、索引覆盖年单篇未知。"
+      ],
+      "maintenanceTrigger": "SPS本刊新系统/稿型指南、费用版年和本刊统计或合法分类覆盖材料出现后维护，不泛化别刊指标。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-edl",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e8de13ae8b88bd9f6b5e5a61339eb679667dea015a8eb63092bb064f88848723",
+      "formalReviewBase": "d3b3909658dbda6da4134b2c3c229c187e055136",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-edl",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "入口主页atyponrex/指南researchexchange实链与ScholarOne文字并存，内部未登录；模板文件/精确自愿页费疑字、生效年税与统计定义样本未知。",
+        "指南禁SI不意味着三历史论文全文已审，原摘要/元数据范围；CAS/2026完整分类与覆盖年单篇、2027APC未知。"
+      ],
+      "maintenanceTrigger": "EDS更新统一系统入口、确认页费字形和统计定义或新稿型图像规则/合法分类覆盖材料时逐项维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "ieee-ted",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "08953e979f1a1d10b4547cef78320598d40c7c1ee131dfbee80f2a81b78acaac",
+      "formalReviewBase": "d3b3909658dbda6da4134b2c3c229c187e055136",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ieee-ted",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "Brief初稿限/模板内部和SI格式大小、登录后流程未知；页费彩费独立生效年、统计版年样本/首决或最终口径与2027APC未知。",
+        "原摘要元数据非全文/SI，秒级不误毫秒/高EQE非能量效率，阵列模拟非实测相机；CAS/2026分类与覆盖起止单篇未知。"
+      ],
+      "maintenanceTrigger": "本刊新版明确Brief/SI/费用日期、评审统计或系统材料及合法分类覆盖证据出现后维护，不继承EDL独立规则。"
     }
   ],
   "coreSeriesReviews": [
