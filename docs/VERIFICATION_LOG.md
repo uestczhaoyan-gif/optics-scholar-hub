@@ -1675,3 +1675,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - f7454950529e15e1347c08087e7bb99ac76199a9已验收[Pages 37432443371](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37432443371)；同SHA build/deploy成功、首页/版本200，摘要48ba55aefd23e8145bb584289dff5ad250179e0aa885dab77d56219c675f351f匹配本地（2026-10-06T07:55:25.713Z）。编辑前HEAD=origin/main；work/V1-G2AB-plan.json长操作前保护真实范围。
 - V1-G2AB实审6届会议全部字段，正式质量累计178/252（109刊/59届/10活动）、余74；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON/稳定系列/admitted关系、C1身份/每会独立材料和日程、C2 OPIC由快照到正文的范围、C3更名/日程/会场、B4当届讲者表与共用AV。SPIE Defense2027普通指南和presenters本次第二有效尝试（10/2计首次）各仅iframe无正文，未取得新日期/规则，停止同未变源不转成更新或断言没有信息；其余不重复已核不变源，不继承其他SPIE母会页限/模板，全部data/冻结范围和原checkedAt保持。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ab)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 - 发布前validate、全部data/冻结字节与旧172正式/42候选/G4/G5/final保护、178唯一摘要/当届稳定系列关联断言通过；608本地文件链接、完整六文档差异/git diff --check通过。纯文档复用已验收六资产/48ba摘要；本提交CI独立validate/31测试/typecheck/lint/build后按同SHA验收部署和线上版本，当前第二次仅iframe的访问不计新事实。
+
+## 2026-10-06：正式会议质量 V1-G2AC
+
+- bf531987b6443260796f190715d4b5a4a97e05ad已验收[Pages 37432815183](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37432815183)；同SHA build/deploy成功、首页/版本200，摘要48ba55aefd23e8145bb584289dff5ad250179e0aa885dab77d56219c675f351f匹配本地（2026-10-06T08:00:54.811Z）。编辑前HEAD=origin/main；work/V1-G2AC-plan.json长操作前保护真实范围。
+- V1-G2AC实审6届会议全部字段，正式质量累计184/252（109刊/65届/10活动）、余68；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON、稳定系列与各admitted关系，C3当届独立指南/实际PDF页范围、C12后续核验、C4母会/子会及B4原讲者表。SiPhotonics指南第二有效尝试（10/2计首次）工具InternalError未正文；AOMATT主页第二有效读取工具缓存标昨天，仍10/25且无已读明确延期声明，不重新下载不变十页PDF/继承未读页。停止同未变源两次；其余复用原真实证据，不刷新全部data/checkedAt。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ac)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data/冻结字节及旧178正式/42候选/G4/G5/final保护、184唯一摘要与各admitted系列关联断言通过；620本地文件链接、六文档真实差异/git diff --check完成。纯文档复用已验收六资产/48ba摘要，本提交同SHA CI独立31测试/typecheck/lint/build及部署线上版本验收。SiPhotonics第二请求失败不改原规则，AOMATT主页第二读未解决PDF日期冲突；不再重复同未变源。

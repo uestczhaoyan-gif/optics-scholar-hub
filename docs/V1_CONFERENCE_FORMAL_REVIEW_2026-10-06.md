@@ -859,3 +859,91 @@ SPIE Defense + Security 2027；2027；SPIE Defense + Security/series-e2828f0dad6
 - 未解决内容及影响：当前两源抽取未正文，截止/本届规则最新变化未取得新证据，同未变源两次已停止；具体专题附加模板/实际付费入口/费用与各截止时刻时区未知，十二月开非最终注册；真实单篇Proceedings出版/索引及未来更名/欧洲系列关系未知
 - 维护触发：主办方新明确CFP延期/作者注册公告、当前来源实质内容变化或实际文集出现后维护；不为接近10/7反复请求同未变源。
 - 完整记录内容摘要76ce0cef2dfa74710ead6d3609241493f441e17def3fca1c537021fb735dee38，基于f7454950529e15e1347c08087e7bb99ac76199a9；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AC
+
+实际完整读取六届当前JSON、稳定系列与各admitted关系，C3当届独立指南/实际PDF页范围、C12后续核验、C4母会/子会及B4原讲者表。SiPhotonics指南第二有效尝试（10/2计首次）工具InternalError未正文；AOMATT主页第二有效读取工具缓存标昨天，仍10/25且无已读明确延期声明，不重新下载不变十页PDF/继承未读页。停止同未变源两次；其余复用原真实证据，不刷新全部data/checkedAt。 累计正式质量184/252，余68未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## aomta-ysaom-2026
+
+3rd Conference on Advanced Optical Manufacturing Technologies & Applications and 6th Young Scientists on Advanced Optical Manufacturing Conference；2026；AOMTA & YSAOM/series-4e5136e95266；admitted关联conference-series-cbdefccc60，原checkedAt 2026-10-02。
+
+- 身份/当届来源：[原入口](https://b2b.csoe.org.cn/meeting/YSAOM2026.html)、[原通知](https://b2b.csoe.org.cn/meeting/YSAOM2026.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-02.md#c3七个系列五届新增)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c12制造精密工程与旧-imaging-后续核验)。
+- 全字段审阅范围：南京7/22–24联合AOMTA第三与YSAOM第六只一正式届/主系列admitted，7/22课程青年活动和7/29报道支持整体会期，不缩为23–24报告。珍宝假日饭店江宁店是本届会场非AOMATT成都/OMTA福州。英文500–800词和本届投稿入口明确，中文模板有链接但长度/全文仍未知；三轮4/10、5/20、7/10均历史仅日，published不是现在可投。早鸟7/5前缴费不等7/5 23:59或最终注册；普通3050/3250学生2050/2250RMB，在职研究生非学生，出版2500另收同一第一作者≤2篇非注册自动两篇录用，住宿不含。合作期刊/SPIE推荐和申请检索非全部论文实际索引。C12本届页和CSOE首页已读范围无新届日城，不声称全站历史查完或永久合并YSAOM与APCOM。
+- 日城与范围：2026-07-22–2026-07-24；中国 · 南京；南京珍宝假日饭店（江宁店）；submissionState published。
+- 逐字段截止及出处：历史摘要第一轮：2026-04-10 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2026.html)；历史摘要第二轮：2026-05-20 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2026.html)；历史摘要最后一轮：2026-07-10 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2026.html)；历史早鸟缴费界限（官网要求此日前）：2026-07-05 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2026.html)；原文为 7/5 前缴费，未给精确时刻；不要当作当日 23:59。
+- 本届条件出版原字段：官网列合作期刊及 SPIE 等论文出版渠道；合作、推荐或收录申请不保证录用或当届每篇 EI/SCI 检索，具体稿型及出版条件仍须核实。
+- 本届范围/冲突原备注：官方完整日程含 7/22 报到、课程与青年活动，7/23 开幕、7/24 专题报告；中国光学工程学会 7/29 会后报道 https://csoe.org.cn/detail/2167.html 确认 7/22–24 举办，不仅使用 7/23–24 的主报告日。YSAOM 往届曾与 APCOM 联合，不能由 2026 联合关系认定两个系列永久同义。英文名称为中文标题译写。
+- 未解决内容及影响：中文长度/全文模板和各出版渠道录用材料未知，仅英文摘要规则已明确；最终注册/各截止时刻时区及合作期刊单篇实际出版索引未知，历史入口不表开放；联合关系只限2026，YSAOM不同伙伴及新届日城未知
+- 维护触发：独立新届联合通知或出版稿规公开后分别核实AOMTA/YSAOM和合作伙伴，不按历史联合推永久别名。
+- 完整记录内容摘要46b5b1493be60009db1a611dc13504d9eb7c5dd3a93232d0541b0d7ce559ce5c，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。
+
+## lim-2027
+
+Lasers in Manufacturing 2027；2027；LiM/series-ea1694596fc1；admitted关联conference-series-ddd3720667，原checkedAt 2026-10-02。
+
+- 身份/当届来源：[原入口](https://wlt.de/node/31)、[原通知](https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-02.md#c3七个系列五届新增)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-04.md#b4欧洲2027提交日程与共用报告准备2026-10-04)。
+- 全字段审阅范围：WLT2027官网与原2026九月CFP两页实际抽取/渲染支持慕尼黑ICM6/21–24/英文纯文本150词ConfTool，本届账号旧账户不自动迁移，登录入口不是缴费注册。WLT1/31/2027截止3/26通知仅日期；共用母会表11月开放/1月关粗月份不覆盖精确1/31，旧LiM2025残留不改已明2027身份。B4实际共用AV16:9PPT/PDF视频mp4h264、个人PC不可接/不可会场电脑直接上传/无网及插件/ProRes不支持；ICM一层Checkin最晚session前1h可核查编辑，六月初凭据计划不是准确上传截止/论文终稿。委员会口头海报独立摘要评审，现场选优秀报告专刊另审非全体2027论文集；2025安排不得沿用，展和CLEO联合专题不再重复计母会。
+- 日城与范围：2027-06-21–2027-06-24；德国 · 慕尼黑；ICM – International Congress Center Messe München；submissionState published。
+- 逐字段截止及出处：英文摘要截止（150 词）：2027-01-31 [来源](https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf)；录用通知：2027-03-26 [来源](https://wlt.de/sites/default/files/2026-09/Flyer_LIM_27.pdf)；注册截止待公布或核实：未知 [来源](https://wlt.de/node/31)
+- 本届条件出版原字段：当届征稿 PDF 说明主席在现场选择优秀报告供会后同行评审期刊专刊投稿；专刊仍需独立评审。2027 全体报告的统一论文集及实际索引未核实，不沿用 2025 论文集安排。
+- 本届范围/冲突原备注：2026 年 9 月征稿 PDF 两页已抽取并视觉核对，会期、会场、150 词及两个日期一致。LiM 属 World of Photonics Congress 2027，并与 LASER World of PHOTONICS 展同场及设 CLEO 联合专题；不重复计入母会或展会。ConfTool 当前作者登录页可核实投稿入口，不能据此声称缴费注册开放；费用、注册截止及精确时区仍未知。官网时间表一处残留 LiM 2025 字样，2027 页首和 PDF 均确认本届身份。 2026-10-04大会讲者表仅列11月开放/次年1月关闭，保留WLT本届CFP明示1/31，不用粗月份覆盖精确日；共用报告上传凭据预计六月初，未知终稿/费率不补造。仅部分核验，不刷新checkedAt。
+- 未解决内容及影响：当届全文页限模板最终材料及统一论文集/索引未知，专刊另审；注册入口费率最终付款及日期时刻时区未知，ConfTool只作者入口；子会报告时长/海报本届要求与确切上传截止未知，母会六月初仅计划
+- 维护触发：WLT本届全文/注册或六月材料凭据公告出现后补独立字段；新母会AV通知只按明确适用子会使用。
+- 完整记录内容摘要b12c9afa8e997012f172270eaa556527b472f22239a265c758d5de1c934aab06，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。
+
+## siphotonics-2027
+
+IEEE Silicon Photonics Conference 2027；2027；IEEE SiPhotonics/series-85eafd34a363；admitted关联conference-series-aead4966a6，原checkedAt 2026-10-02。
+
+- 身份/当届来源：[原入口](https://www.ieee-siphotonics.org/)、[原通知](https://www.ieee-siphotonics.org/paper-submission/submission-guidelines/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-02.md#c3七个系列五届新增)、[原实际记录2](https://www.ieee-siphotonics.org/paper-submission/submission-guidelines/)。
+- 全字段审阅范围：IEEE官网原GFP2004起更名SiPhotonics保持原candidate和稳定系列，不另增GFP。2027台北4/11–14，具体酒店仍未知不沿2026Ottawa。C3原本届ExOrdo实际读取/指南两页技术稿single-spaced四边1inch图表含内，另45词programme与50词简介不合并两页；9/18–10/12/2026窗口、10/12只日，PDFexpress/版权注册现场报告后Xplore有条件而非EI保证。注册十二月计划仅月/表March11价分界不能补时刻或最终注册，通知/终稿仍null。本次第二指南请求InternalError无正文保留10/2规则，不声称今日确认deadline不变；同未变源停止，未登录创建提交。
+- 日城与范围：2027-04-11–2027-04-14；中国台湾 · 台北；具体会场待当届官方通知；submissionState published。
+- 逐字段截止及出处：两页技术稿件截止：2026-10-12 [来源](https://www.ieee-siphotonics.org/)；最终材料截止待核实：未知 [来源](https://www.ieee-siphotonics.org/paper-submission/submission-guidelines/)；注册截止待核实（计划 2026 年 12 月开放）：未知 [来源](https://www.ieee-siphotonics.org/attendees/registration/)
+- 本届条件出版原字段：当届指南说明录用且在会场报告的论文提交 IEEE Xplore；须满足注册、报告及最终材料要求，不保证自动 EI/其他索引。
+- 本届范围/冲突原备注：主页直接说明原系列为 International Conference on Group IV Photonics（2004 年起）；按更名维护原候选 ID，不另建 GFP 会议。2027 会期与台北依据本届主页，酒店页面仍待公布，不沿用 2026 Ottawa 会场。注册计划于 2026 年 12 月开放，没有擅定某日；注册表列 March 11 价格分界但截止时刻及实际入口未核实。
+- 未解决内容及影响：本次指南无正文，不具今日规则/延期变化新证据，同源已两次；2027具体会场注册实际入口/费用/最终付款与时刻未知，价格分界不是硬截止；录用通知/终稿时间及单篇真实出版索引未知
+- 维护触发：主办方新延期/通知、当届酒店注册或最终材料公告公开后维护；不因10/12临近重复同未变指南。
+- 完整记录内容摘要c872a9970f292f42e981db2cc9200243d19ca2af5d20336a5f2196e7b29f337b，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。
+
+## aomatt-2026
+
+12th International Symposium on Advanced Optical Manufacturing and Testing Technologies；2026；AOMATT/series-afcf0a2fe49b；admitted关联conference-series-573426c9fe，原checkedAt 2026-10-02。
+
+- 身份/当届来源：[原入口](https://www.aomatt.org/)、[原通知](https://www.aomatt.org/uploads/AOMATT%202026/2026-09-16/file/1789525413273_p4ilvlpt.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-02.md#c3七个系列五届新增)、[原实际记录2](https://www.aomatt.org/)。
+- 全字段审阅范围：独立第12AOMATT成都空港国际会议中心11/20–22含20日注册学会活动，不仅21–22报告，也不因近名合南京AOMTA/YSAOM。原10页通知仅前4页视觉核对，日期9/1路径9/16分开不可声称全10页/模板内已审。主页10/25与PDF9/30摘要冲突NULL；本次第二主页成功（公开缓存昨天）仍10/25、已读无明确延期，不能最新抓取自动解决版本。SPIE系统11/30计划在会后是原通知，1/1/27全文只日；入口与页限未核，不由登录页断言开放。独立注册Notes早鸟10/20 23:59北京时间确有时刻，费表写此前付款边界仍提醒；普通2800/3200学生2000/2300RMB博士后非学生，全文1200另费。提交EI/拟SPIEDigitalLibrary非每篇实际检索，十专题不重复建十母会。
+- 日城与范围：2026-11-20–2026-11-22；中国 · 成都；成都空港国际会议中心；submissionState published。
+- 逐字段截止及出处：摘要截止存在官方版本冲突，待确认：未知 [来源](https://www.aomatt.org/)；主页 2026-10-25；会议通知 PDF 2026-09-30，未找到延期说明。；早鸟缴费结束：2026-10-20T23:59:00+08:00 / Asia/Shanghai [来源](https://www.aomatt.org/news/398)；注册页 Notes 明确时刻；费用表另写此日前缴费，请提前完成并核对系统。；会后全文投稿截止：2027-01-01 [来源](https://www.aomatt.org/uploads/AOMATT%202026/2026-09-16/file/1789525413273_p4ilvlpt.pdf)
+- 本届条件出版原字段：官方通知说明会议论文集拟入 SPIE Digital Library，并提交 EI Compendex；“提交检索”不保证已收录或每篇检索。具体全文规则与录用出版条件仍须当届通知。
+- 本届范围/冲突原备注：官网会议通知 PDF 已抽取并视觉核对前四页：会期含 11/20 注册与学会活动，不能只取 11/21–22 报告日。会场位于成都市双流区成双大道南段 1555 号。摘要截止主页为 2026-10-25，下载通知为 2026-09-30，未找到明确延期说明，故日历保留 null 并列冲突。早鸟注册页明确 10/20 23:59 北京时间，采用 Asia/Shanghai；费用表同时写此日前缴费，边界须以官方确认及系统为准。
+- 未解决内容及影响：摘要9/30与10/25冲突未解决、真实提交入口/格式未知，日历不提示已确证可投稿日期；全文系统实际开放/页限模板录用与出版索引未知，原PDF只p1–4；早鸟系统付款边界和最终注册未知，注册登录未操作
+- 维护触发：主办明确延期说明、新版正式通知/摘要规则或11/30真实全文入口出现后维护；同未变主页两次停止。
+- 完整记录内容摘要8a0ffc512e59dbb3e4f74b3db9e574e0c2434dab9afb3ab60627dbbeb2522f71，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。
+
+## spie-optics-photonics-2027
+
+SPIE Optics + Photonics 2027；2027；SPIE Optics + Photonics/series-d95a0dcae1f0；admitted关联conference-series-84244b0436，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/optics-and-photonics)、[原通知](https://spie.org/conferences-and-exhibitions/optics-and-photonics)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c4六个未审系列及-sensors--imaging-母会)。
+- 全字段审阅范围：C4原正常浏览器实际官网正文未来段明示2027/8/29–9/2返回SanDiego，原2026页首8/23–27不可移植。本届一个综合母会稳定admitted，系列工程/纳米/材料范围不当2027专题清单已定。具体会场未知不由城市猜同旧年场馆；2027征稿/平台模板报告/注册出版全未知，submissionStateunknown和各null吻合。正式预告日城来源明确不等可投或全官网新近复核，2026Presenters规则不能继承，展览子日程不能自行用整会期。
+- 日城与范围：2027-08-29–2027-09-02；美国 · 圣迭戈；2027 具体会场待官方确认；submissionState unknown。
+- 逐字段截止及出处：2027 摘要截止待公布：未知 [来源](https://spie.org/conferences-and-exhibitions/optics-and-photonics)；2027 注册截止待公布：未知 [来源](https://spie.org/conferences-and-exhibitions/optics-and-photonics)
+- 本届条件出版原字段：2027 论文集、报告材料的出版条件及索引信息待当届通知核实。
+- 本届范围/冲突原备注：会期/城市来自官网未来预告段，非 2026 页首或第三方日历；2027 具体会场及展览子日程仍未知，日期仅到日，不补时刻或时区。
+- 未解决内容及影响：2027具体会场/专题和展子日程未知，仅正式会期城市已核；本届稿型模板实际提交/报告规则与各截止未知，旧2026禁止沿用；2027注册费用付款及出版形式/索引未知
+- 维护触发：官网切换2027专属CFP/场馆注册或出版要求时逐字段维护，不按旧模板/周期补空。
+- 完整记录内容摘要bae88b32b7d8cbd33a4593f6b518a02135dc1874128b4275c5ae05bb2f930f94，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。
+
+## spie-sensors-imaging-2027
+
+SPIE Sensors + Imaging 2027；2027；SPIE Sensors + Imaging/series-b0a0e3b0882e；admitted关联conference-series-spie-sensors-imaging，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/sensors-and-imaging)、[原通知](https://spie.org/conferences-and-exhibitions/sensors-and-imaging)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c4六个未审系列及-sensors--imaging-母会)。
+- 全字段审阅范围：C4原母会正文2027/9/12–16 Stockholm明示非旧2026Edinburgh9/14–17。联合EnvironmentalRemoteSensing与欧洲SecurityDefence只一正式母会独立admitted，子系列候选不再次关联同一母会或复制三届；美国DefenseSecurity不同系列。原两个子页仅2026，不能移2027征稿材料/专题/出版条件。2027场馆/报告展子日程未知，不从整母会预测。历届SPIEDigitalLibrary说明非2027实际卷号/每篇索引，本届unknown/null与所有保留范围一致，未今天再访或读未核MediaKit（原200实际HTML非PDF）。
+- 日城与范围：2027-09-12–2027-09-16；瑞典 · 斯德哥尔摩；2027 具体会场待官方确认；submissionState unknown。
+- 逐字段截止及出处：2027 征稿截止待公布：未知 [来源](https://spie.org/conferences-and-exhibitions/sensors-and-imaging)；2027 注册截止待公布：未知 [来源](https://spie.org/conferences-and-exhibitions/sensors-and-imaging)
+- 本届条件出版原字段：母会官网有历届 SPIE Digital Library 论文集说明，但 2027 稿件出版条件、具体卷号与数据库检索尚未核实。
+- 本届范围/冲突原备注：整体活动预告只计一个母会，遥感与欧洲 Security + Defence 保留独立候选关系，不再复制两份同日会议。2027 具体报告/展览子日程和会场未知；与美国 SPIE Defense + Security 2027 为不同系列。官网页首 Edinburgh 14–17 September 2026 不作下一届信息。
+- 未解决内容及影响：2027场馆/子日程及独立子会征稿未知，母子层级需维持；本届稿型模板/平台/报告材料截止全部未知，2026子页不继承；注册费率付款和当届出版卷号/真实索引未知，旧MediaKit失败非依据
+- 维护触发：2027母会和子系列独立CFP/场馆注册公告公开后分字段维护，避免重复计会或混美国系列。
+- 完整记录内容摘要4e77be467f5125ebd70433e3e9c4478f94ea9d06eb1855a53358db142f6501e4，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。

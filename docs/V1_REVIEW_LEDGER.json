@@ -5275,6 +5275,150 @@
         "真实单篇Proceedings出版/索引及未来更名/欧洲系列关系未知"
       ],
       "maintenanceTrigger": "主办方新明确CFP延期/作者注册公告、当前来源实质内容变化或实际文集出现后维护；不为接近10/7反复请求同未变源。"
+    },
+    {
+      "kind": "conference",
+      "id": "aomta-ysaom-2026",
+      "seriesId": "series-4e5136e95266",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "46b5b1493be60009db1a611dc13504d9eb7c5dd3a93232d0541b0d7ce559ce5c",
+      "formalReviewBase": "bf531987b6443260796f190715d4b5a4a97e05ad",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#aomta-ysaom-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "中文长度/全文模板和各出版渠道录用材料未知，仅英文摘要规则已明确",
+        "最终注册/各截止时刻时区及合作期刊单篇实际出版索引未知，历史入口不表开放",
+        "联合关系只限2026，YSAOM不同伙伴及新届日城未知"
+      ],
+      "maintenanceTrigger": "独立新届联合通知或出版稿规公开后分别核实AOMTA/YSAOM和合作伙伴，不按历史联合推永久别名。"
+    },
+    {
+      "kind": "conference",
+      "id": "lim-2027",
+      "seriesId": "series-ea1694596fc1",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "b12c9afa8e997012f172270eaa556527b472f22239a265c758d5de1c934aab06",
+      "formalReviewBase": "bf531987b6443260796f190715d4b5a4a97e05ad",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#lim-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当届全文页限模板最终材料及统一论文集/索引未知，专刊另审",
+        "注册入口费率最终付款及日期时刻时区未知，ConfTool只作者入口",
+        "子会报告时长/海报本届要求与确切上传截止未知，母会六月初仅计划"
+      ],
+      "maintenanceTrigger": "WLT本届全文/注册或六月材料凭据公告出现后补独立字段；新母会AV通知只按明确适用子会使用。"
+    },
+    {
+      "kind": "conference",
+      "id": "siphotonics-2027",
+      "seriesId": "series-85eafd34a363",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c872a9970f292f42e981db2cc9200243d19ca2af5d20336a5f2196e7b29f337b",
+      "formalReviewBase": "bf531987b6443260796f190715d4b5a4a97e05ad",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#siphotonics-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本次指南无正文，不具今日规则/延期变化新证据，同源已两次",
+        "2027具体会场注册实际入口/费用/最终付款与时刻未知，价格分界不是硬截止",
+        "录用通知/终稿时间及单篇真实出版索引未知"
+      ],
+      "maintenanceTrigger": "主办方新延期/通知、当届酒店注册或最终材料公告公开后维护；不因10/12临近重复同未变指南。"
+    },
+    {
+      "kind": "conference",
+      "id": "aomatt-2026",
+      "seriesId": "series-afcf0a2fe49b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "8a0ffc512e59dbb3e4f74b3db9e574e0c2434dab9afb3ab60627dbbeb2522f71",
+      "formalReviewBase": "bf531987b6443260796f190715d4b5a4a97e05ad",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#aomatt-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要9/30与10/25冲突未解决、真实提交入口/格式未知，日历不提示已确证可投稿日期",
+        "全文系统实际开放/页限模板录用与出版索引未知，原PDF只p1–4",
+        "早鸟系统付款边界和最终注册未知，注册登录未操作"
+      ],
+      "maintenanceTrigger": "主办明确延期说明、新版正式通知/摘要规则或11/30真实全文入口出现后维护；同未变主页两次停止。"
+    },
+    {
+      "kind": "conference",
+      "id": "spie-optics-photonics-2027",
+      "seriesId": "series-d95a0dcae1f0",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "bae88b32b7d8cbd33a4593f6b518a02135dc1874128b4275c5ae05bb2f930f94",
+      "formalReviewBase": "bf531987b6443260796f190715d4b5a4a97e05ad",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#spie-optics-photonics-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027具体会场/专题和展子日程未知，仅正式会期城市已核",
+        "本届稿型模板实际提交/报告规则与各截止未知，旧2026禁止沿用",
+        "2027注册费用付款及出版形式/索引未知"
+      ],
+      "maintenanceTrigger": "官网切换2027专属CFP/场馆注册或出版要求时逐字段维护，不按旧模板/周期补空。"
+    },
+    {
+      "kind": "conference",
+      "id": "spie-sensors-imaging-2027",
+      "seriesId": "series-b0a0e3b0882e",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4e77be467f5125ebd70433e3e9c4478f94ea9d06eb1855a53358db142f6501e4",
+      "formalReviewBase": "bf531987b6443260796f190715d4b5a4a97e05ad",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#spie-sensors-imaging-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027场馆/子日程及独立子会征稿未知，母子层级需维持",
+        "本届稿型模板/平台/报告材料截止全部未知，2026子页不继承",
+        "注册费率付款和当届出版卷号/真实索引未知，旧MediaKit失败非依据"
+      ],
+      "maintenanceTrigger": "2027母会和子系列独立CFP/场馆注册公告公开后分字段维护，避免重复计会或混美国系列。"
     }
   ],
   "coreSeriesReviews": [
