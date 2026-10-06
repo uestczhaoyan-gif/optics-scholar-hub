@@ -1503,3 +1503,105 @@ International Image Sensor Workshop 2027；2027；International Image Sensor Wor
 - 未解决内容及影响：中文abstract截止词页限/匿名及poster模板朝向内部未知；7/15early价格/退款及最终author日与统一出版真实索引未知；大PDF只人工核读不能冒充5MB日巡覆盖，2027仅承办大学线索
 - 维护触发：正式2027日城/CFP或2026历史稿规归档公开后维护；大PDF按人工范围保留，不扩大自动上限/继承2025出版。
 - 完整记录内容摘要2f57ee178a790cce76b9cb00f59d223411d996588e629d73d622d24d98428868，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AJ
+
+实际完整读取七届JSON与稳定series/admitted、C19/C20原出处及C21未来日程和SENSORS各路径（MEMS无关段不重复）。QIP Call和SENSORS展示指南第二有效请求（10/4首次）成功缓存今天：只补QIP现场及既有TQC/重复稿边界、SENSORS截止后幻灯片USB与海报例外更新区别至各requirements，其余data/原checkedAt不变。QIP10/5AoE在本次UTC10/6上午尚未到点，仅已预登记稿能完成；不误报全体重开。旧FOOP证书异常不重访/绕过、不下载未变PDF/模板或登录，未来IEDM不复制2026。 累计正式质量229/252，余23未审；固定候选42/60，G4/G5完成，其余门槛未验收。仅计划指定当届字段修订；其余data与冻结范围保持。
+
+## foop-2025
+
+23rd National Symposium on Fundamental Optics and Optical Physics 2025；2025；全国基础光学与光物理学术讨论会/series-851e86810591；admitted关联conference-series-851e868105，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.ydioe.pku.edu.cn/info/1011/2685.htm)、[原通知](https://www.ydioe.pku.edu.cn/info/1011/2685.htm)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c19基础光学历史与photonics-asia临近字段)。
+- 全字段审阅范围：北大承办第一轮通知与COS实际举办报道确证23届2025/12/19–21南通五洲皇冠酒店及六光学方向、邀请专题墙报；与全国光子学等独立series。会议站由官网直接link但正常浏览器已证过期停止，没有把检索旧摘要/early或可疑33届PDF当可靠字段；目录转可读主办通知不冒充原站完整读。摘要格式字页模板匿名和费用/通知/注册均未知，两null/unknown真实；量子电子学报编辑部联合承办不保journal发表/会议录/索引。原定向2025/26/27未取得后续会期，nextEditionCheckedAt null不伪刷新，不按周期推。
+- 日城与范围：2025-12-19–2025-12-21；中国 · 江苏南通；南通五洲皇冠酒店；submissionState unknown。
+- 逐字段截止及出处：历史摘要截止尚待可靠完整通知核验：未知 [来源](https://www.ydioe.pku.edu.cn/info/1011/2685.htm)；历史注册/费用尚未确认：未知 [来源](https://www.ydioe.pku.edu.cn/info/1011/2685.htm)
+- 本届条件出版原字段：本轮官方通知/举办报道只确认学术交流与张贴报告，未确认公开会议论文集、出版社或实际数据库索引。《量子电子学报》编辑部联合承办不意味着自动期刊录用或EI检索。
+- 本届范围/冲突原备注：会议原站由北京大学承办研究院官网直接链接，但普通浏览器当前证书过期，未绕过警告；目录使用可读主办方通知作为官网入口。检索文本旧摘要/早鸟日期未在正常访问确认，未转为正式截止。后续届次具体会期未知，2025/2026/2027定向官方范围未获新会期，不按周期推算；未来会期仍待官方完整公告确认。
+- 未解决内容及影响：会议原站证书过期不绕过，具体摘要模板/费用截止未获可靠完整来源；期刊编辑部承办不等于出版或数据库收录保证；后续具体届次未核，原有限官方检索范围不称全网无公告
+- 维护触发：证书正常且完整通知可读或主办方发布后续独立CFP后维护；同证书异常不重试绕过。
+- 完整记录内容摘要32a19a933372c343dc57da5d66cd0493d9397ab4b093903e4fd34006321df6fc，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## qip-2027
+
+Quantum Information Processing 2027 (including tutorial period)；2027；Quantum Information Processing/series-aa6c82f3fdd8；admitted关联conference-series-62404a5f48，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://qipconference.org/2027/)、[原通知](https://qipconference.org/2027/call/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c20qipdamop与aps-summit-2027预备)。
+- 全字段审阅范围：IAQI→原域→当届网站实际重定向及CQT确认新加坡UCC50KentRidge2/20–26含教程；IAQI教程20–21/main22起但终年2026误写，不擅造主会终日。理论量子信息/通信/测量适配非所有实验opticaldevices。9/28预登记author锁定、10/5 23:59AoE UTC−12仅已登记full，10/6UTC11:59前仍能完成不是新稿重开；9/30 18UTC仅arXiv延迟保护。口头≤3p扩abstract refs另计单栏≥11去author/affiliation/ack但非双盲，还须带版公开arXiv+matching技术PDF/责任AI/ready；poster独立HotCRP题名authors摘要技术PDF无extended/arXiv、首位报告作者，complete冻结/一注册最多一海报且容量不保slot。二读新增明确TQC2026口头及实质重叠不可投、曾投QIP需说明重大新进展与onsite否则除programme/不可控旅行例外，口头ready仍可截止前更新不同posterfreeze。11/30notice、12/4poster、12/20early1/20final都是AoE，fees实际reg未知、charter可选OA不证本届实际出版/索引。
+- 日城与范围：2027-02-20–2027-02-26；新加坡；University Cultural Centre（50 Kent Ridge Cres）；submissionState published。
+- 逐字段截止及出处：口头稿预登记（已过；作者列表须确定）：2026-09-28T23:59:00-12:00 / Etc/GMT+12 [来源](https://qipconference.org/2027/call/)；仅已预登记口头稿的完整提交截止：2026-10-05T23:59:00-12:00 / Etc/GMT+12 [来源](https://qipconference.org/2027/call/)；独立海报提交截止：2026-12-04T23:59:00-12:00 / Etc/GMT+12 [来源](https://qipconference.org/2027/call/)；口头稿结果通知：2026-11-30T23:59:00-12:00 / Etc/GMT+12 [来源](https://qipconference.org/2027/)；参会早鸟截止（费用未核）：2026-12-20T23:59:00-12:00 / Etc/GMT+12 [来源](https://qipconference.org/2027/)；参会注册截止（入口/费用未核）：2027-01-20T23:59:00-12:00 / Etc/GMT+12 [来源](https://qipconference.org/2027/)
+- 本届条件出版原字段：当届章程提到可选开放获取会议录，但本轮未确认2027出版社、出版轨道实施、费用或实际数据库索引；录用报告不等同于保证出版。
+- 本届范围/冲突原备注：当届主页/CFP写2月20–26总跨度；IAQI页列2/20–21教程、主会2/22起，但终年误写2026，主会独立终日仍待更正，未据错误年份造日期。AoE明确UTC−12。9/30 18:00UTC是arXiv延迟保护界限，不是普通提交截止。参会早鸟/最终日已公布，实际注册入口和费用未核；口头登记已过，海报另可准备。
+- 未解决内容及影响：IAQI主会终年误写未解决，正式日程/具体主会终日未知；实际系统接收与参会fees注册入口/出版实施索引未知；口头仅预登记完成、海报独立容量条件，不能借章程OA保出版
+- 维护触发：主会日程更正、费用注册与2027出版实际通知后维护；同Call两次停止，预登记与完成窗口及poster冻结分开。
+- 完整记录内容摘要984a6b7dfae13d6376b6a4a73634cdf1b19e025c9ba683643dd94d1ca2e6f29e，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## damop-2027
+
+58th APS Division of Atomic, Molecular and Optical Physics Meeting 2027；2027；APS DAMOP/series-f68661b67f3a；admitted关联conference-series-7ef782a899，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.aps.org/events/2027/damop-2027)、[原通知](https://www.aps.org/events/2027/damop-2027)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c20qipdamop与aps-summit-2027预备)。
+- 全字段审阅范围：APS当届event58th2027/5/31–6/4 HiltonChicago直接日城预告，AMO适配由分会身份，和4月GPS独立series。唯一来源只当届事件主内容，摘要字词模板匿名报告/征稿入口全部未公布或未核，不复制2026与GPS约1300chars/会员/费用。Unknown两nullregistrationnull与真实预告范围一致，不凭会期说投稿open、APS主办不保APS期刊录用/会议论文集或数据库实际索引。
+- 日城与范围：2027-05-31–2027-06-04；美国 · 伊利诺伊州芝加哥；Hilton Chicago；submissionState unknown。
+- 逐字段截止及出处：2027当届征稿/摘要截止待公布：未知 [来源](https://www.aps.org/events/2027/damop-2027)；注册开放/费用和截止待公布：未知 [来源](https://www.aps.org/events/2027/damop-2027)
+- 本届条件出版原字段：当前会期预告未确认当届会议论文集、出版费或实际数据库索引；APS学术会议与APS期刊投稿录用分开。
+- 本届范围/冲突原备注：5月31日至6月4日、Chicago Hilton及58th由APS当前2027页确认。独立稳定系列，与4月Global Physics Summit不合并；未读当届尚未公布的作者指南。
+- 未解决内容及影响：预告仅会期场馆/AMO身份，独立CFP摘要模板评审及各截止未知；注册费用作者报告/出版费与实际索引未知；GPS/旧DAMOP规则不可继承，后续具体届次未核
+- 维护触发：APS2027 DAMOP独立CFP/注册作者与出版说明公开后维护，不重复同不变事件页。
+- 完整记录内容摘要1eaae5389c9616c3487a97b70961674aadede892390daa996101ab28f4764e77，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## aps-global-physics-summit-2027
+
+APS Global Physics Summit 2027；2027；APS Global Physics Summit/series-14bba76de7ef；admitted关联conference-series-ca9c7249b4，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://summit.aps.org/)、[原通知](https://summit.aps.org/attend/abstracts/contributed/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c20qipdamop与aps-summit-2027预备)。
+- 全字段审阅范围：APS2027event/About科学区域确证4/11–16 Atlanta+online GWCC/Omni/Signia，QuantumRealm/MaterialsFrontier支持光学量子材料子集明确推断，分类页正常浏览器无可读编码不猜动态API/旧MarchApril合并改名。具体contributed比概要优先：约1300字符默认格式、APS或互惠会员可投APS会员可非会员reporter；普通10+2min通常一technical oral/一nontechnical/一poster，更多technical按容量poster。10/22前现场online模式确定、后不加/重排author，abstract17点/2/25early23:59来源无timezone只date。全报告者registered；仅当前Fullgradmember现场$299/online199 vsBasic/non1029/593early，$币种未明其他身份/阶段未穷举。4/2取消手续费$50是refund非最终regdeadline。无已核统一Proceedings或索引，APS期刊独立。
+- 日城与范围：2027-04-11–2027-04-16；美国 · 佐治亚州亚特兰大及线上；Georgia World Congress Center、Omni Hotel at Centennial Park、Signia by Hilton；submissionState published。
+- 逐字段截止及出处：普通摘要截止（原文17:00，时区待核）：2026-10-22 [来源](https://www.aps.org/events/2027/summit)；早鸟注册截止（原文23:59，时区待核）：2027-02-25 [来源](https://www.aps.org/events/2027/summit)；最终注册截止未在已读页面确认：未知 [来源](https://summit.aps.org/attend/registration/)
+- 本届条件出版原字段：本轮核到摘要报告与会议注册规则，未确认统一论文集或实际数据库索引；APS期刊录用并非会议参会的自动结果。
+- 本届范围/冲突原备注：APS事件页摘要10/22 17:00、早鸟2/25 23:59均未注明时区，保存日期级/原文而不造UTC。注册已开放、所有报告者须注册；4/2书面取消界限及$50手续费属退款规则，不作最终报名DDL。当前sorting categories页未列可读具体编码，光学子集需进一步核实；仅本届新记录，未将旧March/April届次自动改名。
+- 未解决内容及影响：摘要及early时区、具体optical分类编码未知，推断范围保留；$币种/其他身份费率与最终注册日未全面核实，refund非报名DDL；正式论文集实际索引与历史MarchApril继承未核不自动改
+- 维护触发：官方公布可读分类码/时区或作者及出版资料后维护，综合物理光学子集不泛化。
+- 完整记录内容摘要f8a70fec1fff0d113823bf5e6df9a3b67bc2becfd6b3fa75f79f39ef3251c9a6，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## iedm-2027
+
+IEEE International Electron Devices Meeting 2027；2027；IEEE IEDM/series-4754e84ed990；admitted关联conference-series-d1a5934e3e，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://ieee-iedm.org/)、[原通知](https://ieee-iedm.org/about/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c21微器件传感广度及未来届次2026-10-04)、[原实际记录2](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iedm-2026)。
+- 全字段审阅范围：主办About FutureDates直接2027/12/4–8 HiltonUnionSquareSF，未来独立同series第三年的2028与2026共admitted不是数量重复。唯会期场馆确证，无本届主题/CFP、系统篇幅模板匿名/metadata规则报告/注册fee、公版费用/版权/索引。系列光子适配可以标但不宣称2026ODI是2027专题，尤其不搬4p、7月deadline、PDFexpressID、onsite视频和2026收费。Unknownpaper/reg两null诚实不推annualdates或届序。
+- 日城与范围：2027-12-04–2027-12-08；美国 · 加利福尼亚州旧金山；Hilton Union Square San Francisco；submissionState unknown。
+- 逐字段截止及出处：本届征稿/论文截止待公布：未知 [来源](https://ieee-iedm.org/about/)；本届注册/费用与截止待公布：未知 [来源](https://ieee-iedm.org/about/)
+- 本届条件出版原字段：未来日程未确认本届会议录/版权、出版费用及实际数据库索引，保持未知。
+- 本届范围/冲突原备注：未来日期来自主办方明示而非年会周期推算；历史、未来三届共用稳定系列并分别保存，错过2026可提前关注后续。
+- 未解决内容及影响：当前仅未来日城场馆，2027各稿规主题系统和deadline未知；本届注册fee/报告条件出版版权及实际索引未知；2026 ODI标签不作当届确认，旧4p/付款不可迁移
+- 维护触发：IEDM2027独立CFP/注册作者及出版通知公开后维护，日城不重复核不变About。
+- 完整记录内容摘要f84d9ba77e9fc7fc5035fadbd9eddff89b548feb9dcb34706ca3482801b7cbf7，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## iedm-2028
+
+IEEE International Electron Devices Meeting 2028；2028；IEEE IEDM/series-4754e84ed990；admitted关联conference-series-d1a5934e3e，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://ieee-iedm.org/)、[原通知](https://ieee-iedm.org/about/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c21微器件传感广度及未来届次2026-10-04)、[原实际记录2](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iedm-2026)。
+- 全字段审阅范围：同官方FutureDates明确2028/12/2–6 HiltonUnionSquareSF非根据2027按year平移，两未来届各自主档同stable系列已关联。只有日城预告本届technicaltopicsCFP稿型字页模板评审系统/报告及各截止未知，注册null。无本届版权出版路径fee或真实数据库证据，不复制2026ODI/4p/通知和视频付款规则，也不默认2027将来的规则对2028生效；unknown不凭date冒称已开放。
+- 日城与范围：2028-12-02–2028-12-06；美国 · 加利福尼亚州旧金山；Hilton Union Square San Francisco；submissionState unknown。
+- 逐字段截止及出处：本届征稿/论文截止待公布：未知 [来源](https://ieee-iedm.org/about/)；本届注册/费用与截止待公布：未知 [来源](https://ieee-iedm.org/about/)
+- 本届条件出版原字段：未来日程未确认本届会议录/版权、出版费用及实际数据库索引，保持未知。
+- 本届范围/冲突原备注：未来日期来自主办方明示而非年会周期推算；历史、未来三届共用稳定系列并分别保存，错过2026可提前关注后续。
+- 未解决内容及影响：2028只独立日城预告，CFP格式/主题/评审系统截止未知；作者报告注册fee/出版版权及实际索引未知；2026及2027规则不自动适用2028，无推算届号
+- 维护触发：IEDM2028专属CFP及作者/注册出版通知公开后维护，保留提前准备与真实未知。
+- 完整记录内容摘要bfa2c9b7805e13485133ebf107e354ced987a9ded47d9568a369741144e5a129，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
+
+## ieee-sensors-2026
+
+IEEE SENSORS 2026；2026；IEEE SENSORS/series-61e9589bca77；admitted关联conference-series-61e9589bca，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://2026.ieee-sensorsconference.org/)、[原通知](https://2026.ieee-sensorsconference.org/authors/open-posters)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c21微器件传感广度及未来届次2026-10-04)。
+- 全字段审阅范围：当届官网CFP08一页真实文字和图、会场确证2026/10/25–28 RotterdamPostillionWTC，酒店10/22–29不是会期；只OpticalSensors/生物检测子集。OptionA≤3正文+1ref7/2延期已过，B4p SensorsLetters5/4独立期刊审session；08覆盖02旧6/18/8/30，8/24homepage通知对08 8/23冲突仍存。正式final/全额nonstudentauthorreg9/13一份最多2篇且onsite，学生单日不coverpublication。展示12+3min幻灯pdf/ppt/pptx/pptm与digitalposter9:16 22.5W40H inch PDF10/5privateupload，二读仍已过但slides可USB更新禁自带PC，poster仅例外email审核不能USB/自己PC、10/25后不保证显示，未联系。OpenPoster10/16titlePDF有效registered有限先到先审form只观察不fill、不DigestXplore；非10/5已录用材料截止。USD含VAT21%至10/24member1361.25/non1633.5学生life907.5、教程extra；涨价非关闭，10/1refund界限过不保退。Xplore须质量scope报告付款/组织方声明≠实际EI，SensorsJournal扩展独立，后续未知。
+- 日城与范围：2026-10-25–2026-10-28；荷兰 · 鹿特丹；Postillion Hotel & Convention Centre WTC Rotterdam；submissionState published。
+- 逐字段截止及出处：Option B：Sensors Letters特刊稿截止（已过）：2026-05-04 [来源](https://confcats-siteplex.s3.us-east-1.amazonaws.com/sensors26/sensors26_cfp_web_08_f09192f850.pdf)；Option A：普通会议论文延期截止（已过）：2026-07-02 [来源](https://2026.ieee-sensorsconference.org/)；主页录用通知8/24（当前CFP8/23冲突）：2026-08-24 [来源](https://2026.ieee-sensorsconference.org/)；普通录用稿最终论文截止（已过）：2026-09-13 [来源](https://2026.ieee-sensorsconference.org/)；正式论文全额作者注册支付截止（已过）：2026-09-13 [来源](https://2026.ieee-sensorsconference.org/registration)；已录用口头报告幻灯片上传（展示资料）：2026-10-05 [来源](https://2026.ieee-sensorsconference.org/authors/presentation-instructions)；已录用数字海报PDF上传（非新投稿）：2026-10-05 [来源](https://2026.ieee-sensorsconference.org/authors/presentation-instructions)；独立Open Poster提交截止（不出版）：2026-10-16 [来源](https://2026.ieee-sensorsconference.org/authors/open-posters)；参会注册中期费率终日（之后涨价，非关闭）：2026-10-24 [来源](https://2026.ieee-sensorsconference.org/registration)
+- 本届条件出版原字段：普通录用论文送IEEE Xplore还须符合其范围/质量及全额作者注册/报告条件，为主办方声明不是实际EI单篇证明；Option B另由Sensors Letters评审，扩展稿可投Sensors Journal非自动录用。Open Poster不出版。
+- 本届范围/冲突原备注：当前CFP_08和主页把普通截止延至7/2、终稿9/13；Council旧CFP_02的6/18、8/30只留历史。通知当前主页8/24与CFP_08的8/23不一致，按主页保存并注明冲突。已录用数字海报10/5上传与Open Poster10/16分开；只有日期，无时区不造UTC。酒店优惠10/22–29不作会期，未来届次尚未核实。
+- 未解决内容及影响：通知8/23–24冲突/精确时刻及后续届次未核；private上传、template内容和实际注册系统未核，不保证截止后poster更新；Xplore有scope质量付款报告条件，B期刊独立/OpenPoster不出版，实际EI未核
+- 维护触发：官方更正通知或公布新作者/后续CFP资料后维护；已两次展示指南停止，幻灯片USB与poster例外更新分开。
+- 完整记录内容摘要0ae1ef05f32a2458c5efb15c56846fe9b6ecd5307e4eeeba51b5d04e39289f6d，基于70b76ac0d175a77a7b4a07b2c9c4dfe2ac9458eb；非官网内容指纹，未知不冒充已补齐。
