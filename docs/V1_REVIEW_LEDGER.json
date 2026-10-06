@@ -6715,6 +6715,102 @@
         "具体期刊/出版fee真实索引未知，未来日城不证明可投稿"
       ],
       "maintenanceTrigger": "Fall2027普通CFP与专题/注册作者出版政策发布后维护，不把organizerproposal放学生论文DDL。"
+    },
+    {
+      "kind": "conference",
+      "id": "spie-photonics-europe-2026",
+      "seriesId": "series-2b80979963bb",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6727c392649a07cec68c3fa797778f90611ad079ba2e3c22fa2437de95306eba",
+      "formalReviewBase": "72f90cf27fe75b4d6928517549facc4a45c5f72a",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#spie-photonics-europe-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "历史整体会场/投稿模板篇幅、费用注册及作者条件未核",
+        "历史论文入口不证统一出版/每篇实际索引",
+        "2028日期明示但当届城市未知，不复制2026城市稿规"
+      ],
+      "maintenanceTrigger": "官方历史完整CFP/出版档案或2028明确城市场馆作者公告出现后维护，不扩本版范围。"
+    },
+    {
+      "kind": "conference",
+      "id": "spie-optical-systems-design-2026",
+      "seriesId": "series-b52b2d1ab581",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "8db61c3813abe24e8e639751ef195c694268dc3b855dfee2182c9fa26a73d784",
+      "formalReviewBase": "72f90cf27fe75b4d6928517549facc4a45c5f72a",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#spie-optical-systems-design-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "历史整体venue/完整稿規模板系统及fee作者条件未知",
+        "统一出版和实际索引未核，旧论文入口非全会保证",
+        "2028日期已知但cityvenue及CFP未知，不平移历史"
+      ],
+      "maintenanceTrigger": "历史官方作者/出版资料或未来2028专属城市场馆CFP公开后维护；shared展览不重复计会。"
+    },
+    {
+      "kind": "conference",
+      "id": "spie-photomask-euv-2026",
+      "seriesId": "series-2a286635cde7",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1f395a0e0f187b1fc3c52bc17d86018e91e58d1e69c835f4b95ddfbdf4e1fa25",
+      "formalReviewBase": "72f90cf27fe75b4d6928517549facc4a45c5f72a",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#spie-photomask-euv-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "节目只公开部分，母会整体venue/旧CFP作者fee截止未核",
+        "2027具体cityvenue与稿規费用未知，不能继承Monterey",
+        "历史出版全文要求/实际索引未核，联合子会不可重复"
+      ],
+      "maintenanceTrigger": "官方历史完整作者/出版档案或2027明确cityvenue与CFP公开后维护，已知SaveDates不反复请求。"
+    },
+    {
+      "kind": "conference",
+      "id": "apcom-ysaom-2025",
+      "seriesId": "series-214e17a6f649",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "bcc1c60b16dad113790066c85b43ccfa08ea6314efb64289709d15ff05ce93c8",
+      "formalReviewBase": "72f90cf27fe75b4d6928517549facc4a45c5f72a",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#apcom-ysaom-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "普通final6/30对7/8冲突未释、中文篇幅/模板非涉密文件内部未知",
+        "出版4–6p与poster80×90只是link标签，合同/实际index未知",
+        "2025费用日期不移2026，2027具体联合身份日城尚未核"
+      ],
+      "maintenanceTrigger": "CSOE更正final日期、公开完整历史模板/出版资料或下一联合组合日城CFP后维护，按届保留伙伴身份。"
     }
   ],
   "coreSeriesReviews": [

@@ -1745,3 +1745,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AL实审4届会议全部字段，正式质量累计238/252（109刊/119届/10活动）、余14；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取E-MRS春秋2026/2027四届JSON、两稳定series及admitted关联，并比对已实读C22各独立PracticalInformation、专题/日期与提案范围。只复用原真实官方证据、不重访未变历史页/未来占位、不读账号模板；两历史安装/时间歧义及未来ordinary未知独立，不复制MRS或旧届。全部data/checkedAt及固定范围保持，本批审查日期不冒称今天官网全文新核。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2al)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data及冻结字节/旧234正式42候选G4G5final保护、238唯一摘要与四当届admitted系列关系断言通过；719本地文件链接、六文档完整实际差异/git diff --check通过。纯文档复用已验收7b4426摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages和线上版本。春秋安装/费率及CET歧义独立，2027组织提案不作普通作者截止；未复制历史稿规或修改未知。
+
+## 2026-10-06：正式会议质量 V1-G2AM
+
+- 72f90cf27fe75b4d6928517549facc4a45c5f72a已验收[Pages 37436952909](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37436952909)；同SHA build/deploy成功、首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e匹配本地（2026-10-06T11:45:21.420Z）。编辑前HEAD=origin/main；work/V1-G2AM-plan.json长操作前保护真实范围。
+- V1-G2AM实审4届会议全部字段，正式质量累计242/252（109刊/123届/10活动）、余10；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 先补验上轮额度100%时自动审批未执行的同SHA部署：额度恢复0%后原72f90cf Pages37436952909成功且线上7b4426一致；没有重置券/购买或重复提交。实际完整读四届JSON、stable/admitted和C23/C28原公开官方核验范围，复用真实成功证据、不重访未变历史/未来占位或原证书异常。全部data及原checkedAt/固定范围保持，制造联合身份与未来城市未知逐届分开。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2am)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data/冻结字节、旧238正式42候选G4G5final保护及242唯一摘要/四当届系列关系断言通过；727本地文件链接、六文档完整实际差异与git diff --check通过。纯文档复用已验收7b4426摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages线上版本。未来仅日期不复用旧城市，联合伙伴身份按届分开；已恢复额度后补验原未执行动作，未绕过限制。

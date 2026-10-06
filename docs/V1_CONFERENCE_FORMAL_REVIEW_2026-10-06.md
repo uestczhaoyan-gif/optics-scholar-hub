@@ -1739,3 +1739,63 @@ IEEE SENSORS 2026；2026；IEEE SENSORS/series-61e9589bca77；admitted关联conf
 - 未解决内容及影响：10/15是组织提案、December末是窗口，普通稿截止未核；本届光学专题/模板评审报告及注册fee未知，不复制历史；具体期刊/出版fee真实索引未知，未来日城不证明可投稿
 - 维护触发：Fall2027普通CFP与专题/注册作者出版政策发布后维护，不把organizerproposal放学生论文DDL。
 - 完整记录内容摘要c3ebc4613bad9837b09455b38c2ae3843548a469238222d46f3782873c50a9cf，基于0680f4c5c74b8cd3292c97d57c8a6bf0981c5071；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AM
+
+先补验上轮额度100%时自动审批未执行的同SHA部署：额度恢复0%后原72f90cf Pages37436952909成功且线上7b4426一致；没有重置券/购买或重复提交。实际完整读四届JSON、stable/admitted和C23/C28原公开官方核验范围，复用真实成功证据、不重访未变历史/未来占位或原证书异常。全部data及原checkedAt/固定范围保持，制造联合身份与未来城市未知逐届分开。 累计正式质量242/252，余10未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## spie-photonics-europe-2026
+
+SPIE Photonics Europe 2026；2026；SPIE Photonics Europe/series-2b80979963bb；admitted关联conference-series-557e6200af，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/photonics-europe)、[原通知](https://spie.org/conferences-and-exhibitions/photonics-europe)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c23spie欧洲光刻系列历史与未来2026-10-04)。
+- 全字段审阅范围：SPIE历史主页实际正常浏览器12–16April2026 Strasbourg页眉/ThankYou与综合数字量子成像THz打印光学生物光子范围，母会与同址OSD各独立学术节目/sharedexhibit不重复论文计数。整体venue、历史CFP字页模板系统/作者报告/费用/DDL与实际出版索引未核，unknown两null真实不是现可投或伪closed。未来2028/4/2–6conferences且4/4–5展览独立，正文未明确未来当届cityvenue，不能平移2026Strasbourg或按双年推日；仅notes/candidate后续线索不新增固定版。历史论文入口不证明所有报告归档。
+- 日城与范围：2026-04-12–2026-04-16；法国 · 斯特拉斯堡；整体会场未在本轮核实；submissionState unknown。
+- 逐字段截止及出处：历史投稿截止本轮未核：未知 [来源](https://spie.org/conferences-and-exhibitions/photonics-europe)；历史注册规则本轮未核：未知 [来源](https://spie.org/conferences-and-exhibitions/photonics-europe)
+- 本届条件出版原字段：本轮未核本届统一出版形式/全文要求或实际索引；官网历史论文入口不证明每个报告必定出版或EI单篇检索。
+- 本届范围/冲突原备注：官网12–16April2026页眉与会后Thank you保留历史；2028未来日期先保存后续线索，两同地会议各计一次，共用展览不再计。 2026-10-04已读官方下一届2028-04-02–06预告；当届城市/会场未确认，未来暂不建正式届，待官方补齐后继续同系列。
+- 未解决内容及影响：历史整体会场/投稿模板篇幅、费用注册及作者条件未核；历史论文入口不证统一出版/每篇实际索引；2028日期明示但当届城市未知，不复制2026城市稿规
+- 维护触发：官方历史完整CFP/出版档案或2028明确城市场馆作者公告出现后维护，不扩本版范围。
+- 完整记录内容摘要6727c392649a07cec68c3fa797778f90611ad079ba2e3c22fa2437de95306eba，基于72f90cf27fe75b4d6928517549facc4a45c5f72a；非官网内容指纹，未知不冒充已补齐。
+
+## spie-optical-systems-design-2026
+
+SPIE Optical Systems Design 2026；2026；SPIE Optical Systems Design/series-b52b2d1ab581；admitted关联conference-series-7a4a5c0eb7，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/optical-systems-design)、[原通知](https://spie.org/conferences-and-exhibitions/optical-systems-design)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c23spie欧洲光刻系列历史与未来2026-10-04)。
+- 全字段审阅范围：当届SPIE页历史2026/4/12–16 Strasbourg与ThankYou，设计工程薄膜加工测试照明计算光学仪器实际主题；同PhotonicsEurope地点期间共享展览但独立会议stable候选关系，不合并学术身份或加展览论文会。核scope与daycity未确认整体venue/历史稿规reviewtemplate/注册fee报告publication索引，两null/unknown如实。未来2028/4/2–6仅conference日期、展览4/4–5不能替完整会期，city未明确当届不借2026填；明示非周期推断，2028作者政策未知。
+- 日城与范围：2026-04-12–2026-04-16；法国 · 斯特拉斯堡；整体会场未在本轮核实；submissionState unknown。
+- 逐字段截止及出处：历史投稿截止本轮未核：未知 [来源](https://spie.org/conferences-and-exhibitions/optical-systems-design)；历史注册规则本轮未核：未知 [来源](https://spie.org/conferences-and-exhibitions/optical-systems-design)
+- 本届条件出版原字段：本轮未核本届统一出版形式/全文要求或实际索引；官网历史论文入口不证明每个报告必定出版或EI单篇检索。
+- 本届范围/冲突原备注：官网12–16April2026页眉与会后Thank you保留历史；2028未来日期先保存后续线索，两同地会议各计一次，共用展览不再计。 2026-10-04已读官方下一届2028-04-02–06预告；当届城市/会场未确认，未来暂不建正式届，待官方补齐后继续同系列。
+- 未解决内容及影响：历史整体venue/完整稿規模板系统及fee作者条件未知；统一出版和实际索引未核，旧论文入口非全会保证；2028日期已知但cityvenue及CFP未知，不平移历史
+- 维护触发：历史官方作者/出版资料或未来2028专属城市场馆CFP公开后维护；shared展览不重复计会。
+- 完整记录内容摘要8db61c3813abe24e8e639751ef195c694268dc3b855dfee2182c9fa26a73d784，基于72f90cf27fe75b4d6928517549facc4a45c5f72a；非官网内容指纹，未知不冒充已补齐。
+
+## spie-photomask-euv-2026
+
+SPIE Photomask Technology + Extreme Ultraviolet Lithography 2026；2026；SPIE Photomask Technology + Extreme Ultraviolet Lithography/series-2a286635cde7；admitted关联conference-series-0434ec4c23，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography)、[原通知](https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c23spie欧洲光刻系列历史与未来2026-10-04)。
+- 全字段审阅范围：SPIE联合母会2026/9/8–11 Monterey与当届所链EUV公开节目部分确证高NA锡激光等离子EUV源光学表面散射计量多层镜反射率，不称全会议录/全部abstract通读。两子conference同联合届计一，PortolaDeAnzaIII/MontereyConfCtrSerra2仅专题/海报场地不冒充唯一母venue。历史稿规字页template/系统/费用报告deadlinepub/index未知两null与unknown保留。官方SaveDates2027/9/26–30只有明示日期，城市未当届confirm，不继承Monterey/旧venues/稿规，不新建未来正式/不将旧论文链接当EI逐篇证据。
+- 日城与范围：2026-09-08–2026-09-11；美国 · 加利福尼亚州蒙特雷；整体会场未在本轮核实；submissionState unknown。
+- 逐字段截止及出处：历史投稿截止本轮未核：未知 [来源](https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography)；历史注册规则本轮未核：未知 [来源](https://spie.org/conferences-and-exhibitions/photomask-technology-and-extreme-ultraviolet-lithography)
+- 本届条件出版原字段：本轮未核本届统一出版形式/全文要求或实际索引；官网历史论文入口不证明每个报告必定出版或EI单篇检索。
+- 本届范围/冲突原备注：官网2026会期/Monterey及当届EUVprogramme实际读取；其中Portola Hotel DeAnzaIII及MontereyConfCtrSerra2仅专题/海报日程场地，不冒充母会唯一会场。 2026-10-04已读官方下一届2027-09-26–30预告；当届城市/会场未确认，未来暂不建正式届，待官方补齐后继续同系列。
+- 未解决内容及影响：节目只公开部分，母会整体venue/旧CFP作者fee截止未核；2027具体cityvenue与稿規费用未知，不能继承Monterey；历史出版全文要求/实际索引未核，联合子会不可重复
+- 维护触发：官方历史完整作者/出版档案或2027明确cityvenue与CFP公开后维护，已知SaveDates不反复请求。
+- 完整记录内容摘要1f395a0e0f187b1fc3c52bc17d86018e91e58d1e69c835f4b95ddfbdf4e1fa25，基于72f90cf27fe75b4d6928517549facc4a45c5f72a；非官网内容指纹，未知不冒充已补齐。
+
+## apcom-ysaom-2025
+
+9th Asia Pacific Conference on Optics Manufacture and 5th Young Scientists on Advanced Optical Manufacturing Conference；2025；APCOM & YSAOM/series-214e17a6f649；admitted关联conference-series-8d8d18e458，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)、[原通知](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c28aoe前身与ysaom不同联合组合2026-10-04)。
+- 全字段审阅范围：CSOE2025当届identity主席团日程确证APCOM9+YSAOM5联合长沙富力万达文华7/18–20含18报到shortcourse、19–20主报告；青年独立chairgroup但同日一联合record，2023同APCOM/2022及24同AOMTA、2026AOMTA青年6独立组合不可永久合并两合作系列。英文按官方中文及旧series译写非原全英文标题。Englishabstract500–800words独立入口、普通4/10first5/20second，final侧栏6/30vsEnglish7/8未释null不猜延期。7/25SPIE出版稿独立、7/1青年专场非普通摘要；4–6p/80×90poster仅link标签文件未读、中文/非涉密证明内页未知。早鸟7/7前ordinary3250→3050student2250→2050不含在职、RMB另住宿及2500pub同第一author≤2，7/18shortcourse另报名fee。支持期刊/SPIE宣传不证每稿录用实际索引；2027日城unknown不按届号/周期推。
+- 日城与范围：2025-07-18–2025-07-20；中国 · 湖南长沙；长沙市富力万达文华酒店；submissionState published。
+- 逐字段截止及出处：历史摘要第一轮：2025-04-10 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；历史摘要第二轮：2025-05-20 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；历史普通最终摘要截止冲突待核：未知 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；同一主办页侧栏2025-06-30（最终轮）与英文正文2025-07-08（Final Round）不一致，未提供版本解释。；历史SPIE出版稿件截止：2025-07-25 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；历史早鸟缴费界限（须此前）：2025-07-07 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；原文7/7前，未当当日23:59。；历史青年专场独立报名截止：2025-07-01 [来源](https://b2b.csoe.org.cn/meeting/YSAOM2025.html)；青年专场与专题口头交流可分别报名，不是普通摘要最终截止。
+- 本届条件出版原字段：当届主办方提供SPIE稿件入口及合作期刊列表；这些出版渠道/支持期刊及一般索引介绍不证明每篇实际录用或EI/SCIE检索。本轮未读模板、出版合同、全书PDF或单篇数据库。
+- 本届范围/冲突原备注：主办学会页确认YSAOM2025第五届有独立主席团、与APCOM第九届联合；往届链接2023同APCOM、2024/2022同AOMTA。2026 AOMTA/YSAOM第六届另存，不永久合并APCOM与AOMTA，也不为青年组成重复增加同日条目。英文名称按中文标题/旧届所列系列名译写。最终摘要日期冲突未解释为延期；后续2027日城未知，不能从第5/6届或单双年外推。
+- 未解决内容及影响：普通final6/30对7/8冲突未释、中文篇幅/模板非涉密文件内部未知；出版4–6p与poster80×90只是link标签，合同/实际index未知；2025费用日期不移2026，2027具体联合身份日城尚未核
+- 维护触发：CSOE更正final日期、公开完整历史模板/出版资料或下一联合组合日城CFP后维护，按届保留伙伴身份。
+- 完整记录内容摘要bcc1c60b16dad113790066c85b43ccfa08ea6314efb64289709d15ff05ce93c8，基于72f90cf27fe75b4d6928517549facc4a45c5f72a；非官网内容指纹，未知不冒充已补齐。
