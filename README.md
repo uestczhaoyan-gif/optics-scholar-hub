@@ -213,7 +213,7 @@ The series directory links 133 editions to 98 stable conference identities. Foll
 
 2026-10-05：[Proceedings光学综述E39](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)补三不同正式期样例，47刊至少三篇样例；首次与名义月份分别保留。 Proceedings optical survey examples cover three formal issues; 47 journals have at least three examples, with first-publication dates preserved separately from nominal issue months.
 
-V1.0建设以[固定范围和结项门槛](docs/PROJECT_CLOSEOUT.md)为终点；当前仍在收尾。验收后标记V1.0_ACCEPTED，停止建设自动任务，保留每日来源巡检和网站版本更新。 V1.0 has a frozen scope and explicit acceptance gates; construction ends on acceptance, with existing source monitoring and version refresh retained for maintenance.
+V1.0已于2026-10-06完成G1–G6验收，标记V1.0_ACCEPTED，详见[最终验收](docs/V1_ACCEPTANCE_2026-10-06.md)。有限建设结束，结项记录部署确认后删除五小时建设任务，保留每日来源巡检、历史/未来系列和网站版本更新。 V1.0 passed all frozen acceptance gates on 2026-10-06. Finite construction is complete; its five-hour Codex automation is deleted after the closeout record deploys. Existing daily source monitoring, edition history and version refresh remain available for maintenance.
 
 2026-10-05：[COMST样例E40](docs/JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst)核三篇近年综述；48刊至少三篇样例，COMST仅两个正式卷/期的限制明确保留。 Three recent COMST surveys are verified; the sample set covers only two formal volumes/issues, with that limitation retained.
 

@@ -1,12 +1,14 @@
 # 新对话续接说明
 
-更新：2026-10-05。用户已明确要求持续续作，并开启每五小时检查额度后重新开始；已复用原 Codex 自动化并将目标改为当前对话。本文是操作入口，完整批次计划见 [ROADMAP](ROADMAP.md)。
+更新：2026-10-06。项目状态：V1.0_ACCEPTED。验收日期：2026-10-06。G1–G6全部通过；发布SHA：`eda989c36529290a5c89fbf102c62e49fc1244a3`；[Pages 37468868918](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37468868918) build/deploy成功，首页/版本HTTP200，线上目录摘要 `661eb3d51f38bc085a66144e45be03f9d6b884ff802f88261821832f1880781f` 匹配本地（2026-10-06T13:12:46.316Z）。32/32测试、类型/lint/子路径构建及桌面/手机实际回归通过。详见[完整验收和限制交接](V1_ACCEPTANCE_2026-10-06.md)。
+
+建设剩余任务为0。结项记录确认部署后删除五小时建设自动任务 `automation`，不恢复旧任务、不再持续建设。每日来源巡检和网站更新继续保留；下一次对话默认读取交接记录，仅在用户另行要求新版本/扩范围时重开建设。
 
 ## 必须遵守的项目终点
 
-用户于2026-10-05明确要求有项目结束标识。当前为 `IN_PROGRESS`；后续仅推进 [V1.0结项清单](PROJECT_CLOSEOUT.md) 和 [固定范围](V1_SCOPE.json)，不继续无限扩充。初始固定60候选、6刊光学样例、12核心系列以及正式数据质量/最终验收；新发现条目进入后续版本。
+用户于2026-10-05明确要求有项目结束标识。当前为 `V1.0_ACCEPTED`；本次已完成 [V1.0结项清单](PROJECT_CLOSEOUT.md) 和 [固定范围](V1_SCOPE.json)，不继续无限扩充。初始固定60候选、6刊光学样例、12核心系列以及正式数据质量/最终验收；新发现条目进入后续版本。
 
-按六项门槛完成后写入 `项目状态：V1.0_ACCEPTED`、保存发布SHA/Pages/线上摘要/限制与维护交接，确认部署并通知用户，停止本项目五小时建设任务。已审查的访问限制或未公告事项可以保留未知；未审查工作不能冒充完成。滚动维护队列不必清零，现有每日来源巡检和网站更新功能继续保留。不另建任务、不恢复旧定时任务。
+六项门槛已完成，`项目状态：V1.0_ACCEPTED`、发布SHA/Pages/线上摘要/限制与维护交接已保存；结项记录确认部署后通知用户并删除五小时建设任务。已审查的访问限制或未公告事项可以保留未知；未审查工作不能冒充完成。滚动维护队列不必清零，现有每日来源巡检和网站更新功能继续保留。不另建任务、不恢复旧定时任务。
 
 当前逐项完成记录见 [V1收尾账本](V1_REVIEW_LEDGER.json)；初始冻结名单不随完成项回写或扩大。
 
@@ -18,11 +20,11 @@
 - 正式目录：112 本期刊、133 届会议、10 项展会/论坛；用户指定 54 本期刊全部收录。会议含历史届次与未来预告，数量不代表全是可投稿活动。
 - 候选：273 项，221 admitted、45 pending、7 deferred。与正式条目通过 relatedExistingIds 关联。
 - JCR 有记录 108/112、中科院 11/112；SCIE 肯定记录 96、ESCI 14、EI 102。102 本已取得 Compendex 数据库方公开来源表证据（SERIALS 2026-08-07 版；相关刊物另核对 2026-07-10 中文表），另有 96 本 SCIE 与 14 本 ESCI 已经 Clarivate MJL 公开结果卡查询确认，当前肯定索引均为数据库方依据；未进行订阅平台单篇检索。缺证据不等于未收录，详见 [最新匹配记录](INDEX_EVIDENCE_2026-10-02.md)、[APS 六刊新增证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及 [中文光学候选新证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。
-- 交叉适配样例已有五十八刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI、Applied Physics Letters、IEEE TIE、IEEE Sensors Journal、IEEE TIP、IEEE TCI、IEEE TGRS、IEEE TCYB、IEEE EDL、IEEE TED、Proceedings of the IEEE、IEEE COMST（仅两个正式卷/期，限制见E40）、JBO（三不同正式期次，E41）、Neurophotonics（E42）及Photoacoustics/Displays（E43/E44）和Quantum（V1-G3C）及Nature Methods（V1-G3G）、Nature Physics（V1-G3H）、Journal of Semiconductors（V1-G3J）、Communications Materials（V1-G3L）及PNAS（V1-G3N）。其余仍需系统补充；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
+- 交叉适配样例已有五十八刊至少 3 篇：原九刊及 Nano-Micro Letters、Science China Materials、PRX Quantum、InfoMat、Advanced Science，另有 PRA、PRApplied、PRB、PRL、PRResearch、PRX，以及 ACS Nano、Science Advances、ACS Sensors、Biosensors and Bioelectronics、Sensors and Actuators B、Journal of Colloid and Interface Science、Dyes and Pigments、Nano Letters、Inorganic Chemistry、Advanced Materials、Angewandte Chemie、Chinese Physics Letters、Applied Physics Reviews、Chemical Reviews及物理学报、JSID、IEEE TMI、Applied Physics Letters、IEEE TIE、IEEE Sensors Journal、IEEE TIP、IEEE TCI、IEEE TGRS、IEEE TCYB、IEEE EDL、IEEE TED、Proceedings of the IEEE、IEEE COMST（仅两个正式卷/期，限制见E40）、JBO（三不同正式期次，E41）、Neurophotonics（E42）及Photoacoustics/Displays（E43/E44）和Quantum（V1-G3C）及Nature Methods（V1-G3G）、Nature Physics（V1-G3H）、Journal of Semiconductors（V1-G3J）、Communications Materials（V1-G3L）及PNAS（V1-G3N）。其余样例扩充为后续版本选项，不追加本版任务；首次发表、卷期及理论/实验边界见 [E2/E4 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md)和 [E20–E30 证据](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md)。
 - 物理学报的三篇样例及2026指南见 [F5 证据](JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md#f5物理学报)。
-- 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有 31 项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
+- 已具备中文界面、双语 README、分区/索引/领域筛选、官方分区平台入口、日历导出、关注、筛选分享、版本刷新、维护和覆盖报告。已有32项测试；系列时间线、系列关注和后续公告维护已接入，不重建这些功能。
 
-## 恢复时先做
+## 维护或用户要求新版本时的入口
 
 1. 先读取本文件、ROADMAP、[维护手册](MAINTENANCE.md)、[数据模型](DATA_MODEL.md)、[候选规则](CANDIDATES.md)和 [核验日志](VERIFICATION_LOG.md)最新记录。检查当前 AGENTS.md（如存在）。
 2. 检查 git status、分支、remote 和最新提交，保护未提交改动；如有未推送或部署未确认的批次先收尾。工作区干净时再同步远端，不强制重置。
@@ -30,7 +32,7 @@
 4. 查看 GitHub Actions 的最新构建与 source 巡检报告。查询超时只重查原任务，不重做提交。本文的成功部署不能证明未来提交成功。
 5. 按下面优先级核验，逐批更新 JSON、核验日志和 ROADMAP；没有新事实时不为凑提交反复刷新日期。
 
-## 下一批具体任务
+## 原任务入口（历史与后续版本发现池，不自动执行）
 
 | 优先级 | 任务与可执行入口                                                                                                                                                                  | 保留的边界                                                                                                         |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -685,3 +687,9 @@ a65caccd5c02c8777b7e6f55d4c14925f565904b已验收[Pages 37462718166](https://git
 ## 2026-10-06：G1 最终回归与两处功能修复
 
 固定60候选、255正式数据、53样例及12系列已实审清；最终UI回归及两处小修复完成（32测试/类型/lint/子路径构建通过），G1已完成，G6待新SHA部署和结项记录。[UI实测](UI_REGRESSION.md)。V1-G3O cc88074/Pages37466187724已验收，摘要661eb3d51f38bc085a66144e45be03f9d6b884ff802f88261821832f1880781f。仅继续最终发布与维护交接，不重新扩充或重查已有来源。
+
+## 2026-10-06：V1.0_ACCEPTED
+
+项目状态：V1.0_ACCEPTED。验收日期：2026-10-06。G1–G6全部通过；发布SHA：`eda989c36529290a5c89fbf102c62e49fc1244a3`；[Pages 37468868918](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37468868918) build/deploy成功，首页/版本HTTP200，线上目录摘要 `661eb3d51f38bc085a66144e45be03f9d6b884ff802f88261821832f1880781f` 匹配本地（2026-10-06T13:12:46.316Z）。32/32测试、类型/lint/子路径构建及桌面/手机实际回归通过。详见[完整验收和限制交接](V1_ACCEPTANCE_2026-10-06.md)。
+
+恢复时优先确认最新Git/Pages记录。V1_SCOPE.json是2026-10-05不可变初始快照，其IN_PROGRESS不是当前状态；当前终点以本文件、ROADMAP、PROJECT_CLOSEOUT及账本finalAcceptance为准。建设自动任务仅在结项记录部署验收后删除；后续日常维护见MAINTENANCE，新建设须用户另行要求。

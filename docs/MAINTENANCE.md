@@ -1,6 +1,6 @@
 # 维护手册 / Maintenance guide
 
-建设阶段以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 为终点；标记 `V1.0_ACCEPTED` 并确认部署后停止五小时建设任务。现有每日来源巡检继续提供变化信号；下面的滚动队列用于上线后维护，不是结项必须清零的无限任务。新范围或新版本建设由用户另行要求。
+V1.0已于2026-10-06验收，详见[验收记录](V1_ACCEPTANCE_2026-10-06.md)。建设阶段以 [V1.0结项清单](PROJECT_CLOSEOUT.md) 为终点；标记 `V1.0_ACCEPTED` 并确认部署后停止五小时建设任务。现有每日来源巡检继续提供变化信号；下面的滚动队列用于上线后维护，不是结项必须清零的无限任务。新范围或新版本建设由用户另行要求。
 
 展会/论坛维护队列已于 2026-09-12 接入：临近 14 天或进行中的活动列为 P1，未知起止日期及超过 30 天未复核列为 P2。报告显示活动类型和母活动 ID；同一活动可有多项字段待办，任务数不等于会议数量。不为展览生成论文截止或强制要求征稿入口。日期级比较沿用维护队列的 UTC 日历日，日期仍不代表精确截止时刻。
 
@@ -74,3 +74,12 @@ PDF 上限为 5,000,000 字节，文字/图片仍为 2,000,000 字节，均沿�
 字节变化可能来自排版、元数据或隐藏文字层，不能直接当日期变化。巡检不提取 PDF 正文、不 OCR、不改写学术事实；维护者仍需渲染并目视当届官方文件，逐字段保存出处，校验、推送并按 SHA 验收部署。
 
 Explicit application/pdf sources with a valid PDF header use pdf-bytes SHA256. PDF downloads are capped at 5MB; text and images retain 2MB, with the same 15-second timeout. A byte change is a manual-review signal. Invalid, oversized or failed responses retain the last successful baseline; no PDF text extraction or automatic fact edits occur.
+
+## V1.0 维护交接（2026-10-06）
+
+- 保留现有sources.yml每天01:23 UTC（约09:23北京时间）只读巡检，调度可能延迟；最近schedule运行[37431006022](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37431006022)已成功。文本、显式图片/PDF变化只作为人工复核信号，不自动改学术事实。
+- 每周读取维护/覆盖报告，临近事项优先。验收时464字段任务不是未完成的建设范围，也不要求清零；同一不变源两次有效尝试及访问控制停止规则仍遵守。实际新公告/费用/分区版本出现后再逐字段核验。
+- 新会议届次只用当届官方依据，保持稳定seriesId并追加独立edition，不删除错过的历史届、不继承旧年CFP、不推算下一届日期。现12核心系列29届已收尾，网站总98系列/133届继续可查。
+- 单项事实变化只更新相应字段及其核验范围；分区版本年/指标年、大类/小类、SCIE/ESCI/EI独立。未公告、冲突、访问限制和未知继续明确显示。
+- 按上方流程校验、测试、类型/lint/子路径构建、审查差异、提交推送；以同一SHA验收Pages build/deploy和线上catalog-version.json摘要。网络超时只复查同一部署。浏览者“检查数据更新”只加载已审核发布版本，保留筛选/关注。ICS为静态导出，不自动订阅新日期。
+- 删除的是Codex五小时建设任务automation；本仓库每日巡检及版本刷新保留。没有创建替代任务，也不恢复旧任务。新增范围/V1.1由用户另行要求。

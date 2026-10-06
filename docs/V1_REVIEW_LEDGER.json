@@ -7556,5 +7556,55 @@
       "maintenanceTrigger": "新官方当届日城/CFP/注册费率或更正出现时按本届来源核验，按维护队列处理；不依据周期或旧年规则推算。"
     }
   ],
-  "finalAcceptance": null
+  "finalAcceptance": {
+    "status": "V1.0_ACCEPTED",
+    "acceptedAt": "2026-10-06T13:16:36.733Z",
+    "acceptanceDate": "2026-10-06",
+    "releaseCommit": "eda989c36529290a5c89fbf102c62e49fc1244a3",
+    "pagesRun": 37468868918,
+    "pagesRunUrl": "https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37468868918",
+    "deploymentCheckedAt": "2026-10-06T13:12:46.316Z",
+    "onlineCatalogDigest": "661eb3d51f38bc085a66144e45be03f9d6b884ff802f88261821832f1880781f",
+    "homeStatus": 200,
+    "versionStatus": 200,
+    "gates": ["G1", "G2", "G3", "G4", "G5", "G6"],
+    "tests": {
+      "passed": 32,
+      "failed": 0,
+      "existingTests": 31,
+      "newRegressionTests": 1,
+      "typecheck": "passed",
+      "lint": "passed",
+      "subpathBuild": "passed",
+      "entryAssets": 6
+    },
+    "formalDataReviews": 255,
+    "candidateReviews": {
+      "fixed": 60,
+      "admitted": 8,
+      "reviewedWithLimitations": 52
+    },
+    "scopeReviews": {
+      "fixed": 53,
+      "verified": 48,
+      "reviewedWithLimitations": 5
+    },
+    "coreSeriesReviews": {
+      "fixed": 12,
+      "editions": 29
+    },
+    "evidenceReferencesChecked": 380,
+    "scopeSnapshotUnchanged": true,
+    "uiEvidence": "UI_REGRESSION.md",
+    "acceptanceEvidence": "V1_ACCEPTANCE_2026-10-06.md",
+    "maintenanceGuide": "MAINTENANCE.md",
+    "dailySourceWorkflow": "sources.yml",
+    "dailySourceLatestSuccessfulRun": 37431006022,
+    "maintenanceFieldTasksAtAcceptance": 464,
+    "constructionAutomation": {
+      "id": "automation",
+      "action": "delete-after-closeout-record-deployment"
+    },
+    "recordPublication": "The closeout record is a subsequent documentation commit; verify its own SHA before deleting the construction automation. No self-referential SHA commits."
+  }
 }
