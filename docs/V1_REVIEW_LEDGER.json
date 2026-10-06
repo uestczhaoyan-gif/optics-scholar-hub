@@ -1337,6 +1337,48 @@
         "RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。"
       ],
       "maintenanceTrigger": "本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。"
+    },
+    {
+      "candidateId": "journal-ed1f00d66f",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-ed1f00d66f",
+      "formalIds": [],
+      "limitations": [
+        "三个生产官方入口各真实429，完整作者/收费/模板与三不同正式期次近年原摘要及首次日缺",
+        "2025公告与staging检索口径不同；不合并为已核现行稿规，索引覆盖年/MJL/JCR/CAS未核"
+      ],
+      "maintenanceTrigger": "生产官网合法恢复或有新版本官方稿规/光学原论文及分类材料时补三不同正式期次原摘要/首次日，核Highlights和价格生效年；相同未变化限流源不反复请求。"
+    },
+    {
+      "candidateId": "journal-775a452df7",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-775a452df7",
+      "formalIds": [],
+      "limitations": [
+        "Aims累计两次、两原Article各两次技术失败，停止第三次，不用官网搜索题名/IF/同卷不同页替代三不同正式期次原摘要",
+        "canonical Content未成功，全部稿型/模板/匿名/费用/统计版年及MJL/JCR/CAS/索引覆盖年缺"
+      ],
+      "maintenanceTrigger": "公开可读新原Article/正式期次及稿规分类版本出现后补三光学原研究再判准入；保留Solar/photocatalysis条件范围，不复用其他刊费率或不变失败来源。"
+    },
+    {
+      "candidateId": "journal-afe279386d",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-afe279386d",
+      "formalIds": [],
+      "limitations": [
+        "三拟原Article各两次IdP500，完整原摘要/首次日及三不同正式期月未核；检索论文线索不正式充样例",
+        "已读3500/175/8属本刊Article，不继承其他Nature刊；完整稿型费用/系统材料/MJL/JCR/CAS及EI覆盖年未知"
+      ],
+      "maintenanceTrigger": "合法新原光学Article及完整出版史/现行价格和分类资料可读后核三不同正式期次原样例与准入；已读本刊Article规则保留，未变化失败源不第三次请求。"
     }
   ],
   "formalDataReviews": [

@@ -341,3 +341,40 @@ Journal of Semiconductors；admitted；正式ID journal-of-semiconductors。
 - RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。
 - 维护触发：本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。
 - 只新增本固定候选的正式记录与本次质量审查；旧109刊、其余272候选、其他data、旧账本/固定G4/G5/finalAcceptance及冻结范围保持。
+
+## V1-G3K
+
+本批实审Remote Sensing、Nature Energy与Nature Biomedical Engineering：官方检索展开范围及准确刊号可读，但原页技术/限流影响逐源留证。Biomedical Engineering本刊canonical Content Types实际正文可读，三拟原论文各两次IdP500；Energy两拟原论文各两次IdP500、范围累计两次；MDPI范围/指南/2025Highlights公告分别429。不是只看指标或将未审工作批量归完成，准入样例/完整版本缺口保留pending。 固定60累计50项（6准入、44限制），余10未审；本批3全部保留pending。实际审查有范围、影响、触发，不因为数量或额度而填完成。
+
+## journal-ed1f00d66f
+
+Remote Sensing；pending。
+
+- 原来源/真实范围：[官方范围](https://www.mdpi.com/journal/remotesensing/about)。官方搜索展开About范围与2072-4292身份，涵盖传感设计/标定、光谱/高光谱、Lidar激光及多模态地表遥感，限光学载荷/方法子集不扩全部地学。独立EI5069身份匹配。当前About和Instructions分别一次429，2025-09-02 Highlights公告正文另一次429，保留限流事实；三近年不同正式期次原研究摘要/出版史与完整准入缺，维持pending。
+- 本刊已读细则：[About](https://www.mdpi.com/journal/remotesensing/about)仅官方检索缓存展开范围，未声称429原正文成功；研究、综述、TechnicalNotes/Communications稿型与无篇幅上限为此范围线索，不能当完整现行稿规。实际检索[2025-09-02本刊公告](https://www.mdpi.com/journal/remotesensing/announcements/13077)明确新投Highlights必需：主要发现/意义各至多2项目，且不能复制摘要；公告原请求429，日期与范围分别记。检索的staging指南有optional Highlights等不同口径，不作为生产站现行规则，完整模板/稿型、费用/周期及最新JCR/MJL/CAS未核。没有用下载或浏览器绕过429，也未拿题名或广泛地学指标充光学三样例。
+- 未解决内容及影响：三个生产官方入口各真实429，完整作者/收费/模板与三不同正式期次近年原摘要及首次日缺；2025公告与staging检索口径不同；不合并为已核现行稿规，索引覆盖年/MJL/JCR/CAS未核
+- 维护触发：生产官网合法恢复或有新版本官方稿规/光学原论文及分类材料时补三不同正式期次原摘要/首次日，核Highlights和价格生效年；相同未变化限流源不反复请求。
+
+## journal-775a452df7
+
+Nature Energy；pending。
+
+- 原来源/真实范围：[官方范围](https://www.nature.com/nenergy/submission-guidelines/about/aims)。官方搜索展开Scope及在线2058-7546：能源生产储存管理及社会政策，太阳能/光催化/光能器件子集可交叉，不将风能、电池或能源经济当光学。独立EI4138匹配。Aims已有两次IdP500、canonical Content一有效技术失败（此前content-types地址失败亦留证）；两近年原Article各两次IdP500，缺完整三跨期原摘要/出版史，pending不以Research Highlight/Review凑数。
+- 本刊已读细则：范围仅官方检索展开，不冒充原Aims正文。搜得[Scalable fabrication of wide-bandgap perovskites using green solvents for tandem solar cells](https://www.nature.com/articles/s41560-024-01672-x)，Article首次2024-11-15、10:318–328(2025)且有2025-02-10AuthorCorrection；[Inorganic perovskite/organic tandem solar cells with 25.1% certified efficiency via bottom contact modulation](https://www.nature.com/articles/s41560-025-01742-8)，Article首次2025-03-13、10:513–525(2025)，各原页先InternalError后IdP500第二次，未实读完整摘要/正式期月，不正式保存样例。Balancing colour and efficiency为ResearchHighlight，Present status...为ReviewArticle，Durability...为Perspective均排除，校正稿不作第四原研究。没有借其他Nature刊3000/3500词或APC/周期；分区和当年价格/稿型匿名未知。
+- 未解决内容及影响：Aims累计两次、两原Article各两次技术失败，停止第三次，不用官网搜索题名/IF/同卷不同页替代三不同正式期次原摘要；canonical Content未成功，全部稿型/模板/匿名/费用/统计版年及MJL/JCR/CAS/索引覆盖年缺
+- 维护触发：公开可读新原Article/正式期次及稿规分类版本出现后补三光学原研究再判准入；保留Solar/photocatalysis条件范围，不复用其他刊费率或不变失败来源。
+
+## journal-afe279386d
+
+Nature Biomedical Engineering；pending。
+
+- 原来源/真实范围：[官方范围](https://www.nature.com/natbiomedeng/content)。官方检索展开Aims/JournalInformation显示2017起在线月刊、应用生医与健康技术；仅光学显微/光声/OCT或光学器件子集，非所有医学/AI。独立EI4133/2157-846X匹配；本刊canonical ContentTypes正文实读。三拟近年原Article各两次IdP500停止，未实读其完整摘要/首次日/三正式期月，缺光学准入样例保留pending，真实指南所得仍保存。
+- 本刊已读细则：[Content Types](https://www.nature.com/natbiomedeng/content)实际成功原正文：Article为原研究，题名≤130字符含空格、无引文摘要≤175词、正文≤3500不含摘要/Methods/refs/图注、主图表≤8、参考文献通常建议50；Introduction无标题，Results/Methods一层小标题不嵌套、标题≤60字符，Outlook可加、ExtendedData/SourceData/SI可配。Review通常邀稿也可先约1000词synopsis，正文4000–8000/refs150不替代Article；非原始稿无GoldOA资格。Aims原页此前两次IdP500不重试，检索Scope重人类健康实际相关性，不将所有基础biology收录。[蛋白结构活细胞显微](https://www.nature.com/articles/s41551-025-01443-3)、[光声/OCT内镜](https://www.nature.com/articles/s41551-025-01462-0)、[s41551-025-01421-9](https://www.nature.com/articles/s41551-025-01421-9)原页各首次及第二次IdP500，官方检索的Jan/Feb2026/Dec2025为线索非原史实核；不以Received/Accepted推首次或换PDF绕过。content-types非canonical地址首次失败，canonical正文一次成功，不写成两次正文失败；一般初投匿名、完整模板与APC/税/统计口径未核。
+- 未解决内容及影响：三拟原Article各两次IdP500，完整原摘要/首次日及三不同正式期月未核；检索论文线索不正式充样例；已读3500/175/8属本刊Article，不继承其他Nature刊；完整稿型费用/系统材料/MJL/JCR/CAS及EI覆盖年未知
+- 维护触发：合法新原光学Article及完整出版史/现行价格和分类资料可读后核三不同正式期次原样例与准入；已读本刊Article规则保留，未变化失败源不第三次请求。
+
+### V1-G3K：共同证据与保护
+
+复用本轮实际已读官方Compendex原缓存，不重扫未变化表：SERIALS2026-08-07 Remote Sensing5069/20724292/MDPI，Nature Energy4138/20587546、Nature Biomedical Engineering4133/2157846X/Nature Research，均Journal；DISCONTINUED2026-05-01无目标匹配。SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。独立EI身份不替代光学样例，也不由出版社/搜索指标推当前SCIE或分区。搜索缓存明确与成功原正文分开，未登录IdP/数据库/投稿或更改cookie/镜像/验证码。每未变化来源最多两次，已有尝试计入，失败不证没有文章或停刊。
+
+[Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他270候选、全部正式目录及冻结范围和旧审查保持。

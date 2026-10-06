@@ -1780,3 +1780,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G3J准入固定候选Journal of Semiconductors并同批完成新增正式质量；110刊/133届/98系列/10活动，273候选219 admitted/47 pending/7 deferred；SCIE95/ESCI13/EI101，JCR107/CAS11，56刊至少三篇样例。固定候选47/60（6准入、41实际限制）、余13；正式253/253（110刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [身份/原摘要/不同期次/独立索引/指南与真实尝试](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-357da7987c)。新正式记录同批实审；仍余13固定候选和最终G1/G6，未冒充结项。必要数据/文档/完整差异与子路径构建后推送同SHA验收。
 
 - 发布前受控主题/显式未知SCIE校验修复后validate通过；精确新增条目/其余272候选、全部旧data/冻结字节/旧252正式46候选G4G5final保护断言通过。878本地文件链接、11文件完整差异及git diff --check通过；Pages子路径本地构建和六资产exit0，已保存续接记录。新索引不混ESCI/SCIE，三个首次线上日与正式1/4/9期分开。同SHA CI独立31测试/类型/lint/构建后验收线上版本。
+
+## 2026-10-06：固定候选 V1-G3K
+
+- 33c48910a26ac4abd5ee4db8b5b080186609bd0a已验收[Pages 37461442202](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37461442202)，同SHA build/deploy成功、首页/版本200，摘要73bd56804f30b96696d2d95bfc250f2f3cd2e2feae4a7cedc5853e0306d52eb5与本地匹配（2026-10-06T12:12:20.540Z）。正式编辑前HEAD=origin/main；工作草案在work/V1-G3K-plan.json提前保护，等待前批发布时未重复提交。
+- V1-G3K实审3固定候选，保留pending及实际范围/限制；固定60已审50（6准入、44限制）、余10。正式质量253/253，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 本批实审Remote Sensing、Nature Energy与Nature Biomedical Engineering：官方检索展开范围及准确刊号可读，但原页技术/限流影响逐源留证。Biomedical Engineering本刊canonical Content Types实际正文可读，三拟原论文各两次IdP500；Energy两拟原论文各两次IdP500、范围累计两次；MDPI范围/指南/2025Highlights公告分别429。不是只看指标或将未审工作批量归完成，准入样例/完整版本缺口保留pending。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3k)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
+
+- V1-G3K发布前验证：validate、三候选五字段/受控scopeHint白名单及其余270、全部正式目录/冻结字节/旧253正式47候选G4G5final保护通过；577本地文件链接、七文件完整实际差异与git diff --check通过。Pages子路径本地构建及六资产exit0，目录摘要73bd568保持；三原研究缺口与真实429/两次技术失败明确，不虚改admitted。已保存续接记录，按同SHA CI及部署核线上版本。

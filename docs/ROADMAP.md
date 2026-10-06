@@ -979,3 +979,7 @@ d08b3be64aedf86727877c962cf170be3eaf98f5已验收[Pages 37459327889](https://git
 ## 2026-10-06：固定候选准入 V1-G3J
 
 fb0229ea11b98ee909cdbdd8fd97f32232d5ec0d已验收[Pages 37460180099](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37460180099)；同SHA build/deploy成功，首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e匹配本地（2026-10-06T12:02:50.386Z）。 V1-G3J准入固定候选Journal of Semiconductors并同批完成新增正式质量；110刊/133届/98系列/10活动，273候选219 admitted/47 pending/7 deferred；SCIE95/ESCI13/EI101，JCR107/CAS11，56刊至少三篇样例。固定候选47/60（6准入、41实际限制）、余13；正式253/253（110刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [逐字段依据与限制](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-357da7987c)。保留既有五小时额度检查及每日巡检，不扩大本版。
+
+## 2026-10-06：固定候选 V1-G3K
+
+33c48910a26ac4abd5ee4db8b5b080186609bd0a已验收[Pages 37461442202](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37461442202)，同SHA build/deploy成功、首页/版本200，摘要73bd56804f30b96696d2d95bfc250f2f3cd2e2feae4a7cedc5853e0306d52eb5与本地匹配（2026-10-06T12:12:20.540Z）。 V1-G3K实审3固定候选，保留pending及实际范围/限制；固定60已审50（6准入、44限制）、余10。正式质量253/253，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 [逐项实读证据](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3k)。原五小时额度检查保持；继续固定剩余事项，不重试未变化受限源、不扩大范围。

@@ -2903,12 +2903,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "只纳入有明确光学方法或仪器适配的期刊",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.nature.com/natbiomedeng/content",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方检索展开Aims/JournalInformation显示2017起在线月刊、应用生医与健康技术；仅光学显微/光声/OCT或光学器件子集，非所有医学/AI。独立EI4133/2157-846X匹配；本刊canonical ContentTypes正文实读。三拟近年原Article各两次IdP500停止，未实读其完整摘要/首次日/三正式期月，缺光学准入样例保留pending，真实指南所得仍保存。",
+    "nextAction": "合法新原光学Article及完整出版史/现行价格和分类资料可读后核三不同正式期次原样例与准入；已读本刊Article规则保留，未变化失败源不第三次请求。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-0ef0972d2e",
@@ -2931,12 +2931,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光伏、光热、光催化及光电转换，排除无光学关联内容",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.nature.com/nenergy/submission-guidelines/about/aims",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方搜索展开Scope及在线2058-7546：能源生产储存管理及社会政策，太阳能/光催化/光能器件子集可交叉，不将风能、电池或能源经济当光学。独立EI4138匹配。Aims已有两次IdP500、canonical Content一有效技术失败（此前content-types地址失败亦留证）；两近年原Article各两次IdP500，缺完整三跨期原摘要/出版史，pending不以Research Highlight/Review凑数。",
+    "nextAction": "公开可读新原Article/正式期次及稿规分类版本出现后补三光学原研究再判准入；保留Solar/photocatalysis条件范围，不复用其他刊费率或不变失败来源。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-860b88dcd6",
@@ -3322,13 +3322,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 2,
-    "scopeHint": "光学/高光谱成像及载荷，避免无限扩展地学",
-    "sourceEntry": null,
+    "scopeHint": "光学/高光谱载荷与Lidar及辐射标定子集；微波或一般遥感应用不自动归光学",
+    "sourceEntry": "https://www.mdpi.com/journal/remotesensing/about",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方搜索展开About范围与2072-4292身份，涵盖传感设计/标定、光谱/高光谱、Lidar激光及多模态地表遥感，限光学载荷/方法子集不扩全部地学。独立EI5069身份匹配。当前About和Instructions分别一次429，2025-09-02 Highlights公告正文另一次429，保留限流事实；三近年不同正式期次原研究摘要/出版史与完整准入缺，维持pending。",
+    "nextAction": "生产官网合法恢复或有新版本官方稿规/光学原论文及分类材料时补三不同正式期次原摘要/首次日，核Highlights和价格生效年；相同未变化限流源不反复请求。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-869966241d",
