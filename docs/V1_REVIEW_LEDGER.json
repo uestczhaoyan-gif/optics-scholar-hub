@@ -4987,6 +4987,150 @@
         "后续完整程序与更远下一届未知，不按周期补日期"
       ],
       "maintenanceTrigger": "ICOLS2027官方正式CFP、注册或出版公告出现后维护；已多次不变主页停止复查。"
+    },
+    {
+      "kind": "conference",
+      "id": "ico-27-2027",
+      "seriesId": "series-9e6b148be1d3",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "cd65b307c36579ee09b42d271020e5911454fd258683cd373c503809f9963ac2",
+      "formalReviewBase": "3654e4824899ed166f2ce2f91273ba034cead244",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ico-27-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当届CFP/摘要模板篇幅平台和截止未知，主办权公告不能用于投稿准备完成的保证",
+        "具体场馆/注册费率最终付款及出版索引未知，只有日城身份可用",
+        "国际会议目录只已读第一页，不能据此断言其他地方从未公告或停办"
+      ],
+      "maintenanceTrigger": "ICO27当届独立正式CFP/会场注册或出版通知出现后维护；不重复读取多次不变2024主办权源。"
+    },
+    {
+      "kind": "conference",
+      "id": "ofs-2026",
+      "seriesId": "series-143d6d71f628",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3c61bbc93a2af782960f9bc7b19f62ffddbd9b360cefd72755556f64943ef3c8",
+      "formalReviewBase": "3654e4824899ed166f2ce2f91273ba034cead244",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ofs-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "PDP日程/有效邮箱未知、SPIE与普通JournalofPhysics渠道冲突，不能保证发表路线",
+        "早鸟边界与最终非报告人付款/费用完整项、模板内部未知，11/22仅报告作者",
+        "实际单篇文集/索引与具体JournalofPhysics期次未知，会议出版物非普通期刊录用"
+      ],
+      "maintenanceTrigger": "OFS30明确PDP日程/邮箱/统一出版更正或实际文集出现后维护；普通及PDP同未变化正文两次已达，不重复。"
+    },
+    {
+      "kind": "conference",
+      "id": "wsof-2027",
+      "seriesId": "series-e1d136865433",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3f2994991ae2cff1f23a5bb68bf8923d40f518481b21f8aa0039186091328b00",
+      "formalReviewBase": "3654e4824899ed166f2ce2f91273ba034cead244",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#wsof-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "春季开放季节不是提交截止，具体稿规系统/时区/截止未知，不能作日期提醒",
+        "注册费用/最终付款与出版文集索引未知，配套展览不能替代作者注册",
+        "后续日程及更远下届未知，不由届序/周期推算"
+      ],
+      "maintenanceTrigger": "WSOF2027官方春季CFP/正式注册或出版通知出现后补指定字段；现同未变摘要日期两次已核，停止重复。"
+    },
+    {
+      "kind": "conference",
+      "id": "ofs-china-2026",
+      "seriesId": "series-b80c961db8bd",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3853fb736a0cf3fead5d4b6c16d66c4b140ab7cf6c35c3285b3fb74f300b812b",
+      "formalReviewBase": "3654e4824899ed166f2ce2f91273ba034cead244",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ofs-china-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "具体酒店/会场、保密模板内部/全文独立截止与最终通知时刻未知，城市不能替行程细节",
+        "注册入口原403、完整付款/退款/作者覆盖实施未知，费用来自主页非已验证流程",
+        "实际单篇SPIE出版EI/期刊录用及下一届日城未知"
+      ],
+      "maintenanceTrigger": "主办方会场/作者全文通知、合法恢复注册或真实文集及独立下届公告出现后维护；403不绕过，多次不变旧DDL不重复。"
+    },
+    {
+      "kind": "conference",
+      "id": "usqs-2027",
+      "seriesId": "series-6e3a34c17677",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d2949b9f21ba28d8468caaace926f71098b4d6bd2629344a2b4c417feab9a393",
+      "formalReviewBase": "3654e4824899ed166f2ce2f91273ba034cead244",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#usqs-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "FullPaper/Abstract实际稿型和长度无明确说明，旧手册或模板空白无法推断",
+        "最终注册/费用优惠包含项目与退款年度、支付/接收流程未知，未登录或提交付款凭证",
+        "正式文集/单篇索引及合作期刊政策未知，招募意向不保证录用"
+      ],
+      "maintenanceTrigger": "明确2027稿型页限、当届完整注册退款年/费表或出版公告出现后维护；旧2027模板和不变源不重复读取。"
+    },
+    {
+      "kind": "conference",
+      "id": "apos-2026",
+      "seriesId": "series-6119c5733e87",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "11de754f4b3c50fd3ca44f79c99e1761e5d115d973b283b0bdbec9d5b066a6f9",
+      "formalReviewBase": "3654e4824899ed166f2ce2f91273ba034cead244",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#apos-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "历史三个paper截止版本最终适用、稿规模板/平台及校内会场仍未知，不能选择最晚作为事实",
+        "注册入口/最终付款/费用与专刊完整适用范围未知，12/5仅历史早鸟",
+        "当届文集/索引、下一届独立公告未知，不按18个月周期凑下一届"
+      ],
+      "maintenanceTrigger": "官方当届最终CFP/稿规或独立下届公告、相应专刊正式政策出现后维护；原PDF与完整浏览器范围复用不重读不变源。"
     }
   ],
   "coreSeriesReviews": [

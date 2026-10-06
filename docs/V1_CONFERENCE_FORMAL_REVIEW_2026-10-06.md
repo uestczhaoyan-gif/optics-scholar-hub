@@ -683,3 +683,91 @@ European Optical Society Annual Meeting (EOSAM 2026)；2026；EOSAM/series-86cdd
 - 未解决内容及影响：摘要材料/CFP/评审与截止、正式注册费率/付款日期未知，意向登记不承诺参会；本届文集/出版形式/索引未知，精密激光光谱主题不证明数据库收录；后续完整程序与更远下一届未知，不按周期补日期
 - 维护触发：ICOLS2027官方正式CFP、注册或出版公告出现后维护；已多次不变主页停止复查。
 - 完整记录内容摘要3a91b588755bbfac6db3cfd7cc5b38aafcd50e9e637432a130880226db581982，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AA
+
+实际完整读取六届当前JSON/稳定系列/admitted关联、9/14–15原官方记录、USQS2027 DOCX实际OOXML字段记录、C2/C9/C10实际公开范围。只OFS30普通/PDP独立正文第二次有效核验成功（9/14计首次），普通取工具公开缓存标2天前、PDP标今天，不声称实时逐篇出版；读到仍Journal of Physics与SPIE分口径/占位。其他多次不变源、403注册和原模板不再请求；全部data/冻结范围及原完整checkedAt保持。 累计正式质量172/252，余80未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## ico-27-2027
+
+27th Congress of the International Commission for Optics (ICO-27)；2027；ICO Congress/series-9e6b148be1d3；admitted关联conference-series-1279bfb709，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://www.cncos.org.cn/Content/view/id/1851.html)、[原通知](https://www.cncos.org.cn/Content/view/id/1851.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14icols-xxvii-与-ico-27-预告)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-02.md#c2aposopic-与既有未来预告六个系列)、[原实际记录3](CONFERENCE_EVIDENCE_2026-10-03.md#c10已有未来预告的字段缺口五系列)。
+- 全字段审阅范围：ICO27国际光学委员会大会2027北京8/22–26独立稳定系列/admitted，区别COS学术大会及眼科学ICO同名组织。身份日城来自COS2024/10/29主办权公告，其发布日期非9/14核验日期，更不是2027征稿。C2原页仍明确日城，C10学会国际会议第一页未新CFP，实际仅第一页而非查完九页/全网；指纹变化没有新的投稿事实。会场待公布、registrationnull、submissionStateunknown及两未知DDL与原来源范围相符；模板、页限、平台、评审、出版形式与索引未知，不继承往届或从主办权已获推系统开放。日期级无时刻，不把8/22大会开始视投稿/注册截止。
+- 日城与范围：2027-08-22–2027-08-26；中国 · 北京；具体会场待公布；submissionState unknown。
+- 逐字段截止及出处：摘要投稿截止待公布：未知 [来源](https://www.cncos.org.cn/Content/view/id/1851.html)；正式注册安排待公布：未知 [来源](https://www.cncos.org.cn/Content/view/id/1851.html)
+- 本届条件出版原字段：当届论文集、出版形式和索引尚待核实，不沿用往届出版安排。
+- 本届范围/冲突原备注：来源为中国光学学会 2024-10-29 公告，本轮重新读取确认；它不是正式征稿通知。具体场馆、注册费用及截止均未知，后续以主办方当届通知更新。
+- 未解决内容及影响：当届CFP/摘要模板篇幅平台和截止未知，主办权公告不能用于投稿准备完成的保证；具体场馆/注册费率最终付款及出版索引未知，只有日城身份可用；国际会议目录只已读第一页，不能据此断言其他地方从未公告或停办
+- 维护触发：ICO27当届独立正式CFP/会场注册或出版通知出现后维护；不重复读取多次不变2024主办权源。
+- 完整记录内容摘要cd65b307c36579ee09b42d271020e5911454fd258683cd373c503809f9963ac2，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
+
+## ofs-2026
+
+30th International Conference on Optical Fiber Sensors (OFS30)；2026；OFS/series-143d6d71f628；admitted关联conference-series-1301f6ef91，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://ofs30.org/)、[原通知](https://ofs30.org/submission-information/)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14ofs30-官方资料)、[原实际记录2](https://ofs30.org/submission-information/)、[原实际记录3](https://ofs30.org/post-deadline-papers/)。
+- 全字段审阅范围：OFS30罗利会议中心2026/11/30–12/4与OFS-China/WSOF不同系列。第二次普通正文仍35词摘要、含作者全文≤4页及匿名稿双盲、IOP模板/Morressier；6/1延7/2、通知由July改EarlyAugust未具体日、报告作者11/22注册仅日期。普通会后JournalofPhysics会议出版物，作者/雇主保留版权、授IOP永久独占出版许可、CCBY4.0，撤稿/拒稿前不能同稿他投；不发校样/接收后不可修正，需先查作者图表参考。第二次PDP正文仍TBD投稿区间/通知、邮箱占位，称SPIEDigitalLibrary并参考regular准备说明；这种同准备规则不能消除出版口径矛盾或成为有效PDP投递邮箱。原首页beforeSept15早鸟边界/时区未知，995/645USD与标准1095/695不确定9/15当天资格；CFPcomingsoon不否定普通明确细则，注册NCState入口未登录。
+- 日城与范围：2026-11-30–2026-12-04；美国 · 罗利；Raleigh Convention Center, 500 S Salisbury St., Raleigh, NC 27601；submissionState published。
+- 逐字段截止及出处：普通投稿（由 6/1 延期）：2026-07-02 [来源](https://ofs30.org/submission-information/)；普通录用通知：8 月上旬，具体日待核实：未知 [来源](https://ofs30.org/submission-information/)；报告作者注册：2026-11-22 [来源](https://ofs30.org/submission-information/)；早鸟：官网写 9/15 之前，边界待确认：未知 [来源](https://ofs30.org/)；PDP 投稿安排待公布：未知 [来源](https://ofs30.org/post-deadline-papers/)
+- 本届条件出版原字段：普通投稿页说明录用稿会后进入 Journal of Physics 会议出版物并使用 CC BY 4.0；PDP 页却写 SPIE Digital Library。保留两种口径，PDP 出版渠道需确认；不承诺 SCI/EI 检索，也不把会议出版物当成普通期刊录用。
+- 本届范围/冲突原备注：官网首页残留 CFP coming soon，但投稿详情已公布延期至 7/2；采用详情的明确日期。通知仅写 8 月上旬，未补造具体日。早鸟写 before Sept. 15，未明确边界日及时区，截止留空：普通/学生早鸟 995/645 美元，标准 1095/695 美元。注册从首页 Register Now 进入 NC State 平台。
+- 未解决内容及影响：PDP日程/有效邮箱未知、SPIE与普通JournalofPhysics渠道冲突，不能保证发表路线；早鸟边界与最终非报告人付款/费用完整项、模板内部未知，11/22仅报告作者；实际单篇文集/索引与具体JournalofPhysics期次未知，会议出版物非普通期刊录用
+- 维护触发：OFS30明确PDP日程/邮箱/统一出版更正或实际文集出现后维护；普通及PDP同未变化正文两次已达，不重复。
+- 完整记录内容摘要3c61bbc93a2af782960f9bc7b19f62ffddbd9b360cefd72755556f64943ef3c8，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
+
+## wsof-2027
+
+9th Workshop on Specialty Optical Fibers and Their Applications；2027；WSOF/series-e1d136865433；admitted关联conference-series-wsof，原checkedAt 2026-09-15。
+
+- 身份/当届来源：[原入口](https://www.wsof2027.org/)、[原通知](https://www.wsof2027.org/index.php/abstracts/)；[原实际记录1](VERIFICATION_LOG.md#2026-09-15wsof-2027-当届预告)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c10已有未来预告的字段缺口五系列)。
+- 全字段审阅范围：第9届WSOF特种光纤及应用，LeibnizIPHT团队组织2027耶拿9/26–30 Volkshaus/CarlZeissPlatz15；原GeneralInformation实际会场不拿研究所办公地址替代。admitted独立稳定系列和本届方向含空芯/微结构/非石英/制造激光生医传感，短口头/海报与配套展览按一届，不混OFS或OFS-China。原9/15摘要与ImportantDates、C10分别仍2027spring开放摘要及注册，只给季节；不能换成3/1、截止或由登录框推已可投。摘要格式字数/稿型提交/评审、期限、正式注册费率与出版索引未知，registrationnull/submissionunknown/two-null正确；原checkedAt不因本次质量审核刷新。
+- 日城与范围：2027-09-26–2027-09-30；德国 · 耶拿；Volkshaus Jena, Carl-Zeiß-Platz 15, 07743 Jena；submissionState unknown。
+- 逐字段截止及出处：摘要：计划 2027 年春季开放，截止待公布：未知 [来源](https://www.wsof2027.org/index.php/abstracts/)；注册：计划 2027 年春季开放，截止待公布：未知 [来源](https://www.wsof2027.org/index.php/important-dates/)
+- 本届条件出版原字段：当届出版渠道、论文集及索引未公布，不从往届出版情况推定。
+- 本届范围/冲突原备注：会场依据 General Information 页，未把主办研究所地址当作会场。Important dates 仅给摘要和注册开放季节，不换算成具体日期；页面登录框不代表已经开放投稿。配套展览不单独算作另一届学术会议。
+- 未解决内容及影响：春季开放季节不是提交截止，具体稿规系统/时区/截止未知，不能作日期提醒；注册费用/最终付款与出版文集索引未知，配套展览不能替代作者注册；后续日程及更远下届未知，不由届序/周期推算
+- 维护触发：WSOF2027官方春季CFP/正式注册或出版通知出现后补指定字段；现同未变摘要日期两次已核，停止重复。
+- 完整记录内容摘要3f2994991ae2cff1f23a5bb68bf8923d40f518481b21f8aa0039186091328b00，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
+
+## ofs-china-2026
+
+14th China Conference on Optical Fiber Sensing (OFS-China 2026)；2026；OFS-China/series-b80c961db8bd；admitted关联conference-series-ofs-china，原checkedAt 2026-09-15。
+
+- 身份/当届来源：[原入口](https://b2b.csoe.org.cn/meeting/ofsc2026.html)、[原通知](https://b2b.csoe.org.cn/meeting/ofsc2026.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-15ofs-china-2026)、[原实际记录2](VERIFICATION_LOG.md#2026-09-30恢复检查与临近会议批次-b)。
+- 全字段审阅范围：第14届OFS-China宁波10/22–25，城市来自学会官方会议搜索非主办大学所在地，具体场馆未知；与国际OFS独立id/稳定系列，三个主办身份/方向按当届。9/15最终稿按通道：SPIE先500–600词英文摘要录用后全文；专刊/合作刊先全文独立专家编辑部审查；纯交流400–500中文字符长摘要选不发表、中文报告/推荐0.8×0.8m海报不套USQS。稿件与保密审查证明按链接模板，不称文件内部已读。最晚截稿后两周通知通信作者是相对界限，不换具体日；早鸟9/22与普通/学生2700/1800、标准2900/2000元仅公开主页，注册入口原403未平台验证。9/30主页仍9/15未延长，多次不变不恢复未来提醒。SPIEEI组织声明、合作名单不证明各刊当前索引或推荐必录用，单篇出版另确认。
+- 日城与范围：2026-10-22–2026-10-25；中国 · 宁波；具体会场待核实；submissionState published。
+- 逐字段截止及出处：最终投稿（按所选通道交摘要或全文）：2026-09-15 [来源](https://b2b.csoe.org.cn/meeting/ofsc2026.html)；早鸟注册：2026-09-22 [来源](https://b2b.csoe.org.cn/meeting/ofsc2026.html)
+- 本届条件出版原字段：会议专刊及合作期刊需另经审稿，推荐不等于录用。官网标注 SPIE 论文集 EI，实际单篇出版与检索仍待确认；不把支持期刊清单当成各刊当前索引证据。
+- 本届范围/冲突原备注：城市依据学会会议检索页，具体酒店未核实。官网称审稿结果最晚截稿后两周内发通讯作者，未换算为精确通知日。普通/学生标准费 2900/2000 元，早鸟 2700/1800 元；注册入口本轮 403，费用与流程据会议主页。截止只公布日期，未补造时刻。
+- 未解决内容及影响：具体酒店/会场、保密模板内部/全文独立截止与最终通知时刻未知，城市不能替行程细节；注册入口原403、完整付款/退款/作者覆盖实施未知，费用来自主页非已验证流程；实际单篇SPIE出版EI/期刊录用及下一届日城未知
+- 维护触发：主办方会场/作者全文通知、合法恢复注册或真实文集及独立下届公告出现后维护；403不绕过，多次不变旧DDL不重复。
+- 完整记录内容摘要3853fb736a0cf3fead5d4b6c16d66c4b140ab7cf6c35c3285b3fb74f300b812b，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
+
+## usqs-2027
+
+4th International Conference on Ultrafast Science and Quantum Sensing；2027；USQS/series-6e3a34c17677；admitted关联conference-series-usqs，原checkedAt 2026-09-15。
+
+- 身份/当届来源：[原入口](https://www.usqs.com.cn/)、[原通知](https://www.usqs.com.cn/en/h-col-126.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-15usqs-2027)、[原实际记录2](VERIFICATION_LOG.md#2026-09-15usqs-2027-模板内部核验)、[原实际记录3](CONFERENCE_EVIDENCE_2026-10-03.md#c10已有未来预告的字段缺口五系列)。
+- 全字段审阅范围：USQS第4届三亚崖州湾创新研学谷2027/1/17–22，中英文首页主办与稳定admitted一致；英文模板误4rd按正文第四届不跟错序数。12/31/2026投稿仅日期，网页英文题目摘要+照片、PDF上传最多1文件10MB；已实际OOXML读取USQS2027模板须中英文姓名、单位、专题、email电话及简介后照片，但FullPaper/Abstract无字数页数，空白空间不能当上限或必须全文。海报1.2m宽×0.9m高不是别会方形/A0。C2投稿源工具/直接失败不否定9/15已成功模板。C10公开注册中英文标题/横幅已2027，中文付款凭证最多1文件10MB与普通3500/学生2800元现英文网页，未填/付/验证二维码。退款beforeJanuary20无年份不造2027日或注册截止，9/15旧2026注册/付款图只历史不当前。合作刊待招募不是正式出版或索引保证，旧2024–26手册不套2027。
+- 日城与范围：2027-01-17–2027-01-22；中国 · 三亚；海南省三亚市崖州湾科技城创新研学谷；submissionState published。
+- 逐字段截止及出处：专题投稿截止：2026-12-31 [来源](https://www.usqs.com.cn/)；首页仅给日期，具体时刻和时区未明示；按当前投稿页的英文题目/摘要要求归类。；注册截止待公布：未知 [来源](https://www.usqs.com.cn/h-col-122.html)；2026-10-03已取得USQS2027官方中英文报名表，但未公布最终注册截止；英文退款提示无年份，不能当注册截止。
+- 本届条件出版原字段：本轮未核实正式论文集出版或检索安排；中文首页合作期刊仍待招募，不将合作意向写成期刊录用或 SCI/EI 保证。
+- 本届范围/冲突原备注：中英文首页均明确2027-01-17至01-22、2026-12-31投稿截止，并宣布系统开放。9/15英文注册页仍为USQS2026；2026-10-03普通浏览器已见中英文注册页标题及横幅切换USQS2027，中文官方报名表可读，已保存当届入口。英文费率见 https://www.usqs.com.cn/en/h-col-122.html ，退款提示仅写before January 20、无年份，不据此造2027退款日期或注册截止；付款二维码区域本轮未显示内容，支付/实际提交流程未核实。当前下载区2024–2026手册仍不作2027投稿依据；长度/全文及正式出版缺口保持，整条核验日不刷新。
+- 未解决内容及影响：FullPaper/Abstract实际稿型和长度无明确说明，旧手册或模板空白无法推断；最终注册/费用优惠包含项目与退款年度、支付/接收流程未知，未登录或提交付款凭证；正式文集/单篇索引及合作期刊政策未知，招募意向不保证录用
+- 维护触发：明确2027稿型页限、当届完整注册退款年/费表或出版公告出现后维护；旧2027模板和不变源不重复读取。
+- 完整记录内容摘要d2949b9f21ba28d8468caaace926f71098b4d6bd2629344a2b4c417feab9a393，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
+
+## apos-2026
+
+11th Asia-Pacific Optical Sensors Conference；2026；APOS/series-6119c5733e87；admitted关联conference-series-c84cbad8d5，原checkedAt 2026-10-02。
+
+- 身份/当届来源：[原入口](https://www.apos2026.com/)、[原通知](https://www.apos2026.com/static/Callforpaper.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-02.md#c2aposopic-与既有未来预告六个系列)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c9国内与亚太后续公告六系列与一个母展)。
+- 全字段审阅范围：APOS11届悉尼UNSW，C2原官方CFP PDF两页已抽取/渲染目视：联合活动1/31–2/4/2026，APOS单独1/31–2/2、IWPFA7届2/3–4，不把联合五天当APOS会期或再建重复IWPFA。官网两个旧paper截止2025/10/31及11/30与PDF9/30冲突，最终date null；两源一致12/5/2025早鸟只历史优惠，非今日报名可用/硬截止。TPC评审决定oral/poster，但稿型字数模板实际系统未确认，不借OFS。C9工具先菜单、普通浏览器完整读到当届/旧截止/专刊，18个月周期不推出2027或日城。PhotonicSensors、JournalofAppliedSciences、AdvancedDevicesInstrumentation会后专题属期刊独立投审，专刊截止/APC不移会议日历，也不表示正式会议文集或SCI/EI保证。
+- 日城与范围：2026-01-31–2026-02-02；澳大利亚 · 悉尼；University of New South Wales（具体校内会场待核实）；submissionState published。
+- 逐字段截止及出处：历史投稿最终截止版本待核实：未知 [来源](https://www.apos2026.com/)；官网与征稿 PDF 的旧截止版本不同；未确认最终适用通知。；历史早鸟注册结束：2025-12-05 [来源](https://www.apos2026.com/)；官网与征稿 PDF 均列此日期；已过去，不代表当前报名可用。
+- 本届条件出版原字段：官网列 Photonic Sensors、Journal of Applied Sciences 和 Advanced Devices & Instrumentation 的会后专刊机会；期刊投稿与评审另行进行，不等于会议论文集或 SCI/EI 保证。当届会议论文集出版与检索安排未核实。
+- 本届范围/冲突原备注：已下载官网征稿 PDF，抽取正文并视觉核对两页。页首联合活动范围为 2026-01-31 至 02-04，但 APOS 单独日程为 01-31 至 02-02，第 7 届 IWPFA 为 02-03 至 02-04；本条采用 APOS 范围，不重复创建 IWPFA 正式条目。官网确认悉尼新南威尔士大学；具体校内会场、注册链接和历史投稿最终截止未核实。已结束届次仅供查阅，不按系列周期推算下一届，也不将专刊截止或 APC 政策泛化为会议规则。
+- 未解决内容及影响：历史三个paper截止版本最终适用、稿规模板/平台及校内会场仍未知，不能选择最晚作为事实；注册入口/最终付款/费用与专刊完整适用范围未知，12/5仅历史早鸟；当届文集/索引、下一届独立公告未知，不按18个月周期凑下一届
+- 维护触发：官方当届最终CFP/稿规或独立下届公告、相应专刊正式政策出现后维护；原PDF与完整浏览器范围复用不重读不变源。
+- 完整记录内容摘要11de754f4b3c50fd3ca44f79c99e1761e5d115d973b283b0bdbec9d5b066a6f9，基于3654e4824899ed166f2ce2f91273ba034cead244；非官网内容指纹，未知不冒充已补齐。
