@@ -4569,7 +4569,7 @@
         "checkedAt": "2026-10-02",
         "coverageStart": null,
         "coverageEnd": null,
-        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 1816 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。"
+        "note": "Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第1816行，IEEE Communications Surveys and Tutorials / Journal / IEEE出版者与现有电子刊号1553-877X匹配；表头ISSN列为“-”、EISSN列1553877X，仅电子号匹配，不声称印刷/电子两列均匹配。2026-10-06正式质量审查定点读原缓存行澄清（A5原核验2026-10-02保持），未重扫DISCONTINUED；原2026-05-01版无匹配结论保留。公开来源表不等于单篇检索，不提供覆盖起止年。"
       }
     ],
     "schedule": "常规投稿与专题征稿分别处理；具体初审、评审、返修和出版周期以编辑部为准。",

@@ -1584,3 +1584,9 @@ Nature Materials、Nature Nanotechnology、Nature Electronics 的入口读取失
 ## 2026-10-06：本轮额度与续接
 
 V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37383408590)，CI数据校验/31测试/typecheck/lint/build及部署成功，首页/版本200，摘要d623841a40c374a244fa23d25938161abd9142760fc6008ffbf169eb6d542908匹配本地（2026-10-05T22:36:49.309Z）。正式质量99/251（60刊/29届/10活动），余48刊及104届；固定候选41/60，余19。G4/G5完成，G1/G2/G3/G6待验收，整体IN_PROGRESS。最新实际五小时额度已用97%、周30%，普通使用仍允许，但余额不足安全完成下一完整研究/审查/上传/部署批次，保留用于本次验收与续接保存；不使用重置券、不购买额度。原automation仍ACTIVE每五小时检查，未恢复旧任务或另建任务；每日来源巡检保留。剩余ID和下一步保存在work/V1-CONTINUATION-20261006.json；先检查额度/实际仓库及同SHA回执，COMST只预读尚未正式收尾，不冒充已完成。仅G1–G6全部真实验收、标记V1.0_ACCEPTED并确认最终部署后删除automation。
+
+## 2026-10-06：正式质量 V1-G2O
+
+- 6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f已验收[Pages 37383683007](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37383683007)；同SHA build/deploy成功、首页/版本200，摘要d623841a40c374a244fa23d25938161abd9142760fc6008ffbf169eb6d542908匹配本地（2026-10-06T06:43:42.462Z）。正式编辑前HEAD=origin/main。实际全文读七刊当前JSON，E9/E16/E24各独立指南与版本、E34–E40样例全文记录及A5索引对应行；复用原核验日证据，不称今天重新读取官网、后台或全文/SI，不刷新data日期。发现COMST旧EI注记泛称印刷/电子均匹配，与唯一电子号身份不符；仅定点复核缓存原表SERIALS1816和第2行表头（该字段第二次有效尝试，A5首次已计），ISSN为“-”、EISSN1553877X；只澄清载体注记，原确认状态/证据级别/日期保持。其他分区JIF学科/版年、独立索引、阶段篇幅/费用/系统与样例限制逐刊审查，七admitted一对一关联核实。
+- V1-G2O实审7刊正式字段质量，累计106/251、余145；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅计划明确的来源/载体注记修正，身份、分区与索引计数保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2o)。长操作前work/V1-G2O-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
+- 发布前validate、COMST仅EI note allowlist修正、其余全部data与冻结范围字节/旧99正式及候选G4G5final保护、106唯一kind:id和所有摘要/七admitted关联断言通过；583本地文件链接、完整真实七文件差异及git diff --check通过。Node24.20子路径构建六入口资产成功，459维护项/12主题273候选报告；七文件明确提交推送，按同SHA完整CI测试/typecheck/lint/build及部署验收。

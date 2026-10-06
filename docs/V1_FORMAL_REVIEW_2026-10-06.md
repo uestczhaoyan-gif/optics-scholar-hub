@@ -584,3 +584,84 @@ Applied Physics Letters；AIP Publishing；原checkedAt 2026-10-05，admitted候
 - 未解决内容及影响：模板内部/关键词限制、匿名模式/后台实际清单未核；3000通常限制与3500政策上限差异保留，不把建议图数或可选cover letter改成硬性。；费用版年税/减免、均值样本起算和稿型细分、CAS及索引覆盖起止/单篇未知；仅原摘要/元数据未通读收费正文/SI，三例不保证相似稿录用。
 - 维护触发：本刊新明确指南/政策协调篇幅，独立价表/周期统计或合法数据库新材料出现后逐字段维护，原入口仅官方链接不伪称系统实测。
 - 全字段内容摘要68082aed43a2542e6eff47e0199bfa07c21d4a000543b7db3e5dfd32aefba5fd，基于1125cadd1e18e19ac03e0c6b9062aa10e0f9bb50；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2O
+
+实际全文读七刊当前JSON，E9/E16/E24各独立指南与版本、E34–E40样例全文记录及A5索引对应行；复用原核验日证据，不称今天重新读取官网、后台或全文/SI，不刷新data日期。发现COMST旧EI注记泛称印刷/电子均匹配，与唯一电子号身份不符；仅定点复核缓存原表SERIALS1816和第2行表头（该字段第二次有效尝试，A5首次已计），ISSN为“-”、EISSN1553877X；只澄清载体注记，原确认状态/证据级别/日期保持。其他分区JIF学科/版年、独立索引、阶段篇幅/费用/系统与样例限制逐刊审查，七admitted一对一关联核实。 本次正式字段质量累计106/251，余145未审；G3 41/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## ieee-comst
+
+IEEE Communications Surveys & Tutorials；IEEE Communications Society；原checkedAt 2026-09-11，admitted候选journal-e2c6f2d288一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.comsoc.org/publications/journals/ieee-comst/policies-guidelines)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e16ieee-长稿通信稿及费用边界三刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e40ieee-comst)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。电子1553-877X/印刷null，EI1816仅EISSN原列修正与MJL唯一SCIE独立，JCR2025指标2024电信Q1为机构转载p754参考，不升数据库。Survey/Tutorial须类别/范围，新稿≤30双栏页、返修<40；只决定信允许的拒稿重投附逐点回复/标改仍新稿，所有作者ORCID/AI披露/PDF或Word。2026投稿日可选OA2800，会员5%或20%不叠加且学生不适用，2020后录用稿31–38页220每页最多8收费页，50页计费例不能放宽稿长。三真实近年摘要为通信综述只两正式卷/期，Volume28期月未知；三27(1)首发窗外不凑第三期，RF与光学范围独立。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/TELECOMMUNICATIONS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=754)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=1553-877X&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1553-877X 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第1816行，IEEE Communications Surveys and Tutorials / Journal / IEEE出版者与现有电子刊号1553-877X匹配；表头ISSN列为“-”、EISSN列1553877X，仅电子号匹配，不声称印刷/电子两列均匹配。2026-10-06正式质量审查定点读原缓存行澄清（A5原核验2026-10-02保持），未重扫DISCONTINUED；原2026-05-01版无匹配结论保留。公开来源表不等于单篇检索，不提供覆盖起止年。
+- 未解决内容及影响：第三不同正式卷/期样例仍缺，非三原创硬件实验；未通读全文/SI，不声称检索穷尽。；旧ORCID段ScholarOne与正式comst-ieee入口并存，未登录验证；摘要硬词数/模板内部、个体税优惠和统计周期、CAS/当前分类及索引覆盖单篇未知。
+- 维护触发：新合法原论文提供不同正式期次且真实首发在窗口内，或新版本刊指南/明确费用统计及数据库覆盖资料出现时逐字段维护，不重复不变源。
+- 全字段内容摘要403c64877be5488a9191a7293694811a831204811664e0d60ec8dc8f761d1d18，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## proceedings-ieee
+
+Proceedings of the IEEE；IEEE；原checkedAt 2026-09-11，admitted候选journal-d78ea18b44一对一。
+
+- 全部字段与原依据：[本刊指南](https://proceedingsoftheieee.ieee.org/resources/preparing-your-regular-paper/)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e16ieee-长稿通信稿及费用边界三刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e39proceedings-of-the-ieee)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。0018-9219/e1558-2256、IEEE期刊非同名会议论文集；电气电子JCR2025指标2024Q1 p243 secondary与MJL/EI4724独立。Regular综述/教程批判性评述非单项实验为主，通常20–25页、35强建议非硬限；cover letter意义/区别/资历/主页/非自引背景，作者照片简介≤200词，代码数据视频随稿评审/AI披露。正文Regular Paper/Regular Issue入口与ResearchExchange按钮并存不称迁移完成。经本刊链接2026hybrid2800按投稿日/另税，会员资格不套额外页费。E39三个不同期次PREFIRE热红外系统、柔性机器人多模态综述、空间通信光链路局部，首发晚于刊月如实保留，任务/展望非本篇新光学实验。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=243)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0018-9219&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0018-9219 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4724 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：常规指南不套特刊；系统迁移/模板内部/硬摘要词数及独立额外费用未核，不把2800当总价或最迟发表时间。；原摘要/局部HTML非全文/SI，光学为部分范围；CAS/2026全分类、覆盖年单篇和当前处理周期未知。
+- 维护触发：Regular或特刊独立新指南、统一官方系统入口、明确本刊额外费用/统计或合法数据库分类覆盖材料出现后维护。
+- 全字段内容摘要68ae35eba96bb0fe46759b6316cd996b98ce223153018a3759dd4f30501266bc，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-tie
+
+IEEE Transactions on Industrial Electronics；IEEE Industrial Electronics Society；原checkedAt 2026-09-11，admitted候选journal-5618299861一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics/initial-submission)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e24dyes-and-pigments--ieee-tie)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e35ieee-tie)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。双号0278-0046/e1557-9948、IES、自动控制JCR2025指标2024Q1 p38参考，MJL SCIE/EI2092另证。E24日期明确2025Regular初投10/返修12含照片简介，Letters4/6终稿无简介；旧Final8/10及Letters3口径冲突保留。至少两单盲/所有ORCID及机构主邮箱、双栏身份/PDF主≤40MB、ScholarOne全步骤确认，源与匹配PDF及适用附件ZIP为录用阶段。PC以外硬件/符合HiL实验必要，通常排除纯光学工程/视觉/基础传感物理，不常规综述，多部分许可/会议扩展PostConference。2026投稿日OA2800与前10无超页/Letters5–6收费分开，旧250/IES200非现价保证。三不同正式期硬件控制/激光跟踪闭环/LED电源及VCSEL额外EA，不推纯光学普适准入。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/AUTOMATION & CONTROL SYSTEMS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=38)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0278-0046&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0278-0046 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2092 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：当前超页单价与旧最终文件页版本冲突未解决；摘要/模板PDF内部/许可细则及系统登录清单未核。；原摘要/元数据未审全文/SI，EA未编期号，光学适配限工业电子控制/驱动；CAS/当前完整分类、覆盖年单篇与个案时限未知。
+- 维护触发：主办方发布协调新旧页限/超页价的明确版本、可读模板或新分类覆盖资料时维护，纯光学选题仍依独立范围审查。
+- 全字段内容摘要246accfe2e66bfefe17dba534952ea7a2a9b4db052bad82fda76466016eb9a9a，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-tcyb
+
+IEEE Transactions on Cybernetics；IEEE Systems, Man, and Cybernetics Society；原checkedAt 2026-09-11，admitted候选journal-9203e76297一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.ieeesmc.org/publications/transactions-on-cybernetics/information-for-authors-3/)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e16ieee-长稿通信稿及费用边界三刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e38ieee-tcyb)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。双号2168-2267/e2168-2275、SMC，自动控制JIF2025指标2024Q1 p38参考，MJL SCIE/EI2070独立。普通10页/付费加2至12，超12仅邀请/综述例外；TC扩展既有TCYB/TSMC PartB通常5页非通用短文。双栏可打印PDF/纯文字摘要，普通100–250与150–250冲突、TC≤100分开；既往稿/预印本/补充引用保留。无版年OA2345与IEEE2026hybrid2800冲突，110自愿与175超页/彩图各自条件不更新冒充现价。E38三不同正式期视觉光流/多光谱域迁移/遥感显著图，加第四融合EA不造期号；贡献为控制论学习方法不是新光学硬件或驾驶安全保证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/AUTOMATION & CONTROL SYSTEMS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=38)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2168-2267&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2168-2267 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2070 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：普通摘要下限及独立OA现价冲突仍保留，超页费适用年/税未知；系统内部/模板未核，不采用旧审稿周期承诺。；三原摘要与额外EA非全文/SI，条件限数据比较；CAS/2026完整分类与覆盖年/单篇未知。
+- 维护触发：本刊明确修订摘要上下限、费用年份及协调IEEE通用价或提供新合法分类覆盖材料后逐字段更新。
+- 全字段内容摘要58b7a1bdbf68e61190503a6db6912dfd6bc62c048962e5311c71848efbb7afbb，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-tmi
+
+IEEE Transactions on Medical Imaging；IEEE；原checkedAt 2026-09-11，admitted候选journal-3a41662120一对一。
+
+- 全部字段与原依据：[本刊指南](https://ieeetmi.org/authors-instructions/)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e9四刊-ieee-投稿与出版细则)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e34ieee-tmi)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。双号0278-0062/e1558-254X，生医工程JCR2025指标2024Q1 p225参考，MJL SCIE/EI2105独立。Revision10.2(2025-10-09)常规/专题初投10含refs、RejectResubmit例外，Challenge14及授权清单；不是正式收费起点8。双栏单PDF<40MB/摘要单段≤250不公式表参考/不刊简介，源稿高清图初投不要求；投稿作者ORCID，cover letter通常不鼓励但扩展/既往审理披露，综述先提案邀请。正文延伸式文字图补充不允许，代码数据视频/可选图形摘要随稿评审。正式9–10页250/11起350 OA同收，APC独立未知不套别刊。三不同期OCT鼠眼、光声数值在体、9鼠OCTMRI相关性，不当人体临床、全部参数一致；NIH开放日期非首次，PMC验证码未绕过。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, BIOMEDICAL/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=225)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0278-0062&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0278-0062 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2105 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：可选OA当前价/税适用点未独立核实；系统FAQ旧ScholarOne与主指南Portal差异、模板内部清单未登录核验。；仅摘要/元数据非全文/SI，生物模型不等人体临床；CAS/2026完整分类及索引覆盖年/单篇、当前周期未知。
+- 维护触发：本刊独立APC价表/新版本指南或合法分类覆盖、系统说明明确后维护，不由通用IEEE价填未核本刊字段。
+- 全字段内容摘要234eb8efdc046db59d651f22742b41bf2b247dde58f9fff1adff7406d1dc23a4，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-tip
+
+IEEE Transactions on Image Processing；IEEE Signal Processing Society；原checkedAt 2026-09-11，admitted候选journal-4cd60266a3一对一。
+
+- 全部字段与原依据：[本刊指南](https://signalprocessingsociety.org/publications-resources/information-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e9四刊-ieee-投稿与出版细则)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e36ieee-tip)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。双号1057-7149/e1941-0042、SPS，AI学科JIF2025指标2024Q1 p119参考、MJL SCIE/EI2090另证。官网明确链接SPS适用指南，Regular初投/新稿重投13双栏10pt含附录证明/返修16附录转补充，Overview先whitepaper批准。摘要150–250自足无显示公式引用、模板边距1inch/ORCID EDICS/作者一致；补充随初投通常≤6页再增审批，会议扩展不造比例/既往拒稿与预印本URL披露。正式前10自愿110、11起220，OA另超页/Overview不强制超页、onlinecolorfree与APC未知分开。三年度卷33/34/35原摘要，不造期号；grating wavelength语境为条纹周期、快门算法非新硬件、隐私验证非通用抗攻击保证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=119)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=1057-7149&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1057-7149 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2090 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：Portal显示名与真实ManuscriptCentral目标不证明迁移；后台/模板内部未核，OA独立APC/税和费率日期仍未知。；三个年度卷非三期，摘要元数据不等全文/SI；CAS/2026完整分类及覆盖年单篇、具体处理时限未知。
+- 维护触发：SPS本刊明确更新系统、APC和费用适用点/稿型规则或合法数据库材料时逐字段维护。
+- 全字段内容摘要432982ade9ac967ca2ab8670288460df5a4489406e0840e30b468f07314e4e5a，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
+
+## ieee-tgrs
+
+IEEE Transactions on Geoscience and Remote Sensing；IEEE Geoscience and Remote Sensing Society；原checkedAt 2026-09-11，admitted候选journal-8262e97439一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.grss-ieee.org/publications/author-resources/tgrs-information-for-authors/)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e9四刊-ieee-投稿与出版细则)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-05.md#e37ieee-tgrs)、[原记录3](INDEX_EVIDENCE_2026-10-02.md)。双号0196-2892/e1558-0644、GRSS，电气电子JCR2025指标2024Q1 p239参考、MJL SCIE/EI2086独立。专用atyponrex/tgrs双栏PDF/连续页号系统行号，完整实验方法/条件/通讯材料ORCID；照片简介Style与推荐清单阶段区别保留。2026投稿日可选APC2800录用收费、5%/20%不叠加学生不适用，1/1之后超10页230或GRS200、此前超6，恰1/1边界未知；原前11页110自愿不能改强制，阈值不是初投硬限。三年度卷62/63/64和ASN，不造issue/页数：TRUTHS未来任务模拟、SI目标光学测量/RTM及1km单光子LiDAR实地原型限原条件，模拟不当在轨实测。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=239)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0196-2892&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0196-2892 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 2086 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：摘要/许可及会议扩展比例未核，2026-01-01恰当日费率边界未知、照片简介阶段冲突及税资格保留；最终文件不得未经准许改作者内容。；仅原摘要/元数据，年度卷/ASN不补期页；CAS/2026全分类、索引覆盖年单篇/当前周期未知。
+- 维护触发：本刊更新收费边界和照片摘要许可、模板系统材料或合法分类覆盖资料后维护，不从日期或别刊规则推算。
+- 全字段内容摘要cd251ed6972a0f41bc34750a5a8614f86d1af277876ddd3f3a05201d3bd2352e，基于6f7ff0dc68e7f8db0cdd428cdd1648fd1e97836f；不是官网内容指纹，不表示未知已补齐。
