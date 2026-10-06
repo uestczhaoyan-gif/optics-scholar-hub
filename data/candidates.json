@@ -2705,12 +2705,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光学/高光谱成像及载荷，避免无限扩展地学",
-    "sourceEntry": null,
+    "sourceEntry": "https://www.isprs.org/isprsjournal/",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "官方检索展开Scope含机载地基相机、激光扫描、传感标定、光谱特征与高光谱，综合空间信息不能全视作光学。ISPRS2024版出版政策核实此学会正式同行评议Journal与OpenJournal/Archives/Annals分别；EI2948准确刊名及0924-2716匹配。学会期刊入口正常浏览器显示Elsevier验证码，停止，缺三不同正式期次近年原光学摘要及完整准入字段，保留pending。",
+    "nextAction": "官方源内容改变或用户提供合法可读本刊原摘要/作者分类证据后补三不同正式期次光学样例与准入；未变化验证页不再查询。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-289c4caa7f",
@@ -2847,12 +2847,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "计算成像、光学反演、医学成像方法",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/medical-image-analysis/1361-8415",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "出版社Description与1361-8415实读，MICCAISociety官方期刊包含Optical/ConfocalMicroscopy及生医图像算法，同时有MRI/CT/ultrasound等非光学；仅显微成像子集适配。EI3975两ISSN1361-8415/1361-8423一致。ScienceDirect本刊aims-and-scope一次403即停止，没有三近年不同正式期次原光学摘要和完整准入，保留pending。",
+    "nextAction": "新合法本刊原摘要与明确版本分类/Guide费用证据出现后核三不同正式期次光学成像样例，再判准入。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-6c22a27b7e",
@@ -3337,12 +3337,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "光学/高光谱成像及载荷，避免无限扩展地学",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/remote-sensing-of-environment/0034-4257",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实际读出版社Description/0034-4257，地表海洋大气定量遥感包含辐射传输、光谱融合和传感辐射/几何标定，限定光学方法载荷子集而非无限地学。EI5071刊名/ISSN/Elsevier匹配。原平台MIA/SAA两真实403与学会入口验证码不绕过；本刊没有独立403请求，缺三跨期近年光学原摘要及完整准入，保留pending。",
+    "nextAction": "合法原光学遥感论文与新分类/作者证据可读后核三不同正式期次样例，按仪器/光学方法而非一般地学判断。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-4b8d6cb293",
@@ -3449,12 +3449,12 @@
     "kind": "journal",
     "priority": 2,
     "scopeHint": "红外与光谱机制、光谱仪器及光学分析",
-    "sourceEntry": null,
+    "sourceEntry": "https://shop.elsevier.com/journals/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy/1386-1425",
     "reviewStatus": "pending",
     "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "decisionReason": "实读出版社Description/1386-1425，跨化学/医学生物材料的光学分子谱强调电子/振动/转动、偏离磁矩谱，常规应用不符新颖方法要求。EI5362准确PartA长刊名及ISSN匹配。ScienceDirect本刊范围一次403停止；检索Volume357题名不当实际原摘要/三正式期次。缺完整准入证据，保留pending。",
+    "nextAction": "合法本刊原光谱方法摘要/出版史和新版分类指南公开后核三不同正式期次样例与准入，不把常规方法应用当创新光学。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-4c70a08780",

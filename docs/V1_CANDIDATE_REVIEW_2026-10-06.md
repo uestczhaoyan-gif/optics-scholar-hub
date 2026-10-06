@@ -269,3 +269,49 @@ Aims当前一次IdP500，加已有一次，达到两次停止；不同公开Jour
 - OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。
 - 后续触发：本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。
 - 仅新增此固定候选与新刊，旧108刊/其余272候选、其他data、旧账本/G4/G5/finalAcceptance及冻结范围保持；更正该候选原发现线索误称综述刊。
+
+## V1-G3I
+
+实际读ElsevierShop三刊完整Description/ISSN、ISPRS2024版学会出版政策及官方搜索所展开Scope。MIA/SAA范围原页各一次403即停止；ISPRS学会期刊入口web空文、正常浏览器第二次显示Elsevier人机验证，即刻停止且未解验证码；RSE未单独作403断言。原论文/完整作者页处于同平台限制，保留实际准入缺口，不将检索片段、指标或会议论文充三原摘要。 固定60累计46项（5准入、41限制），余14未审；本批4全部保留pending。实际审查有范围、影响、触发，不因为数量或额度而填完成。
+
+## journal-bd7edfa860
+
+ISPRS Journal of Photogrammetry and Remote Sensing；pending。
+
+- 原来源/真实范围：[官方范围](https://www.isprs.org/isprsjournal/)。官方检索展开Scope含机载地基相机、激光扫描、传感标定、光谱特征与高光谱，综合空间信息不能全视作光学。ISPRS2024版出版政策核实此学会正式同行评议Journal与OpenJournal/Archives/Annals分别；EI2948准确刊名及0924-2716匹配。学会期刊入口正常浏览器显示Elsevier验证码，停止，缺三不同正式期次近年原光学摘要及完整准入字段，保留pending。
+- 本刊已读细则：[ISPRS出版政策](https://www.isprs.org/documents/orangebook/app4.aspx)VersionJune2024只本Journal十二次/年及研究综述身份；后续整个Appendix规则仅Archives/Annals，双盲摘要/全文/Copernicus不得当本刊稿规。入口官方检索实际展开Scope可作范围线索而非成功网页正文；web空文→普通浏览器第二次确认验证码，未绕过、未读原论文/完整Guide。检索IF/APC无版本不采用为分区/费用。
+- 未解决内容及影响：原期刊入口正常浏览器人机验证停止，Guide/模板/费率与三跨期原摘要缺，不能复制ISPRS会议样例；电子身份/MJL/JCR/CAS及EI覆盖年未核，当前源Journal身份不作单篇索引保证
+- 维护触发：官方源内容改变或用户提供合法可读本刊原摘要/作者分类证据后补三不同正式期次光学样例与准入；未变化验证页不再查询。
+
+## journal-3a8b7e6f54
+
+Medical Image Analysis；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/medical-image-analysis/1361-8415)。出版社Description与1361-8415实读，MICCAISociety官方期刊包含Optical/ConfocalMicroscopy及生医图像算法，同时有MRI/CT/ultrasound等非光学；仅显微成像子集适配。EI3975两ISSN1361-8415/1361-8423一致。ScienceDirect本刊aims-and-scope一次403即停止，没有三近年不同正式期次原光学摘要和完整准入，保留pending。
+- 本刊已读细则：原Scope从分子/细胞到组织器官，处理/分析图像基础研究，可包含分割配准/图像引导/模型，并不要求所有成像模态光学。商店8volumes8issues是年发行展示，不作论文卷期；MIA学会关系不能搬MICCAI会议2026的8+2页或三会议题名作为Journal样例。完整Guide/稿型/费率/周期未知，订阅销售不是作者免费。
+- 未解决内容及影响：本刊原范围https://www.sciencedirect.com/journal/medical-image-analysis/about/aims-and-scope一次403，未换浏览器/镜像绕过；三原光学摘要/MJL/JCR/CAS/完整作者费用与EI覆盖年缺；会议同学会不是期刊样例
+- 维护触发：新合法本刊原摘要与明确版本分类/Guide费用证据出现后核三不同正式期次光学成像样例，再判准入。
+
+## journal-869966241d
+
+Remote Sensing of Environment；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/remote-sensing-of-environment/0034-4257)。实际读出版社Description/0034-4257，地表海洋大气定量遥感包含辐射传输、光谱融合和传感辐射/几何标定，限定光学方法载荷子集而非无限地学。EI5071刊名/ISSN/Elsevier匹配。原平台MIA/SAA两真实403与学会入口验证码不绕过；本刊没有独立403请求，缺三跨期近年光学原摘要及完整准入，保留pending。
+- 本刊已读细则：Scope重生物物理与定量遥感，应用农业生态/水资源/大气等本身不证光学；方法包括radiativetransfer、spectral/spatial/temporalfusion与calibration。SpecialIssue提案指向Guide的JournalSpecificInfo不证明所有稿均邀稿。商店16卷/期是年展示非具体正式样例；未获取Guide完整类型模板APC/周期及电子刊号，不从第三方补。
+- 未解决内容及影响：没有RSE独立403断言，依据共享平台两实际拒绝/验证码，不拿检索片段充原摘要；三原光学摘要/MJL/JCR/CAS/电子身份/作者格式费用与EI覆盖年仍缺
+- 维护触发：合法原光学遥感论文与新分类/作者证据可读后核三不同正式期次样例，按仪器/光学方法而非一般地学判断。
+
+## journal-767c428997
+
+Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy；pending。
+
+- 原来源/真实范围：[官方范围](https://shop.elsevier.com/journals/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy/1386-1425)。实读出版社Description/1386-1425，跨化学/医学生物材料的光学分子谱强调电子/振动/转动、偏离磁矩谱，常规应用不符新颖方法要求。EI5362准确PartA长刊名及ISSN匹配。ScienceDirect本刊范围一次403停止；检索Volume357题名不当实际原摘要/三正式期次。缺完整准入证据，保留pending。
+- 本刊已读细则：原Scope强调高质量光谱数据与分析、创新仪器/理论/解释方法/光化学光生物，routine spectroscopic/computational应用不适用；不是所有磁共振或仅化学检测均合适。本次没有读原论文abstract/出版史，检索一卷多个题名即使相关也非跨期。完整Guide/费用、电子身份与索引分类年份未知；PartB原子谱不同刊不混用，商店20卷/期非样例卷号。
+- 未解决内容及影响：本刊https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy/about/aims-and-scope一次403，停止不换工具；三原摘要/不同期次首次日、MJL/JCR/CAS/电子身份/Guide收费与覆盖年未核
+- 维护触发：合法本刊原光谱方法摘要/出版史和新版分类指南公开后核三不同正式期次样例与准入，不把常规方法应用当创新光学。
+
+### V1-G3I：共同证据与保护
+
+本批只新目标在已验版本Compendex原表按准确刊名/已读ISSN查询。SERIALS2026-08-07：ISPRS2948/0924-2716，MIA3975/1361-8415/1361-8423，RSE5071/0034-4257，SAA5362/1386-1425，均Journal与Elsevier身份，DISCONTINUED2026-05-01无匹配；SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。EI身份不等覆盖年/每篇实际入库；发现的RemoteSensing5069与JOS3566只有索引线索不冒充这两未审候选已完成。JCR/CAS/MJL、电子身份缺口与Guide/fee未知保留。
+
+[Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他269候选、全部正式目录及冻结范围和旧审查保持。

@@ -1266,6 +1266,62 @@
         "OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。"
       ],
       "maintenanceTrigger": "本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。"
+    },
+    {
+      "candidateId": "journal-bd7edfa860",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-bd7edfa860",
+      "formalIds": [],
+      "limitations": [
+        "原期刊入口正常浏览器人机验证停止，Guide/模板/费率与三跨期原摘要缺，不能复制ISPRS会议样例",
+        "电子身份/MJL/JCR/CAS及EI覆盖年未核，当前源Journal身份不作单篇索引保证"
+      ],
+      "maintenanceTrigger": "官方源内容改变或用户提供合法可读本刊原摘要/作者分类证据后补三不同正式期次光学样例与准入；未变化验证页不再查询。"
+    },
+    {
+      "candidateId": "journal-3a8b7e6f54",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-3a8b7e6f54",
+      "formalIds": [],
+      "limitations": [
+        "本刊原范围https://www.sciencedirect.com/journal/medical-image-analysis/about/aims-and-scope一次403，未换浏览器/镜像绕过",
+        "三原光学摘要/MJL/JCR/CAS/完整作者费用与EI覆盖年缺；会议同学会不是期刊样例"
+      ],
+      "maintenanceTrigger": "新合法本刊原摘要与明确版本分类/Guide费用证据出现后核三不同正式期次光学成像样例，再判准入。"
+    },
+    {
+      "candidateId": "journal-869966241d",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-869966241d",
+      "formalIds": [],
+      "limitations": [
+        "没有RSE独立403断言，依据共享平台两实际拒绝/验证码，不拿检索片段充原摘要",
+        "三原光学摘要/MJL/JCR/CAS/电子身份/作者格式费用与EI覆盖年仍缺"
+      ],
+      "maintenanceTrigger": "合法原光学遥感论文与新分类/作者证据可读后核三不同正式期次样例，按仪器/光学方法而非一般地学判断。"
+    },
+    {
+      "candidateId": "journal-767c428997",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "candidateStatus": "pending",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-767c428997",
+      "formalIds": [],
+      "limitations": [
+        "本刊https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy/about/aims-and-scope一次403，停止不换工具",
+        "三原摘要/不同期次首次日、MJL/JCR/CAS/电子身份/Guide收费与覆盖年未核"
+      ],
+      "maintenanceTrigger": "合法本刊原光谱方法摘要/出版史和新版分类指南公开后核三不同正式期次样例与准入，不把常规方法应用当创新光学。"
     }
   ],
   "formalDataReviews": [

@@ -1766,3 +1766,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AO实审6届会议全部字段，正式质量累计252/252（109刊/133届/10活动）、余0；固定候选42/60，G4/G5完成，G2当前正式目录已审清，G1/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整审读六届JSON、stable/admitted关联及C24/C26原成功官方公开页范围。CVPR2027 AuthorGuidelines首次10/4的404计入，本次第二有效请求仍404，停止第三次/换入口绕过；其余未变历史/冲突及未来占位复用实际原证据不反复请求。只按各届的计算成像/物理视觉/显微子集适配，所有data/原checkedAt/固定范围保持。当前正式目录252全部审完，后续固定候选如获准入仍须同步新正式字段审查，G1/G3/G6未验收。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ao)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结字节、旧246正式42候选G4G5final保护及252唯一摘要/六当届系列关系断言通过；745本地文件链接、六文档完整实际差异与git diff --check通过。纯文档复用已验收7b4426摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages线上版本。当前正式252全部实审；仍余18固定候选，最终功能与交接未验收，不写V1.0_ACCEPTED。
+
+## 2026-10-06：固定候选 V1-G3I
+
+- 16091a4d1f4cf5ea7f8cc6d23f1c60032c93e65e已验收[Pages 37459632064](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37459632064)，同SHA build/deploy成功、首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e与本地匹配（2026-10-06T11:57:41.853Z）。正式编辑前HEAD=origin/main；工作草案在work/V1-G3I-plan.json提前保护，等待前批发布时未重复提交。
+- V1-G3I实审4固定候选，保留pending及实际范围/限制；固定60已审46（5准入、41限制）、余14。正式质量252/252，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 实际读ElsevierShop三刊完整Description/ISSN、ISPRS2024版学会出版政策及官方搜索所展开Scope。MIA/SAA范围原页各一次403即停止；ISPRS学会期刊入口web空文、正常浏览器第二次显示Elsevier人机验证，即刻停止且未解验证码；RSE未单独作403断言。原论文/完整作者页处于同平台限制，保留实际准入缺口，不将检索片段、指标或会议论文充三原摘要。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3i)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
+
+- 发布前validate、四候选五字段白名单/其余269与全部正式目录/冻结字节/旧252正式42候选G4G5final保护断言通过；568本地文件链接、七文件完整实际差异与git diff --check通过。Pages子路径本地构建及六资产exit0；同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages线上摘要。不把订阅销售、学会会议稿规或检索题名当Journal准入证据。

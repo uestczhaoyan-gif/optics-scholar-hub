@@ -971,3 +971,7 @@ ffa9b0d3975c56cda03d8185beab437298a1f1f9已验收[Pages 37435003959](https://git
 ## 2026-10-06：正式会议质量 V1-G2AO
 
 d08b3be64aedf86727877c962cf170be3eaf98f5已验收[Pages 37459327889](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37459327889)；同SHA build/deploy成功、首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e匹配本地（2026-10-06T11:54:27.095Z）。 V1-G2AO实审6届会议全部字段，正式质量累计252/252（109刊/133届/10活动）、余0；固定候选42/60，G4/G5完成，G2当前正式目录已审清，G1/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 [逐届规则与实际未知](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ao)。原五小时检查和每日巡检保持，不把未审或其他届规则当完成。
+
+## 2026-10-06：固定候选 V1-G3I
+
+16091a4d1f4cf5ea7f8cc6d23f1c60032c93e65e已验收[Pages 37459632064](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37459632064)，同SHA build/deploy成功、首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e与本地匹配（2026-10-06T11:57:41.853Z）。 V1-G3I实审4固定候选，保留pending及实际范围/限制；固定60已审46（5准入、41限制）、余14。正式质量252/252，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 [逐项实读证据](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3i)。原五小时额度检查保持；继续固定剩余事项，不重试未变化受限源、不扩大范围。
