@@ -1846,10 +1846,9 @@
     "website": "https://onlinelibrary.wiley.com/journal/18638899",
     "guide": "https://onlinelibrary.wiley.com/page/journal/18638899/homepage/author-guidelines",
     "requirements": [
-      "接收 Research Articles、Reviews 和 Perspectives；按作者指南确认文章类型、篇幅与模板。",
-      "初投稿支持 Free Format；准备可编辑稿件、清晰图表、独立补充材料和一致的参考文献格式。",
-      "准备 ORCID、作者单位和邮箱，以及适用的数据可用性、资助、利益冲突与伦理声明。",
-      "返修附逐条回复，提交标记修改版及无标记正文。"
+      "2026-10-06本刊指南部分核验：Research通常3000–8000词/3–8展示项，Review通常10000–20000词/5–15项；两者均可更长，非硬上限。Review可未经邀请投稿，Perspective无统一篇幅；三类摘要≤200词、关键词3–7。",
+      "初投Free Format、Word或LaTeX编译单PDF与独立补充材料；返修交逐条回复、彩色标出修改稿及无标记主稿。返修/制作阶段TOC文字50–60词，图55×50或110×20mm，模板内部未读。",
+      "单匿名通常至少两评审。数据可用性声明必需，原始研究支持数据期望存公共仓库，伦理/法律限制可例外；脚本尽可能公开，不强制泄露敏感数据。准备作者ORCID/单位邮箱、资助冲突等适用声明；指南不表示系统内文件已核。来源：https://onlinelibrary.wiley.com/page/journal/18638899/homepage/author-guidelines"
     ],
     "publishing": "费用、开放获取选择与机构协议以 Wiley 当期作者页面为准；原纸刊 ISSN 为 1863-8880，现在线 ISSN 为 1863-8899。",
     "schedule": "常规投稿按官网系统受理；出版频率不等于审稿周期，不保证录用或审稿时长。",
@@ -2674,10 +2673,12 @@
     "website": "https://www.light-am.com/",
     "guide": "https://www.light-am.com/news/guidance.htm",
     "requirements": [
-      "通过官网 ScholarOne 入口投稿；准备文章、短讯或综述，使用官网链接的作者指南。",
-      "现官网链接的 2024 年 7 月指南规定 Article 摘要不超过 250 词、正文 6000 词（不含摘要、参考文献、图表）；如更新模板，以新指南为准。"
+      "2026-10-06核现官网所链2024-07-03修订指南第1–4页及第2页表图：Article/Review建议6000词，不含摘要、参考文献、图表；表下明确词限仅指导，可考虑更长。两者非结构摘要≤250词。",
+      "Letter建议1500词，不含方法、参考文献、图表，通常4印刷页；无摘要，开头引导段≤150词可含引用，除Methods无小标题。News & Views须预先安排，可提案，500–1500词为指导、摘要<50词且非同行评审稿。",
+      "官网模板可选；初投主文本单Word/LaTeX、图嵌首次引用后，补充独立Word/PDF优选PDF；返修按指南结构和分图。附信交全作者同意、无重复发表/投稿、适用转载授权及冲突声明。",
+      "原创研究需数据可用性声明；支持复现的数据/材料/代码须可供合规非商用请求，不侵害参与者保密；公共仓库通常鼓励，已有广泛领域存档惯例时强制。当前官网ScholarOne入口仅核链接未登录，模板与完整11页政策未通审。来源：https://www.light-am.com/news/guidance.htm"
     ],
-    "publishing": "官网说明 Diamond Open Access，读者与作者均免费；录用并完成制作后在线发表，仍需核实最新政策。"
+    "publishing": "2026-10-06官网Guidance核验：Diamond Open Access，作者/读者免费，CC BY 4.0、作者保留版权，录用后通讯作者代表全体完成许可；可立即存档已发表PDF。页面未列政策生效年，不保证未来永久免费。立即在线制作就绪与旧2024 PDF称录用后两周分开，均非评审期限。来源：https://www.light-am.com/news/guidance.htm"
   },
   {
     "checkedAt": "2026-09-11",

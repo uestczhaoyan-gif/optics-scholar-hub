@@ -4313,6 +4313,138 @@
         "CAS/2026全部类别和索引覆盖单篇未知；订阅与OA两路线费用不可保证总账单，不套其他Elsevier全长词数。"
       ],
       "maintenanceTrigger": "本刊新完整政策/彩页费用统计、校正稿正式期和新分类覆盖或原论文更正后维护，不反复查询原不变价格与未知。"
+    },
+    {
+      "kind": "journal",
+      "id": "laser-photonics-reviews",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "04a19391c3960d919d436a779a5fac4f5bae3d15791c303fb8b38cf02ddaaeda",
+      "formalReviewBase": "7125c8dab8eb582e4f1131e993b4e5eb55e98ef0",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#laser-photonics-reviews",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当前APC/出版模式及协议/税费用、明确周期未知；新版完整官方分类/覆盖单篇未知，模板内部和全部专项政策未核。",
+        "无本批新增原论文样例要求；固定G4未包含本专刊，不为了数量追加样例，出版频率不是评审时限。"
+      ],
+      "maintenanceTrigger": "本刊新费用模式/统计模板或合法分类覆盖公告出现后维护，不复读不变同版源。"
+    },
+    {
+      "kind": "journal",
+      "id": "progress-quantum-electronics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9d2aed2f22ed4a8a01c0fe224ce974a0e39979dbae027fa2b4e550e2e499392b",
+      "formalReviewBase": "7125c8dab8eb582e4f1131e993b4e5eb55e98ef0",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#progress-quantum-electronics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "详细综述路径/篇幅材料/入口内流程和当前订阅/OA费率许可周期未知；同未变作者源两次后不继续，未把失败当拒收或停刊。",
+        "CAS/2026完整官方分类、覆盖单篇未知；直接光学专刊不新增固定外样例义务。"
+      ],
+      "maintenanceTrigger": "合法新指南可读内容/用户合法提供新版、明确出版费用统计和分类覆盖后维护；不反复请求同失效源。"
+    },
+    {
+      "kind": "journal",
+      "id": "ultrafast-science",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d385c5589411e98e8e1acaabc60f1a9bf30c958a96cf9bfaefb7a31823581d3c",
+      "formalReviewBase": "7125c8dab8eb582e4f1131e993b4e5eb55e98ef0",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#ultrafast-science",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本刊完整稿型词数/摘要图表/模板文件、当前费用许可资助及周期未知，不套Science/ScienceAdvances政策和APC。",
+        "SCIE/CAS/2026全类别/索引覆盖单篇未知；曾索引页403不是指南正文或未收录结论，原摘要范围不升级全读。"
+      ],
+      "maintenanceTrigger": "本刊新合法指南/费率统计可读或新数据库分类覆盖出现后维护，SPJ独立规则单核。"
+    },
+    {
+      "kind": "journal",
+      "id": "light-advanced-manufacturing",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "5b58ba442f4a9ac07ac396583da02b08ca335af7686b248d534f3531f240f99a",
+      "formalReviewBase": "7125c8dab8eb582e4f1131e993b4e5eb55e98ef0",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#light-advanced-manufacturing",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当前PDF仍旧版本但现官网链接不是全条款新有效年证明；未读p5–11和模板ZIP/许可内部、系统登录及本刊评审统计。",
+        "SCIE/EI/CAS与2026全分类/覆盖单篇未知，免费无明确生效年不保证永远，不能视作所有Light刊规则。"
+      ],
+      "maintenanceTrigger": "现站新PDF/政策模式/统计或新数据库分类覆盖公告后维护，不为未来预测补会期或索引。"
+    },
+    {
+      "kind": "journal",
+      "id": "extreme-manufacturing",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "bfc5fed20004896573f7274927dcb85ecc0fc12000cd97b163d156b46135ac05",
+      "formalReviewBase": "7125c8dab8eb582e4f1131e993b4e5eb55e98ef0",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#extreme-manufacturing",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "Paper/Review详细词数模板内/匿名完整数据政策和周期未知；独立收费子页未读、当前资助政策无生效年，不保证未来免费。",
+        "本刊原论文证书限制保留不造样例；CAS/2026全部类别/覆盖年单篇未知，IOP通用稿型不代本刊准入。"
+      ],
+      "maintenanceTrigger": "证书/访问问题合法修复或新本刊可读稿型/费用/评审/分类覆盖后维护，不绕安全页。"
+    },
+    {
+      "kind": "journal",
+      "id": "journal-society-information-display",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "345ddc4f12fa0ec4b08ebc192147b1db573af620bda76ebdc89f0dfebdd3ef64",
+      "formalReviewBase": "7125c8dab8eb582e4f1131e993b4e5eb55e98ef0",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#journal-society-information-display",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "匿名/关键词当前统一口径/CTA许可阶段与模板内部、OA价许可及个案页费减免未知，不套通用Wiley。",
+        "CAS/2026完整分类/覆盖单篇未知，2025统计非个稿保证；三原公开摘要非全文SI审计。"
+      ],
+      "maintenanceTrigger": "本刊统一新版模板许可/关键词及收费统计、新官方分类覆盖或原论文更正后维护；不改AIS为JIF。"
     }
   ],
   "coreSeriesReviews": [
