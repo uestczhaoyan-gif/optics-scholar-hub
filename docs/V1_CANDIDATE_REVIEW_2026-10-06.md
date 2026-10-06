@@ -404,3 +404,40 @@ Communications Materials；admitted；正式ID communications-materials。
 - APC接受日决定且税另计，页面未标费率生效年/全部附加费或个人减免资格；原论文CC BY与CC BY-NC-ND不同，2026首次日/VOR也不同。
 - 维护触发：本刊新公开完整稿规/格式模板、统计定义及分类覆盖证据发布后逐字段维护；合法价表/资助资格按接受日确认，不重试同未变化两次失败源，不扩固定名单。
 - 只新增本固定候选的正式记录与本次质量审查；旧110刊、其余272候选、其他data、旧账本/固定G4/G5/finalAcceptance及冻结范围保持。
+
+## V1-G3M
+
+实审TPAMI/IJCV/JAP身份、各自范围、可读指南和拟光学样例。TPAMI两个ComputerSociety原入口403立即停止，Xplore期刊入口两次技术失败；IJCV范围/指南/主页及一个近年光学原摘要/出版史成功，另一个拟原文两次失败；JAP本刊正确About/费用和AIP通用准备规则成功，原THz论文完整摘要/出版史可读，另两拟原文各两次失败。独立EI三精确匹配，仍不足三跨正式期次准入；不以主题/检索题名代替真实样例。 固定60累计54项（7准入、47限制），余6未审；本批3全部保留pending。实际审查有范围、影响、触发，不因为数量或额度而填完成。
+
+## journal-37e929be92
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence；pending。
+
+- 原来源/真实范围：[官方范围](https://www.computer.org/digital-library/journals/tp/cfp-ieee-pattern-analysis-machine-intelligence)。官方CFP检索展开传统computer vision/image understanding、pattern recognition和machine intelligence尤其pattern learning范围，医图/视频/文档等不全是光学。ISSN注册机构确认0162-8828印刷与1939-3539在线，独立EI2121匹配。本刊CFP和公共作者入口各首次403即停止；Xplore期刊入口两次技术失败，近年三不同期次光学原摘要/出版史及完整稿规未取得，保留pending。
+- 本刊已读细则：[官方CFP](https://www.computer.org/digital-library/journals/tp/cfp-ieee-pattern-analysis-machine-intelligence)与[作者入口](https://www.computer.org/publications/author-resources)为官方检索缓存，不能声称原403全文成功；Hybrid传统/OA与鼓励DataPort属于已展开线索，作者指南提及平台迁移和EarlyAccess，不把Encouraged写必交。[ISSN在线记录](https://portal.issn.org/resource/ISSN/1939-3539)确认在线与对应印刷刊号，不以民间IF/Q1或PubMed当独立SCIE/JCR。[Xplore入口](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)两有效请求均InternalError；检索lensless得到作者机构线索，不将预印本/机构题名充Journal原摘要。本刊页数/匿名/必需材料、价格及周期版年未知。
+- 未解决内容及影响：CFP/公共作者403及Xplore两次技术失败，三近年不同正式期次光学原摘要/首次日/正式期月缺，不能按广泛视觉或EI直接准入；完整本刊稿规/收费周期版本及MJL/JCR/CAS未核；不从所有IEEE刊继承
+- 维护触发：新的合法公开本刊光学原论文及完整出版史/稿规分类版本可读后补三不同正式期次再判准入；不重复未变化403或两次失败入口，不以CVPR论文替代Journal。
+
+## journal-ad6857b3d3
+
+International Journal of Computer Vision；pending。
+
+- 原来源/真实范围：[官方范围](https://link.springer.com/journal/11263/aims-and-scope)。实读IJCV范围及主页：12期/年，覆盖物理图像形成与传感器但也广含AI、机器人/检索等；0920-5691/1573-1405与独立EI2560匹配。原Depth from Coupled Optical Differentiation完整摘要/出版史成功，为真实光学成像适配；拟Unsupervised Hyperspectral...原页两次技术失败，旧偏振原文首次2024-01-12超近两年窗口，不凑第三样例。当前不足三不同正式期次，保留pending。
+- 本刊已读细则：[Aims](https://link.springer.com/journal/11263/aims-and-scope)稿型普通25页/短10/Survey30页，无page charges；[指南](https://link.springer.com/journal/11263/submission-guidelines)已读FAQ/提交/题名摘要/稿件准备范围：150–250词摘要、4–6keywords、可编辑源、利益声明；Hybrid传统无提交/出版费、可选OA另APC。接受后若校样及时，3–5周线上是有条件制作提示，不是审稿均值。[主页](https://link.springer.com/journal/11263)37天median含初筛退稿，约96天typical另口径，不能混为同一统计；官网SCIE只出版社层证据，当前独立MJL/JCR/CAS未核。[Depth from Coupled Optical Differentiation](https://link.springer.com/article/10.1007/s11263-025-02534-z)：首次/VOR2025-08-29，133:8109–8126、IssueNov2025，收2024-09-16/接2025-07-18；通过可变形镜头和可调光阑四图光学微分重建被动深度，真实原摘要/元数据，不做全文实验审计。[另一拟光谱原文](https://link.springer.com/article/10.1007/s11263-026-02757-8)先400Timeout再InternalError，停止；旧S2P3超窗口，不以同卷题名或Survey充样例。
+- 未解决内容及影响：仅一近年成功原光学摘要/正式期月；另一拟原文两次失败、旧偏振首次日超窗口，不满足三不同期次准入；稿规全文伦理/全部附件未通读，OA现价/生效年、独立MJL/JCR/CAS及EI覆盖年未核；typical与含初筛median口径不同
+- 维护触发：新增可读近年光学原研究及不同正式期月/完整出版史、现行费用与分类材料出现后补足三例再判；不重访两次失败原文，不按所有computer vision扩大光学范围。
+
+## journal-187378566e
+
+Journal of Applied Physics；pending。
+
+- 原来源/真实范围：[官方范围](https://pubs.aip.org/aip/jap/pages/about)。本刊正确About实读：Article/Methods/Review/Perspective/Tutorial，多元应用物理中明确photonics/plasmonics/photovoltaics/lasers等光学子集；0021-8979/1089-7550与独立EI3041一致。官网2026版JCR2025数据JIF2.7、AppliedPhysics Q3，只出版社证据，不强造Q1。原Mie voids THz论文摘要/出版史成功，另两跨期近年拟原文各两次技术失败；三样例不足，保留pending。
+- 本刊已读细则：[About](https://pubs.aip.org/aip/jap/pages/about)当前HybridAuthorSelect，不沿用2025S2O：[官方2025-10-29公告](https://publishing.aip.org/about/news/evolving-our-open-access-strategy-aip-publishing-concludes-the-subscribe-to-open-pilot/)检索明示年底结束试点，当前正文Hybrid独立。2025统计平均首决定26/接受85/发表106天，article type影响、不能当承诺。[本刊费用](https://pubs.aip.org/aip/jap/pages/charges)无强制page/color、可选OA USD3800；现价未标独立生效年/税与个人协议资格未知。[通用作者准备](https://publishing.aip.org/resources/researchers/author-instructions/)只读初投单编译PDF、独立SI PDF、Word/LaTeX和一般单段250词摘要；不套APL限额，不声称全文伦理/全部稿型核完。[Extremely high-Q Mie voids for ultrasensitive terahertz metasensor](https://pubs.aip.org/aip/jap/article/138/12/123104/3364338/Extremely-high-Q-Mie-voids-for-ultrasensitive)正常官网自动CDN公开正文，首次2025-09-23、138(12):123104、收2025-06-14/接2025-09-03；硅Mie空气空腔THz局域场和传感的数值研究，不称实验临床结果。另[139(13)全光衍射卷积网络](https://pubs.aip.org/aip/jap/article-abstract/139/13/133104/3385924/Metasurface-based-all-optical-diffractive)与[140(12)近红外Huygens](https://pubs.aip.org/aip/jap/article-abstract/140/12/123102/3405197/Tetramer-extreme-Huygens-metasurfaces-based-on)各两次InternalError，检索首次/题名不充原摘要。错误无aip前缀About首次技术失败与成功canonical分开。
+- 未解决内容及影响：一个真实THz原摘要/出版史；另两个拟不同期次原文各两次技术失败，三例准入不足；官网JCR2026发布/指标2025的Q3只出版社层，不混AIS或推2025版；独立MJL/JCR/CAS、完整稿型/匿名与价格生效年未核
+- 维护触发：合法新光学原研究公开正文和不同正式期次/出版史及现行稿规分类材料出现后补三例，按EI工程补充判；不重复两次失败原文或继承旧S2O/其他AIP刊字数。
+
+### V1-G3M：共同证据与保护
+
+只检本批三个新目标的官方Compendex缓存，核SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39：SERIALS2026-08-07 TPAMI2121/01628828/19393539/IEEE Computer Society，IJCV2560/09205691/15731405/Springer，JAP3041/00218979/10897550/American Institute of Physics，三者Journal；DISCONTINUED2026-05-01无这三个精确目标。不是每篇入库或覆盖年份证明。403不绕过；技术失败累计两次停止；自动正常官方CDN重定向只读公开内容，没有手动切镜像、账号或改cookie。本批实际研究不足三不同正式期次，不声称没有光学原文、停刊或永久排除。
+
+[Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他270候选、全部正式目录及冻结范围和旧审查保持。

@@ -1794,3 +1794,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G3L准入固定候选Communications Materials并同批完成新增正式质量；111刊/133届/98系列/10活动，273候选220 admitted/46 pending/7 deferred；SCIE95/ESCI14/EI102，JCR107/CAS11，57刊至少三篇样例。固定候选51/60（7准入、44实际限制）、余9；正式254/254（111刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [身份/原摘要/不同期次/独立索引/指南与真实尝试](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-3b99fda9e6)。新正式记录同批实审；仍余9固定候选和最终G1/G6，未冒充结项。必要数据/文档/完整差异与子路径构建后推送同SHA验收。
 
 - V1-G3L发布前验证：validate及精确新增EI/ESCI条目、三正式卷与首次日/VOR分别、其余272候选/全部旧data/冻结字节/旧253正式50候选G4G5final保护通过；889本地文件链接、11文件完整实际差异与git diff --check通过。Pages子路径本地构建与六资产exit0，已保存续接记录。原BME/Energy失败已按两次停止、Communications Materials原页/指南成功独立，按本刊EI路径准入不强造分区/匿名/限额。GitHub接口超时只复核前SHA成功，不重提交；本批按同SHA CI及线上版本验收。
+
+## 2026-10-06：固定候选 V1-G3M
+
+- a65caccd5c02c8777b7e6f55d4c14925f565904b已验收[Pages 37462718166](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37462718166)，同SHA build/deploy成功、首页/版本200，摘要74a5dd63ffdfcbf49dcbf0463523a648ffbf70b3c4b669274941511b16fecfeb与本地匹配（2026-10-06T12:25:08.532Z）。正式编辑前HEAD=origin/main；工作草案在work/V1-G3M-plan.json提前保护，等待前批发布时未重复提交。
+- V1-G3M实审3固定候选，保留pending及实际范围/限制；固定60已审54（7准入、47限制）、余6。正式质量254/254，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 实审TPAMI/IJCV/JAP身份、各自范围、可读指南和拟光学样例。TPAMI两个ComputerSociety原入口403立即停止，Xplore期刊入口两次技术失败；IJCV范围/指南/主页及一个近年光学原摘要/出版史成功，另一个拟原文两次失败；JAP本刊正确About/费用和AIP通用准备规则成功，原THz论文完整摘要/出版史可读，另两拟原文各两次失败。独立EI三精确匹配，仍不足三跨正式期次准入；不以主题/检索题名代替真实样例。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3m)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
+
+- V1-G3M发布前验证：validate、三候选允许字段/其余270、全部正式data/冻结字节/旧254正式51候选G4G5final保护通过；586本地文件链接、七文件完整实际差异与git diff --check通过。Pages子路径已重新构建，prepare-static六入口资产验证exit0，目录摘要74a5dd63保持。仅一各成功原文与其他两次失败分开，当前Hybrid不沿用2025S2O；已保存续接，按同SHA CI及线上部署验收。

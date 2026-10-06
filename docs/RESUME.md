@@ -669,3 +669,7 @@ fb0229ea11b98ee909cdbdd8fd97f32232d5ec0d已验收[Pages 37460180099](https://git
 ## 2026-10-06：固定候选准入 V1-G3L
 
 99690c24df2f3a9ecb3177c04b9dd34e07642c01已验收[Pages 37462076408](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37462076408)；同SHA build/deploy成功，首页/版本200，摘要73bd56804f30b96696d2d95bfc250f2f3cd2e2feae4a7cedc5853e0306d52eb5匹配本地（2026-10-06T12:18:04.065Z）。 V1-G3L准入固定候选Communications Materials并同批完成新增正式质量；111刊/133届/98系列/10活动，273候选220 admitted/46 pending/7 deferred；SCIE95/ESCI14/EI102，JCR107/CAS11，57刊至少三篇样例。固定候选51/60（7准入、44实际限制）、余9；正式254/254（111刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [逐字段依据与限制](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-3b99fda9e6)。保留既有五小时额度检查及每日巡检，不扩大本版。
+
+## 2026-10-06：固定候选 V1-G3M
+
+a65caccd5c02c8777b7e6f55d4c14925f565904b已验收[Pages 37462718166](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37462718166)，同SHA build/deploy成功、首页/版本200，摘要74a5dd63ffdfcbf49dcbf0463523a648ffbf70b3c4b669274941511b16fecfeb与本地匹配（2026-10-06T12:25:08.532Z）。 V1-G3M实审3固定候选，保留pending及实际范围/限制；固定60已审54（7准入、47限制）、余6。正式质量254/254，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 [逐项实读证据](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3m)。原五小时额度检查保持；继续固定剩余事项，不重试未变化受限源、不扩大范围。
