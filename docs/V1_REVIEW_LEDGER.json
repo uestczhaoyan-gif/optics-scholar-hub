@@ -4005,6 +4005,116 @@
         "JCR2026全分类/CAS/覆盖年单篇未知；旧三原摘要及第三器件引言非全文SI审计，不外推工业部署/临床批准/安全认证。"
       ],
       "maintenanceTrigger": "本刊统一页数冲突与新版摘要/专项指南、费用统计/合法分类覆盖或原论文更正时维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "advanced-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a8127a70599c023e28306d5d3b8713562b101fb1453e21c670450e1c636a7acd",
+      "formalReviewBase": "95a4e7fb99f7c82fd1afd2e5fc52395bfa48555d",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#advanced-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本刊APC/超页和协议税费未核、具体清单/模板参数及本刊周期未知；JCR2026/CAS2025仍二手，不升级官方当前全分类。",
+        "覆盖年/单篇未知，原三摘要出版元数据非全文SI/实验审计，制备或应用限原条件。"
+      ],
+      "maintenanceTrigger": "本刊新费用/清单/统计、合法官方分类覆盖或原论文更正时维护；不因邻刊2025而重写AM2026版本。"
+    },
+    {
+      "kind": "journal",
+      "id": "advanced-functional-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6512152fd389ed1c38c3e59394d1fec043e7597d6f37130e3be35c1fff15c770",
+      "formalReviewBase": "95a4e7fb99f7c82fd1afd2e5fc52395bfa48555d",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#advanced-functional-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "APC税协议与具体周期、模板/各领域附件参数未核；2026/CAS和覆盖年单篇未知，六已存2025分类不代表新年度全部。",
+        "AFM原页安全限制保持，中文概述非英文原题，G4正式期次数null不能用三样例数量冒充三独立期；未通读全文SI。"
+      ],
+      "maintenanceTrigger": "安全限制合法消失或可读原出版元数据、新模板附件/费率统计和官方分类覆盖出现后维护，不重试验证页。"
+    },
+    {
+      "kind": "journal",
+      "id": "nano-micro-letters",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "be5dc49befbba24817e5340b2a22968a89a80cea093ddcd979e3f63b8287b242",
+      "formalReviewBase": "95a4e7fb99f7c82fd1afd2e5fc52395bfa48555d",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nano-micro-letters",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "费用官方渠道冲突、现系统与邮件遗留未统一，登录/完整模板或定量篇幅/周期未知，不承诺APC数为实际账单。",
+        "只两个正式年度卷而非三期、中文概述与原摘要非全文SI；CAS/2026完整分区及索引覆盖年单篇未知。"
+      ],
+      "maintenanceTrigger": "本刊/出版社明确政策生效与统一渠道、合法系统/统计及第三不同正式卷论文出现后维护，不反复查不变403/已审冲突。"
+    },
+    {
+      "kind": "journal",
+      "id": "advanced-science",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "aa2a889e6465e724ebc240dc7801e5a9d4a8542a942674d4d35977c31509dc50",
+      "formalReviewBase": "95a4e7fb99f7c82fd1afd2e5fc52395bfa48555d",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#advanced-science",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "详细稿型词数图/关键词、专项模板与本刊周期未核；机构协议/国家减免须个体资格，价目核验日不是未来账单保证。",
+        "CAS/2026所有分类、覆盖年单篇未知；原中文概述/摘要和Crossref注册元数据非全英文原题/全文SI或实际制造能力审计。"
+      ],
+      "maintenanceTrigger": "本刊明确稿型/材料清单或费用统计、合法分类覆盖和原论文更正后维护，不继承AM/AFM限制。"
+    },
+    {
+      "kind": "journal",
+      "id": "infomat",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ae450ae96b328741138fb321eb15869629afe7c65d84b53306756e2e09731b7f",
+      "formalReviewBase": "95a4e7fb99f7c82fd1afd2e5fc52395bfa48555d",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#infomat",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "完整模板/声明与SI材料或不同稿型细项、周期未知；会员/机构账户覆盖资格不保证，EI无匹配非未收录，CAS/2026所有类别/索引覆盖年单篇未知。",
+        "原摘要/Crossref注册期次与中文概述非全文SI及所有英文原题回填，材料概念应用不当部署结果。"
+      ],
+      "maintenanceTrigger": "本刊新作者或费用/统计、合法新版EI与分类覆盖、原论文更正出现后维护，不复查同版无匹配/历史免费。"
     }
   ],
   "coreSeriesReviews": [
