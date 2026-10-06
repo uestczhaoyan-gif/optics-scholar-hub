@@ -1682,3 +1682,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AC实审6届会议全部字段，正式质量累计184/252（109刊/65届/10活动）、余68；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON、稳定系列与各admitted关系，C3当届独立指南/实际PDF页范围、C12后续核验、C4母会/子会及B4原讲者表。SiPhotonics指南第二有效尝试（10/2计首次）工具InternalError未正文；AOMATT主页第二有效读取工具缓存标昨天，仍10/25且无已读明确延期声明，不重新下载不变十页PDF/继承未读页。停止同未变源两次；其余复用原真实证据，不刷新全部data/checkedAt。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ac)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结字节及旧178正式/42候选/G4/G5/final保护、184唯一摘要与各admitted系列关联断言通过；620本地文件链接、六文档真实差异/git diff --check完成。纯文档复用已验收六资产/48ba摘要，本提交同SHA CI独立31测试/typecheck/lint/build及部署线上版本验收。SiPhotonics第二请求失败不改原规则，AOMATT主页第二读未解决PDF日期冲突；不再重复同未变源。
+
+## 2026-10-06：正式会议质量 V1-G2AD
+
+- 86aec50818a4145f3b51abbda6c1e7aa3b7a4bce已验收[Pages 37433592773](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37433592773)；同SHA build/deploy成功、首页/版本200，摘要48ba55aefd23e8145bb584289dff5ad250179e0aa885dab77d56219c675f351f匹配本地（2026-10-06T08:05:14.802Z）。编辑前HEAD=origin/main；work/V1-G2AD-plan.json长操作前保护真实范围。
+- V1-G2AD实审6届会议全部字段，正式质量累计190/252（109刊/71届/10活动）、余62；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON和稳定系列/admitted关联、C4 ElectronicImaging各路径与实际关闭冲突、C5六会议独立身份/出版/原大学程序、C11/C12原后续范围。只EI2027主页/公开submission页本次第二有效请求（10/3计首次）：工具标今天，主页仍10/12延期但共用页脚窗口变11/30 21:00PST，submission无正文，不能验证已开放或当前仍关闭；保留原实际关闭版本/冲突NULL，停止同未变源，不登录。其他复用原已核证据，不继承旧年或刷新全部data原checkedAt。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ad)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data/冻结字节与旧184正式/42候选/G4/G5/final保护、190唯一摘要/当届系列关联断言通过；633本地文件链接、六文档实际差异和git diff --check通过。纯文档复用已验收六资产/48ba摘要，同SHA CI独立validate/31测试/typecheck/lint/build后部署及线上版本验收。EI本次公开系统无正文未验证开启，页脚11/30不替普通摘要10/12或原关闭冲突；不重复同源。

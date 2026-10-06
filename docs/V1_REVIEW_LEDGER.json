@@ -5419,6 +5419,150 @@
         "注册费率付款和当届出版卷号/真实索引未知，旧MediaKit失败非依据"
       ],
       "maintenanceTrigger": "2027母会和子系列独立CFP/场馆注册公告公开后分字段维护，避免重复计会或混美国系列。"
+    },
+    {
+      "kind": "conference",
+      "id": "electronic-imaging-2027",
+      "seriesId": "series-c5441ee444d2",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f000526e35b74721dee736ea04490fc7ac5a70c88b82d4c34a75a79f48b5f860",
+      "formalReviewBase": "86aec50818a4145f3b51abbda6c1e7aa3b7a4bce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#electronic-imaging-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当前公开submission无正文不能验证开放/关闭，正文10/12与旧CFP/实际关闭及新共用窗口口径未统一",
+        "模板/登录流程和各专题评审细则未知，未登录，原closed保留历史核验日",
+        "实际费率/最终作者付款及具体论文集/单篇索引未知，各出版路径独立"
+      ],
+      "maintenanceTrigger": "主办方明确统一普通摘要日期并公开系统实际状态/注册规则，或新通知出现后维护；两次同源停止，11/30共用窗口不能自动替DDL。"
+    },
+    {
+      "kind": "conference",
+      "id": "iodc-2027",
+      "seriesId": "series-e66bb1658658",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4965e8711503372c39b65e178f036cc98b708e6f1e38e4a8f02aa943c9d5b4c9",
+      "formalReviewBase": "86aec50818a4145f3b51abbda6c1e7aa3b7a4bce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iodc-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届CFP稿型篇幅模板及提交系统/日期未知，MySchedule非提交",
+        "实际酒店预订/注册费用作者付款截止未知，日历场馆不证明注册开放",
+        "2027论文集材料/单篇索引及未来联合关系未知"
+      ],
+      "maintenanceTrigger": "SPIE或IODC本届正式CFP/注册酒店/出版通知公开后逐字段维护，继续与ODF独立。"
+    },
+    {
+      "kind": "conference",
+      "id": "oic-2028",
+      "seriesId": "series-f948b77cd562",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e9d0b412128ea3ee93fa5c14a81ae36265a5f48853c2000c462055bc7e7f4725",
+      "formalReviewBase": "86aec50818a4145f3b51abbda6c1e7aa3b7a4bce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#oic-2028",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2028当届投稿稿型篇幅模板/系统及各截止未知，订阅非注册",
+        "费率作者付款/本届报告与实际论文集出版索引未知",
+        "2025会后2026专刊仅历史，不支持2028条件"
+      ],
+      "maintenanceTrigger": "2028本届征稿/注册或出版通知公开后补独立字段，不依据周期或旧专刊预测。"
+    },
+    {
+      "kind": "conference",
+      "id": "optica-advanced-photonics-2026",
+      "seriesId": "series-7eeb0ea1ef3b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "58219af71eaa656ddbbb5d6b82788d7204ab0f34921cc03f3999b16e9d31750c",
+      "formalReviewBase": "86aec50818a4145f3b51abbda6c1e7aa3b7a4bce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#optica-advanced-photonics-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2026历史稿型篇幅模板/真实提交与最终截止未知，仅日城组成明确",
+        "受限TechnicalDigest未读全文/单篇索引，注册费率未知",
+        "后续届日期与八专题未来组成/NP独立关系未公告或未核实"
+      ],
+      "maintenanceTrigger": "Optica新明确母会与子会层级/未来CFP或合法出版证据公开后维护，不重复不变旧登录入口。"
+    },
+    {
+      "kind": "conference",
+      "id": "optica-imaging-2025",
+      "seriesId": "series-f346be857f1a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9557058ce34c0236d4bc4bf86d9a06079608d4a809478405d535a145ae0ad722",
+      "formalReviewBase": "86aec50818a4145f3b51abbda6c1e7aa3b7a4bce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#optica-imaging-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "旧官网404且历史完整稿规/注册最终日期费用/具体会场未知",
+        "公开论文集只身份目录会期，未证明SCI/EI单篇检索",
+        "未来会议和ImageSense继承/合并关系未知，出版列表不证明停办"
+      ],
+      "maintenanceTrigger": "Optica明确继承/改名或下届通知、当届历史档案公开后维护，保留两个稳定系列独立。"
+    },
+    {
+      "kind": "conference",
+      "id": "islc-2026",
+      "seriesId": "series-c5b1d17c308b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f7127a1b9250264e8eecb12c9837486ebf83febdbfaf6eb17c81574f7e6618e1",
+      "formalReviewBase": "86aec50818a4145f3b51abbda6c1e7aa3b7a4bce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#islc-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2026普通/PDP篇幅模板最终摘要及注册日期费用未知，注册关闭不能作投稿日",
+        "稿件出版社/出版条件与单篇索引未知，程序仅报告安排",
+        "2028岐阜线索主办关联和当届完整日期未充分核实，不外推下一届"
+      ],
+      "maintenanceTrigger": "本会正式后续入口/主办方完整日城或历史稿规出版档案公开后维护，不凭基金会线索补正式未来条。"
     }
   ],
   "coreSeriesReviews": [

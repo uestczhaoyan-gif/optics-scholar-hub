@@ -947,3 +947,91 @@ SPIE Sensors + Imaging 2027；2027；SPIE Sensors + Imaging/series-b0a0e3b0882e�
 - 未解决内容及影响：2027场馆/子日程及独立子会征稿未知，母子层级需维持；本届稿型模板/平台/报告材料截止全部未知，2026子页不继承；注册费率付款和当届出版卷号/真实索引未知，旧MediaKit失败非依据
 - 维护触发：2027母会和子系列独立CFP/场馆注册公告公开后分字段维护，避免重复计会或混美国系列。
 - 完整记录内容摘要4e77be467f5125ebd70433e3e9c4478f94ea9d06eb1855a53358db142f6501e4，基于bf531987b6443260796f190715d4b5a4a97e05ad；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AD
+
+实际完整读取六届当前JSON和稳定系列/admitted关联、C4 ElectronicImaging各路径与实际关闭冲突、C5六会议独立身份/出版/原大学程序、C11/C12原后续范围。只EI2027主页/公开submission页本次第二有效请求（10/3计首次）：工具标今天，主页仍10/12延期但共用页脚窗口变11/30 21:00PST，submission无正文，不能验证已开放或当前仍关闭；保留原实际关闭版本/冲突NULL，停止同未变源，不登录。其他复用原已核证据，不继承旧年或刷新全部data原checkedAt。 累计正式质量190/252，余62未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## electronic-imaging-2027
+
+IS&T Electronic Imaging Symposium 2027；2027；Electronic Imaging/series-c5441ee444d2；admitted关联conference-series-c5441ee444，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://ei2027.imaging.org/)、[原通知](https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c4六个未审系列及-sensors--imaging-母会)、[原实际记录2](https://ei2027.imaging.org/)、[原实际记录3](https://ei2027.imaging.org/submission)。
+- 全字段审阅范围：IS&T本届母会BurlingameHyattRegencySFairport1333OldBayshore1/24–27/27含周日ThisIsImaging，不将8方向子会重复计。C4原CFP摘要1–2p与JIST/JPI journal-first全文独立：8/16/26后者历史；摘要可仅报告无出版或会前1/4/27、会后2/21/27全文，两全文不是摘要。原首页10/12延长vsCFP9/28vs真实Submit跳Fourwaves→本域明确9/28关闭是三口径，NULL保留，原closed是10/3实际所见非现在再确认。当前第二主页仍10/12却共用SubmissionPeriod页脚11/30 21:00PST，实际submission无正文，不能凭窗口/按钮确认开放、把新页脚作普通摘要DDL或覆盖正文日期，也不能沿用旧PDT精确时刻。7–10月feedback、10月下旬registrationplan、11/9预排节目不是通知/注册截止。OA声明非EICompendex，缩写EI非数据库。
+- 日城与范围：2027-01-24–2027-01-27；美国 · 伯灵格姆；Hyatt Regency San Francisco Airport；submissionState closed。
+- 逐字段截止及出处：Journal-first 历史投稿截止（JIST/JPI）：2026-08-16 [来源](https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3)；Abstract-first 延期公告与系统关闭冲突，待确认：未知 [来源](https://ei2027.imaging.org/)；首页 Extended to October 12, 2026；CFP 仍为 September 28；https://ei2027.imaging.org/submission 明确 9/28 已关闭。；会前论文集全文截止：2027-01-04 [来源](https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3)；会后论文集全文截止：2027-02-21 [来源](https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3)；审稿反馈分批 7–10 月，具体通知日待核实：未知 [来源](https://ei2027.imaging.org/pages/6b840a79-9368-4dae-8f48-434debf136f3)；注册截止待公布（计划 2026 年 10 月下旬开放）：未知 [来源](https://ei2027.imaging.org/)
+- 本届条件出版原字段：当届 CFP 区分 presentation-only 无出版、会前/会后 proceedings 和 JIST/JPI journal-first。官网声明录用论文开放获取；本届具体论文集索引及单篇检索未核实，不能保证 EI Compendex 收录（会议缩写 EI 与数据库 EI 不是同一含义）。
+- 本届范围/冲突原备注：IS&T 官方旧 2026 页面顶部的 2027 Save the Date 确认 Hyatt Regency San Francisco Airport / Burlingame；与 2027 官网地址 1333 Old Bayshore Highway 对应。1/24 包含 This Is Imaging 互动活动，母会整体会期 1/24–27，只计一次。计划 2026 年 10 月下旬开放注册、11/9 发布预排日程；不把开放月份或节目发布时间当注册/录用截止。首页延期、CFP 和系统关闭冲突保留；不套用页脚旧 9/28 21:00 PDT 到新的未知截止。
+- 未解决内容及影响：当前公开submission无正文不能验证开放/关闭，正文10/12与旧CFP/实际关闭及新共用窗口口径未统一；模板/登录流程和各专题评审细则未知，未登录，原closed保留历史核验日；实际费率/最终作者付款及具体论文集/单篇索引未知，各出版路径独立
+- 维护触发：主办方明确统一普通摘要日期并公开系统实际状态/注册规则，或新通知出现后维护；两次同源停止，11/30共用窗口不能自动替DDL。
+- 完整记录内容摘要f000526e35b74721dee736ea04490fc7ac5a70c88b82d4c34a75a79f48b5f860，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
+
+## iodc-2027
+
+International Optical Design Conference 2027；2027；IODC/series-e66bb1658658；admitted关联conference-series-51bee6655f，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://spie.org/conferences-and-exhibitions/international-optical-design-conference)、[原通知](https://spie.org/conferences-and-exhibitions/international-optical-design-conference)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)。
+- 全字段审阅范围：独立IODC官网实际链接SPIE本届/manager，2027NorfolkVirginia6/6–10和SPIE日历NorfolkWatersideMarriott真实列项，不继承旧IODC与OpticaODF联合；ODF2027Antwerp4/11–15是另会。MySchedule只是日程入口，hotel/submissionregistration随后公布不表已启用。2027征稿页限模板真实提交、各DDL和出版/检索皆未知null/unknown吻合，日城直接来源不是按旧周期预估；系列设计范围非已定专题清单，历届SPIE集不能保证2027发表。
+- 日城与范围：2027-06-06–2027-06-10；美国 · 诺福克；Norfolk Waterside Marriott；submissionState unknown。
+- 逐字段截止及出处：2027 摘要/投稿最终截止待核实：未知 [来源](https://spie.org/conferences-and-exhibitions/international-optical-design-conference)；2027 注册截止待核实：未知 [来源](https://spie.org/conferences-and-exhibitions/international-optical-design-conference)
+- 本届条件出版原字段：2027 稿件发表条件、论文集及检索安排待当届通知，不从历届 SPIE 论文集推断。
+- 本届范围/冲突原备注：会场来自 SPIE 官方活动日历：https://spie.org/conferences-and-exhibitions/conferences-and-exhibitions-calendar?filterEventType=conference;exhibition 。IODC 2027 独立会期与 Optica Design and Fabrication Congress 的 Antwerp 2027-04-11–15 不合并；独立系列官网 https://iodc.info/ 明确 SPIE 为 meeting manager。日期仅到日，未补时区/时刻。
+- 未解决内容及影响：本届CFP稿型篇幅模板及提交系统/日期未知，MySchedule非提交；实际酒店预订/注册费用作者付款截止未知，日历场馆不证明注册开放；2027论文集材料/单篇索引及未来联合关系未知
+- 维护触发：SPIE或IODC本届正式CFP/注册酒店/出版通知公开后逐字段维护，继续与ODF独立。
+- 完整记录内容摘要4965e8711503372c39b65e178f036cc98b708e6f1e38e4a8f02aa943c9d5b4c9，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
+
+## oic-2028
+
+Optica OIC — Optical Interference Coatings Conference 2028；2028；Optica OIC/series-f948b77cd562；admitted关联conference-series-e334642c77，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/topical_meetings/optical_interference_coatings/)、[原通知](https://www.optica.org/events/topical_meetings/optical_interference_coatings/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)。
+- 全字段审阅范围：ThinFilms技术组实际链接OIC本届、两正文2028WhistlerConferenceCentre5/21–26一致，非三年周期计算。薄膜设计材料沉积表征是系列适配范围，更新订阅不是报名。未来预告unknown、两null清楚，2028模板篇幅/评审系统和注册费用/作者日程未核；2025会议AppliedOptics2026专刊不移到2028，也不当该会统一SCI。具体明确会场可保留，不从预告证明可投，旧期刊专刊投稿日非新会议摘要截止。
+- 日城与范围：2028-05-21–2028-05-26；加拿大 · 惠斯勒；Whistler Conference Centre；submissionState unknown。
+- 逐字段截止及出处：2028 摘要/投稿最终截止待核实：未知 [来源](https://www.optica.org/events/topical_meetings/optical_interference_coatings/)；2028 注册截止待核实：未知 [来源](https://www.optica.org/events/topical_meetings/optical_interference_coatings/)
+- 本届条件出版原字段：2028 论文集及出版/检索条件待当届通知；2025 会议在 Applied Optics 2026 的专刊不属于 2028 投稿安排。
+- 本届范围/冲突原备注：官方技术组同样列出会期/会场：https://www.optica.org/get_involved/technical_groups/fdi/thin_films/ 。没有根据每三年周期计算日期；未来预告不证明征稿开放。
+- 未解决内容及影响：2028当届投稿稿型篇幅模板/系统及各截止未知，订阅非注册；费率作者付款/本届报告与实际论文集出版索引未知；2025会后2026专刊仅历史，不支持2028条件
+- 维护触发：2028本届征稿/注册或出版通知公开后补独立字段，不依据周期或旧专刊预测。
+- 完整记录内容摘要e9d0b412128ea3ee93fa5c14a81ae36265a5f48853c2000c462055bc7e7f4725，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
+
+## optica-advanced-photonics-2026
+
+Optica Advanced Photonics Congress 2026；2026；Optica Advanced Photonics Congress/series-7eeb0ea1ef3b；admitted关联conference-series-f86c122a9c，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/congress/advanced_photonics_congress/)、[原通知](https://www.optica.org/events/congress/advanced_photonics_congress/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c11六系列后续公告与-imid-2027)。
+- 全字段审阅范围：2026LongBeachHilton7/26–30历史母会八专题BGPP/IPR/NP/NOMA/Networks/SPPCom/SOLITH/SOF只一admitted。NP正文隶属母会同日城，子系列待独立层级不复制相同正式ID；NP非独立NLO永久同义。原主页TechnicalDigest登录入口只确认入口未读受限全文、不作单篇EI/SCI。历史稿规、注册费用/最终截止均null未知，不因published/已办当现在可投；C11主页/Optica活动首页已读范围无下届具体日期非全站或取消，下一年不得按周期/同八专题外推。
+- 日城与范围：2026-07-26–2026-07-30；美国 · 长滩；Hilton Long Beach；submissionState published。
+- 逐字段截止及出处：2026 摘要/投稿最终截止待核实：未知 [来源](https://www.optica.org/events/congress/advanced_photonics_congress/)；2026 注册截止待核实：未知 [来源](https://www.optica.org/events/congress/advanced_photonics_congress/)
+- 本届条件出版原字段：官方页有 2026 Technical Digest Papers 入口，说明需登录访问；本轮未读取受限论文集全文，不作单篇 SCI/EI 检索保证。
+- 本届范围/冲突原备注：八个专题包括 BGPP、IPR、NP、NOMA、Networks、SPPCom、SOLITH、SOF；当届范围不代表下一届仍完全相同。已结束记录供查阅，不据全年会期或年度周期推算 2027。NP 另保留候选，待独立层级及当届投稿条件。
+- 未解决内容及影响：2026历史稿型篇幅模板/真实提交与最终截止未知，仅日城组成明确；受限TechnicalDigest未读全文/单篇索引，注册费率未知；后续届日期与八专题未来组成/NP独立关系未公告或未核实
+- 维护触发：Optica新明确母会与子会层级/未来CFP或合法出版证据公开后维护，不重复不变旧登录入口。
+- 完整记录内容摘要58219af71eaa656ddbbb5d6b82788d7204ab0f34921cc03f3999b16e9d31750c，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
+
+## optica-imaging-2025
+
+Optica Imaging Congress 2025；2025；Optica Imaging Congress/series-f346be857f1a；admitted关联conference-series-812fe13b0c，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025)、[原通知](https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c12制造精密工程与旧-imaging-后续核验)。
+- 全字段审阅范围：OPG2025公开论文集ISBN978-1-957171-55-5真实Seattle8/18–21和6专题，出版社当届身份可收历史一母会但具体场馆未知。ImagingOPC系列列表2022ImagingAppliedOptics/2023–25ImagingCongress是名称沿革证据；旧官网404真实留证，论文集不是CFP/当前开放。2026ImageSense12专题是否继承合并无明确公告不能永久别名或拼届；C12原列表最新发布2025只反映已读出版记录不证明未来取消。历史投稿篇幅模板系统/最终注册费用未知两null/registrationnull不补，论文集存在非索引/每篇检索，原checkedAt不刷新。
+- 日城与范围：2025-08-18–2025-08-21；美国 · 西雅图；2025 具体会场未核实；submissionState published。
+- 逐字段截止及出处：2025 摘要/投稿最终截止待核实：未知 [来源](https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025)；2025 注册截止待核实：未知 [来源](https://opg.optica.org/conference.cfm?isbn=978-1-957171-55-5&meetingid=177&yr=2025)
+- 本届条件出版原字段：已读取 OPG 2025 公开论文集目录与会期信息；没有据论文集存在断言数据库或单篇检索。
+- 本届范围/冲突原备注：OPG 同一 ImagingOPC 系列表将 2022 的 Imaging and Applied Optics 与 2023–2025 的 Optica Imaging Congress 放在一起：https://opg.optica.org/conference.cfm?congress=ImagingOPC 。旧官网入口本轮 404；采用当届出版社记录。2026 ImageSense 的继承/合并关系尚无明确公告，不直接作永久别名。
+- 未解决内容及影响：旧官网404且历史完整稿规/注册最终日期费用/具体会场未知；公开论文集只身份目录会期，未证明SCI/EI单篇检索；未来会议和ImageSense继承/合并关系未知，出版列表不证明停办
+- 维护触发：Optica明确继承/改名或下届通知、当届历史档案公开后维护，保留两个稳定系列独立。
+- 完整记录内容摘要9557058ce34c0236d4bc4bf86d9a06079608d4a809478405d535a145ae0ad722，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
+
+## islc-2026
+
+30th International Semiconductor Laser Conference 2026；2026；ISLC/series-c5b1d17c308b；admitted关联conference-series-fc127a71af，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://events.tuni.fi/islc2026/)、[原通知](https://events.tuni.fi/islc2026/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c11六系列后续公告与-imid-2027)。
+- 全字段审阅范围：Tampere大学本届主站第30ISLC2026和programmeTampereHall6/14–17一致，导航Thursday及可选制造可持续workshop不把主会扩大6/18。半导体laser/amplifier/LED单会场属本会，不是ICOLS。在线registrationclosed是原核验事实不另一摘要截止；历史普通/PDP页限模板实际提交/截止和出版要求仍未知。C11基金会参会报告给2028岐阜线索但预告域名主办关联未充分核，不收未来具体日城或按两年周期算，系列nextchecked原范围有限。报告摘要入口不保证论文集出版社或EI/SCI。
+- 日城与范围：2026-06-14–2026-06-17；芬兰 · 坦佩雷；Tampere Hall；submissionState published。
+- 逐字段截止及出处：2026 摘要/投稿最终截止待核实：未知 [来源](https://events.tuni.fi/islc2026/)；2026 注册截止待核实：未知 [来源](https://events.tuni.fi/islc2026/)
+- 本届条件出版原字段：当届页面有报告摘要和程序入口；论文集出版社、稿件出版要求及单篇检索未核实，不承诺 SCI/EI。
+- 本届范围/冲突原备注：会场依据：https://events.tuni.fi/islc2026/programme/ 。网页导航另列 Thursday，但程序正文主会议日程与主页均为 6/14–17，不扩大到 6/18；不按两年周期推算下一届。
+- 未解决内容及影响：2026普通/PDP篇幅模板最终摘要及注册日期费用未知，注册关闭不能作投稿日；稿件出版社/出版条件与单篇索引未知，程序仅报告安排；2028岐阜线索主办关联和当届完整日期未充分核实，不外推下一届
+- 维护触发：本会正式后续入口/主办方完整日城或历史稿规出版档案公开后维护，不凭基金会线索补正式未来条。
+- 完整记录内容摘要f7127a1b9250264e8eecb12c9837486ebf83febdbfaf6eb17c81574f7e6618e1，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
