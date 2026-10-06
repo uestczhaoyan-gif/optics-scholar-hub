@@ -4843,6 +4843,150 @@
         "逐篇文集/Xplore实际收录及下届联合关系未知，条件送审不能保证已检索"
       ],
       "maintenanceTrigger": "真实2027模板/编号/系统启用、独立PDP作者注册或完整2027费表公告出现后维护；普通/PDP相同未变指南两次已达停止重复。"
+    },
+    {
+      "kind": "conference",
+      "id": "ogc-2026",
+      "seriesId": "series-81fb168117fb",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1ac675783fb839fa4bd5b9c740377c7a600df5a5f6ef84337d6fc49bf4728e42",
+      "formalReviewBase": "341992e56441cdb9669ac33e16b1a8ccf3252129",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ogc-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "首页与旧日期页历史冲突仍保留，最初延期生效过程未全量核实",
+        "最终作者注册时刻/费用覆盖超页上限和模板内部未知，8/15不是全注册关闭",
+        "实际文集/逐篇Xplore/EI及下一届独立公告未知"
+      ],
+      "maintenanceTrigger": "主办方正式日期更正、实际文集/注册通知或OGC独立新届公告出现后维护；不移用CIOE2027母展。"
+    },
+    {
+      "kind": "conference",
+      "id": "icocn-2026",
+      "seriesId": "series-2f5a792b7310",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ac3e6ef2a78076d1a3e74ea518d6e2908e3d96908d0a3ec296b2a54061a86d69",
+      "formalReviewBase": "341992e56441cdb9669ac33e16b1a8ccf3252129",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icocn-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "原≤3页与收费超页、2024模板适用及无效退款日仍冲突，投稿/付款不可由一端自行选择",
+        "具体终稿/时区/最终注册与费率、PDP独立规则未知，早鸟不等全关闭",
+        "实际文集/单篇检索和下一届日城CFP未知"
+      ],
+      "maintenanceTrigger": "当届正式模板/页限/退款更正、最终作者通知或独立下届公告出现后维护；旧冲突保持原依据，不为消耗额度重复。"
+    },
+    {
+      "kind": "conference",
+      "id": "aopc-2026",
+      "seriesId": "series-a797adc92f6e",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f4a97d9001c8500e0ba198892444c4a19fcea9b395f6ac4c743544bc3be0a2b8",
+      "formalReviewBase": "341992e56441cdb9669ac33e16b1a8ccf3252129",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#aopc-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "早鸟6/20与6/30冲突/实际注册入口null，费用适用日期不可确定",
+        "通知PDF/模板与各专题完整全文格式、真实投稿系统内部未核验",
+        "实际合作期刊/文集单篇录用检索、下届日城未知"
+      ],
+      "maintenanceTrigger": "主办方明确早鸟更正、专题作者/出版通知或本系列新届公告出现后维护；不同专题及展览层级保持。"
+    },
+    {
+      "kind": "conference",
+      "id": "aop-2026",
+      "seriesId": "series-f1ef1344e10c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "b03cb18da2545b284683afc3721c1757151baad03c4917cad62e1235385f7cd7",
+      "formalReviewBase": "341992e56441cdb9669ac33e16b1a8ccf3252129",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#aop-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "三处摘要截止及占位冲突，最终日/时刻未知，无法确认为过去或会后可投的统一截止",
+        "真实注册费率/模板内部、评审全文出版条件与单篇索引未知，DOI非检索证明",
+        "下届日城/CFP未知，首轮PDF日期不可冒充最后通知"
+      ],
+      "maintenanceTrigger": "AOP主办方更正摘要/注册公告、正式文集或独立新届通知出现后维护；同名AOPC和周期推算均不继承。"
+    },
+    {
+      "kind": "conference",
+      "id": "eosam-2026",
+      "seriesId": "series-86cdd7a29672",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f1d4ae1258ac164c48c4ca675465933e062532a56a426770de5aed744ea93043",
+      "formalReviewBase": "341992e56441cdb9669ac33e16b1a8ccf3252129",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#eosam-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "非出版一页稿与追加海报作者注册适用、海报2025场次残留仍未解决",
+        "模板文件内部/完整最终节目、单篇文集/索引及扩展期刊录用未知",
+        "2027独立CFP/作者注册/出版规则未知，旧总览未更新不否定新日城"
+      ],
+      "maintenanceTrigger": "EOS明确2026场次/晚海报付款更正或2027独立CFP/作者通知发布后逐届维护；保留历史口径冲突。"
+    },
+    {
+      "kind": "conference",
+      "id": "icols-2027",
+      "seriesId": "series-02a841634310",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3a91b588755bbfac6db3cfd7cc5b38aafcd50e9e637432a130880226db581982",
+      "formalReviewBase": "341992e56441cdb9669ac33e16b1a8ccf3252129",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icols-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要材料/CFP/评审与截止、正式注册费率/付款日期未知，意向登记不承诺参会",
+        "本届文集/出版形式/索引未知，精密激光光谱主题不证明数据库收录",
+        "后续完整程序与更远下一届未知，不按周期补日期"
+      ],
+      "maintenanceTrigger": "ICOLS2027官方正式CFP、注册或出版公告出现后维护；已多次不变主页停止复查。"
     }
   ],
   "coreSeriesReviews": [

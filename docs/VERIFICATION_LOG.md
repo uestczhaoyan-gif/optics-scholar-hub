@@ -1657,3 +1657,9 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - e7bc07d223a7217e31e6039c478c27c2de29bbd6已验收[Pages 37431370591](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37431370591)；同SHA build/deploy成功、首页/版本200，摘要48ba55aefd23e8145bb584289dff5ad250179e0aa885dab77d56219c675f351f匹配本地（2026-10-06T07:44:50.298Z）。编辑前HEAD=origin/main；work/V1-G2Y-plan.json长操作前保护真实范围。
 - V1-G2Y实审6届会议全部字段，正式质量累计160/252（109刊/41届/10活动）、余92；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON、各稳定系列/独立admitted关联，原9/11和9/13日志、9/30会期修正、B3/C12/C19逐字段已核记录。OECC2027本届普通稿与PDP两独立正文第二次有效请求成功（9/13计首次），实际读到模板与编号仍占位；其他多次不变来源/已安全受限模板不重复。只复用原来源版本或指定当届新正文，不宣称当前全官网/系统或模板内部已审，不刷新全部data日期。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2y)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 - 发布前validate、全部data/冻结字节与旧154正式/42候选/G4/G5/final保护、160唯一摘要/当届系列关联断言通过；560本地文件链接、完整六文档差异/git diff --check通过。修正Asia原日志引用为实际“量子技术与亚洲光电子会议”标题。纯文档复用已验收六资产及48ba摘要，同SHA CI独立校验/31测试/typecheck/lint/build后验收部署与线上版本。
+
+## 2026-10-06：正式会议质量 V1-G2Z
+
+- 341992e56441cdb9669ac33e16b1a8ccf3252129已验收[Pages 37431714148](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37431714148)；同SHA build/deploy成功、首页/版本200，摘要48ba55aefd23e8145bb584289dff5ad250179e0aa885dab77d56219c675f351f匹配本地（2026-10-06T07:46:44.743Z）。编辑前HEAD=origin/main；work/V1-G2Z-plan.json长操作前保护真实范围。
+- V1-G2Z实审6届会议全部字段，正式质量累计166/252（109刊/47届/10活动）、余86；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON/稳定系列/admitted关联，9/13 OGC及ICOCN、9/14 AOPC/AOP/EOSAM/ICOLS原核验记录与C8/C9/C10/C11/C12对应当届/后续范围。复用原已成功来源和真实冲突，不今天重新访问已多次不变源、登录或填意向登记，原checkedAt及全部data版本保持。逐项辨别首轮/现行、正文/费用表、摘要/全文和出版/索引条件，不将来源冲突以多数或最近抓取日期解决。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2z)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+- 发布前validate、全部data/冻结字节及旧160正式/42候选/G4/G5/final保护、166唯一摘要/当届稳定系列关联断言通过；577本地文件链接、完整六文档实际差异/git diff --check通过。仅文档，复用已验收六资产及同48ba目录摘要；同SHA CI独立validate/31测试/typecheck/lint/build后验收部署与线上版本。

@@ -595,3 +595,91 @@ OptoElectronics and Communications Conference & Information Photonics 2027；202
 - 未解决内容及影响：模板/真实投稿启用和PDF eXpress编号未知，PDP独立页限不能从regular继承；PDP作者注册日、时刻/时区、真实费用币种/2025注册残留适用未知，5/30早鸟不替代5/23作者付款；逐篇文集/Xplore实际收录及下届联合关系未知，条件送审不能保证已检索
 - 维护触发：真实2027模板/编号/系统启用、独立PDP作者注册或完整2027费表公告出现后维护；普通/PDP相同未变指南两次已达停止重复。
 - 完整记录内容摘要0cd680a91616ff4ed3edf5f941b7b47cab8bc932a035037c571f3a5fa29c7ecc，基于e7bc07d223a7217e31e6039c478c27c2de29bbd6；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2Z
+
+实际完整读取六届当前JSON/稳定系列/admitted关联，9/13 OGC及ICOCN、9/14 AOPC/AOP/EOSAM/ICOLS原核验记录与C8/C9/C10/C11/C12对应当届/后续范围。复用原已成功来源和真实冲突，不今天重新访问已多次不变源、登录或填意向登记，原checkedAt及全部data版本保持。逐项辨别首轮/现行、正文/费用表、摘要/全文和出版/索引条件，不将来源冲突以多数或最近抓取日期解决。 累计正式质量166/252，余86未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## ogc-2026
+
+11th Optoelectronics Global Conference；2026；OGC/series-81fb168117fb；admitted关联conference-series-942b8b37f7，原checkedAt 2026-09-13。
+
+- 身份/当届来源：[原入口](https://ipsogc.org/)、[原通知](https://ipsogc.org/sub.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-13oecc--ip-2027ogc-2026)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c9国内与亚太后续公告六系列与一个母展)。
+- 全字段审阅范围：第11届OGC深圳宝安9/8–11与CIOE母展有独立投稿/文集，admitted稳定系列一届，不照母展缩短会期或合并展览。原首页更新表paper7/15、通知8/5优先当前记录，旧date.html6/15、7/15仍作为冲突证据，不静默删改；终稿8/31与注册8/15早鸟分别，均仅日期。英文写作报告、EasyChair原创未发表全文至少2页，基本注册覆盖5页含图表参考，超页另费不等无页限；模板/终稿材料内部未登录。录用且实际报告及范围质量符合才提交Xplore，非今天文集已上线或单篇EI检索。C9母展会议表头2027但OGC11th正文明确2026Finished，首页仍2026，不从母展9/8–10推OGC2027。
+- 日城与范围：2026-09-08–2026-09-11；中国 · 深圳；深圳国际会展中心（宝安）；submissionState closed。
+- 逐字段截止及出处：首页公布的论文截止：2026-07-15 [来源](https://ipsogc.org/)；首页公布的录用通知：2026-08-05 [来源](https://ipsogc.org/)；早鸟注册截止：2026-08-15 [来源](https://ipsogc.org/reg.html)；终稿截止：2026-08-31 [来源](https://ipsogc.org/)
+- 本届条件出版原字段：官方说明录用且报告的全文进入论文集，并在符合范围与质量要求后提交 IEEE Xplore；本轮未验证论文集实际上线或 EI 收录。
+- 本届范围/冲突原备注：历史届次，按官网日程已结束。首页投稿截止为 7 月 15 日、通知为 8 月 5 日；旧 date.html 仍显示 6 月 15 日、7 月 15 日，保留此差异并以首页更新表为当前记录。8 月 15 日依据注册页为早鸟截止，不当作全部注册关闭。
+- 未解决内容及影响：首页与旧日期页历史冲突仍保留，最初延期生效过程未全量核实；最终作者注册时刻/费用覆盖超页上限和模板内部未知，8/15不是全注册关闭；实际文集/逐篇Xplore/EI及下一届独立公告未知
+- 维护触发：主办方正式日期更正、实际文集/注册通知或OGC独立新届公告出现后维护；不移用CIOE2027母展。
+- 完整记录内容摘要1ac675783fb839fa4bd5b9c740377c7a600df5a5f6ef84337d6fc49bf4728e42，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
+
+## icocn-2026
+
+24th International Conference on Optical Communications and Networks；2026；ICOCN/series-2f5a792b7310；admitted关联conference-series-bcd4807340，原checkedAt 2026-09-13。
+
+- 身份/当届来源：[原入口](https://www.icocn.org.cn/)、[原通知](https://www.icocn.org.cn/?pages_18/=)；[原实际记录1](VERIFICATION_LOG.md#2026-09-13--icocn-2026-历史届次)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c9国内与亚太后续公告六系列与一个母展)。
+- 全字段审阅范围：第24届ICOCN西宁SapphireHotel7/20–23来自原最终技术日程第一页和首页，不继承初期CFP6月冲突。原延期5/24、5/31通知、6/15早鸟、6/30 PDP仅日期不补时区时刻；摘要后补出版全文需会前完成但没有精确终稿日，不能以会前任一天作DDL。仅报告摘要和拟出版PDF全文不同，奖项须规定截止内全文；guide≤3页与注册超页费冲突，不能因为可付费就认允许超页稿。原模板链接2024子站版本待确认，未下载内部或把2024排版版权替2026。退款写不存在June31留未知不改6/30/7/1；官方声称Xplore及EI只组织声明未逐篇验证，仅摘要不等出版。C9首页与历届入口仍2026/2025更早，已读范围没有下一届具体公告，非全网查完。
+- 日城与范围：2026-07-20–2026-07-23；中国 · 西宁；Xining Sapphire Hotel；submissionState closed。
+- 逐字段截止及出处：延期后的投稿截止：2026-05-24 [来源](https://www.icocn.org.cn/)；录用通知：2026-05-31 [来源](https://www.icocn.org.cn/)；早鸟注册截止：2026-06-15 [来源](https://icocn.org.cn/?pages_34/=)；PDP 投稿截止：2026-06-30 [来源](https://www.icocn.org.cn/)
+- 本届条件出版原字段：官网声明录用论文将提交 IEEE Xplore 并被 EI Compendex 检索；此处记录主办方声明，尚未核对实际论文集及数据库收录。仅摘要报告不等于全文出版。
+- 本届范围/冲突原备注：历史届次。最终日程第 1 页与首页均为 7 月 20–23 日，覆盖初期 CFP 的 6 月冲突；日程来源：https://icocn.org.cn/static/upload/file/20260716/1784181294166799.pdf。官网延期截稿为 5 月 24 日。注册页退款条款写有不存在的 June 31，未录入退款截止；也不把早鸟截止当作全部注册关闭。
+- 未解决内容及影响：原≤3页与收费超页、2024模板适用及无效退款日仍冲突，投稿/付款不可由一端自行选择；具体终稿/时区/最终注册与费率、PDP独立规则未知，早鸟不等全关闭；实际文集/单篇检索和下一届日城CFP未知
+- 维护触发：当届正式模板/页限/退款更正、最终作者通知或独立下届公告出现后维护；旧冲突保持原依据，不为消耗额度重复。
+- 完整记录内容摘要ac3e6ef2a78076d1a3e74ea518d6e2908e3d96908d0a3ec296b2a54061a86d69，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
+
+## aopc-2026
+
+15th Applied Optics and Photonics China (AOPC 2026)；2026；AOPC/series-a797adc92f6e；admitted关联conference-series-0c69bcc1fc，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://b2b.csoe.org.cn/meeting/WPC2026.html)、[原通知](https://b2b.csoe.org.cn/meeting/WPC2026.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14--aopc-2026)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c12制造精密工程与旧-imaging-后续核验)。
+- 全字段审阅范围：AOPC15届2026北京国家会议中心二期7/17–19是WPC学术组成，不与同场北京光子展重复计会议，更不与葡萄牙AOP同缩写合并。原当届网页300–500词英文摘要、口头/海报模板及独立学会摘要系统；6/20最后一轮摘要和7/31会后全文分别，摘要完成不等SPIE全文完成。T1–T19各专题独立全文入口与对应SPIE规范不借其他大会全文页限。顶部早鸟6/30和国内/国际费表6/20无法确认，registration日期null/冲突备注；录用邮件联系作者但日期null，日期级不补时刻。原PDF访问未成功，网页明确字段为依据，不称已读附件；合作期刊/文集列表、出版费不含注册都不保证期刊录用或单篇SCI/EI。C12现2026页及学会首页实际范围无下届日城，历史published原值不表示今天摘要仍开。
+- 日城与范围：2026-07-17–2026-07-19；中国 · 北京；国家会议中心二期，北京市朝阳区大屯甲路20号；submissionState published。
+- 逐字段截止及出处：最后一轮摘要截止：2026-06-20 [来源](https://b2b.csoe.org.cn/meeting/WPC2026.html)；论文全文提交截止：2026-07-31 [来源](https://b2b.csoe.org.cn/meeting/WPC2026.html)；早鸟日期冲突：官网 6/20 与 6/30：未知 [来源](https://b2b.csoe.org.cn/meeting/WPC2026.html)；录用通知（邮件；日期未明确）：未知 [来源](https://b2b.csoe.org.cn/meeting/WPC2026.html)
+- 本届条件出版原字段：官方列有 SPIE 会议论文集及合作期刊；合作列表不表示报告自动获期刊录用或单篇论文已被 EI/SCI 检索，出版费用不含在注册费中。
+- 本届范围/冲突原备注：历史届次。官网顶部早鸟日期为 6/30，而国内外费用表均以 6/20 分档，无法确认最终早鸟截止，故日期留空并保留冲突；2027 届未由本届推算。
+- 未解决内容及影响：早鸟6/20与6/30冲突/实际注册入口null，费用适用日期不可确定；通知PDF/模板与各专题完整全文格式、真实投稿系统内部未核验；实际合作期刊/文集单篇录用检索、下届日城未知
+- 维护触发：主办方明确早鸟更正、专题作者/出版通知或本系列新届公告出现后维护；不同专题及展览层级保持。
+- 完整记录内容摘要f4a97d9001c8500e0ba198892444c4a19fcea9b395f6ac4c743544bc3be0a2b8，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
+
+## aop-2026
+
+7th International Conference on Applications of Optics and Photonics (AOP 2026)；2026；AOP (SPOF)/series-f1ef1344e10c；admitted关联conference-series-aop-spof，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://aop2026.org/)、[原通知](https://aop2026.org/submissions.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14--葡萄牙-aop-2026)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c11六系列后续公告与-imid-2027)。
+- 全字段审阅范围：SPOF第7届AOP里斯本ISEL7/7–10与中国AOPC不同稳定系列、独立admitted；原自由摘要最多2500字符而非词，经官方Indico，不套Optica35词。首轮4/30、submission5/15 23:59 GMT和Indico会后8/1且占位仍不同，最终摘要null，不能换本地夏令时或因会后截止当重开。首轮公告PDF5/22通知6/7早鸟9/11全文标来源版本，不当最终多轮日期。已报告工作可另申请经正式评审全文、Word/LaTeX独立模板；摘要集与全文渠道不同，i-ETC PlatinumOA/CCBY-NC4.0和DOI不等期刊SCIE/EI，扩展合作专题需独立审稿，不将宣传Q填分区。注册JS正文费用未核实；C11实际2026会后首页照片/摘要集和SPOF新闻范围无下一届完整公告，两年周期不推出2028日城。
+- 日城与范围：2026-07-07–2026-07-10；葡萄牙 · 里斯本；ISEL Campus, Rua Conselheiro Emídio Navarro 1, 1957-007 Lisbon；submissionState published。
+- 逐字段截止及出处：摘要最终截止待核实（官方页面不一致）：未知 [来源](https://indico.fccn.pt/event/55/abstracts/)；首轮公告：录用通知：2026-05-22 [来源](https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf)；首轮公告：早鸟注册：2026-06-07 [来源](https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf)；首轮公告：全文提交：2026-09-11 [来源](https://aop2026.org/docs/AOP2026_1st_announcement_v5.pdf)
+- 本届条件出版原字段：摘要集与经同行评审的全文分别由 i-ETC 出版；全文采用 Platinum OA、CC BY-NC 4.0，单篇 DOI。扩展稿可另投合作期刊专题，不承诺录用、分区或索引。
+- 本届范围/冲突原备注：历史届次。首轮通知摘要截止为 4/30，投稿页为 5/15 23:59 GMT；Indico 又显示会后 8/1 截止且占位文本未更新，最终摘要截止留空。通知、早鸟及全文日期标明仅据首轮公告；注册页面需 JavaScript，本轮未核实费用。
+- 未解决内容及影响：三处摘要截止及占位冲突，最终日/时刻未知，无法确认为过去或会后可投的统一截止；真实注册费率/模板内部、评审全文出版条件与单篇索引未知，DOI非检索证明；下届日城/CFP未知，首轮PDF日期不可冒充最后通知
+- 维护触发：AOP主办方更正摘要/注册公告、正式文集或独立新届通知出现后维护；同名AOPC和周期推算均不继承。
+- 完整记录内容摘要b03cb18da2545b284683afc3721c1757151baad03c4917cad62e1235385f7cd7，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
+
+## eosam-2026
+
+European Optical Society Annual Meeting (EOSAM 2026)；2026；EOSAM/series-86cdd7a29672；admitted关联conference-series-f623de7866，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://www.europeanoptics.org/events/eos/eosam2026.html)、[原通知](https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14eosam-2026-欧洲综合光学年会)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c8后续届次与系列复查六系列)。
+- 全字段审阅范围：EOS/PhotonicsFinland等2026 Tampere8/24–28 ScandicRosendahl官网与Venue独立确认，不用2025Delft片段。普通4/14延到4/28、通知不晚6/5、早鸟/普通报告人6/15、追加海报7/15均仅日期；晚海报不能套更早普通付款期限或当oral延期。英文camera-ready170×250mm单栏PDF无链接、ConfTool指定报告人/主题/出版意愿；template1–2页与上传2页口径，选择文集明确2页，一页非出版稿适用未知。录用且现场报告、事先选择出版才可免费EDP OA文集/DOI，Crossref非SCIE/EI；扩展JEOS-RP专题独立审核。口头12+3分钟/A0竖版已核，但海报场次残2025不能贴入当届日程。C8 2027 Wroclaw9/27–30明确新公告优于旧总览地点待公布，2026两页/费用/报告规则不继承2027。
+- 日城与范围：2026-08-24–2026-08-28；芬兰 · 坦佩雷；Scandic Rosendahl Conference Center, Pyynikintie 13, Tampere；submissionState published。
+- 逐字段截止及出处：普通投稿（由 4 月 14 日延期）：2026-04-28 [来源](https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html)；普通投稿录用通知（不晚于）：2026-06-05 [来源](https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html)；早鸟及普通报告人注册：2026-06-15 [来源](https://www.europeanoptics.org/pages/events/eosam-2026/about/important-dates.html)；追加海报投稿：2026-07-15 [来源](https://www.europeanoptics.org/pages/events/eosam-2026/paper-submission/submission-guidelines.html)
+- 本届条件出版原字段：作者投稿时选择出版，经录用并报告的摘要可免费进入 EDP Sciences 的开放获取会议论文集，分配 DOI；扩展稿可另投 JEOS-RP 专题，按期刊要求审核，不将 Crossref 登记当作 SCI/EI 收录证明。
+- 本届范围/冲突原备注：历史届次。会场依据当届 Venue 页，为芬兰坦佩雷，未沿用 2025 年 Delft 会场。普通报告人 6 月 15 日注册要求早于追加海报截止，追加海报的注册安排需另询组织方；不擅自套用已过期截止。官网未给截止时刻，按日期保存。
+- 未解决内容及影响：非出版一页稿与追加海报作者注册适用、海报2025场次残留仍未解决；模板文件内部/完整最终节目、单篇文集/索引及扩展期刊录用未知；2027独立CFP/作者注册/出版规则未知，旧总览未更新不否定新日城
+- 维护触发：EOS明确2026场次/晚海报付款更正或2027独立CFP/作者通知发布后逐届维护；保留历史口径冲突。
+- 完整记录内容摘要f1d4ae1258ac164c48c4ca675465933e062532a56a426770de5aed744ea93043，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
+
+## icols-2027
+
+27th International Conference on Laser Spectroscopy (ICOLS XXVII)；2027；ICOLS/series-02a841634310；admitted关联conference-series-00138dcea7，原checkedAt 2026-09-14。
+
+- 身份/当届来源：[原入口](https://icols2027.com/)、[原通知](https://icols2027.com/)；[原实际记录1](VERIFICATION_LOG.md#2026-09-14icols-xxvii-与-ico-27-预告)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-02.md)、[原实际记录3](CONFERENCE_EVIDENCE_2026-10-03.md#c10已有未来预告的字段缺口五系列)。
+- 全字段审阅范围：第27届InternationalConferenceonLaserSpectroscopy/ICOLSXXVII2027/7/12–16澳大利亚K'gari KingfisherBayResort独立稳定身份，不与OpticsLasersandSpectroscopy同缩写会议混。原9/14官方日城预告、10/2正常浏览器超时后成功及10/3当前首页都只通知意向登记，不能把表单认正式注册或已接受摘要。摘要格式、平台、评审、截止、论文集索引、正式注册和完整程序均未公告，registrationnull和submissionStateunknown/两未知DDL相符；不沿上届格式或造周期日期。本批只审核已成功原范围/字段和admitted对应，不再重复请求同未变homepage或填意向表，日城事实不需要伪补投稿以准入。
+- 日城与范围：2027-07-12–2027-07-16；澳大利亚 · 昆士兰 K’gari；Kingfisher Bay Resort, K’gari；submissionState unknown。
+- 逐字段截止及出处：摘要投稿截止待公布：未知 [来源](https://icols2027.com/)；正式注册安排待公布：未知 [来源](https://icols2027.com/)
+- 本届条件出版原字段：当届论文集、出版形式与检索安排尚未公布。
+- 本届范围/冲突原备注：当前仅开放接收后续通知的意向登记，不代表已完成会议注册，也不承诺参会。正式注册、摘要投稿和完整日程均待公布；不与同缩写的 Optics, Lasers and Spectroscopy 会议混同。
+- 未解决内容及影响：摘要材料/CFP/评审与截止、正式注册费率/付款日期未知，意向登记不承诺参会；本届文集/出版形式/索引未知，精密激光光谱主题不证明数据库收录；后续完整程序与更远下一届未知，不按周期补日期
+- 维护触发：ICOLS2027官方正式CFP、注册或出版公告出现后维护；已多次不变主页停止复查。
+- 完整记录内容摘要3a91b588755bbfac6db3cfd7cc5b38aafcd50e9e637432a130880226db581982，基于341992e56441cdb9669ac33e16b1a8ccf3252129；非官网内容指纹，未知不冒充已补齐。
