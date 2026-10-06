@@ -1415,3 +1415,91 @@ IEEE International Solid-State Circuits Conference 2027；2027；IEEE Internatio
 - 未解决内容及影响：六日措辞与五日明列冲突保留，未知详细作者指南/模板/实际系统；费用/通知/注册及真实索引载体条件未知，journal邀请不保录；2028仅城市月份，不推具体日，不把OnDemand当远程报告许可
 - 维护触发：正式详细CFP/作者注册或2028明确日程发布后维护，不重复不变1pFirstCFP。
 - 完整记录内容摘要0e1ddbd7cbbdbcbed33025eebaae579ad119863d647c0391c3097b8f4af2d03b，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AI
+
+实际全文读取六届JSON、稳定series及admitted关系、C16/C17/C18逐字段来源表与原PDF可见范围/时区专项。ISBI2027作者指南与注册公开正文第二有效请求（10/3计首次）成功缓存今天，4+1p/线下与注册ComingSoon不变，停止同未变源；不下载旧模板/账号系统。其他复用原实际已核来源，历史与未来及两个全国光子届分别判断；data、原checkedAt、冻结名单均保持，不声称今天重新全站核验。 累计正式质量222/252，余30未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## isprs-2026
+
+XXV ISPRS Congress 2026；2026；ISPRS Congress/series-db763d6c1679；admitted关联conference-series-db763d6c16，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.isprs2026toronto.com/)、[原通知](https://www.isprs.org/congresses/toronto2026/default.aspx)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c16isprs历史与未来同系列独立规则)。
+- 全字段审阅范围：ISPRS学会2026目录XXV和当届已结束主页确证Toronto7/4–11/2026，主页47th为共址CSRS非ISPRS届数；MTCC SouthBuilding来自VenueInfo不是温哥华秘书处地址。Themes光学子集多高光谱热成像LiDAR校准视觉计量三维，微波等不泛光学。PresenterQuickGuide口头12min+3QA、PPT/PDF建议16:9提前上传备份、poster高46宽45英寸116.8×114.3cm内优先portrait也可横，上传具体日未知非paperfinal。学会目录Archives XLIX/同行评审Annals XI及proceedings汇总分委员会与共址CSRS分别；未逐篇/全文评审规则不保证实际索引，历史稿型模板篇幅/投稿日/fees/注册未知，unknown不因会已结束伪补closed。未来2030独立模板，不推2029完整日期。
+- 日城与范围：2026-07-04–2026-07-11；加拿大 · 多伦多；Metro Toronto Convention Centre — South Building；submissionState unknown。
+- 逐字段截止及出处：历史普通投稿截止本轮未核实：未知 [来源](https://www.isprs.org/congresses/toronto2026/default.aspx)；历史注册截止与费用本轮未核实：未知 [来源](https://www.isprs2026toronto.com/)
+- 本届条件出版原字段：学会2026目录链接ISPRS Archives XLIX与同行评审ISPRS Annals XI的分委员会论文集。只核出版目录及本届汇总入口，没有逐篇检索、完整审稿政策或索引保证；共址CSRS出版单独区分。
+- 本届范围/冲突原备注：当届主页明确已经结束。会期/届号来自ISPRS学会目录，场馆来自Venue Info，适配来自Themes & Topics，报告要求来自Presenter Quick Guide。主页47th为共址加拿大遥感研讨会，不是ISPRS届号；历史投稿/注册日期和费率未知。
+- 未解决内容及影响：历史稿型模板篇幅/投稿注册费日及时刻未知，报告准备不替投稿；论文集仅目录/汇总范围未逐篇读评审及真实索引，CSRS另区分；2030稿规不可继承、2029只有年份，未知后续具体日
+- 维护触发：历史ISPRS作者及出版档案或后续独立CFP公开后维护，旧同不变目录不重复检索。
+- 完整记录内容摘要fd16ad5a15da33b5d099af82efbbb6c5fd64ff3c5ea95e8db56ea23a27f53076，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。
+
+## isprs-2030
+
+XXVII ISPRS Congress 2030；2030；ISPRS Congress/series-db763d6c1679；admitted关联conference-series-db763d6c16，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.isprs.org/news/announcements/default.aspx)、[原通知](https://www.isprs.org/news/announcements/default.aspx)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c16isprs历史与未来同系列独立规则)。
+- 全字段审阅范围：学会8/6公告2030 Incheon XXVII6/29–7/6，8/7说明自2029年起年会与Sydney2029XXVI，覆盖旧6月XXVI2030招标届号；不凭旧四年或新一年周期生成日期。学会正式直链HTTP opusk2030在正常浏览器成功正文SongdoConvensiA，工具自动HTTPS超时非事实/未改URL；目录保留HTTPS学会sources，HTTP出处文档保留而不冒充HTTPS日巡覆盖。仅日城/主办场馆预告，具体2030topicCFP系统稿型模板篇幅review/注册fees与出版索引全部未知，2026 Archives/Annals或12minposter不可沿用。Sydney主页2029/2030混标题不否正文而仍未取得完整日期不正式新增。
+- 日城与范围：2030-06-29–2030-07-06；韩国 · 仁川；Songdo ConvensiA（主办方预告，待后续正式日程复核）；submissionState unknown。
+- 逐字段截止及出处：2030征稿尚待官方公布：未知 [来源](https://www.isprs.org/news/announcements/default.aspx)；2030注册安排尚未核实：未知 [来源](https://www.isprs.org/news/announcements/default.aspx)
+- 本届条件出版原字段：2030出版及索引条件尚未核实；不以2026 Archives/Annals出版目录保证本届相同路径或数据库收录。
+- 本届范围/冲突原备注：依据学会2026-08-06公告确认2030-06-29至07-06、XXVII和仁川；8/7公告另列2029悉尼XXVI及自2029年起年会安排，覆盖旧6月XXVI2030招标届号。学会所链http://opusk.org/isprs2030/在正常浏览器读到Songdo ConvensiA；网页工具HTTPS自动转向超时不当事实来源。目录入口保留已读HTTPS学会公告。
+- 未解决内容及影响：2030征稿稿规评审/注册费用和各截止均未公告或未核；场馆为主办预告/HTTP实际浏览范围，HTTPS日巡不直接覆盖它；具体出版索引/主题未知，不继承2026；2029完整日期未核
+- 维护触发：2030当届正式CFP/注册与日程场馆复核或2029完整会期发布后维护，年会安排不推算。
+- 完整记录内容摘要9b92b167cc76ff6695a3a3054bd8ebf995de3d673f7507fc505cb2e4636c9017，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。
+
+## isbi-2027
+
+IEEE International Symposium on Biomedical Imaging 2027；2027；IEEE ISBI/series-fb2f40a8a5d6；admitted关联conference-series-fb2f40a8a5，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://biomedicalimaging.org/2027/)、[原通知](https://biomedicalimaging.org/2027/papers/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c17isbiiisw成像与器件)。
+- 全字段审阅范围：IEEE2027主页场馆/SPS与一页CFP真实图确证5/25–28 Lausanne EPFL Ecublens SwissTech，通讯25th对活动24th冲突未取届号。跨尺度图像形成/重建/多模态物理等生医光学子集不全会。作者指南二读仍单盲普通4p技术图表，付$200第5p仅伦理/ack冲突/refs且注册时付款币种未核，总最多5、第一author≤2、EDAS不email未登录。伦理/无伦理需要与无冲突均需说明、AI生成内容声明、editing语法建议非强制，先非评审preprint边界不等于允许已正式发表/并投。全部inperson未报告撤回；1p abstract只poster不归档。普通10/26/2026、notice1/12、final1/26、abstract2/1notice2/15/2027各date，首页冬USAEDT歧义不造UTC；提案/Workshop/Challenge独立。模板2025路径仅link未包内核，注册二读仍ComingSoon保留null。CFP声明普通Xplore≠实际索引。
+- 日城与范围：2027-05-25–2027-05-28；瑞士 · 洛桑（EPFL校园，Ecublens）；SwissTech Convention Center；submissionState published。
+- 逐字段截止及出处：普通四页论文截止（原文23:59 USA EDT，时区解释待核）：2026-10-26 [来源](https://biomedicalimaging.org/2027/)；普通论文结果通知：2027-01-12 [来源](https://biomedicalimaging.org/2027/)；普通论文最终稿截止（冬季EDT解释待核）：2027-01-26 [来源](https://biomedicalimaging.org/2027/)；一页非出版摘要截止（冬季EDT解释待核）：2027-02-01 [来源](https://biomedicalimaging.org/2027/)；一页摘要结果通知：2027-02-15 [来源](https://biomedicalimaging.org/2027/)；注册开放/费用及截止尚待公布：未知 [来源](https://biomedicalimaging.org/2027/registration/)
+- 本届条件出版原字段：官方2027 CFP说明录用普通四页论文由IEEE Xplore出版；一页摘要海报不作档案出版。作者指南要求线下报告，未报告撤回；具体数据库实际索引仍待核，不保证自动EI/SCIE。
+- 本届范围/冲突原备注：主页/指南于10/3读取，官方CFP于10/4下载并渲染目视完成本批核验。首页所有截止写23:59 USA(EDT)，冬季日期与常规季节时制不一致，暂保存日期和原文，不造精确UTC。SPS9月通讯称25th、活动列表称24th，名称不取冲突届号。专题/教程/Workshop/Demo提案9/21 2026已过，Workshop论文1/26与Challenge论文2/26 2027为独立路径，非普通稿。注册页仍Coming Soon，费用/截止未知。
+- 未解决内容及影响：冬季USA EDT解释/冲突届数未解决，精确UTC不生成；2025路径模板内容/EDAS实际开启与$币种、注册费日未知；录用线下要求不保证实际索引，1p海报无档案出版
+- 维护触发：主办明确时区/届号及2027模板注册费表后维护；作者与注册同不变来源两次停止。
+- 完整记录内容摘要79ae0ef60ef65d43a3e4d82f58efc6e86e1f70c67bf9c9f7115c0227bfe52e17，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。
+
+## iisw-2027
+
+International Image Sensor Workshop 2027；2027；International Image Sensor Workshop/series-9ca7e0e9c4a2；admitted关联conference-series-3539dba22a，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://imagesensors.org/2027-international-image-sensor-workshop/)、[原通知](https://imagesensors.org/CFP2027/fcfp2027.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c17isbiiisw成像与器件)。
+- 全字段审阅范围：IISS当届page+两页首轮CFP真实渲染确证2027/6/13–17 WhistlerWestinResortSpa，抽取不可见2017旧层以可见2027两页为准，网页无关文字不作事实。CMOSCCD/SPADToF结构光光谱偏振片上光学生医实际器件贡献。首轮1p正文≤500words+最多2p图总≤3、author单位联系方式明列非双盲，保密TPC原创/质量也欢迎进展中；CMT只link不login8/1计划非实开。abstract12/10/2026原23:59PST，BC政府9/17已读确认3/8后常年UTC−07/PCT与Intl一致，但PST到底固定美国标准或本地未核不能换美国city绕校验，保留date。通知by2/12/2027、final4p3/20、demo材料4/30日期级且不混普通deadline，报告类型/时长模板unknown、限人数优先报告者费用待Final。四页final不证明归档索引。
+- 日城与范围：2027-06-13–2027-06-17；加拿大 · 不列颠哥伦比亚省 Whistler；The Westin Resort & Spa；submissionState published。
+- 逐字段截止及出处：摘要截止（原文23:59 PST，所指时区待核）：2026-12-10 [来源](https://imagesensors.org/CFP2027/fcfp2027.pdf)；摘要录用通知（不晚于本日）：2027-02-12 [来源](https://imagesensors.org/CFP2027/fcfp2027.pdf)；最终4页论文提交：2027-03-20 [来源](https://imagesensors.org/CFP2027/fcfp2027.pdf)；注册与费用待Final Announcement：未知 [来源](https://imagesensors.org/CFP2027/fcfp2027.pdf)
+- 本届条件出版原字段：本届首轮CFP要求最终4页论文，但未核实公开归档、会议论文集或索引条件；不因学会主办、CMT评审或历史出版方式保证EI/SCIE。
+- 本届范围/冲突原备注：官方PDF两页于10/4下载并渲染目视：可见2027内容与首页会期/场馆一致。文本提取含不可见2017模板层，未采用其旧日期/规则；网页无关段落不作会议依据。摘要截止原文23:59 PST，但BC自2026改为全年UTC−07，未证实此PST指美国固定标准时或当地时间，暂保存日期级，不据场馆自动换算；通知为by2/12、最终论文3/20与演示材料4/30未给时刻，均日期级。
+- 未解决内容及影响：PST含义与BC常年UTC−07冲突未释，不造准确UTC；final模板/口头flash时长与注册费日/真实CMT开启未知；4p要求不证明具体公开归档/实际数据库，旧2017隐藏层不采用
+- 维护触发：Final Announcement明确时区、报告注册模板和出版路径后维护，不重取未变CFP或替换时区绕校验。
+- 完整记录内容摘要86e93a06cea1cb96bc1aaa5e3d581c1550cd2e4dafdf0c9b483d3225b5662adb，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。
+
+## national-photonics-2025
+
+14th National Conference on Photonics 2025；2025；全国光子学学术会议/series-bcf898110ecf；admitted关联conference-series-bcf898110e，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://meeting.cncos.org.cn/photonics2025/)、[原通知](https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c18全国光子学20252026与后续线索)。
+- 全字段审阅范围：2025当届主页及第三轮9页文字与1/5–8页实际目视，第14届8/15–17哈尔滨华旗饭店国际会议中心，光纤芯片超快瞬态微纳信息光子5专题，未逐条报告/完整手册。中文abstract首轮6/30→第二7/20date，讲创新/理论实验可图、student/teacher职称、每registered≤3；模板页限匿名未知。SPIE英文独立8/14摘要录用后注册系统扩全文仍全文审，不把中文交流当出版。第三轮允许已发表/已投稿交流但再出版许可/平台规则未知；SPIEDL与送CPCI/EI是组织方声明非真实索引。支持期刊另投网站备注第14届仍期刊审核。8/1含当日教师2000/student1500RMB后2500/2000、SPIE每篇另1200最多3，历史网站/现场不作当前价格；poster模板仅link未知尺寸。旧双年说明被真实2025/26两届覆盖，2026不复制。
+- 日城与范围：2025-08-15–2025-08-17；中国 · 黑龙江哈尔滨；哈尔滨华旗饭店国际会议中心；submissionState published。
+- 逐字段截止及出处：中文摘要第二轮截止（历史）：2025-07-20 [来源](https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf)；SPIE英文全文截止（历史，独立路径）：2025-08-14 [来源](https://meeting.cncos.org.cn/photonics2025/)；早期参会费最后一天（含8月1日，历史）：2025-08-01 [来源](https://meeting.cncos.org.cn/photonics2025/doc/2025-3rd.pdf)
+- 本届条件出版原字段：2025第三轮通知：经全文审稿的英文稿收录SPIE Digital Library，并提交CPCI/EI Compendex检索；仅为当届组织方出版/送检声明，本轮未核实际论文数据库索引。支持期刊投稿另走期刊审核，非会议保证接收。
+- 本届范围/冲突原备注：官网旧背景称每两年举办，但已有2025/2026实际独立当届证据，不能据此推算后届。6月30日为第一轮，7月20日中文摘要第二轮与8月14日英文全文分别保存；精确截止时刻/通知与终稿日未知。海报模板只核链接，未读尺寸，不能套2026尺寸。
+- 未解决内容及影响：中文abstract字数模板/匿名与poster尺寸未知，通知/终稿/精确时刻未核；已发表交流不证明再出版许可，SPIE送检非实际索引；注册/出版价格只2025，2026规则不同、后续具体日城未知
+- 维护触发：2025历史再出版/归档/模板资料或后续独立公告公开后维护，中文摘要与SPIE全文及期刊分开。
+- 完整记录内容摘要3ad366dc653d075ce01325d1a72a0e2d119456312b9eca4ad1f8550dae9579c1，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。
+
+## national-photonics-2026
+
+15th National Conference on Photonics 2026；2026；全国光子学学术会议/series-bcf898110ecf；admitted关联conference-series-bcf898110e，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://meeting.cncos.org.cn/photonics2026/)、[原通知](https://meeting.cncos.org.cn/photonics2026/doc/tz3.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c18全国光子学20252026与后续线索)。
+- 全字段审阅范围：2026第三轮一页长图首段日程征文fees酒店实渲染+承办9/4报道确证第15届8/12–15绵阳科发铂骊酒店，8/16返程非会期、主分会同酒店4专题未逐条150余报告。中文abstract创新具体理论实验/可图/身份职称、选oralposterinvited意向最后会务决定，截止页词限匿名未知；墙报1×1.5m仅模板PPTX链接未内部/朝向核。2026仅支持期刊绿色通道另投网站备注仍审核，未证统一SPIE会议录，旁列期刊索引非会稿。第三轮教师2500/student2000RMB线上现场電子invoice，7/15early费率/退款unknown不套2025；公开注册入口实际读不填，公共paper系统现在学会大会非本series仍open。23,493,441byte PDF超日巡5MB为人工核证不是未读，原SHA与可见年费明确。报道选南昌大学承办2027第16届仅主办单位，具体举办城市/日/CFP不推校址或周期。
+- 日城与范围：2026-08-12–2026-08-15；中国 · 四川绵阳；绵阳科发铂骊酒店；submissionState published。
+- 逐字段截止及出处：中文摘要截止未在已读当届通知确认：未知 [来源](https://meeting.cncos.org.cn/photonics2026/doc/tz3.pdf)；早鸟截止（历史；早鸟金额未核）：2026-07-15 [来源](https://meeting.cncos.org.cn/photonics2026/)
+- 本届条件出版原字段：2026第三轮通知仅说明支持期刊绿色通道，经期刊审核录用后优先发表；本轮未确认统一会议论文集或当届SPIE路径。支持期刊旁索引标注不证明会议论文实际索引，不保证自动EI/SCIE。
+- 本届范围/冲突原备注：承办方9月报道确认8月12–15日在绵阳举行；第三轮日程8月16日为返程，不作会期结束日。报道还确认南昌大学承办2027年第十六届，但具体会期、举办城市/场馆和征稿尚未知；仅留后续线索不推算日期。公共投稿系统现显示中国光学学会学术大会，不能据此当作本系列仍开放。第三轮PDF实际23,493,441字节超过巡检5MB上限，需人工检查，不声称字节指纹全覆盖。
+- 未解决内容及影响：中文abstract截止词页限/匿名及poster模板朝向内部未知；7/15early价格/退款及最终author日与统一出版真实索引未知；大PDF只人工核读不能冒充5MB日巡覆盖，2027仅承办大学线索
+- 维护触发：正式2027日城/CFP或2026历史稿规归档公开后维护；大PDF按人工范围保留，不扩大自动上限/继承2025出版。
+- 完整记录内容摘要2f57ee178a790cce76b9cb00f59d223411d996588e629d73d622d24d98428868，基于976025828bf45903e3ba5c267fe6cf498c97e6ce；非官网内容指纹，未知不冒充已补齐。

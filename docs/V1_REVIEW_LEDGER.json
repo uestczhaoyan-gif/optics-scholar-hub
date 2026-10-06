@@ -6187,6 +6187,150 @@
         "2028仅城市月份，不推具体日，不把OnDemand当远程报告许可"
       ],
       "maintenanceTrigger": "正式详细CFP/作者注册或2028明确日程发布后维护，不重复不变1pFirstCFP。"
+    },
+    {
+      "kind": "conference",
+      "id": "isprs-2026",
+      "seriesId": "series-db763d6c1679",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "fd16ad5a15da33b5d099af82efbbb6c5fd64ff3c5ea95e8db56ea23a27f53076",
+      "formalReviewBase": "976025828bf45903e3ba5c267fe6cf498c97e6ce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#isprs-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "历史稿型模板篇幅/投稿注册费日及时刻未知，报告准备不替投稿",
+        "论文集仅目录/汇总范围未逐篇读评审及真实索引，CSRS另区分",
+        "2030稿规不可继承、2029只有年份，未知后续具体日"
+      ],
+      "maintenanceTrigger": "历史ISPRS作者及出版档案或后续独立CFP公开后维护，旧同不变目录不重复检索。"
+    },
+    {
+      "kind": "conference",
+      "id": "isprs-2030",
+      "seriesId": "series-db763d6c1679",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9b92b167cc76ff6695a3a3054bd8ebf995de3d673f7507fc505cb2e4636c9017",
+      "formalReviewBase": "976025828bf45903e3ba5c267fe6cf498c97e6ce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#isprs-2030",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2030征稿稿规评审/注册费用和各截止均未公告或未核",
+        "场馆为主办预告/HTTP实际浏览范围，HTTPS日巡不直接覆盖它",
+        "具体出版索引/主题未知，不继承2026；2029完整日期未核"
+      ],
+      "maintenanceTrigger": "2030当届正式CFP/注册与日程场馆复核或2029完整会期发布后维护，年会安排不推算。"
+    },
+    {
+      "kind": "conference",
+      "id": "isbi-2027",
+      "seriesId": "series-fb2f40a8a5d6",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "79ae0ef60ef65d43a3e4d82f58efc6e86e1f70c67bf9c9f7115c0227bfe52e17",
+      "formalReviewBase": "976025828bf45903e3ba5c267fe6cf498c97e6ce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#isbi-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "冬季USA EDT解释/冲突届数未解决，精确UTC不生成",
+        "2025路径模板内容/EDAS实际开启与$币种、注册费日未知",
+        "录用线下要求不保证实际索引，1p海报无档案出版"
+      ],
+      "maintenanceTrigger": "主办明确时区/届号及2027模板注册费表后维护；作者与注册同不变来源两次停止。"
+    },
+    {
+      "kind": "conference",
+      "id": "iisw-2027",
+      "seriesId": "series-9ca7e0e9c4a2",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "86e93a06cea1cb96bc1aaa5e3d581c1550cd2e4dafdf0c9b483d3225b5662adb",
+      "formalReviewBase": "976025828bf45903e3ba5c267fe6cf498c97e6ce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iisw-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "PST含义与BC常年UTC−07冲突未释，不造准确UTC",
+        "final模板/口头flash时长与注册费日/真实CMT开启未知",
+        "4p要求不证明具体公开归档/实际数据库，旧2017隐藏层不采用"
+      ],
+      "maintenanceTrigger": "Final Announcement明确时区、报告注册模板和出版路径后维护，不重取未变CFP或替换时区绕校验。"
+    },
+    {
+      "kind": "conference",
+      "id": "national-photonics-2025",
+      "seriesId": "series-bcf898110ecf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "3ad366dc653d075ce01325d1a72a0e2d119456312b9eca4ad1f8550dae9579c1",
+      "formalReviewBase": "976025828bf45903e3ba5c267fe6cf498c97e6ce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#national-photonics-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "中文abstract字数模板/匿名与poster尺寸未知，通知/终稿/精确时刻未核",
+        "已发表交流不证明再出版许可，SPIE送检非实际索引",
+        "注册/出版价格只2025，2026规则不同、后续具体日城未知"
+      ],
+      "maintenanceTrigger": "2025历史再出版/归档/模板资料或后续独立公告公开后维护，中文摘要与SPIE全文及期刊分开。"
+    },
+    {
+      "kind": "conference",
+      "id": "national-photonics-2026",
+      "seriesId": "series-bcf898110ecf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "2f57ee178a790cce76b9cb00f59d223411d996588e629d73d622d24d98428868",
+      "formalReviewBase": "976025828bf45903e3ba5c267fe6cf498c97e6ce",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#national-photonics-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "中文abstract截止词页限/匿名及poster模板朝向内部未知",
+        "7/15early价格/退款及最终author日与统一出版真实索引未知",
+        "大PDF只人工核读不能冒充5MB日巡覆盖，2027仅承办大学线索"
+      ],
+      "maintenanceTrigger": "正式2027日城/CFP或2026历史稿规归档公开后维护；大PDF按人工范围保留，不扩大自动上限/继承2025出版。"
     }
   ],
   "coreSeriesReviews": [

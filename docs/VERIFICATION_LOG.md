@@ -1717,3 +1717,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AH实审6届会议全部字段，正式质量累计216/252（109刊/97届/10活动）、余36；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 已完整实读六届JSON、稳定系列及admitted关系、C25 ICAP/ISSCC原PDF实际页范围和C21器件各独立规则。ISSCC LBN第二有效请求（10/4首次）成功，10/7工业生产级产品意向截止仍有效且非普通稿延长；MEMS abstract_submission第二有效请求InternalError未正文，OpenPoster定义第二成功（工具缓存两天前）仍10/27而非系统旧Thursday4December，不消除原冲突；同未变源停止两次。其余复用原实际证据，不新下载模板/登录或继承不同届规则；data/原checkedAt保持，本批正式质量日期不冒充全站新核验。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ah)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结字节及旧210正式42候选G4G5final保护、216唯一摘要与六当届admitted系列关系断言通过；679本地文件链接、六文档完整实际差异/git diff --check通过。纯文档复用Quantum已验收89af摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收部署和线上版本；ISSCC工业LBN二读未改变规则，MEMS冲突未解决不改日期。
+
+## 2026-10-06：正式会议质量 V1-G2AI
+
+- 976025828bf45903e3ba5c267fe6cf498c97e6ce已验收[Pages 37435747851](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37435747851)；同SHA build/deploy成功、首页/版本200，摘要89af4b5d0767cadd266ef252c77c58a9930385e12e820c220ea8a6a436e56bbe匹配本地（2026-10-06T08:25:13.143Z）。编辑前HEAD=origin/main；work/V1-G2AI-plan.json长操作前保护真实范围。
+- V1-G2AI实审6届会议全部字段，正式质量累计222/252（109刊/103届/10活动）、余30；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际全文读取六届JSON、稳定series及admitted关系、C16/C17/C18逐字段来源表与原PDF可见范围/时区专项。ISBI2027作者指南与注册公开正文第二有效请求（10/3计首次）成功缓存今天，4+1p/线下与注册ComingSoon不变，停止同未变源；不下载旧模板/账号系统。其他复用原实际已核来源，历史与未来及两个全国光子届分别判断；data、原checkedAt、冻结名单均保持，不声称今天重新全站核验。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ai)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data及冻结字节/旧216正式42候选G4G5final保护、222唯一摘要与六admitted系列关系断言通过；689本地文件链接、六文档完整实际差异及git diff --check通过。纯文档复用已验收89af摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收部署线上版本。ISBI二读未填ComingSoon注册，IISW时区及全国光子2027日城保持unknown，2025/2026出版分别。
