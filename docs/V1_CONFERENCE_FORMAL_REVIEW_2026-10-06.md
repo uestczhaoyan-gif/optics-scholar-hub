@@ -1799,3 +1799,63 @@ SPIE Photomask Technology + Extreme Ultraviolet Lithography 2026；2026；SPIE P
 - 未解决内容及影响：普通final6/30对7/8冲突未释、中文篇幅/模板非涉密文件内部未知；出版4–6p与poster80×90只是link标签，合同/实际index未知；2025费用日期不移2026，2027具体联合身份日城尚未核
 - 维护触发：CSOE更正final日期、公开完整历史模板/出版资料或下一联合组合日城CFP后维护，按届保留伙伴身份。
 - 完整记录内容摘要bcc1c60b16dad113790066c85b43ccfa08ea6314efb64289709d15ff05ce93c8，基于72f90cf27fe75b4d6928517549facc4a45c5f72a；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AN
+
+完整审读四届正式JSON、stable系列/admitted关系和C27原实际官方核验范围。TRANSDUCERS时间区、Globecom普通/Workshop路径、ICC初稿/录用加页与未来届次逐字段分开；复用既有实际证据，不对未变化的作者页超时或未来占位作重复请求。四当届全部data与原checkedAt保留，未知不据前届或IEEE标识补齐。 累计正式质量246/252，余6未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## transducers-2027
+
+25th International Conference on Solid-State Sensors, Actuators and Microsystems — Transducers 2027 / EUROSENSORS XXXIX；2027；International Conference on Solid-State Sensors, Actuators and Microsystems/series-1ef409cd70cf；admitted关联conference-series-8155a8a3f6，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.transducers-eurosensors2027.org/)、[原通知](https://www.transducers-eurosensors2027.org/authors/deadlines.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c27transducers--globecom--icc2026-10-04)。
+- 全字段审阅范围：第25届固态传感器/执行器/微系统与EUROSENSORS XXXIX是2027当届联合身份，不永久合并伙伴。Stockholm Waterfront2027/6/20–24；CityHall欢迎和VasaMuseum晚宴不是主venue，Optical/Photonic/AtomicTransducers只是综合主题子集。官方所有作者日期明示HST：AbstractPDF2026/12/8 23:59且NoExtensions、notice2027/2/18、AuthorAcceptanceDue2/23为接受确认而非注册付款、Manuscripts4/13为录用后终稿不冒充普通初稿。节目CET或瑞典夏令时不替换作者HST。初稿/全文长度模板、匿名审查、投稿平台和出版权利/费用/实际索引未核，不继承2025；Registration实际打开仅标题导航没有费率或开放状态，非null链接不等于费用已知。未来2029只有节目宣布安排，未给实际日城，不能生成未来正式届。
+- 日城与范围：2027-06-20–2027-06-24；瑞典 · 斯德哥尔摩；Stockholm Waterfront；submissionState published。
+- 逐字段截止及出处：本届初始摘要PDF截止（官方不延长）：2026-12-08T23:59:00-10:00 / Pacific/Honolulu [来源](https://www.transducers-eurosensors2027.org/authors/deadlines.html)；本届摘要作者通知：2027-02-18T23:59:00-10:00 / Pacific/Honolulu [来源](https://www.transducers-eurosensors2027.org/authors/deadlines.html)；Dates统一声明所有日期终点23:59HST。；本届录用后 Manuscripts Due：2027-04-13T23:59:00-10:00 / Pacific/Honolulu [来源](https://www.transducers-eurosensors2027.org/authors/deadlines.html)；录用后稿件，不当初始普通全文截止；篇幅与模板待核。；本届作者注册/费用待公告：未知 [来源](https://www.transducers-eurosensors2027.org/attendees/registration.html)
+- 本届条件出版原字段：当届具体论文集/版权、录用后稿件页数及实际索引未核；网站IEEE页脚/联合身份不能替代出版或单篇检索证据。
+- 本届范围/冲突原备注：完整活动6/20–24；City Hall欢迎活动和Vasa Museum晚宴不当主会场。系列名保留Transducers，EUROSENSORS只属本届联合身份，不将两系列永久合并或另造重复母会。2029 announcement只是计划环节，无下一届日城不生成正式届；节目现场时区文字CET与瑞典夏季时区可能有歧义，不据此改已明确摘要HST。
+- 未解决内容及影响：初稿/终稿长度模板审查平台与出版条件/实际索引未核；注册页无费率开放状态退款条款，作者2/23确认不等于注册；2029具体日城未知；伙伴按2027联合身份保留
+- 维护触发：本届完整作者模板/注册费率与出版条件或未来2029专属日城公开后维护；已知HST不反复查询。
+- 完整记录内容摘要a254bfb72865b44d5310f3f362eaf81346396c1b29d5d937413d7f3e23e34a25，基于62b6423e80b7990063e80fb1894f0585dbffdaf1；非官网内容指纹，未知不冒充已补齐。
+
+## ieee-globecom-2026
+
+IEEE Global Communications Conference 2026；2026；IEEE Global Communications Conference/series-0851dd99df84；admitted关联conference-series-3e1fcaac43，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://globecom2026.ieee-globecom.org/)、[原通知](https://globecom2026.ieee-globecom.org/authors/call-symposium-papers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c27transducers--globecom--icc2026-10-04)。
+- 全字段审阅范围：当届首页/CFP与ComSoc表互证Macau2026/12/7–11，具体venue未知；光学关联限ONS OpticalNetworksandSystems，母会technicalsymposia与workshop/industry不同通道。普通Firm5/3、notice8/1、修订final与authorreg9/8均日期级已过，不编时刻。GenericWorkshop延8/19、notice10/5、final10/14独立且后两为已投稿录用工作流程，不当普通新可投机会，各专题具体日期未知。ONS/EDAS/CFP链接不等于内部文件/提交表读完；submission-guidelines普通浏览超时与内部读取限制已有实证，不重试绕过。篇幅匿名/加页费/no-show/Xplore条件未知，不能移植ICC6/7页US100。Registration只有入口不能当费率已核；未来日城未知不按年度推。
+- 日城与范围：2026-12-07–2026-12-11；中国 · 澳门；具体场馆待当届官方核实；submissionState published。
+- 逐字段截止及出处：普通Symposia最终论文截止（Firm，已过）：2026-05-03 [来源](https://globecom2026.ieee-globecom.org/authors/call-symposium-papers)；普通Symposia录用通知：2026-08-01 [来源](https://globecom2026.ieee-globecom.org/authors/call-symposium-papers)；普通Symposia更新后终稿上传：2026-09-08 [来源](https://globecom2026.ieee-globecom.org/authors/call-symposium-papers)；普通Symposia更新后作者注册：2026-09-08 [来源](https://globecom2026.ieee-globecom.org/authors/call-symposium-papers)；独立Workshop通用延长投稿截止（已过）：2026-08-19 [来源](https://globecom2026.ieee-globecom.org/authors)；需各Workshop核主题和特定安排，不当光学主会延长。；独立Workshop通用更新后通知：2026-10-05 [来源](https://globecom2026.ieee-globecom.org/authors)；独立Workshop通用更新后终稿：2026-10-14 [来源](https://globecom2026.ieee-globecom.org/authors)；仅已录用Workshop，不是新普通稿截止。
+- 本届条件出版原字段：本届具体出版与提交IEEE Xplore条件尚未从当届细则核实；ComSoc/IEEE身份不作实际EI/SCIE单篇检索保证。
+- 本届范围/冲突原备注：澳门日城同时见本届主页/普通CFP与ComSoc官方表。当前普通投稿已过，Workshop通知/终稿仅适用于已提交/录用稿，不是新普通论文入口。Registration链接已确认，费率/开放未读。Guidelines普通网络超时，保留未知；不借旧届或其他ComSoc会议补规则。
+- 未解决内容及影响：投稿指南已有超时/读取限制，正文篇幅匿名费用与Xplore条件未核；具体场馆/注册费率和个别workshop截止未核；普通截止已过、workshop终稿非普通征稿；未来日城未知
+- 维护触发：官方可正常读取的本届完整指南、费用/场馆及专题更正公开后维护；原受限入口不继续重复。
+- 完整记录内容摘要d00dd05b3ba5b42d3f2dbe01b8a079818ae2aea0380fcdf9aff97d0b5ff82538，基于62b6423e80b7990063e80fb1894f0585dbffdaf1；非官网内容指纹，未知不冒充已补齐。
+
+## ieee-icc-2026
+
+IEEE International Conference on Communications 2026；2026；IEEE International Conference on Communications/series-9cb65feca0a5；admitted关联conference-series-c181a69b28，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://icc2026.ieee-icc.org/)、[原通知](https://icc2026.ieee-icc.org/authors/call-symposia-papers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c27transducers--globecom--icc2026-10-04)。
+- 全字段审阅范围：Glasgow2026/5/24–28 SEC由本届来源与ComSoc互证；CFP亦提CrownePlaza但不把所有专题日程假定SEC唯一，光学关联限ONS。TechnicalSymposia/SAC普通EDAS N33911，Firm2025/11/10代替旧9/29、10/13、10/31；notice2026/1/19与authorreg/final2/13日期级，均历史非未来机会。初稿EnglishPDF最多6printedpages10pt超限不审，录用6页含图可选第7页US100是加页费用非注册价格；实际模板文件和匿名规则未知。作者标题EDAS/PDF一致、录用名单锁定；WorkshopRegistration段只指workshop，Full/LimitedAuthor一注册最多3SYMPOSIUM稿不能用于workshop覆盖。作者或TPC事先批准替代人报告，缺席可能移除Xplore，非退款作者注册在上传终稿前；费率正文未核。CFP仅accepted且presented才Proceedings/Xplore，首页主会/工作坊Xplore两11586754/11586035宣布链接未打开全目录/逐篇/索引，不冒充实际全收录。精选symposia/SAC扩展OJComSoc邀请另审非保送。2027专属规则不能承袭这届。
+- 日城与范围：2026-05-24–2026-05-28；英国 · 苏格兰格拉斯哥；Scottish Event Campus（SEC）；CFP另列 Crowne Plaza Hotel；submissionState published。
+- 逐字段截止及出处：历史普通Symposia最终初稿截止（Firm）：2025-11-10 [来源](https://icc2026.ieee-icc.org/authors/call-symposia-papers)；历史普通Symposia录用通知：2026-01-19 [来源](https://icc2026.ieee-icc.org/authors/call-symposia-papers)；历史录用作者注册截止：2026-02-13 [来源](https://icc2026.ieee-icc.org/authors/call-symposia-papers)；历史普通Symposia终稿截止：2026-02-13 [来源](https://icc2026.ieee-icc.org/authors/call-symposia-papers)
+- 本届条件出版原字段：CFP声明accepted and presented technical papers拟出版ICC2026 proceedings并提交IEEE Xplore；当届主页公告主会/Workshop论文集已上线，并给IEEE Xplore两个独立入口（11586754/11586035）。本轮只核公告和链接，未打开逐篇数据库结果，不能声称实际EI/SCIE检索。
+- 本届范围/冲突原备注：本届CFP明确SEC与Crowne Plaza，Venue页明确SEC地址；主会/Workshop/教程具体分日日程未全面核。部分Symposia/SAC论文仅获邀扩展后快速评审IEEE OJComSoc的可能性，不保证期刊录用。2027Washington DC官方日城另存独立届，不复制本届稿规、注册及出版。
+- 未解决内容及影响：模板文件/匿名要求与注册价格未核，US100仅录用加页；Xplore首页已发布公告不证明全部论文实际索引，OJComSoc另审；具体专题venue/节目未全读、workshop注册不移普通路径
+- 维护触发：本届完整历史模板/费率/逐篇出版证据公开后维护；2027按当届专属公告另核，不复制2026规则。
+- 完整记录内容摘要904256243e22cd7e59cbf6e18e6f4bafe31369646978f099e496f6855431e795，基于62b6423e80b7990063e80fb1894f0585dbffdaf1；非官网内容指纹，未知不冒充已补齐。
+
+## ieee-icc-2027
+
+IEEE International Conference on Communications 2027；2027；IEEE International Conference on Communications/series-9cb65feca0a5；admitted关联conference-series-c181a69b28，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history)、[原通知](https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c27transducers--globecom--icc2026-10-04)。
+- 全字段审阅范围：ComSocConferencesEventsHistory实际ICC2027行WashingtonDC USA2027/5/30–6/3，且其2026Glasgow与本届网页互证；此为明确未来日城非年度推算，不混同IoT/DataCloud同缩写ICC。2027venue、专属CFP主题/作者篇幅模板匿名平台、注册费、全部截止与出版索引未知，空注册/两null/submissionStateunknown保留。Optical标签来自2026系列ONS关联，不声称2027专属主题已确认，不借前届六/七页US100/EDAS或旧Xplore公告填未来规则。未来入口实际范围只日城表格；同stable系列两届与admitted候选关系已核，不能因future已排日就称可投。
+- 日城与范围：2027-05-30–2027-06-03；美国 · 华盛顿哥伦比亚特区；具体场馆待当届官方公告；submissionState unknown。
+- 逐字段截止及出处：2027普通论文截止待当届公告：未知 [来源](https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history)；2027作者注册/费用待当届公告：未知 [来源](https://www.comsoc.org/conferences-events/portfolio-conferences-events/conferences-events-history)
+- 本届条件出版原字段：2027当届具体出版条件与实际索引未核，2026论文集公告不证明2027单篇收录。
+- 本届范围/冲突原备注：仅官方明确的2027-05-30–06-03 Washington, D.C.；不将同缩写IoT/Data/Cloud等其他ICC活动合并本系列。未来日期不是投稿已开放，原届次及其独立规则保留。
+- 未解决内容及影响：未来具体venue、当届CFP/所有作者费用截止与出版索引未知；光学标签为系列关联，2027ONS专题未确证；ComSoc表只明确日城，不能继承2026稿规或同名其他ICC
+- 维护触发：2027专属官方CFP/venue/注册作者与出版公告公开后维护；明确日城保留，不凭周期补齐。
+- 完整记录内容摘要c0758b66bb836379542fa00fac1f1239a0701a52c2afe52d9f96525992defee0，基于62b6423e80b7990063e80fb1894f0585dbffdaf1；非官网内容指纹，未知不冒充已补齐。

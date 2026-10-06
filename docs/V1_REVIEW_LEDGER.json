@@ -6811,6 +6811,102 @@
         "2025费用日期不移2026，2027具体联合身份日城尚未核"
       ],
       "maintenanceTrigger": "CSOE更正final日期、公开完整历史模板/出版资料或下一联合组合日城CFP后维护，按届保留伙伴身份。"
+    },
+    {
+      "kind": "conference",
+      "id": "transducers-2027",
+      "seriesId": "series-1ef409cd70cf",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a254bfb72865b44d5310f3f362eaf81346396c1b29d5d937413d7f3e23e34a25",
+      "formalReviewBase": "62b6423e80b7990063e80fb1894f0585dbffdaf1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#transducers-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "初稿/终稿长度模板审查平台与出版条件/实际索引未核",
+        "注册页无费率开放状态退款条款，作者2/23确认不等于注册",
+        "2029具体日城未知；伙伴按2027联合身份保留"
+      ],
+      "maintenanceTrigger": "本届完整作者模板/注册费率与出版条件或未来2029专属日城公开后维护；已知HST不反复查询。"
+    },
+    {
+      "kind": "conference",
+      "id": "ieee-globecom-2026",
+      "seriesId": "series-0851dd99df84",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d00dd05b3ba5b42d3f2dbe01b8a079818ae2aea0380fcdf9aff97d0b5ff82538",
+      "formalReviewBase": "62b6423e80b7990063e80fb1894f0585dbffdaf1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ieee-globecom-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "投稿指南已有超时/读取限制，正文篇幅匿名费用与Xplore条件未核",
+        "具体场馆/注册费率和个别workshop截止未核",
+        "普通截止已过、workshop终稿非普通征稿；未来日城未知"
+      ],
+      "maintenanceTrigger": "官方可正常读取的本届完整指南、费用/场馆及专题更正公开后维护；原受限入口不继续重复。"
+    },
+    {
+      "kind": "conference",
+      "id": "ieee-icc-2026",
+      "seriesId": "series-9cb65feca0a5",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "904256243e22cd7e59cbf6e18e6f4bafe31369646978f099e496f6855431e795",
+      "formalReviewBase": "62b6423e80b7990063e80fb1894f0585dbffdaf1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ieee-icc-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板文件/匿名要求与注册价格未核，US100仅录用加页",
+        "Xplore首页已发布公告不证明全部论文实际索引，OJComSoc另审",
+        "具体专题venue/节目未全读、workshop注册不移普通路径"
+      ],
+      "maintenanceTrigger": "本届完整历史模板/费率/逐篇出版证据公开后维护；2027按当届专属公告另核，不复制2026规则。"
+    },
+    {
+      "kind": "conference",
+      "id": "ieee-icc-2027",
+      "seriesId": "series-9cb65feca0a5",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c0758b66bb836379542fa00fac1f1239a0701a52c2afe52d9f96525992defee0",
+      "formalReviewBase": "62b6423e80b7990063e80fb1894f0585dbffdaf1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ieee-icc-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "未来具体venue、当届CFP/所有作者费用截止与出版索引未知",
+        "光学标签为系列关联，2027ONS专题未确证",
+        "ComSoc表只明确日城，不能继承2026稿规或同名其他ICC"
+      ],
+      "maintenanceTrigger": "2027专属官方CFP/venue/注册作者与出版公告公开后维护；明确日城保留，不凭周期补齐。"
     }
   ],
   "coreSeriesReviews": [
