@@ -3741,6 +3741,160 @@
         "OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。"
       ],
       "maintenanceTrigger": "本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。"
+    },
+    {
+      "kind": "journal",
+      "id": "nature-electronics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "b8ad3561caefe682d5c05d7ff8fce3779a430f5b13e843e3a6301ca6030598bd",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nature-electronics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "已保存初投入口/基本格式，详细稿型篇幅、模板/声明清单、可选OA金额和税费/生效年及本刊当前周期未取得已保存明确数值；不能用其他Nature刊或样例个稿推定投稿条件。",
+        "JCR为2025指标2024单分类secondary，CAS/2026完整分类、索引覆盖年/单篇未知；旧样例本次复用原摘要元数据范围，非全文/SI。"
+      ],
+      "maintenanceTrigger": "本刊明确新稿型/收费与统计材料、合法分类/覆盖信息或原论文更正出现后维护，其他刊不代本刊。"
+    },
+    {
+      "kind": "journal",
+      "id": "nature-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "5bea962e80594577886a7fa2d8029ac5c462d21f190d1780fb8e6dfccfd388c2",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nature-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "仅保存本刊initial-formatting基本要求；详细稿型字数/主图/模板/复现声明、出版选项金额/税费版年及当前统计未知，官网入口不等于所有指南字段核实。",
+        "JCR当前全分类/2026和CAS、索引覆盖年单篇未知；三旧样例非本次全文/SI审核，不把单器件表现外推普适。"
+      ],
+      "maintenanceTrigger": "本刊实际稿型/费用/统计或分类覆盖更新、样例更正出现后逐字段维护，不反复查未变化源。"
+    },
+    {
+      "kind": "journal",
+      "id": "nature-nanotechnology",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ecf560c46e20224f0a471f9f3703ab4e4fd5f13fbda38150137942514774c08f",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nature-nanotechnology",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "具体匿名文件清单/稿型词数图表/模板、OA金额/生效税费及本刊周期未知；总入口或出版者身份不替代本刊子页证据，不套NaturePhysics/Methods。",
+        "JCR单分类机构转载非当前官方全分类/CAS；索引覆盖年单篇、原全文/SI范围未知。"
+      ],
+      "maintenanceTrigger": "本刊专门匿名/稿型/费用统计更新、合法分类/覆盖或原样例修订出现后维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "nature-communications",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "438cba9606ff57bd893de0e02c6ef29b1cf193d21aed9acf9fe42b95c903c2d4",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nature-communications",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "EI同版无匹配保留未知，CAS/2026全分类/覆盖年单篇和明确周期未核；机构协议或主动减免不是保证免收，价目核验日不代表永久价格。",
+        "实际旧摘要/出版史和中文概述复用，不假称英文原题已全部回填或通读全文/SI；投稿系统内部未登录。"
+      ],
+      "maintenanceTrigger": "本刊新版指南/价目与合法新EI/分类覆盖、透明评审政策或原样例更正出现后维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "npj-quantum-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d66fd2d92d045bde2eccdad0d2880853e1744e618358787d0bbccb190731a557",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#npj-quantum-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "同版EI未匹配不是负面声明，CAS/2026所有分类和覆盖单篇/年/当前周期未知；机构协议/减免须个体核，系统内部/完整文件清单未登录。",
+        "中文概述与原摘要元数据复用，未通读全文/SI；年度卷非数字期，理论与器件实验分开。"
+      ],
+      "maintenanceTrigger": "本刊稿型/APC/合法新EI和分类覆盖材料、具体周期或原样例更正时维护。"
+    },
+    {
+      "kind": "journal",
+      "id": "npj-quantum-information",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "784c8270be3158cade6beb23bc539f40d6ffef52a5ee02d657f7c6d93319263d",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#npj-quantum-information",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "完整声明/模板与系统内部未知，CAS/2026全分类/覆盖年单篇及本刊周期未知；价目核验日不是生效版年/未来保证，个体减免协议待资格。",
+        "三个年度卷非三数字期，理论/数值非新光学传感器或实作量子门；旧原摘要非全文/SI。"
+      ],
+      "maintenanceTrigger": "本刊新稿型/费用统计、合法分类与覆盖或原样例修订后维护，不复查同版三EI行。"
+    },
+    {
+      "kind": "journal",
+      "id": "communications-physics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "c935e96f5bd2d78a593275f5d07f191530db08f6e659ecf0bb08bb346b864b39",
+      "formalReviewBase": "4c9901c600209b19b6a9c9fb3f683a0916dc3c51",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#communications-physics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "完整PolicyGuide声明/附信与数据代码清单未核、系统内部未知；CAS/2026全分类、覆盖年单篇与当前周期无依据，个体APC减免不保证。",
+        "原摘要/元数据复用非全文/SI，第一紫外为理论非实测，后光随机网络与光通信为原概念/实验条件；年度卷非数字期。"
+      ],
+      "maintenanceTrigger": "本刊PolicyGuide/价格统计、合法分类覆盖或原样例更正出现后维护，不继承别刊段落顺序与周期。"
     }
   ],
   "coreSeriesReviews": [

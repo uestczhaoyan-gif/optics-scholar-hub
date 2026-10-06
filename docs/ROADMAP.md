@@ -871,3 +871,7 @@ d3b3909658dbda6da4134b2c3c229c187e055136已验收[Pages 37425737194](https://git
 ## 2026-10-06：固定候选准入 V1-G3H
 
 f1a428b732c91ee409acb25add4ad4925d22addb已验收[Pages 37426079933](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37426079933)；同SHA build/deploy成功，首页/版本200，摘要f2c3fa7b84306d4636daee2fd4e5b1ebe9dfaf83ad9e9d9baf6819412ce59b56匹配本地（2026-10-06T06:53:53.185Z）。 V1-G3H准入固定候选Nature Physics并完成新增正式质量；109刊/133届/98系列/10活动，273候选218 admitted/48 pending/7 deferred，SCIE95/ESCI12/EI100，JCR107/CAS11，55刊至少三篇样例。固定候选42/60（5准入37实际已审查限制）、余18；正式111/252（72刊/29届/10活动）、余141。G4/G5完成，G1/G2/G3/G6待验收，整体IN_PROGRESS。 [独立原依据及限制](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-8247293c00)。既有五小时调度保持，继续固定剩余及最终验收，不扩大本版。
+
+## 2026-10-06：正式质量 V1-G2Q
+
+4c9901c600209b19b6a9c9fb3f683a0916dc3c51已验收[Pages 37427470343](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37427470343)；同SHA build/deploy成功、首页/版本200，摘要b5b1af494030c88bd299f30b182ea6c10cf17844c1266d4123b0feda556ddf13匹配本地（2026-10-06T07:06:37.709Z）。 V1-G2Q实审7刊正式字段质量，累计118/252、余134；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。仅三刊EI电子载体注记精确化，身份、肯定索引与原核验日保持。 [逐项字段/版本/未知及触发](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2q)。原五小时额度检查保持，继续固定剩余与最终验收，不扩大必做。

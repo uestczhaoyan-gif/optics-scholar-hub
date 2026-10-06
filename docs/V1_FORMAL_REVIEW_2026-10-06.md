@@ -729,3 +729,84 @@ Nature Physics；Nature Portfolio；1745-2473/1745-2481，新checkedAt 2026-10-0
 - 限制/影响：Aims同一未变化来源累计两次web工具IdP500后停止；独立journal-information与原论文/指南已实读，不声称Aims成功。JCR为2025指标2024机构转载secondary，CAS/2026完整分区及索引覆盖年/单篇未知。；三原完整摘要/出版史已核不同正式期月，未通读全文/SI，第一/第三篇订阅预览；材料、模拟平台和介质调控结论只限原条件。；OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。
 - 维护触发：本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。
 - 全字段内容摘要f3decb16d0fa983cb18c4fa334d45865bcb25f1ec114753874277f58bd13ae32，基于f1a428b732c91ee409acb25add4ad4925d22addb；不是官网指纹，不表示未知消除。
+
+## V1-G2Q
+
+全文实际读取七刊当前JSON、E1本刊独立稿型/材料与收费、E2原样例及G4七刊逐篇已有结论，原9/11准入和A4/A7/A11/A12索引范围。新目标Nature Physics已同SHA部署验收，不混同本七刊指南。三电子刊的EI载体注记与目录null印刷号对照，A11首次有效核对计入；本批只读缓存SERIALS表头与873/4137/4213三个明确行号，为第二次同字段来源尝试，不重扫其他行或DISCONT，原DISCONT已核结论保留。其他不变来源和样例不重新联网、不是今天通读旧原文/全文，不刷新data日期。 本次正式字段质量累计118/252，余134未审；G3 42/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## nature-electronics
+
+Nature Electronics；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-0ef0972d2e一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/natelectron/submission-guidelines)；[原记录1](VERIFICATION_LOG.md#2026-09-11nature-portfolio-交叉期刊)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#nature-electronics)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#批次-a11量子物理与材料十二刊-ei12-本)。NaturePortfolio电子/光学交叉，只有e2520-1131、印刷号null，与NaturePhysics独立；电气JIF2025指标2024Q1secondary/MJL当前SCIE和EI第4137行独立。原初投PDF/Word/TeX编译PDF与最终排版分开，不套刚核NaturePhysics的200词或3000词/APC/周期。旧8(4)/8(7)/8(11)三真实光学样例适配微梳、CMOS量子源反馈、Stokes偏振探测，不以刊名推全电子工作相关。当前generic印刷/电子匹配注记修为官方EISSN25201131/ISSN空白，索引肯定与原日期保持。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/ENGINEERING, ELECTRICAL & ELECTRONIC/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=243)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=2520-1131&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2520-1131 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4137 行，刊名/Journal 类型及电子刊号 EISSN 25201131 匹配，印刷 ISSN 列为“-”；不由载体列改写目录身份。DISCONTINUED（2026-05-01 版）无匹配沿用原有效核对，本批未重扫。数据库方来源表证据，未检索订阅单篇，覆盖起止年未知；只精确化注记，原核验日保持。
+- 未解决内容及影响：已保存初投入口/基本格式，详细稿型篇幅、模板/声明清单、可选OA金额和税费/生效年及本刊当前周期未取得已保存明确数值；不能用其他Nature刊或样例个稿推定投稿条件。；JCR为2025指标2024单分类secondary，CAS/2026完整分类、索引覆盖年/单篇未知；旧样例本次复用原摘要元数据范围，非全文/SI。
+- 维护触发：本刊明确新稿型/收费与统计材料、合法分类/覆盖信息或原论文更正出现后维护，其他刊不代本刊。
+- 全字段内容摘要b8ad3561caefe682d5c05d7ff8fce3779a430f5b13e843e3a6301ca6030598bd，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## nature-materials
+
+Nature Materials；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-860b88dcd6一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/nmat/submission-guidelines/initial-formatting)；[原记录1](VERIFICATION_LOG.md#2026-09-11nature-portfolio-交叉期刊)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#nature-materials)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#批次-a11量子物理与材料十二刊-ei12-本)。1476-1122/e1476-4660，材料/光学/物理；物理化学JIF2025指标2024Q1secondary只是已存一类，非全部分类。MJL精确身份SCIE/EI4140两个刊号独立；初投网页明确无需最终排版及TeX编译PDF，接受后文字图像要求分开，不继承其他Nature刊篇幅/OA费率。24(5)/24(6)/24(11)真实LED/发光晶体管微腔/纯蓝OLED样例为原材料器件条件。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, PHYSICAL/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=101)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=1476-1122&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1476-1122 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4140 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：仅保存本刊initial-formatting基本要求；详细稿型字数/主图/模板/复现声明、出版选项金额/税费版年及当前统计未知，官网入口不等于所有指南字段核实。；JCR当前全分类/2026和CAS、索引覆盖年单篇未知；三旧样例非本次全文/SI审核，不把单器件表现外推普适。
+- 维护触发：本刊实际稿型/费用/统计或分类覆盖更新、样例更正出现后逐字段维护，不反复查未变化源。
+- 全字段内容摘要5bea962e80594577886a7fa2d8029ac5c462d21f190d1780fb8e6dfccfd388c2，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## nature-nanotechnology
+
+Nature Nanotechnology；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-e058c94366一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/nnano/submission-guidelines)；[原记录1](VERIFICATION_LOG.md#2026-09-11nature-portfolio-交叉期刊)、[原记录2](V1_SCOPE_REVIEW_2026-10-05.md#nature-nanotechnology)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#批次-a12其余八本交叉刊-ei8-本)。1748-3387/e1748-3395，纳米材料与光子器件非所有纳米论文；材料多学科JIF2025指标2024Q1secondary与MJL SCIE/EI4141独立。原guide只保存材料入口/可选双匿名需按专门指南处理，不误标强制双盲。20卷February/March/November2025三正式期月，胶体量子点红外雪崩/钙钛矿microLED/电光超表面研究适配保持原条件，不把Pub2024-12-18改为名义February2025。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MATERIALS SCIENCE, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=453)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=1748-3387&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1748-3387 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4141 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：具体匿名文件清单/稿型词数图表/模板、OA金额/生效税费及本刊周期未知；总入口或出版者身份不替代本刊子页证据，不套NaturePhysics/Methods。；JCR单分类机构转载非当前官方全分类/CAS；索引覆盖年单篇、原全文/SI范围未知。
+- 维护触发：本刊专门匿名/稿型/费用统计更新、合法分类/覆盖或原样例修订出现后维护。
+- 全字段内容摘要ecf560c46e20224f0a471f9f3703ab4e4fd5f13fbda38150137942514774c08f，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## nature-communications
+
+Nature Communications；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-91444c745c一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/ncomms/submit)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e1六本交叉期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e2五刊十六篇)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#未取得-compendex-肯定匹配的七刊)。e2041-1723/null印刷；JIF2025指标2024多学科Q1secondary/MJL SCIE，A12EI三表无本目标不等于未收录或停收，不再次扫描。Article正文建议5000排Methods等非硬限/标题15/摘要200无引文/首合并30MB，TeX与PDF/Word初投、SI另文件，返修决定信入口非新投。原始自编代码供审/底层数据和未裁剪图适用、相关稿披露；2022-11-01起原始稿公开评审意见及回复不强制公开审稿人身份，预印本/摘要例外不延伸会议全文。2026-10-02本刊APC5490GBP7350USD6150EUR按录用日/税另，无投稿页费与减免资格分开。三年度卷15/16/17不称三数字期。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MULTIDISCIPLINARY SCIENCES/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=521)
+- 独立索引：SCIE/confirmed/database，原核验2026-09-30 [来源](https://mjl.clarivate.com/search-results?issn=2041-1723&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2041-1723 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/unverified/无肯定依据，原核验未知；当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。
+- 未解决内容及影响：EI同版无匹配保留未知，CAS/2026全分类/覆盖年单篇和明确周期未核；机构协议或主动减免不是保证免收，价目核验日不代表永久价格。；实际旧摘要/出版史和中文概述复用，不假称英文原题已全部回填或通读全文/SI；投稿系统内部未登录。
+- 维护触发：本刊新版指南/价目与合法新EI/分类覆盖、透明评审政策或原样例更正出现后维护。
+- 全字段内容摘要438cba9606ff57bd893de0e02c6ef29b1cf193d21aed9acf9fe42b95c903c2d4，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## npj-quantum-materials
+
+npj Quantum Materials；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-236d0d8e18一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/npjquantmats/for-authors-and-referees)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e1六本交叉期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e2五刊十六篇)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#未取得-compendex-肯定匹配的七刊)。e2397-4648/null印刷；JIF2025指标2024材料多学科Q2secondary/MJL SCIE，EI同版三表无匹配未知不重复扫。Article标题15/摘要150、正文页无统一严格限/参考文献约60建议；初PDFWord/TeX初编译PDF接受后source，DataAvailability/适用自编代码/终稿前通讯ORCID与相关稿披露、返修信入口独立。2026-10-02原研2290GBP2990USD2590EUR，Comment/Perspective/Review1155GBP1535USD1295EUR，录用日定价税另/自主减免投稿时申请，不套npjQIBrief费。9/10/11年度卷光学样例第一为Lindblad理论，后二磁光实验，不当所有量子材料均光学。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MATERIALS SCIENCE, MULTIDISCIPLINARY/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=453)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2397-4648&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2397-4648 检索，唯一 Exact Match 的刊名与查询刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/unverified/无肯定依据，原核验未知；当前索引待数据库或出版社明确核实；年度分区参考表不作为当前收录证明。
+- 未解决内容及影响：同版EI未匹配不是负面声明，CAS/2026所有分类和覆盖单篇/年/当前周期未知；机构协议/减免须个体核，系统内部/完整文件清单未登录。；中文概述与原摘要元数据复用，未通读全文/SI；年度卷非数字期，理论与器件实验分开。
+- 维护触发：本刊稿型/APC/合法新EI和分类覆盖材料、具体周期或原样例更正时维护。
+- 全字段内容摘要d66fd2d92d045bde2eccdad0d2880853e1744e618358787d0bbccb190731a557，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## npj-quantum-information
+
+npj Quantum Information；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-014b6d0c60一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/npjqi/for-authors-and-referees)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e1六本交叉期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e2五刊十六篇)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#批次-a11量子物理与材料十二刊-ei12-本)。e2056-6387/null印刷，量子信息与光学；JIF2025指标2024应用物理Q1secondary/MJL SCIE/EI4213独立，EI电子列20566387而印刷空改注记。Article标题15/摘要150/无统一正文页硬限；Brief摘要70/正文约1000–1500排摘要Methodsrefs图注，不套Article；初合并PDF/Word/TeX编译PDF接受后sources，Data/Code适用声明/终稿前通讯ORCID及决定信返修。2026-10-02原研3090GBP4390USD3690EUR，Brief/Perspective/Review/Comment/MeetingReport1510GBP2040USD1710EUR，录用日税另/自主减免投稿时，与npjQM独立。10/11/12年度卷变分传感和波导门理论、CVQKD实验条件分别保存。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, APPLIED/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=604)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2056-6387&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2056-6387 检索，唯一 Exact Match 的刊名与查询刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 4213 行，刊名/Journal 类型及电子刊号 EISSN 20566387 匹配，印刷 ISSN 列为“-”；不由载体列改写目录身份。DISCONTINUED（2026-05-01 版）无匹配沿用原有效核对，本批未重扫。数据库方来源表证据，未检索订阅单篇，覆盖起止年未知；只精确化注记，原核验日保持。
+- 未解决内容及影响：完整声明/模板与系统内部未知，CAS/2026全分类/覆盖年单篇及本刊周期未知；价目核验日不是生效版年/未来保证，个体减免协议待资格。；三个年度卷非三数字期，理论/数值非新光学传感器或实作量子门；旧原摘要非全文/SI。
+- 维护触发：本刊新稿型/费用统计、合法分类与覆盖或原样例修订后维护，不复查同版三EI行。
+- 全字段内容摘要784c8270be3158cade6beb23bc539f40d6ffef52a5ee02d657f7c6d93319263d，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
+
+## communications-physics
+
+Communications Physics；Nature Portfolio · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-b4a19d5b1c一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.nature.com/commsphys/submit)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e1六本交叉期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e2五刊十六篇)、[原记录3](INDEX_EVIDENCE_2026-10-02.md#批次-a11量子物理与材料十二刊-ei12-本)。e2399-3650/null印刷，与NaturePhysics独立；JIF2025指标2024多学科物理Q1secondary/MJL SCIE/EI873电子23993650印刷空。Article约5000词建议/Methods不计无长度限/图表10，推荐稿型表摘要150–250标题15；Word图表在引用处/LaTeXZIP系统编译，12pt行号可编辑公式建议；两种章节顺序/统计Analyses及适用激光光伏清单，不能套NaturePhysics避免通用标题。Review/Perspective约6000建议/图表8各自，PolicyGuide完整附信代码待审。2026-10-02本刊3150GBP4190USD3590EUR录用日/税另/资格申请，不套其他Communications价格。7/8/9年度卷，第三卷2026而原Published2025-12-09不回填卷年日。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=611)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2399-3650&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2399-3650 检索，唯一 Exact Match 的刊名与查询刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 873 行，刊名/Journal 类型及电子刊号 EISSN 23993650 匹配，印刷 ISSN 列为“-”；不由载体列改写目录身份。DISCONTINUED（2026-05-01 版）无匹配沿用原有效核对，本批未重扫。数据库方来源表证据，未检索订阅单篇，覆盖起止年未知；只精确化注记，原核验日保持。
+- 未解决内容及影响：完整PolicyGuide声明/附信与数据代码清单未核、系统内部未知；CAS/2026全分类、覆盖年单篇与当前周期无依据，个体APC减免不保证。；原摘要/元数据复用非全文/SI，第一紫外为理论非实测，后光随机网络与光通信为原概念/实验条件；年度卷非数字期。
+- 维护触发：本刊PolicyGuide/价格统计、合法分类覆盖或原样例更正出现后维护，不继承别刊段落顺序与周期。
+- 全字段内容摘要c935e96f5bd2d78a593275f5d07f191530db08f6e659ecf0bb08bb346b864b39，基于4c9901c600209b19b6a9c9fb3f683a0916dc3c51；不是官网内容指纹，不表示未知已补齐。
