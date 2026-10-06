@@ -5563,6 +5563,174 @@
         "2028岐阜线索主办关联和当届完整日期未充分核实，不外推下一届"
       ],
       "maintenanceTrigger": "本会正式后续入口/主办方完整日城或历史稿规出版档案公开后维护，不凭基金会线索补正式未来条。"
+    },
+    {
+      "kind": "conference",
+      "id": "photonics-india-2026",
+      "seriesId": "series-8d43c85f590a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "474a376b561cc2a38f636f6b5f9c0c33c6e37369eefd2ca43fd90b3a92cf85ec",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#photonics-india-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "早鸟10/30与Before1Nov冲突及11/1当天费档未知，第二dates失败同源两次停止",
+        "具体会场/出版商和真实单篇索引未知，住宿/大学地址不等场馆",
+        "实际PDP启用/登录后流程与各截止时刻时区未核实，仅原计划"
+      ],
+      "maintenanceTrigger": "新明确早鸟边界/PDP启用、场馆或本届出版公告出现后维护；不重复同未变两源，不进入支付。"
+    },
+    {
+      "kind": "conference",
+      "id": "psc-2026",
+      "seriesId": "series-196e79fa054c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e670826e52a6eff2c8797a86c3cbf0b70ab3641e6c9fbccf9140b528ef95cb10",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#psc-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "早鸟官方边界冲突，PDP作者最终注册安排未知，普通日期不可继承",
+        "正文系统旧词与EDAS真链接不同，登录未核不表可投稿",
+        "后续具体日城与实际单篇索引未知，Xplore条件非保证"
+      ],
+      "maintenanceTrigger": "新届明确日城CFP或当届出版/作者通知出现后维护，历史不再反复查同冲突页。"
+    },
+    {
+      "kind": "conference",
+      "id": "oip-2026",
+      "seriesId": "series-8405d097236a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "65e13ac46318a3f241f53b4e6d29abe5950aad7b0beed1e37ec295a588f409aa",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#oip-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2026会场/论文最终截止和通知仍TBC，系统历史登录不验证",
+        "历史注册费率最终付款与时区未知",
+        "实际出版单篇索引未知，IEEE条件不等EI保证"
+      ],
+      "maintenanceTrigger": "2026历史正式档案/出版记录公开时补旧届；2027新规则只写新届，不跨年覆盖。"
+    },
+    {
+      "kind": "conference",
+      "id": "oip-2027",
+      "seriesId": "series-8405d097236a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "6dd3e21a0e6699c683e84b42d1816db0765f5fe7534efe615fdce628ce850fea",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#oip-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027完整场馆名称未知，截断酒店文字不扩写",
+        "当届CFP稿型/模板/系统/作者注册和所有日期未知，2026不继承",
+        "本届出版形式/索引与费率付款未知"
+      ],
+      "maintenanceTrigger": "2027明确场馆与专属稿规/注册/出版通知出现后维护，保留历史届次独立。"
+    },
+    {
+      "kind": "conference",
+      "id": "ieee-sum-2027",
+      "seriesId": "series-0688805a8f4f",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d78503346b64e8a41b78d118e2d8911b6b9d02fe40f401c65093db0c273f6dca",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ieee-sum-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届完整专题/场馆和普通稿具体日期未知，提案不等paper",
+        "两页/45词/50简介与Xplore条件混旧2026，本届适用性未确认",
+        "真实注册入口费率/作者付款及2027出版索引未知"
+      ],
+      "maintenanceTrigger": "IEEE2027专属CFP移除旧年口径、专题/会场注册正式公布后维护，不把月份填成日期。"
+    },
+    {
+      "kind": "conference",
+      "id": "ultrafast-phenomena-2026",
+      "seriesId": "series-06bcdca55d05",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "286484ab9a7838d6484fb42c059dd09a4879d4a104b908d0b2379de0c73c26ba",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ultrafast-phenomena-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "TechnicalDigest与NoProceedings口径/归档出版未解决，实际索引未知",
+        "PDP作者注册适用截止未知，普通通知仅月不造某日",
+        "下一届具体日城/规则未知，旧程序不外推双年"
+      ],
+      "maintenanceTrigger": "正式出版/注册澄清或新届公告出现后维护，保留历史两不同渠道与精确时区。"
+    },
+    {
+      "kind": "conference",
+      "id": "optica-imagesense-2026",
+      "seriesId": "series-7a78619a9410",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "df9cccebd817ff198c005a207b505bbca160e630f89a6c45f9e9b05609111b8a",
+      "formalReviewBase": "4a91af1aa023b0954ac30b4a9cf7a44dadcdef04",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#optica-imagesense-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "旧Imaging继承/合并关系未正式确认，不能永久别名",
+        "历史稿规平台/注册费用最终日期与受限摘要全文/索引未知",
+        "2027仅JulyCanada线索，完整日城与母会独立通知未核实"
+      ],
+      "maintenanceTrigger": "Optica母会明确2027日城/独立征稿或正式继承声明、合法出版记录出现后维护，不由DH月份填日。"
     }
   ],
   "coreSeriesReviews": [

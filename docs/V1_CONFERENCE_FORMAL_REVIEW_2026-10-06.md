@@ -1035,3 +1035,105 @@ Optica Imaging Congress 2025；2025；Optica Imaging Congress/series-f346be857f1
 - 未解决内容及影响：2026普通/PDP篇幅模板最终摘要及注册日期费用未知，注册关闭不能作投稿日；稿件出版社/出版条件与单篇索引未知，程序仅报告安排；2028岐阜线索主办关联和当届完整日期未充分核实，不外推下一届
 - 维护触发：本会正式后续入口/主办方完整日城或历史稿规出版档案公开后维护，不凭基金会线索补正式未来条。
 - 完整记录内容摘要f7127a1b9250264e8eecb12c9837486ebf83febdbfaf6eb17c81574f7e6618e1，基于86aec50818a4145f3b51abbda6c1e7aa3b7a4bce；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AE
+
+实际完整读取七届JSON/稳定系列与admitted关联、C5/C6各独立稿规日程/真实系统链接、C11后续及ImageSense/DH范围。印度PHOTONICS dates与registration第二有效请求（10/3计首次）：日期InternalError未正文，注册成功公开缓存今天；仅补注册表本国/国际类别费率和包含项到requirements，不改变早鸟冲突、实际PDP开放、身份日期状态或checkedAt。其余复用原实际官方证据，不重复同未变源/登录受限集。 累计正式质量197/252，余55未审；固定候选42/60，G4/G5完成，其余门槛未验收。仅计划指定当届字段修订；其余data与冻结范围保持。
+
+## photonics-india-2026
+
+17th International Conference on Fiber Optics and Photonics；2026；PHOTONICS (India)/series-8d43c85f590a；admitted关联conference-series-e0f7ec421a，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://photonics2026.iith.ac.in/)、[原通知](https://photonics2026.iith.ac.in/guidelines/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#批次-c6photonics交换互连夏季专题与超快系列)、[原实际记录2](https://photonics2026.iith.ac.in/registration/)、[原实际记录3](https://photonics2026.iith.ac.in/dates/)。
+- 全字段审阅范围：IITH主办第17印度FibreOpticsPhotonics12/9–13海得拉巴与同名展区分，学校署名/住宿不证明具体会场。C6指南1–2p模板PDF/DOC/DOCX ConfServ，每注册最多两项报告全体参会作者须注册，普通8/30延9/25已过，10/15通知并拟PDP开放11/15止不能提前称开放；closed原针对普通渠道。今日第二dates未正文不新确认日程，注册成功Before1Nov/After1Nov费表仍与原日期页10/30冲突NULL，不补11/1当天或时区。费用按IndianINR/InternationalUSD、faculty/scientist/PostDocEarlyCareer/student独立，后者非student；注册包含技术交流展览资料茶歇午晚餐，住宿另安排非免费，支付链接只识别未进入付款。仅增加requirements收费注明来源日期，最终注册11/30保留旧版不刷新整条。出版商/索引不明不由Optica endorsed推保证。
+- 日城与范围：2026-12-09–2026-12-13；印度 · 海得拉巴；具体会场待核实（IIT Hyderabad 主办）；submissionState closed。
+- 逐字段截止及出处：普通稿件截止（延长后，已过）：2026-09-25 [来源](https://photonics2026.iith.ac.in/dates/)；普通录用通知：2026-10-15 [来源](https://photonics2026.iith.ac.in/dates/)；PDP 最新成果截止：2026-11-15 [来源](https://photonics2026.iith.ac.in/dates/)；公告10/15开放，无具体时刻，不把普通截止套用于PDP。；早鸟边界官方页不一致，待确认：未知 [来源](https://photonics2026.iith.ac.in/registration/)；日期表10/30，收费表Before1Nov；不选一个日期。；最终注册截止：2026-11-30 [来源](https://photonics2026.iith.ac.in/dates/)
+- 本届条件出版原字段：本轮指南未明确论文集出版商或索引，不承诺 SCI/EI；报告方式为口头或海报。
+- 本届范围/冲突原备注：会期来源 https://photonics2026.iith.ac.in/dates/ ；主办身份 https://photonics2026.iith.ac.in/ 。普通截止从 8/30 延至 9/25。日期表早鸟10/30，但 https://photonics2026.iith.ac.in/registration/ 收费表标 Before 1 Nov，边界冲突保留未知；FAQ 仍在更新。主办学校不等于已确认具体会场。
+- 未解决内容及影响：早鸟10/30与Before1Nov冲突及11/1当天费档未知，第二dates失败同源两次停止；具体会场/出版商和真实单篇索引未知，住宿/大学地址不等场馆；实际PDP启用/登录后流程与各截止时刻时区未核实，仅原计划
+- 维护触发：新明确早鸟边界/PDP启用、场馆或本届出版公告出现后维护；不重复同未变两源，不进入支付。
+- 完整记录内容摘要474a376b561cc2a38f636f6b5f9c0c33c6e37369eefd2ca43fd90b3a92cf85ec，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## psc-2026
+
+International Conference on Photonics in Switching and Computing 2026；2026；Photonics in Switching and Computing/series-196e79fa054c；admitted关联conference-series-1027a7838c，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://psc2026.org/)、[原通知](https://psc2026.org/paper-submission/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#批次-c6photonics交换互连夏季专题与超快系列)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c11六系列后续公告与-imid-2027)。
+- 全字段审阅范围：PSC2026ValenciaUPV CiudadPolitécnicaInnovación9/15–17正式历史单会，交换/光计算/量子网络原scope明确不是其他PSC缩写。普通/PDP均3pPDF和35词、指定模板/PDFexpress，实际EDAS链接与正文Confit残词分别，未验证系统登录不宣称可投。普通6/19延后7/28notice/8/15author与PDP9/4截止分开，不让后PDP继承8/15；日期表8/31早鸟vs注册8/30止8/31涨价冲突NULL。IEEE版权、录用现场报告后ProceedingsXplore/noshow不出版非每篇EI。C11原home/About年度轮换介绍无已核具体2027，不推日期。
+- 日城与范围：2026-09-15–2026-09-17；西班牙 · 瓦伦西亚；Ciudad Politécnica de la Innovación（Universitat Politècnica de València 校区）；submissionState published。
+- 逐字段截止及出处：普通论文截止（延长后，历史）：2026-06-19 [来源](https://psc2026.org/important-dates/)；普通录用通知（历史）：2026-07-28 [来源](https://psc2026.org/important-dates/)；PDP 截止（历史）：2026-09-04 [来源](https://psc2026.org/call-for-postdeadline-papers/)；普通作者注册截止（历史；PDP适用性待核实）：2026-08-15 [来源](https://psc2026.org/important-dates/)；早鸟日期官方冲突，待核实：未知 [来源](https://psc2026.org/registration/)；日期表8/31；注册页8/30截止且8/31涨价。
+- 本届条件出版原字段：官方称录用且现场报告的论文进入 PSC2026 Proceedings 并提供于 IEEE Xplore；no-show 不出版。未核验数据库单篇收录，不承诺 SCI/EI。
+- 本届范围/冲突原备注：会场 https://psc2026.org/conference-centre/ ；方向 https://psc2026.org/technical-scope/ 。日期表早鸟8/31，注册页写8/30截止、8/31涨价，保留冲突。投稿页正文另残留 Confit 登录术语，实际链接为 EDAS，未视为已验证登录步骤。 PDP作者注册适用截止未核实，不把普通8/15强行用于晚PDP。
+- 未解决内容及影响：早鸟官方边界冲突，PDP作者最终注册安排未知，普通日期不可继承；正文系统旧词与EDAS真链接不同，登录未核不表可投稿；后续具体日城与实际单篇索引未知，Xplore条件非保证
+- 维护触发：新届明确日城CFP或当届出版/作者通知出现后维护，历史不再反复查同冲突页。
+- 完整记录内容摘要e670826e52a6eff2c8797a86c3cbf0b70ab3641e6c9fbccf9140b528ef95cb10，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## oip-2026
+
+Optical Interconnects and Packaging Conference 2026；2026；Optical Interconnects and Packaging (formerly OI)/series-8405d097236a；admitted关联conference-series-4719446bc5，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://oip-conference.org/)、[原通知](https://oip-conference.org/paper-submission-1)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#批次-c6photonics交换互连夏季专题与超快系列)。
+- 全字段审阅范围：Optica官方日历明确OI更名OIP及2026FortCollins6/15–17，同候选与2027一稳定系列两独立届。历史具体会场未知不能沿现主页SantaBarbara或其残旧赞助。旧本届PaperSubmission明确2pIEEE原创未发表全作者图表含内，另≤45词abstract；通知后IEEE版权且现场报告才Xplore。投稿/通知TBC保持null，不凭旧EasyChair按钮认接收；历史published非现可投。2026注册入口费用截止未知，公开版年份锁2026不能移2027条件。
+- 日城与范围：2026-06-15–2026-06-17；美国 · 科罗拉多州柯林斯堡；具体会场待核实；submissionState published。
+- 逐字段截止及出处：2026 最终论文截止待核实（官网TBC）：未知 [来源](https://oip-conference.org/paper-submission-1)；2026 录用通知待核实（官网TBC）：未知 [来源](https://oip-conference.org/paper-submission-1)；2026 注册截止待核实：未知 [来源](https://oip-conference.org/paper-submission-1)
+- 本届条件出版原字段：官方指南规定只有录用且实际报告的论文进入 IEEE Xplore proceedings；未做单篇数据库核验，不承诺SCI/EI。
+- 本届范围/冲突原备注：系列身份及历史会期来源：https://www.optica.org/events/global_calendar/events/optical_interconnects_and_packaging_(oip)_conference/ 。现主页已更新为2027，不把现主页新城/会场套给2026。
+- 未解决内容及影响：2026会场/论文最终截止和通知仍TBC，系统历史登录不验证；历史注册费率最终付款与时区未知；实际出版单篇索引未知，IEEE条件不等EI保证
+- 维护触发：2026历史正式档案/出版记录公开时补旧届；2027新规则只写新届，不跨年覆盖。
+- 完整记录内容摘要65e13ac46318a3f241f53b4e6d29abe5950aad7b0beed1e37ec295a588f409aa，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## oip-2027
+
+Optical Interconnects and Packaging Conference 2027；2027；Optical Interconnects and Packaging (formerly OI)/series-8405d097236a；admitted关联conference-series-4719446bc5，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://oip-conference.org/)、[原通知](https://oip-conference.org/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#批次-c6photonics交换互连夏季专题与超快系列)。
+- 全字段审阅范围：现官方首页2027SantaBarbara4/26–28直接预告与旧FortCollins不混，原地点行HiltonSantaBarbaraBeachfrontRe截断/633ECabrillo只线索完整场馆未知不能补猜；OIP26sponsor残旧不作2027策略。同candidate别名OI稳定系列有两届但不把旧PaperSubmission2026的2p45词、版权/Xplore转本届；2027篇幅模板系统/注册/出版和各DDL全unknown/null一致。AI互连与封装系列scope不等全部2027专题已定，有会期非开放。
+- 日城与范围：2027-04-26–2027-04-28；美国 · 加利福尼亚州圣巴巴拉；具体会场名称待核实；submissionState unknown。
+- 逐字段截止及出处：2027 论文截止待公布：未知 [来源](https://oip-conference.org/)；2027 注册截止待公布：未知 [来源](https://oip-conference.org/)
+- 本届条件出版原字段：2027 出版条件与论文集尚未核实，不沿用2026 IEEE Xplore声明，不承诺索引。
+- 本届范围/冲突原备注：官网地点行出现 Hilton Santa Barbara Beachfront Re 和633 E Cabrillo Blvd，完整会场名称尚待核实；页面仍有 OIP26 sponsor 字样。与OI候选关联同一系列，按当届字段分别记录。
+- 未解决内容及影响：2027完整场馆名称未知，截断酒店文字不扩写；当届CFP稿型/模板/系统/作者注册和所有日期未知，2026不继承；本届出版形式/索引与费率付款未知
+- 维护触发：2027明确场馆与专属稿规/注册/出版通知出现后维护，保留历史届次独立。
+- 完整记录内容摘要6dd3e21a0e6699c683e84b42d1816db0765f5fe7534efe615fdce628ce850fea，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## ieee-sum-2027
+
+IEEE Photonics Society Summer Topicals Meeting Series 2027；2027；IEEE Photonics Society Summer Topicals/series-0688805a8f4f；admitted关联conference-series-12e621d438，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.ieee-sum.org/)、[原通知](https://www.ieee-sum.org/paper-submission/submission-guidelines/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#批次-c6photonics交换互连夏季专题与超快系列)。
+- 全字段审阅范围：IEEE母会主页Porto2027/7/12–14明示具体场馆未知，一轮换topic母会不重复子会。Topics征集proposal非普通paper；预计1月open2月截止3月register各仅月份保持null不能2/28或1/1推。公开指南2p45abstract50bio及注册现场报告后Xplore同页2026notification混旧，2027适用性待核不移植为已定。旧2026程序/注册页不是2027启用证明，unknown状态符合，题目列表和费用/最终材料全部未知。
+- 日城与范围：2027-07-12–2027-07-14；葡萄牙 · 波尔图；具体会场待核实；submissionState unknown。
+- 逐字段截止及出处：普通论文截止仅公布2027年2月，具体日待核实：未知 [来源](https://www.ieee-sum.org/paper-submission/submission-guidelines/)；2027 注册截止待公布（预计3月开放）：未知 [来源](https://www.ieee-sum.org/)
+- 本届条件出版原字段：公开指南写录用并现场报告才进入 IEEE Xplore，但同页混有旧届通知；2027出版适用性待确认，不承诺SCI/EI。
+- 本届范围/冲突原备注：首页 https://www.ieee-sum.org/ 明确2027会期城市；Topics页 https://www.ieee-sum.org/paper-submission/topics/ 的提案征集与普通论文分开。历史2026程序和已开放注册旧页不当成2027接收入口。
+- 未解决内容及影响：本届完整专题/场馆和普通稿具体日期未知，提案不等paper；两页/45词/50简介与Xplore条件混旧2026，本届适用性未确认；真实注册入口费率/作者付款及2027出版索引未知
+- 维护触发：IEEE2027专属CFP移除旧年口径、专题/会场注册正式公布后维护，不把月份填成日期。
+- 完整记录内容摘要d78503346b64e8a41b78d118e2d8911b6b9d02fe40f401c65093db0c273f6dca，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## ultrafast-phenomena-2026
+
+XXV International Conference on Ultrafast Phenomena 2026；2026；International Conference on Ultrafast Phenomena/series-06bcdca55d05；admitted关联conference-series-06bcdca55d，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.up2026.jp/)、[原通知](https://www.up2026.jp/submission.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#批次-c6photonics交换互连夏季专题与超快系列)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c11六系列后续公告与-imid-2027)。
+- 全字段审阅范围：UP25札幌ConventionCentre2026/8/2–7原邀请函和大阪大学8/7会后报道实际双源，非UFO或别的超快系列。35词+2pPDFsummary单topic全作者同意至少一人fullregister现场，实际可读PDP只口头/普通系统关闭，未读普通后台。普通2/7与PDP7/15各明确23:59JST UTC+09 AsiaTokyo；notice仅3月null，早鸟5/31仅日，不复制时刻。全presenters6/15注册早于PDP7/15故后者适用未知null，不机械继承。summaryTechnicalDigest与NoProceedings两原表述保留，不把两页稿作归档刊或索引保证；C11未取得具体下一届不推2028双年。
+- 日城与范围：2026-08-02–2026-08-07；日本 · 札幌；Sapporo Convention Centre；submissionState published。
+- 逐字段截止及出处：普通论文截止（延长后，历史）：2026-02-07T23:59:00+09:00 / Asia/Tokyo [来源](https://www.up2026.jp/)；PDP 截止（历史）：2026-07-15T23:59:00+09:00 / Asia/Tokyo [来源](https://www.up2026.jp/submission.html)；普通录用通知仅给2026年3月，具体日待核实：未知 [来源](https://www.up2026.jp/)；早鸟截止（历史）：2026-05-31 [来源](https://www.up2026.jp/registration.html)；PDP 作者注册适用截止待确认：未知 [来源](https://www.up2026.jp/registration.html)；注册页要求全体presenters6/15完成注册，但PDP截止7/15；未强行适用旧注册日。
+- 本届条件出版原字段：投稿页称录用的两页summary用于 Technical Digest，同时明确 No proceedings will be published；保留两种表述，不据此声称归档论文集、SCI或EI。
+- 本届范围/冲突原备注：会期会场 https://www.up2026.jp/invitation.html ；会后报道 https://www.ile.osaka-u.ac.jp/core2corepl/2026/08/07/post-1980/index.html 。普通通知仅写2026年3月；注册页6/15全体报告人截止早于PDP7/15，其PDP适用性未确认。
+- 未解决内容及影响：TechnicalDigest与NoProceedings口径/归档出版未解决，实际索引未知；PDP作者注册适用截止未知，普通通知仅月不造某日；下一届具体日城/规则未知，旧程序不外推双年
+- 维护触发：正式出版/注册澄清或新届公告出现后维护，保留历史两不同渠道与精确时区。
+- 完整记录内容摘要286484ab9a7838d6484fb42c059dd09a4879d4a104b908d0b2379de0c73c26ba，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## optica-imagesense-2026
+
+Optica ImageSense Congress 2026；2026；Optica ImageSense Congress/series-7a78619a9410；admitted关联conference-series-optica-imagesense，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/congress/optica_imagesense_congress/)、[原通知](https://www.optica.org/events/congress/optica_imagesense_congress/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c5设计成像半导体激光与专题层级)、[原实际记录2](CONFERENCE_EVIDENCE_2026-10-03.md#c13dhufo历史届次与三个未完整候选)。
+- 全字段审阅范围：独立ImageSense母会2026MaastrichtMECC7/12–17十二专题3D/AO/AIS/COSI/FTS/HISE/IS/LACSEA/Sensors/ES/pcAOP/QSM只一正式届，不复制十二或混APCongress八专题。主页实际OPG TechnicalDigest链接只登录入口未读受限全文。旧Imaging是否继承合并无明确说明继续两个独立稳定系列，历史published不是当下可投。C13DH官网2027JulyCanada加入ImageSense只月国线索，完整日城母会通知/CFP未知不能生成新正式未来条。历史摘要篇幅模板系统、最终日/注册费用与出版索引都未核明确保留。
+- 日城与范围：2026-07-12–2026-07-17；荷兰 · 马斯特里赫特；The Maastricht Exhibition & Conference Centre；submissionState published。
+- 逐字段截止及出处：2026 摘要/投稿最终截止待核实：未知 [来源](https://www.optica.org/events/congress/optica_imagesense_congress/)；2026 注册截止待核实：未知 [来源](https://www.optica.org/events/congress/optica_imagesense_congress/)
+- 本届条件出版原字段：主页称可访问 2026 Technical Digest，实际链接进入 OPG 登录页；本轮未登录或读取受限论文全文，不作数据库检索保证。
+- 本届范围/冲突原备注：十二个当届专题含 3D、AO、AIS、COSI、FTS、HISE、IS、LACSEA、Sensors、ES、pcAOP、QSM。本条按当届官方名称独立保存，不将旧 Imaging 系列名称强行替换，也不与八专题的 Advanced Photonics 母会混同。
+- 未解决内容及影响：旧Imaging继承/合并关系未正式确认，不能永久别名；历史稿规平台/注册费用最终日期与受限摘要全文/索引未知；2027仅JulyCanada线索，完整日城与母会独立通知未核实
+- 维护触发：Optica母会明确2027日城/独立征稿或正式继承声明、合法出版记录出现后维护，不由DH月份填日。
+- 完整记录内容摘要df9cccebd817ff198c005a207b505bbca160e630f89a6c45f9e9b05609111b8a，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。

@@ -1689,3 +1689,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AD实审6届会议全部字段，正式质量累计190/252（109刊/71届/10活动）、余62；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整读取六届当前JSON和稳定系列/admitted关联、C4 ElectronicImaging各路径与实际关闭冲突、C5六会议独立身份/出版/原大学程序、C11/C12原后续范围。只EI2027主页/公开submission页本次第二有效请求（10/3计首次）：工具标今天，主页仍10/12延期但共用页脚窗口变11/30 21:00PST，submission无正文，不能验证已开放或当前仍关闭；保留原实际关闭版本/冲突NULL，停止同未变源，不登录。其他复用原已核证据，不继承旧年或刷新全部data原checkedAt。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ad)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结字节与旧184正式/42候选/G4/G5/final保护、190唯一摘要/当届系列关联断言通过；633本地文件链接、六文档实际差异和git diff --check通过。纯文档复用已验收六资产/48ba摘要，同SHA CI独立validate/31测试/typecheck/lint/build后部署及线上版本验收。EI本次公开系统无正文未验证开启，页脚11/30不替普通摘要10/12或原关闭冲突；不重复同源。
+
+## 2026-10-06：正式会议质量 V1-G2AE
+
+- 4a91af1aa023b0954ac30b4a9cf7a44dadcdef04已验收[Pages 37433870656](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37433870656)；同SHA build/deploy成功、首页/版本200，摘要48ba55aefd23e8145bb584289dff5ad250179e0aa885dab77d56219c675f351f匹配本地（2026-10-06T08:07:23.476Z）。编辑前HEAD=origin/main；work/V1-G2AE-plan.json长操作前保护真实范围。
+- V1-G2AE实审7届会议全部字段，正式质量累计197/252（109刊/78届/10活动）、余55；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，仅指定当届字段修订，其他目录保持。 实际完整读取七届JSON/稳定系列与admitted关联、C5/C6各独立稿规日程/真实系统链接、C11后续及ImageSense/DH范围。印度PHOTONICS dates与registration第二有效请求（10/3计首次）：日期InternalError未正文，注册成功公开缓存今天；仅补注册表本国/国际类别费率和包含项到requirements，不改变早鸟冲突、实际PDP开放、身份日期状态或checkedAt。其余复用原实际官方证据，不重复同未变源/登录受限集。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ae)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、仅印度PHOTONICS requirements增加来源收费字段allowlist/其余全部data及冻结字节、旧190正式42候选G4G5final保护、197唯一摘要和七admitted系列断言通过；647本地文件链接、完整七文件真实差异/git diff --check通过。去除网站收费说明中的内部操作措辞后重新生成摘要并重新构建，子路径六资产完成；同SHA CI独立31测试/typecheck/lint/build与部署、线上新目录摘要验收。未知早鸟边界/日程/PDP状态未修改。
