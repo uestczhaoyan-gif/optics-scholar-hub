@@ -2790,13 +2790,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 2,
-    "scopeHint": "光电芯片、光探测、光电集成；不是全部电子主题",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "scopeHint": "半导体光探测、光电材料与集成光子子集；EI工程补充，不将全部电子器件归光学",
+    "sourceEntry": "https://www.jos.ac.cn/news/PreparingYourManuscript.htm",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["journal-of-semiconductors"],
+    "decisionReason": "本刊About准确旧名、两刊号、中方出版与IOP在线身份；实际完整读公开稿规和三近两年不同正式期次光探测原摘要/出版史，MJL独立确认ESCI，Compendex3566两刊号确认EI。以EI工程补充准入，JCR/CAS仍未知不编造，不将全部半导体/电子主题视为光学。新正式条目同批完成字段质量审查。",
+    "nextAction": "本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-e2490773a5",

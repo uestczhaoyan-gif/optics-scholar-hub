@@ -315,3 +315,29 @@ Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy；pending。
 本批只新目标在已验版本Compendex原表按准确刊名/已读ISSN查询。SERIALS2026-08-07：ISPRS2948/0924-2716，MIA3975/1361-8415/1361-8423，RSE5071/0034-4257，SAA5362/1386-1425，均Journal与Elsevier身份，DISCONTINUED2026-05-01无匹配；SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39。EI身份不等覆盖年/每篇实际入库；发现的RemoteSensing5069与JOS3566只有索引线索不冒充这两未审候选已完成。JCR/CAS/MJL、电子身份缺口与Guide/fee未知保留。
 
 [Compendex原表](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)。原平台访问控制不绕过，合法新证据才触发后续维护。只本批明确候选字段和账本追加，其他269候选、全部正式目录及冻结范围和旧审查保持。
+
+## V1-G3J
+
+V1-G3J准入固定候选Journal of Semiconductors并同批完成新增正式质量；110刊/133届/98系列/10活动，273候选219 admitted/47 pending/7 deferred；SCIE95/ESCI13/EI101，JCR107/CAS11，56刊至少三篇样例。固定候选47/60（6准入、41实际限制）、余13；正式253/253（110刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。
+
+## journal-357da7987c
+
+Journal of Semiconductors；admitted；正式ID journal-of-semiconductors。
+
+本刊About准确旧名、两刊号、中方出版与IOP在线身份；实际完整读公开稿规和三近两年不同正式期次光探测原摘要/出版史，MJL独立确认ESCI，Compendex3566两刊号确认EI。以EI工程补充准入，JCR/CAS仍未知不编造，不将全部半导体/电子主题视为光学。新正式条目同批完成字段质量审查。
+
+[About](https://www.jos.ac.cn/news/AbouttheJournal.htm)确认旧名、2009全英文及1674-4926/2058-6140；[公开稿规](https://www.jos.ac.cn/news/PreparingYourManuscript.htm)与[系统操作](https://www.jos.ac.cn/news/InstructionsforAuthors.htm)实际全文可读，图文模板仅入口。原主页第一次timeout、Scope与CurrentIssue分别两次技术失败停止，不解读为停刊或无论文；通过官方检索发现三个本刊原页均可读，首次日/校样/正式出版与期次实核，不是绕过访问控制。MJL新刊号一次唯一卡，EI本批新目标一次（G3I发现行复用不重扫），未登录数据库/投稿。JCR/CAS未取得版年学科分区，选择独立EI路径而非强塞Q1/Q2。
+
+### 三原论文与正式期次
+
+- [Ultra-fast and high-responsivity self-powered vis−NIR photodetector via surface charge transfer doping in MoTe2/ReS2 heterostructures](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/25060013)；首次线上 2025-09-18。实读原摘要及完整出版史：分子掺杂调控MoTe2/ReS2垂直异质结自供电635–1064nm光探测，属原研究而非综述。首次接收稿线上2025-09-18、校样9-23；正式47(1):012701并Published2026-01-15，两日期不可混同。DOI10.1088/1674-4926/25060013，未通读全文实验。
+- [Broadband self-powered photodetector enabled by a MOF/organic heterojunction architecture](https://www.jos.ac.cn/article/doi/10.1088/1674-4926/25110031)；首次线上 2026-01-13。实读原摘要/出版史：Zn-TCPP与Y6异质结扩展UV–NIR、自供电探测和载流子分离，直接光电原研究。首次接收稿线上2026-01-13、校样1-27；正式47(4):042802，Published2026-04-21。DOI10.1088/1674-4926/25110031，与1期不同，未全文实验审计。
+- [Impact of charge layer thickness on current and noise in Ge-on-Si avalanche photodiodes at 1550 nm for lidar applications](https://www.jos.ac.cn/article/doi/10.1088/1674-4926/26040044)；首次线上 2026-06-26。实读原摘要/出版史并9期ARTICLES目录：制造表征不同电荷层厚度/掺杂Ge-on-Si APD在1550nm的噪声，直接LiDAR光探测原研究。首次接收稿线上2026-06-26、校样8-10；正式47(9):092401，Published2026-09-12。DOI10.1088/1674-4926/26040044，三原研究1/4/9不同正式期次，未借ResearchHighlight或旧综述充数。
+
+### 限制、影响与触发
+
+- JCR/CAS版年学科分区未知，ESCI不能当SCIE；EI覆盖年/逐篇入库未核。
+- 独立Scope与CurrentIssue两次技术失败停止；模板内部、完整稿型匿名/篇幅与当前OA/APC及其他费未知，公开稿规没有生效版年。
+- RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。
+- 维护触发：本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。
+- 只新增本固定候选的正式记录与本次质量审查；旧109刊、其余272候选、其他data、旧账本/固定G4/G5/finalAcceptance及冻结范围保持。

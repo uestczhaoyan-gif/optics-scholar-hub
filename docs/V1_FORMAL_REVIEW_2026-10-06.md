@@ -1165,3 +1165,21 @@ Infrared Physics & Technology；Elsevier；原checkedAt 2026-10-05，admitted候
 - 未解决内容及影响：具体特殊稿型/图摘与完整模板许可或系统材料未核；统计年样本均中及独立2026价格/个体资格税其他费未知。；CAS/2026全分类/覆盖单篇未知，波段酌情范围不等全部AI/可保证录用，不新增固定外样例。
 - 维护触发：本刊新波段/实验例外及稿规价表统计或新分类覆盖后维护，保留合理理论例外。
 - 全字段内容摘要643f4ea0ad91846870317885c5e1084303985002ef83309d8032500d5a842b71，基于15a6fe1577ccbfdc1a2c969ca8b33a5ebe32c00a；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G3J
+
+V1-G3J准入固定候选Journal of Semiconductors并同批完成新增正式质量；110刊/133届/98系列/10活动，273候选219 admitted/47 pending/7 deferred；SCIE95/ESCI13/EI101，JCR107/CAS11，56刊至少三篇样例。固定候选47/60（6准入、41实际限制）、余13；正式253/253（110刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。
+
+## journal-of-semiconductors
+
+Journal of Semiconductors；中国电子学会 / 中国科学院半导体研究所（IOP 在线承载）；1674-4926/2058-6140；新checkedAt 2026-10-06，候选journal-357da7987c一对一。
+
+- 身份/范围、三个原摘要及首次日/正式期次、独立数据库与实际访问范围见[原依据](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-357da7987c)。
+- 分区：JCR/CAS没有已核版年学科记录，明确未知；按独立已核EI工程补充准入。
+- 索引：SCIE/unverified，无独立肯定记录，不据ESCI推算历年覆盖；ESCI/confirmed/database [来源](https://mjl.clarivate.com/search-results?issn=1674-4926&hide_exact_match_fl=true)；MJL公开查询1674-4926唯一Exact Match JOURNAL OF SEMICONDUCTORS，IOP PUBLISHING LTD与刊号一致，结果卡Core Collection明确Emerging Sources Citation Index，不把侧栏SCIE勾选当SCIE收录。电子刊号卡未展开，另由本刊About确认。未登录profile/逐篇查询，覆盖起止未知。；EI_COMPENDEX/confirmed/database [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；原缓存SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；SERIALS2026-08-07第3566行Journal of Semiconductors、Journal、16744926/20586140及Institute of Physics匹配；本刊About说明中方出版/IOP在线承载，不混为无关同名刊。DISCONTINUED2026-05-01无匹配，未核覆盖年或单篇入库。
+- 已读作者规则：2026-10-06实读本刊 Preparing Your Manuscript（页面未标生效版年）：半导体物理/材料/器件/集成电路范围，研究须观点清楚、数据可靠；不得一稿多投，相关已发表内容应引用。独立Scope入口两次技术失败，不能声称完整Scope正文通读。；该公开规则：题名通常不超过10个实词，摘要通常不超200词且自洽、不含图表编号/引文/展示公式；3–6关键词、1–3 PACS或EEACC号。中国作者另提供中文题名、作者、单位与摘要；作者名单提交前确认。；初稿可PDF/Word/LaTeX，图表放相应正文位置，经官网ScholarOne入口 https://mc03.manuscriptcentral.com/jos-iop 提交。在线返修/查询步骤可读，未登录或提交；模板仅下载入口未读内部，整体页数/字数上限与全部匿名细则未核。；公开稿规说明SI单位、缩写首次解释及按序引用；一般至少15引文、其中10篇近五年。版权条款、作者变更等以编辑部现行确认/合同为准；网页无生效年，不能当已签协议或推断所有稿型相同。 [本刊指南](https://www.jos.ac.cn/news/PreparingYourManuscript.htm)。
+- 出版/费用：本刊公开指南称接受日起版权转给编辑部；线上彩图免费、印刷彩图RMB1200/彩色出版页。未标费率生效年，也未核当前OA/APC、普通版面费、机构协议及全部附加条件，不能据线上彩图免费宣称全部免费；以现行费用页/合同确认。
+- 周期：公开指南称初步审查意见和修改建议约一个半月、收到意见后三周上传返修；这是无统计版年的一般流程描述，不是已核中位外审/接收周期或个稿承诺。原接收稿上线、校样、正式出版日期分别保存，不能由三篇样例计算全刊周期。
+- 限制/影响：JCR/CAS版年学科分区未知，ESCI不能当SCIE；EI覆盖年/逐篇入库未核。；独立Scope与CurrentIssue两次技术失败停止；模板内部、完整稿型匿名/篇幅与当前OA/APC及其他费未知，公开稿规没有生效版年。；RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。
+- 维护触发：本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。
+- 全字段内容摘要7fa9c5a3f6f21223e74010589fed4c42f9d64c4cd83f58736953aac09496d8cf，基于fb0229ea11b98ee909cdbdd8fd97f32232d5ec0d；不是官网指纹，不表示未知消除。

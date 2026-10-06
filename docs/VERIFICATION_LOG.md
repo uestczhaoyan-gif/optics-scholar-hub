@@ -1773,3 +1773,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G3I实审4固定候选，保留pending及实际范围/限制；固定60已审46（5准入、41限制）、余14。正式质量252/252，当前正式目录已审清，G4/G5完成，G1/G3/G6仍待、整体IN_PROGRESS，目录及状态计数保持。 实际读ElsevierShop三刊完整Description/ISSN、ISPRS2024版学会出版政策及官方搜索所展开Scope。MIA/SAA范围原页各一次403即停止；ISPRS学会期刊入口web空文、正常浏览器第二次显示Elsevier人机验证，即刻停止且未解验证码；RSE未单独作403断言。原论文/完整作者页处于同平台限制，保留实际准入缺口，不将检索片段、指标或会议论文充三原摘要。 [细则/身份/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#v1-g3i)。必要数据保护、文档、构建与真实差异审查后提交验收同SHA。
 
 - 发布前validate、四候选五字段白名单/其余269与全部正式目录/冻结字节/旧252正式42候选G4G5final保护断言通过；568本地文件链接、七文件完整实际差异与git diff --check通过。Pages子路径本地构建及六资产exit0；同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages线上摘要。不把订阅销售、学会会议稿规或检索题名当Journal准入证据。
+
+## 2026-10-06：固定候选准入 V1-G3J
+
+- fb0229ea11b98ee909cdbdd8fd97f32232d5ec0d已验收[Pages 37460180099](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37460180099)；同SHA build/deploy成功，首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e匹配本地（2026-10-06T12:02:50.386Z）。编辑前HEAD=origin/main；work/V1-G3J-plan.json保存长操作范围，旧字段保护。
+- V1-G3J准入固定候选Journal of Semiconductors并同批完成新增正式质量；110刊/133届/98系列/10活动，273候选219 admitted/47 pending/7 deferred；SCIE95/ESCI13/EI101，JCR107/CAS11，56刊至少三篇样例。固定候选47/60（6准入、41实际限制）、余13；正式253/253（110刊/133届/10活动）、余0；G2当前正式审清、G4/G5完成，G1/G3/G6待，整体IN_PROGRESS。 [身份/原摘要/不同期次/独立索引/指南与真实尝试](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-357da7987c)。新正式记录同批实审；仍余13固定候选和最终G1/G6，未冒充结项。必要数据/文档/完整差异与子路径构建后推送同SHA验收。
+
+- 发布前受控主题/显式未知SCIE校验修复后validate通过；精确新增条目/其余272候选、全部旧data/冻结字节/旧252正式46候选G4G5final保护断言通过。878本地文件链接、11文件完整差异及git diff --check通过；Pages子路径本地构建和六资产exit0，已保存续接记录。新索引不混ESCI/SCIE，三个首次线上日与正式1/4/9期分开。同SHA CI独立31测试/类型/lint/构建后验收线上版本。

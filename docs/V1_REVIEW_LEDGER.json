@@ -1322,6 +1322,21 @@
         "三原摘要/不同期次首次日、MJL/JCR/CAS/电子身份/Guide收费与覆盖年未核"
       ],
       "maintenanceTrigger": "合法本刊原光谱方法摘要/出版史和新版分类指南公开后核三不同正式期次样例与准入，不把常规方法应用当创新光学。"
+    },
+    {
+      "candidateId": "journal-357da7987c",
+      "checkedAt": "2026-10-06",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-357da7987c",
+      "formalIds": ["journal-of-semiconductors"],
+      "limitations": [
+        "JCR/CAS版年学科分区未知，ESCI不能当SCIE；EI覆盖年/逐篇入库未核。",
+        "独立Scope与CurrentIssue两次技术失败停止；模板内部、完整稿型匿名/篇幅与当前OA/APC及其他费未知，公开稿规没有生效版年。",
+        "RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。"
+      ],
+      "maintenanceTrigger": "本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。"
     }
   ],
   "formalDataReviews": [
@@ -7107,6 +7122,29 @@
         "2028光学标签为系列条件关联非当届CFP确认"
       ],
       "maintenanceTrigger": "2028专属venue主题CFP作者费用出版公告或2027官方冲突澄清后维护，已知日城不反复查。"
+    },
+    {
+      "kind": "journal",
+      "id": "journal-of-semiconductors",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "7fa9c5a3f6f21223e74010589fed4c42f9d64c4cd83f58736953aac09496d8cf",
+      "formalReviewBase": "fb0229ea11b98ee909cdbdd8fd97f32232d5ec0d",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#journal-of-semiconductors",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "JCR/CAS版年学科分区未知，ESCI不能当SCIE；EI覆盖年/逐篇入库未核。",
+        "独立Scope与CurrentIssue两次技术失败停止；模板内部、完整稿型匿名/篇幅与当前OA/APC及其他费未知，公开稿规没有生效版年。",
+        "RMB1200仅印刷彩图/线上彩图免费非全免费；约一个半月一般审稿建议与三周返修不当统计周期。"
+      ],
+      "maintenanceTrigger": "本刊新版完整作者/收费/版权与模板、合法新版分区或索引覆盖材料公开后逐字段维护；不重复同未变化失败入口，不扩大固定候选或G4样例名单。"
     }
   ],
   "coreSeriesReviews": [

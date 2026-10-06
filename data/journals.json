@@ -8459,5 +8459,80 @@
         "relevance": "2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,1885–1892，正式期月December2025，Published/VOR2025-11-03。结构光经晶体相互作用构成两正交伪自旋分量，电压调控伪磁场/几何相位与二维skyrmion及三维hopfion跃迁；通过介质调控，不写成中性光子直接电荷耦合，量子计算应用为前景非已部署系统。订阅摘要预览，未通读全文/SI。"
       }
     ]
+  },
+  {
+    "id": "journal-of-semiconductors",
+    "name": "Journal of Semiconductors",
+    "abbr": "J. Semicond.",
+    "publisher": "中国电子学会 / 中国科学院半导体研究所（IOP 在线承载）",
+    "topics": ["电子与器件", "集成光子", "传感与测量"],
+    "domains": ["光学", "电子", "材料"],
+    "description": "原 Chinese Journal of Semiconductors，2009 年起全英文；综合半导体物理、材料、器件与集成电路。三不同正式期次原研究证实可见近红外、MOF 有机异质结探测与 1550 nm 激光雷达 APD 子集适配，数字电路等其他内容不自动视为光学。按独立已核 EI 工程补充路径收录，分区未知。",
+    "website": "https://www.jos.ac.cn/",
+    "guide": "https://www.jos.ac.cn/news/PreparingYourManuscript.htm",
+    "requirements": [
+      "2026-10-06实读本刊 Preparing Your Manuscript（页面未标生效版年）：半导体物理/材料/器件/集成电路范围，研究须观点清楚、数据可靠；不得一稿多投，相关已发表内容应引用。独立Scope入口两次技术失败，不能声称完整Scope正文通读。",
+      "该公开规则：题名通常不超过10个实词，摘要通常不超200词且自洽、不含图表编号/引文/展示公式；3–6关键词、1–3 PACS或EEACC号。中国作者另提供中文题名、作者、单位与摘要；作者名单提交前确认。",
+      "初稿可PDF/Word/LaTeX，图表放相应正文位置，经官网ScholarOne入口 https://mc03.manuscriptcentral.com/jos-iop 提交。在线返修/查询步骤可读，未登录或提交；模板仅下载入口未读内部，整体页数/字数上限与全部匿名细则未核。",
+      "公开稿规说明SI单位、缩写首次解释及按序引用；一般至少15引文、其中10篇近五年。版权条款、作者变更等以编辑部现行确认/合同为准；网页无生效年，不能当已签协议或推断所有稿型相同。"
+    ],
+    "publishing": "本刊公开指南称接受日起版权转给编辑部；线上彩图免费、印刷彩图RMB1200/彩色出版页。未标费率生效年，也未核当前OA/APC、普通版面费、机构协议及全部附加条件，不能据线上彩图免费宣称全部免费；以现行费用页/合同确认。",
+    "schedule": "公开指南称初步审查意见和修改建议约一个半月、收到意见后三周上传返修；这是无统计版年的一般流程描述，不是已核中位外审/接收周期或个稿承诺。原接收稿上线、校样、正式出版日期分别保存，不能由三篇样例计算全刊周期。",
+    "checkedAt": "2026-10-06",
+    "issn": "1674-4926",
+    "eissn": "2058-6140",
+    "rankings": [],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL当前唯一结果卡只确证ESCI；没有独立SCIE肯定记录，明确待核实，不将ESCI或侧栏选择换算为SCIE，也不推断历年未收录。"
+      },
+      {
+        "database": "ESCI",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1674-4926&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL公开查询1674-4926唯一Exact Match JOURNAL OF SEMICONDUCTORS，IOP PUBLISHING LTD与刊号一致，结果卡Core Collection明确Emerging Sources Citation Index，不把侧栏SCIE勾选当SCIE收录。电子刊号卡未展开，另由本刊About确认。未登录profile/逐篇查询，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "原缓存SHA2565f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39；SERIALS2026-08-07第3566行Journal of Semiconductors、Journal、16744926/20586140及Institute of Physics匹配；本刊About说明中方出版/IOP在线承载，不混为无关同名刊。DISCONTINUED2026-05-01无匹配，未核覆盖年或单篇入库。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Ultra-fast and high-responsivity self-powered vis−NIR photodetector via surface charge transfer doping in MoTe2/ReS2 heterostructures",
+        "source": "https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/25060013",
+        "publishedAt": "2025-09-18",
+        "relevance": "实读原摘要及完整出版史：分子掺杂调控MoTe2/ReS2垂直异质结自供电635–1064nm光探测，属原研究而非综述。首次接收稿线上2025-09-18、校样9-23；正式47(1):012701并Published2026-01-15，两日期不可混同。DOI10.1088/1674-4926/25060013，未通读全文实验。"
+      },
+      {
+        "title": "Broadband self-powered photodetector enabled by a MOF/organic heterojunction architecture",
+        "source": "https://www.jos.ac.cn/article/doi/10.1088/1674-4926/25110031",
+        "publishedAt": "2026-01-13",
+        "relevance": "实读原摘要/出版史：Zn-TCPP与Y6异质结扩展UV–NIR、自供电探测和载流子分离，直接光电原研究。首次接收稿线上2026-01-13、校样1-27；正式47(4):042802，Published2026-04-21。DOI10.1088/1674-4926/25110031，与1期不同，未全文实验审计。"
+      },
+      {
+        "title": "Impact of charge layer thickness on current and noise in Ge-on-Si avalanche photodiodes at 1550 nm for lidar applications",
+        "source": "https://www.jos.ac.cn/article/doi/10.1088/1674-4926/26040044",
+        "publishedAt": "2026-06-26",
+        "relevance": "实读原摘要/出版史并9期ARTICLES目录：制造表征不同电荷层厚度/掺杂Ge-on-Si APD在1550nm的噪声，直接LiDAR光探测原研究。首次接收稿线上2026-06-26、校样8-10；正式47(9):092401，Published2026-09-12。DOI10.1088/1674-4926/26040044，三原研究1/4/9不同正式期次，未借ResearchHighlight或旧综述充数。"
+      }
+    ]
   }
 ]
