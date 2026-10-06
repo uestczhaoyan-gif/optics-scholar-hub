@@ -4699,6 +4699,150 @@
         "后续届次日期/征稿未取得独立公告，不按旧年或其他Optica大会推算"
       ],
       "maintenanceTrigger": "本届正式作者/注册及平台文集通知或独立下一届公告出现后维护；既有不变PDP多次核验计入上限，不重复请求。"
+    },
+    {
+      "kind": "conference",
+      "id": "omta-2026",
+      "seriesId": "series-b0c4ac2df9cc",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f7fbe45479d0de027a5aa3c24eff767598a5b733380db01faae3b55a8395bc11",
+      "formalReviewBase": "e7bc07d223a7217e31e6039c478c27c2de29bbd6",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#omta-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "具体场馆、SPIE全文截止/入口和系统实际开放未知，英文摘要截止不替代全文",
+        "模板/保密审查文件内部、会员价格资格/退款实施和最终作者注册未知，未登录或付款",
+        "实际文集单篇出版索引、中文推荐录用及下届日城未知"
+      ],
+      "maintenanceTrigger": "明确场馆/全文作者通知、正式注册费表变更或下届独立公告出现后维护；不重复查询已多次不变10/15源。"
+    },
+    {
+      "kind": "conference",
+      "id": "photonics-asia-2026",
+      "seriesId": "series-371089ec00a2",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "235dde62fee61aa0a3ca54c06768da1b0a383e44cf6bf06c523f106b49931704",
+      "formalReviewBase": "e7bc07d223a7217e31e6039c478c27c2de29bbd6",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#photonics-asia-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "SPIE当届完整摘要字数/全文版式与模板内部/实际系统未核实，不能借别届SPIE规则",
+        "最终注册硬截止、精确全文时刻及单篇出版/索引未知，版面费非证明",
+        "退款凭证实施、2027具体城市/日及征稿未知，承办征集不能代替"
+      ],
+      "maintenanceTrigger": "2026 SPIE明确全文材料/当届作者通知或2027独立完整公告出现后维护；保留原专题版本和建议注册边界。"
+    },
+    {
+      "kind": "conference",
+      "id": "cos-changchun-2026",
+      "seriesId": "series-c24fd6043a31",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4a62876986518fe9ec3d43e6a30716788dd07126e6c380811561671e0193e955",
+      "formalReviewBase": "e7bc07d223a7217e31e6039c478c27c2de29bbd6",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cos-changchun-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "最终注册/费用、模板内部及具体报告材料未全量核实，5/31只是优惠",
+        "推荐期刊名单/正刊增刊分配、独立录用/索引未知，不能等同会议摘要入选",
+        "下一届确切会期/日城CFP未知，年度描述及同期展览不作为推算依据"
+      ],
+      "maintenanceTrigger": "COS长春本系列新届正式公告或推荐期刊独立政策发布后按届维护；旧届已成功范围不重复请求。"
+    },
+    {
+      "kind": "conference",
+      "id": "precision-engineering-2026",
+      "seriesId": "series-af2567157c7b",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "8649a883f0345543c1400b6f8993108dcaa2bd3c720bc84ee2b0b058b2726aa5",
+      "formalReviewBase": "e7bc07d223a7217e31e6039c478c27c2de29bbd6",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#precision-engineering-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "专刊实际截止、模板页限/审稿录用与索引未知，5/31不能提醒为论文截止",
+        "注册入口null、最终作者付款/费用及回执文件内部未核实，未发邮件或填回执",
+        "下一届日期/城市未知，专题首页未公告不等于停办"
+      ],
+      "maintenanceTrigger": "CIS独立下届通知、《中国测试》专刊详细CFP或正式录用/出版公告出现后维护；不重复旧报道。"
+    },
+    {
+      "kind": "conference",
+      "id": "optic-2026",
+      "seriesId": "series-97185827f1be",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "180a3047edc17a777b9b0cd55b18a040d7ab4494a4aa76c83f3a8211dafd853b",
+      "formalReviewBase": "e7bc07d223a7217e31e6039c478c27c2de29bbd6",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#optic-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部、系统是否实际开放、最终报告安排未核实，公开窗口不代表登录内可投",
+        "注册截止时刻/完整非学生价格及退款实施未知，只有退款明确23:59",
+        "实际期刊后续录用/索引和下届日城未知，CD/USB交流不提供SCI/EI保证"
+      ],
+      "maintenanceTrigger": "本届作者/注册更正、独立下届公告或目标期刊正式政策出现后按用途维护；相同旧普通和PosterOnly多次源不重试。"
+    },
+    {
+      "kind": "conference",
+      "id": "oecc-ip-2027",
+      "seriesId": "series-a519e108b98e",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "0cd680a91616ff4ed3edf5f941b7b47cab8bc932a035037c571f3a5fa29c7ecc",
+      "formalReviewBase": "e7bc07d223a7217e31e6039c478c27c2de29bbd6",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#oecc-ip-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板/真实投稿启用和PDF eXpress编号未知，PDP独立页限不能从regular继承",
+        "PDP作者注册日、时刻/时区、真实费用币种/2025注册残留适用未知，5/30早鸟不替代5/23作者付款",
+        "逐篇文集/Xplore实际收录及下届联合关系未知，条件送审不能保证已检索"
+      ],
+      "maintenanceTrigger": "真实2027模板/编号/系统启用、独立PDP作者注册或完整2027费表公告出现后维护；普通/PDP相同未变指南两次已达停止重复。"
     }
   ],
   "coreSeriesReviews": [
