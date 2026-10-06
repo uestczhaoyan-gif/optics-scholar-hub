@@ -1327,3 +1327,91 @@ International Conference on Computational Photography 2027；2027；IEEE ICCP/se
 - 未解决内容及影响：所链模板2026文件名的内部内容未核、OpenReview实际启用及具体楼宇未知；超页$币种/收费适用和注册费率最终作者付款未知；PAMI转交/期刊实际录用与会议出版索引未核，推荐非保证
 - 维护触发：2027明确模板修订/实际系统启用、注册费币种或PAMI作者通知公开后维护，巡检保留两已观察公开正文端点。
 - 完整记录内容摘要066bb12ed08b1d5bffbd23a864c96b5fae14ae75913bb7c3353803d46edd9e7e，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AH
+
+已完整实读六届JSON、稳定系列及admitted关系、C25 ICAP/ISSCC原PDF实际页范围和C21器件各独立规则。ISSCC LBN第二有效请求（10/4首次）成功，10/7工业生产级产品意向截止仍有效且非普通稿延长；MEMS abstract_submission第二有效请求InternalError未正文，OpenPoster定义第二成功（工具缓存两天前）仍10/27而非系统旧Thursday4December，不消除原冲突；同未变源停止两次。其余复用原实际证据，不新下载模板/登录或继承不同届规则；data/原checkedAt保持，本批正式质量日期不冒充全站新核验。 累计正式质量216/252，余36未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## isscc-2027
+
+IEEE International Solid-State Circuits Conference 2027；2027；IEEE International Solid-State Circuits Conference/series-4db46216fe9f；admitted关联conference-series-d36e2878e7，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.isscc.org/)、[原通知](https://www.isscc.org/paper-submission-26)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c25原子分子光物理历史与芯片投稿轨道2026-10-04)。
+- 全字段审阅范围：IEEE/SSCS当届官网与五页CFP中仅前3页实际文字、1/3页图像范围明确2027 SF Marriott Marquis2/14–18，光学仅成像/event/ToF/LiDAR与光互连集成光子子主题不泛所有芯片。ordinary9/9 15EDT UTC−04已过，定量摘要≤500含空格字符、两独立PDF文字≤5p/ArialNarrow12双行单栏<11000含空格字符（不含题名refs身份替代）、图≤2p含芯片照片和比较表共≤7主图另≤3审稿补图，表计图、≤30refs系统独立输入；双盲身份/PCB去标与density工具要求非已执行，OpenDesign/Data徽章自愿。10/21普通通知与SRP学生短讲poster摘要日期分别不混。LBN二读公开正文仍10/7只title+shortabstract意向、12/1 camera-ready、12/9四篇选择、12/14编辑批准/程序摘要，只2027上市生产级产业芯片/IP，不是普通稿PDP或academic通道；无确切时刻、LBN模板不继承5p。普通Digest与后JSSC邀请非保证录用索引，注册费用未知。
+- 日城与范围：2027-02-14–2027-02-18；美国 · 加利福尼亚州旧金山；San Francisco Marriott Marquis；submissionState published。
+- 逐字段截止及出处：普通稿截止（官网现已关闭）：2026-09-09T15:00:00-04:00 / America/New_York [来源](https://www.isscc.org/paper-submission-26)；普通稿录用通知（非LBN）：2026-10-21 [来源](https://www.isscc.org/paper-submission-26)；工业LBN投稿意向截止（限2027产品，非普通稿）：2026-10-07 [来源](https://www.isscc.org/late-breaking-news-1)；题名+短摘要，仅生产级工业芯片/IP，最多4篇；只日期无时刻。；工业LBN camera-ready格式论文提交：2026-12-01 [来源](https://www.isscc.org/late-breaking-news-1)；独立产品轨道，非普通论文延期/录用后全会终稿。；工业LBN决定通知：2026-12-09 [来源](https://www.isscc.org/late-breaking-news-1)；学生SRP研究预览摘要截止（非普通论文）：2026-10-21 [来源](https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf)；短报告+海报展示；是否论文集收录未核。；作者注册/费用截止待核实：未知 [来源](https://www.isscc.org/)
+- 本届条件出版原字段：普通稿为Digest of Technical Papers稿件；CFP所提JSSC特刊邀请/奖项不等于所有稿件期刊录用。LBN是有限工业论文轨道、SRP是学生展示，具体归档/实际索引与费用尚未逐项核验。
+- 本届范围/冲突原备注：当前官网和2027 CFP明确2/14–18旧金山及酒店；路径paper-submission-26虽含26，实际正文2027/2026-09-09截止与本届PDF一致。五页PDF只读前3页文字、核第1/3页图，不声称通读第4/5页。普通、工业LBN与学生SRP截止/通知分别标注，作者注册/费率及最终资料仍unknown；未登录或提交。
+- 未解决内容及影响：LBN与SRP各自篇幅模板、实际系统接收及精确时刻未知，ordinary规则不可转移；五页CFP仅前3页文字及1/3图像已核，其余不冒充已读；作者费用注册条件/实际单篇索引与JSSC录用未知，density工具未实际运行
+- 维护触发：仅新LBN/SRP模板或正式作者注册/出版通知公开后维护；10/7为工业意向，不给普通学术稿误报机会，同不变LBN来源两次停止。
+- 完整记录内容摘要4c8632a49267f357ee316e464cee88c6b4990dbde8165883af74fab201d78603，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。
+
+## icap-2024
+
+28th International Conference on Atomic Physics；2024；International Conference on Atomic Physics/series-c98100e238d7；admitted关联conference-series-c04ece235d，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://icap28.com/)、[原通知](https://icap28.com/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c25原子分子光物理历史与芯片投稿轨道2026-10-04)。
+- 全字段审阅范围：29th previous-ICAPs正式直链28th icap28.com确证Atomic Physics而非ComputationalAcceleratorPhysics，2024/7/14–19 Imperial College London，博物馆晚宴和V&A接待非主会场；同series保留2026独立历史。已展开full/student注册说明，virtual条款未展开。已注册delegate仅一poster摘要6/1日期级，A0竖版；字数模板未核。GBP标准faculty/student650/450至4/1、late750/550至5/10、onsite850/650，括号USD约数不作币种费率，简介early与表Standard按价格阶段不猜最终注册关闭。历史公布不声称现在表单可用，poster gallery不是full proceedings，不用历史A0/价格推2026。
+- 日城与范围：2024-07-14–2024-07-19；英国 · 伦敦；Imperial College London；submissionState published。
+- 逐字段截止及出处：历史海报摘要截止：2024-06-01 [来源](https://icap28.com/)；主页日期级，不补具体时刻。；历史标准/早期注册价格阶段截止：2024-04-01 [来源](https://icap28.com/)；主页称early，价格表称Standard；只已公布阶段结束日。；历史Late注册价格阶段截止（非最终注册）：2024-05-10 [来源](https://icap28.com/)；另有现场费率，不能作为最终参会截止。
+- 本届条件出版原字段：已核形式为邀请报告及投稿海报，页面提供virtual poster gallery；是否有正式全文论文集/实际索引本轮未核，不把摘要接收当SCI/EI发表。
+- 本届范围/冲突原备注：ICAP29 Previous ICAPs直接链此站，名称/届次继承明确。Dinner与WelcomeReception另有自然历史/V&A博物馆场地，不当主会场。下一届2026有独立要求，2024海报A0不套用；2028具体日城未取得当届证据。
+- 未解决内容及影响：摘要字数模板、virtual与poster资格关系未知，虚拟条款未展开；作者最终注册/摘要接受通知及时刻未知，价格段不是全部注册终止；正式论文集实际索引与2028届未知，不凭poster画廊/周期推算
+- 维护触发：历史作者/虚拟政策或出版档案、新ICAP官方后续届公告明确后逐字段维护；2024/2026独立模板。
+- 完整记录内容摘要800070e5d2ad47a2290a3d204b00db7af84d9dad269d03d9b5af569b90d236ac，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。
+
+## icap-2026
+
+29th International Conference on Atomic Physics；2026；International Conference on Atomic Physics/series-c98100e238d7；admitted关联conference-series-c04ece235d，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.icap29.com/home.html)、[原通知](https://www.icap29.com/exhibitors.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c25原子分子光物理历史与芯片投稿轨道2026-10-04)。
+- 全字段审阅范围：29th ICAP当届home/ImportantDates明确武汉东湖国际会议中心东湖宾馆北区2026/6/14–19含14报到，暑校卫星独立；exhibitors路径实际日期正文不能按URL误作展览。AMO量子QED钟/干涉冷分子超快精密测量，invited+contributed posters。5/25 abstract/online reg仅date、early3/31及regular4/1–5/25、onsite另售不把5/25当全注册关闭。USD faculty/student500/350、650/450、750/550，对应CNY3500/2500、4600/3200、5200/3800；含session餐/茶材料，hotel另付，optional banquet50USD/350CNY。未读英语中文linked信息PDF内部，字数模板/尺寸unknown不继承2024A0；材料非正式Proceedings或索引确证，2028具体未核不推周期。
+- 日城与范围：2026-06-14–2026-06-19；中国 · 湖北武汉；East Lake International Conference Center（东湖宾馆北区）；submissionState published。
+- 逐字段截止及出处：历史contributed poster摘要提交截止：2026-05-25 [来源](https://www.icap29.com/exhibitors.html)；官方只日期，具体时刻未明。；历史早鸟注册截止：2026-03-31 [来源](https://www.icap29.com/exhibitors.html)；历史网上注册截止（现场另有安排）：2026-05-25 [来源](https://www.icap29.com/exhibitors.html)；官网另列现场费率及6/14到达/现场注册，不把此日当最终报名。
+- 本届条件出版原字段：已核本届形式为邀请报告与投稿海报；会议材料不等于正式全文论文集，未核出版路径/单篇索引，不承诺SCI/EI。
+- 本届范围/冲突原备注：Important Dates实际路径exhibitors.html但正文明确当届日期；首页完整6/14–19，6/14为到达及现场注册，未将SummerSchool/Satellite日期套主会。29届继承28届有官网往届链；2028日城/征稿仍无已核当届公告，不按两年周期推算。英文/中文ConferenceInformation PDF仅核链接，本轮内部未读，不声称摘要模板已核。
+- 未解决内容及影响：当届摘要字数模板/尺寸与链接信息PDF内容未知，不沿用2024；精确时刻/通知/最终作者注册未知，online截止不否定onsite；正式出版/索引与后续具体届次未知，会议材料不证明归档
+- 维护触发：ICAP29历史稿规/出版资料或ICAP30独立官方公告公开后维护，保留当届币种及费用类别。
+- 完整记录内容摘要7f6063b3c857497512cb1f9717a5bf963166cefee4d873b84cc94b89bdf562c1，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。
+
+## ieee-mems-2027
+
+40th IEEE International Conference on Micro Electro Mechanical Systems；2027；IEEE MEMS/series-39b9fd64bb1a；admitted关联conference-series-39b9fd64bb，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://mems27.org/)、[原通知](https://mems27.org/authors/deadlines.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c21微器件传感广度及未来届次2026-10-04)。
+- 全字段审阅范围：40th MEMS2027/1/17–21 Hilton Waikoloa Village BigIsland，主页页脚2025版权非会期。仅5.08光子MEMS/5.09自由空间显示镜片探测/5.10IR成像/7.02光子集成子类。普通双盲2p匿名PDF A4或Letter、第一页文字≤600words不含题/heading/refs、图第二页；普通8/6与指南7/28旧冲突均已过，不替原explicit HST8/6。10/12通知及10/15确认非重新摘要，4p full11/17 23:59HST、作者11/17付款仅date。OpenPoster自有A0 841×1189PDF≤5MB技术内容、原deadline/definition10/27 23:59HST、11/10通知11/13确认；二读definition仍10/27不含Digest/Xplore、title入program，abstract_submission二次未正文不能删除原无年Thursday4December冲突。普通4p传统无APC，Xplore OA可选$800；MINE最多30篇4p联合审决定$1895+$800，JMEMS≥5p联合审IEEE承担journalAPC但author$800OA，各$币种未知/注册额外不保证journal录用或单篇索引；注册页仅标题实际费用未知。
+- 日城与范围：2027-01-17–2027-01-21；美国 · 夏威夷大岛；Hilton Waikoloa Village；submissionState published。
+- 逐字段截止及出处：普通摘要截止页8月6日（已过；指南7月28日冲突）：2026-08-06T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；普通摘要结果通知：2026-10-12T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；录用作者接受确认（非新摘要）：2026-10-15T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；开放海报截止页/说明页（系统12月4日提示冲突待核）：2026-10-27T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；开放海报结果通知：2026-11-10T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；开放海报作者接受确认（非新海报）：2026-11-13T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；普通录用稿4页全文截止：2026-11-17T23:59:00-10:00 / Pacific/Honolulu [来源](https://mems27.org/authors/deadlines.html)；普通录用作者注册支付界限（费用/入口待核）：2026-11-17 [来源](https://mems27.org/authors/abstract_guidelines.html)
+- 本届条件出版原字段：普通4页稿按主办声明进入技术摘要集/IEEE Xplore，传统路径无APC，选择Xplore OA另$800。新MINE轨道限30篇，4页、联合审改及最终决定，录用后$1895 APC+$800 OA；JMEMS轨道联合审改并扩成≥5页，期刊APC由IEEE承担但作者仍付$800 OA。上述$币种未明，参会费另计；Open Poster不入会议录/Xplore，非实际EI检索证明。
+- 本届范围/冲突原备注：摘要截止页8月6日与指南7月28日冲突，均已过；只保存来源版本，不声称普通摘要仍开放。Open Poster的10月27日与系统末尾“Thursday, 4 December”冲突，后者未给年份，不造第二个有效截止。所有截止按HST；通知/接受确认另列，注册实际费率及模板文件内容未核。
+- 未解决内容及影响：ordinary8/6对7/28及OpenPoster10/27对无年4December冲突保留，二读未解决；会议注册费/$币种/作者最终付款时刻和真实单篇收录未知；模板内部与journal独立决定未核，OpenPoster无Digest/Xplore不能借普通归档
+- 维护触发：官方明确更正冲突日期、发布注册费币种或joint-review作者通知后维护；同已两次入口停止，不绕过失败/提交账号。
+- 完整记录内容摘要0aa8b01710e30267b0d44a813ab6f8133333d0fcb24e195154ed40ecf46a2001，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。
+
+## iedm-2026
+
+72nd IEEE International Electron Devices Meeting；2026；IEEE IEDM/series-4754e84ed990；admitted关联conference-series-d1a5934e3e，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://ieee-iedm.org/)、[原通知](https://ieee-iedm.org/submission-details/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c21微器件传感广度及未来届次2026-10-04)。
+- 全字段审阅范围：72th当届Hilton SF UnionSquare2026/12/12–16含tutorial/shortcourse，光学限ODI光子器件/硅光调制探测异质集成量子SPAD/ToF及SMB光机电，不泛所有电子。4p camera-readyPDF≤2p text+≤2p图/题注USLetter≥10pt，另系统150words非PDF新增页；PDFexpress→Mira未登录/ConferenceID泛说明非核实凭据。ordinary延期7/19 23:59PDT UTC−07而metadata7/16未延、LateNews8/18同已过、9/9通知date；首页closed优先旧banner开放不混稿型，LateNews无student travel award。需原始未先发表majorparts（有无Proceedings均约束）不能擅改authors，named作者onsite及20分钟录制/template slides，upload DDL未知。公开registration欢迎页已读不登录，11/10前member/non学生$250/300、常规655/815币种$未核、tutorial/short另付，无refund；discount/hotel日不是全注册最后日。OnDemand12/21开始到2027/1/31注册不延长实体会期。Digest条件/后journal独立不作PDFExpress索引保证；未来2027/28仅日城不继承本届。
+- 日城与范围：2026-12-12–2026-12-16；美国 · 加利福尼亚州旧金山；Hilton San Francisco Union Square；submissionState closed。
+- 逐字段截止及出处：普通论文延长截止（已关闭）：2026-07-19T23:59:00-07:00 / America/Los_Angeles [来源](https://ieee-iedm.org/submission-details/)；Late News论文截止（已过）：2026-08-18T23:59:00-07:00 / America/Los_Angeles [来源](https://ieee-iedm.org/submission-details/)；普通论文结果通知：2026-09-09 [来源](https://ieee-iedm.org/submission-details/)；优惠注册截止（时刻未明）：2026-11-10 [来源](https://ieee-iedm.org/attendee/registration-details/)；仅OnDemand注册终日（非实体会期）：2027-01-31 [来源](https://ieee-iedm.org/attendee/registration-details/)；报告视频/幻灯片上传截止待核：未知 [来源](https://ieee-iedm.org/submission-details/)
+- 本届条件出版原字段：主办方声明录用4页稿按原稿进入IEDM Technical Digest，需版权与现场报告；PDF eXpress是合规步骤，不等于数据库索引确认。会议后可扩写期刊，不能会前公开；未核当届实际EI/SCIE单篇收录或独立出版费。
+- 本届范围/冲突原备注：12月12–16为含教程/短课的完整活动，会议主页明确普通投稿已关闭；旧CFP横幅“open”不当当前受理证明。11月10日是优惠费/酒店界限，非最后参会日；OnDemand12月21日起，注册持续至2027年1月31日且不退款，不扩成实体会期。2027/2028有官方独立会期，仅预告；2026稿规/费表不迁移。
+- 未解决内容及影响：$币种、最终作者付款/视频幻灯片上传日期未知，酒店/折扣不替代；PDFExpress具体ID/账号内部未核，转换合规不证明数据库单篇收录；未来2027/28仅日城，不能复制2026稿规/费用，后journal审录独立
+- 维护触发：当届作者最终上传/注册币种或未来独立CFP公开后维护，不重复旧日期/登录系统。
+- 完整记录内容摘要f84386c15c7a99722ce0d3dd44097fe0d03377b9450559f5317a18d352fb6f4b，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。
+
+## vlsi-2027
+
+2027 Symposium on VLSI Technology and Circuits；2027；Symposium on VLSI Technology and Circuits/series-1cf49822c73a；admitted关联conference-series-ca6b879229，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://www.vlsisymposium.org/)、[原通知](https://www.vlsisymposium.org/assets/pdf/VLSI2027_1stCFP.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c21微器件传感广度及未来届次2026-10-04)。
+- 全字段审阅范围：2022技术电路合并About同稳定一series，Kyoto Rihga Royal2027/6/20–24：20workshops21shortcourses22–24技术，Info六日措辞与明确CFP五日期冲突保留不补第六天。FirstCFP1p实际全文及渲染，光学限quantumphotonics/光计算/光互连transceiver/成像显示circuits，不泛所有CMOSAI。三页paper abstract1/25/2027 23:59JST UTC+09 AsiaTokyo；accepted原提交版本不得amend，详细authorguide/prepublication/template实际系统未核。全部onsite+laterondemand不等于远程报告；student award submission时fulltime primary且presenting需标。TED/JSSC/SSCL扩展仅邀请独立审稿非保刊，fees通知注册unknown；2028HonoluluJune只月份不伪造具体日/下一届规则。
+- 日城与范围：2027-06-20–2027-06-24；日本 · 京都；Rihga Royal Hotel Kyoto；submissionState published。
+- 逐字段截止及出处：2027三页论文摘要截止：2027-01-25T23:59:00+09:00 / Asia/Tokyo [来源](https://www.vlsisymposium.org/assets/pdf/VLSI2027_1stCFP.pdf)；录用通知日待公布：未知 [来源](https://www.vlsisymposium.org/)；2027注册/费用与截止待公布：未知 [来源](https://www.vlsisymposium.org/)
+- 本届条件出版原字段：CFP声明录用稿原稿出版；优秀扩展稿可被邀请投TED/JSSC/SSCL，不保证期刊录用。2027具体会议录载体、费用及实际数据库索引仍未确认。
+- 本届范围/冲突原备注：Jan25 23:59 JST已明示，以Asia/Tokyo保存。完整跨度6/20–24；通用info页“six-day”与跨度不符，按当届PDF具体分段，不擅自加一天。2028只有6月Honolulu线索，无具体日不建正式届；2027费用/通知/系统与详细政策继续跟进。
+- 未解决内容及影响：六日措辞与五日明列冲突保留，未知详细作者指南/模板/实际系统；费用/通知/注册及真实索引载体条件未知，journal邀请不保录；2028仅城市月份，不推具体日，不把OnDemand当远程报告许可
+- 维护触发：正式详细CFP/作者注册或2028明确日程发布后维护，不重复不变1pFirstCFP。
+- 完整记录内容摘要0e1ddbd7cbbdbcbed33025eebaae579ad119863d647c0391c3097b8f4af2d03b，基于ffa9b0d3975c56cda03d8185beab437298a1f1f9；非官网内容指纹，未知不冒充已补齐。

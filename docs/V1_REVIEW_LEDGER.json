@@ -6043,6 +6043,150 @@
         "PAMI转交/期刊实际录用与会议出版索引未核，推荐非保证"
       ],
       "maintenanceTrigger": "2027明确模板修订/实际系统启用、注册费币种或PAMI作者通知公开后维护，巡检保留两已观察公开正文端点。"
+    },
+    {
+      "kind": "conference",
+      "id": "isscc-2027",
+      "seriesId": "series-4db46216fe9f",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4c8632a49267f357ee316e464cee88c6b4990dbde8165883af74fab201d78603",
+      "formalReviewBase": "ffa9b0d3975c56cda03d8185beab437298a1f1f9",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#isscc-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "LBN与SRP各自篇幅模板、实际系统接收及精确时刻未知，ordinary规则不可转移",
+        "五页CFP仅前3页文字及1/3图像已核，其余不冒充已读",
+        "作者费用注册条件/实际单篇索引与JSSC录用未知，density工具未实际运行"
+      ],
+      "maintenanceTrigger": "仅新LBN/SRP模板或正式作者注册/出版通知公开后维护；10/7为工业意向，不给普通学术稿误报机会，同不变LBN来源两次停止。"
+    },
+    {
+      "kind": "conference",
+      "id": "icap-2024",
+      "seriesId": "series-c98100e238d7",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "800070e5d2ad47a2290a3d204b00db7af84d9dad269d03d9b5af569b90d236ac",
+      "formalReviewBase": "ffa9b0d3975c56cda03d8185beab437298a1f1f9",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icap-2024",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要字数模板、virtual与poster资格关系未知，虚拟条款未展开",
+        "作者最终注册/摘要接受通知及时刻未知，价格段不是全部注册终止",
+        "正式论文集实际索引与2028届未知，不凭poster画廊/周期推算"
+      ],
+      "maintenanceTrigger": "历史作者/虚拟政策或出版档案、新ICAP官方后续届公告明确后逐字段维护；2024/2026独立模板。"
+    },
+    {
+      "kind": "conference",
+      "id": "icap-2026",
+      "seriesId": "series-c98100e238d7",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "7f6063b3c857497512cb1f9717a5bf963166cefee4d873b84cc94b89bdf562c1",
+      "formalReviewBase": "ffa9b0d3975c56cda03d8185beab437298a1f1f9",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icap-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "当届摘要字数模板/尺寸与链接信息PDF内容未知，不沿用2024",
+        "精确时刻/通知/最终作者注册未知，online截止不否定onsite",
+        "正式出版/索引与后续具体届次未知，会议材料不证明归档"
+      ],
+      "maintenanceTrigger": "ICAP29历史稿规/出版资料或ICAP30独立官方公告公开后维护，保留当届币种及费用类别。"
+    },
+    {
+      "kind": "conference",
+      "id": "ieee-mems-2027",
+      "seriesId": "series-39b9fd64bb1a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "0aa8b01710e30267b0d44a813ab6f8133333d0fcb24e195154ed40ecf46a2001",
+      "formalReviewBase": "ffa9b0d3975c56cda03d8185beab437298a1f1f9",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ieee-mems-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "ordinary8/6对7/28及OpenPoster10/27对无年4December冲突保留，二读未解决",
+        "会议注册费/$币种/作者最终付款时刻和真实单篇收录未知",
+        "模板内部与journal独立决定未核，OpenPoster无Digest/Xplore不能借普通归档"
+      ],
+      "maintenanceTrigger": "官方明确更正冲突日期、发布注册费币种或joint-review作者通知后维护；同已两次入口停止，不绕过失败/提交账号。"
+    },
+    {
+      "kind": "conference",
+      "id": "iedm-2026",
+      "seriesId": "series-4754e84ed990",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f84386c15c7a99722ce0d3dd44097fe0d03377b9450559f5317a18d352fb6f4b",
+      "formalReviewBase": "ffa9b0d3975c56cda03d8185beab437298a1f1f9",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iedm-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "$币种、最终作者付款/视频幻灯片上传日期未知，酒店/折扣不替代",
+        "PDFExpress具体ID/账号内部未核，转换合规不证明数据库单篇收录",
+        "未来2027/28仅日城，不能复制2026稿规/费用，后journal审录独立"
+      ],
+      "maintenanceTrigger": "当届作者最终上传/注册币种或未来独立CFP公开后维护，不重复旧日期/登录系统。"
+    },
+    {
+      "kind": "conference",
+      "id": "vlsi-2027",
+      "seriesId": "series-1cf49822c73a",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "0e1ddbd7cbbdbcbed33025eebaae579ad119863d647c0391c3097b8f4af2d03b",
+      "formalReviewBase": "ffa9b0d3975c56cda03d8185beab437298a1f1f9",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#vlsi-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "六日措辞与五日明列冲突保留，未知详细作者指南/模板/实际系统",
+        "费用/通知/注册及真实索引载体条件未知，journal邀请不保录",
+        "2028仅城市月份，不推具体日，不把OnDemand当远程报告许可"
+      ],
+      "maintenanceTrigger": "正式详细CFP/作者注册或2028明确日程发布后维护，不重复不变1pFirstCFP。"
     }
   ],
   "coreSeriesReviews": [
