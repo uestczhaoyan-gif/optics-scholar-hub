@@ -1251,6 +1251,21 @@
         "APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。"
       ],
       "maintenanceTrigger": "官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。"
+    },
+    {
+      "candidateId": "journal-8247293c00",
+      "checkedAt": "2026-10-06",
+      "result": "admitted",
+      "candidateStatus": "admitted",
+      "previousReviewDate": null,
+      "evidence": "V1_CANDIDATE_REVIEW_2026-10-06.md#journal-8247293c00",
+      "formalIds": ["nature-physics"],
+      "limitations": [
+        "Aims同一未变化来源累计两次web工具IdP500后停止；独立journal-information与原论文/指南已实读，不声称Aims成功。JCR为2025指标2024机构转载secondary，CAS/2026完整分区及索引覆盖年/单篇未知。",
+        "三原完整摘要/出版史已核不同正式期月，未通读全文/SI，第一/第三篇订阅预览；材料、模拟平台和介质调控结论只限原条件。",
+        "OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。"
+      ],
+      "maintenanceTrigger": "本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。"
     }
   ],
   "formalDataReviews": [
@@ -3703,6 +3718,29 @@
         "原摘要元数据非全文/SI，秒级不误毫秒/高EQE非能量效率，阵列模拟非实测相机；CAS/2026分类与覆盖起止单篇未知。"
       ],
       "maintenanceTrigger": "本刊新版明确Brief/SI/费用日期、评审统计或系统材料及合法分类覆盖证据出现后维护，不继承EDL独立规则。"
+    },
+    {
+      "kind": "journal",
+      "id": "nature-physics",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "f3decb16d0fa983cb18c4fa334d45865bcb25f1ec114753874277f58bd13ae32",
+      "formalReviewBase": "f1a428b732c91ee409acb25add4ad4925d22addb",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#nature-physics",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "Aims同一未变化来源累计两次web工具IdP500后停止；独立journal-information与原论文/指南已实读，不声称Aims成功。JCR为2025指标2024机构转载secondary，CAS/2026完整分区及索引覆盖年/单篇未知。",
+        "三原完整摘要/出版史已核不同正式期月，未通读全文/SI，第一/第三篇订阅预览；材料、模拟平台和介质调控结论只限原条件。",
+        "OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。"
+      ],
+      "maintenanceTrigger": "本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。"
     }
   ],
   "coreSeriesReviews": [

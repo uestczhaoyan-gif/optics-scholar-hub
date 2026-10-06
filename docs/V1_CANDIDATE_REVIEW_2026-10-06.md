@@ -225,3 +225,47 @@ Nature Methods；admitted，正式ID nature-methods。
 - 限制/影响：JCR2025为机构转载secondary，未登录官方JCR当前全学科/2026表；CAS及索引覆盖年份未知。EI本版未取得匹配不是未收录或停收。；三样例已核原完整公开摘要/出版史及不同正式期月，未通读全文，前两篇是订阅预览；不把仪器条件外推全部光学研究。；APC页未标生效年/税费，未知当前周期；初投与AIP/最终接受规则独立，各稿型词数口径及原始/非原始研究费用分开。
 - 维护触发：官方新分区或新版索引来源表、费用/指南修订及合法当前统计出现后逐字段维护；未变化来源不重查，固定G4名单与V1后续发现范围不扩大。
 - 只新增此固定候选准入和正式刊、两个账本记录；旧107刊/85正式审核/40候选审核、其余272候选、其他data/冻结范围/G4/G5及finalAcceptance保持。
+
+## V1-G3H
+
+V1-G3H准入固定候选Nature Physics并完成新增正式质量；109刊/133届/98系列/10活动，273候选218 admitted/48 pending/7 deferred，SCIE95/ESCI12/EI100，JCR107/CAS11，55刊至少三篇样例。固定候选42/60（5准入37实际已审查限制）、余18；正式111/252（72刊/29届/10活动）、余141。G4/G5完成，G1/G2/G3/G6待验收，整体IN_PROGRESS。
+
+## journal-8247293c00
+
+Nature Physics；admitted，正式ID nature-physics。
+
+已实读本刊公开身份/投稿稿型及独立指南、三近两年不同正式期月Article原摘要和首次/VOR日；MJL唯一卡当前SCIE、EI官方来源表第4143行与两个刊号匹配，JCR2025指标2024多学科物理JIF Q1机构转载经视觉核对，满足交叉准入。更正原线索误称综述刊，不由JIF18.0推分区。
+
+### 身份与独立准入证据
+
+- [Journal information](https://www.nature.com/nphys/journal-information)实际公开页面：月刊、纯粹/应用物理、专业编辑团队、Nat. Phys.及1745-2473/1745-2481。Aims技术失败不冒充已读。
+- MJL新目标一次，公开1结果/Exact Match NATURE PHYSICS、两刊号和Nature Portfolio一致，Core Collection卡明确SCIE；不依据勾选筛选器，不登录profile。
+- Compendex缓存SHA256 5f54be62a89d8fd7c74989b081acba363a0e3e23fa64213c2d1ef6851f0b1d39，只查本批三个Nature新目标，SERIALS2026-08-07 Nature Physics第4143行两个刊号均匹配，DISCONTINUED2026-05-01无本目标；未重扫旧108刊。Nature Energy4138与Biomedical Engineering4133仅本批发现索引，不代表其未审候选已完成。
+- [JCR2025机构转载p611](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=611)，缓存SHA256 86f3e2e44be263bcd0e5411b376995d6fe6a1ac3f9b1d9368549ad4870620274。按本目标两刊号定位后实际渲染核表头/刊名/刊号/PHYSICS, MULTIDISCIPLINARY首个JIF列Q1；AIS Q1不替代JIF，不据JCR的SCIE列确认当前索引。2025版指标2024，secondary，不推官方当前2026或CAS。
+
+### 三篇真实原论文与正式期次
+
+窗口2024-10-06起，三原Article完整公开摘要/原出版史均实际读，February/July/December2025三个不同正式期月，不从月推未知数字期号；首次Published/VOR分别保存，不以Received或名义期月回写首次日。
+
+### 本刊独立作者规则与出版阶段
+
+- [Content Types](https://www.nature.com/nphys/content)Article正文3000/无引文摘要200/主图表6/Extended Data10/图注<350/参考文献50，Methods另3000且线上；正文通用标题及重复总结段限制。非原始稿不含未发表原始发现，Review4000–5000/图表框6/参考文献100不能代Article。
+- [指南入口](https://www.nature.com/nphys/submission-guidelines)、[初投格式](https://www.nature.com/nphys/submission-guidelines/initial-formatting)、[初投材料](https://www.nature.com/nphys/submission-guidelines/preparing-your-submission)各实际读：初投无需特殊排版，TeX用编译PDF；稿件/投稿信/可选SI与Extended Data，复现Methods、相关稿件披露、可选双匿名。ORCID为最终接受前通讯作者关联，不写成初投所有作者硬限。
+- [本刊Publishing options](https://www.nature.com/nphys/submission-guidelines/publishing-options)实际读：原始研究订阅/可选Gold，录用后GBP9390/USD12850/EUR10850；无费率生效年/税费，不继承其他Nature刊费率，非原始稿无Gold资格。
+- [本刊Metrics](https://www.nature.com/nphys/journal-impact)实际读：首编辑决定11天（定义送外审或拒稿），投稿接受195天含返修，Speed未明确样本/统计年；引文区JIF18.0(2025)不作为Q或费用版本依据。
+
+### 实际尝试与审阅范围
+
+Aims当前一次IdP500，加已有一次，达到两次停止；不同公开Journal information/home/search及三原Article各实读一次，指南各独立源一次，MJL新目标一次，EI/JCR缓存新目标一次。首本地脚本因fitz缺包在任何源扫描前失败，改用已有pypdf/pdfium后完成，未安装依赖、不计源尝试。没有登录/验证码/cookie修改/权限或安全绕过。已审范围与未知保留，其他两个Nature候选不冒充收尾。
+
+- [Fundamental charge noise in electro-optic photonic integrated circuits](https://www.nature.com/articles/s41567-024-02739-y)；Published 2025-01-15。2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,304–311，正式期月February2025，Published/VOR2025-01-15，Received2023-09-19不当首次日。铌酸锂/钽酸锂集成微腔的电荷涨落与Pockels效应频率噪声，约f^-1.2有实验观察并以热电场机制解释；限材料/条件，不外推所有光子电路噪声。订阅摘要预览，未通读全文/SI。
+- [Collective quench dynamics of active photonic lattices in synthetic dimensions](https://www.nature.com/articles/s41567-025-02880-2)；Published 2025-05-01。2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,1134–1140，正式期月July2025，Published/VOR2025-05-01。调制快增益环形激光器构成合成维度有源光子晶格，研究人工电场下Bloch振荡、相干与淬火动力学；光学模拟平台，不当费米子量子计算机或所有量子协议验证。OA原页可读，本次科学审核仍限摘要与元数据。
+- [Electrically tuning photonic topological quasiparticles in synthetic two-level system](https://www.nature.com/articles/s41567-025-03074-6)；Published 2025-11-03。2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,1885–1892，正式期月December2025，Published/VOR2025-11-03。结构光经晶体相互作用构成两正交伪自旋分量，电压调控伪磁场/几何相位与二维skyrmion及三维hopfion跃迁；通过介质调控，不写成中性光子直接电荷耦合，量子计算应用为前景非已部署系统。订阅摘要预览，未通读全文/SI。
+
+### 未解决内容、影响及维护触发
+
+- Aims同一未变化来源累计两次web工具IdP500后停止；独立journal-information与原论文/指南已实读，不声称Aims成功。JCR为2025指标2024机构转载secondary，CAS/2026完整分区及索引覆盖年/单篇未知。
+- 三原完整摘要/出版史已核不同正式期月，未通读全文/SI，第一/第三篇订阅预览；材料、模拟平台和介质调控结论只限原条件。
+- OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。
+- 后续触发：本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。
+- 仅新增此固定候选与新刊，旧108刊/其余272候选、其他data、旧账本/G4/G5/finalAcceptance及冻结范围保持；更正该候选原发现线索误称综述刊。

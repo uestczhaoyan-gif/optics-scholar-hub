@@ -3000,13 +3000,13 @@
     "aliases": [],
     "kind": "journal",
     "priority": 2,
-    "scopeHint": "光与物质、量子、凝聚态光学；综述刊单独标记",
-    "sourceEntry": null,
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "原扩充计划的发现线索，尚待逐项核实身份与准入。",
-    "nextAction": "核实官网、刊号或系列身份、光学适配和准入依据。",
-    "reviewedAt": null
+    "scopeHint": "光与物质、集成光子、拓扑与量子光学；Article原始研究与Review等非原始稿分开",
+    "sourceEntry": "https://www.nature.com/nphys/submission-guidelines",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["nature-physics"],
+    "decisionReason": "已实读本刊公开身份/投稿稿型及独立指南、三近两年不同正式期月Article原摘要和首次/VOR日；MJL唯一卡当前SCIE、EI官方来源表第4143行与两个刊号匹配，JCR2025指标2024多学科物理JIF Q1机构转载经视觉核对，满足交叉准入。更正原线索误称综述刊，不由JIF18.0推分区。",
+    "nextAction": "本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。",
+    "reviewedAt": "2026-10-06"
   },
   {
     "candidateId": "journal-a43f76601d",

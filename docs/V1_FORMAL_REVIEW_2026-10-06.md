@@ -713,3 +713,19 @@ IEEE Transactions on Electron Devices；IEEE / IEEE Electron Devices Society；�
 - 未解决内容及影响：Brief初稿限/模板内部和SI格式大小、登录后流程未知；页费彩费独立生效年、统计版年样本/首决或最终口径与2027APC未知。；原摘要元数据非全文/SI，秒级不误毫秒/高EQE非能量效率，阵列模拟非实测相机；CAS/2026分类与覆盖起止单篇未知。
 - 维护触发：本刊新版明确Brief/SI/费用日期、评审统计或系统材料及合法分类覆盖证据出现后维护，不继承EDL独立规则。
 - 全字段内容摘要08953e979f1a1d10b4547cef78320598d40c7c1ee131dfbee80f2a81b78acaac，基于d3b3909658dbda6da4134b2c3c229c187e055136；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G3H
+
+V1-G3H准入固定候选Nature Physics并完成新增正式质量；109刊/133届/98系列/10活动，273候选218 admitted/48 pending/7 deferred，SCIE95/ESCI12/EI100，JCR107/CAS11，55刊至少三篇样例。固定候选42/60（5准入37实际已审查限制）、余18；正式111/252（72刊/29届/10活动）、余141。G4/G5完成，G1/G2/G3/G6待验收，整体IN_PROGRESS。
+
+## nature-physics
+
+Nature Physics；Nature Portfolio；1745-2473/1745-2481，新checkedAt 2026-10-06，候选journal-8247293c00一对一。
+
+- 逐字段原身份/范围/独立MJL、EI及JIF版年/三原摘要与出版史/本刊各指南和费用统计定义见[实际核验依据](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-8247293c00)。
+- JCR2025指标2024/PHYSICS, MULTIDISCIPLINARY/category/JIF Q1/secondary；不推CAS或其他分类。
+- 独立索引：SCIE/confirmed/database [来源](https://mjl.clarivate.com/search-results?issn=1745-2473&hide_exact_match_fl=true)；MJL公开唯一Exact Match NATURE PHYSICS、Nature Portfolio与1745-2473/1745-2481匹配；结果卡Core Collection明确Science Citation Index Expanded，不依据侧栏勾选或JCR列推断。未登录profile/订阅单篇，覆盖起止未知。；EI_COMPENDEX/confirmed/database [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；SERIALS2026-08-07第4143行Nature Physics/Journal，印刷ISSN17452473及EISSN17452481均匹配，出版者Nature Research；DISCONTINUED2026-05-01无本目标匹配。公开来源表确证，未检索订阅单篇，覆盖起止未知。
+- 原始与非原始稿、初投/AIP/最终接受、OA与订阅及指标定义分开；不是套同出版者规则。
+- 限制/影响：Aims同一未变化来源累计两次web工具IdP500后停止；独立journal-information与原论文/指南已实读，不声称Aims成功。JCR为2025指标2024机构转载secondary，CAS/2026完整分区及索引覆盖年/单篇未知。；三原完整摘要/出版史已核不同正式期月，未通读全文/SI，第一/第三篇订阅预览；材料、模拟平台和介质调控结论只限原条件。；OA页费率生效年/税费及额外条件未给；Speed统计年/样本与个稿分布未知，11天是编辑拒稿/送外审定义，非外审首决定。
+- 维护触发：本刊新指南/费用日期与统计口径、合法最新分区/索引覆盖材料发布后逐字段维护；相同未变化来源不重试，固定V1候选与G4范围不扩大。
+- 全字段内容摘要f3decb16d0fa983cb18c4fa334d45865bcb25f1ec114753874277f58bd13ae32，基于f1a428b732c91ee409acb25add4ad4925d22addb；不是官网指纹，不表示未知消除。

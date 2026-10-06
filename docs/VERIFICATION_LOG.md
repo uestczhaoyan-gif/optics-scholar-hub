@@ -1596,3 +1596,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - d3b3909658dbda6da4134b2c3c229c187e055136已验收[Pages 37425737194](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37425737194)；同SHA build/deploy成功、首页/版本200，摘要f2c3fa7b84306d4636daee2fd4e5b1ebe9dfaf83ad9e9d9baf6819412ce59b56匹配本地（2026-10-06T06:50:08.001Z）。正式编辑前HEAD=origin/main。全文实际读取四刊当前JSON与F11–F14各本刊当时独立官网/指南、附件版本、MJL唯一卡/新EI具体行和JCR各学科JIF原图记录。复用2026-10-05已有实际证据，不今天重新访问不变官网或扫描数据库/后台，不刷新data核验日期；四admitted关联一对一，稿型/初投返修出版页、图像单位/补充材料、费用版年和统计定义逐项审查，保留未知及不同期次/年度卷范围。
 - V1-G2P实审4刊正式字段质量，累计110/251、余141；固定候选41/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS。全部目录保持。 [原字段范围与实际限制](V1_FORMAL_REVIEW_2026-10-06.md#v1-g2p)。长操作前work/V1-G2P-plan.json保存实际研究；必要数据保护/文档/构建及真实差异审查后上传同SHA验收。
 - 前批Pages验收一次站点ConnectTimeout、额度工具一次暂时不可读，仅同SHA复查后build/deploy与200摘要成功，额度实际7%/周32%允许继续；未重提交或重跑。此批validate、全部data/冻结字节及旧106正式/候选G4G5final保护、110唯一kind:id/摘要/四admitted断言、591本地链接与完整六文档真实差异/git diff --check通过；纯文档复用已验收六资产/同摘要，上传后同SHA CI测试/typecheck/lint/build与部署验收。
+
+## 2026-10-06：固定候选准入 V1-G3H
+
+- f1a428b732c91ee409acb25add4ad4925d22addb已验收[Pages 37426079933](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37426079933)；同SHA build/deploy成功，首页/版本200，摘要f2c3fa7b84306d4636daee2fd4e5b1ebe9dfaf83ad9e9d9baf6819412ce59b56匹配本地（2026-10-06T06:53:53.185Z）。编辑前HEAD=origin/main干净，work/V1-G3H-CHECKPOINT.md和plan保存实际长操作续接。
+- V1-G3H准入固定候选Nature Physics并完成新增正式质量；109刊/133届/98系列/10活动，273候选218 admitted/48 pending/7 deferred，SCIE95/ESCI12/EI100，JCR107/CAS11，55刊至少三篇样例。固定候选42/60（5准入37实际已审查限制）、余18；正式111/252（72刊/29届/10活动）、余141。G4/G5完成，G1/G2/G3/G6待验收，整体IN_PROGRESS。 [新目标来源/核验尝试/实际字段/范围与触发](V1_CANDIDATE_REVIEW_2026-10-06.md#journal-8247293c00)。未审18候选与141正式条目仍未审；不是因为数量或访问失败批量结项。
+- 保护原data及账本、冻结名单；新条目同批完成实际G2审查。必要数据校验/文档、差异审查/子路径六资产构建后上传并按同SHA部署验收待执行。
+- 实际validate109刊133届、旧108刊/272候选/其他data及冻结字节和旧110+41账本保护、111唯一当前内容摘要及关联、671本地文档链接/12方向273候选报告、完整11文件实际差异与diff --check通过；维护队列460为滚动字段数不需清零。Node24.20子路径构建成功并确认六入口资产；同SHA CI独立执行31现有测试/typecheck/lint/build，提交后验收。

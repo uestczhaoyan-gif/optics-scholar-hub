@@ -8381,5 +8381,82 @@
         "relevance": "2026-10-06实读原公开完整摘要/Article/出版史；Nat Methods23,1184–1195，正式期月June2026，Published及VOR2026-05-22一致。MOSAIC以自适应光学统一可配置光片/无标记/超分辨/多光子模式，展示细胞、活体与组织跨尺度成像；平台与多模态实验适配，不把可配置所有模式当同时成像或任意样本通用承诺。OA原页可读，本次科学适配审阅范围仍为摘要，未通读全文。"
       }
     ]
+  },
+  {
+    "id": "nature-physics",
+    "name": "Nature Physics",
+    "abbr": "Nat. Phys.",
+    "publisher": "Nature Portfolio",
+    "topics": ["集成光子", "量子光学", "光学材料"],
+    "domains": ["光学", "物理"],
+    "description": "涵盖纯粹与应用物理的月刊；近年原论文包括电光集成微腔噪声、合成维度激光晶格及结构光拓扑态。需突出物理发现，不由光学题名推定所有工程或器件稿均适合。",
+    "website": "https://www.nature.com/nphys/",
+    "guide": "https://www.nature.com/nphys/submission-guidelines",
+    "requirements": [
+      "2026-10-06实读本刊Content Types：Article为原始研究标准稿型，正文≤3000词，不含摘要/Methods/参考文献/图注；无引文摘要≤200词、主图表≤6、Extended Data≤10、图注<350词、参考文献≤50；线上Methods另≤3000词。",
+      "Article可分节，但避免Introduction/Results/Discussion等通用标题，小标题<60字符含空格；不允许只重复已有结论的总结段。补充信息在正文明确引用，不能套用Review或其他Nature刊稿型的口径。",
+      "初投无需特别排版，接受PDF/Word/TeX-LaTeX，后者上传编译PDF；稿件含Methods/图/适用Extended Data，投稿信必需，SI可选。Methods须足以解释与复现，protocols.io存储为鼓励项。",
+      "投稿信说明对物理广泛读者的重要性，披露相关在审/待刊稿及既往编辑沟通；可选双匿名时身份/联系方式放投稿信，可选推荐或排除审稿人并说明。LLM不具作者资格、使用须披露；原则接受后按AIP格式，最终接受前通讯作者关联ORCID。Review等非原始稿与原始Article独立。"
+    ],
+    "publishing": "2026-10-06实读本刊Publishing options：原始研究可选订阅或Gold OA；OA录用后APC GBP9390/USD12850/EUR10850。页面未标费率生效年、税费或所有附加收费条件，不据此承诺零额外费用；Review/Comment/News & Views等非原始研究不适用Gold OA。",
+    "schedule": "2026-10-06实读Journal Metrics：投稿到首次编辑决定中位11天，定义为送外审或拒稿，不是外审首决定；投稿到接受中位195天，包含修改时间。Speed区未明确统计年、样本/分布，不将旁列2025引文或使用统计年套用，不承诺个稿周期。",
+    "checkedAt": "2026-10-06",
+    "issn": "1745-2473",
+    "eissn": "1745-2481",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "PHYSICS, MULTIDISCIPLINARY",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=611",
+        "evidence": "secondary"
+      }
+    ],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://mjl.clarivate.com/search-results?issn=1745-2473&hide_exact_match_fl=true",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "MJL公开唯一Exact Match NATURE PHYSICS、Nature Portfolio与1745-2473/1745-2481匹配；结果卡Core Collection明确Science Citation Index Expanded，不依据侧栏勾选或JCR列推断。未登录profile/订阅单篇，覆盖起止未知。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "confirmed",
+        "evidence": "database",
+        "source": "https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx",
+        "checkedAt": "2026-10-06",
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "SERIALS2026-08-07第4143行Nature Physics/Journal，印刷ISSN17452473及EISSN17452481均匹配，出版者Nature Research；DISCONTINUED2026-05-01无本目标匹配。公开来源表确证，未检索订阅单篇，覆盖起止未知。"
+      }
+    ],
+    "scopeExamples": [
+      {
+        "title": "Fundamental charge noise in electro-optic photonic integrated circuits",
+        "source": "https://www.nature.com/articles/s41567-024-02739-y",
+        "publishedAt": "2025-01-15",
+        "relevance": "2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,304–311，正式期月February2025，Published/VOR2025-01-15，Received2023-09-19不当首次日。铌酸锂/钽酸锂集成微腔的电荷涨落与Pockels效应频率噪声，约f^-1.2有实验观察并以热电场机制解释；限材料/条件，不外推所有光子电路噪声。订阅摘要预览，未通读全文/SI。"
+      },
+      {
+        "title": "Collective quench dynamics of active photonic lattices in synthetic dimensions",
+        "source": "https://www.nature.com/articles/s41567-025-02880-2",
+        "publishedAt": "2025-05-01",
+        "relevance": "2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,1134–1140，正式期月July2025，Published/VOR2025-05-01。调制快增益环形激光器构成合成维度有源光子晶格，研究人工电场下Bloch振荡、相干与淬火动力学；光学模拟平台，不当费米子量子计算机或所有量子协议验证。OA原页可读，本次科学审核仍限摘要与元数据。"
+      },
+      {
+        "title": "Electrically tuning photonic topological quasiparticles in synthetic two-level system",
+        "source": "https://www.nature.com/articles/s41567-025-03074-6",
+        "publishedAt": "2025-11-03",
+        "relevance": "2026-10-06实读Article原完整公开摘要/出版史；Nat Phys21,1885–1892，正式期月December2025，Published/VOR2025-11-03。结构光经晶体相互作用构成两正交伪自旋分量，电压调控伪磁场/几何相位与二维skyrmion及三维hopfion跃迁；通过介质调控，不写成中性光子直接电荷耦合，量子计算应用为前景非已部署系统。订阅摘要预览，未通读全文/SI。"
+      }
+    ]
   }
 ]
