@@ -1225,3 +1225,105 @@ Optica Quantum 2.0 Conference and Exhibition；2027；Optica Quantum 2.0/series-
 - 未解决内容及影响：模板内部/账户系统实际接收未验证，Submit按钮不能直接改为open；通知/终稿作者付款注册费用及精确注册日期未知，本批只partial截止；实际单篇出版索引与2027主席专题阵容未全部核，旧2026不沿
 - 维护触发：本届明确启用/通知、注册最终材料或新公告出现后维护；同未变投稿页两次停止，截止现在可用于准备。
 - 完整记录内容摘要ee56cf8bf2554c0adc9aea7c0241a6626bbd31b79791eb4067b83b23d843d63b，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AG
+
+实际完整读取七届JSON与各稳定系列/admitted关联，C8当届/后续分年、C13 DH与UFO逐源范围、C14 NLO主页仅身份、C15动态ICCP完整CFP及日志后续两真实公开端点核验。只复用原实际成功证据，不重访已两次/不变未来公告、下载未核模板或登录系统，全部data/冻结范围和原checkedAt保持。本批质量审阅不声称今天官网新鲜全审。 累计正式质量210/252，余42未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## fio-2027
+
+Frontiers in Optics + Laser Science 2027；2027；FiO + LS/series-9ca5e7bc1abb；admitted关联conference-series-9ca5e7bc1a，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.frontiersinoptics.com/)、[原通知](https://www.frontiersinoptics.com/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c8后续届次与系列复查六系列)。
+- 全字段审阅范围：FiOLS官方首页明确2027SeattleConventionCenterArch9/26–30技术会、产业9/28–29，一稳定系列同candidate保留2026Rochester历史独立。2027首页切换和仍2026的submissions/registration版本分层，不移旧35词2p普通/PDP日期注册EDT或费用。当前unknown、paper/PDP/registration三null对齐未核；已明会场来自当届而非推测，2027出版/报告条件未知不从旧Optica平台声明推全年保证。
+- 日城与范围：2027-09-26–2027-09-30；美国 · 华盛顿州西雅图；Seattle Convention Center the Arch；submissionState unknown。
+- 逐字段截止及出处：普通论文截止待公布：未知 [来源](https://www.frontiersinoptics.com/)；PDP截止待公布：未知 [来源](https://www.frontiersinoptics.com/)；注册截止待公布：未知 [来源](https://www.frontiersinoptics.com/)
+- 本届条件出版原字段：2027录用、报告及论文集条件尚未核实；现有投稿页仍属2026，不据此保证后续届次出版或索引。
+- 本届范围/冲突原备注：2027产业展示9/28–29，与技术会议9/26–30分开。首页已切换后续届次，但旧页https://www.frontiersinoptics.com/submissions和https://www.frontiersinoptics.com/registration仍为2026。保留2026独立历史条目。
+- 未解决内容及影响：2027稿型页限模板/实际系统及普通/PDP截止未知，2026旧页不得沿用；注册费用作者付款/最终材料与时刻时区未知；2027具体发表/索引条件未知，技术会议与产业子日程分开
+- 维护触发：FiO2027专属投稿注册页面切换或新正式CFP出现后逐字段维护，保留2026历史来源版本。
+- 完整记录内容摘要1bb1fa8e177f73ad15d7fa0d08f12565819d4ef8842d3785da6e6067dc355d4f，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## eosam-2027
+
+European Optical Society Annual Meeting 2027；2027；EOSAM/series-86cdd7a29672；admitted关联conference-series-f623de7866，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.europeanoptics.org/events/eos/eosam-2027.html)、[原通知](https://www.europeanoptics.org/events/eos/eosam-2027.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c8后续届次与系列复查六系列)。
+- 全字段审阅范围：EOS本届公告与9/4会后回顾明示2027WroclawTechCongressCentre9/27–30、EOS当地科技大学联合，specific声明优先旧overviewlocationTBA非未解决日城冲突。仅MoreInformationComingSoon/综合主题，2027页限模板oral/poster和出版选项、JEOSRP扩展费未公告或未核，不能继承2026Tampere2p/免费选出版/onsite要求。unknown两null/registrationnull与真实未来范围一致；历史届和admitted两ID同稳定series不重复计。
+- 日城与范围：2027-09-27–2027-09-30；波兰 · 弗罗茨瓦夫；Wroclaw Tech Congress Center；submissionState unknown。
+- 逐字段截止及出处：投稿截止待公布：未知 [来源](https://www.europeanoptics.org/events/eos/eosam-2027.html)；注册截止待公布：未知 [来源](https://www.europeanoptics.org/events/eos/eosam-2027.html)
+- 本届条件出版原字段：2027论文集出版、费用、报告要求及JEOS-RP扩展通道尚未核实。
+- 本届范围/冲突原备注：9/4官方会后回顾亦确认2027日期城市：https://www.europeanoptics.org/news/optics-under-the-northern-light.html。旧历届总览仍写2027地点待公布，采用明确当届公告，不修改2026历史规则。
+- 未解决内容及影响：本届专题/CFP篇幅模板报告形式与提交截止未知，2026规则不移；2027注册费用作者付款以及出版选项/JEOSRP条件未知；真实单篇归档索引与更远届未知，旧总览不否定明确新公告
+- 维护触发：EOS2027专属CFP/注册和出版选项明确后维护，既有日城不反复核同不变公告。
+- 完整记录内容摘要540b547bd4912880a195460d67261ed0d3a1a50cb6cc4fbb81dc9b5fd4553eb3，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## icip-2027
+
+IEEE International Conference on Image Processing 2027；2027；IEEE ICIP/series-0d93e81109e8；admitted关联conference-series-0d93e81109，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://2027.ieeeicip.org/)、[原通知](https://signalprocessingsociety.org/events/2027-ieee-international-conference-image-processing-icip)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c8后续届次与系列复查六系列)。
+- 全字段审阅范围：SPS学会实际活动公告与所链2027官网同Singapore11/29–12/3，独立未来届保留2026Tampere同系列；旧组织指南通常9–10月不覆盖当届确证11月。普通3/31/2027仅date非时刻，不继承2026 ExOrdo5+1p/WIP1p/OJSP/authorreg/Xplore。共址SPS Summit registration覆盖范围未核，保留null非母Summit全部规则可用；published只普通安排公告非系统实收。具体会场、通知/终稿/稿规和各出版路径未核明确。
+- 日城与范围：2027-11-29–2027-12-03；新加坡；具体会场待官方公告核实；submissionState published。
+- 逐字段截止及出处：普通论文截止（SPS活动公告）：2027-03-31 [来源](https://signalprocessingsociety.org/events/2027-ieee-international-conference-image-processing-icip)；录用通知待核实：未知 [来源](https://2027.ieeeicip.org/)；终稿截止待核实：未知 [来源](https://2027.ieeeicip.org/)；注册截止待核实：未知 [来源](https://2027.ieeeicip.org/)
+- 本届条件出版原字段：2027当届论文集、IEEE Xplore、报告与no-show条件待核实；IEEE会议身份不等于所有通道必然出版。
+- 本届范围/冲突原备注：学会页与2027官网均为11/29–12/3、新加坡；不套用旧组织指南通常9–10月的建议。其他共址活动独立，不重复计作ICIP届次。
+- 未解决内容及影响：2027篇幅模板平台及WIP/OJSP细则未知，2026不可沿用；具体会场/Summit注册覆盖费用及作者最终付款未知；通知终稿/时刻时区/各通道出版索引未知，3/31仅日
+- 维护触发：ICIP2027完整CFP/具体会场与注册覆盖、出版作者通知公开后维护，母子共址不重复计。
+- 完整记录内容摘要e9a4c2e54857e593e2c0f3dd54e5b8369d37a94de1330cc8a6dffa022c94021c，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## optica-dh-2026
+
+Digital Holography and Three-Dimensional Imaging 2026；2026；Optica Digital Holography and Three-Dimensional Imaging/series-ac3306383732；admitted关联conference-series-ecccc58036，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/)、[原通知](https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/program/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c13dhufo历史届次与三个未完整候选)。
+- 全字段审阅范围：Optica当届主页/Program明确2026DH台北ChangYungFaFoundationInternationalConventionCentre6/1–4/相干非相干全息3D重建材料AI范围，仅已读两正文、所链programmePDF未下载。2026独立历史一届不合7月MaastrichtImageSense；2027主页JulyCanada属于ImageSense只月国母子线索，不能按同周期生成具体日城/未来独立DH。历史稿件篇幅模板系统/费用作者条件和出版索引全unknown/null，program不证明论文集/单篇检索。未知submissionState并非未举办，也不凭会期自动改closed。
+- 日城与范围：2026-06-01–2026-06-04；中国台湾 · 台北；Chang Yung-Fa Foundation International Convention Center；submissionState unknown。
+- 逐字段截止及出处：2026历史投稿截止未核实：未知 [来源](https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/)；2026历史注册截止未核实：未知 [来源](https://www.optica.org/events/topical_meetings/digital_holography_and_3-d_imaging/)
+- 本届条件出版原字段：2026论文集、归档和出版/索引条件尚未逐字段核实；Program链接不独自证明检索。
+- 本届范围/冲突原备注：DH2026台北为独立历史届次，不与2026马斯特里赫特ImageSense母会合并。2027目前仅有国家、月份及所属母会线索，不生成具体会期或日历记录。
+- 未解决内容及影响：2026历史稿规/提交/费用与作者注册未知，所链programPDF未读；2026出版归档索引条件未知，程序不证明检索；2027仅月份国家及母会线索，具体日城CFP未知
+- 维护触发：DH历史官方稿规/出版档案或ImageSense2027明确日城CFP公开后维护，分开历史独立与未来母子层级。
+- 完整记录内容摘要5aaa3e49c875feaff0d8a9b4b177d164b5d4ca246a12f7957b605be9425a259c，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## ufo-2025
+
+14th International Conference on Ultrafast Optics (UFO XIV)；2025；Ultrafast Optics/series-0fd0d2cd4feb；admitted关联conference-series-fb3cf0f27d，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://ufo2025.fc.up.pt/)、[原通知](https://ufo2025.fc.up.pt/submission/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c13dhufo历史届次与三个未完整候选)。
+- 全字段审阅范围：UFO XIV大学About/committee/最终日程新闻正文实际身份2025/10/5–10 FurnasSãoMiguelAzores，VenueTerraNostraGardenHotelCasino楼，没下载详细programmePDF，单日活动新闻不缩全会。与UP/USQS独立。Submission一页WordLaTex→PDF EasyChair全作者oral/poster偏好，模板/账号内部未审。3/31划除延4/16 23:59:59CET、公告同，但CET当地DST解释未核只date不猜EuropeLisbonoffset；noticeJuneTentativeNULL。A0portrait841×1189和16:9slide上传不是paperfinal。普通/学生早鸟USD775/575至8/5，8/6后875/675含饭团体活动晚宴是历史费用，hotel报价另类/authorfinalreg未知。closed历史非现在开放；原home未取得具体下一届非全网查完。
+- 日城与范围：2025-10-05–2025-10-10；葡萄牙 · 亚速尔圣米格尔岛 Furnas；Terra Nostra Garden Hotel（Casino会议楼）；submissionState closed。
+- 逐字段截止及出处：一页论文延期截止（历史；原文23:59:59 CET解释待核）：2025-04-16 [来源](https://ufo2025.fc.up.pt/submission/)；结果通知（仅暂定2025年6月，无具体日）：未知 [来源](https://ufo2025.fc.up.pt/submission/)；早鸟价阶段结束（历史）：2025-08-05 [来源](https://ufo2025.fc.up.pt/registration/)；最终/作者注册截止未核实：未知 [来源](https://ufo2025.fc.up.pt/registration/)
+- 本届条件出版原字段：本轮未取得正式论文集、归档/索引及报告后出版条件的官方依据，保持未知。
+- 本届范围/冲突原备注：About与最终日程公告均为2025-10-05至10-10；Venue确认Furnas会场。Submission划去3/31并改为4/16 23:59:59 CET，延期公告一致；CET与当地夏令时的适用解释未核实，因此仅保存日期，不生成精确UTC时刻。通知仅写June 2025 (tentative)，保持null。2025主页实际读取范围未见已核实后续届次，不按周期推算。
+- 未解决内容及影响：CET及当地DST解释未核，精确UTC和通知某日不生成；最终作者注册/出版归档索引未知，旧表单不登录填报；详细programmePDF/模板内容未读，后续具体日城未知
+- 维护触发：正式时区说明/历史出版档案或下一届官方日城CFP出现后维护，不按周期猜并不混UP。
+- 完整记录内容摘要455e82db94b606e2df3823468830ea11ee48d63d1b1d737004ab3deb00de1bfd，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## optica-nlo-2025
+
+Optica Nonlinear Optics Topical Meeting 2025；2025；Optica Nonlinear Optics/series-0b3a7b20ba9c；admitted关联conference-series-799c0350c8，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/topical_meetings/nonlinear_optics/)、[原通知](https://www.optica.org/events/topical_meetings/nonlinear_optics/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c14nlo历史igarss未来与isdh冲突)。
+- 全字段审阅范围：C14仅Optica独立专题主页实际核2025HonoluluAlohilaniResortWaikikiBeach8/4–7、不同能量频率非线性材料器件范围。独立NLO稳定candidate正式ID，不因非线性相近合AdvancedPhotonics的NP或其他母会。历史投稿篇幅模板系统/注册费日及归档出版索引未核，两null/unknown诚实不冒充已补。已读主页仍2025无核实后续日城范围有限，不按双年推2027或声称停办；期刊专刊不是本届会议deadline。
+- 日城与范围：2025-08-04–2025-08-07；美国 · 檀香山；'Alohilani Resort Waikiki Beach；submissionState unknown。
+- 逐字段截止及出处：2025历史投稿截止未核实：未知 [来源](https://www.optica.org/events/topical_meetings/nonlinear_optics/)；2025历史注册截止未核实：未知 [来源](https://www.optica.org/events/topical_meetings/nonlinear_optics/)
+- 本届条件出版原字段：2025会议出版、归档和索引条件尚未核实；不以学会主办或相关期刊专刊保证收录。
+- 本届范围/冲突原备注：保留独立NLO系列，不因研究主题相近并入其他Optica母会。核验范围仅当届主页，未知历史截止保持null。
+- 未解决内容及影响：核验仅当届主页身份日城范围，历史CFP/稿规系统未知；注册费用最终作者日和出版归档实际索引未知；后续日城未核，不混NP或把期刊专刊截止填会议
+- 维护触发：NLO正式历史稿规/出版档案或独立新届公告公开后维护，同不变主页不反复查。
+- 完整记录内容摘要dfd1962a37bc355016f2a32bd610e0c4a865d196d6f633dce2959f3e3650f102，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。
+
+## iccp-2027
+
+International Conference on Computational Photography 2027；2027；IEEE ICCP/series-a38889ac131d；admitted关联conference-series-dbfff63d70，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://iccp2027.iccp-conference.org/)、[原通知](https://iccp2027.iccp-conference.org/#callforpapers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c15iccp2027动态征稿)、[原实际记录2](MAINTENANCE.md)。
+- 全字段审阅范围：实际动态Home/CFP CollegeParkUniversityMaryland2027/8/2–4，7/31–8/1夏校独立不扩大，具体楼未核。光学camera/照明结构光ToF科学生医成像原CFP不是泛所有AI。OpenReview3/1计划/全部authorsprofile非机构可2wk审核，匿名正文ackSI/authorlist截止锁/匿名补充可不读。无硬页限但>8正文不含refs需匹配贡献，>12总含refs$220/页币种不明、>18只conference；≥3双匿名专家/可选1p rebuttal5/4–11/shepherd两路径。PAMI全新档案级非旧会议扩展、推荐需返修可转conference不保录。评审workshop属先出版/nonreviewarXiv边界/禁止simultaneous overlap分别。3/16与6/22 17Pacific夏UTC−07AmericaLA实at，6/1notice仅date。原模板名2026未下载不作内部核，实际观察资源后pages/home及callforpapers无timestamp200HTML字节匹配源追加巡检，不说只原shell已覆盖动态或一直未修；本批只复用该真实端点日志不再请求。
+- 日城与范围：2027-08-02–2027-08-04；美国 · 马里兰州 College Park；University of Maryland（具体会议楼待核实）；submissionState published。
+- 逐字段截止及出处：匿名论文投稿截止（17:00 Pacific Time）：2027-03-16T17:00:00-07:00 / America/Los_Angeles [来源](https://iccp2027.iccp-conference.org/#callforpapers)；最终结果通知：2027-06-01 [来源](https://iccp2027.iccp-conference.org/#callforpapers)；最终稿截止（17:00 Pacific Time）：2027-06-22T17:00:00-07:00 / America/Los_Angeles [来源](https://iccp2027.iccp-conference.org/#callforpapers)；作者/普通注册截止未核实：未知 [来源](https://iccp2027.iccp-conference.org/)
+- 本届条件出版原字段：共用评审后分配会议论文集或PAMI计算摄影特刊路径，均在会上口头报告。PAMI可要求额外小修，未满足者可转会议出版；未核实论文集最终索引与报告后出版细则，不保证自动EI/SCIE。
+- 本届范围/冲突原备注：官网Home/Call for Papers通过动态标签读取；系列来源已追加实际观察并核实的两页正文HTML，用于每日文字变化巡检。夏令学校2027-07-31–08-01不并入8/2–4会期。原文所有截止17:00 Pacific Time，3/16及6/22在America/Los_Angeles夏令时UTC−07；通知仅保存日期。注册入口、费用及具体楼宇未知。
+- 未解决内容及影响：所链模板2026文件名的内部内容未核、OpenReview实际启用及具体楼宇未知；超页$币种/收费适用和注册费率最终作者付款未知；PAMI转交/期刊实际录用与会议出版索引未核，推荐非保证
+- 维护触发：2027明确模板修订/实际系统启用、注册费币种或PAMI作者通知公开后维护，巡检保留两已观察公开正文端点。
+- 完整记录内容摘要066bb12ed08b1d5bffbd23a864c96b5fae14ae75913bb7c3353803d46edd9e7e，基于4fcc10e47a7a583805c757e002876adf1c0e5174；非官网内容指纹，未知不冒充已补齐。

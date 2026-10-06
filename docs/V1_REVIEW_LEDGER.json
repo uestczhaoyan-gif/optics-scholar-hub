@@ -5875,6 +5875,174 @@
         "实际单篇出版索引与2027主席专题阵容未全部核，旧2026不沿"
       ],
       "maintenanceTrigger": "本届明确启用/通知、注册最终材料或新公告出现后维护；同未变投稿页两次停止，截止现在可用于准备。"
+    },
+    {
+      "kind": "conference",
+      "id": "fio-2027",
+      "seriesId": "series-9ca5e7bc1abb",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1bb1fa8e177f73ad15d7fa0d08f12565819d4ef8842d3785da6e6067dc355d4f",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#fio-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027稿型页限模板/实际系统及普通/PDP截止未知，2026旧页不得沿用",
+        "注册费用作者付款/最终材料与时刻时区未知",
+        "2027具体发表/索引条件未知，技术会议与产业子日程分开"
+      ],
+      "maintenanceTrigger": "FiO2027专属投稿注册页面切换或新正式CFP出现后逐字段维护，保留2026历史来源版本。"
+    },
+    {
+      "kind": "conference",
+      "id": "eosam-2027",
+      "seriesId": "series-86cdd7a29672",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "540b547bd4912880a195460d67261ed0d3a1a50cb6cc4fbb81dc9b5fd4553eb3",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#eosam-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届专题/CFP篇幅模板报告形式与提交截止未知，2026规则不移",
+        "2027注册费用作者付款以及出版选项/JEOSRP条件未知",
+        "真实单篇归档索引与更远届未知，旧总览不否定明确新公告"
+      ],
+      "maintenanceTrigger": "EOS2027专属CFP/注册和出版选项明确后维护，既有日城不反复核同不变公告。"
+    },
+    {
+      "kind": "conference",
+      "id": "icip-2027",
+      "seriesId": "series-0d93e81109e8",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e9a4c2e54857e593e2c0f3dd54e5b8369d37a94de1330cc8a6dffa022c94021c",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icip-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027篇幅模板平台及WIP/OJSP细则未知，2026不可沿用",
+        "具体会场/Summit注册覆盖费用及作者最终付款未知",
+        "通知终稿/时刻时区/各通道出版索引未知，3/31仅日"
+      ],
+      "maintenanceTrigger": "ICIP2027完整CFP/具体会场与注册覆盖、出版作者通知公开后维护，母子共址不重复计。"
+    },
+    {
+      "kind": "conference",
+      "id": "optica-dh-2026",
+      "seriesId": "series-ac3306383732",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "5aaa3e49c875feaff0d8a9b4b177d164b5d4ca246a12f7957b605be9425a259c",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#optica-dh-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2026历史稿规/提交/费用与作者注册未知，所链programPDF未读",
+        "2026出版归档索引条件未知，程序不证明检索",
+        "2027仅月份国家及母会线索，具体日城CFP未知"
+      ],
+      "maintenanceTrigger": "DH历史官方稿规/出版档案或ImageSense2027明确日城CFP公开后维护，分开历史独立与未来母子层级。"
+    },
+    {
+      "kind": "conference",
+      "id": "ufo-2025",
+      "seriesId": "series-0fd0d2cd4feb",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "455e82db94b606e2df3823468830ea11ee48d63d1b1d737004ab3deb00de1bfd",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#ufo-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "CET及当地DST解释未核，精确UTC和通知某日不生成",
+        "最终作者注册/出版归档索引未知，旧表单不登录填报",
+        "详细programmePDF/模板内容未读，后续具体日城未知"
+      ],
+      "maintenanceTrigger": "正式时区说明/历史出版档案或下一届官方日城CFP出现后维护，不按周期猜并不混UP。"
+    },
+    {
+      "kind": "conference",
+      "id": "optica-nlo-2025",
+      "seriesId": "series-0b3a7b20ba9c",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "dfd1962a37bc355016f2a32bd610e0c4a865d196d6f633dce2959f3e3650f102",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#optica-nlo-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "核验仅当届主页身份日城范围，历史CFP/稿规系统未知",
+        "注册费用最终作者日和出版归档实际索引未知",
+        "后续日城未核，不混NP或把期刊专刊截止填会议"
+      ],
+      "maintenanceTrigger": "NLO正式历史稿规/出版档案或独立新届公告公开后维护，同不变主页不反复查。"
+    },
+    {
+      "kind": "conference",
+      "id": "iccp-2027",
+      "seriesId": "series-a38889ac131d",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "066bb12ed08b1d5bffbd23a864c96b5fae14ae75913bb7c3353803d46edd9e7e",
+      "formalReviewBase": "4fcc10e47a7a583805c757e002876adf1c0e5174",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iccp-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "所链模板2026文件名的内部内容未核、OpenReview实际启用及具体楼宇未知",
+        "超页$币种/收费适用和注册费率最终作者付款未知",
+        "PAMI转交/期刊实际录用与会议出版索引未核，推荐非保证"
+      ],
+      "maintenanceTrigger": "2027明确模板修订/实际系统启用、注册费币种或PAMI作者通知公开后维护，巡检保留两已观察公开正文端点。"
     }
   ],
   "coreSeriesReviews": [
