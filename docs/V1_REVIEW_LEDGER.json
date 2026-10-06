@@ -4115,6 +4115,94 @@
         "原摘要/Crossref注册期次与中文概述非全文SI及所有英文原题回填，材料概念应用不当部署结果。"
       ],
       "maintenanceTrigger": "本刊新作者或费用/统计、合法新版EI与分类覆盖、原论文更正出现后维护，不复查同版无匹配/历史免费。"
+    },
+    {
+      "kind": "journal",
+      "id": "science-advances",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "b47aeb9165ddeb79be8c9722910be687ef20ffbc5524d1c478de3910292c0dfe",
+      "formalReviewBase": "98d29648567a504d48800f2a44a3b17b13d119df",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#science-advances",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部/完整各领域数据存储伦理政策和费用生效年度/未来实账单未核；本刊审稿统计及CAS/2026全分类、覆盖年单篇未知。",
+        "仅原摘要/成像引言元数据非全文SI或实验复现，不套Science或其他AAAS规则；税减免取决实际资格。"
+      ],
+      "maintenanceTrigger": "本刊新模板/政策/费率与明确统计、合法新分类覆盖或原论文更正出现后维护，不重复不变源和旧安全限制。"
+    },
+    {
+      "kind": "journal",
+      "id": "angewandte-chemie",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "5c880f93780dbcf65072252e819c14fa345cea62bce47b0b32d04203b656f408",
+      "formalReviewBase": "98d29648567a504d48800f2a44a3b17b13d119df",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#angewandte-chemie",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "详细摘要标题图表/模板和初返修材料、各类型全面规则、当前APC税协议/其他费用及本刊周期未核；不套AM/AFM篇幅收费。",
+        "CAS/2026全部分类/索引覆盖单篇未知，原三中文概述+原摘要/元数据非全文SI/英文原题全部回填，材料适配不保证录用。"
+      ],
+      "maintenanceTrigger": "本刊新作者/收费统计及合法分类覆盖、原论文更正后维护，保留原稿型边界和首次日期。"
+    },
+    {
+      "kind": "journal",
+      "id": "science-china-materials",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "9bd0a992684a9c3c569bbd0791eb54d1acc398d88044b9fc7179fe2d978743c2",
+      "formalReviewBase": "98d29648567a504d48800f2a44a3b17b13d119df",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#science-china-materials",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "403系统未验证登录流程，当前模板内部/篇幅摘要材料和版面费/周期仍未知；OA金额不是总费用或免版面费，不借NML指南。",
+        "CAS/2026全分类/覆盖年单篇未知，原中文概述/公开摘要及注册元数据非全文SI审计或全部英文原题回填。"
+      ],
+      "maintenanceTrigger": "合法本刊新指南模板/明确编辑部费率统计或新版分类覆盖和论文更正后维护，不重访403或用无APC判总免费。"
+    },
+    {
+      "kind": "journal",
+      "id": "chinese-physics-letters",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a322653e240103a4ce36604cf6b7f34d8d7d93599d983c854dc4b7afc42e19b9",
+      "formalReviewBase": "98d29648567a504d48800f2a44a3b17b13d119df",
+      "evidence": "V1_FORMAL_REVIEW_2026-10-06.md#chinese-physics-letters",
+      "fieldsReviewed": [
+        "identity-and-relations",
+        "source-and-review-scope",
+        "rankings-edition-category-evidence",
+        "independent-index-records",
+        "author-guide-publication-phase-fees",
+        "schedule-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "官方3/4页和旧提交描述无有效版本统一，模板内部/收费版权OA及完整系统材料/周期未知；更早EarlyAccess未独立核，PublishedDate不从月第一天倒推。",
+        "CAS/2026全分类/覆盖单篇未知；原公开摘要元数据非全文SI或实验审计、理论与实验范围分别保留，不借其他中文刊收费规则。"
+      ],
+      "maintenanceTrigger": "本刊明确修订版本统一页限和在线材料/收费统计、新分类覆盖或论文日期更正后维护，冲突未解保持未知。"
     }
   ],
   "coreSeriesReviews": [

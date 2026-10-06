@@ -928,3 +928,51 @@ InfoMat；Wiley；原checkedAt 2026-09-11，admitted候选journal-106644ee7c一�
 - 未解决内容及影响：完整模板/声明与SI材料或不同稿型细项、周期未知；会员/机构账户覆盖资格不保证，EI无匹配非未收录，CAS/2026所有类别/索引覆盖年单篇未知。；原摘要/Crossref注册期次与中文概述非全文SI及所有英文原题回填，材料概念应用不当部署结果。
 - 维护触发：本刊新作者或费用/统计、合法新版EI与分类覆盖、原论文更正出现后维护，不复查同版无匹配/历史免费。
 - 全字段内容摘要ae450ae96b328741138fb321eb15869629afe7c65d84b53306756e2e09731b7f，基于95a4e7fb99f7c82fd1afd2e5fc52395bfa48555d；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2T
+
+全文实际读取四刊当前JSON、E21 Science Advances独立本刊指南/收费及E20三个原摘要、E3 SCM本刊收费入口和E4原摘要/Crossref期次、E15 CPL两个官方页限与E29原摘要Published标签、9/11各刊二手JIF版本记录及9/12 Angewandte本刊Overview和E28原摘要稿型/首次日期。复用原实读证据，不今天再访官网或后台/重复安全受限源，不刷新核验日期。Science Advances A11第一有效尝试计入，本批只缓存SERIALS第2表头/5183行第二次核载体，ISSN“-”及EISSN23752548；只改EI注记，不重扫DISCONT或其他目标。 本次正式字段质量累计132/252，余120未审；G3 42/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## science-advances
+
+Science Advances；American Association for the Advancement of Science；原checkedAt 2026-09-11，admitted候选journal-26240bd42e一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.science.org/content/page/science-advances-information-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e21science-advances本刊指南收费)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e20acs-nano--science-advances)、[原记录3](VERIFICATION_LOG.md#2026-09-11综合材料与物理期刊)。仅e2375-2548/null印刷、AAAS综合OA，JIF2025指标2024综合科学Q1secondary/MJL SCIE/EI5183电子号独立。2026-10-04本刊Research15000词/10图表合计/80refs，Resources同格式评审，未自行定义词数排除；Review10000/10/150更多可请求、通常邀约但非邀完整稿可考虑、不受投稿前咨询。单段摘要150无引用图摘/标题135字符短50；初投灵活返修本刊模板，07_2026主/2022补充仅核链接非内部版本有效期。CTS附信+合并评审PDF+docx首选或TeX来源，补充单PDF25MB、辅助视频10文件合计25MB；第一及通讯ORCID各人认证、5潜在/≤3排除评审不保证采纳，回复/图改清单与受邀重投分开。CCBYNC或CCBY基础5450USD税另；大陆SocoPay另6.18%税+3%交易费、会员4%每篇一次、困难至录用申请录用才批准，未付款或承诺减免。三个11(29)/12(23)/12(24)原摘要：Rb/Cs光阱首次7/16非机构期次7/18、仿生光场实际细胞组织小生物/太阳偏振望远镜观测，非纯天体或无光学算法。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MULTIDISCIPLINARY SCIENCES/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=522)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2375-2548&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2375-2548 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第5183行，Science Advances/Journal及电子刊号EISSN23752548匹配，印刷ISSN列为“-”；载体列不用于改写目录身份。DISCONTINUED（2026-05-01版）无匹配沿用A11原有效核对，本批未重扫。数据库方公开来源表证据，未检索订阅单篇，覆盖起止年未知；只精确化注记，原核验日保持。
+- 未解决内容及影响：模板内部/完整各领域数据存储伦理政策和费用生效年度/未来实账单未核；本刊审稿统计及CAS/2026全分类、覆盖年单篇未知。；仅原摘要/成像引言元数据非全文SI或实验复现，不套Science或其他AAAS规则；税减免取决实际资格。
+- 维护触发：本刊新模板/政策/费率与明确统计、合法新分类覆盖或原论文更正出现后维护，不重复不变源和旧安全限制。
+- 全字段内容摘要b47aeb9165ddeb79be8c9722910be687ef20ffbc5524d1c478de3910292c0dfe，基于98d29648567a504d48800f2a44a3b17b13d119df；不是官网内容指纹，不表示未知已补齐。
+
+## angewandte-chemie
+
+Angewandte Chemie International Edition；Wiley-VCH · Gesellschaft Deutscher Chemiker；原checkedAt 2026-09-11，admitted候选journal-06c09a75aa一对一。
+
+- 全部字段与原依据：[本刊指南](https://onlinelibrary.wiley.com/page/journal/15213773/homepage/notice-to-authors)；[原记录1](VERIFICATION_LOG.md#2026-09-12wiley-材料与化学期刊索引复核)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e28advanced-materials--angewandte-chemie)、[原记录3](VERIFICATION_LOG.md#2026-09-11综合材料与物理期刊)。1433-7851/e1521-3773国际版非德语版；化学重要进展中的发光/光化学适配，JIF2025指标2024化学多学科Q1secondary。MJL以印刷无结果再刊名和电子唯一卡SCIE，不把空卡称停收，EI278独立。原本刊Communication通常2500、Research≤5000自摘要至结论不含refs，SI详细实验表征；2026-09-12 Overview对Review/Minireview/Highlight先联系评估提案、不接受未邀直接稿，非Research/Communication禁投。混合出版订阅/OA分别核，无当前APC金额。65(5)Communication银簇UV激活磷光/光响应墨水、65(9)Research主客体/PMMA三芳基硼RTP修正旧纯晶体解释、64(1)Research铜碘簇X射线闪烁成像ML含材料验证；First2025-12-13/2026-01-18/2024-10-29与较晚卷期2026/2025分开、三不同期且仍近两年，不称LED全演示或临床。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=91)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=1521-3773&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 1521-3773 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。初查印刷刊号 1433-7851 无结果，改用刊名找到电子刊号，再按 1521-3773 获得唯一匹配；无结果不解释为停收。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 278 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：详细摘要标题图表/模板和初返修材料、各类型全面规则、当前APC税协议/其他费用及本刊周期未核；不套AM/AFM篇幅收费。；CAS/2026全部分类/索引覆盖单篇未知，原三中文概述+原摘要/元数据非全文SI/英文原题全部回填，材料适配不保证录用。
+- 维护触发：本刊新作者/收费统计及合法分类覆盖、原论文更正后维护，保留原稿型边界和首次日期。
+- 全字段内容摘要5c880f93780dbcf65072252e819c14fa345cea62bce47b0b32d04203b656f408，基于98d29648567a504d48800f2a44a3b17b13d119df；不是官网内容指纹，不表示未知已补齐。
+
+## science-china-materials
+
+Science China Materials；Science China Press · Springer Nature；原checkedAt 2026-09-11，admitted候选journal-366bb352ac一对一。
+
+- 全部字段与原依据：[本刊指南](https://link.springer.com/journal/40843/submission-guidelines)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e3六刊指南或收费补充)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e4五刊十五篇)、[原记录3](VERIFICATION_LOG.md#2026-09-11综合材料与物理期刊)。2095-8226/e2199-4501ScienceChinaPress/Springer材料交叉；JIF2025指标2024材料Q1secondary/MJL SCIE/EI5197与中文342Renewed独立，语言列不改身份。实际官方Submit为mc03/scms但403未登录；Articles模板与InstructionsPDF存在，全文内部未新核。2026-10-02混合可选OA3090GBP4990USD3990EUR按录用日税另，订阅不收此APC而编辑部版面费独立未知、机构OA协议不自动包含。67(12)/68(12)/69(8)原摘要与Crossref注册期次：钙钛矿晶粒束缚激子超快/受激发射阈值激光应用为展望，MgO应力发光生医模拟非体内临床，DMF水解有序量子阱光探测器实验非大规模成像已部署。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MATERIALS SCIENCE, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=454)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2095-8226&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2095-8226 检索，唯一 Exact Match 的刊名与查询刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 5197 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配；中文表（2026-07-10 版）第 342 行为 2026 Renewed（保持收录）。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：403系统未验证登录流程，当前模板内部/篇幅摘要材料和版面费/周期仍未知；OA金额不是总费用或免版面费，不借NML指南。；CAS/2026全分类/覆盖年单篇未知，原中文概述/公开摘要及注册元数据非全文SI审计或全部英文原题回填。
+- 维护触发：合法本刊新指南模板/明确编辑部费率统计或新版分类覆盖和论文更正后维护，不重访403或用无APC判总免费。
+- 全字段内容摘要9bd0a992684a9c3c569bbd0791eb54d1acc398d88044b9fc7179fe2d978743c2，基于98d29648567a504d48800f2a44a3b17b13d119df；不是官网内容指纹，不表示未知已补齐。
+
+## chinese-physics-letters
+
+Chinese Physics Letters；中国物理学会 · IOP Publishing；原checkedAt 2026-09-11，admitted候选journal-2c9b5aa96f一对一。
+
+- 全部字段与原依据：[本刊指南](https://cpl.iphy.ac.cn/instructionsforauthors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-03.md#e15六本中文刊中文主办刊的作者入口与版本)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e29cpl--apr不同期次与稿型2026-10-04)、[原记录3](VERIFICATION_LOG.md#2026-09-11综合材料与物理期刊)。0256-307X/e1741-3540CPS/IOP新物理实验理论；JIF2025指标2024物理多学科Q1secondary/MJL SCIE/EI800独立。2026-10-03现站SubmitandTrack指向journalx_cpl AuthorCenter，未登录；当前AuthorInstruction页面Letter3页对journalx_cpl_cn官方4页文件/方式也不同且无修订日，硬限真实冲突保留不择一。英文简明摘要连续图表编号/官方旧邮寄邮件文字不替代现在线入口。42(7)/43(1)/43(8)三个原题摘要与展开PublishedDate真实三期；RAMD光孤子PINN数值非实制器件，TFLN卷积三数据集实验仍含后级FC/FPGA非所有电子替代，双层硅超表面高Q非对称聚焦数值非破互易隔离器。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/PHYSICS, MULTIDISCIPLINARY/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=610)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0256-307X&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0256-307X 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 800 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：官方3/4页和旧提交描述无有效版本统一，模板内部/收费版权OA及完整系统材料/周期未知；更早EarlyAccess未独立核，PublishedDate不从月第一天倒推。；CAS/2026全分类/覆盖单篇未知；原公开摘要元数据非全文SI或实验审计、理论与实验范围分别保留，不借其他中文刊收费规则。
+- 维护触发：本刊明确修订版本统一页限和在线材料/收费统计、新分类覆盖或论文日期更正后维护，冲突未解保持未知。
+- 全字段内容摘要a322653e240103a4ce36604cf6b7f34d8d7d93599d983c854dc4b7afc42e19b9，基于98d29648567a504d48800f2a44a3b17b13d119df；不是官网内容指纹，不表示未知已补齐。
