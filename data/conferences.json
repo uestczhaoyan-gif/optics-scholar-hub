@@ -651,16 +651,18 @@
     "submissionState": "unknown",
     "requirements": [
       "当前标注 2027 届次的投稿页要求 35 词摘要和 2 页 summary，包含标题、作者单位、摘要与版权信息，使用官方模板并嵌入字体。",
-      "通过官方在线系统完整提交；不接受邮件/传真投稿。口头或海报偏好由作者选择，最终安排由委员会决定。"
+      "通过官方在线系统完整提交；不接受邮件/传真投稿。口头或海报偏好由作者选择，最终安排由委员会决定。",
+      "2026-10-06仅本届投稿页字段复核：摘要与两页summary截止为2027-02-09 12:00美东时间（UTC−05:00）；35词摘要同时收入summary，默认2027作者版权、图像许可和字体嵌入按本届正文处理，截止后不接受修订。来源：https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/ 。未核账户实际接收状态，注册安排仍待公布。"
     ],
     "publication": "主办方说明录用且完成报告的论文由 Optica 出版平台发布，并说明 Ei Compendex 等索引支持；单篇出版和实际检索仍须另行确认。",
-    "notes": "官网会期和地点已更新至 2027，首页仍有 2026 论文集和主席信息；不将其视为 2027 阵容。当前投稿页未列截止时刻或开放公告，不推测 DDL。",
+    "notes": "官网会期和地点已更新至 2027，首页仍有 2026 论文集和主席信息；不将其视为 2027 阵容。2026-10-06仅投稿页局部核验已明确摘要/summary截止为2027-02-09 12:00美东（UTC−05:00），此前未公告的null已补。系统真实接收、录用/最终材料与注册安排未核实，不据Submit按钮推定开放；整条checkedAt保持原完整核验日期。",
     "deadlines": [
       {
         "type": "paper",
-        "label": "摘要与 summary 截止待公布",
-        "date": null,
-        "source": "https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/"
+        "label": "摘要与两页 summary 截止",
+        "source": "https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/",
+        "at": "2027-02-09T12:00:00-05:00",
+        "timezone": "America/New_York"
       },
       {
         "type": "registration",

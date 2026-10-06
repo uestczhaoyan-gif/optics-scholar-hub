@@ -5731,6 +5731,150 @@
         "2027仅JulyCanada线索，完整日城与母会独立通知未核实"
       ],
       "maintenanceTrigger": "Optica母会明确2027日城/独立征稿或正式继承声明、合法出版记录出现后维护，不由DH月份填日。"
+    },
+    {
+      "kind": "conference",
+      "id": "idw-2026",
+      "seriesId": "series-d903687e894f",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "a3010b38da845d78802754925b6323146baa4e5376d73dc05eab580b5a2366d3",
+      "formalReviewBase": "b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#idw-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "3DSA届序冲突且完整首轮PDF未读，不导入子会",
+        "实际系统登录/注册费率作者付款流程与最终参会截止未知，早鸟不是最后注册",
+        "各论文真实出版/索引及后续具体日城未知，DOI不等EI/SCI"
+      ],
+      "maintenanceTrigger": "当届LateNews作者正式通知/注册或新届明确CFP、3DSA正式修订出现后维护；保持UTC−10独立。"
+    },
+    {
+      "kind": "conference",
+      "id": "imid-2026",
+      "seriesId": "series-e8f703ba9bc1",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "e258b77272119b0609ce5c3e7bfc79ec4fe56477ff63e713b29a0190857b4b51",
+      "formalReviewBase": "b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#imid-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "LateNews独立规则正文未取得，普通一页仅普通稿",
+        "注册/通知时刻时区费用与实际系统登录未核实",
+        "出版商归档/实际索引未知，2027不得沿用旧规则"
+      ],
+      "maintenanceTrigger": "历史LateNews/出版档案或2027独立官方CFP公开后分别维护，原已结束不作现在可投。"
+    },
+    {
+      "kind": "conference",
+      "id": "sid-display-week-symposium-2027",
+      "seriesId": "series-1341c55cd713",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "123217225c2c2272145dbb7872d29b5287b0792fe9f0d317a8036f364845d792",
+      "formalReviewBase": "b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#sid-display-week-symposium-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "摘要50–70maximum措辞歧义、申请延期适用人单独，不能统一变12/31",
+        "PDF仅文字非视觉/模板内部，实际系统接收与本届注册费用付款截止未知",
+        "最终digest/论文实际索引未知，普通/LN时刻未给"
+      ],
+      "maintenanceTrigger": "SID本届明确摘要解释/真实提交、2027注册通知或新截止修订后维护，不移旧2026价格。"
+    },
+    {
+      "kind": "conference",
+      "id": "icaleo-2026",
+      "seriesId": "series-326103f96086",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "7c02a0d41b5a046e0efeeef7d0ba5c0dbd3c8c1100a5317f2e551ae9af01f8ec",
+      "formalReviewBase": "b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#icaleo-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "原始摘要/最终作者注册日期篇幅文件未知，关闭是原已核状态",
+        "late/standard/onsite费率当前适用未解决，阶段结束非最终注册",
+        "盲审及JLA选择/归档单篇检索未知，不继承所有稿保证"
+      ],
+      "maintenanceTrigger": "本届正式作者/出版通知或新届公告公开后维护，进行中不因旧Submit按钮重试稿件。"
+    },
+    {
+      "kind": "conference",
+      "id": "imid-2027",
+      "seriesId": "series-e8f703ba9bc1",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4b5aaf920b7e7d87b39158c448ae1f8767bb271fc5223f0034401de9fc838e6a",
+      "formalReviewBase": "b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#imid-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "2027独立征稿/稿型篇幅模板系统和各截止未知，2026一页不移",
+        "专题/展子期及明确届序未核，不从旧年算",
+        "注册费用作者付款与出版归档/实际索引未知，图像只有预告范围"
+      ],
+      "maintenanceTrigger": "IMID2027独立官方站/CFP及注册、出版通知公开后逐字段维护，仍保留旧2026历史。"
+    },
+    {
+      "kind": "conference",
+      "id": "quantum-2027",
+      "seriesId": "series-85ffa76b9f90",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "ee56cf8bf2554c0adc9aea7c0241a6626bbd31b79791eb4067b83b23d843d63b",
+      "formalReviewBase": "b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#quantum-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部/账户系统实际接收未验证，Submit按钮不能直接改为open",
+        "通知/终稿作者付款注册费用及精确注册日期未知，本批只partial截止",
+        "实际单篇出版索引与2027主席专题阵容未全部核，旧2026不沿"
+      ],
+      "maintenanceTrigger": "本届明确启用/通知、注册最终材料或新公告出现后维护；同未变投稿页两次停止，截止现在可用于准备。"
     }
   ],
   "coreSeriesReviews": [

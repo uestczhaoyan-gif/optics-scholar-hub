@@ -1696,3 +1696,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AE实审7届会议全部字段，正式质量累计197/252（109刊/78届/10活动）、余55；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，仅指定当届字段修订，其他目录保持。 实际完整读取七届JSON/稳定系列与admitted关联、C5/C6各独立稿规日程/真实系统链接、C11后续及ImageSense/DH范围。印度PHOTONICS dates与registration第二有效请求（10/3计首次）：日期InternalError未正文，注册成功公开缓存今天；仅补注册表本国/国际类别费率和包含项到requirements，不改变早鸟冲突、实际PDP开放、身份日期状态或checkedAt。其余复用原实际官方证据，不重复同未变源/登录受限集。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ae)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、仅印度PHOTONICS requirements增加来源收费字段allowlist/其余全部data及冻结字节、旧190正式42候选G4G5final保护、197唯一摘要和七admitted系列断言通过；647本地文件链接、完整七文件真实差异/git diff --check通过。去除网站收费说明中的内部操作措辞后重新生成摘要并重新构建，子路径六资产完成；同SHA CI独立31测试/typecheck/lint/build与部署、线上新目录摘要验收。未知早鸟边界/日程/PDP状态未修改。
+
+## 2026-10-06：正式会议质量 V1-G2AF
+
+- b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1已验收[Pages 37434355860](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37434355860)；同SHA build/deploy成功、首页/版本200，摘要c39af5d7ca175c6ad4ebfa1ce1a2f37747f46d569b186ad4282fc0fd48ce1dcf匹配本地（2026-10-06T08:12:35.306Z）。编辑前HEAD=origin/main；work/V1-G2AF-plan.json长操作前保护真实范围。
+- V1-G2AF实审6届会议全部字段，正式质量累计203/252（109刊/84届/10活动）、余49；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，仅指定当届字段修订，其他目录保持。 实际完整读取六届JSON、稳定系列/各admitted关系、C7各独立显示/加工规则与SID四页实际文字/非视觉、C11 IMID感谢信实际原图范围及9/11Quantum原记录。Quantum本届投稿正文第二有效读取（9/11计首次）成功，今天公开缓存明确2/9/2027中午ESTUTC−05；只补该deadline和局部requirements/notes，未知注册及系统实际启用不动，未下载模板/登录。其他复用原实际已核范围、不重访多次或受限源，不刷新整条checkedAt。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2af)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、仅Quantum deadlines/requirements/notes明确allowlist（实际2027-02-09T12:00−05/AmericaNewYork）/其余data及冻结字节、旧197正式42候选G4G5final保护、203唯一摘要与六系列关系通过；657本地文件链接、七文件真实差异及git diff --check通过。子路径构建六资产完成，同SHA CI独立31测试/typecheck/lint/build后验收Pages/线上新摘要。普通和LateNews注册分别、冬PST日期级与IDW固定UTC−10保留，不继承2026规则或把系统按钮当接收。

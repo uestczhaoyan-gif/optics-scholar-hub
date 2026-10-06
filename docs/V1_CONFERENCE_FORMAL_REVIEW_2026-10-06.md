@@ -1137,3 +1137,91 @@ Optica ImageSense Congress 2026；2026；Optica ImageSense Congress/series-7a786
 - 未解决内容及影响：旧Imaging继承/合并关系未正式确认，不能永久别名；历史稿规平台/注册费用最终日期与受限摘要全文/索引未知；2027仅JulyCanada线索，完整日城与母会独立通知未核实
 - 维护触发：Optica母会明确2027日城/独立征稿或正式继承声明、合法出版记录出现后维护，不由DH月份填日。
 - 完整记录内容摘要df9cccebd817ff198c005a207b505bbca160e630f89a6c45f9e9b05609111b8a，基于4a91af1aa023b0954ac30b4a9cf7a44dadcdef04；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AF
+
+实际完整读取六届JSON、稳定系列/各admitted关系、C7各独立显示/加工规则与SID四页实际文字/非视觉、C11 IMID感谢信实际原图范围及9/11Quantum原记录。Quantum本届投稿正文第二有效读取（9/11计首次）成功，今天公开缓存明确2/9/2027中午ESTUTC−05；只补该deadline和局部requirements/notes，未知注册及系统实际启用不动，未下载模板/登录。其他复用原实际已核范围、不重访多次或受限源，不刷新整条checkedAt。 累计正式质量203/252，余49未审；固定候选42/60，G4/G5完成，其余门槛未验收。仅计划指定当届字段修订；其余data与冻结范围保持。
+
+## idw-2026
+
+33rd International Display Workshops；2026；International Display Workshops/series-d903687e894f；admitted关联conference-series-1b467b6faa，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.idw.or.jp/)、[原通知](https://www.idw.or.jp/authinfo.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c7显示与激光加工五系列2026-10-03)。
+- 全字段审阅范围：第33IDW滨松ACTCity12/2–4/2026单论文会，3DSA首页17th vs首轮片段15th未全PDF核不选子届序/另收。I-DEMO10/1非paper；普通TechnicalSummary6/15→6/25 23:59 UTC−10，final/普通author9/8同刻，LateNewsfinal9/22同刻皆过；两个Confit真链接分别未登录，不能用JapanAsiaTokyo替固定UTC−10（EtcGMT+10反号）。普通notice7/31/LN10/22仅日，LNauthor10/29和early10/29同刻但两通道非最终注册。稿A4两整页以上2–4pPDF双栏不页码页眉，400characters上限约50words不改50词硬限制，3–5keywords标speaker模板含Word/PDF/LaTex。Proceedings参会访问到十二月后OA归档DOI、撤稿/noshow无归档、ITE/SIDcopyright及报告前camera-ready不得公开，仅本届；推荐扩展稿期刊非保证索引。
+- 日城与范围：2026-12-02–2026-12-04；日本 · 滨松；ACT CITY Hamamatsu；submissionState closed。
+- 逐字段截止及出处：普通 Technical Summary 截止（延长后，已过）：2026-06-25T23:59:00-10:00 / Etc/GMT+10 [来源](https://www.idw.or.jp/authinfo.html)；普通录用通知：2026-07-31 [来源](https://www.idw.or.jp/authinfo.html)；普通最终稿截止（已过）：2026-09-08T23:59:00-10:00 / Etc/GMT+10 [来源](https://www.idw.or.jp/authinfo.html)；普通作者注册截止（已过）：2026-09-08T23:59:00-10:00 / Etc/GMT+10 [来源](https://www.idw.or.jp/authinfo.html)；Late News 最终稿截止（已过）：2026-09-22T23:59:00-10:00 / Etc/GMT+10 [来源](https://www.idw.or.jp/authinfo.html)；Late News 录用通知：2026-10-22 [来源](https://www.idw.or.jp/authinfo.html)；Late News 作者注册截止：2026-10-29T23:59:00-10:00 / Etc/GMT+10 [来源](https://www.idw.or.jp/authinfo.html)；早鸟注册截止（非最终注册截止）：2026-10-29T23:59:00-10:00 / Etc/GMT+10 [来源](https://www.idw.or.jp/registration.html)
+- 本届条件出版原字段：会期及会后至2026年12月供参会者访问 Proceedings，其后进入开放归档并分配 DOI；未报告或撤回的论文不进入开放归档。版权属于 ITE/SID，正式报告前不得预先公开 camera-ready；推荐期刊扩展不等于保证收录或索引。
+- 本届范围/冲突原备注：会期/会场 https://www.idw.or.jp/；稿件 https://www.idw.or.jp/msinstruction.html。首页3DSA专题届数与第一轮公告检索片段不一致，未新增该子会或替其选定届数。I-DEMO 的10/1不是论文截止。注册仅线上办理，早鸟与Late News作者注册虽同日仍分别记录。
+- 未解决内容及影响：3DSA届序冲突且完整首轮PDF未读，不导入子会；实际系统登录/注册费率作者付款流程与最终参会截止未知，早鸟不是最后注册；各论文真实出版/索引及后续具体日城未知，DOI不等EI/SCI
+- 维护触发：当届LateNews作者正式通知/注册或新届明确CFP、3DSA正式修订出现后维护；保持UTC−10独立。
+- 完整记录内容摘要a3010b38da845d78802754925b6323146baa4e5376d73dc05eab580b5a2366d3，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
+
+## imid-2026
+
+26th International Meeting on Information Display；2026；International Meeting on Information Display/series-e8f703ba9bc1；admitted关联conference-series-de76643319，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://imid.or.kr/2026/conference_info.asp)、[原通知](https://imid.or.kr/2026/guideline_paper_submission.asp)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c7显示与激光加工五系列2026-10-03)。
+- 全字段审阅范围：KIDS/SID第26届BusanBEXCO8/18–21/2026历史母会，不再统计展。普通3/31→4/13→4/24、notice5/29与LateNews6/28→7/3 notice7/10只日期；注册每篇至少报告人7/31付款否则排除Proceedings。普通仅1pPDF 11ptTimesNewRoman single无需另final/官方genimice链接只来源没登录；LateNews独立详情CacheMiss不把普通1p套晚稿全规则。注册EproceedingsKit不等已核出版商、归档或数据库，SID主办不保证EI/SCI。本届closed原历史没日期倒推；IMID2027同系列但独立CFP未知不能继承。
+- 日城与范围：2026-08-18–2026-08-21；韩国 · 釜山；BEXCO；submissionState closed。
+- 逐字段截止及出处：普通论文截止（延长后，历史）：2026-04-24 [来源](https://imid.or.kr/2026/cfp.asp)；普通录用通知（历史）：2026-05-29 [来源](https://imid.or.kr/2026/cfp.asp)；Late News 截止（延长后，历史）：2026-07-03 [来源](https://imid.or.kr/2026/cfp.asp)；Late News 录用通知（历史）：2026-07-10 [来源](https://imid.or.kr/2026/cfp.asp)；作者/提前注册截止（历史）：2026-07-31 [来源](https://imid.or.kr/2026/reg.asp)
+- 本届条件出版原字段：官网注册说明列 E-proceedings；论文集出版商、归档条件及数据库索引尚未核实，不承诺 SCI/EI。
+- 本届范围/冲突原备注：身份/会期/会场 https://imid.or.kr/2026/conference_info.asp 与 https://imid.or.kr/2026/welcome.asp；方向及日期 https://imid.or.kr/2026/cfp.asp。普通截止由3/31、4/13延至4/24，Late News由6/28延至7/3；通知与注册只公布日期，不补具体时刻。
+- 未解决内容及影响：LateNews独立规则正文未取得，普通一页仅普通稿；注册/通知时刻时区费用与实际系统登录未核实；出版商归档/实际索引未知，2027不得沿用旧规则
+- 维护触发：历史LateNews/出版档案或2027独立官方CFP公开后分别维护，原已结束不作现在可投。
+- 完整记录内容摘要e258b77272119b0609ce5c3e7bfc79ec4fe56477ff63e713b29a0190857b4b51，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
+
+## sid-display-week-symposium-2027
+
+SID Display Week 2027 Technical Symposium；2027；SID Display Week Technical Symposium/series-1341c55cd713；admitted关联conference-series-a839cf91f8，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://www.displayweek.org/program/authors-presenters/)、[原通知](https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c7显示与激光加工五系列2026-10-03)。
+- 全字段审阅范围：TechnicalSymposiumSanJoseMcEnery2027/6/8–11区别母周6/6–11/展IZone6/8–10，只论文会一届。C7官方2027四页PDF实际逐页文字读，截图接口未图不冒充视觉；2–4p完整稿可final或2–4pTechnicalSummary后digest，两路径≥3keywords全作者标reporter、说明目标成果影响与旧作区别/commit现场。50–70word maximum原歧义不说50下限。普通12/1/26与LN1/1–20/27窗口PST仅日无时刻，AmericaLA冬UTC−08不虚补23:59，申请approved12/31不是全体延期。normalnotice1/31 vsLN2/6、digest3/15日期级；Submit链接存在未登入未知接收，现注册2026不可移费/日期。
+- 日城与范围：2027-06-08–2027-06-11；美国 · 加利福尼亚州圣何塞；San Jose McEnery Convention Center；submissionState unknown。
+- 逐字段截止及出处：普通论文/technical summary 截止：2026-12-01 / America/Los_Angeles [来源](https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf)；官网PDF标PST，未给具体时刻；单独申请延期不改此普通截止。；Late News 截止：2027-01-20 / America/Los_Angeles [来源](https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf)；窗口2027/1/1–20，PST，未给时刻。；普通录用通知：2027-01-31 [来源](https://www.displayweek.org/program/authors-presenters/)；Late News 录用通知：2027-02-06 [来源](https://www.displayweek.org/program/authors-presenters/)；最终 digest 稿截止：2027-03-15 [来源](https://www.displayweek.org/wp-content/uploads/2026/08/DW27-CFP-Submission-AND-Requirements.pdf)；2027 作者注册截止待核实：未知 [来源](https://www.displayweek.org/program/authors-presenters/)
+- 本届条件出版原字段：Technical Symposium Digest 稿件2–4页；完整论文或摘要两种路径及3/15最终稿规则分别保留，不承诺数据库索引。
+- 本届范围/冲突原备注：会场 https://www.displayweek.org/exhibitors/faq/。整周活动6/6–11、展览/I-Zone6/8–10，与研讨会6/8–11分开，未新增展览条目。PDF明确普通及Late News为PST但未给时刻；通知与最终稿保持日期精度。现注册页仍为2026，不移用。
+- 未解决内容及影响：摘要50–70maximum措辞歧义、申请延期适用人单独，不能统一变12/31；PDF仅文字非视觉/模板内部，实际系统接收与本届注册费用付款截止未知；最终digest/论文实际索引未知，普通/LN时刻未给
+- 维护触发：SID本届明确摘要解释/真实提交、2027注册通知或新截止修订后维护，不移旧2026价格。
+- 完整记录内容摘要123217225c2c2272145dbb7872d29b5287b0792fe9f0d317a8036f364845d792，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
+
+## icaleo-2026
+
+45th International Congress on Applications of Lasers & Electro-Optics；2026；International Congress on Applications of Lasers & Electro-Optics/series-326103f96086；admitted关联conference-series-9271b88c27，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://icaleo.org/)、[原通知](https://icaleo.org/presenter-information)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c7显示与激光加工五系列2026-10-03)。
+- 全字段审阅范围：45ICALEO DenverHiltonCityCenter2026/10/5–8原正常浏览器取得主站/Presenters/Attend，工具403不能认官网无事实/复绕权限；现会期进行中不是CFP重开。普通论文海报明确closed，OmnipressCatalyst当届入口未登录，原摘要DDL页数文件仍NULL。可选blindreview选中Proceedings/JLA与poster可manuscript不等所有报告发表JLA或自动SCI/EI。Whova只是官方注册入口，loyalty6/1、late9/1–10/4价格阶段后仍onsiteprice，10/4非最终authorreg。并存StandardOpenNow原费率适用未知不按已过阶段算今天费用；激光制造scope含实际原通知不混另LiM。
+- 日城与范围：2026-10-05–2026-10-08；美国 · 科罗拉多州丹佛；Hilton Denver City Center；submissionState closed。
+- 逐字段截止及出处：普通论文/海报原始截止待核实（官方已关闭）：未知 [来源](https://icaleo.org/presenter-information)；作者注册截止待核实：未知 [来源](https://icaleo.org/presenter-information)；Late Registration 价格阶段结束（非最终注册截止）：2026-10-04 [来源](https://icaleo.org/attend)；有现场注册价格；只记录阶段结束日，未确认最终截止或具体时刻。
+- 本届条件出版原字段：报告人页说明大会 proceedings 及可选盲审路径，海报亦可提交手稿参与；具体归档及逐篇数据库收录未核验，不承诺 SCI/EI。
+- 本届范围/冲突原备注：主页会期/会场经普通浏览器读取；注册 https://icaleo.org/attend 经官网 Whova 入口办理。Late Registration 9/1–10/4是价格阶段，另有现场价格，不能把10/4当最终注册截止；页面同时残留Standard Registration Open Now，当前费率适用性未知。
+- 未解决内容及影响：原始摘要/最终作者注册日期篇幅文件未知，关闭是原已核状态；late/standard/onsite费率当前适用未解决，阶段结束非最终注册；盲审及JLA选择/归档单篇检索未知，不继承所有稿保证
+- 维护触发：本届正式作者/出版通知或新届公告公开后维护，进行中不因旧Submit按钮重试稿件。
+- 完整记录内容摘要7c02a0d41b5a046e0efeeef7d0ba5c0dbd3c8c1100a5317f2e551ae9af01f8ec，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
+
+## imid-2027
+
+International Meeting on Information Display 2027；2027；International Meeting on Information Display/series-e8f703ba9bc1；admitted关联conference-series-de76643319，原checkedAt 2026-10-03。
+
+- 身份/当届来源：[原入口](https://imid.or.kr/2026/newsletter/thanksletter.html)、[原通知](https://imid.or.kr/2026/newsletter/thanksletter.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-03.md#c11六系列后续公告与-imid-2027)。
+- 全字段审阅范围：根站正常浏览器转2026Thanksletter弹窗实际官方感谢信所链图像全目视读得2027/8/24–27 BusanBEXCO，不按年度同日推。2026统计和第26届不能推2027届序/专题/展期，topics泛电子导航仅scope。未来mother一独立届同稳定系列已admitted，只从原图保存日城非文字指纹已解析图像，也不需要新复制图。2027独立CFP/注册/费用/出版皆unknown/null，旧1pPDF/7/31作者付款不得继承；正式预告有会期非开放。
+- 日城与范围：2027-08-24–2027-08-27；韩国 · 釜山；BEXCO；submissionState unknown。
+- 逐字段截止及出处：2027投稿截止待公布：未知 [来源](https://imid.or.kr/2026/newsletter/thanksletter.html)；2027注册截止待公布：未知 [来源](https://imid.or.kr/2026/newsletter/thanksletter.html)
+- 本届条件出版原字段：2027论文集出版商、归档、报告条件及数据库索引尚未核实。
+- 本届范围/冲突原备注：IMID根站当前仍转到2026主页；其Thanksletter链接公布2027会期与会场。预告不证明投稿或注册已开放，2026统计与规则仅留在历史届次。
+- 未解决内容及影响：2027独立征稿/稿型篇幅模板系统和各截止未知，2026一页不移；专题/展子期及明确届序未核，不从旧年算；注册费用作者付款与出版归档/实际索引未知，图像只有预告范围
+- 维护触发：IMID2027独立官方站/CFP及注册、出版通知公开后逐字段维护，仍保留旧2026历史。
+- 完整记录内容摘要4b5aaf920b7e7d87b39158c448ae1f8767bb271fc5223f0034401de9fc838e6a，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
+
+## quantum-2027
+
+Optica Quantum 2.0 Conference and Exhibition；2027；Optica Quantum 2.0/series-85ffa76b9f90；admitted关联conference-series-aab82d5657，原checkedAt 2026-09-11。
+
+- 身份/当届来源：[原入口](https://www.optica.org/events/topical_meetings/quantum/)、[原通知](https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/)；[原实际记录1](VERIFICATION_LOG.md#2026-09-11量子技术与亚洲光电子会议)、[原实际记录2](https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/)。
+- 全字段审阅范围：OpticaQuantum2.0BellaCenterCopenhagen2027/6/7–10与本届投稿标头一致，主页旧2026chairs/digest不作2027阵容。今天第二有效投稿正文明确2/9/2027 12:00EasternUTC−05，写带offset at/AmericaNewYork不仍NULL/不设日末；只此paperdeadline及对应局部注记更新、不刷新整条9/11checkedAt或注册来源。35word同abstract含2psummary、全title作者affil版权2027Authors字体嵌入和受保护图像许可实际当届要求，template链接非已下载内部审。线上电子版权/noemailfax/截止后不修、选categorysymposium、oral/poster委员会决定只一偏好可拒绝；accepted+presented平台发布/索引支持非每篇EI真实检索。Submit按钮和communityeligible不是登录实收验证，unknown保留；通知final注册费用皆未知。
+- 日城与范围：2027-06-07–2027-06-10；丹麦 · 哥本哈根；Bella Center；submissionState unknown。
+- 逐字段截止及出处：摘要与两页 summary 截止：2027-02-09T12:00:00-05:00 / America/New_York [来源](https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/)；注册安排待公布：未知 [来源](https://www.optica.org/events/topical_meetings/quantum/)
+- 本届条件出版原字段：主办方说明录用且完成报告的论文由 Optica 出版平台发布，并说明 Ei Compendex 等索引支持；单篇出版和实际检索仍须另行确认。
+- 本届范围/冲突原备注：官网会期和地点已更新至 2027，首页仍有 2026 论文集和主席信息；不将其视为 2027 阵容。2026-10-06仅投稿页局部核验已明确摘要/summary截止为2027-02-09 12:00美东（UTC−05:00），此前未公告的null已补。系统真实接收、录用/最终材料与注册安排未核实，不据Submit按钮推定开放；整条checkedAt保持原完整核验日期。
+- 未解决内容及影响：模板内部/账户系统实际接收未验证，Submit按钮不能直接改为open；通知/终稿作者付款注册费用及精确注册日期未知，本批只partial截止；实际单篇出版索引与2027主席专题阵容未全部核，旧2026不沿
+- 维护触发：本届明确启用/通知、注册最终材料或新公告出现后维护；同未变投稿页两次停止，截止现在可用于准备。
+- 完整记录内容摘要ee56cf8bf2554c0adc9aea7c0241a6626bbd31b79791eb4067b83b23d843d63b，基于b65fc4c8ab1c0cb232e2dc1b342d467f999dfae1；非官网内容指纹，未知不冒充已补齐。
