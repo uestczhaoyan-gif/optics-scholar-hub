@@ -976,3 +976,62 @@ Chinese Physics Letters；中国物理学会 · IOP Publishing；原checkedAt 20
 - 未解决内容及影响：官方3/4页和旧提交描述无有效版本统一，模板内部/收费版权OA及完整系统材料/周期未知；更早EarlyAccess未独立核，PublishedDate不从月第一天倒推。；CAS/2026全分类/覆盖单篇未知；原公开摘要元数据非全文SI或实验审计、理论与实验范围分别保留，不借其他中文刊收费规则。
 - 维护触发：本刊明确修订版本统一页限和在线材料/收费统计、新分类覆盖或论文日期更正后维护，冲突未解保持未知。
 - 全字段内容摘要a322653e240103a4ce36604cf6b7f34d8d7d93599d983c854dc4b7afc42e19b9，基于98d29648567a504d48800f2a44a3b17b13d119df；不是官网内容指纹，不表示未知已补齐。
+
+## V1-G2U
+
+实际全文读取五刊当前JSON及9/11身份/二手JIF版本、E19 BIOSBE和SNB各自完整已核段/费表、E23 JCIS与E24 DYPI各本刊数据和稿型/收费细则、E22/E25十二原摘要与上线/VOR/卷期，以及E1 ScienceBulletin独立指南/费表和E2四原摘要/校正稿。复用原核验日真实证据，不今天再访官网/后台或扫描同版数据库，不刷新全部data日期。各admitted关系/稿型范围/要求与鼓励/税与版年逐项核对，不把另刊X/Advances混入，不继承别刊通用指南。 本次正式字段质量累计137/252，余115未审；G3 42/60，G4/G5完成，最终验收仍待。审阅日期不替代原官网/整刊核验日。
+
+## biosensors-bioelectronics
+
+Biosensors and Bioelectronics；Elsevier；原checkedAt 2026-09-11，admitted候选journal-9e00e36667一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics/publish/guide-for-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e19两本生物化学传感期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e22biosensors-and-bioelectronics--sensors-and-actuators-b)、[原记录3](VERIFICATION_LOG.md#2026-09-11界面染料生物传感与综合科学)。0956-5663/e1873-4235本刊非独立X，生物/仿生识别与换能联合；2025指标2024JIF生物物理Q1secondary/MJL SCIE/EI592独立。2026-10-04指南Full约5000/最多6图表、Short约3000/3、Review约8000–10000非统一硬长限；非邀综述先系统短提案获批准并邀请后全文仍同行评审，提案模板仅入口未内部。摘要250/英文关键词1–7/Highlights鼓励3–5条每85字符可编辑，不套SNB必需。BIOSBE可编辑doc/tex Word单栏TeX可双栏/PDF非源系统评审PDF，SI随稿引用说明返修才增换，单盲通常≥2；OptionB鼓励仓库但初投DAS必需、不共享说明。订阅或Gold5440USD全部稿型不含税/三许可/作者版权/选择不影响审查，不把订阅无OA费视所有免费。原三卷278/301/308不同正式卷；首online2/26非二手2/27、分别VOR3/7、2/13、5/13及后卷期区分；结构色电子皮肤/SERS农药菌培养/细菌沉金热点是公开实验摘要非临床认证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/BIOPHYSICS/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=55)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0956-5663&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0956-5663 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 592 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：完整提案模板内部和所有专项实验/伦理/减免条款、费率生效年度与本刊评审统计未知；不保证个体机构覆盖或含税总价。；CAS/2026全部类别/索引覆盖单篇未知，公开三摘要出版史非全文SI或临床/规模化审计。
+- 维护触发：本刊新模板政策费用或明确统计、新合法分类覆盖和原论文更正出现后维护；不重读不变源或混用X。
+- 全字段内容摘要fb66084fffb61f3abead66068de91d23e9480bf3dcd1c3a2ec7f89c6bd7673be，基于ed6195dcef1e3a31303ae938fdd7639673957679；不是官网内容指纹，不表示未知已补齐。
+
+## sensors-actuators-b
+
+Sensors and Actuators B: Chemical；Elsevier；原checkedAt 2026-09-11，admitted候选journal-65a0dc80d1一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical/publish/guide-for-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e19两本生物化学传感期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e22biosensors-and-bioelectronics--sensors-and-actuators-b)、[原记录3](VERIFICATION_LOG.md#2026-09-11界面染料生物传感与综合科学)。0925-4005/e刊号目录未知；化学检测需实验复杂样品比较，纯温度压力折射率不适配。2025指标2024分析化学JIFQ1secondary/MJL SCIE/EI5231独立，不由另一数据库载体列补猜e号。Full一般6000词或8印刷页含图表不含refs，Short2000或4最终编辑定；Review/Perspective仅邀请、附信列编辑、8000/4000为建议。摘要250关键词1–7/Highlights必需85字符3–5条单文件，而非BIOSBE鼓励。SNB源doc/tex单双栏差异/PDF非源、SI随稿返修增换、单盲≥2、OptionB仓库鼓励而DAS初投必需，不能混JCISOptionC。Gold4890USD全稿型税另订阅无此费三许可/版权/出版选择不影响录用，不承诺全部免费。三卷436/454/458原摘要首online/VOR/名义日独立；染料SERS验证非复杂临床样本、MOF人体液回收非器械批准、光纤荧光细胞水凝胶乙酰苯不称所有气味通用。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, ANALYTICAL/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=86)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0925-4005&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0925-4005 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 5231 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：电子刊号/完整专项材料模板与费用年度、具体周期未知；全部税及个体报价/协议资格未核，不套BIOSBE费率或综述提案路径。；CAS/2026全分类/索引覆盖单篇未知，原摘要及历史元数据非全文SI实验审计或所有复杂样本验证。
+- 维护触发：本刊明确电子号、模板费用统计和新版分类覆盖或论文更正后维护；未知不按邻刊填写。
+- 全字段内容摘要555331f4f61845cc1d63cafedca8a58083b67bb06286c8ba05cdbb6019a9561a，基于ed6195dcef1e3a31303ae938fdd7639673957679；不是官网内容指纹，不表示未知已补齐。
+
+## jcis
+
+Journal of Colloid and Interface Science；Elsevier；原checkedAt 2026-09-11，admitted候选journal-289c4caa7f一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/publish/guide-for-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e23journal-of-colloid-and-interface-science)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e25journal-of-colloid-and-interface-science--dyes-and-pigments)、[原记录3](VERIFICATION_LOG.md#2026-09-11界面染料生物传感与综合科学)。0021-9797/e1095-7103本刊非Advances；胶体界面可迁移基础认识，非常规制备性能比较。2025指标2024物化JIFQ1secondary/MJL SCIE/EI3123独立。Full常规/Short重要紧急先编辑判/Feature事先讨论获邀限作者近期工作、不收常规全面综述；统一词数页数未核不造。摘要250首选Hypothesis/Experiments或Simulations/Findings，关键词1–7、refs通常55非绝对；图摘必需531高×1328宽5×13cm单文件建议单图，未核本刊Highlights必需。cover独立≤A4一面：Suitability2段A–F、Novelty2段3–5已刊定位、Significance1段，不改写摘要。JCIS doc/tex非PDF源、单盲≥2、SI随稿返修增换，OptionC要求仓库存储引用但不能共享说明、DAS必需。Gold4820USD全部稿型税另三许可和订阅无OA费/版权，接受稿机构库24月从最终可引用版本上线起非VOR无条件公开，个案协议未知。702Part1/710/718三卷光子晶体结构色/水凝胶双响应/织物颜色及抗菌，2025首次与2026卷期分开、非生产或器械认证。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, PHYSICAL/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=100)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0021-9797&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0021-9797 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 3123 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：普通长文统一词数/完整领域模板和全部指南、费率生效年/个体协议及本刊周期未知；只部分实核不是每条政策完成。；CAS/2026全分类/覆盖单篇未知，三原摘要元数据非全文实验SI审计；自存档需具体协议不能自动许可。
+- 维护触发：本刊新明确长度/材料数据政策/费率统计、新版分类覆盖或原论文更正出现后维护，不混另刊综述或OptionB。
+- 全字段内容摘要a3221866aae78eb618c45263e485b144672fefb3f21eda7025582f0da177266a，基于ed6195dcef1e3a31303ae938fdd7639673957679；不是官网内容指纹，不表示未知已补齐。
+
+## dyes-pigments
+
+Dyes and Pigments；Elsevier；原checkedAt 2026-09-11，admitted候选journal-f115ca0e6a一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/dyes-and-pigments/publish/guide-for-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-04.md#e24dyes-and-pigments--ieee-tie)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-04.md#e25journal-of-colloid-and-interface-science--dyes-and-pigments)、[原记录3](VERIFICATION_LOG.md#2026-09-11界面染料生物传感与综合科学)。0143-7208/e1873-3743染料颜料光谱/光化学，排除降解废水与一般无机颜料发光体；2025指标2024应用化学JIFQ2secondary/MJL SCIE/EI1177独立。Full未核统一词数，Short1500/10refs/3图或结构式需SI，Review先联系主题且提案获批非未邀直接全文。摘要250关键词1–7/Highlights必需3–5每85字符与图摘必需531×1328高宽5×13cm；doc/tex单双栏差异/PDF非源、单盲≥2、SI随稿返修增换/视频150MB每件1GB合计preferred非硬限。Full详细方法表征正文ShortESI，新化合物中间体鉴定、相关光谱参数、寿命ideally非全硬限、结构CCDC+CIFCheck适用；OptionC仓库要求/DAS必需/不能共享原因、预印本合规/SSRN可选非操作。Gold3850USD全部税另三许可、订阅无OA费非全免、接受稿机构库24月从最终可引用版本起。247/253/254原Research三卷NIR探针/亚硫酸氢根食品模型成像/潜指纹，Availableonline2025-12-20/2026-05-11/06-20与VOR及较晚2026-04/10/11月级期次分开不造日；排除NIRIIReview。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/CHEMISTRY, APPLIED/Q2/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=87)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=0143-7208&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 0143-7208 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 1177 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：全文/提案模板内部、全部化合物适用附件和长文统一上限未知，费率生效年/个体协议税与本刊周期未核；寿命与视频建议不改成硬限。；CAS/2026全部分类/覆盖单篇未知，公开三原摘要元数据非全文SI审计、食品监管/临床或司法认证。
+- 维护触发：本刊新明确指南模板/费率统计、新分类覆盖和论文更正出现后维护；不回填假期次日或混入一般无机荧光粉。
+- 全字段内容摘要a9f54400b901806498321e9e91dafb1a76783bc6b721ad9247a65f1bce944010，基于ed6195dcef1e3a31303ae938fdd7639673957679；不是官网内容指纹，不表示未知已补齐。
+
+## science-bulletin
+
+Science Bulletin；Science China Press · Elsevier；原checkedAt 2026-09-11，admitted候选journal-4d95141a6e一对一。
+
+- 全部字段与原依据：[本刊指南](https://www.sciencedirect.com/journal/science-bulletin/publish/guide-for-authors)；[原记录1](JOURNAL_GUIDE_EVIDENCE_2026-10-02.md#e1六本交叉期刊)、[原记录2](JOURNAL_SCOPE_EVIDENCE_2026-10-02.md#e2五刊十六篇)、[原记录3](VERIFICATION_LOG.md#2026-09-11界面染料生物传感与综合科学)。2095-9273/e2095-9281ScienceChinaPress/Elsevier综合科学、广泛读者意义；2025指标2024综合JIFQ1secondary/MJL SCIE/EI5193及中文338Renewed独立。2026-10-02Article通常单段250/4–6关键词/最多6图表约60refs/建议10印刷页含refs图注注释；Review通常约稿亦可自由建议15；Short<3页1–2图表<15refs无摘要关键词，不能套Article。mc03/csb现入口、cover意义字数通信作者冲突贡献伦理、返修逐条/标修改，图独立图注另列SI随稿清修订按原文件发布，冲突DOCX和适用数据伦理AI未当全政策审计。可选OA3880USD全部税另，订阅黑白1000RMB亦标150USD每页彩页未知，既非免总费亦非两模式简单相加确定报价。70(6)/(10)/(22)三正式期原THz位移/拓扑非线性晶格/MoS2探测免疫实验，首次1/9、3/10、8/11非卷期日、fewphoton题名非单光子分辨；第四音频压缩光2026-08-26校正稿无正式卷期不算第四期。
+- 分区版本/学科/等级：JCR/JCR 2025（指标2024）/category/MULTIDISCIPLINARY SCIENCES/Q1/secondary [来源](https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=522)
+- 独立索引：SCIE/confirmed/database，原核验2026-10-02 [来源](https://mjl.clarivate.com/search-results?issn=2095-9273&hide_exact_match_fl=true)；Clarivate Master Journal List 公开浏览器查询：以 ISSN 2095-9273 检索，唯一 Exact Match 的刊名与刊号一致，结果卡明确列出 Web of Science Core Collection: Science Citation Index Expanded。未登录 profile 或进行单篇检索；公开卡未给覆盖起止年。；EI_COMPENDEX/confirmed/database，原核验2026-10-02 [来源](https://assets.ctfassets.net/o78em1y1w4i4/1vOKA5ELqWIoXeukEI0KPk/25a74b602fc5149a096bd87bf7d9c5e1/COMPENDEX_Source-list-082026.xlsx)；Elsevier 官网当前链接的 Compendex 公开来源表 SERIALS（2026-08-07 版）第 5193 行，刊名、Journal 类型与印刷/电子刊号匹配；DISCONTINUED（2026-05-01 版）无匹配；中文表（2026-07-10 版）第 338 行为 2026 Renewed（保持收录）。依据为数据库方来源表，未进行订阅平台单篇检索；清单未给覆盖起止年。
+- 未解决内容及影响：彩页定价/具体协议和全部伦理数据AI条款、费率生效年度/评审周期未核；Fourth正式期未知，原中文概述与摘要非全文SI或英文原题全回填。；CAS/2026全部类别和索引覆盖单篇未知；订阅与OA两路线费用不可保证总账单，不套其他Elsevier全长词数。
+- 维护触发：本刊新完整政策/彩页费用统计、校正稿正式期和新分类覆盖或原论文更正后维护，不反复查询原不变价格与未知。
+- 全字段内容摘要a338f30b926abcfe98b72d7bc239217546f0f666449aae6999b7e1a386697998，基于ed6195dcef1e3a31303ae938fdd7639673957679；不是官网内容指纹，不表示未知已补齐。
