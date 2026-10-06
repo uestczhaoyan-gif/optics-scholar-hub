@@ -1759,3 +1759,10 @@ V1-G2N 6cabe77aa14a65fe45126280a877abe37fe5c04e已验收[Pages 37383408590](http
 - V1-G2AN实审4届会议全部字段，正式质量累计246/252（109刊/127届/10活动）、余6；固定候选42/60，G4/G5完成，G1/G2/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 完整审读四届正式JSON、stable系列/admitted关系和C27原实际官方核验范围。TRANSDUCERS时间区、Globecom普通/Workshop路径、ICC初稿/录用加页与未来届次逐字段分开；复用既有实际证据，不对未变化的作者页超时或未来占位作重复请求。四当届全部data与原checkedAt保留，未知不据前届或IEEE标识补齐。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2an)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
 
 - 发布前validate、全部data/冻结字节、旧242正式42候选G4G5final保护及246唯一摘要/四当届系列关系断言通过；735本地文件链接、六文档完整实际差异与git diff --check通过。纯文档复用已验收7b4426摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages线上版本。未变化受限作者入口不再重复，IEEE身份不当逐篇索引保证。
+
+## 2026-10-06：正式会议质量 V1-G2AO
+
+- d08b3be64aedf86727877c962cf170be3eaf98f5已验收[Pages 37459327889](https://github.com/uestczhaoyan-gif/optics-scholar-hub/actions/runs/37459327889)；同SHA build/deploy成功、首页/版本200，摘要7b4426a7864e2c91452cf01ca83f4cbac9c9870f9c65e210b3c1b8f963ffef0e匹配本地（2026-10-06T11:54:27.095Z）。编辑前HEAD=origin/main；work/V1-G2AO-plan.json长操作前保护真实范围。
+- V1-G2AO实审6届会议全部字段，正式质量累计252/252（109刊/133届/10活动）、余0；固定候选42/60，G4/G5完成，G2当前正式目录已审清，G1/G3/G6仍待、整体IN_PROGRESS，全部目录保持。 实际完整审读六届JSON、stable/admitted关联及C24/C26原成功官方公开页范围。CVPR2027 AuthorGuidelines首次10/4的404计入，本次第二有效请求仍404，停止第三次/换入口绕过；其余未变历史/冲突及未来占位复用实际原证据不反复请求。只按各届的计算成像/物理视觉/显微子集适配，所有data/原checkedAt/固定范围保持。当前正式目录252全部审完，后续固定候选如获准入仍须同步新正式字段审查，G1/G3/G6未验收。 [逐届记录](V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#v1-g2ao)。必要数据保护、文档和真实差异审查后推送同SHA部署验收。
+
+- 发布前validate、全部data/冻结字节、旧246正式42候选G4G5final保护及252唯一摘要/六当届系列关系断言通过；745本地文件链接、六文档完整实际差异与git diff --check通过。纯文档复用已验收7b4426摘要六资产，同SHA CI独立validate/31测试/typecheck/lint/build后验收Pages线上版本。当前正式252全部实审；仍余18固定候选，最终功能与交接未验收，不写V1.0_ACCEPTED。

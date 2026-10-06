@@ -6907,6 +6907,150 @@
         "ComSoc表只明确日城，不能继承2026稿规或同名其他ICC"
       ],
       "maintenanceTrigger": "2027专属官方CFP/venue/注册作者与出版公告公开后维护；明确日城保留，不凭周期补齐。"
+    },
+    {
+      "kind": "conference",
+      "id": "cvpr-2026",
+      "seriesId": "series-406fcf4e4cea",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "b8a7a5a842fede411e1df90cc1f7d2f152d0f63b07f56cffb762288486f9ef87",
+      "formalReviewBase": "d08b3be64aedf86727877c962cf170be3eaf98f5",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cvpr-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部/compute表参数与完整伦理终稿未核",
+        "注册精确早鸟两源不一致，费率退款作者截止未知",
+        "公开CVF安排不证逐篇索引，2026八页不迁2027"
+      ],
+      "maintenanceTrigger": "官方澄清历史注册时刻、完整作者终稿及可用逐篇出版证据后维护；未来只用2027专属指南。"
+    },
+    {
+      "kind": "conference",
+      "id": "cvpr-2027",
+      "seriesId": "series-406fcf4e4cea",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "43ec221ab43f3a75c3e5d2c44f016f4e6575e75d3ace75b53b6d632cf1d5649b",
+      "formalReviewBase": "d08b3be64aedf86727877c962cf170be3eaf98f5",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#cvpr-2027",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "本届作者指南两次404停止，篇幅模板完整匿名及LLM政策未核",
+        "具体场馆/作者注册费用终稿未知",
+        "AoE只日期不编时刻；公开安排不证实际索引"
+      ],
+      "maintenanceTrigger": "2027官方作者指南发布/源内容变化或venue费率终稿公告后维护；未变化404入口不再第三次请求。"
+    },
+    {
+      "kind": "conference",
+      "id": "eccv-2026",
+      "seriesId": "series-19eaec27ee6f",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d50c455199ea914efbe20a374051aab6d715825c2b5e759e6dbf629ed9e8172d",
+      "formalReviewBase": "d08b3be64aedf86727877c962cf170be3eaf98f5",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#eccv-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板内部、注册价格退款与全部伦理未核",
+        "资料旧页对新公告不同，不把资料延期当论文延期",
+        "实际逐篇出版索引未核，2028日城未知不按周期补"
+      ],
+      "maintenanceTrigger": "历史完整模板费率/逐篇出版证据或下一届官方日城CFP出现后维护；现14/15页及各资料通道保留。"
+    },
+    {
+      "kind": "conference",
+      "id": "iccv-2025",
+      "seriesId": "series-a30dbd238b35",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "4c413337b3b14f30d3916287bcfa3ac5d2e3d015b336c7e949419e7053457819",
+      "formalReviewBase": "d08b3be64aedf86727877c962cf170be3eaf98f5",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#iccv-2025",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "历史notice日期冲突null，模板内部/注册终稿未知",
+        "未来2027两官方日城范围冲突未准入，不自选日期",
+        "CVF公开不证实际索引；场馆称谓差异保留"
+      ],
+      "maintenanceTrigger": "官方解释2025notice/历史作者出版或澄清2027日期后维护；不任选冲突源、不扩大冻结版。"
+    },
+    {
+      "kind": "conference",
+      "id": "miccai-2026",
+      "seriesId": "series-72c45945fc88",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "d66e75d1f8893643e0956165f125d8ae20ea431d66e55ca00ecaf017a787aac7",
+      "formalReviewBase": "d08b3be64aedf86727877c962cf170be3eaf98f5",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#miccai-2026",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "模板ZIP/CMT指南内部与全部伦理卫星规则未核，目录只相关题名",
+        "出版首次日两源冲突、退款处理句残2025，不伪保2026",
+        "LNCS19卷入口不证逐篇实际索引，主会卫星稿规不混"
+      ],
+      "maintenanceTrigger": "官方澄清首次公开日/退款年份及公开完整模板或逐篇出版证据后维护；未来当届独立规则。"
+    },
+    {
+      "kind": "conference",
+      "id": "miccai-2028",
+      "seriesId": "series-72c45945fc88",
+      "checkedAt": "2026-10-06",
+      "result": "reviewed-with-limitations",
+      "recordDigest": "1c57adcd180cc21a2adab4f1d391e6becc9e8b496086630abbd2ab57245ee1c2",
+      "formalReviewBase": "d08b3be64aedf86727877c962cf170be3eaf98f5",
+      "evidence": "V1_CONFERENCE_FORMAL_REVIEW_2026-10-06.md#miccai-2028",
+      "fieldsReviewed": [
+        "identity-and-edition-series-relations",
+        "sources-and-actual-review-scope",
+        "dates-times-windows-and-deadline-channels",
+        "submission-format-presentation-and-registration",
+        "conditional-publication-not-actual-index-guarantee",
+        "conflicts-access-and-explicit-unknowns"
+      ],
+      "limitations": [
+        "未来venue、当届所有征稿作者费率出版主题未知，不继承2026",
+        "2027起日冲突与2029/30承办招标不生成正式届",
+        "2028光学标签为系列条件关联非当届CFP确认"
+      ],
+      "maintenanceTrigger": "2028专属venue主题CFP作者费用出版公告或2027官方冲突澄清后维护，已知日城不反复查。"
     }
   ],
   "coreSeriesReviews": [

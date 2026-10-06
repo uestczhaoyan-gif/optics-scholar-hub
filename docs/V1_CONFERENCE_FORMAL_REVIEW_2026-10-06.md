@@ -1859,3 +1859,91 @@ IEEE International Conference on Communications 2027；2027；IEEE International
 - 未解决内容及影响：未来具体venue、当届CFP/所有作者费用截止与出版索引未知；光学标签为系列关联，2027ONS专题未确证；ComSoc表只明确日城，不能继承2026稿规或同名其他ICC
 - 维护触发：2027专属官方CFP/venue/注册作者与出版公告公开后维护；明确日城保留，不凭周期补齐。
 - 完整记录内容摘要c0758b66bb836379542fa00fac1f1239a0701a52c2afe52d9f96525992defee0，基于62b6423e80b7990063e80fb1894f0585dbffdaf1；非官网内容指纹，未知不冒充已补齐。
+
+## V1-G2AO
+
+实际完整审读六届JSON、stable/admitted关联及C24/C26原成功官方公开页范围。CVPR2027 AuthorGuidelines首次10/4的404计入，本次第二有效请求仍404，停止第三次/换入口绕过；其余未变历史/冲突及未来占位复用实际原证据不反复请求。只按各届的计算成像/物理视觉/显微子集适配，所有data/原checkedAt/固定范围保持。当前正式目录252全部审完，后续固定候选如获准入仍须同步新正式字段审查，G1/G3/G6未验收。 累计正式质量252/252，余0未审；固定候选42/60，G4/G5完成，其余门槛未验收。所有data与冻结范围保持。
+
+## cvpr-2026
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026；2026；IEEE/CVF Conference on Computer Vision and Pattern Recognition/series-406fcf4e4cea；admitted关联conference-series-7886ef52c0，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://cvpr.thecvf.com/Conferences/2026)、[原通知](https://cvpr.thecvf.com/Conferences/2026/CallForPapers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c24计算成像三系列与历史未来2026-10-04)。
+- 全字段审阅范围：CVF2026丹佛ColoradoConventionCenter FAQ地址与完整6/3–7核对，WT6/3–4主会6/5–7分开；CFP计算成像/事件相机/物理视觉/细胞显微子集不外推全部AI。历史初稿8页含图表、纯引用额外、本届样式双盲含supp/video，模板入口而非文件内部；所有作者OpenReview资料，compute报告项目存在但表参数未核。摘要延期2025/11/7 AoE只日期、全文11/13明确23:59UTC−12、notice2026/2/20只日期，不能把2025截止认另届。AUTHOR注册每份最多3篇含Workshop，virtual不覆盖，具体费率/退款/authorDDL未核；Pricing Apr23 23:59 MountainTime(ET)与Dates18:59UTC不一致不造精确早鸟。终稿未核null。CFP会前两周CVF公开是出版安排非逐篇SCI/EI。2027完整指南未知不借这届8页。
+- 日城与范围：2026-06-03–2026-06-07；美国 · 科罗拉多州丹佛；Colorado Convention Center；submissionState published。
+- 逐字段截止及出处：历史摘要截止（延期后）：2025-11-07 [来源](https://cvpr.thecvf.com/Conferences/2026/CallForPapers)；AoE；只公布日级，不补造时刻。；历史普通全文截止：2025-11-13T23:59:00-12:00 / Etc/GMT+12 [来源](https://cvpr.thecvf.com/Conferences/2026/CallForPapers)；历史普通录用通知：2026-02-20 [来源](https://cvpr.thecvf.com/Conferences/2026/Dates)；历史终稿截止本轮未核：未知 [来源](https://cvpr.thecvf.com/Conferences/2026)
+- 本届条件出版原字段：本届CFP说明录用论文由CVF在会议前两周公开；注册页提供论文集访问。不将公开论文集当SCI/EI单篇检索证明。
+- 本届范围/冲突原备注：完整活动6/3–7，Workshop/Tutorial6/3–4、主会6/5–7。地点由官方FAQ明确；初始摘要延期至2025-11-07，2025截止属于2026届。注册页早鸟时刻与Dates不一致，本轮不录精确早鸟时间。未核全部伦理/计算表/模板内部或终稿细则。
+- 未解决内容及影响：模板内部/compute表参数与完整伦理终稿未核；注册精确早鸟两源不一致，费率退款作者截止未知；公开CVF安排不证逐篇索引，2026八页不迁2027
+- 维护触发：官方澄清历史注册时刻、完整作者终稿及可用逐篇出版证据后维护；未来只用2027专属指南。
+- 完整记录内容摘要b8a7a5a842fede411e1df90cc1f7d2f152d0f63b07f56cffb762288486f9ef87，基于d08b3be64aedf86727877c962cf170be3eaf98f5；非官网内容指纹，未知不冒充已补齐。
+
+## cvpr-2027
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027；2027；IEEE/CVF Conference on Computer Vision and Pattern Recognition/series-406fcf4e4cea；admitted关联conference-series-7886ef52c0，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://cvpr.thecvf.com/Conferences/2027)、[原通知](https://cvpr.thecvf.com/Conferences/2027/CallForPapers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c24计算成像三系列与历史未来2026-10-04)。
+- 全字段审阅范围：SeattleWA完整2027/6/20–25、WT6/20–21主会6/22–25明示，venue未知；CFP直接列计算成像/相机/物理视觉/重建/细胞显微。OpenReview2027本届入口及所有coauthors资料，非机构邮箱新profile可能两周审核；PaperRegistration11/10是论文登记非会议缴费，full11/16、supp11/23不同事件且noextension，decision2/25都是AoE UTC−12仅日期未造23:59。CFP所链2027 AuthorGuidelines10/4首次404，本次10/6第二有效公开请求同404，篇幅模板完整匿名细则未知，不复制2026八页；LLM政策尚制定。作者注册费/终稿null，publication只CFP会前两周CVF公开、提前自公开以更早披露为准非index认证。登记期将至但未访问登录/提交/注册。
+- 日城与范围：2027-06-20–2027-06-25；美国 · 华盛顿州西雅图；具体场馆待当届公告确认；submissionState published。
+- 逐字段截止及出处：本届论文登记截止（非参会注册）：2026-11-10 [来源](https://cvpr.thecvf.com/Conferences/2027/CallForPapers)；AoE（UTC-12），官方未给具体钟点。；本届普通全文截止：2026-11-16 [来源](https://cvpr.thecvf.com/Conferences/2027/CallForPapers)；AoE（UTC-12），官方未给具体钟点，不能据北京时间当天判断。；本届补充材料截止（非新论文）：2026-11-23 [来源](https://cvpr.thecvf.com/Conferences/2027/CallForPapers)；AoE（UTC-12），补充材料窗口，不是普通全文延期。；本届最终决定通知：2027-02-25 [来源](https://cvpr.thecvf.com/Conferences/2027/Dates)；AoE，时刻未明确。；本届作者注册/费用截止待公布：未知 [来源](https://cvpr.thecvf.com/Conferences/2027)；本届终稿截止待公布：未知 [来源](https://cvpr.thecvf.com/Conferences/2027)
+- 本届条件出版原字段：2027 CFP说明录用论文由CVF在会前两周公开；如作者提前公开，以更早时间作为披露。具体终稿/作者注册与费用尚未核，不承诺实际索引。
+- 本届范围/冲突原备注：完整活动6/20–25，Workshop/Tutorial6/20–21、主会6/22–25；场馆未知。投稿登记与参会注册分别保留；各AoE日期须按UTC-12核对，未写成北京时间当天。2026规则只保留在历史届次。
+- 未解决内容及影响：本届作者指南两次404停止，篇幅模板完整匿名及LLM政策未核；具体场馆/作者注册费用终稿未知；AoE只日期不编时刻；公开安排不证实际索引
+- 维护触发：2027官方作者指南发布/源内容变化或venue费率终稿公告后维护；未变化404入口不再第三次请求。
+- 完整记录内容摘要43ec221ab43f3a75c3e5d2c44f016f4e6575e75d3ace75b53b6d632cf1d5649b，基于d08b3be64aedf86727877c962cf170be3eaf98f5；非官网内容指纹，未知不冒充已补齐。
+
+## eccv-2026
+
+19th European Conference on Computer Vision 2026；2026；European Conference on Computer Vision/series-19eaec27ee6f；admitted关联conference-series-77d3928027，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://eccv.ecva.net/Conferences/2026)、[原通知](https://eccv.ecva.net/Conferences/2026/CallForPapers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c24计算成像三系列与历史未来2026-10-04)。
+- 全字段审阅范围：ECVA第19届MalmöArena/Malmömässan完整9/8–12、WT8–9主会10–12，Expo不重复学术届；光学仅计算成像事件相机多视标定物理视觉显微子集。初稿14页LNCS含图表/纯引用额外双盲本届字体改变，AuthorKit内部未读；终稿主页6/23宣布15页含致谢、6/30AoE延期不套初稿。登记2/26 23:00CET、full3/5同，主页3/4资料Enrollment延3/6 23:00CET对旧policies3/2是资料窗口而非登记延期。notice6/17日级。主会full作者7/17CEST仅日期、一份≤2篇student/virtual不覆盖，workshop8/10另。作者或授权代表现场、Springer/ECVA公开和首页卷链接只入口非每篇索引；注册费率及完整退款/模板未知。未来2028日城原读范围无公告不按两年推算。
+- 日城与范围：2026-09-08–2026-09-12；瑞典 · 马尔默；Malmö Arena and Malmömässan；submissionState published。
+- 逐字段截止及出处：历史论文登记截止（非资料完善）：2026-02-26T23:00:00+01:00 / Europe/Stockholm [来源](https://eccv.ecva.net/Conferences/2026/CallForPapers)；历史普通全文截止：2026-03-05T23:00:00+01:00 / Europe/Stockholm [来源](https://eccv.ecva.net/Conferences/2026/CallForPapers)；历史最终决定通知：2026-06-17 [来源](https://eccv.ecva.net/Conferences/2026/CallForPapers)；历史终稿截止（延期后）：2026-06-30 [来源](https://eccv.ecva.net/Conferences/2026)；AoE；只日期，不补时刻。；历史主会作者full注册截止：2026-07-17 [来源](https://eccv.ecva.net/Conferences/2026/Registration)；页面只给CEST日期，不补钟点；不把Workshop的8/10套主会。
+- 本届条件出版原字段：CFP说明录用论文通过Springer/ECVA公开，并要求作者或授权代表现场报告；本届公开论文卷已在首页链接。具体逐篇出版/索引本轮未检索，不保证SCI/EI。
+- 本届范围/冲突原备注：完整活动9/8–12，Workshop/Tutorial9/8–9、主会9/10–12，Expo不另计论文会议。主页6/23明确终稿延至6/30 AoE、正文15页含致谢，初稿14页分别保存。后续届次当前已读主页未有具体日城，不据两年周期推算2028。
+- 未解决内容及影响：模板内部、注册价格退款与全部伦理未核；资料旧页对新公告不同，不把资料延期当论文延期；实际逐篇出版索引未核，2028日城未知不按周期补
+- 维护触发：历史完整模板费率/逐篇出版证据或下一届官方日城CFP出现后维护；现14/15页及各资料通道保留。
+- 完整记录内容摘要d50c455199ea914efbe20a374051aab6d715825c2b5e759e6dbf629ed9e8172d，基于d08b3be64aedf86727877c962cf170be3eaf98f5；非官网内容指纹，未知不冒充已补齐。
+
+## iccv-2025
+
+IEEE/CVF International Conference on Computer Vision 2025；2025；IEEE/CVF International Conference on Computer Vision/series-a30dbd238b35；admitted关联conference-series-d66850e0b0，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://iccv.thecvf.com/Conferences/2025)、[原通知](https://iccv.thecvf.com/Conferences/2025/CallForPapers)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c24计算成像三系列与历史未来2026-10-04)。
+- 全字段审阅范围：Honolulu2025/10/19–23、WT19–20主会21–23；主页HawaiiConventionCenter与DatesHonoluluConventionCenter称谓两源保留。初稿本届ICCV样式8页含图表纯引用额外双盲supp/video，模板文件内部未读；OpenReview2025登记3/3全文与supp同3/7明确23:59HST−10，不能用CVPR的AoE。CFPnotice6/26对Dates6/25 23:59HST未有解释null，不臆测等价口径；注册费作者终稿未核。CFP会前两周CVF公开只安排非实际索引。2027主页HongKong10/2–8对Dates10/19–23及空venue冲突未新增，只series双来源维护，不因25历史已准入就准入27。计算成像/物理视觉/显微限定主题。
+- 日城与范围：2025-10-19–2025-10-23；美国 · 夏威夷州檀香山；Hawaiʻi Convention Center（主页名称；Dates写Honolulu Convention Center）；submissionState published。
+- 逐字段截止及出处：历史论文登记截止：2025-03-03T23:59:00-10:00 / Pacific/Honolulu [来源](https://iccv.thecvf.com/Conferences/2025/CallForPapers)；历史全文及补充材料同一截止：2025-03-07T23:59:00-10:00 / Pacific/Honolulu [来源](https://iccv.thecvf.com/Conferences/2025/CallForPapers)；历史通知日期冲突待解释：未知 [来源](https://iccv.thecvf.com/Conferences/2025/CallForPapers)；CFP6/26、Dates6/25 23:59 HST；不自行选日。；历史作者注册截止本轮未核：未知 [来源](https://iccv.thecvf.com/Conferences/2025)
+- 本届条件出版原字段：2025 CFP说明录用论文由CVF在会前两周公开；未查询单篇SCI/EI归档，公开论文不等于索引认证。
+- 本届范围/冲突原备注：完整10/19–23，Workshop10/19–20、主会10/21–23。通知CFP写6/26，Dates写6/25 23:59 HST，未取得统一解释，提醒日期保留null。2027主页写Hong Kong10/2–8，Dates却10/19–23且场馆空白；新届有冲突，暂不新增，系列保存两官方源等待澄清。
+- 未解决内容及影响：历史notice日期冲突null，模板内部/注册终稿未知；未来2027两官方日城范围冲突未准入，不自选日期；CVF公开不证实际索引；场馆称谓差异保留
+- 维护触发：官方解释2025notice/历史作者出版或澄清2027日期后维护；不任选冲突源、不扩大冻结版。
+- 完整记录内容摘要4c413337b3b14f30d3916287bcfa3ac5d2e3d015b336c7e949419e7053457819，基于d08b3be64aedf86727877c962cf170be3eaf98f5；非官网内容指纹，未知不冒充已补齐。
+
+## miccai-2026
+
+29th International Conference on Medical Image Computing and Computer Assisted Intervention；2026；International Conference on Medical Image Computing and Computer Assisted Intervention/series-72c45945fc88；admitted关联conference-series-f648a884e4，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://conferences.miccai.org/2026/en/)、[原通知](https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c26miccai生医光学历史与未来2026-10-04)。
+- 全字段审阅范围：第29届由AbuDhabi迁StrasbourgConventionCenter，完整9/27–10/1与主会科学9/28–30/Workshop两端分开。目录实际光片显微/共聚焦内镜/光声三原题只题名确认子集，不称全文或全部medicalAI光学。普通CMT需先意向title全部authors/COI/topic/abstract2/12再full+supp2/26均23:59Pacific冬−08；至少一coauthor报名review且每篇独立reviewer不是缴费。可检索PDF2026模板正文图表结论致谢8页+引用≤2，noveltyimpact≤500字符非摘要；双盲包含仓库。Supplement仅技术必要视频单ZIP avi/mp4/wmv+codecREADME，不收一般suppPDF/证明结果slides，匿名未发表引文例外，模板ZIP/CMT指南PDF内部未读。早录5/7EODPacific、终稿5/25；其余notice6/12、final及authorreg6/26日级。现场registeredauthor，紧急经PC申请非旅行经费自动豁免，一注册多稿仅各稿firstauthor。早鸟含8/21以到账日计含VAT studentmember/non500/600→600/750 regular820/950→980/1100EUR；workshop两天各付。退款处理末句残2025未当26保证。19LNCS卷/开放主会卫星入口与四周Springer免费只公开目录入口，指南会前2周vsDates不早9/21首次公开日冲突不猜；未查逐篇index/全伦理/clinical卫星。
+- 日城与范围：2026-09-27–2026-10-01；法国 · 斯特拉斯堡；Strasbourg Convention Center；submissionState published。
+- 逐字段截止及出处：历史主会投稿意向/摘要注册（非缴费）：2026-02-12T23:59:00-08:00 / America/Los_Angeles [来源](https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html)；历史主会全文与补充截止：2026-02-26T23:59:00-08:00 / America/Los_Angeles [来源](https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html)；历史早期录用通知：2026-05-07 [来源](https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html)；官网EOD Pacific Time，未给具体钟点，保留日期级。；历史其余稿件决定通知：2026-06-12 [来源](https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html)；官网EOD Pacific Time，未给具体钟点。；历史早期录用稿终稿：2026-05-25 [来源](https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html)；历史其他录用稿终稿：2026-06-26 [来源](https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html)；历史作者会议注册截止：2026-06-26 [来源](https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html)；历史主会早鸟费率截止：2026-08-21 [来源](https://conferences.miccai.org/2026/en/REGISTRATION.html)；付款到帐日决定费率，具体时刻未给。
+- 本届条件出版原字段：主会录用稿由Springer LNCS出版，官网列19卷入口；Society提供主会开放论文与独立卫星论文入口，Springer免费访问为会议首日起4周。只核官网入口/公开目录，不声称逐卷或实际EI/SCIE单篇检索。指南称不早于会前2周，Dates称不早于9/21，具体首次公开日冲突未定，不把计划当实际上线日。来源：https://conferences.miccai.org/2026/en/OPEN-ACCESS-AND-PROCEEDINGS.html
+- 本届范围/冲突原备注：Society Upcoming明确本届由Abu Dhabi迁Strasbourg并修订至9/27–10/1，已与现主页/注册核对；完整活动9/27–10/1、主会科学session9/28–30、Workshop两端分开。2027 Upcoming9/26–10/1与Society公告9/27–10/1起日冲突，暂不正式入选。退款页处理时段末句仍写MICCAI2025，未解释为2026退款保证。仅已核普通稿/主会注册，临床日及卫星独立征稿规则未逐项核验。公开目录只核相关题名，不声称光学论文全文审计。
+- 未解决内容及影响：模板ZIP/CMT指南内部与全部伦理卫星规则未核，目录只相关题名；出版首次日两源冲突、退款处理句残2025，不伪保2026；LNCS19卷入口不证逐篇实际索引，主会卫星稿规不混
+- 维护触发：官方澄清首次公开日/退款年份及公开完整模板或逐篇出版证据后维护；未来当届独立规则。
+- 完整记录内容摘要d66e75d1f8893643e0956165f125d8ae20ea431d66e55ca00ecaf017a787aac7，基于d08b3be64aedf86727877c962cf170be3eaf98f5；非官网内容指纹，未知不冒充已补齐。
+
+## miccai-2028
+
+International Conference on Medical Image Computing and Computer Assisted Intervention 2028；2028；International Conference on Medical Image Computing and Computer Assisted Intervention/series-72c45945fc88；admitted关联conference-series-f648a884e4，原checkedAt 2026-10-04。
+
+- 身份/当届来源：[原入口](https://miccai.org/upcoming-conferences/)、[原通知](https://miccai.org/2026/02/18/announcing-miccai-2027-and-miccai-2028-locations/)；[原实际记录1](CONFERENCE_EVIDENCE_2026-10-04.md#c26miccai生医光学历史与未来2026-10-04)。
+- 全字段审阅范围：SocietyUpcoming与2027/2028地点正式公告一致SãoPaulo2028/10/16–20是明确日城非推周期，PaperDeadlineTBA；venue/主会卫星日期拆分、专属CFP主题模板篇幅审查authorregfee出版实际index未知，unknown两null保留不继承2026八加二页/视频/现场firstauthor注册/费率/LNCS安排。生医光学标签只系列既有显微内镜光声条件推断不称2028主题已发布。2027AucklandUpcoming9/26–10/1对公告9/27–10/1未解释不入正式；2029/30hostbid不是定会。独立系列两届与admitted关系核对、仅新公告触发维护，不登录/提交。
+- 日城与范围：2028-10-16–2028-10-20；巴西 · 圣保罗；具体场馆待当届官方公告；submissionState unknown。
+- 逐字段截止及出处：2028普通论文截止待当届公告：未知 [来源](https://miccai.org/upcoming-conferences/)；官网Paper Submission Deadline: To Be Announced。；2028作者注册/费用待当届公告：未知 [来源](https://miccai.org/upcoming-conferences/)
+- 本届条件出版原字段：2028当届论文集/公开方式/实际索引尚未核实；系列2026的LNCS出版安排不作未来单篇收录保证。
+- 本届范围/冲突原备注：官方日城已明确，主会/卫星日程、具体场馆与各稿型另待公告；2027两Society页面起日冲突单独待核，不强行填一个日期。未登录、提交或注册。
+- 未解决内容及影响：未来venue、当届所有征稿作者费率出版主题未知，不继承2026；2027起日冲突与2029/30承办招标不生成正式届；2028光学标签为系列条件关联非当届CFP确认
+- 维护触发：2028专属venue主题CFP作者费用出版公告或2027官方冲突澄清后维护，已知日城不反复查。
+- 完整记录内容摘要1c57adcd180cc21a2adab4f1d391e6becc9e8b496086630abbd2ab57245ee1c2，基于d08b3be64aedf86727877c962cf170be3eaf98f5；非官网内容指纹，未知不冒充已补齐。
