@@ -31,6 +31,7 @@ export function JournalCard({
   quartile,
   officialOnly,
   favorite,
+  compare,
 }: {
   j: Journal;
   now: Date;
@@ -40,6 +41,7 @@ export function JournalCard({
   quartile: string;
   officialOnly: boolean;
   favorite: { active: boolean; disabled: boolean; onToggle: () => void };
+  compare?: { active: boolean; disabled: boolean; onToggle: () => void };
 }) {
   const preview = previewRankings(
     j,
@@ -59,6 +61,21 @@ export function JournalCard({
   return (
     <article className="journal card" id={j.id}>
       <FavoriteButton name={j.name} {...favorite} />
+      {compare && (
+        <button
+          className="compare-button"
+          aria-pressed={compare.active}
+          disabled={compare.disabled}
+          onClick={compare.onToggle}
+          aria-label={`${compare.active ? '取消对比' : '加入对比'} ${j.name}`}
+        >
+          {compare.active
+            ? '✓ 已加入对比'
+            : compare.disabled
+              ? '对比已满（3 本）'
+              : '加入对比'}
+        </button>
+      )}
       <div className="journal-head">
         <div className="journal-monogram">{j.abbr}</div>
         <div>

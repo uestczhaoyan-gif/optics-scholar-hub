@@ -50,6 +50,7 @@ import {
 } from '@/lib/catalog';
 import { Guide, DataNotes } from './resources';
 import { JournalCard } from '@/components/journal-card';
+import { JournalCompare } from '@/components/journal-compare';
 import { CatalogPagination } from '@/components/catalog-pagination';
 import { CalendarDownload } from '@/components/calendar-download';
 import { FilterShare } from '@/components/filter-share';
@@ -275,6 +276,7 @@ export default function Home() {
   const [journalPageSize, setJournalPageSize] = useState(12);
   const [conferencePageSize, setConferencePageSize] = useState(12);
   const [filtersOpen, setFiltersOpen] = useState(false);
+  const [compareIds, setCompareIds] = useState<string[]>([]);
   const [now, setNow] = useState(() => new Date(config.snapshotAt));
   useEffect(() => {
     const initial = setTimeout(() => setNow(new Date()), 0);
@@ -1005,6 +1007,17 @@ export default function Home() {
                   )}
                 </TabsContent>
                 <TabsContent value="journals">
+                  <JournalCompare
+                    journals={compareIds.flatMap((id) =>
+                      journals.filter((j) => j.id === id),
+                    )}
+                    onRemove={(id) =>
+                      setCompareIds((ids) =>
+                        ids.filter((value) => value !== id),
+                      )
+                    }
+                    onClear={() => setCompareIds([])}
+                  />
                   <div className="notice">
                     <BookOpen size={17} />
                     <p>
@@ -1043,6 +1056,20 @@ export default function Home() {
                         level={level}
                         quartile={quartile}
                         officialOnly={evidence === 'official'}
+                        compare={{
+                          active: compareIds.includes(j.id),
+                          disabled:
+                            compareIds.length >= 3 &&
+                            !compareIds.includes(j.id),
+                          onToggle: () =>
+                            setCompareIds((ids) =>
+                              ids.includes(j.id)
+                                ? ids.filter((id) => id !== j.id)
+                                : ids.length < 3
+                                  ? [...ids, j.id]
+                                  : ids,
+                            ),
+                        }}
                         favorite={{
                           active: favorites.ids.includes(j.id),
                           disabled: !favorites.ready,

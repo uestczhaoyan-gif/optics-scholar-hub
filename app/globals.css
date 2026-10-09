@@ -1363,6 +1363,75 @@ a:not(.brand):has(svg) {
 .journal-results {
   scroll-margin-top: 24px;
 }
+.compare-hint {
+  margin-bottom: 12px;
+  font-size: 13px;
+}
+.compare-button {
+  margin: 0 0 10px 8px;
+  padding: 5px 9px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  font-size: 12px;
+}
+.compare-button[aria-pressed='true'] {
+  background: var(--accent);
+  color: var(--primary);
+}
+.compare-button:disabled {
+  opacity: 0.5;
+}
+.compare-panel {
+  min-width: 0;
+  max-width: 100%;
+  margin-bottom: 18px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px;
+  font-size: 13px;
+}
+.results {
+  min-width: 0;
+}
+.compare-panel button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.compare-scroll {
+  overflow-x: auto;
+  margin-top: 12px;
+  max-width: 100%;
+}
+.compare-scroll table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}
+.compare-scroll caption {
+  text-align: left;
+  margin-bottom: 10px;
+}
+.compare-scroll th,
+.compare-scroll td {
+  border: 1px solid var(--border);
+  padding: 12px;
+  vertical-align: top;
+}
+.compare-scroll td {
+  min-width: 230px;
+  max-width: 330px;
+  overflow-wrap: anywhere;
+}
+.compare-scroll p + p {
+  margin-top: 12px;
+}
+.compare-scroll ul {
+  padding-left: 18px;
+}
+.compare-scroll th {
+  background: var(--accent);
+  min-width: 110px;
+}
 .filter-controls {
   display: contents;
 }
