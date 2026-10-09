@@ -1363,6 +1363,41 @@ a:not(.brand):has(svg) {
 .journal-results {
   scroll-margin-top: 24px;
 }
+.filter-controls {
+  display: contents;
+}
+.filter-toggle {
+  display: none;
+}
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+  font-size: 13px;
+}
+.active-filters button {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  background: var(--accent);
+  overflow-wrap: anywhere;
+  max-width: 100%;
+}
+@media (max-width: 760px) {
+  .filter-toggle {
+    display: block;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 9px 12px;
+    width: 100%;
+    text-align: left;
+  }
+  .filters-closed .filter-controls {
+    display: none;
+  }
+}
 .journal-pagination,
 .pagination-actions {
   display: flex;

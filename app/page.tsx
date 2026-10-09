@@ -272,6 +272,7 @@ export default function Home() {
   const [evidence, setEvidence] = useState('all');
   const [sort, setSort] = useState('deadline');
   const [journalPageSize, setJournalPageSize] = useState(12);
+  const [filtersOpen, setFiltersOpen] = useState(false);
   const [now, setNow] = useState(() => new Date(config.snapshotAt));
   useEffect(() => {
     const initial = setTimeout(() => setNow(new Date()), 0);
@@ -417,6 +418,81 @@ export default function Home() {
   ]
     .sort()
     .reverse();
+  const activeFilters = [
+    ...(query ? [{ label: `搜索：${query}`, clear: () => setQuery('') }] : []),
+    ...(topic !== '全部方向'
+      ? [{ label: topic, clear: () => setTopic('全部方向') }]
+      : []),
+    ...(favoritesOnly
+      ? [{ label: '只看我的关注', clear: () => setFavoritesOnly(false) }]
+      : []),
+    ...(tab === 'conferences'
+      ? [
+          ...(region !== '全部地区'
+            ? [{ label: region, clear: () => setRegion('全部地区') }]
+            : []),
+          ...(status !== '全部状态'
+            ? [{ label: status, clear: () => setStatus('全部状态') }]
+            : []),
+        ]
+      : [
+          ...(collection !== 'all'
+            ? [
+                {
+                  label: collection === 'ranked' ? '1/2 区精选' : 'EI 工程补充',
+                  clear: () => setCollection('all'),
+                },
+              ]
+            : []),
+          ...(index !== 'all'
+            ? [
+                {
+                  label: `索引：${index === 'both' ? 'SCI 与 EI 双收录' : index === 'unverified' ? '待核验' : index}`,
+                  clear: () => setIndex('all'),
+                },
+              ]
+            : []),
+          ...(domain !== 'all'
+            ? [{ label: domain, clear: () => setDomain('all') }]
+            : []),
+          ...(system !== 'all'
+            ? [
+                {
+                  label:
+                    system === 'CAS'
+                      ? `中科院${level === 'major' ? '大类' : '小类'}`
+                      : 'JCR',
+                  clear: () => {
+                    setSystem('all');
+                    setYear('all');
+                    setQuartile('all');
+                    setEvidence('all');
+                  },
+                },
+                ...(year !== 'all'
+                  ? [{ label: `版本：${year}`, clear: () => setYear('all') }]
+                  : []),
+                ...(quartile !== 'all'
+                  ? [
+                      {
+                        label:
+                          system === 'JCR' ? `Q${quartile}` : `${quartile} 区`,
+                        clear: () => setQuartile('all'),
+                      },
+                    ]
+                  : []),
+                ...(evidence !== 'all'
+                  ? [
+                      {
+                        label: '仅官方 / 推算',
+                        clear: () => setEvidence('all'),
+                      },
+                    ]
+                  : []),
+              ]
+            : []),
+        ]),
+  ];
   return (
     <>
       <a className="skip" href="#content">
@@ -534,195 +610,223 @@ export default function Home() {
           </TabsList>
           {['conferences', 'journals'].includes(tab) && (
             <div className="workspace">
-              <aside className="filters">
+              <aside
+                className={`filters ${filtersOpen ? 'filters-open' : 'filters-closed'}`}
+              >
                 <h2>
                   <SlidersHorizontal size={17} />
                   筛选范围<button onClick={reset}>重置</button>
                 </h2>
-                <div className="filter-label">研究方向</div>
-                <div className="topic-list">
-                  {topics.map((t) => (
-                    <button
-                      key={t}
-                      className={topic === t ? 'selected' : ''}
-                      aria-pressed={topic === t}
-                      onClick={() => setTopic(t)}
-                    >
-                      {t}
-                      <span>
-                        {t === '全部方向'
-                          ? ''
-                          : (tab === 'journals'
-                              ? journals
-                              : conferences
-                            ).filter((x) => x.topics.includes(t)).length}
-                      </span>
-                    </button>
-                  ))}
-                </div>
-                {tab === 'conferences' ? (
-                  <>
-                    <Pick
-                      label="举办地区"
-                      value={region}
-                      onChange={setRegion}
-                      items={options(['全部地区', '中国境内', '海外'])}
-                    />
-                    <Pick
-                      label="投稿状态"
-                      value={status}
-                      onChange={setStatus}
-                      items={options([
-                        '全部状态',
-                        '有投稿日期',
-                        'PDP 通道',
-                        '投稿已截止',
-                        '已结束',
-                        '待公布',
-                      ])}
-                    />
-                    <Pick
-                      label="精确截止时间显示"
-                      value={zone}
-                      onChange={setZone}
-                      items={[
-                        { value: 'Asia/Shanghai', label: '北京时间 UTC+8' },
-                        { value: 'UTC', label: '世界协调时 UTC' },
-                      ]}
-                    />
-                  </>
-                ) : (
-                  <>
-                    <Pick
-                      label="收录范围"
-                      value={collection}
-                      onChange={(v) => {
-                        setCollection(v);
-                        setSystem('all');
-                        setYear('all');
-                        setQuartile('all');
-                        setEvidence('all');
-                      }}
-                      items={[
-                        { value: 'all', label: '全部已收录期刊' },
-                        { value: 'ranked', label: '1/2 区精选' },
-                        { value: 'ei', label: 'EI 工程补充' },
-                      ]}
-                    />
-                    <Pick
-                      label="索引收录"
-                      value={index}
-                      onChange={setIndex}
-                      items={[
-                        { value: 'all', label: '全部索引状态' },
-                        { value: 'SCIE', label: 'SCI（SCIE）' },
-                        { value: 'ESCI', label: 'ESCI（独立索引）' },
-                        { value: 'EI_COMPENDEX', label: 'EI（Compendex）' },
-                        { value: 'both', label: 'SCI 与 EI 双收录' },
-                        { value: 'unverified', label: '索引待核验' },
-                      ]}
-                    />
-                    <Pick
-                      label="学科领域"
-                      value={domain}
-                      onChange={setDomain}
-                      items={[
-                        { value: 'all', label: '全部领域' },
-                        ...options(
-                          journalDomains.filter((d) =>
-                            journals.some((j) => j.domains.includes(d)),
+                <button
+                  className="filter-toggle"
+                  aria-expanded={filtersOpen}
+                  aria-controls="filter-controls"
+                  onClick={() => setFiltersOpen(!filtersOpen)}
+                >
+                  {filtersOpen ? '收起筛选' : '展开筛选'} ·{' '}
+                  {activeFilters.length} 项条件
+                </button>
+                <div className="filter-controls" id="filter-controls">
+                  <div className="filter-label">研究方向</div>
+                  <div className="topic-list">
+                    {topics.map((t) => (
+                      <button
+                        key={t}
+                        className={topic === t ? 'selected' : ''}
+                        aria-pressed={topic === t}
+                        onClick={() => setTopic(t)}
+                      >
+                        {t}
+                        <span>
+                          {t === '全部方向'
+                            ? ''
+                            : (tab === 'journals'
+                                ? journals
+                                : conferences
+                              ).filter((x) => x.topics.includes(t)).length}
+                        </span>
+                      </button>
+                    ))}
+                  </div>
+                  {tab === 'conferences' ? (
+                    <>
+                      <Pick
+                        label="举办地区"
+                        value={region}
+                        onChange={setRegion}
+                        items={options(['全部地区', '中国境内', '海外'])}
+                      />
+                      <Pick
+                        label="投稿状态"
+                        value={status}
+                        onChange={setStatus}
+                        items={options([
+                          '全部状态',
+                          '有投稿日期',
+                          'PDP 通道',
+                          '投稿已截止',
+                          '已结束',
+                          '待公布',
+                        ])}
+                      />
+                      <Pick
+                        label="精确截止时间显示"
+                        value={zone}
+                        onChange={setZone}
+                        items={[
+                          { value: 'Asia/Shanghai', label: '北京时间 UTC+8' },
+                          { value: 'UTC', label: '世界协调时 UTC' },
+                        ]}
+                      />
+                    </>
+                  ) : (
+                    <>
+                      <Pick
+                        label="收录范围"
+                        value={collection}
+                        onChange={(v) => {
+                          setCollection(v);
+                          setSystem('all');
+                          setYear('all');
+                          setQuartile('all');
+                          setEvidence('all');
+                        }}
+                        items={[
+                          { value: 'all', label: '全部已收录期刊' },
+                          { value: 'ranked', label: '1/2 区精选' },
+                          { value: 'ei', label: 'EI 工程补充' },
+                        ]}
+                      />
+                      <Pick
+                        label="索引收录"
+                        value={index}
+                        onChange={setIndex}
+                        items={[
+                          { value: 'all', label: '全部索引状态' },
+                          { value: 'SCIE', label: 'SCI（SCIE）' },
+                          { value: 'ESCI', label: 'ESCI（独立索引）' },
+                          { value: 'EI_COMPENDEX', label: 'EI（Compendex）' },
+                          { value: 'both', label: 'SCI 与 EI 双收录' },
+                          { value: 'unverified', label: '索引待核验' },
+                        ]}
+                      />
+                      <Pick
+                        label="学科领域"
+                        value={domain}
+                        onChange={setDomain}
+                        items={[
+                          { value: 'all', label: '全部领域' },
+                          ...options(
+                            journalDomains.filter((d) =>
+                              journals.some((j) => j.domains.includes(d)),
+                            ),
                           ),
-                        ),
-                      ]}
-                    />
-                    <Pick
-                      label="分区体系"
-                      value={system}
-                      onChange={(v) => {
-                        setSystem(v);
-                        setYear('all');
-                      }}
-                      items={[
-                        { value: 'all', label: '不限分区（含 EI 补充）' },
-                        { value: 'JCR', label: 'JCR 学科分区' },
-                        { value: 'CAS', label: '中科院分区' },
-                      ]}
-                    />
-                    {system !== 'all' && (
-                      <>
-                        <Pick
-                          label="版本年份"
-                          value={year}
-                          onChange={setYear}
-                          items={[
-                            { value: 'all', label: '所有已收录版本' },
-                            ...options(years),
-                          ]}
-                        />
-                        {system === 'CAS' && (
+                        ]}
+                      />
+                      <Pick
+                        label="分区体系"
+                        value={system}
+                        onChange={(v) => {
+                          setSystem(v);
+                          setYear('all');
+                        }}
+                        items={[
+                          { value: 'all', label: '不限分区（含 EI 补充）' },
+                          { value: 'JCR', label: 'JCR 学科分区' },
+                          { value: 'CAS', label: '中科院分区' },
+                        ]}
+                      />
+                      {system !== 'all' && (
+                        <>
                           <Pick
-                            label="中科院分类"
-                            value={level}
-                            onChange={setLevel}
+                            label="版本年份"
+                            value={year}
+                            onChange={setYear}
                             items={[
-                              { value: 'minor', label: '小类学科' },
-                              { value: 'major', label: '大类学科' },
+                              { value: 'all', label: '所有已收录版本' },
+                              ...options(years),
                             ]}
                           />
-                        )}
-                        <Pick
-                          label="分区范围"
-                          value={quartile}
-                          onChange={setQuartile}
-                          items={[
-                            { value: 'all', label: '全部分区（1–4 区）' },
-                            {
-                              value: '1',
-                              label: system === 'JCR' ? 'Q1' : '1 区',
-                            },
-                            {
-                              value: '2',
-                              label: system === 'JCR' ? 'Q2' : '2 区',
-                            },
-                            {
-                              value: '3',
-                              label: system === 'JCR' ? 'Q3' : '3 区',
-                            },
-                            {
-                              value: '4',
-                              label: system === 'JCR' ? 'Q4' : '4 区',
-                            },
-                          ]}
-                        />
-                        <Pick
-                          label="来源范围"
-                          value={evidence}
-                          onChange={setEvidence}
-                          items={[
-                            { value: 'all', label: '含标注的第三方参考' },
-                            {
-                              value: 'official',
-                              label: '仅官方披露 / 排名推算',
-                            },
-                          ]}
-                        />
-                      </>
-                    )}
-                  </>
-                )}
-                <div className="filter-tip">
-                  <Sparkles size={18} />
-                  <p>
-                    {tab === 'conferences'
-                      ? '有截止日期不代表投稿系统已开放；请从本届官网确认入口。PDP 面向新近突破成果，不代表普通论文延期。'
-                      : 'SCI/EI 是索引，JCR/中科院是分区。选择分区条件会排除无匹配分区的 EI 期刊。'}
-                  </p>
-                  <button onClick={() => switchTab('guide')}>
-                    了解投稿规则 →
-                  </button>
+                          {system === 'CAS' && (
+                            <Pick
+                              label="中科院分类"
+                              value={level}
+                              onChange={setLevel}
+                              items={[
+                                { value: 'minor', label: '小类学科' },
+                                { value: 'major', label: '大类学科' },
+                              ]}
+                            />
+                          )}
+                          <Pick
+                            label="分区范围"
+                            value={quartile}
+                            onChange={setQuartile}
+                            items={[
+                              { value: 'all', label: '全部分区（1–4 区）' },
+                              {
+                                value: '1',
+                                label: system === 'JCR' ? 'Q1' : '1 区',
+                              },
+                              {
+                                value: '2',
+                                label: system === 'JCR' ? 'Q2' : '2 区',
+                              },
+                              {
+                                value: '3',
+                                label: system === 'JCR' ? 'Q3' : '3 区',
+                              },
+                              {
+                                value: '4',
+                                label: system === 'JCR' ? 'Q4' : '4 区',
+                              },
+                            ]}
+                          />
+                          <Pick
+                            label="来源范围"
+                            value={evidence}
+                            onChange={setEvidence}
+                            items={[
+                              { value: 'all', label: '含标注的第三方参考' },
+                              {
+                                value: 'official',
+                                label: '仅官方披露 / 排名推算',
+                              },
+                            ]}
+                          />
+                        </>
+                      )}
+                    </>
+                  )}
+                  <div className="filter-tip">
+                    <Sparkles size={18} />
+                    <p>
+                      {tab === 'conferences'
+                        ? '有截止日期不代表投稿系统已开放；请从本届官网确认入口。PDP 面向新近突破成果，不代表普通论文延期。'
+                        : 'SCI/EI 是索引，JCR/中科院是分区。选择分区条件会排除无匹配分区的 EI 期刊。'}
+                    </p>
+                    <button onClick={() => switchTab('guide')}>
+                      了解投稿规则 →
+                    </button>
+                  </div>
                 </div>
               </aside>
               <section className="results">
+                {!!activeFilters.length && (
+                  <div className="active-filters" aria-label="当前筛选条件">
+                    <span>当前条件</span>
+                    {activeFilters.map(({ label, clear }) => (
+                      <button
+                        key={label}
+                        onClick={clear}
+                        aria-label={`清除条件：${label}`}
+                      >
+                        {label} ×
+                      </button>
+                    ))}
+                    <button onClick={reset}>清除全部条件</button>
+                  </div>
+                )}
                 <div className="favorites-toolbar">
                   <label>
                     <input
