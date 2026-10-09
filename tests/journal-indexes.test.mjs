@@ -124,3 +124,41 @@ test('metadata requires indexing evidence and valid identity; EI is an independe
   assert.throws(() => validateJournalMetadata(j));
   assert.deepEqual(journalDomains, domains);
 });
+
+test('Q3/Q4 records are admitted and filterable without borrowing another category or index', () => {
+  for (const quartile of [3, 4]) {
+    const j = structuredClone(eiOnly);
+    j.indexes.forEach((index) => {
+      index.status = 'unverified';
+    });
+    j.rankings = [
+      {
+        system: 'JCR',
+        year: 2025,
+        level: 'category',
+        category: 'OPTICS',
+        quartile,
+        evidence: 'secondary',
+      },
+    ];
+    assert.doesNotThrow(() => validateJournalMetadata(j));
+    assert.equal(
+      journalMatches(j, { ...f, system: 'JCR', quartile: String(quartile) }),
+      true,
+    );
+    assert.equal(
+      journalMatches(j, { ...f, system: 'JCR', quartile: '1' }),
+      false,
+    );
+    assert.equal(journalMatches(j, { ...f, collection: 'ranked' }), false);
+    assert.equal(
+      journalMatches(j, { ...f, system: 'JCR', officialOnly: true }),
+      false,
+    );
+    assert.equal(
+      previewRankings(j, 'JCR', '2025', 'minor', String(quartile), false)[0]
+        .quartile,
+      quartile,
+    );
+  }
+});

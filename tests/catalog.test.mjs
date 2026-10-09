@@ -127,7 +127,9 @@ test('CAS major Q2 does not imply optics minor Q2; versions and systems do not s
     ],
   };
   assert.equal(rankingMatches(j, 'CAS', '2025', 'major', 'all'), true);
-  assert.equal(rankingMatches(j, 'CAS', '2025', 'minor', 'all'), false);
+  assert.equal(rankingMatches(j, 'CAS', '2025', 'minor', 'all'), true);
+  assert.equal(rankingMatches(j, 'CAS', '2025', 'minor', '2'), false);
+  assert.equal(rankingMatches(j, 'CAS', '2025', 'minor', '3'), true);
   assert.equal(rankingMatches(j, 'CAS', '2026', 'major', 'all'), false);
   assert.equal(rankingMatches(j, 'CAS', '2025', 'major', 'all', true), false);
   assert.equal(rankingMatches(j, 'JCR', '2026', 'minor', '2', true), true);

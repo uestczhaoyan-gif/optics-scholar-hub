@@ -44,7 +44,7 @@ export function readFilterLink(
     domain: ['all', ...vocabulary.domains],
     year: ['all', ...vocabulary.years],
     level: ['minor', 'major'],
-    quartile: ['all', '1', '2'],
+    quartile: ['all', '1', '2', '3', '4'],
     evidence: ['all', 'official'],
     sort: ['deadline', 'start'],
   };

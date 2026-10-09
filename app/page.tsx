@@ -48,6 +48,7 @@ import {
 } from '@/lib/catalog';
 import { Guide, DataNotes } from './resources';
 import { JournalCard } from '@/components/journal-card';
+import { JournalPagination } from '@/components/journal-pagination';
 import { CalendarDownload } from '@/components/calendar-download';
 import { FilterShare } from '@/components/filter-share';
 import { readFilterLink } from '@/lib/filter-link';
@@ -668,7 +669,7 @@ export default function Home() {
                           value={quartile}
                           onChange={setQuartile}
                           items={[
-                            { value: 'all', label: '1 区 + 2 区' },
+                            { value: 'all', label: '全部分区（1–4 区）' },
                             {
                               value: '1',
                               label: system === 'JCR' ? 'Q1' : '1 区',
@@ -676,6 +677,14 @@ export default function Home() {
                             {
                               value: '2',
                               label: system === 'JCR' ? 'Q2' : '2 区',
+                            },
+                            {
+                              value: '3',
+                              label: system === 'JCR' ? 'Q3' : '3 区',
+                            },
+                            {
+                              value: '4',
+                              label: system === 'JCR' ? 'Q4' : '4 区',
                             },
                           ]}
                         />
@@ -849,11 +858,26 @@ export default function Home() {
                     <p>
                       SCI/SCIE 与 EI
                       独立核验，可同时收录；出版社声明与数据库核实分别标注。分区标签注明年份与学科。EI
-                      工程补充允许暂无分区；选择 JCR / 中科院筛选后仅匹配 1 / 2
-                      区记录。
+                      工程补充允许暂无分区；JCR / 中科院支持 1–4 区筛选，
+                      仅匹配所选年份与分类的已有记录，未核实不代表未收录。
                     </p>
                   </div>
-                  <div className="journal-grid">
+                  <JournalPagination
+                    key={JSON.stringify([
+                      query,
+                      topic,
+                      collection,
+                      index,
+                      domain,
+                      system,
+                      year,
+                      level,
+                      quartile,
+                      evidence,
+                      favoritesOnly,
+                      favoritesOnly ? favorites.ids : [],
+                    ])}
+                  >
                     {filteredJournals.map((j) => (
                       <JournalCard
                         key={j.id}
@@ -871,7 +895,7 @@ export default function Home() {
                         }}
                       />
                     ))}
-                  </div>
+                  </JournalPagination>
                   {!filteredJournals.length && (
                     <Empty>
                       <EmptyHeader>

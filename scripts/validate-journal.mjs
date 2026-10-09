@@ -84,10 +84,12 @@ export function validateJournalMetadata(j) {
   }
   assert(Array.isArray(j.rankings));
   assert(
-    j.rankings.some((r) => r.quartile >= 1 && r.quartile <= 2) ||
+    j.rankings.some(
+      (r) => Number.isInteger(r.quartile) && r.quartile >= 1 && r.quartile <= 4,
+    ) ||
       j.indexes.some(
         (i) => i.database === 'EI_COMPENDEX' && i.status === 'confirmed',
       ),
-    `${j.id}: needs Q1/Q2 or confirmed EI eligibility`,
+    `${j.id}: needs Q1–Q4 or confirmed EI eligibility`,
   );
 }

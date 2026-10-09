@@ -6,6 +6,15 @@ import {
   writeFilterLink,
 } from '../lib/filter-link.ts';
 const vocabulary = { topics: ['光通信'], domains: ['材料'], years: ['2025'] };
+test('Q3/Q4 selections survive shared links', () => {
+  for (const quartile of ['3', '4']) {
+    const filters = { ...filterDefaults, system: 'JCR', quartile };
+    const url = new URL(
+      writeFilterLink('https://example.org/project/', 'journals', filters),
+    );
+    assert.deepEqual(readFilterLink(url.search, vocabulary), filters);
+  }
+});
 test('filter links round-trip Chinese queries and combined rankings under Pages base paths', () => {
   const filters = {
     ...filterDefaults,

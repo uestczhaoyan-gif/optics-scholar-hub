@@ -3618,11 +3618,11 @@
     "priority": 3,
     "scopeHint": "综合科学中的光学计算、超表面、精密光频方法子集；需重大原创发现与跨领域意义，不扩全刊内容",
     "sourceEntry": "https://www.nature.com/nature/for-authors",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "实读本刊For authors及Editorial criteria and processes：原创、科学重要性与跨领域兴趣为编辑判断，技术进展须带来广泛影响；0028-0836印刷/1476-4687在线实际页脚匹配。独立JCR2025/指标2024机构转载Q1已有版本依据，但只一个近年光学原Article成功，另两拟跨正式期次原文各两次技术失败，三例不足仍pending。",
-    "nextAction": "本刊合法新的光学原Article和完整出版史/不同正式期次、现行稿型价表或分类材料可读后再补三例判断；不第三次查未变化两次失败原页，不扩全部综合科学。",
-    "reviewedAt": "2026-10-06"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["nature"],
+    "decisionReason": "用户于2026-10-09明确要求收录综合性母刊，作为本轮范围扩展入库。复用2026-10-06已核验的身份及JCR2025/指标2024公开机构转载Q1记录；三篇光学样例改为后续补充，不作为用户指定期刊的展示门槛。当前索引和未读指南不冒充完成。",
+    "nextAction": "补当前MJL/CAS、可访问的本刊作者指南、费用及更多近期光学论文样例。既有访问限制见V1-G3O审查记录。",
+    "reviewedAt": "2026-10-09"
   },
   {
     "candidateId": "journal-91444c745c",
@@ -3688,11 +3688,11 @@
     "priority": 3,
     "scopeHint": "AAAS Science综合科学中的重大光学原发现子集；Science Advances、SPJ及旧光学论文不能代替本刊近年三例",
     "sourceEntry": "https://www.science.org/journal/science",
-    "reviewStatus": "pending",
-    "relatedExistingIds": [],
-    "decisionReason": "AAAS官方backissues正文实际确认Science/AAAS与综合科学身份，0036-8075/1095-9203在JCR2025机构转载第522页实际文本/视觉匹配、该版JIF Q1。Science本刊入口首次403、作者页技术失败后403立即停止；官方域名光学检索未取得可读近年三原样例，保留pending，不能只因著名综合刊/Q1而准入。",
-    "nextAction": "合法新的本刊光学原研究/完整出版史及公开作者指南与分类版本可读后按三不同正式期次规则再核准入；不重访未变化403、不以其他刊或超窗口参考文献替代。",
-    "reviewedAt": "2026-10-06"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["science"],
+    "decisionReason": "用户于2026-10-09明确要求收录综合性母刊，作为本轮范围扩展入库。复用2026-10-06已核验的身份及JCR2025/指标2024公开机构转载Q1记录；三篇光学样例改为后续补充，不作为用户指定期刊的展示门槛。当前索引和未读指南不冒充完成。",
+    "nextAction": "补当前MJL/CAS、可访问的本刊作者指南、费用及更多近期光学论文样例。既有访问限制见V1-G3O审查记录。",
+    "reviewedAt": "2026-10-09"
   },
   {
     "candidateId": "journal-26240bd42e",

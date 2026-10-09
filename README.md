@@ -20,7 +20,9 @@
 
 已实现 [SCI/SCIE、EI 索引与合集标签](docs/JOURNAL_LABELS_PLAN.md)，支持索引、领域、收录范围与分区组合筛选。索引数据仍在逐刊核验，未核实记录明确标注。
 
-- **期刊目录**：112 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、ESCI、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
+- **分页浏览**：期刊默认每页 12 本，可切换 24 / 48 本；搜索与筛选全量目录，条件变化后回到第一页。
+- **综合期刊**：已补入 Nature 与 Science 母刊；Chemical Reviews 原已收录。已知版本分区与当前索引分开记录，缺失信息明确待核实。
+- **期刊目录**：114 本光学及材料、电子、物理、生物医学与计算交叉期刊，含首本中文 EI 工程补充《光学 精密工程》。支持 SCI/SCIE、ESCI、EI、双收录、待核验、领域及 JCR / 中科院分区筛选；卡片直接显示索引、年份、学科、证据与官网入口。
 - **会议日历**：133 届国内外会议，包括 OFC、CLEO、COS、ECOC、FiO + LS、Photonics West、AOPC、AOP、EOSAM、OECC & IP、ICOCN 等；分别记录投稿、PDP、注册、通知及终稿时间。历史届次保留供查阅，不据此推算下一届。
 - **系列与往届**：98 个稳定系列关联 133 届会议，可查历届要求、关注整个系列及导出未结束届次。后续官方公告审核入库后自动归入同系列。已结束系列每 30 天进入下一届公告核验队列。
 - **时间可追溯**：精确时间提供北京时间 / UTC 切换；只有日期时不补造时刻，未知字段明确标注。
@@ -35,7 +37,7 @@
 2. 中科院同时保存 `major`（大类）与 `minor`（小类）。默认小类筛选按任一符合条件的小类匹配，具体学科见卡片展开内容，不能一概视为“光学小类”。
 3. 学校采用当年或前一年版本时，分别选择对应年份。首版保存已找到的 **2025 中科院升级版公开参考**；尚未核实的 2026 中科院记录不以“新锐分区”等其他版本代替。
 4. 来源分为官方披露、依据官方排名推算、第三方公开参考。第三方参考必须通过学校图书馆的 [中科院分区入口](https://www.fenqubiao.com/) 复核。
-5. 默认显示全部已收录期刊；选择分区体系后仅匹配当前所选维度的 1 / 2 区。EI 补充可以没有分区，需用“不限分区”查看。展开区保留其他学科记录，例如大类 2 区不代表光学小类也是 2 区。
+5. 默认显示全部已收录期刊；选择分区体系后支持当前所选维度的 1–4 区；“1/2 区精选”保留为可选合集。EI 补充可以没有分区，需用“不限分区”查看。展开区保留其他学科记录，例如大类 2 区不代表光学小类也是 2 区。
 6. SCI/SCIE、EI 和分区独立。索引证据包括出版社声明与数据库方公开来源表，逐刊注明方式、版本和核验日，尚未全面复核。已按 ISSN 完成 102 本 Compendex 来源表核验及 96 本当前 SCIE、14 本 ESCI 的 MJL 查询；见[来源表与 MJL 记录](docs/INDEX_EVIDENCE_2026-10-02.md)及[新增五刊依据](docs/JOURNAL_ADMISSION_EVIDENCE_2026-10-03.md)、[APS六刊依据](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-03.md)及[V1新两刊](docs/V1_CANDIDATE_REVIEW_2026-10-05.md#v1-g3b逐字段证据与核验边界)；来源表不等于单篇检索，页面未列某索引不代表未收录。新增光子学报/物理学报、COL/IEEE五刊及光谱刊休刊的边界见[F4–F10记录](docs/JOURNAL_CANDIDATE_EVIDENCE_2026-10-05.md)。仅更新字段时不刷新整刊核验日期。
 
 JCR 首批主要依据 [Optica 官方 2026 JCR 指标表](https://opg.optica.org/content/author/portal/item/style-metrics/)；所有具体记录的来源在 `data/journals.json`。排名推算使用 `ceil(rank / total × 4)`，并非数据库官方核验结果；并列排名或官方规则差异以 JCR 为准。
@@ -109,13 +111,13 @@ The [indexing and card labels](docs/JOURNAL_LABELS_PLAN.md) now support SCI/SCIE
 
 See the [roadmap](docs/ROADMAP.md), [verification log](docs/VERIFICATION_LOG.md), and [maintenance guide](docs/MAINTENANCE.md) for the next milestones and the scope of actual source reviews. Run `pnpm report:maintenance` to generate an offline queue of imminent dates, missing fields and ranking evidence requiring review. CI publishes this queue as an artifact; source checks also identify affected records and fields.
 
-The catalog contains **112 journals and 133 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
+The catalog contains **114 journals and 133 conference editions**, covering optics and selected materials, electronics, and computational imaging topics. Journals are paginated (12, 24 or 48 per page); search and filters apply to the full catalog. Nature and Science are included alongside the existing Chemical Reviews. Search journals by index, subject, collection, ranking system, edition year, CAS major/minor category, quartile, and evidence level. Optics and Precision Engineering is the first Chinese EI supplement entry, without an assumed ranking. Conference cards provide official notices, submission requirements, venues, and separate deadlines for papers, PDPs, registration, notifications, and final manuscripts.
 
 Exact timestamps can be displayed in Beijing time or UTC. Date-only announcements retain their uncertainty. Unknown dates remain unknown. A Chinese beginner guide explains submission, registration, presentation, preprints, publication, and fees.
 
 ### Ranking policy
 
-JCR and CAS rankings are independent. JCR edition and metric years are stored separately. CAS major and minor categories are never substituted for each other. A matching minor category may be outside optics; inspect the actual category in each record. Only Q1/Q2 records qualify when a ranking filter is selected; other categories remain visible for context. The default collection includes EI supplements without rankings.
+JCR and CAS rankings are independent. JCR edition and metric years are stored separately. CAS major and minor categories are never substituted for each other. A matching minor category may be outside optics; inspect the actual category in each record. Ranking filters support Q1–Q4; the Q1/Q2 collection remains an optional subset. The default collection includes EI supplements without rankings.
 
 The initial CAS coverage consists of publicly available **2025 upgraded-edition references**. Unverified 2026 records are not filled from unrelated ranking products. For institutions accepting the current or preceding year, select and verify each eligible edition through the institution's library. Missing data means unverified, not unranked.
 

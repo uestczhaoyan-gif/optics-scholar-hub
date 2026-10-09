@@ -8685,5 +8685,116 @@
         "relevance": "实读官方Research Article完整摘要/出版史：正式期122(32):e2504578122，Published online2025-08-07、Published in issue2025-08-12分开；Received2025-02-27/Accepted2025-07-02不是首次日。tkPAINT结合Tokuyasu冷冻切片与TIRF单蛋白成像/计数，3nm定位精度限所测细胞组织/标记条件，不能当所有样品的空间分辨率。对应文章CC BY-NC-ND 4.0；三正式期8/21/32不同且首发均在两年窗口，未审全文实验/SI。"
       }
     ]
+  },
+  {
+    "domains": ["光学", "物理", "材料", "生物医学", "信息与计算"],
+    "topics": ["综合光学", "量子光学", "光学材料", "成像与计算光学"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引尚未独立复核；2025 年 JCR 历史记录不替代当前数据库查询。待核验不代表未收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引尚未独立复核；2025 年 JCR 历史记录不替代当前数据库查询。待核验不代表未收录。"
+      }
+    ],
+    "publishing": "出版模式、开放获取费用及机构协议待核实，请查本刊当期作者指南；不沿用旗下其他期刊费用。",
+    "schedule": "具体初审、同行评审、返修和上线周期待核实，不承诺个稿处理时长。",
+    "id": "nature",
+    "name": "Nature",
+    "abbr": "Nature",
+    "publisher": "Nature Portfolio",
+    "issn": "0028-0836",
+    "eissn": "1476-4687",
+    "description": "《自然》母刊，覆盖科学与技术各领域；本目录关注具有跨学科意义的光学、光计算、量子与光功能材料研究。",
+    "website": "https://www.nature.com/nature/",
+    "guide": "https://www.nature.com/nature/for-authors",
+    "requirements": [
+      "研究需体现原创性、重要性与跨学科兴趣；先经编辑筛选，再决定是否送外审。",
+      "初投稿格式较灵活；请按本刊 Initial submission 与 Formatting guide 准备正文、图表及补充材料，其他稿型另查对应要求。",
+      "支持投稿前咨询。完整稿型篇幅、费用与当前索引仍需逐项复核；本条不表示所有投稿要求已核验。"
+    ],
+    "checkedAt": "2026-10-09",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MULTIDISCIPLINARY SCIENCES",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=521",
+        "evidence": "secondary"
+      }
+    ]
+  },
+  {
+    "domains": ["光学", "物理", "材料", "生物医学", "信息与计算"],
+    "topics": ["综合光学", "量子光学", "光学材料", "成像与计算光学"],
+    "indexes": [
+      {
+        "database": "SCIE",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引尚未独立复核；2025 年 JCR 历史记录不替代当前数据库查询。待核验不代表未收录。"
+      },
+      {
+        "database": "EI_COMPENDEX",
+        "status": "unverified",
+        "evidence": null,
+        "source": null,
+        "checkedAt": null,
+        "coverageStart": null,
+        "coverageEnd": null,
+        "note": "当前索引尚未独立复核；2025 年 JCR 历史记录不替代当前数据库查询。待核验不代表未收录。"
+      }
+    ],
+    "publishing": "出版模式、开放获取费用及机构协议待核实，请查本刊当期作者指南；不沿用旗下其他期刊费用。",
+    "schedule": "具体初审、同行评审、返修和上线周期待核实，不承诺个稿处理时长。",
+    "id": "science",
+    "name": "Science",
+    "abbr": "Science",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issn": "0036-8075",
+    "eissn": "1095-9203",
+    "description": "《科学》母刊，面向广泛科学读者；本目录关注光学、光子学、量子与相关交叉研究，不与 Science Advances 或 Science Partner Journals 混同。",
+    "website": "https://www.science.org/journal/science",
+    "guide": "https://www.science.org/content/page/science-information-authors",
+    "requirements": [
+      "通过 Science 本刊作者入口核对当前稿型及提交方式，避免误用 Science Advances 或合作期刊的投稿规则。",
+      "作者指南本次访问受限，正文篇幅、图表数量、附件与匿名要求尚未核实；提交前以本刊实时指南为准。"
+    ],
+    "checkedAt": "2026-10-06",
+    "rankings": [
+      {
+        "system": "JCR",
+        "edition": "JCR 2025",
+        "year": 2025,
+        "metricYear": 2024,
+        "category": "MULTIDISCIPLINARY SCIENCES",
+        "level": "category",
+        "quartile": 1,
+        "source": "https://uefiscdi.gov.ro/resource-865584-JCR_2024.iunie2025.pdf#page=522",
+        "evidence": "secondary"
+      }
+    ]
   }
 ]

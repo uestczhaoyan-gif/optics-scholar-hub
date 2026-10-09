@@ -1359,3 +1359,35 @@ a:not(.brand):has(svg) {
   margin: 0.6rem 0 0;
   font-size: 13px;
 }
+
+.journal-results {
+  scroll-margin-top: 24px;
+}
+.journal-pagination,
+.pagination-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.journal-pagination {
+  justify-content: space-between;
+  margin: 16px 0;
+  font-size: 13px;
+}
+.journal-page-size {
+  font-size: 13px;
+}
+.journal-pagination button,
+.journal-pagination select,
+.journal-page-size select {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  background: var(--card);
+  color: var(--foreground);
+}
+.journal-pagination button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}

@@ -159,7 +159,6 @@ export function previewRankings(
         ranks = ranks.filter(
           (r) =>
             (year === 'all' || String(r.year) === year) &&
-            r.quartile <= 2 &&
             (q === 'all' || String(r.quartile) === q) &&
             (!officialOnly || ['official', 'derived'].includes(r.evidence)),
         );
@@ -302,7 +301,6 @@ export function rankingMatches(
       r.system === system &&
       (year === 'all' || String(r.year) === year) &&
       (system !== 'CAS' || r.level === level) &&
-      r.quartile <= 2 &&
       (q === 'all' || String(r.quartile) === q) &&
       (!officialOnly || r.evidence === 'official' || r.evidence === 'derived'),
   );
