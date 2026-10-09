@@ -3,9 +3,16 @@
 import { useRef, useState, type ReactNode } from 'react';
 import { paginate } from '@/lib/pagination';
 
-export function JournalPagination({ children }: { children: ReactNode[] }) {
+export function JournalPagination({
+  children,
+  size,
+  onSizeChange,
+}: {
+  children: ReactNode[];
+  size: number;
+  onSizeChange: (size: number) => void;
+}) {
   const [page, setPage] = useState(1);
-  const [size, setSize] = useState(12);
   const start = useRef<HTMLDivElement>(null);
   const result = paginate(children, page, size);
   if (!children.length) return null;
@@ -71,7 +78,7 @@ export function JournalPagination({ children }: { children: ReactNode[] }) {
           aria-label="每页期刊数量"
           value={size}
           onChange={(event) => {
-            setSize(Number(event.target.value));
+            onSizeChange(Number(event.target.value));
             setPage(1);
           }}
         >

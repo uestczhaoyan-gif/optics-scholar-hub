@@ -41,6 +41,7 @@ import {
   deadlineSortValue,
   matchesText,
   journalMatches,
+  sortJournals,
   journalDomains,
   stale,
   type Conference,
@@ -270,6 +271,7 @@ export default function Home() {
   const [quartile, setQuartile] = useState('all');
   const [evidence, setEvidence] = useState('all');
   const [sort, setSort] = useState('deadline');
+  const [journalPageSize, setJournalPageSize] = useState(12);
   const [now, setNow] = useState(() => new Date(config.snapshotAt));
   useEffect(() => {
     const initial = setTimeout(() => setNow(new Date()), 0);
@@ -324,6 +326,7 @@ export default function Home() {
   function switchTab(value: unknown) {
     if (typeof value !== 'string') return;
     setTab(value);
+    setSort('deadline');
     setQuery('');
     setTopic('全部方向');
     history.replaceState(null, '', location.pathname + '#' + value);
@@ -376,21 +379,24 @@ export default function Home() {
               nextDeadline(b, now, true) ?? { type: '', label: '', source: '' },
             ) || a.start.localeCompare(b.start),
     );
-  const filteredJournals = journals.filter(
-    (j) =>
-      matchesText(j, query) &&
-      (!favoritesOnly || favorites.ids.includes(j.id)) &&
-      (topic === '全部方向' || j.topics.includes(topic)) &&
-      journalMatches(j, {
-        collection,
-        index,
-        domain,
-        system,
-        year,
-        level,
-        quartile,
-        officialOnly: evidence === 'official',
-      }),
+  const filteredJournals = sortJournals(
+    journals.filter(
+      (j) =>
+        matchesText(j, query) &&
+        (!favoritesOnly || favorites.ids.includes(j.id)) &&
+        (topic === '全部方向' || j.topics.includes(topic)) &&
+        journalMatches(j, {
+          collection,
+          index,
+          domain,
+          system,
+          year,
+          level,
+          quartile,
+          officialOnly: evidence === 'official',
+        }),
+    ),
+    sort,
   );
   const upcoming = conferences
     .flatMap((c) =>
@@ -792,11 +798,16 @@ export default function Home() {
                       ]}
                     />
                   ) : (
-                    <span>
-                      {system === 'all'
-                        ? '按索引、领域与收录范围匹配'
-                        : '同时按所选分区匹配'}
-                    </span>
+                    <Pick
+                      label="期刊排序"
+                      value={sort === 'start' ? 'deadline' : sort}
+                      onChange={setSort}
+                      items={[
+                        { value: 'deadline', label: '目录顺序' },
+                        { value: 'name', label: '名称 A–Z' },
+                        { value: 'checked', label: '条目核验日期从新到旧' },
+                      ]}
+                    />
                   )}
                 </div>
                 <TabsContent value="conferences">
@@ -863,6 +874,8 @@ export default function Home() {
                     </p>
                   </div>
                   <JournalPagination
+                    size={journalPageSize}
+                    onSizeChange={setJournalPageSize}
                     key={JSON.stringify([
                       query,
                       topic,
@@ -874,6 +887,7 @@ export default function Home() {
                       level,
                       quartile,
                       evidence,
+                      sort,
                       favoritesOnly,
                       favoritesOnly ? favorites.ids : [],
                     ])}

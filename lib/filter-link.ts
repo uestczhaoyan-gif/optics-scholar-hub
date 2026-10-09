@@ -46,7 +46,7 @@ export function readFilterLink(
     level: ['minor', 'major'],
     quartile: ['all', '1', '2', '3', '4'],
     evidence: ['all', 'official'],
-    sort: ['deadline', 'start'],
+    sort: ['deadline', 'start', 'name', 'checked'],
   };
   const result = {
     ...filterDefaults,

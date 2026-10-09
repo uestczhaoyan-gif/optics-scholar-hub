@@ -45,6 +45,7 @@ export type Ranking = {
   total?: number;
 };
 export type Journal = {
+  aliases?: string[];
   scopeExamples?: {
     title: string;
     source: string;
@@ -276,17 +277,31 @@ export function matchesText(
     item.location,
     item.issn,
     item.eissn,
+    ...(Array.isArray(item.aliases) ? item.aliases : []),
     ...(Array.isArray(item.domains) ? item.domains : []),
     ...item.topics,
   ]
     .filter(Boolean)
     .join(' ')
-    .toLowerCase();
+    .toLowerCase()
+    .replace(/[.\-–—]/g, ' ');
   return query
     .trim()
     .toLowerCase()
+    .replace(/[.\-–—]/g, ' ')
     .split(/\s+/)
     .every((q) => hay.includes(q));
+}
+export function sortJournals(journals: Journal[], sort: string): Journal[] {
+  if (sort === 'name')
+    return [...journals].sort((a, b) => a.name.localeCompare(b.name, 'en'));
+  if (sort === 'checked')
+    return [...journals].sort(
+      (a, b) =>
+        b.checkedAt.localeCompare(a.checkedAt) ||
+        a.name.localeCompare(b.name, 'en'),
+    );
+  return journals;
 }
 export function rankingMatches(
   j: Journal,
