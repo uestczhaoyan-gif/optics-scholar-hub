@@ -31,6 +31,7 @@ export function readFilterLink(
     region: ['全部地区', '中国境内', '海外'],
     status: [
       '全部状态',
+      '未结束',
       '有投稿日期',
       'PDP 通道',
       '投稿已截止',

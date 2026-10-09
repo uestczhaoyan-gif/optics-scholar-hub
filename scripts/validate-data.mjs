@@ -81,6 +81,7 @@ for (const c of conferences) {
         'abstract',
         'pdp',
         'notification',
+        'confirmation',
         'registration',
         'camera-ready',
         'poster',

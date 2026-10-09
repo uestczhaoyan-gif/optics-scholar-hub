@@ -238,6 +238,18 @@ export function conferenceStatus(c: Conference, now: Date): string {
     return '投稿已截止';
   return '待公布';
 }
+export function conferenceStatusMatches(
+  c: Conference,
+  status: string,
+  now: Date,
+): boolean {
+  if (status === '全部状态') return true;
+  const current = conferenceStatus(c, now);
+  if (status === '未结束') return current !== '已结束';
+  if (status === '有投稿日期')
+    return ['有投稿日期', 'PDP 通道'].includes(current);
+  return current === status;
+}
 export function countdown(d: Deadline | undefined, now: Date): string {
   if (!d || deadlineState(d, now) === 'unknown') return '待公布';
   if (deadlineState(d, now) === 'past') return '已截止';

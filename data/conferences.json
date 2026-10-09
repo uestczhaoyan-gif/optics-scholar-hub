@@ -4452,7 +4452,7 @@
         "source": "https://mems27.org/authors/deadlines.html"
       },
       {
-        "type": "abstract",
+        "type": "confirmation",
         "label": "录用作者接受确认（非新摘要）",
         "at": "2026-10-15T23:59:00-10:00",
         "timezone": "Pacific/Honolulu",
@@ -4473,7 +4473,7 @@
         "source": "https://mems27.org/authors/deadlines.html"
       },
       {
-        "type": "poster",
+        "type": "confirmation",
         "label": "开放海报作者接受确认（非新海报）",
         "at": "2026-11-13T23:59:00-10:00",
         "timezone": "Pacific/Honolulu",

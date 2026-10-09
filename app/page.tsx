@@ -34,6 +34,7 @@ import topicVocabulary from '@/data/topics.json';
 import config from '@/data/site.json';
 import {
   conferenceStatus,
+  conferenceStatusMatches,
   nextDeadline,
   countdown,
   formatDeadline,
@@ -49,7 +50,7 @@ import {
 } from '@/lib/catalog';
 import { Guide, DataNotes } from './resources';
 import { JournalCard } from '@/components/journal-card';
-import { JournalPagination } from '@/components/journal-pagination';
+import { CatalogPagination } from '@/components/catalog-pagination';
 import { CalendarDownload } from '@/components/calendar-download';
 import { FilterShare } from '@/components/filter-share';
 import { readFilterLink } from '@/lib/filter-link';
@@ -272,6 +273,7 @@ export default function Home() {
   const [evidence, setEvidence] = useState('all');
   const [sort, setSort] = useState('deadline');
   const [journalPageSize, setJournalPageSize] = useState(12);
+  const [conferencePageSize, setConferencePageSize] = useState(12);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [now, setNow] = useState(() => new Date(config.snapshotAt));
   useEffect(() => {
@@ -365,20 +367,20 @@ export default function Home() {
         (!favoritesOnly || favorites.ids.includes(c.id)) &&
         (topic === '全部方向' || c.topics.includes(topic)) &&
         (region === '全部地区' || region === c.region) &&
-        (status === '全部状态' ||
-          (status === '有投稿日期'
-            ? ['有投稿日期', 'PDP 通道'].includes(conferenceStatus(c, now))
-            : conferenceStatus(c, now) === status)),
+        conferenceStatusMatches(c, status, now),
     )
     .sort((a, b) =>
       sort === 'start'
         ? a.start.localeCompare(b.start)
-        : deadlineSortValue(
+        : Number(conferenceStatus(a, now) === '已结束') -
+            Number(conferenceStatus(b, now) === '已结束') ||
+          deadlineSortValue(
             nextDeadline(a, now, true) ?? { type: '', label: '', source: '' },
           ) -
             deadlineSortValue(
               nextDeadline(b, now, true) ?? { type: '', label: '', source: '' },
-            ) || a.start.localeCompare(b.start),
+            ) ||
+          a.start.localeCompare(b.start),
     );
   const filteredJournals = sortJournals(
     journals.filter(
@@ -662,6 +664,7 @@ export default function Home() {
                         onChange={setStatus}
                         items={options([
                           '全部状态',
+                          '未结束',
                           '有投稿日期',
                           'PDP 通道',
                           '投稿已截止',
@@ -812,6 +815,27 @@ export default function Home() {
                 </div>
               </aside>
               <section className="results">
+                {tab === 'conferences' && (
+                  <div className="active-filters" aria-label="会议快捷筛选">
+                    {['全部状态', '未结束', '有投稿日期', '已结束'].map(
+                      (value) => (
+                        <button
+                          key={value}
+                          aria-pressed={status === value}
+                          onClick={() => setStatus(value)}
+                        >
+                          {value === '全部状态'
+                            ? '全部届次'
+                            : value === '未结束'
+                              ? '未结束会议'
+                              : value === '已结束'
+                                ? '历史会议'
+                                : '有投稿日期'}
+                        </button>
+                      ),
+                    )}
+                  </div>
+                )}
                 {!!activeFilters.length && (
                   <div className="active-filters" aria-label="当前筛选条件">
                     <span>当前条件</span>
@@ -930,7 +954,20 @@ export default function Home() {
                       精确时间可切换时区；仅公布日期的条目不推定截止时刻。临近截止，请打开本届官方通知确认。
                     </p>
                   </div>
-                  <div className="conference-list">
+                  <CatalogPagination
+                    kind="会议"
+                    size={conferencePageSize}
+                    onSizeChange={setConferencePageSize}
+                    key={JSON.stringify([
+                      query,
+                      topic,
+                      region,
+                      status,
+                      sort,
+                      favoritesOnly,
+                      favoritesOnly ? favorites.ids : [],
+                    ])}
+                  >
                     {filteredConfs.map((c) => (
                       <ConferenceCard
                         key={c.id}
@@ -952,7 +989,7 @@ export default function Home() {
                         }}
                       />
                     ))}
-                  </div>
+                  </CatalogPagination>
                   {!filteredConfs.length && (
                     <Empty>
                       <EmptyHeader>
@@ -977,7 +1014,7 @@ export default function Home() {
                       仅匹配所选年份与分类的已有记录，未核实不代表未收录。
                     </p>
                   </div>
-                  <JournalPagination
+                  <CatalogPagination
                     size={journalPageSize}
                     onSizeChange={setJournalPageSize}
                     key={JSON.stringify([
@@ -1013,7 +1050,7 @@ export default function Home() {
                         }}
                       />
                     ))}
-                  </JournalPagination>
+                  </CatalogPagination>
                   {!filteredJournals.length && (
                     <Empty>
                       <EmptyHeader>

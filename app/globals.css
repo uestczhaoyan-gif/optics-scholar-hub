@@ -1366,6 +1366,10 @@ a:not(.brand):has(svg) {
 .filter-controls {
   display: contents;
 }
+.active-filters button[aria-pressed='true'] {
+  background: var(--primary);
+  color: white;
+}
 .filter-toggle {
   display: none;
 }
