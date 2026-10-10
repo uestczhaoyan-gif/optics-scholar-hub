@@ -1393,6 +1393,26 @@ a:not(.brand):has(svg) {
 .results {
   min-width: 0;
 }
+.correction-link {
+  font-size: 12px;
+}
+.site-help {
+  margin: 22px 0;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.site-help summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+.site-help ol {
+  padding-left: 22px;
+  margin-top: 12px;
+}
+.site-help li + li {
+  margin-top: 10px;
+}
 .compare-panel button:disabled {
   opacity: 0.5;
   cursor: not-allowed;

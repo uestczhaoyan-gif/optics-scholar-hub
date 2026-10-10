@@ -51,6 +51,7 @@ import {
 import { Guide, DataNotes } from './resources';
 import { JournalCard } from '@/components/journal-card';
 import { JournalCompare } from '@/components/journal-compare';
+import { CorrectionLink } from '@/components/correction-link';
 import { CatalogPagination } from '@/components/catalog-pagination';
 import { CalendarDownload } from '@/components/calendar-download';
 import { FilterShare } from '@/components/filter-share';
@@ -249,6 +250,9 @@ function ConferenceCard({
       </details>
       <footer>
         <Evidence at={c.checkedAt} now={now} />
+        <CorrectionLink
+          record={{ id: c.id, name: c.series, year: c.year, source: c.notice }}
+        />
         <span>独立学术导航 · 官方信息优先</span>
       </footer>
     </article>
@@ -953,7 +957,9 @@ export default function Home() {
                   <div className="notice">
                     <Clock3 size={17} />
                     <p>
-                      精确时间可切换时区；仅公布日期的条目不推定截止时刻。临近截止，请打开本届官方通知确认。
+                      精确时间可切换时区；仅公布日期的条目不推定截止时刻。投稿状态以论文、摘要与
+                      PDP
+                      通道判断；海报等独立通道请展开核对。临近截止，请打开本届官方通知确认。
                     </p>
                   </div>
                   <CatalogPagination

@@ -1,4 +1,5 @@
 import { External } from './external-link';
+import { CorrectionLink } from './correction-link';
 import { FavoriteButton } from './favorites';
 import {
   hasIndex,
@@ -260,6 +261,9 @@ export function JournalCard({
         </div>
       </details>
       <footer>
+        <CorrectionLink
+          record={{ id: j.id, name: j.name, source: j.guide, issn: j.issn }}
+        />
         <span className={stale(j.checkedAt, now) ? 'age stale' : 'age'}>
           条目核验 {j.checkedAt}
           {stale(j.checkedAt, now) ? ' · 超过 30 天' : ''}；索引核验日期见标签
