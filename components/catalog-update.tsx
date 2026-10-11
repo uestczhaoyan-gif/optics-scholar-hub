@@ -8,6 +8,7 @@ import site from '@/data/site.json';
 import conferenceSeries from '@/data/conference-series.json';
 import { checkCatalogUpdate } from '@/lib/catalog-update';
 import { writeFilterLink, type FilterState } from '@/lib/filter-link';
+import { External } from '@/components/external-link';
 
 export function CatalogUpdate({
   tab,
@@ -18,7 +19,7 @@ export function CatalogUpdate({
 }) {
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState(
-    '每日约 09:23（北京时间）检查来源；审核后发布数据。',
+    '版本检查仅加载本站已发布数据。维护者可运行 AI 核查，审核结果后发布；各条目完整核验日期独立记录。',
   );
   const [version, setVersion] = useState('');
   async function check() {
@@ -55,10 +56,20 @@ export function CatalogUpdate({
     <div className="catalog-update">
       <div>
         <button disabled={busy} onClick={check}>
-          {busy ? '正在检查…' : '检查数据更新'}
+          {busy ? '正在检查…' : '检查已发布版本'}
         </button>
         {version && <button onClick={reload}>加载新版</button>}
         <a href="#data">更新说明</a>
+        <External
+          href={`${site.repository}/actions/workflows/verify-information.yml`}
+        >
+          AI 核查官方信息（维护者）
+        </External>
+        <External
+          href={`${site.repository}/blob/main/docs/AUTO_VERIFICATION.md`}
+        >
+          核查操作说明
+        </External>
       </div>
       <output>{message}</output>
     </div>

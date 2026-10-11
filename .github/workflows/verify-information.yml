@@ -1,0 +1,50 @@
+name: Verify latest information (DeepSeek)
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: '范围：stale=超30天且未结束；current=全部未结束；all=含历史'
+        type: choice
+        options: [stale, current, all]
+        default: stale
+      record_ids:
+        description: '可选：journals/id 或 conferences/id，逗号分隔；覆盖范围筛选'
+        type: string
+      limit:
+        description: '每批条数 1–30；最多每条一次模型请求，会消耗 DeepSeek API 用量'
+        type: string
+        default: '10'
+      offset:
+        description: '从第几条开始（0 起）；按报告 nextOffset 运行下一批'
+        type: string
+        default: '0'
+permissions:
+  contents: read
+concurrency:
+  group: information-verification
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Fetch public sources and compare facts with DeepSeek V4.1 Flash
+        run: node scripts/verify-records.mjs
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          VERIFY_SCOPE: ${{ inputs.scope }}
+          VERIFY_IDS: ${{ inputs.record_ids }}
+          VERIFY_LIMIT: ${{ inputs.limit }}
+          VERIFY_OFFSET: ${{ inputs.offset }}
+      - name: Downloadable review report (including failures)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verification-${{ github.run_id }}
+          path: source-report/verification/
+          retention-days: 30
+          if-no-files-found: error

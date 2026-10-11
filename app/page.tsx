@@ -106,7 +106,7 @@ function Evidence({ at, now }: { at: string; now: Date }) {
   return (
     <span className={stale(at, now) ? 'age stale' : 'age'}>
       <CheckCircle2 size={13} />
-      {stale(at, now) ? '超过 30 天未核验' : '来源核验'} {at}
+      {stale(at, now) ? '超过 30 天未完整核验' : '完整核验'} {at}
     </span>
   );
 }
