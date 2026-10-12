@@ -6,6 +6,7 @@ export function validateConferenceSeries(series, conferences) {
     'Missing conference series',
   );
   const ids = new Set(),
+    recommendationOrders = new Set(),
     linked = new Set(),
     editions = new Map(conferences.map((c) => [c.id, c]));
   const url = (value) => {
@@ -21,6 +22,17 @@ export function validateConferenceSeries(series, conferences) {
       'Duplicate/invalid series ID',
     );
     ids.add(s.id);
+    if (s.uestcRecommendationOrder !== undefined) {
+      const order = s.uestcRecommendationOrder;
+      assert(
+        Number.isInteger(order) &&
+          order >= 1 &&
+          order <= 15 &&
+          !recommendationOrders.has(order),
+        'Invalid/duplicate UESTC recommendation order',
+      );
+      recommendationOrders.add(order);
+    }
     assert(typeof s.name === 'string' && s.name.trim(), 'Missing series name');
     assert(
       Array.isArray(s.aliases) &&

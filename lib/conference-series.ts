@@ -8,6 +8,7 @@ export type ConferenceSeries = {
   website: string;
   sources: string[];
   nextEditionCheckedAt: string | null;
+  uestcRecommendationOrder?: number;
 };
 
 export const seriesFavoritesKey = 'optics-scholar-hub:series-favorites:v1';

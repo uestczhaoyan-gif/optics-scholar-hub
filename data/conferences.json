@@ -56,6 +56,18 @@
         "label": "录用论文终稿截止",
         "date": "2026-10-25",
         "source": "https://www.acpconf.com/"
+      },
+      {
+        "type": "demo",
+        "label": "Demo投稿截止（历史日程）",
+        "date": "2026-08-01",
+        "source": "https://www.acpconf.com/"
+      },
+      {
+        "type": "notification",
+        "label": "普通稿录用通知（历史日程）",
+        "date": "2026-09-01",
+        "source": "https://www.acpconf.com/"
       }
     ]
   },
@@ -81,10 +93,11 @@
     "requirements": [
       "普通稿件需 35 词摘要和 3 页 summary，按照官方模板制作 PDF，列出作者、单位与版权声明。",
       "从官网 Submit a Paper 进入在线系统；截止后不允许修改。PDP 是新近重大成果通道，并非普通稿件补交。",
-      "本届规则限制已上预印本服务器的论文；提交前须仔细核对 Pre-Print Declaration。"
+      "本届规则限制已上预印本服务器的论文；提交前须仔细核对 Pre-Print Declaration。",
+      "独立Dataset Paper通道：35词摘要和3页论文；数据须可公开获取且无需私下联系作者，提供开源加载代码及README，并说明数据内容、规模、采集、格式、伦理和用途。另有数据集评估，不能仅按普通论文提交。规则：https://www.ofcconference.org/submit-a-paper/dataset-submission/"
     ],
     "publication": "录用并报告的论文进入 OFC Technical Digest；官网说明报告后的摘要论文将由 Optica 平台及 IEEE Xplore 提供。",
-    "notes": "举办时间为技术会议，展览为 3 月 9–11 日。Author Timeline 中普通论文、注册与 PDP 仅列日期，不推定精确时区。Demo Zone 有独立要求与精确截止时间，不是普通论文补交通道。",
+    "notes": "举办时间为技术会议，展览为 3 月 9–11 日。Author Timeline 中普通论文、注册与 PDP 仅列日期，不推定精确时区。Demo Zone 有独立要求与精确截止时间，不是普通论文补交通道。 2026-10-12 局部补核Dataset通道，10/20中午EDT只用于该通道，不据此推定普通稿时刻；未刷新整条完整核验日期。",
     "deadlines": [
       {
         "type": "paper",
@@ -119,6 +132,13 @@
         "label": "PDP 截止",
         "date": "2027-02-23",
         "source": "https://www.ofcconference.org/submit-a-paper/author-timeline/"
+      },
+      {
+        "type": "paper",
+        "label": "Dataset Paper独立数据集论文截止",
+        "at": "2026-10-20T12:00:00-04:00",
+        "timezone": "America/New_York",
+        "source": "https://www.ofcconference.org/submit-a-paper/dataset-submission/"
       }
     ]
   },
@@ -4718,7 +4738,7 @@
       "截至10月24日参会费含21%VAT：IEEE会员USD1361.25、非会员USD1633.50、学生/终身会员减价USD907.50。正式论文作者须9月13日前全额非学生注册并现场报告，一份最多两稿；学生/单日减价不覆盖发表。10月1日取消界限已过，不能据新注册期承诺退款。"
     ],
     "publication": "普通录用论文送IEEE Xplore还须符合其范围/质量及全额作者注册/报告条件，为主办方声明不是实际EI单篇证明；Option B另由Sensors Letters评审，扩展稿可投Sensors Journal非自动录用。Open Poster不出版。",
-    "notes": "当前CFP_08和主页把普通截止延至7/2、终稿9/13；Council旧CFP_02的6/18、8/30只留历史。通知当前主页8/24与CFP_08的8/23不一致，按主页保存并注明冲突。已录用数字海报10/5上传与Open Poster10/16分开；只有日期，无时区不造UTC。酒店优惠10/22–29不作会期，未来届次尚未核实。",
+    "notes": "当前CFP_08和主页把普通截止延至7/2、终稿9/13；Council旧CFP_02的6/18、8/30只留历史。通知当前主页8/24与CFP_08的8/23不一致，按主页保存并注明冲突。已录用数字海报10/5上传与Open Poster10/16分开；只有日期，无时区不造UTC。酒店优惠10/22–29不作会期，2027届已另行收录，仅会期和城市获官方目录确认。",
     "deadlines": [
       {
         "type": "paper",
@@ -6908,6 +6928,247 @@
         "label": "2026早价注册截止",
         "date": "2026-04-30",
         "source": "https://2026.ieeeigarss.org/registration.asp"
+      }
+    ]
+  },
+  {
+    "region": "中国境内",
+    "checkedAt": "2026-10-12",
+    "evidence": "official",
+    "registration": "https://b2b.csoe.org.cn/registration/WCPS2026_cn.html",
+    "submissionState": "published",
+    "id": "wcps-2026",
+    "series": "WCPS",
+    "year": 2026,
+    "name": "中国国际西部光电子大会",
+    "nameEn": "West China Photonics Symposium (PW-China / Photonics West China)",
+    "location": "中国 · 成都",
+    "venue": "具体场馆待官方确认",
+    "start": "2026-12-04",
+    "end": "2026-12-06",
+    "topics": ["综合光学", "激光与非线性", "光学材料"],
+    "description": "中国国际西部光电子大会，2026 官网使用 WCPS。学院名单使用 PW-China；与美国 SPIE Photonics West 分开收录。12 月 4 日报到。",
+    "website": "https://b2b.csoe.org.cn/meeting/WCPS2026.html",
+    "notice": "https://b2b.csoe.org.cn/meeting/WCPS2026.html#1222_1223",
+    "requirements": [
+      "官网要求英文摘要“少于500字”，未清楚区分字/词；提交前应按当届模板向会务确认，不能自行改写为500词。投稿入口：https://b2b.csoe.org.cn/submission/WCPS2026_cn.html 。",
+      "可仅交摘要参加学术交流；拟出版论文还需经过评审、按选定出版渠道提交全文，不能以摘要录用替代全文录用。",
+      "注册页列 10 月 31 日（含）前非学生 3407 元、学生（非在职）1807 元；之后分别 3607 / 2007 元；会员分别 2807 / 1807 元。住宿、出版费另计，页面列出版费 2500 元，支付前核对最终订单。"
+    ],
+    "publication": "官网列推荐期刊和论文集渠道，按论文质量及相应评审决定；不承诺全部稿件出版或检索。",
+    "notes": "2026-10-12 读取当届首页、投稿和注册页。会期按横幅及基本信息 12/4–6；简介仍残留“11月底”。侧栏第一轮截止写2026-10-20，投稿正文却写2025-10-20，存在旧年份冲突，因此投稿截止不作为已确认日期。早鸟日期以注册页2026表格为据；具体酒店及全文格式仍待确认。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "第一轮摘要截止待确认（侧栏2026-10-20，正文2025旧年份冲突）",
+        "date": null,
+        "source": "https://b2b.csoe.org.cn/meeting/WCPS2026.html#1222_1223"
+      },
+      {
+        "type": "registration",
+        "label": "早期注册费率最后一天（含当天）",
+        "date": "2026-10-31",
+        "source": "https://b2b.csoe.org.cn/meeting/WCPS2026.html#1220_1221"
+      }
+    ]
+  },
+  {
+    "region": "中国境内",
+    "checkedAt": "2026-10-12",
+    "evidence": "official",
+    "registration": "https://b2b.csoe.org.cn/registration/NDTA2026_cn.html",
+    "submissionState": "published",
+    "id": "ndta-2026",
+    "series": "NDTA",
+    "year": 2026,
+    "name": "新型显示技术与应用国际会议",
+    "nameEn": "International Conference on Novel Display Technology and Application",
+    "location": "中国 · 苏州",
+    "venue": "苏州宝带桥国际大酒店，吴中区太湖东路1号",
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "topics": ["电子与器件", "光学材料", "成像与计算光学"],
+    "description": "新型显示技术及应用会议，涵盖显示器件、材料和相关光电技术。会期及酒店已有官方依据；摘要长度的中英文冲突单独保留。",
+    "website": "https://b2b.csoe.org.cn/meeting/NDTA2026.html",
+    "notice": "https://b2b.csoe.org.cn/meeting/NDTA2026.html",
+    "requirements": [
+      "英文摘要长度：中文段要求300–500词，英文段要求500–600词，尚未统一。请向组委会确认并以当届模板为准，不把任一版本标作确定要求。",
+      "投稿入口：https://b2b.csoe.org.cn/submission/NDTA2026_cn.html 。中文全文通过会议平台提交；英文摘要在会议平台审阅，录用后按后续通知向SPIE提交全文，不能将摘要入口视为英文全文入口。",
+      "每篇论文至少一位作者注册并报告。注册页9月15日后普通参会费3208元、学生2208元；会员2808元、学生会员2008元；出版费另计，官网列SPIE出版费2500元，支付前向会务确认。"
+    ],
+    "publication": "英文全文拟走SPIE论文集评审流程，仍需全文录用、作者注册与报告等条件；摘要录用不等于出版或已被检索。",
+    "notes": "2026-10-12 按官网确认日期、酒店和投稿/注册说明后正式收录；并未解决摘要字数冲突。第二轮9/30已过，不能认定仍开放。SPIE全文入口及最终模板仍待公布/核实，下载通知本次未能读取。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "第二轮投稿截止（已过，未确认延期）",
+        "date": "2026-09-30",
+        "source": "https://b2b.csoe.org.cn/meeting/NDTA2026.html"
+      },
+      {
+        "type": "camera-ready",
+        "label": "英文全文提交截止待确认",
+        "date": null,
+        "source": "https://b2b.csoe.org.cn/meeting/NDTA2026.html"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-12",
+    "evidence": "official",
+    "registration": null,
+    "submissionState": "unknown",
+    "id": "ieee-sensors-2027",
+    "series": "IEEE SENSORS",
+    "year": 2027,
+    "name": "第26届IEEE传感器会议",
+    "nameEn": "26th IEEE Conference on Sensors",
+    "location": "澳大利亚 · 悉尼",
+    "venue": "具体场馆待公布",
+    "start": "2027-10-24",
+    "end": "2027-10-27",
+    "topics": ["传感与测量", "电子与器件"],
+    "description": "IEEE Sensors Council 已公布的2027届预告。保留对光学传感方向的关注；当届专题与投稿要求尚待CFP。",
+    "website": "https://ieee-sensors.org/conferences/?_sft_category=conference-sensors",
+    "notice": "https://ieee-sensors.org/conferences/?_sft_category=conference-sensors",
+    "requirements": [
+      "目前仅确认官方目录中的会期和城市。2027届篇幅、模板、轨道、作者注册及报告要求待公布，不沿用2026届规则。"
+    ],
+    "publication": "2027届出版条件尚未核实，不将往届Xplore规则视为本届承诺。",
+    "notes": "2026-10-12 核对Council会议目录。仅为未来届次预告，尚无已核实的当届投稿或注册入口。",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "2027届投稿截止待公布",
+        "date": null,
+        "source": "https://ieee-sensors.org/conferences/?_sft_category=conference-sensors"
+      },
+      {
+        "type": "registration",
+        "label": "2027届注册安排待公布",
+        "date": null,
+        "source": "https://ieee-sensors.org/conferences/?_sft_category=conference-sensors"
+      }
+    ]
+  },
+  {
+    "region": "海外",
+    "checkedAt": "2026-10-12",
+    "evidence": "official",
+    "registration": null,
+    "submissionState": "unknown",
+    "id": "pvsc-2027",
+    "series": "IEEE PVSC",
+    "year": 2027,
+    "name": "第55届IEEE光伏专家会议",
+    "nameEn": "55th IEEE Photovoltaic Specialists Conference",
+    "location": "美国 · 加利福尼亚州帕萨迪纳",
+    "venue": "具体场馆待核实",
+    "start": "2027-06-20",
+    "end": "2027-06-24",
+    "topics": ["光学材料", "电子与器件"],
+    "description": "IEEE光伏专家会议，光伏材料、器件及光电转换相关研究。官方首页已发布2027届会期与城市。",
+    "website": "https://ieee-pvsc.org/web/index.php",
+    "notice": "https://ieee-pvsc.org/web/index.php",
+    "requirements": [
+      "2027届摘要篇幅、模板、投稿截止及作者注册要求尚未核实；不能直接使用2026届规则。"
+    ],
+    "publication": "2027届论文集和出版条件待当届官方通知确认。",
+    "notes": "2026-10-12 核对55th PVSC首页及主席邀请。当前是未来预告，投稿和注册尚无已核实信息。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "2027届摘要截止待公布",
+        "date": null,
+        "source": "https://ieee-pvsc.org/web/index.php"
+      },
+      {
+        "type": "registration",
+        "label": "2027届注册截止待公布",
+        "date": null,
+        "source": "https://ieee-pvsc.org/web/index.php"
+      }
+    ]
+  },
+  {
+    "region": "中国境内",
+    "checkedAt": "2026-10-12",
+    "evidence": "official",
+    "registration": null,
+    "submissionState": "closed",
+    "id": "pld-2026",
+    "series": "PLD",
+    "year": 2026,
+    "name": "第12届环太平洋激光损伤会议",
+    "nameEn": "12th Pacific Rim Laser Damage",
+    "location": "中国 · 杭州",
+    "venue": "具体酒店本次未核实",
+    "start": "2026-05-20",
+    "end": "2026-05-23",
+    "topics": ["激光与非线性", "光学材料", "光学设计与制造"],
+    "description": "光学材料、薄膜及器件的激光损伤会议。2026届已结束，保留历史准备信息；与美国SPIE Laser Damage系列区分。",
+    "website": "https://www.htcis.net/MeetingMain/Index/PLD2026",
+    "notice": "https://www.htcis.net/MeetingNewsInfo/Index/20251103-NSIF-FE70AC4D",
+    "requirements": [
+      "历史规则：提交250词摘要，2026年4月15日截止；通常约两周内通知，不将近似周数换算成确定日期。",
+      "拟出版全文在摘要录用后按SPIE流程提交，官网要求至少6页，截止2026年6月15日。仅在会议平台提交摘要可用于交流，不等于完成全文出版提交。",
+      "论文作者须注册、到会并报告；未报告稿件不出版。海报页同时写“A0 portrait”与750×1300 mm，规格存在歧义，应向会务确认，勿自动替换为标准A0尺寸。"
+    ],
+    "publication": "当届拟收入SPIE会议录，需全文评审和注册、报告等条件；官网宣传的索引不等同于单篇已完成检索。",
+    "notes": "2026-10-12 读取PLD2026首页横幅和当届投稿说明。轮播中旧届照片不作本届日期依据。暂未核实后续届次，不能据周期生成2027/2028日期。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史摘要截止（250词）",
+        "date": "2026-04-15",
+        "source": "https://www.htcis.net/MeetingNewsInfo/Index/20251103-NSIF-FE70AC4D"
+      },
+      {
+        "type": "camera-ready",
+        "label": "历史SPIE全文截止（至少6页）",
+        "date": "2026-06-15",
+        "source": "https://www.htcis.net/MeetingNewsInfo/Index/20251103-NSIF-FE70AC4D"
+      }
+    ]
+  },
+  {
+    "region": "中国境内",
+    "checkedAt": "2026-10-12",
+    "evidence": "official",
+    "registration": null,
+    "submissionState": "closed",
+    "id": "foc-2023",
+    "series": "FOC",
+    "year": 2023,
+    "name": "第五届光学薄膜前沿国际会议",
+    "nameEn": "5th Frontiers of Optical Coatings",
+    "location": "中国 · 天津",
+    "venue": "具体场馆本次未核实",
+    "start": "2023-10-22",
+    "end": "2023-10-26",
+    "topics": ["光学设计与制造", "光学材料"],
+    "description": "光学薄膜前沿会议。主办单位会后报道可确认2023届，作为历史记录收录；尚无已核实的新届次公告。",
+    "website": "https://ipoe.tongji.edu.cn/info/1047/3855.htm",
+    "notice": "https://ipoe.tongji.edu.cn/info/1047/3855.htm",
+    "requirements": [
+      "主办单位报道确认2023年10月22–26日在天津举行。历史摘要篇幅、模板及原始会议投稿截止尚未核实。",
+      "会后Optical Engineering专刊独立征稿：2023年10月1日开启，2024年2月1日截止，仍须期刊审稿；此日期不是会议摘要截止。"
+    ],
+    "publication": "会后Optical Engineering专刊有独立审稿要求，不代表所有参会摘要自动成为期刊论文。",
+    "notes": "2026-10-12 核对同济大学主办单位2023报道及2026回顾线索，未确认后续届次。该系列不同于Optica OIC，不借用OIC日期和稿规。",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "历史会议摘要截止未核实",
+        "date": null,
+        "source": "https://ipoe.tongji.edu.cn/info/1047/3855.htm"
+      },
+      {
+        "type": "paper",
+        "label": "历史会后Optical Engineering专刊截止（独立审稿）",
+        "date": "2024-02-01",
+        "source": "https://ipoe.tongji.edu.cn/info/1047/3855.htm"
       }
     ]
   }

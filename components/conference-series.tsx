@@ -10,6 +10,7 @@ import {
 import { FavoriteButton, useFavorites } from './favorites';
 import { External } from './external-link';
 import { CalendarDownload } from './calendar-download';
+import { ConferenceRecommendation } from './conference-recommendation';
 
 export function ConferenceSeriesDirectory({
   series,
@@ -26,6 +27,7 @@ export function ConferenceSeriesDirectory({
 }) {
   const [query, setQuery] = useState('');
   const [onlyFollowed, setOnlyFollowed] = useState(false);
+  const [onlyRecommended, setOnlyRecommended] = useState(false);
   // Keep the vocabulary stable across renders so loading storage cannot reset selections.
   const [knownIds] = useState(() => series.map((s) => s.id));
   const favorites = useFavorites(knownIds, seriesFavoritesKey);
@@ -33,6 +35,7 @@ export function ConferenceSeriesDirectory({
     (s) =>
       (!selectedId || s.id === selectedId) &&
       (!onlyFollowed || favorites.ids.includes(s.id)) &&
+      (!onlyRecommended || !!s.uestcRecommendationOrder) &&
       [
         s.name,
         ...s.aliases,
@@ -80,6 +83,15 @@ export function ConferenceSeriesDirectory({
           </button>
         )}
       </div>
+      <label className="recommendation-filter">
+        <input
+          type="checkbox"
+          checked={onlyRecommended}
+          onChange={(e) => setOnlyRecommended(e.target.checked)}
+        />
+        只看光电学院推荐（2026 年名单 ·{' '}
+        {series.filter((s) => s.uestcRecommendationOrder).length} 个系列）
+      </label>
       <output className="muted series-count">
         {shown.length} / {series.length} 个系列 · 已关注 {favorites.ids.length}{' '}
         个，保存在本浏览器
@@ -104,6 +116,7 @@ export function ConferenceSeriesDirectory({
                   onToggle={() => favorites.toggle(s.id)}
                 />
               </div>
+              <ConferenceRecommendation order={s.uestcRecommendationOrder} />
               <p
                 className={upcoming ? 'series-outlook' : 'series-outlook muted'}
               >
@@ -157,7 +170,9 @@ export function ConferenceSeriesDirectory({
         })}
       </div>
       {!shown.length && (
-        <p>暂无匹配系列。可清空搜索、取消“只看关注”或查看全部系列。</p>
+        <p>
+          暂无匹配系列。可清空搜索、取消“只看关注”或“只看光电学院推荐”，或查看全部系列。
+        </p>
       )}
     </section>
   );

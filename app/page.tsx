@@ -62,8 +62,14 @@ import { CatalogUpdate } from '@/components/catalog-update';
 import rawSeries from '@/data/conference-series.json';
 import { ConferenceSeriesDirectory } from '@/components/conference-series';
 import type { ConferenceSeries } from '@/lib/conference-series';
+import { ConferenceRecommendation } from '@/components/conference-recommendation';
 const conferences = rawConferences as Conference[];
 const conferenceSeries = rawSeries as ConferenceSeries[];
+const recommendationByEdition = new Map(
+  conferenceSeries.flatMap((s) =>
+    s.editionIds.map((id) => [id, s.uestcRecommendationOrder] as const),
+  ),
+);
 const journals = rawJournals as Journal[];
 const knownIds = [...conferences, ...journals].map((item) => item.id);
 const options = (values: string[]) =>
@@ -131,6 +137,7 @@ function ConferenceCard({
         <div className="eyebrow">
           <FavoriteButton name={`${c.series} ${c.year}`} {...favorite} />
           <span>{c.region}</span>
+          <ConferenceRecommendation order={recommendationByEdition.get(c.id)} />
           <span
             className={
               'status ' +

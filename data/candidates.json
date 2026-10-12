@@ -1358,10 +1358,10 @@
     "scopeHint": "光学传感、光 MEMS、微纳光学器件",
     "sourceEntry": "https://2026.ieee-sensorsconference.org/",
     "reviewStatus": "admitted",
-    "relatedExistingIds": ["ieee-sensors-2026"],
+    "relatedExistingIds": ["ieee-sensors-2026", "ieee-sensors-2027"],
     "decisionReason": "当届官网/CFP有日期场馆及Optical Sensors专题；普通、期刊与不出版Open Poster路径明确，延期与通知冲突留存。",
-    "nextAction": "优先10/5已录用展示文件与10/16开放海报；继续核通知8/23–24冲突、实际注册系统/模板和后续届次。",
-    "reviewedAt": "2026-10-04"
+    "nextAction": "2027届会期与城市已入库，继续关注当届CFP及注册公告；2026字段冲突仍需核对。",
+    "reviewedAt": "2026-10-12"
   },
   {
     "candidateId": "conference-series-ca6b879229",
@@ -1510,17 +1510,17 @@
   },
   {
     "candidateId": "conference-series-0f129eecc0",
-    "name": "NDTA 2026",
-    "aliases": [],
+    "name": "NDTA",
+    "aliases": ["NDTA 2026", "新型显示技术与应用国际会议"],
     "kind": "conference-series",
     "priority": 1,
     "scopeHint": "2026-09-30 桌面官方页确认 11 月 13–15 日；Hotel & Travel 已列苏州宝带桥国际大酒店（江苏苏州吴中区太湖东路 1 号）。英文摘要中文段 300–500 词、英文段 500–600 词仍冲突。",
     "sourceEntry": "https://b2b.csoe.org.cn/meeting/NDTA2026.html",
-    "reviewStatus": "deferred",
-    "relatedExistingIds": [],
-    "decisionReason": "具体酒店已补官方依据，但中英文投稿段摘要长度仍冲突，继续暂缓；不选一个长度作为确定规则。",
-    "nextAction": "待官方统一英文摘要长度，并核对最新通知/模板是否明确替代网页冲突；第二轮投稿为 2026-09-30，后续勿当未来截止。注册 9/15 两档边界及英文全文入口仍待核实。",
-    "reviewedAt": "2026-09-30"
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["ndta-2026"],
+    "decisionReason": "会期、酒店、系列身份已有官方依据；摘要长度冲突保留为字段级待确认，不阻止展示已确认信息。",
+    "nextAction": "向会务确认摘要长度、英文全文入口及后续截止。",
+    "reviewedAt": "2026-10-12"
   },
   {
     "candidateId": "event-1a5ffb9ec4",
@@ -3898,5 +3898,61 @@
     "decisionReason": "官方当前首页明确第28届、2027-09-08–10及深圳国际会展中心（宝安），作为独立2027母展收录。",
     "nextAction": "跟踪2027观众登记及同期独立会议公告，核实规则后补充；当前2026会议表不证明2027子活动已公布。",
     "reviewedAt": "2026-10-03"
+  },
+  {
+    "candidateId": "conference-series-wcps",
+    "name": "WCPS",
+    "aliases": ["PW-China", "Photonics West China", "中国国际西部光电子大会"],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "中国国际西部光电子大会，2026 官网使用 WCPS。学院名单使用 PW-China；与美国 SPIE Photonics West 分开收录。12 月 4 日报到。",
+    "sourceEntry": "https://b2b.csoe.org.cn/meeting/WCPS2026.html",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["wcps-2026"],
+    "decisionReason": "学院名单系列身份与官方当届公告/主办单位报道相符；已确认字段正式收录，缺口和冲突明示。",
+    "nextAction": "继续核对未公布字段及后续届次，不沿用往届规则。",
+    "reviewedAt": "2026-10-12"
+  },
+  {
+    "candidateId": "conference-series-ieee-pvsc",
+    "name": "IEEE PVSC",
+    "aliases": ["PVSC", "Photovoltaic Specialists Conference"],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "IEEE光伏专家会议，光伏材料、器件及光电转换相关研究。官方首页已发布2027届会期与城市。",
+    "sourceEntry": "https://ieee-pvsc.org/web/index.php",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["pvsc-2027"],
+    "decisionReason": "学院名单系列身份与官方当届公告/主办单位报道相符；已确认字段正式收录，缺口和冲突明示。",
+    "nextAction": "继续核对未公布字段及后续届次，不沿用往届规则。",
+    "reviewedAt": "2026-10-12"
+  },
+  {
+    "candidateId": "conference-series-pld",
+    "name": "PLD",
+    "aliases": ["Pacific Rim Laser Damage"],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "光学材料、薄膜及器件的激光损伤会议。2026届已结束，保留历史准备信息；与美国SPIE Laser Damage系列区分。",
+    "sourceEntry": "https://www.htcis.net/MeetingMain/Index/PLD2026",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["pld-2026"],
+    "decisionReason": "学院名单系列身份与官方当届公告/主办单位报道相符；已确认字段正式收录，缺口和冲突明示。",
+    "nextAction": "继续核对未公布字段及后续届次，不沿用往届规则。",
+    "reviewedAt": "2026-10-12"
+  },
+  {
+    "candidateId": "conference-series-foc",
+    "name": "FOC",
+    "aliases": ["Frontiers of Optical Coatings"],
+    "kind": "conference-series",
+    "priority": 1,
+    "scopeHint": "光学薄膜前沿会议。主办单位会后报道可确认2023届，作为历史记录收录；尚无已核实的新届次公告。",
+    "sourceEntry": "https://ipoe.tongji.edu.cn/info/1047/3855.htm",
+    "reviewStatus": "admitted",
+    "relatedExistingIds": ["foc-2023"],
+    "decisionReason": "学院名单系列身份与官方当届公告/主办单位报道相符；已确认字段正式收录，缺口和冲突明示。",
+    "nextAction": "继续核对未公布字段及后续届次，不沿用往届规则。",
+    "reviewedAt": "2026-10-12"
   }
 ]

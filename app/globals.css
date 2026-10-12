@@ -1519,3 +1519,25 @@ a:not(.brand):has(svg) {
   opacity: 0.45;
   cursor: not-allowed;
 }
+.conference-recommendation {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #a9bfcf;
+  border-radius: 999px;
+  padding: 3px 8px;
+  color: #244c66;
+  background: #eef5fa;
+  font-size: 11px;
+  line-height: 1.5;
+  text-decoration: none;
+}
+.conference-recommendation:hover {
+  text-decoration: underline;
+}
+.recommendation-filter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 0;
+  font-size: 13px;
+}
