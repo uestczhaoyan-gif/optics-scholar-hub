@@ -250,6 +250,43 @@ test('report treats model and website text as data rather than executable markdo
   assert(text.includes('待审核'));
 });
 
+test('report keeps source href separate from quoted text and markdown table delimiters', () => {
+  const report = {
+    checkedAt: 'today',
+    commit: 'abc',
+    total: 1,
+    remaining: 0,
+    nextOffset: 1,
+    records: [
+      {
+        catalog: 'conferences',
+        id: 'x',
+        name: 'X',
+        status: 'awaiting-human-review',
+        originalCheckedAt: 'old',
+        sources: [],
+        fields: [
+          {
+            ...structuredClone(claim),
+            before: field.value,
+            proposed: claim.value,
+          },
+        ],
+      },
+    ],
+  };
+  const md = markdownReport(report);
+  assert(md.includes('[来源](<https://example.org/cfp>) — “The 2027'));
+  assert(!md.includes('cfp：“'));
+  report.records[0].fields[0].citations[0] = {
+    url: 'https://example.org/?a=1|2',
+    quote: 'A | B <test>',
+  };
+  const safe = markdownReport(report);
+  assert(safe.includes('a=1%7C2>'));
+  assert(safe.includes('A &#124; B &#60;test&#62;'));
+});
+
 test('batch writes review artifacts without modifying data or persisting credentials/full pages; auth failure stops', async () => {
   const root = await fs.mkdtemp(path.join(os.tmpdir(), 'optics-verification-'));
   const previous = process.cwd();

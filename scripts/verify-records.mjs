@@ -166,6 +166,16 @@ const escapeMD = (value) =>
   String(value)
     .replace(/[&<>|`[\]*_]/g, (c) => `&#${c.charCodeAt(0)};`)
     .replace(/[\r\n]+/g, ' ');
+const sourceLink = (value) => {
+  try {
+    const url = new URL(value);
+    if (url.protocol !== 'https:' || url.username || url.password)
+      return escapeMD(value);
+    return `[来源](<${url.href.replace(/\|/g, '%7C')}>)`;
+  } catch {
+    return escapeMD(value);
+  }
+};
 export function markdownReport(report) {
   const lines = [
     '# 官方信息自动核查（待审核）',
@@ -189,7 +199,7 @@ export function markdownReport(report) {
     if (result.error) lines.push(`异常：${escapeMD(result.error)}`, '');
     for (const source of result.sources)
       lines.push(
-        `- 来源：${escapeMD(source.url)} — ${source.status}${source.truncated ? '（正文截断）' : ''}`,
+        `- ${sourceLink(source.url)} — ${escapeMD(source.url)} — ${source.status}${source.truncated ? '（正文截断）' : ''}`,
       );
     lines.push(
       '',
@@ -198,7 +208,7 @@ export function markdownReport(report) {
     );
     for (const field of result.fields)
       lines.push(
-        `| ${escapeMD(field.path)} | ${{ consistent: '与原文一致（待审核）', changed: '建议修改', uncertain: '无法确认' }[field.status]} | ${escapeMD(JSON.stringify(field.before))} | ${field.status === 'changed' ? escapeMD(JSON.stringify(field.proposed)) : '—'} | ${escapeMD(field.reason)} ${field.citations.map((c) => `${escapeMD(c.url)}：“${escapeMD(c.quote)}”`).join('；')} |`,
+        `| ${escapeMD(field.path)} | ${{ consistent: '与原文一致（待审核）', changed: '建议修改', uncertain: '无法确认' }[field.status]} | ${escapeMD(JSON.stringify(field.before))} | ${field.status === 'changed' ? escapeMD(JSON.stringify(field.proposed)) : '—'} | ${escapeMD(field.reason)} ${field.citations.map((c) => `${sourceLink(c.url)} — “${escapeMD(c.quote)}”`).join('；')} |`,
       );
     lines.push('');
   }
